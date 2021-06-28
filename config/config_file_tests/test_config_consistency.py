@@ -32,6 +32,7 @@ def test_config_consistency(yamlfile):
 
         for item, doc in data.items():
             # looping through each table
+            print(item)
             for ft in doc:
                 
                 # looping through every feature and checking the conditions below
@@ -58,6 +59,7 @@ def difference_check(data, yamlfile):
         yaml_file_df = yaml.load(f, Loader=yaml.FullLoader)
 
         for item, doc in yaml_file_df.items():
+            print(item)
             for ft in doc:
                 if ft in data.columns:
                     #print(ft)

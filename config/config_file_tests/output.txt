@@ -1,3 +1,4 @@
+patient
 incorrect: ALT : dict_items([('categories', ['biolink:PhenotypicFeature']), ('enum', [0, 1]), ('type', 'integer')])
 incorrect: AST : dict_items([('categories', ['biolink:PhenotypicFeature']), ('enum', [0, 1]), ('type', 'integer')])
 incorrect: AbsoluteLymphocyteCount : dict_items([('categories', ['biolink:PhenotypicFeature']), ('enum', [0, 1]), ('type', 'integer')])
@@ -35,6 +36,7 @@ incorrect: pCO2ArterialVenous : dict_items([('categories', ['biolink:PhenotypicF
 incorrect: pH : dict_items([('categories', ['biolink:PhenotypicFeature']), ('enum', [0, 1]), ('type', 'integer')])
 incorrect: pO2Arterial : dict_items([('categories', ['biolink:PhenotypicFeature']), ('enum', [0, 1]), ('type', 'integer')])
 incorrect: pO2FiO2ratio : dict_items([('categories', ['biolink:PhenotypicFeature']), ('enum', [0, 1]), ('type', 'integer')])
+visit
 incorrect: ALT : dict_items([('categories', []), ('enum', [0, 1]), ('type', 'integer')])
 incorrect: ALTVisit : dict_items([('categories', []), ('enum', [0, 1]), ('type', 'integer')])
 incorrect: AST : dict_items([('categories', []), ('enum', [0, 1]), ('type', 'integer')])
