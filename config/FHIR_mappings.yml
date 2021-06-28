@@ -55,6 +55,10 @@ FHIR:
       # note: http://www.icd9data.com/2014/Volume1/520-579/570-579/573/default.htm
     - system: https://icd.who.int
       code: ICD10:K71.*
+    - system: https://browser.ihtsdotools.org
+      code: 'SCTID:427399008'
+            # note: https://browser.ihtsdotools.org/?perspective=full&conceptId1=427399008&edition=MAIN/2020-07-31&release=&languages=en
+            # note: Drug-induced liver injury
   # note: https://www.icd10data.com/ICD10CM/Codes/K00-K95/K70-K77/K71-
   NeonatalRespiratoryDistressDx:
     Condition:
@@ -388,12 +392,6 @@ FHIR:
       code: '1427295'
     - system: http://www.nlm.nih.gov/research/umls/rxnorm
       code: '1427294'
-  DILIDx:
-    Condition:
-    - system: https://browser.ihtsdotools.org
-      code: 'SCTID: 427399008'
-            # note: https://browser.ihtsdotools.org/?perspective=full&conceptId1=427399008&edition=MAIN/2020-07-31&release=&languages=en
-            # note: Drug-induced liver injury
   # CAFO Exposure:
   #     Observation:
   #         - system: 
