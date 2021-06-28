@@ -2641,6 +2641,10 @@ FHIR:
     MedicationRequest:
     - system: http://www.nlm.nih.gov/research/umls/rxnorm
       code: 2284718
+    - system: http://www.nlm.nih.gov/research/umls/rxnorm
+      code: 2284960
+    - system: http://www.nlm.nih.gov/research/umls/rxnorm
+      code: 2367758
             # note: https://mor.nlm.nih.gov/RxNav/search?searchBy=String&searchTerm=remdesivir
   Hydroxychloroquine:
     MedicationRequest:
