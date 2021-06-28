@@ -5,8 +5,8 @@ Created on Wed Jun 23 17:29:06 2021
 
 @author: priyash
 
-This module flags the inconsistent enumeration and attributes for given feature.yaml files for any usecase. 
-The output is the incorrect enumerated features. You can modify to print bith correct and incorrect enumerated features. 
+The modules below are to check for consistency between configuration files and underlying table data, i.e., 
+confirm that the table columns match the data type within each column
 
 """
 
@@ -16,6 +16,13 @@ import numpy as np
 
 
 def test_config_consistency(yamlfile):
+    
+    """
+    
+    This module flags the inconsistent enumeration and attributes for given feature.yaml files for any usecase. 
+    The output is the incorrect enumerated features. You can modify to print bothth correct and incorrect enumerated features. 
+
+    """
     
     with open(yamlfile) as f:
     
@@ -101,5 +108,5 @@ def print_unique_values(df):
 if __name__ == "__main__": 
     test_config_consistency() 
     difference_check()
-    #print_unique_values()
+    print_unique_values()
 
