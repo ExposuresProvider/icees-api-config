@@ -12,6 +12,7 @@ The output is the incorrect enumerated features. You can modify to print bith co
 
 
 import yaml
+import numpy as np
 
 
 def test_config_consistency(yamlfile):
@@ -41,6 +42,55 @@ def test_config_consistency(yamlfile):
                 else:
                     #print(ft,'incorrect',list(doc[ft].keys())[1],':',list(doc[ft].values())[1], 'type:', doc[ft]['type'])
                     print('incorrect:', ft, ':', doc[ft].items())
+                    
+                    
+def difference_check(data, yamlfile):
+
+    with open(yamlfile) as f:
+
+        yaml_file_df = yaml.load(f, Loader=yaml.FullLoader)
+
+        for item, doc in yaml_file_df.items():
+            for ft in doc:
+                if ft in data.columns:
+                    #print(ft)
+
+                    if data[ft].dtypes == 'object':
+                        #print(ft)
+                        uniq_val = list(data[ft].unique())
+                        if np.nan in  uniq_val:
+                            uniq_val.remove(np.nan)
+                        #print(uniq_val)
+                        if 'enum' in doc[ft].keys():
+                            diff = list(set(list(doc[ft]['enum']))-set(uniq_val))
+                            if diff == []:
+                                pass #print('correct:', ft, ':, data_uniq_val:' ,uniq_val, ',yaml_enum_val:' sorted(list(doc[ft]['enum'])), ', difference:' diff) 
+                            else:
+                                print('incorrect', ft, ':, data_uniq_val:' ,uniq_val, ',yaml_enum_val:', sorted(list(doc[ft]['enum'])), ', difference:', diff) 
+
+
+                    elif (data[ft].dtypes == 'float64') or (data[ft].dtypes == 'int64') :
+                        #print(ft)
+                        uniq_val = list(data[ft].unique())
+
+                        #print(uniq_val)
+                        #if np.nan in  uniq_val:
+                            #uniq_val.remove(np.nan)
+                        #print(uniq_val)
+
+                        mx = max(uniq_val)
+                        mi = min(uniq_val)
+
+                        if 'maximum' in doc[ft].keys():
+                            if mx==doc[ft]['maximum'] or mi==doc[ft]['minimum']:
+                                pass #print('correct', ft, doc[ft].items())
+                            else:
+                                print('incorrect', ft, doc[ft].items(), 'data_uniq_val:' ,uniq_val)
+                        elif 'enum' in doc[ft].keys():        
+                            print('switchbin', ft, doc[ft].items(), 'data_uniq_val:' ,uniq_val)
+                        else:
+                            print('no numbers/bins', ft, doc[ft].items(), 'data_uniq_val:' ,uniq_val) 
+        
 
 def print_unique_values(df):
     
@@ -50,5 +100,6 @@ def print_unique_values(df):
 
 if __name__ == "__main__": 
     test_config_consistency() 
-    print_unique_values()
+    difference_check()
+    #print_unique_values()
 
