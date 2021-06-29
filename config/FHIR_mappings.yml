@@ -4,57 +4,59 @@ FHIR:
   # New mappings
   Ventilation:
     Procedure:
-    - system: https://icd.who.int
-      code: ICD10PCS:540945Z
-    - system: https://icd.who.int
-      code: ICD10PCS:540955Z
-    - system: https://icd.who.int
-      code: ICD10PCS:540935Z
-    - system: https://icd.who.int
-      code: ICD10PCS:5A1945ZA1955Z
-    - system: https://icd.who.int
-      code: ICD10PCS:5A1935Z
+    - system: http://hl7.org/fhir/sid/icd-10-cm*
+      code: 540945Z
+    - system: http://hl7.org/fhir/sid/icd-10-cm*
+      code: 540955Z
+    - system: http://hl7.org/fhir/sid/icd-10-cm*
+      code: 540935Z
+    - system: http://hl7.org/fhir/sid/icd-10-cm*
+      code: 5A1945Z
+    - system: http://hl7.org/fhir/sid/icd-10-cm*
+      code: 5A1955Z
+    - system: http://hl7.org/fhir/sid/icd-10-cm*
+      code: 5A1935Z
     - system: https://datadictionary.nhs.uk/supporting_information/opcs_classification_of_interventions_and_procedures.html
       code: OPCS4:E85.8
-    - system: https://www.ama-assn.org/amaone/cpt-current-procedural-terminology
-      code: CTP4:1014859
-    - system: https://www.ama-assn.org/amaone/cpt-current-procedural-terminology
-      code: CPT4:94656
-    - system: https://www.ama-assn.org/amaone/cpt-current-procedural-terminology
-      code: CPT4:94003
-    - system: https://www.ama-assn.org/amaone/cpt-current-procedural-terminology
-      code: CPT4:94002
-    - system: https://www.ama-assn.org/amaone/cpt-current-procedural-terminology
-      code: CPT4:94657
-    - system: https://www.ama-assn.org/amaone/cpt-current-procedural-terminology
-      code: CPT4:1015098
-    - system: https://www.ama-assn.org/amaone/cpt-current-procedural-terminology
-      code: CPT4:4168F
+    - system: http://www.ama-assn.org/go/cpt/
+      code: "1014859"
+    - system: http://www.ama-assn.org/go/cpt/
+      code: "94656"
+    - system: http://www.ama-assn.org/go/cpt/
+      code: "94003"
+    - system: http://www.ama-assn.org/go/cpt/
+      code: "94002"
+    - system: http://www.ama-assn.org/go/cpt/
+      code: "94657"
+    - system: http://www.ama-assn.org/go/cpt/
+      code: "1015098"
+    - system: http://www.ama-assn.org/go/cpt/
+      code: 4168F
         # note: https://drive.google.com/file/d/1_4LJHn30AqJT0K7S2zRz4Wn-iZhjBmoR/view?usp=sharing
   ExtracorporealVentilationORSystemicAssistance:
     Procedure:
-    - system: https://icd.who.int
-      code: ICD10PCS:5A0945
-    - system: https://icd.who.int
-      code: ICD10PCS:5A0955
-    - system: https://icd.who.int
-      code: ICD10PCS:5A0935
-    - system: https://icd.who.int
-      code: ICD10PCS:5A1945
-    - system: https://icd.who.int
-      code: ICD10PCS:5A1955
-    - system: https://icd.who.int
-      code: ICD10PCS:5A1935
+    - system: http://hl7.org/fhir/sid/icd-10-cm*
+      code: "5A0945*"
+    - system: http://hl7.org/fhir/sid/icd-10-cm*
+      code: "5A0955*"
+    - system: http://hl7.org/fhir/sid/icd-10-cm*
+      code: "5A0935*"
+    - system: http://hl7.org/fhir/sid/icd-10-cm*
+      code: "5A1945*"
+    - system: http://hl7.org/fhir/sid/icd-10-cm*
+      code: "5A1955*"
+    - system: http://hl7.org/fhir/sid/icd-10-cm*
+      code: "5A1935*"
       # note: https://drive.google.com/file/d/1nlOmwiX17N0rByobb_bpsD0w3mTXLFhL/view?usp=sharing
   DILIDx:
     Condition:
-    - system: https://icd.who.int
-      code: ICD9:573.8
-    - system: https://icd.who.int
-      code: ICD9:573.9 
+    - system: http://hl7.org/fhir/sid/icd-9-cm*
+      code: "573.8"
+    - system: http://hl7.org/fhir/sid/icd-9-cm*
+      code: "573.9" 
       # note: http://www.icd9data.com/2014/Volume1/520-579/570-579/573/default.htm
-    - system: https://icd.who.int
-      code: ICD10:K71.*
+    - system: http://hl7.org/fhir/sid/icd-10-cm*
+      code: "K71.*"
     - system: https://browser.ihtsdotools.org
       code: 'SCTID:427399008'
             # note: https://browser.ihtsdotools.org/?perspective=full&conceptId1=427399008&edition=MAIN/2020-07-31&release=&languages=en
@@ -62,110 +64,110 @@ FHIR:
   # note: https://www.icd10data.com/ICD10CM/Codes/K00-K95/K70-K77/K71-
   NeonatalRespiratoryDistressDx:
     Condition:
-    - system: https://icd.who.int
-      code: ICD9:769.*
+    - system: http://hl7.org/fhir/sid/icd-9-cm*
+      code: 769.*
   # note: http://www.icd9data.com/2014/Volume1/760-779/764-779/default.htm
-    - system: https://icd.who.int
-      code: ICD9:770.*
+    - system: http://hl7.org/fhir/sid/icd-9-cm*
+      code: 770.*
   # note: http://www.icd9data.com/2014/Volume1/760-779/764-779/default.htm
-    - system: https://icd.who.int
-      code: ICD10:P22.*
+    - system: http://hl7.org/fhir/sid/icd-10-cm*
+      code: P22.*
   # note: https://www.icd10data.com/ICD10CM/Codes/P00-P96/P19-P29/P22-
-  LateralityDefect_SitusInversusOrHeterotaxyDx:
+  LateralityDefect_ SitusInversusOrHeterotaxyDx:
     Condition:
-    - system: https://icd.who.int
-      code: ICD9:759.3
+    - system: http://hl7.org/fhir/sid/icd-9-cm*
+      code: "759.3"
   # note: http://www.icd9data.com/2014/Volume1/740-759/759/759.3.htm
   # note: heterotaxy not in ICD9
-    - system: https://icd.who.int
-      code: ICD10:Q89.3
+    - system: http://hl7.org/fhir/sid/icd-10-cm*
+      code: Q89.3
   # note: http://www.icd9data.com/Search/?q=Situs+Inversus#gsc.tab=0&gsc.q=Situs%20Inversus&gsc.page=1
-    - system: https://icd.who.int
-      code: ICD10:Q24.8
+    - system: http://hl7.org/fhir/sid/icd-10-cm*
+      code: Q24.8
   # note: https://www.icd10data.com/ICD10CM/Codes/Q00-Q99/Q20-Q28/Q24-/Q24.8
   DailyWetCoughDx:
     Condition:
-    - system: https://icd.who.int
-      code: ICD10:R05
+    - system: http://hl7.org/fhir/sid/icd-10-cm*
+      code: R05
   # note: https://www.icd10data.com/ICD10CM/Codes/R00-R99/R00-R09/R05-/R05
   # note: not in ICD9
   MiddleEarDiseaseDx:
     Condition:
-    - system: https://icd.who.int
-      code: ICD9:380.*
-    - system: https://icd.who.int
-      code: ICD9:381.*
-    - system: https://icd.who.int
-      code: ICD9:382.*
-    - system: https://icd.who.int
-      code: ICD9:383.*
-    - system: https://icd.who.int
-      code: ICD9:384.*
-    - system: https://icd.who.int
-      code: ICD9:385.*
-    - system: https://icd.who.int
-      code: ICD9:386.*
-    - system: https://icd.who.int
-      code: ICD9:387.*
-    - system: https://icd.who.int
-      code: ICD9:388.*
-    - system: https://icd.who.int
-      code: ICD9:389.*
+    - system: http://hl7.org/fhir/sid/icd-9-cm*
+      code: 380.*
+    - system: http://hl7.org/fhir/sid/icd-9-cm*
+      code: 381.*
+    - system: http://hl7.org/fhir/sid/icd-9-cm*
+      code: 382.*
+    - system: http://hl7.org/fhir/sid/icd-9-cm*
+      code: 383.*
+    - system: http://hl7.org/fhir/sid/icd-9-cm*
+      code: 384.*
+    - system: http://hl7.org/fhir/sid/icd-9-cm*
+      code: 385.*
+    - system: http://hl7.org/fhir/sid/icd-9-cm*
+      code: 386.*
+    - system: http://hl7.org/fhir/sid/icd-9-cm*
+      code: 387.*
+    - system: http://hl7.org/fhir/sid/icd-9-cm*
+      code: 388.*
+    - system: http://hl7.org/fhir/sid/icd-9-cm*
+      code: 389.*
   # note: http://www.icd9data.com/2014/Volume1/320-389/380-389/default.htm
-    - system: https://icd.who.int
-      code: ICD10:H65.*
-    - system: https://icd.who.int
-      code: ICD10:H66.*
-    - system: https://icd.who.int
-      code: ICD10:H67.*
-    - system: https://icd.who.int
-      code: ICD10:H68.*
-    - system: https://icd.who.int
-      code: ICD10:H69.*
-    - system: https://icd.who.int
-      code: ICD10:H70.*
-    - system: https://icd.who.int
-      code: ICD10:H71.*
-    - system: https://icd.who.int
-      code: ICD10:H72.*
-    - system: https://icd.who.int
-      code: ICD10:H73.*
-    - system: https://icd.who.int
-      code: ICD10:H74.*
-    - system: https://icd.who.int
-      code: ICD10:H75.*
+    - system: http://hl7.org/fhir/sid/icd-10-cm*
+      code: H65.*
+    - system: http://hl7.org/fhir/sid/icd-10-cm*
+      code: H66.*
+    - system: http://hl7.org/fhir/sid/icd-10-cm*
+      code: H67.*
+    - system: http://hl7.org/fhir/sid/icd-10-cm*
+      code: H68.*
+    - system: http://hl7.org/fhir/sid/icd-10-cm*
+      code: H69.*
+    - system: http://hl7.org/fhir/sid/icd-10-cm*
+      code: H70.*
+    - system: http://hl7.org/fhir/sid/icd-10-cm*
+      code: H71.*
+    - system: http://hl7.org/fhir/sid/icd-10-cm*
+      code: H72.*
+    - system: http://hl7.org/fhir/sid/icd-10-cm*
+      code: H73.*
+    - system: http://hl7.org/fhir/sid/icd-10-cm*
+      code: H74.*
+    - system: http://hl7.org/fhir/sid/icd-10-cm*
+      code: H75.*
   # note: https://www.icd10data.com/ICD10CM/Codes/H60-H95/H65-H75
   ChronicNasalCongestionDx:
     Condition:
-    - system: https://icd.who.int
-      code: ICD9:472.*
+    - system: http://hl7.org/fhir/sid/icd-9-cm*
+      code: 472.*
   # note: http://www.icd9data.com/2014/Volume1/460-519/470-478/472/default.htm
-    - system: https://icd.who.int
-      code: ICD10:R09.81
+    - system: http://hl7.org/fhir/sid/icd-10-cm*
+      code: R09.81
   # note: https://www.icd10data.com/ICD10CM/Codes/R00-R99/R00-R09/R09-
   BronchiectasisDx:
     Condition:
-    - system: https://icd.who.int
-      code: ICD9:748.61
+    - system: http://hl7.org/fhir/sid/icd-9-cm*
+      code: "748.61"
   # note: http://www.icd9data.com/2014/Volume1/740-759/748/748.61.htm
-    - system: https://icd.who.int
-      code: ICD10:J47
+    - system: http://hl7.org/fhir/sid/icd-10-cm*
+      code: J47*
   # note: https://www.icd10data.com/ICD10CM/Codes/J00-J99/J40-J47/J47-/J47
   MaleInfertilityDueToSpermDysfunctionDx:
     Condition:
-    - system: https://icd.who.int
-      code: ICD9:606.*
+    - system: http://hl7.org/fhir/sid/icd-9-cm*
+      code: 606.*
   # note: http://www.icd9data.com/2014/Volume1/580-629/600-608/606/default.htm
-    - system: https://icd.who.int
-      code: ICD10:N46.*
+    - system: http://hl7.org/fhir/sid/icd-10-cm*
+      code: N46*
   # note: https://www.icd10data.com/ICD10CM/Codes/N00-N99/N40-N53/N46-
   CysticFibrosisDx:
     Condition:
-    - system: https://icd.who.int
-      code: ICD9:277.0
+    - system: http://hl7.org/fhir/sid/icd-9-cm*
+      code: "277.0"
   # note: http://www.icd9data.com/2014/Volume1/240-279/270-279/277/277.0.htm
-    - system: https://icd.who.int
-      code: ICD10:E84.*
+    - system: http://hl7.org/fhir/sid/icd-10-cm*
+      code: E84*
   # note: https://www.icd10data.com/ICD10CM/Codes/E00-E89/E70-E88/E84-
 
 # ICEES-specific
@@ -176,8 +178,8 @@ FHIR:
             # note: https://browser.ihtsdotools.org/?perspective=full&conceptId1=278305009&edition=MAIN/2020-07-31&release=&languages=en 
   FeverDx:
     Condition:
-    - system: https://icd.who.int
-      code: R50
+    - system: http://hl7.org/fhir/sid/icd-10-cm*
+      code: R50*
             # note: https://icd.who.int/browse10/2019/en#/R50
   IsolationFlag:
     Procedure:
@@ -398,7 +400,7 @@ FHIR:
   #           code:
   #           note: Concentrated Animal Feeding Operations
   #           note: I could not find a concentrated animal feeding exposure event or environment indicator. The closest thing I could find on SNOMED was “animal handlers’ lung” which is not the same thing. 
-  Landfill_Exposure:
+  LandfillExposure:
     Observation:
     - system: https://browser.ihtsdotools.org
       code: 'SCTID: 285101004'
@@ -407,49 +409,53 @@ FHIR:
             # note: this variable will not be in the FHIR files
   CharlsonComorbidityIndex:
     Measurement:
-    - system: http://hl7.org/fhir/sid/icd-10-cm
+    - system: http://hl7.org/fhir/sid/icd-10-cm*
       code: M65.32
 
   # Diagnoses - ICD-10
   HypertensionDx:
     Condition:
-    - system: https://icd.who.int
-      code: I10-I15
+    - system: http://hl7.org/fhir/sid/icd-10-cm*
+      code: "I1[0-5]([.].*)?"
+      code_is_regex: true
             # note: https://icd.who.int/browse10/2019/en#/I10
   ChronicKidneyDiseaseDx:
     Condition:
-    - system: https://icd.who.int
-      code: N18
+    - system: http://hl7.org/fhir/sid/icd-10-cm*
+      code: N18*
             # note: https://icd.who.int/browse10/2019/en#/N18
   CoronaryArteryDisease:
     Condition:
-    - system: https://icd.who.int
+    - system: http://hl7.org/fhir/sid/icd-10-cm*
       code: I25.1
             # note: https://icd.who.int/browse10/2019/en#/I25.1
   HeartFailureDiseaseDx:
     Condition:
-    - system: https://icd.who.int
-      code: I50
+    - system: http://hl7.org/fhir/sid/icd-10-cm*
+      code: I50*
             # note: https://icd.who.int/browse10/2019/en#/I50
   ChronicObstructivePulmonaryDiseaseDx:
     Condition:
-    - system: https://icd.who.int
-      code: J44
+    - system: http://hl7.org/fhir/sid/icd-10-cm*
+      code: J44*
             # note: https://icd.who.int/browse10/2019/en#/J44
   LiverDiseaseDx:
     Condition:
-    - system: https://icd.who.int
-      code: K70-K77
+    - system: http://hl7.org/fhir/sid/icd-10-cm*
+      code: "K7[0-7]([.].*)?"
+      code_is_regex: true
             # note: https://icd.who.int/browse10/2019/en#/K76.9
   CancerDx:
     Condition:
-    - system: https://icd.who.int
-      code: C00-C97
+    - system: http://hl7.org/fhir/sid/icd-10-cm*
+      code: "C([0-8][0-9]|9[0-7])([.].*)?"
+      code_is_regex: true
             # note: https://icd.who.int/browse10/2019/en#/C80.9
   HIVInfectionDx:
     Condition:
-    - system: https://icd.who.int
-      code: B20-B24
+    - system: http://hl7.org/fhir/sid/icd-10-cm*
+      code: "B2[0-4]([.].*)?"
+      code_is_regex: true
             # note: https://icd.who.int/browse10/2019/en#/B24
 
   # Laboratory results - LOINC
@@ -2577,79 +2583,79 @@ FHIR:
   NitricOxideOrFolan:
     MedicationRequest:
     - system: http://www.nlm.nih.gov/research/umls/rxnorm
-      code: 7442
+      code: "7442"
     - system: http://www.nlm.nih.gov/research/umls/rxnorm
-      code: 114221
+      code: "114221"
             # note: https://mor.nlm.nih.gov/RxNav/search?searchBy=String&searchTerm=nitric%20oxide
             # note: https://mor.nlm.nih.gov/RxNav/search?searchBy=String&searchTerm=flolan
   Amiodarone_gtt:
     MedicationRequest:
     - system: http://www.nlm.nih.gov/research/umls/rxnorm
-      code: 703
+      code: "703"
             # note: https://mor.nlm.nih.gov/RxNav/search?searchBy=RXCUI&searchTerm=703
   Dopamine_gtt:
     MedicationRequest:
     - system: http://www.nlm.nih.gov/research/umls/rxnorm
-      code: 3628
+      code: "3628"
             # note: https://mor.nlm.nih.gov/RxNav/search?searchBy=String&searchTerm=dopamine
   Dobutamine_gtt:
     MedicationRequest:
     - system: http://www.nlm.nih.gov/research/umls/rxnorm
-      code: 3616
+      code: "3616"
             # note: https://mor.nlm.nih.gov/RxNav/search?searchBy=String&searchTerm=dobutamine
   Epinephrine_gtt:
     MedicationRequest:
     - system: http://www.nlm.nih.gov/research/umls/rxnorm
-      code: 3992
+      code: "3992"
             # note: https://mor.nlm.nih.gov/RxNav/search?searchBy=String&searchTerm=epinephrine
   Esmolol_gtt:
     MedicationRequest:
     - system: http://www.nlm.nih.gov/research/umls/rxnorm
-      code: 49737
+      code: "49737"
             # note: https://mor.nlm.nih.gov/RxNav/search?searchBy=String&searchTerm=esmolol
   Isoproterenol_gtt:
     MedicationRequest:
     - system: http://www.nlm.nih.gov/research/umls/rxnorm
-      code: 6054
+      code: "6054"
             # note: https://mor.nlm.nih.gov/RxNav/search?searchBy=String&searchTerm=isoproterenol
   Levosimendan_gtt:
     MedicationRequest:
     - system: http://www.nlm.nih.gov/research/umls/rxnorm
-      code: 73107
+      code: "73107"
             # note: https://mor.nlm.nih.gov/RxNav/search?searchBy=String&searchTerm=levosimendan
   Milrinone_gtt:
     MedicationRequest:
     - system: http://www.nlm.nih.gov/research/umls/rxnorm
-      code: 52769
+      code: "52769"
             # note: https://mor.nlm.nih.gov/RxNav/search?searchBy=String&searchTerm=milrinone
   Norepinephrine_gtt:
     MedicationRequest:
     - system: http://www.nlm.nih.gov/research/umls/rxnorm
-      code: 7512
+      code: "7512"
             # note: https://mor.nlm.nih.gov/RxNav/search?searchBy=String&searchTerm=norepinephrine
   Phenylephrine_gtt:
     MedicationRequest:
     - system: http://www.nlm.nih.gov/research/umls/rxnorm
-      code: 8163
+      code: "8163"
             # note: https://mor.nlm.nih.gov/RxNav/search?searchBy=String&searchTerm=phenylephrine
   Vasopressin_gtt:
     MedicationRequest:
     - system: http://www.nlm.nih.gov/research/umls/rxnorm
-      code: 11149
+      code: "11149"
             # note: https://mor.nlm.nih.gov/RxNav/search?searchBy=String&searchTerm=vasopressin
   Remdesivir:
     MedicationRequest:
     - system: http://www.nlm.nih.gov/research/umls/rxnorm
-      code: 2284718
+      code: "2284718"
     - system: http://www.nlm.nih.gov/research/umls/rxnorm
-      code: 2284960
+      code: "2284960"
     - system: http://www.nlm.nih.gov/research/umls/rxnorm
-      code: 2367758
+      code: "2367758"
             # note: https://mor.nlm.nih.gov/RxNav/search?searchBy=String&searchTerm=remdesivir
   Hydroxychloroquine:
     MedicationRequest:
     - system: http://www.nlm.nih.gov/research/umls/rxnorm
-      code: 5521
+      code: "5521"
             # note: https://mor.nlm.nih.gov/RxNav/search?searchBy=String&searchTerm=hydroxychloroquine 
   # Antibiotics:
   #    MedicationRequest:
@@ -2659,20 +2665,20 @@ FHIR:
   Dexamethasone:
     MedicationRequest:
     - system: http://www.nlm.nih.gov/research/umls/rxnorm
-      code: 3264
+      code: "3264"
             # note: https://mor.nlm.nih.gov/RxNav/search?searchBy=String&searchTerm=dexamethasone
   PrednisoneOrMethylprednisone:
     MedicationRequest:
     - system: http://www.nlm.nih.gov/research/umls/rxnorm
-      code: 8640
+      code: "8640"
             # note: https://mor.nlm.nih.gov/RxNav/search?searchBy=String&searchTerm=prednisone
-    - system: null
-      code: 6902
+    - system: http://www.nlm.nih.gov/research/umls/rxnorm
+      code: "6902"
             # note: https://mor.nlm.nih.gov/RxNav/search?searchBy=String&searchTerm=methylprednisolone
   IntravenousImmunoglobulin:
     Substance:
     - system: http://www.nlm.nih.gov/research/umls/rxnorm
-      code: 42386
+      code: "42386"
             # note: https://mor.nlm.nih.gov/RxNav/search?searchBy=String&searchTerm=IVIG
             # note: Immunoglobulins, intravenous
   ConvalescentPlasma:
@@ -2685,12 +2691,12 @@ FHIR:
   Anakinra:
     MedicationRequest:
     - system: http://www.nlm.nih.gov/research/umls/rxnorm
-      code: 72435
+      code: "72435"
             # note: https://mor.nlm.nih.gov/RxNav/search?searchBy=String&searchTerm=anakinra
   Tocilizumab:
     MedicationRequest:
     - system: http://www.nlm.nih.gov/research/umls/rxnorm
-      code: 612865
+      code: "612865"
             # note: https://mor.nlm.nih.gov/RxNav/search?searchBy=String&searchTerm=tocilizumab
 GEOID:
   acs:
