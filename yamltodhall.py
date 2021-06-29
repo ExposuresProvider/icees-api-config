@@ -49,16 +49,20 @@ def convert_feature(feature):
 
     
 def add_key_value_pair(variable, key, value):
-    duplicate = False
     while key in variable:
-        ddiff = DeepDiff(value, variable[key])
+        ddiff = DeepDiff(variable[key], value)
         if len(ddiff) == 0:
-            duplicate = True
-            break
+            return
+        else:
+            if all("added" in act and all("categories" in path for path in param.keys()) for act, param in ddiff.items()):
+                break
+            elif all("removed" in act and all("categories" in path for path in param.keys()) for act, param in ddiff.items()):
+                return
+            else:
+                print(f"diff: {variable['name']}")
         key = key + "_alt"
 
-    if not duplicate:
-        variable[key] = value
+    variable[key] = value
 
 
 def convert_fhir_mapping(fhir_mapping):
@@ -180,6 +184,7 @@ def convert(all_features_input_file_path, identifiers_input_file_path, fhir_mapp
                 }
             }
 
+    package = {}
     for variable_name, variable in variables.items():
         categories = []
         key = "feature"
@@ -191,16 +196,23 @@ def convert(all_features_input_file_path, identifiers_input_file_path, fhir_mapp
                 break
             
         if len(categories) == 0:
-            dirname = "Uncategorized"
+            dir_name = "Uncategorized"
         else:
-            dirname = categories[0]
-        variable_output_dir_path = os.path.join(variables_output_dir_path, dirname)
-        variable_output_file_path = os.path.join(variable_output_dir_path, f"{variable_name}.dhall")
+            dir_name = categories[0]
+        file_name = f"{variable_name}.dhall"
+        variable_output_dir_path = os.path.join(variables_output_dir_path, dir_name)
+        variable_output_file_path = os.path.join(variable_output_dir_path, file_name)
 
+        package[variable_name] = {
+            "__import": f"./{dir_name}/{file_name}"
+        }
         os.makedirs(variable_output_dir_path, exist_ok=True)
         print(f"writing to {variable_output_file_path}")
-        with open(variable_output_file_path, "w") as of:
-            dhall.dump(variable, of)
+        with open(variable_output_file_path, "w") as vof:
+            dhall.dump(variable, vof)
+
+    with open(os.path.join(variables_output_dir_path, "package.json"), "w") as pof:
+        dhall.dump(package, pof)
 
 
 if __name__ == "__main__":

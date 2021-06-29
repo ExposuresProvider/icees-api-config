@@ -1710,8 +1710,9 @@ patient:
     - biolink:PhenotypicFeature
     - biolink:DiseaseOrPhenotypicFeature
     enum: &id132
-    - 'No'
-    - 'Yes'
+    - '0'
+    - '1'
+    - '>1'
     type: string
   FeverDx:
     categories:
