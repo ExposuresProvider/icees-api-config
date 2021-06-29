@@ -1705,15 +1705,6 @@ patient:
     - normal
     - high
     type: string
-  Fever:
-    categories:
-    - biolink:PhenotypicFeature
-    - biolink:DiseaseOrPhenotypicFeature
-    enum: &id132
-    - '0'
-    - '1'
-    - '>1'
-    type: string
   FeverDx:
     categories:
     - biolink:Disease
@@ -19033,19 +19024,11 @@ visit:
     categories: []
     enum: *id131
     type: string
-  Fever:
-    categories: []
-    enum: *id132
-    type: string
   FeverDx:
     categories: []
     enum: *id133
     type: string
   FeverDxVisit:
-    categories: []
-    enum: *id133
-    type: string
-  FeverVisit:
     categories: []
     enum: *id133
     type: string

@@ -2107,19 +2107,11 @@ Ferritin_flag_lastVisit:
 - low
 - normal
 - high
-Fever:
-- '0'
-- '1'
-- '>1'
 FeverDx:
 - '0'
 - '1'
 - '>1'
 FeverDxVisit:
-- '0'
-- '1'
-- '>1'
-FeverVisit:
 - '0'
 - '1'
 - '>1'
