@@ -1,3 +1,5 @@
+from itertools import chain
+
 def dump(obj, f):
     f.write(to_dhall_expression_string(obj, False, "", "    "))
 
@@ -12,8 +14,8 @@ def to_dhall_expression_string(obj, need_parens, indent, increment_indent):
     elif isinstance(obj, int) or isinstance(obj, float):
         return str(obj)
     elif isinstance(obj, list):
-        return "[\n" + ",\n".join([
-            indent + increment_indent + to_dhall_expression_string(e, False, indent + increment_indent, increment_indent) for e in obj
+        return "[" + ",".join([
+            "\n" + indent + increment_indent + to_dhall_expression_string(e, False, indent + increment_indent, increment_indent) for e in obj
         ]) + "\n" + indent + "]"
     elif isinstance(obj, dict):
         if "__constructor" in obj:
@@ -25,9 +27,11 @@ def to_dhall_expression_string(obj, need_parens, indent, increment_indent):
             return es
         elif "__import" in obj:
             return obj["__import"]
+        elif "__let" in obj:
+            return ("\n" + indent).join(chain(("let " + name + " = " + to_dhall_expression_string(value, False, indent, increment_indent) for name, value in obj["__let"].items()), ["in " + to_dhall_expression_string(obj["__in"], False, indent, increment_indent)]))
         else:
-            return "{\n" + ",\n".join([
-                indent + increment_indent + k + " = " + to_dhall_expression_string(v, False, indent + increment_indent, increment_indent) for k, v in obj.items() if v is not None
+            return "{" + ",".join([
+                "\n" + indent + increment_indent + k + " = " + to_dhall_expression_string(v, False, indent + increment_indent, increment_indent) for k, v in obj.items() if v is not None
             ]) + "\n" + indent + "}"
     else:
         raise ValueError(f"unsupported object type {obj}")

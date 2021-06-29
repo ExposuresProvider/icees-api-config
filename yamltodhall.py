@@ -104,7 +104,7 @@ def convert(all_features_input_file_path, identifiers_input_file_path, fhir_mapp
 
 
     for table_name, table_identifiers in identifiers.items():
-        for feature_name, feature_identifiers in features.items():
+        for feature_name, feature_identifiers in table_identifiers.items():
             variable = variables[feature_name]
             add_key_value_pair(variable, "identifiers", feature_identifiers)
 
@@ -209,7 +209,19 @@ def convert(all_features_input_file_path, identifiers_input_file_path, fhir_mapp
         os.makedirs(variable_output_dir_path, exist_ok=True)
         print(f"writing to {variable_output_file_path}")
         with open(variable_output_file_path, "w") as vof:
-            dhall.dump(variable, vof)
+            dhall.dump({
+                "__let": {
+                    "meta": {
+                        "__import": "../../dhall/meta.dhall"
+                    },
+                    **{
+                        k: {
+                            "__import": f"meta.{k}"
+                        } for k in ["ICEESAPIType", "Mapping", "NearestMapping", "SpecializedFHIRMapping", "FeatureType", "Bins", "BinningMethod"]
+                    }
+                },
+                "__in": variable
+            }, vof)
 
     with open(os.path.join(variables_output_dir_path, "package.json"), "w") as pof:
         dhall.dump(package, pof)
