@@ -176,7 +176,15 @@ def convert(all_features_input_file_path, identifiers_input_file_path, fhir_mapp
             }
 
     for variable_name, variable in variables.items():
-        variable_output_file_path = os.path.join(variables_output_dir_path, f"{variable_name}.dhall")
+        categories = variable.get("feature", {}).get("categories", [])
+        if len(categories) == 0:
+            dirname = "Uncategorized"
+        else:
+            dirname = categories[0]
+        variable_output_dir_path = os.path.join(variables_output_dir_path, dirname)
+        variable_output_file_path = os.path.join(variable_output_dir_path, f"{variable_name}.dhall")
+
+        os.makedirs(variable_output_dir_path, exist_ok=True)
         print(f"writing to {variable_output_file_path}")
         with open(variable_output_file_path, "w") as of:
             dhall.dump(variable, of)
