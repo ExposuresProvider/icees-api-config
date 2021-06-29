@@ -10,8 +10,13 @@ class keydefaultdict(defaultdict):
         if self.default_factory is None:
             raise KeyError( key )
         else:
-            ret = self[key] = self.default_factory(key)
-            return ret
+            while key.endswith("Visit"):
+                key = key[:-5]
+            if key in self:
+                return self[key]
+            else:
+                ret = self[key] = self.default_factory(key)
+                return ret
 
 
 def convert_feature(feature):
@@ -176,7 +181,15 @@ def convert(all_features_input_file_path, identifiers_input_file_path, fhir_mapp
             }
 
     for variable_name, variable in variables.items():
-        categories = variable.get("feature", {}).get("categories", [])
+        categories = []
+        key = "feature"
+        while key in variable:
+            categories = variable[key].get("categories", [])
+            if len(categories) == 0:
+                key += "_alt"
+            else:
+                break
+            
         if len(categories) == 0:
             dirname = "Uncategorized"
         else:
