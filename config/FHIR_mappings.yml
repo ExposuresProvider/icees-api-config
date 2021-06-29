@@ -71,7 +71,7 @@ FHIR:
     - system: https://icd.who.int
       code: ICD10:P22.*
   # note: https://www.icd10data.com/ICD10CM/Codes/P00-P96/P19-P29/P22-
-  LateralityDefect_ SitusInversusOrHeterotaxyDx:
+  LateralityDefect_SitusInversusOrHeterotaxyDx:
     Condition:
     - system: https://icd.who.int
       code: ICD9:759.3
