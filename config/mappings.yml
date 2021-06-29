@@ -7373,7 +7373,7 @@ ErythrocyteSedimentationRateVisit:
   type: integer
 ErythrocyteSedimentationRate_flag_first:
   categories:
-  - biolink:Phenotypic Feature
+  - biolink:PhenotypicFeature
   identifiers: []
   type: string
 ErythrocyteSedimentationRate_flag_firstVisit:
@@ -22747,7 +22747,7 @@ ea_b199a_ink_ongoing_dVisit:
   type: string
 ea_e249_sunburn:
   categories:
-  - biolink:EnvironmentalExposureal
+  - biolink:EnvironmentalExposure
   identifiers:
   - C3395
   - MESH:D013471
@@ -22761,7 +22761,7 @@ ea_e249_sunburnVisit:
   type: string
 ea_e253_skin_rash:
   categories:
-  - biolink:EnvironmentalExposureal
+  - biolink:EnvironmentalExposure
   identifiers:
   - NCIT:C62596
   - NCIT:C90259
@@ -22778,7 +22778,7 @@ ea_e253_skin_rashVisit:
   type: string
 ea_e257_tan_booth:
   categories:
-  - biolink:EnvironmentalExposureal
+  - biolink:EnvironmentalExposure
   identifiers: []
   type: string
 ea_e257_tan_boothVisit:
@@ -22788,7 +22788,7 @@ ea_e257_tan_boothVisit:
   type: string
 ea_e261_sunlamp:
   categories:
-  - biolink:EnvironmentalExposureal
+  - biolink:EnvironmentalExposure
   identifiers:
   - NCIT:C50197
   type: string

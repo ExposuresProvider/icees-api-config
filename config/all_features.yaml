@@ -1522,7 +1522,7 @@ patient:
     type: integer
   ErythrocyteSedimentationRate_flag_first:
     categories:
-    - biolink:Phenotypic Feature
+    - biolink:PhenotypicFeature
     enum: &id117
     - low
     - normal
@@ -5948,7 +5948,7 @@ patient:
     type: string
   ea_e249_sunburn:
     categories:
-    - biolink:EnvironmentalExposureal
+    - biolink:EnvironmentalExposure
     enum: &id572
     - '0'
     - '1'
@@ -5956,7 +5956,7 @@ patient:
     type: string
   ea_e253_skin_rash:
     categories:
-    - biolink:EnvironmentalExposureal
+    - biolink:EnvironmentalExposure
     enum: &id573
     - '0'
     - '1'
@@ -5964,7 +5964,7 @@ patient:
     type: string
   ea_e257_tan_booth:
     categories:
-    - biolink:EnvironmentalExposureal
+    - biolink:EnvironmentalExposure
     enum: &id574
     - '0'
     - '1'
@@ -5972,7 +5972,7 @@ patient:
     type: string
   ea_e261_sunlamp:
     categories:
-    - biolink:EnvironmentalExposureal
+    - biolink:EnvironmentalExposure
     enum: &id575
     - '0'
     - '1'

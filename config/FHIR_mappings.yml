@@ -454,7 +454,7 @@ FHIR:
 
   # Laboratory results - LOINC
   ErythrocyteSedimentationRate:
-    Measurement:
+    Observation:
     - system: http://loinc.org
       code: 4539-3
     - system: http://loinc.org
@@ -471,14 +471,14 @@ FHIR:
       code: 4538-5
             # note: https://search.loinc.org/searchLOINC/search.zul?query=erythrocyte+sedimentation+rate
   Procalcitonin:
-    Measurement:
+    Observation:
     - system: http://loinc.org
       code: 33959-8
     - system: http://loinc.org
       code: 75241-0
             # note: https://search.loinc.org/searchLOINC/search.zul?query=Procalcitonin
   Ferritin:
-    Measurement:
+    Observation:
     - system: http://loinc.org
       code: 48141-6
     - system: http://loinc.org
@@ -497,7 +497,7 @@ FHIR:
       code: 86914-9
             # note: https://search.loinc.org/searchLOINC/search.zul?query=ferritin
   C-reactiveProtein:
-    Measurement:
+    Observation:
     - system: http://loinc.org
       code: 71426-1
     - system: http://loinc.org
@@ -524,7 +524,7 @@ FHIR:
       code: 14634-0
             # note: https://search.loinc.org/searchLOINC/search.zul?query=c+reactive+protein 
   D-dimer:
-    Measurement:
+    Observation:
     - system: http://loinc.org
       code: 55398-2
     - system: http://loinc.org
@@ -555,7 +555,7 @@ FHIR:
       code: 48067-3
             # note: https://search.loinc.org/searchLOINC/search.zul?query=d+dimer
   LDH:
-    Measurement:
+    Observation:
     - system: http://loinc.org
       code: 47678-8
     - system: http://loinc.org
@@ -636,7 +636,7 @@ FHIR:
       code: 53248-1
             # note: https://search.loinc.org/searchLOINC/search.zul?query=ldh
   IL-6:
-    Measurement:
+    Observation:
     - system: http://loinc.org
       code: 49732-1
     - system: http://loinc.org
@@ -647,7 +647,7 @@ FHIR:
       code: 44322-6
             # note: https://search.loinc.org/searchLOINC/search.zul?query=il+6
   pH:
-    Measurement:
+    Observation:
     - system: http://loinc.org
       code: 33913-5
     - system: http://loinc.org
@@ -776,7 +776,7 @@ FHIR:
       code: 76280-7
           # note: https://search.loinc.org/searchLOINC/search.zul?query=ph
   pCO2ArterialVenous:
-    Measurement:
+    Observation:
     - system: http://loinc.org
       code: 60819-0
     - system: http://loinc.org
@@ -887,7 +887,7 @@ FHIR:
       code: 19906-7
             # note: https://search.loinc.org/searchLOINC/search.zul?query=pco2
   pO2Arterial:
-    Measurement:
+    Observation:
     - system: http://loinc.org
       code: 19981-0
     - system: http://loinc.org
@@ -950,7 +950,7 @@ FHIR:
       code: 19258-3
             # note: https://search.loinc.org/searchLOINC/search.zul?query=po2
   pO2FiO2ratio:
-    Measurement:
+    Observation:
     - system: http://loinc.org
       code: 50982-8
     - system: http://loinc.org
@@ -973,7 +973,7 @@ FHIR:
       code: 50991-9
             # note: https://search.loinc.org/searchLOINC/search.zul?query=horowitz
   BaseDeficit:
-    Measurement:
+    Observation:
     - system: http://loinc.org
       code: 30318-0
     - system: http://loinc.org
@@ -992,7 +992,7 @@ FHIR:
       code: 1924-0
             # note: https://search.loinc.org/searchLOINC/search.zul?query=base+deficit
   Lactate:
-    Measurement:
+    Observation:
     - system: http://loinc.org
       code: 59032-3
     - system: http://loinc.org
@@ -1095,7 +1095,7 @@ FHIR:
       code: 57366-7
             # note: https://search.loinc.org/searchLOINC/search.zul?query=lactate
   SvO2:
-    Measurement:
+    Observation:
     - system: http://loinc.org
       code: 74105-8
     - system: http://loinc.org
@@ -1114,7 +1114,7 @@ FHIR:
       code: 71837-9
             # note: https://search.loinc.org/searchLOINC/search.zul?query=mixed+venous+oxygen+saturation
   WBCcount:
-    Measurement:
+    Observation:
     - system: http://loinc.org
       code: 53286-1
     - system: http://loinc.org
@@ -1301,7 +1301,7 @@ FHIR:
       code: 70126-8
             # note: https://search.loinc.org/searchLOINC/search.zul?query=White+blood+cell+count
   AbsoluteNeutrophilCount:
-    Measurement:
+    Observation:
     - system: http://loinc.org
       code: 751-8
     - system: http://loinc.org
@@ -1400,7 +1400,7 @@ FHIR:
       code: 35009-0
             # note: https://search.loinc.org/searchLOINC/search.zul?query=Absolute+neutrophil+count
   AbsoluteLymphocyteCount:
-    Measurement:
+    Observation:
     - system: http://loinc.org
       code: 731-0
     - system: http://loinc.org
@@ -1507,7 +1507,7 @@ FHIR:
       code: 35044-7
             # note: https://search.loinc.org/searchLOINC/search.zul?query=Absolute+lymphocyte+count
   Hemoglobin:
-    Measurement:
+    Observation:
     - system: http://loinc.org
       code: 31157-1
     - system: http://loinc.org
@@ -1892,7 +1892,7 @@ FHIR:
       code: 73984-7
             # note: https://search.loinc.org/searchLOINC/search.zul?query=hemoglobin
   PlateletCount:
-    Measurement:
+    Observation:
     - system: http://loinc.org
       code: 74775-8
     - system: http://loinc.org
@@ -1925,7 +1925,7 @@ FHIR:
       code: 53800-9
             # note: https://search.loinc.org/searchLOINC/search.zul?query=Platelet+count
   BloodType:
-    Measurement:
+    Observation:
     - system: http://loinc.org
       code: 34531-4
     - system: http://loinc.org
@@ -1948,37 +1948,37 @@ FHIR:
       code: 88027-8
            # note: https://search.loinc.org/searchLOINC/search.zul?query=blood+type
   SerumSodium:
-    Measurement:
+    Observation:
     - system: http://loinc.org
       code: 77139-4
             # note: https://search.loinc.org/searchLOINC/search.zul?query=serum+sodium
   SerumPotassium:
-    Measurement:
+    Observation:
     - system: http://loinc.org
       code: 77142-8
             # note: https://search.loinc.org/searchLOINC/search.zul?query=serum+potassium
   SerumChloride:
-    Measurement:
+    Observation:
     - system: http://loinc.org
       code: 77138-6
             # note: https://search.loinc.org/searchLOINC/search.zul?query=serum+chloride
   SerumBicarbonate:
-    Measurement:
+    Observation:
     - system: http://loinc.org
       code: 1963-8
             # note: https://search.loinc.org/searchLOINC/search.zul?query=serum+bicarbonate
   BloodUreaNitrogen:
-    Measurement:
+    Observation:
     - system: http://loinc.org
       code: 6299-2
             # note: https://search.loinc.org/searchLOINC/search.zul?query=blood+urea+nitrogen
   SerumCreatinine:
-    Measurement:
+    Observation:
     - system: http://loinc.org
       code: 77140-2
             # note: https://search.loinc.org/searchLOINC/search.zul?query=serum+creatinine
   SerumGlucose:
-    Measurement:
+    Observation:
     - system: http://loinc.org
       code: 72650-5
     - system: http://loinc.org
@@ -1989,7 +1989,7 @@ FHIR:
       code: 72648-9
             # note: https://search.loinc.org/searchLOINC/search.zul?query=serum+glucose
   ALT:
-    Measurement:
+    Observation:
     - system: http://loinc.org
       code: 76625-3
             # note: https://search.loinc.org/searchLOINC/search.zul?query=ALT
@@ -2007,7 +2007,7 @@ FHIR:
       code: 25302-1
             # note: https://search.loinc.org/searchLOINC/search.zul?query=alanine+aminotransferase+serum+or+plasma
   AST:
-    Measurement:
+    Observation:
     - system: http://loinc.org
       code: 1920-8
             # note: https://search.loinc.org/searchLOINC/search.zul?query=AST
@@ -2027,7 +2027,7 @@ FHIR:
       code: 43822-6
              # note: https://search.loinc.org/searchLOINC/search.zul?query=aspartate+aminotransferase+serum+or+plasma
   Albumin:
-    Measurement:
+    Observation:
     - system: http://loinc.org
       code: 76631-1
     - system: http://loinc.org
@@ -2048,29 +2048,29 @@ FHIR:
       code: 62234-0
             # note: https://search.loinc.org/searchLOINC/search.zul?query=albumin+serum+or+plasma
   Troponin:
-    Measurement:
+    Observation:
     - system: http://loinc.org
       code: 10839-9
     - system: http://loinc.org
       code: 6598-7
             # note: https://search.loinc.org/searchLOINC/search.zul?query=troponin
   BrainNatriureticPeptide:
-    Measurement:
+    Observation:
     - system: http://loinc.org
       code: 30934-4
             # note: https://search.loinc.org/searchLOINC/search.zul?query=brain+natriuretic+peptide
   CK:
-    Measurement:
+    Observation:
     - system: http://loinc.org
       code: 13969-1
             # note: https://search.loinc.org/searchLOINC/search.zul?query=CK
   HgbA1C:
-    Measurement:
+    Observation:
     - system: http://loinc.org
       code: 41995-2
             # note: https://search.loinc.org/searchLOINC/search.zul?query=HGB+A1C
   EstimatedGFR:
-    Measurement:
+    Observation:
     - system: http://loinc.org
       code: 69405-9
             # note: https://search.loinc.org/searchLOINC/search.zul?query=Estimated+GFR
