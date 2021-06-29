@@ -12,6 +12,8 @@ class keydefaultdict(defaultdict):
         else:
             while key.endswith("Visit"):
                 key = key[:-5]
+            while key.endswith("_qcut"):
+                key = key[:-4]
             if key in self:
                 return self[key]
             else:
@@ -21,31 +23,81 @@ class keydefaultdict(defaultdict):
 
 def convert_feature(feature):
     if feature["type"] == "string":
+        enum = feature.get("enum")
         feature_type = {
             "__constructor": "ICEESAPIType.String",
             "__argument": {
-                "enum": feature.get("enum")
+                "enum": enum
             }
         }
+        if enum is not None and {"0", "1", ">1"} == set(enum):            
+            binning_strategies = [{
+                "method": {
+                    "__constructor": "Bins",
+                    "__argument": {
+                        "__constructor": "RangeBins",
+                        "__argument": {
+                            "bins" : [0, 1, 2, {
+                                "__infinity": None
+                            }],
+                            "right" : False,
+                            "include_lowest" : True,
+                            "labels" : ["0", "1", ">1"]
+                        }
+                    }
+                }
+            }]
+        else:
+            binning_strategies = [{
+                "method": {
+                    "__constructor": "NoBinning"
+                }
+            }]            
     elif feature["type"] == "integer":
+        maximum = feature.get("maximum")
+        minimum = feature.get("minimum")
         feature_type = {
             "__constructor": "ICEESAPIType.Integer",
             "__argument": {
-                "maximum": feature.get("maximum"),
-                "minimum": feature.get("minimum")
+                "maximum": maximum,
+                "minimum": minimum
             }
         }
+        if maximum is not None and minimum is not None and minimum == 1:
+            binning_strategies = [{
+                "method": {
+                    "__construction": "Cut",
+                    "__argument": maximum
+                }
+            }, {
+                "method": {
+                    "__construction": "QCut",
+                    "__argument": maximum
+                },
+                "suffix": "_qcut"
+            }]
+        else:
+            binning_strategies = [{
+                "method": {
+                    "__constructor": "NoBinning"
+                }
+            }]
     elif feature["type"] == "number":
         feature_type = {
             "__constructor": "ICEESAPIType.Number",
         }
+        binning_strategies = [{
+            "method": {
+                "__constructor": "NoBinning"
+            }
+        }]
     else:
         raise ValueError("Cannot parse type " + feature["type"])
         
     return {
         "feature_type": feature_type,
         "categories": feature["categories"]
-    }
+    }, binning_strategies
 
     
 def add_key_value_pair(variable, key, value):
@@ -98,9 +150,10 @@ def convert(all_features_input_file_path, identifiers_input_file_path, fhir_mapp
 
     for table_name, features in all_features.items():
         for feature_name, feature in features.items():
-            converted_feature = convert_feature(feature)
+            converted_feature, binning_strategies = convert_feature(feature)
             variable = variables[feature_name]
             add_key_value_pair(variable, "feature", converted_feature)
+            add_key_value_pair(variable, "binning_strategies", binning_strategies)
 
 
     for table_name, table_identifiers in identifiers.items():

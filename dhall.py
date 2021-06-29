@@ -11,6 +11,10 @@ def quote(s):
 def to_dhall_expression_string(obj, need_parens, indent, increment_indent):
     if isinstance(obj, str):
         return quote(obj)
+    elif isinstance(obj, bool):
+        return "True" if obj else "False"
+    elif isinstance(obj, float):
+        return str(obj)
     elif isinstance(obj, int) or isinstance(obj, float):
         return str(obj)
     elif isinstance(obj, list):
@@ -29,6 +33,8 @@ def to_dhall_expression_string(obj, need_parens, indent, increment_indent):
             return obj["__import"]
         elif "__let" in obj:
             return ("\n" + indent).join(chain(("let " + name + " = " + to_dhall_expression_string(value, False, indent, increment_indent) for name, value in obj["__let"].items()), ["in " + to_dhall_expression_string(obj["__in"], False, indent, increment_indent)]))
+        elif "__infinity" in obj:
+            return "Infinity"
         else:
             return "{" + ",".join([
                 "\n" + indent + increment_indent + k + " = " + to_dhall_expression_string(v, False, indent + increment_indent, increment_indent) for k, v in obj.items() if v is not None

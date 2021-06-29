@@ -400,13 +400,13 @@ FHIR:
   #           code:
   #           note: Concentrated Animal Feeding Operations
   #           note: I could not find a concentrated animal feeding exposure event or environment indicator. The closest thing I could find on SNOMED was “animal handlers’ lung” which is not the same thing. 
-  LandfillExposure:
-    Observation:
-    - system: https://browser.ihtsdotools.org
-      code: 'SCTID: 285101004'
-            # note: https://browser.ihtsdotools.org/?perspective=full&conceptId1=285101004&edition=MAIN/2020-07-31&release=&languages=en
-            # note: Landfill site (environment)
-            # note: this variable will not be in the FHIR files
+  # LandfillExposure:
+  #   Observation:
+  #   - system: https://browser.ihtsdotools.org
+  #     code: 'SCTID: 285101004'
+  #           # note: https://browser.ihtsdotools.org/?perspective=full&conceptId1=285101004&edition=MAIN/2020-07-31&release=&languages=en
+  #           # note: Landfill site (environment)
+  #           # note: this variable will not be in the FHIR files
   CharlsonComorbidityIndex:
     Measurement:
     - system: http://hl7.org/fhir/sid/icd-10-cm*
