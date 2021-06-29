@@ -4514,7 +4514,7 @@ FHIR:
         code: "(300)[.].*"
         code_is_regex: true
       - system: http://hl7.org/fhir/sid/icd-10-cm
-        code: -> "(F40|F41)[.].*"
+        code: "(F40|F41)[.].*"
         code_is_regex: true
   AutismDx:
     Condition:
