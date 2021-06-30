@@ -7101,7 +7101,7 @@ patient:
     - '2'
     - '>2'
     type: string
-  he _b012_heart_attack:
+  he_b012_heart_attack:
     categories:
     - biolink:Disease
     - biolink:DiseaseOrPhenotypicFeature
@@ -17677,14 +17677,14 @@ visit:
     maximum: 5
     minimum: 1
     type: integer
-  AvgailyAcetaldehydeExposure_2:
+  AvgDailyAcetaldehydeExposure_2:
     categories:
     - biolink:ChemicalSubstance
     - biolink:ChemicalExposure
     maximum: 5
     minimum: 1
     type: integer
-  AvgailyAcetaldehydeExposure_2_qcut:
+  AvgDailyAcetaldehydeExposure_2_qcut:
     categories:
     - biolink:ChemicalSubstance
     - biolink:ChemicalExposure
@@ -24301,11 +24301,11 @@ visit:
     categories: []
     enum: *id694
     type: string
-  he _b012_heart_attack:
+  he_b012_heart_attack:
     categories: []
     enum: *id695
     type: string
-  he _b012_heart_attackVisit:
+  he_b012_heart_attackVisit:
     categories: []
     enum: *id695
     type: string

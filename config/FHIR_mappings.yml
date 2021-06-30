@@ -73,7 +73,7 @@ FHIR:
     - system: http://hl7.org/fhir/sid/icd-10-cm*
       code: P22.*
   # note: https://www.icd10data.com/ICD10CM/Codes/P00-P96/P19-P29/P22-
-  LateralityDefect_ SitusInversusOrHeterotaxyDx:
+  LateralityDefect_SitusInversusOrHeterotaxyDx:
     Condition:
     - system: http://hl7.org/fhir/sid/icd-9-cm*
       code: "759.3"

@@ -8697,7 +8697,7 @@ patient:
   - SCITD:59021001
   - SCITD:64333001
   - SCITD:186358002
-  he _b012_heart_attack:
+  he_b012_heart_attack:
   - MONDO:0005068
   - NCIT:C27996
   - UMLSCUI:C0027051
@@ -14893,8 +14893,8 @@ patient:
   rs1363907_a: []
   rs2476601_a: []
 visit:
-  AvgailyAcetaldehydeExposure_2: *id001
-  AvgailyAcetaldehydeExposure_2_qcut: *id001
+  AvgDailyAcetaldehydeExposure_2: *id001
+  AvgDailyAcetaldehydeExposure_2_qcut: *id001
   AgeVisit: *id011
   AlbuterolVisit: *id014
   AlcoholDependenceVisit: *id015
@@ -20339,7 +20339,7 @@ visit:
   - SCITD:59021001
   - SCITD:64333001
   - SCITD:186358002
-  he _b012_heart_attack:
+  he_b012_heart_attack:
   - MONDO:0005068
   - NCIT:C27996
   - UMLSCUI:C0027051
@@ -21776,8 +21776,8 @@ visit:
   ea_b194h_pen_ink: []
   ea_b194i_toner: []
   ea_b194j_soy_ink: []
-  ea_b194k_pharma_ink:
-    ea_a012_current_home_type: []
+  ea_b194k_pharma_ink: []
+  ea_a012_current_home_type: []
   ea_a017h_heat_other: []
   ea_a017i_heat_none: []
   ea_a017j_heat_dk: []
