@@ -6,7 +6,7 @@ jobs:
   dhall:
     runs-on: ubuntu-latest
     steps:
-      - uses: dhall-lang/setup-dhall@v4
       - uses: actions/checkout@v2
+      - uses: dhall-lang/setup-dhall@v4
       - run: ls
       - run: dhall --file $GITHUB_WORKSPACE/config/package.dhall
