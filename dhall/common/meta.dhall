@@ -114,19 +114,24 @@ let BinningStrategy = {
     suffix : Text
 }
 
-let TableColumn = {
-    tableName : Text,
-    rename : RenameAs
-}
-
 let FeatureVariable =
       { name : Text
       , mapping : Mapping
       , binning_strategies : List BinningStrategy
       , feature : ICEESFeature
       , identifiers : Identifiers
-      , tables : List TableColumn
       }
+
+let VariableVariant = {
+    name : Text,
+    rename : RenameAs
+}
+
+let Table = {
+    tableName: Text,
+    variable_name : Text,
+    variable_variants: Optional (List VariableVariant)
+}
 
 in  {
     FeatureVariable = FeatureVariable,
