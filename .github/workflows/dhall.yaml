@@ -8,5 +8,4 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - uses: dhall-lang/setup-dhall@v4
-      - run: ls
-      - run: dhall --file $GITHUB_WORKSPACE/config/package.dhall
+      - run: set -e; for f in $GITHUB_WORKSPACE/**/*.dhall; do dhall --file $f; done
