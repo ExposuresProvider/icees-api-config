@@ -7,4 +7,5 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: dhall-lang/setup-dhall@v4
+      - run: ls
       - run: dhall --file ./config/package.dhall
