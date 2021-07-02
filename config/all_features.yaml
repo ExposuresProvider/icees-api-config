@@ -17677,20 +17677,6 @@ visit:
     maximum: 5
     minimum: 1
     type: integer
-  AvgDailyAcetaldehydeExposure_2:
-    categories:
-    - biolink:ChemicalSubstance
-    - biolink:ChemicalExposure
-    maximum: 5
-    minimum: 1
-    type: integer
-  AvgDailyAcetaldehydeExposure_2_qcut:
-    categories:
-    - biolink:ChemicalSubstance
-    - biolink:ChemicalExposure
-    maximum: 5
-    minimum: 1
-    type: integer
   BMI:
     categories: []
     type: integer
