@@ -1,0 +1,10 @@
+name: dhall
+
+on: [push, pull_request, workflow_dispatch]
+
+jobs:
+  dhall:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: dhall-lang/setup-dhall@v4
+      - run: dhall --file config/package.dhall
