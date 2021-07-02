@@ -43,6 +43,22 @@ def get_ids(binding):
     return [a["id"] for a in binding]
 
 
+def get_identifiers(binding):
+    return [a["identifier"] for a in binding]
+
+
+def get_eqids(obj, identifier):
+    eqid_attributes = obj.get(identifier)
+    if eqid_attributes is None:
+        return []
+    else:
+        return get_identifiers(eqid_attributes["equivalent_identifiers"])
+
+
+def get_eqids_for_ids(obj, ids):
+    return list({eqid for id in ids for eqid in get_eqids(obj, id)})
+
+
 def to_tree(obj):
     tree = Tree()
     to_subtree(obj, tree, None)
@@ -227,6 +243,9 @@ def runSteps(progress, subprogress, key, depth, ids_list, steps, verbose):
             subsubkey = truncate(f"{format_integer(i, len(ids_list))}: {len(ids)} Identifier(s) {ids}", verbose)
             subsubprogress[subsubkey] = {}
             subsubsubprogress = subsubprogress[subsubkey]
+            use_equivalent_ids = step.get("synonymize_ids", False)
+            if use_equivalent_ids:
+                ids = get_eqids_for_ids(equivalent_ids, ids)
             df = runStepsWithIds(progress, subsubsubprogress, equivalent_ids, depth, filter_node_ids_by_prefix(supported_prefixes, ids), step, tail, verbose)
             next_results_df_list.append(df)
 
@@ -244,7 +263,8 @@ def runStepsWithIds(progress, subprogress, equivalent_ids, depth, ids, step, tai
         subprogress[key] = f"{Fore.YELLOW}No supported identifiers{Fore.RESET}"
         return None
     subprogress[key] = f"{Fore.BLUE}Running{Fore.RESET}"
-    to_tree(progress).show()
+    if verbose["progress"]:
+        to_tree(progress).show()
 
     resp_obj = run_query(step, subprogress, key, ids, verbose)
 
@@ -293,11 +313,15 @@ def runWorkflow(ids, workflow, verbose=False, columns=None):
     else:
         logger.info("No Results")
 
+    return progress
+
         
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='Run multihop query.')
     parser.add_argument('input_file_path', type=str, help='input file')
-    parser.add_argument('output_file_path', type=str, help='output file')
+    parser.add_argument('output_file_path', type=str, help='output file')    
+    parser.add_argument("-t", "--tree_output", type=str, default=None, help='generate tree output')
+    parser.add_argument("-p", "--progress", action='store_true', default=False, help='show progress')
     parser.add_argument('-r', '--response', action='store_true', default=False, help='print request response')
     parser.add_argument('-n', '--no_truncate', action='store_true', default=False, help='no truncation of node names')
     parser.add_argument('-c', '--curl', action='store_true', default=False, help='print curl command')
@@ -306,11 +330,13 @@ if __name__ == "__main__":
     args = parser.parse_args()
     input_file_path = args.input_file_path
     output_file_path = args.output_file_path
+    tree_output_file_path = args.tree_output
     verbose = {
         "no_truncate": args.no_truncate,
         "curl": args.curl,
         "debug": args.debug,
-        "response": args.response
+        "response": args.response,
+        "progress": args.progress
     }
 
     with open(input_file_path) as f:
@@ -320,7 +346,11 @@ if __name__ == "__main__":
     workflow = query["steps"]
     columns = query.get("columns", None)
 
-    runWorkflow(ids, workflow, verbose=verbose, columns=columns)
+    progress = runWorkflow(ids, workflow, verbose=verbose, columns=columns)
+    if tree_output_file_path is not None:
+        with open(tree_output_file_path, "w") as f:
+            f.write(str(to_tree(progress)))
+
     
 
 
