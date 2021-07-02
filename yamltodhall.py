@@ -320,7 +320,7 @@ def convert(all_features_input_file_path, identifiers_input_file_path, fhir_mapp
                 variable
             ), vof)
 
-    with open(os.path.join(variables_output_dir_path, "package.json"), "w") as pof:
+    with open(os.path.join(variables_output_dir_path, "package.dhall"), "w") as pof:
         dhall.dump(package, pof)
 
 
