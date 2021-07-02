@@ -25,6 +25,8 @@ let nearest_feature_distance = meta.nearest_feature_distance
 let nearest_feature_attribute = meta.nearest_feature_attribute
 let no_identifiers = meta.no_identifiers
 let no_categories = meta.no_categories
+let no_mapping = meta.no_mapping
+let geoid_mapping = meta.geoid_mapping
 in {
     name = "ur",
     feature = {
@@ -36,18 +38,12 @@ in {
             "biolink:EnvironmentalExposure"
         ]
     },
-    binning_strategies = [
-        {
-            method = no_binning,
-            suffix = ""
-        }
-    ],
     identifiers = [
         "NCIT:C45781",
         "UMLSCUI:C0178587",
         "SCTID:272497004"
     ],
-    mapping = Mapping.GEOIDMapping {
+    mapping = geoid_mapping {
         dataset = "acsUR",
         column = "ur",
         datatype = string

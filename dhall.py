@@ -36,6 +36,13 @@ def ascribe(te, ty):
     }
 
 
+def record_completion(r, c):
+    return {
+        "__default_from": r,
+        "__update_to": c
+    }
+
+
 positive_infinity = {
     "__infinity": None
 }
@@ -74,7 +81,11 @@ def imp(i):
         "__import": i
     }
 
-    
+
+def parenthesize(es):
+    return "(" + es + ")"
+
+
 def to_dhall_expression_string(obj, need_parens, indent, increment_indent):
     if isinstance(obj, str):
         return quote(obj)
@@ -92,7 +103,7 @@ def to_dhall_expression_string(obj, need_parens, indent, increment_indent):
         if "__apply" in obj:
             es = to_dhall_expression_string(obj["__apply"], False, indent, increment_indent) + " " + to_dhall_expression_string(obj["__to"], True, indent, increment_indent)
             if need_parens:
-                es = "(" + es + ")"
+                es = parenthesize(es)
             return es
         elif "__identifier" in obj:
             return obj["__identifier"]
@@ -100,8 +111,17 @@ def to_dhall_expression_string(obj, need_parens, indent, increment_indent):
             return obj["__import"]
         elif "__let" in obj:
             return ("\n" + indent).join(chain(("let " + name + " = " + to_dhall_expression_string(value, False, indent, increment_indent) for name, value in obj["__let"].items()), ["in " + to_dhall_expression_string(obj["__in"], False, indent, increment_indent)]))
+        elif "__ascribe" in obj:
+            es = to_dhall_expression_string(obj["__ascribe"], True, indent, increment_indent) + " : " + to_dhall_expression_string(obj["__as"], True, indent, increment_indent)
+            if need_parens:
+                es = parenthesize(es)            
+            return es
         elif "__default_from" in obj:
-            return obj["__default_from"] + "::" + to_dhall_expression_string(obj["__update_to"], True, indent, increment_indent)
+            d = obj["__update_to"]
+            es = to_dhall_expression_string(d, False, indent, increment_indent)
+            if isinstance(d, dict) and "__import" in d:
+                es = parenthesize(es)
+            return obj["__default_from"] + " :: " + es
         elif "__infinity" in obj:
             return "Infinity"
         elif "__negative_infinity" in obj:

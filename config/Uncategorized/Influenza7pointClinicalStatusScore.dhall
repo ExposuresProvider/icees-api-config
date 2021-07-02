@@ -25,17 +25,13 @@ let nearest_feature_distance = meta.nearest_feature_distance
 let nearest_feature_attribute = meta.nearest_feature_attribute
 let no_identifiers = meta.no_identifiers
 let no_categories = meta.no_categories
+let no_mapping = meta.no_mapping
+let geoid_mapping = meta.geoid_mapping
 in {
     name = "Influenza7pointClinicalStatusScore",
     feature = {
         feature_type = range 0 10,
         categories = no_categories
     },
-    binning_strategies = [
-        {
-            method = no_binning,
-            suffix = ""
-        }
-    ],
     identifiers = no_identifiers
 }

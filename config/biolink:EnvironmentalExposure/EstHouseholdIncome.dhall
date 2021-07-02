@@ -25,6 +25,8 @@ let nearest_feature_distance = meta.nearest_feature_distance
 let nearest_feature_attribute = meta.nearest_feature_attribute
 let no_identifiers = meta.no_identifiers
 let no_categories = meta.no_categories
+let no_mapping = meta.no_mapping
+let geoid_mapping = meta.geoid_mapping
 in {
     name = "EstHouseholdIncome",
     feature = {
@@ -49,7 +51,7 @@ in {
         "SCTID:224168007",
         "SCTID:365553008"
     ],
-    mapping = Mapping.GEOIDMapping {
+    mapping = geoid_mapping {
         dataset = "acs",
         column = "median_HH_inc",
         datatype = string

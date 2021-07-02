@@ -22029,8 +22029,6 @@ visit:
   - MESH:C435939
   - MESH:C520558
   - MESH:C520984
-  A1ATDeficiency:
-  - MONDO:0013282
   ALT_DILIOnset_ULN:
   - HP:0031964
   ALTOnset:

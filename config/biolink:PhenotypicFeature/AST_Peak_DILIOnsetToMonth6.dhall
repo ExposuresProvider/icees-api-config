@@ -25,6 +25,8 @@ let nearest_feature_distance = meta.nearest_feature_distance
 let nearest_feature_attribute = meta.nearest_feature_attribute
 let no_identifiers = meta.no_identifiers
 let no_categories = meta.no_categories
+let no_mapping = meta.no_mapping
+let geoid_mapping = meta.geoid_mapping
 in {
     name = "AST_Peak_DILIOnsetToMonth6",
     feature = {
@@ -34,12 +36,6 @@ in {
             "biolink:DiseaseOrPhenotypicFeature"
         ]
     },
-    binning_strategies = [
-        {
-            method = no_binning,
-            suffix = ""
-        }
-    ],
     identifiers = [
         "HP:0031956"
     ]

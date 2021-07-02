@@ -85,6 +85,7 @@ let Mapping =
       | GEOIDMapping : GEOIDMapping
       | NearestPointMapping : NearestMapping
       | NearestFeatureMapping : NearestMapping
+      | NoMapping
       >
 
 let Category = Text
@@ -114,13 +115,23 @@ let BinningStrategy = {
     suffix : Text
 }
 
-let FeatureVariable =
-      { name : Text
-      , mapping : Mapping
-      , binning_strategies : List BinningStrategy
-      , feature : ICEESFeature
-      , identifiers : Identifiers
-      }
+let FeatureVariable = {
+    Type = {
+        name : Text,
+	mapping : Optional Mapping,
+        binning_strategies : List BinningStrategy,
+        feature : ICEESFeature,
+	identifiers : Identifiers
+    },
+    default = {
+	mapping = None Mapping,
+	binning_strategies = [{
+            method = BinningMethod.NoBinning,
+            suffix = ""
+        }],
+	identifiers = [] : Identifiers
+    }
+}
 
 let VariableVariant = {
     name : Text,
@@ -139,6 +150,8 @@ in  {
     ICEESAPIType = ICEESAPIType,
     Mapping = Mapping,
     NearestMapping = NearestMapping,
+    no_mapping = None Mapping,
+    geoid_mapping = \(g:GEOIDMapping) -> Some (Mapping.GEOIDMapping g),
     range = \ (minimum : Natural) -> \ (maximum : Natural) -> ICEESAPIType.Integer {
         maximum = Some (Natural/toInteger maximum),
         minimum = Some (Natural/toInteger minimum)
@@ -163,13 +176,13 @@ in  {
     replace = RenameAs.Replace,
     suffix = RenameAs.Suffix,
     no_rename = RenameAs.NoRename,
-    environmental_mapping = Mapping.EnvironmentalMapping,
+    environmental_mapping = \(e:EnvironmentalMapping) -> Some (Mapping.EnvironmentalMapping e),
     avg = Statistic.Avg,
     max = Statistic.Max,
     prev_date = Statistic.PrevDate,
-    generic_fhir_mapping = Mapping.GenericFHIRMapping,
-    nearest_point_distance = \ (d : Distance) -> Mapping.NearestPointMapping (NearestMapping.Distance d),
-    nearest_point_attribute = \ (d : FeatureAttribute) -> Mapping.NearestPointMapping (NearestMapping.FeatureAttribute d),
-    nearest_feature_distance = \ (d : Distance) -> Mapping.NearestFeatureMapping (NearestMapping.Distance d),
-    nearest_feature_attribute = \ (d : FeatureAttribute) -> Mapping.NearestFeatureMapping (NearestMapping.FeatureAttribute d)
+    generic_fhir_mapping = \(g:GenericFHIRMapping) -> Some (Mapping.GenericFHIRMapping g),
+    nearest_point_distance = \ (d : Distance) -> Some (Mapping.NearestPointMapping (NearestMapping.Distance d)),
+    nearest_point_attribute = \ (d : FeatureAttribute) -> Some (Mapping.NearestPointMapping (NearestMapping.FeatureAttribute d)),
+    nearest_feature_distance = \ (d : Distance) -> Some (Mapping.NearestFeatureMapping (NearestMapping.Distance d)),
+    nearest_feature_attribute = \ (d : FeatureAttribute) -> Some (Mapping.NearestFeatureMapping (NearestMapping.FeatureAttribute d))
 }

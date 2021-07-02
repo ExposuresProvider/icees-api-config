@@ -1,7 +1,7 @@
 from deepdiff import DeepDiff
 import yaml
 import dhall
-from dhall import construct, application, identifier, positive_infinity, negative_infinity, let, imp, ascribe
+from dhall import construct, application, identifier, positive_infinity, negative_infinity, let, imp, ascribe, record_completion
 import os.path
 import sys
 from collections import defaultdict
@@ -49,10 +49,7 @@ def convert_feature(feature):
                 "suffix": ""
             }]
         else:
-            binning_strategies = [{
-                "method": identifier("no_binning"),
-                "suffix": ""
-            }]            
+            binning_strategies = None
     elif feature["type"] == "integer":
         maximum = feature.get("maximum")
         minimum = feature.get("minimum")
@@ -76,13 +73,10 @@ def convert_feature(feature):
                 "suffix": "_qcut"
             }]
         else:
-            binning_strategies = [{
-                "method": identifier("no_binning"),
-                "suffix": ""
-            }]
+            binning_strategies = None
     elif feature["type"] == "number":
         feature_type = identifier("ICEESAPIType.Number")
-        binning_strategies = [identifier("no_binning")]
+        binning_strategies = None
     else:
         raise ValueError("Cannot parse type " + feature["type"])
 
@@ -140,8 +134,8 @@ def deep_merge(a, b):
 def add_key_value_pair(variable, key, value):
     while key in variable:
         merged_value = deep_merge(variable[key], value)
-        if len(DeepDiff(merged_value, value)) != 0 or len(DeepDiff(merged_value, value)) != 0:
-            print(f"deep mmerge\n{variable[key]}\n{value}\n{merged_value}")
+        # if len(DeepDiff(merged_value, value)) != 0 or len(DeepDiff(merged_value, value)) != 0:
+        #     print(f"deep mmerge\n{variable[key]}\n{value}\n{merged_value}")
         if merged_value is not None:
             value = merged_value
             break
@@ -188,7 +182,8 @@ def convert(all_features_input_file_path, identifiers_input_file_path, fhir_mapp
             converted_feature, binning_strategies = convert_feature(feature)
             variable = variables[feature_name]
             add_key_value_pair(variable, "feature", converted_feature)
-            add_key_value_pair(variable, "binning_strategies", binning_strategies)
+            if binning_strategies is not None:
+                add_key_value_pair(variable, "binning_strategies", binning_strategies)
 
 
     for table_name, table_identifiers in identifiers.items():
@@ -207,7 +202,7 @@ def convert(all_features_input_file_path, identifiers_input_file_path, fhir_mapp
         for column_name, feature_name in geoid_dataset_mapping["columns"].items():
             variable = variables[feature_name]
             add_key_value_pair(variable, "mapping", construct(
-                "Mapping.GEOIDMapping",
+                "geoid_mapping",
                 {
                     "dataset": geoid_dataset_name,
                     "column": column_name,
@@ -286,6 +281,7 @@ def convert(all_features_input_file_path, identifiers_input_file_path, fhir_mapp
             })
             add_key_value_pair(variable, "mapping", mapping)
 
+
     package = {}
     for variable_name, variable in variables.items():
 #        print(f"writing to {variable_name}")
@@ -307,21 +303,31 @@ def convert(all_features_input_file_path, identifiers_input_file_path, fhir_mapp
         variable_output_dir_path = os.path.join(variables_output_dir_path, dir_name)
         variable_output_file_path = os.path.join(variable_output_dir_path, file_name)
 
-        package[variable_name] = imp(f"./{dir_name}/{file_name}")
+        if "feature" in variable:
+            package[variable_name] = record_completion("FeatureVariable", imp(f"./{dir_name}/{file_name}"))
+        else:
+            print(f"cannot find feature {variable_name}")
+            
         os.makedirs(variable_output_dir_path, exist_ok=True)
         with open(variable_output_file_path, "w") as vof:
             dhall.dump(let(
                 {
                     "meta": imp("../../common/meta.dhall"),
                     **{
-                        k: identifier(f"meta.{k}") for k in ["ICEESAPIType", "Mapping", "NearestMapping", "generic_fhir_mapping", "environmental_mapping", "avg", "max", "prev_date", "integer", "range", "string", "enum", "number", "cut", "qcut", "range_bins", "no_binning", "replace", "suffix", "no_rename", "nearest_point_distance", "nearest_point_attribute", "nearest_feature_distance", "nearest_feature_attribute", "no_identifiers", "no_categories"]
+                        k: identifier(f"meta.{k}") for k in ["ICEESAPIType", "Mapping", "NearestMapping", "generic_fhir_mapping", "environmental_mapping", "avg", "max", "prev_date", "integer", "range", "string", "enum", "number", "cut", "qcut", "range_bins", "no_binning", "replace", "suffix", "no_rename", "nearest_point_distance", "nearest_point_attribute", "nearest_feature_distance", "nearest_feature_attribute", "no_identifiers", "no_categories", "no_mapping", "geoid_mapping"]
                     }
                 },
                 variable
             ), vof)
 
     with open(os.path.join(variables_output_dir_path, "package.dhall"), "w") as pof:
-        dhall.dump(package, pof)
+        dhall.dump(let(
+            {
+                "meta": imp("../common/meta.dhall"),
+                **{
+                    k: identifier(f"meta.{k}") for k in ["FeatureVariable"]
+                }
+            }, package), pof)
 
 
 if __name__ == "__main__":
