@@ -134,14 +134,26 @@ let FeatureVariable = {
 }
 
 let VariableVariant = {
-    name : Text,
-    rename : RenameAs
+    variable : FeatureVariable.Type,
+    variant : Optional Text,
+    rename : Optional RenameAs
+}
+
+let variable = \(v:FeatureVariable.Type) -> {
+    variable = v,
+    variant = None Text,
+    rename = None RenameAs
+}
+
+let variant = \(v:FeatureVariable.Type) -> \(vv: Text) -> {
+    variable = v,
+    variant = Some vv,
+    rename = None RenameAs
 }
 
 let Table = {
-    tableName: Text,
-    variable_name : Text,
-    variable_variants: Optional (List VariableVariant)
+    name: Text,
+    variables: List VariableVariant
 }
 
 in  {
@@ -180,6 +192,9 @@ in  {
     avg = Statistic.Avg,
     max = Statistic.Max,
     prev_date = Statistic.PrevDate,
+    Table = Table,
+    variable = variable,
+    variant = variant,
     generic_fhir_mapping = \(g:GenericFHIRMapping) -> Some (Mapping.GenericFHIRMapping g),
     nearest_point_distance = \ (d : Distance) -> Some (Mapping.NearestPointMapping (NearestMapping.Distance d)),
     nearest_point_attribute = \ (d : FeatureAttribute) -> Some (Mapping.NearestPointMapping (NearestMapping.FeatureAttribute d)),
