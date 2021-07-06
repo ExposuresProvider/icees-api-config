@@ -16,9 +16,6 @@ let cut = meta.cut
 let qcut = meta.qcut
 let range_bins = meta.range_bins
 let no_binning = meta.no_binning
-let replace = meta.replace
-let suffix = meta.suffix
-let no_rename = meta.no_rename
 let nearest_point_distance = meta.nearest_point_distance
 let nearest_point_attribute = meta.nearest_point_attribute
 let nearest_feature_distance = meta.nearest_feature_distance
@@ -28,32 +25,22 @@ let no_categories = meta.no_categories
 let no_mapping = meta.no_mapping
 let geoid_mapping = meta.geoid_mapping
 in {
-    name = "Avg24hFormaldehydeExposure_2",
+    name = "AvgDailyFormaldehydeExposure_2",
+    identifiers = [
+        "CHEBI:16842",
+        "PUBCHEM:712",
+        "MESH:D005557"
+    ],
+    mapping = environmental_mapping {
+        dataset = "cmaq2",
+        column = "AvgDailyFormaldehydeExposure_2"
+    },
+    statistic = prev_date,
     feature = {
         feature_type = range 1 5,
         categories = [
             "biolink:ChemicalSubstance",
             "biolink:ChemicalExposure"
-        ]
-    },
-    binning_strategies = [
-        {
-            method = qcut 5,
-            suffix = ""
-        },
-        {
-            method = qcut 5,
-            suffix = "_qcut"
-        }
-    ],
-    mapping = environmental_mapping {
-        dataset = "cmaq2",
-        column = "Avg24hFormaldehydeExposure_2",
-        statistics = [
-            {
-                statistic = prev_date,
-                rename = no_rename
-            }
         ]
     }
 }

@@ -16,9 +16,6 @@ let cut = meta.cut
 let qcut = meta.qcut
 let range_bins = meta.range_bins
 let no_binning = meta.no_binning
-let replace = meta.replace
-let suffix = meta.suffix
-let no_rename = meta.no_rename
 let nearest_point_distance = meta.nearest_point_distance
 let nearest_point_attribute = meta.nearest_point_attribute
 let nearest_feature_distance = meta.nearest_feature_distance
@@ -34,15 +31,5 @@ in {
         categories = [
             "biolink:EnvironmentalExposure"
         ]
-    },
-    binning_strategies = [
-        {
-            method = qcut 5,
-            suffix = ""
-        },
-        {
-            method = qcut 5,
-            suffix = "_qcut"
-        }
-    ]
+    }
 }

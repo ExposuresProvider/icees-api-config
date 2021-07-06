@@ -16,9 +16,6 @@ let cut = meta.cut
 let qcut = meta.qcut
 let range_bins = meta.range_bins
 let no_binning = meta.no_binning
-let replace = meta.replace
-let suffix = meta.suffix
-let no_rename = meta.no_rename
 let nearest_point_distance = meta.nearest_point_distance
 let nearest_point_attribute = meta.nearest_point_attribute
 let nearest_feature_distance = meta.nearest_feature_distance
@@ -29,20 +26,6 @@ let no_mapping = meta.no_mapping
 let geoid_mapping = meta.geoid_mapping
 in {
     name = "Race",
-    feature = {
-        feature_type = enum [
-            "Native Hawaiian/Pacific Islander",
-            "Caucasian",
-            "African American",
-            "Asian",
-            "Unknown",
-            "American/Alaskan Native",
-            "Other"
-        ],
-        categories = [
-            "biolink:PhenotypicFeature"
-        ]
-    },
     identifiers = [
         "NCIT:C17049",
         "UMLSCUI:C0034510",
@@ -206,5 +189,19 @@ in {
         "PUBCHEM.COMPOUND:102140113",
         "PUBCHEM.COMPOUND:129865605",
         "NCIT:C37932"
-    ]
+    ],
+    feature = {
+        feature_type = enum [
+            "Native Hawaiian/Pacific Islander",
+            "Caucasian",
+            "African American",
+            "Asian",
+            "Unknown",
+            "American/Alaskan Native",
+            "Other"
+        ],
+        categories = [
+            "biolink:PhenotypicFeature"
+        ]
+    }
 }

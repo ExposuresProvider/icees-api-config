@@ -5,6 +5,7 @@ from dhall import construct, application, identifier, positive_infinity, negativ
 import os.path
 import sys
 from collections import defaultdict
+from copy import deepcopy
 import tx.functional.maybe as maybe
 
 class keydefaultdict(defaultdict):
@@ -12,19 +13,30 @@ class keydefaultdict(defaultdict):
         if self.default_factory is None:
             raise KeyError( key )
         else:
-            while key.endswith("Visit"):
-                key = key[:-5]
-            while key.endswith("_qcut"):
-                key = key[:-5]
-            while key.endswith("_StudyAvg"):
-                key = key[:-9]
-            while key.endswith("_StudyMax"):
-                key = key[:-9]
             if key in self:
                 return self[key]
             else:
                 ret = self[key] = self.default_factory(key)
                 return ret
+
+
+def remove_bin_suffix(key):
+    while key.endswith("Visit"):
+        key = key[:-5]
+    while key.endswith("_qcut"):
+        key = key[:-5]
+    return key
+
+
+def normalize_feature_name(key):
+    key = remove_bin_suffix(key)
+    while key.endswith("_StudyAvg"):
+        key = key[:-9]
+    while key.endswith("_StudyMax"):
+        key = key[:-9]
+    if "24h" in key and "Exposure" in key:
+        key = key.replace("24h", "Daily")
+    return key
 
 
 def convert_feature(feature):
@@ -36,8 +48,7 @@ def convert_feature(feature):
             feature_type = application(identifier("enum"), enum)
 
         if enum is not None and {"0", "1", ">1"} == set(enum):            
-            binning_strategies = [{
-                "method": application(
+            binning_strategies = [(application(
                     identifier("range_bins"),
                     {
                         "bins" : [0.0, 1.0, 2.0, positive_infinity],
@@ -46,8 +57,8 @@ def convert_feature(feature):
                         "labels" : ["0", "1", ">1"]
                     }
                 ),
-                "suffix": ""
-            }]
+                ""
+            )]
         else:
             binning_strategies = None
     elif feature["type"] == "integer":
@@ -59,19 +70,17 @@ def convert_feature(feature):
             feature_type = application(identifier("range"), minimum, maximum)
 
         if maximum is not None and minimum is not None and minimum == 1:
-            binning_strategies = [{
-                "method": application(
+            binning_strategies = [(application(
                     identifier("qcut"),
                     maximum
                 ),
-                "suffix": ""
-            }, {
-                "method": application(
+                ""
+            ), (application(
                     identifier("qcut"),
                     maximum
                 ),
-                "suffix": "_qcut"
-            }]
+                "_qcut"
+            )]
         else:
             binning_strategies = None
     elif feature["type"] == "number":
@@ -177,30 +186,26 @@ def convert(all_features_input_file_path, identifiers_input_file_path, fhir_mapp
         "name": key
     })
 
-    for table_name, features in all_features.items():
-        for feature_name, feature in features.items():
-            converted_feature, binning_strategies = convert_feature(feature)
-            variable = variables[feature_name]
-            add_key_value_pair(variable, "feature", converted_feature)
-            if binning_strategies is not None:
-                add_key_value_pair(variable, "binning_strategies", binning_strategies)
-
-
     for table_name, table_identifiers in identifiers.items():
         for feature_name, feature_identifiers in table_identifiers.items():
-            variable = variables[feature_name]
+            feature_name2 = normalize_feature_name(feature_name)
+            print("normalized: " + feature_name2)
+            variable = variables[feature_name2]
             add_key_value_pair(variable, "identifiers", identifier("no_identifiers") if len(feature_identifiers) == 0 else feature_identifiers)
 
 
     for feature_name, fhir_mapping in fhir_mappings.get("FHIR", {}).items():
+        feature_name2 = normalize_feature_name(feature_name)
+        print("normalized: " + feature_name2)
         converted_fhir_mapping = convert_fhir_mapping(fhir_mapping)
-        variable = variables[feature_name]
+        variable = variables[feature_name2]
         add_key_value_pair(variable, "mapping", converted_fhir_mapping)
 
 
     for geoid_dataset_name, geoid_dataset_mapping in fhir_mappings["GEOID"].items():
         for column_name, feature_name in geoid_dataset_mapping["columns"].items():
-            variable = variables[feature_name]
+            feature_name2 = normalize_feature_name(feature_name)
+            variable = variables[feature_name2]
             add_key_value_pair(variable, "mapping", construct(
                 "geoid_mapping",
                 {
@@ -212,7 +217,9 @@ def convert(all_features_input_file_path, identifiers_input_file_path, fhir_mapp
 
 
     for nearest_road_dataset_name, nearest_road_dataset_mapping in fhir_mappings["NearestRoad"].items():
-        distance_variable = variables[nearest_road_dataset_mapping["distance_feature_name"]]
+        feature_name = nearest_road_dataset_mapping["distance_feature_name"]
+        feature_name2 = normalize_feature_name(feature_name)
+        distance_variable = variables[feature_name2]
         add_key_value_pair(distance_variable, "mapping", application(
             identifier("nearest_point_distance"),
             {
@@ -223,7 +230,9 @@ def convert(all_features_input_file_path, identifiers_input_file_path, fhir_mapp
         for attribute_name, feature in nearest_road_dataset_mapping["attributes_to_features_map"].items():
             feature_type = feature["feature_type"]
             datatype = convert_nearest_x_feature_type(feature_type)
-            variable = variables[feature["feature_name"]]
+            feature_name = feature["feature_name"]
+            feature_name2 = normalize_feature_name(feature_name)
+            variable = variables[feature_name2]
             add_key_value_pair(variable, "mapping", application(
                 identifier("nearest_feature_attribute"),
                 {
@@ -235,7 +244,9 @@ def convert(all_features_input_file_path, identifiers_input_file_path, fhir_mapp
 
 
     for nearest_point_dataset_name, nearest_point_dataset_mapping in fhir_mappings["NearestPoint"].items():
-        distance_variable = variables[nearest_road_dataset_mapping["distance_feature_name"]]
+        feature_name = nearest_road_dataset_mapping["distance_feature_name"]
+        feature_name2 = normalize_feature_name(feature_name)
+        distance_variable = variables[feature_name2]
         add_key_value_pair(distance_variable, "mapping", application(
             identifier("nearest_point_distance"),
             {
@@ -246,7 +257,9 @@ def convert(all_features_input_file_path, identifiers_input_file_path, fhir_mapp
         for attribute_name, feature in nearest_point_dataset_mapping["attributes_to_features_map"].items():
             feature_type = feature["feature_type"]
             datatype = convert_nearest_x_feature_type(feature_type)
-            variable = variables[feature["feature_name"]]
+            feature_name = feature["feature_name"]
+            feature_name2 = normalize_feature_name(feature_name)
+            variable = variables[feature_name2]
             add_key_value_pair(variable, "mapping", application(
                 idenfitier("nearest_point_attribute"),
                 {
@@ -261,25 +274,48 @@ def convert(all_features_input_file_path, identifiers_input_file_path, fhir_mapp
             mapping = application(identifier("environmental_mapping"), {
                 "dataset": "cmaq2" if "_2" in variable_name else "cmaq",
                 "column": variable_name,
-                "statistics": [{
-                    "statistic": identifier("max"),
-                    "rename": application(identifier("suffix"), "_StudyMax")
-                }, {
-                    "statistic": identifier("avg"),
-                    "rename": application(identifier("suffix"), "_StudyAvg")
-                }]
             })
             add_key_value_pair(variable, "mapping", mapping)
-        elif "24h" in variable_name and "Exposure" in variable_name:
-            mapping = application(identifier("environmental_mapping"), {
-                "dataset": "cmaq2" if "_2" in variable_name else "cmaq",
-                "column": variable_name,
-                "statistics": [{
-                    "statistic": identifier("prev_date"),
-                    "rename": identifier("no_rename")
-                }]
-            })
-            add_key_value_pair(variable, "mapping", mapping)
+
+    update_vars = {}
+    for variable_name, variable in variables.items():
+        if "Daily" in variable_name and "Exposure" in variable_name:
+            if "_2" in variable_name:
+                statistic = identifier("avg")
+                statistic_variable = deepcopy(variable)
+                update_vars[variable_name] = statistic_variable
+                add_key_value_pair(statistic_variable, "statistic", statistic)
+            else:
+                statistics = [(identifier("avg"),
+                    "_StudyAvg"
+                ), (identifier("max"),
+                    "_StudyMax"
+                )]
+                for statistic, suffix in statistics:
+                    statistic_variable = deepcopy(variable)
+                    variable_name2 = variable_name + suffix
+                    update_vars[variable_name2] = statistic_variable
+                    add_key_value_pair(statistic_variable, "statistic", statistic)
+
+            statistic = identifier("prev_date")
+            variable_name2 = variable_name.replace("Daily", "24h")
+            statistic_variable = deepcopy(variable)
+            update_vars[variable_name2] = statistic_variable
+            add_key_value_pair(statistic_variable, "statistic", statistic)
+    variables.update(update_vars)
+
+    for table_name, features in all_features.items():
+        for feature_name, feature in features.items():
+            feature_name = remove_bin_suffix(feature_name)
+            converted_feature, binning_strategies = convert_feature(feature)
+            variable = variables[feature_name]
+            add_key_value_pair(variable, "feature", converted_feature)
+            if binning_strategies is not None:
+                for binning_strategy, suffix in binning_strategies:
+                    binned_variable = deepcopy(variable)
+                    binned_variable_name = feature_name + suffix
+                    update_vars[binned_variable_name] = binned_variable 
+                    add_key_value_pair(binned_variable, "binning_strategy", binning_strategy)
 
 
     package = {}
@@ -314,7 +350,7 @@ def convert(all_features_input_file_path, identifiers_input_file_path, fhir_mapp
                 {
                     "meta": imp("../../common/meta.dhall"),
                     **{
-                        k: identifier(f"meta.{k}") for k in ["ICEESAPIType", "Mapping", "NearestMapping", "generic_fhir_mapping", "environmental_mapping", "avg", "max", "prev_date", "integer", "range", "string", "enum", "number", "cut", "qcut", "range_bins", "no_binning", "replace", "suffix", "no_rename", "nearest_point_distance", "nearest_point_attribute", "nearest_feature_distance", "nearest_feature_attribute", "no_identifiers", "no_categories", "no_mapping", "geoid_mapping"]
+                        k: identifier(f"meta.{k}") for k in ["ICEESAPIType", "Mapping", "NearestMapping", "generic_fhir_mapping", "environmental_mapping", "avg", "max", "prev_date", "integer", "range", "string", "enum", "number", "cut", "qcut", "range_bins", "no_binning", "nearest_point_distance", "nearest_point_attribute", "nearest_feature_distance", "nearest_feature_attribute", "no_identifiers", "no_categories", "no_mapping", "geoid_mapping"]
                     }
                 },
                 variable

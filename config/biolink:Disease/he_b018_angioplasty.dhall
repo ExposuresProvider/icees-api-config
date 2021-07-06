@@ -16,9 +16,6 @@ let cut = meta.cut
 let qcut = meta.qcut
 let range_bins = meta.range_bins
 let no_binning = meta.no_binning
-let replace = meta.replace
-let suffix = meta.suffix
-let no_rename = meta.no_rename
 let nearest_point_distance = meta.nearest_point_distance
 let nearest_point_attribute = meta.nearest_point_attribute
 let nearest_feature_distance = meta.nearest_feature_distance
@@ -29,37 +26,6 @@ let no_mapping = meta.no_mapping
 let geoid_mapping = meta.geoid_mapping
 in {
     name = "he_b018_angioplasty",
-    feature = {
-        feature_type = enum [
-            "0",
-            "1",
-            ">1"
-        ],
-        categories = [
-            "biolink:Disease",
-            "biolink:DiseaseOrPhenotypicFeature"
-        ]
-    },
-    binning_strategies = [
-        {
-            method = range_bins {
-                bins = [
-                    0.0,
-                    1.0,
-                    2.0,
-                    Infinity
-                ],
-                right = False,
-                include_lowest = True,
-                labels = [
-                    "0",
-                    "1",
-                    ">1"
-                ]
-            },
-            suffix = ""
-        }
-    ],
     identifiers = [
         "LOINC:LP268887-9",
         "LOINC:LA22097-2",
@@ -78,5 +44,16 @@ in {
         "SCITD:175882004",
         "SCITD:446051001",
         "SCITD:446878003"
-    ]
+    ],
+    feature = {
+        feature_type = enum [
+            "0",
+            "1",
+            ">1"
+        ],
+        categories = [
+            "biolink:Disease",
+            "biolink:DiseaseOrPhenotypicFeature"
+        ]
+    }
 }

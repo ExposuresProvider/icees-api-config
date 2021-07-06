@@ -16,9 +16,6 @@ let cut = meta.cut
 let qcut = meta.qcut
 let range_bins = meta.range_bins
 let no_binning = meta.no_binning
-let replace = meta.replace
-let suffix = meta.suffix
-let no_rename = meta.no_rename
 let nearest_point_distance = meta.nearest_point_distance
 let nearest_point_attribute = meta.nearest_point_attribute
 let nearest_feature_distance = meta.nearest_feature_distance
@@ -29,12 +26,6 @@ let no_mapping = meta.no_mapping
 let geoid_mapping = meta.geoid_mapping
 in {
     name = "Latency",
-    feature = {
-        feature_type = integer,
-        categories = [
-            "biolink:PhenotypicFeature"
-        ]
-    },
     identifiers = [
         "UMLS:C0429404",
         "NCIT:C154867",
@@ -63,5 +54,11 @@ in {
         "UMLS:C5195206",
         "UMLS:C0429422",
         "UMLS:C4228100"
-    ]
+    ],
+    feature = {
+        feature_type = integer,
+        categories = [
+            "biolink:PhenotypicFeature"
+        ]
+    }
 }

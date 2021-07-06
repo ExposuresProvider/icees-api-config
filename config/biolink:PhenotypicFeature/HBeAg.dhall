@@ -16,9 +16,6 @@ let cut = meta.cut
 let qcut = meta.qcut
 let range_bins = meta.range_bins
 let no_binning = meta.no_binning
-let replace = meta.replace
-let suffix = meta.suffix
-let no_rename = meta.no_rename
 let nearest_point_distance = meta.nearest_point_distance
 let nearest_point_attribute = meta.nearest_point_attribute
 let nearest_feature_distance = meta.nearest_feature_distance
@@ -29,16 +26,6 @@ let no_mapping = meta.no_mapping
 let geoid_mapping = meta.geoid_mapping
 in {
     name = "HBeAg",
-    feature = {
-        feature_type = enum [
-            "No",
-            "Yes"
-        ],
-        categories = [
-            "biolink:PhenotypicFeature",
-            "biolink:DiseaseOrPhenotypicFeature"
-        ]
-    },
     identifiers = [
         "SCITD:143472004",
         "SCITD:166104006",
@@ -51,5 +38,15 @@ in {
         "LOINC:75408-5",
         "LOINC:77739-1",
         "LOINC:5197-9"
-    ]
+    ],
+    feature = {
+        feature_type = enum [
+            "No",
+            "Yes"
+        ],
+        categories = [
+            "biolink:PhenotypicFeature",
+            "biolink:DiseaseOrPhenotypicFeature"
+        ]
+    }
 }

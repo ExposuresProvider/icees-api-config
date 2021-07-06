@@ -16,9 +16,6 @@ let cut = meta.cut
 let qcut = meta.qcut
 let range_bins = meta.range_bins
 let no_binning = meta.no_binning
-let replace = meta.replace
-let suffix = meta.suffix
-let no_rename = meta.no_rename
 let nearest_point_distance = meta.nearest_point_distance
 let nearest_point_attribute = meta.nearest_point_attribute
 let nearest_feature_distance = meta.nearest_feature_distance
@@ -29,38 +26,6 @@ let no_mapping = meta.no_mapping
 let geoid_mapping = meta.geoid_mapping
 in {
     name = "Prednisone",
-    feature = {
-        feature_type = enum [
-            "0",
-            "1",
-            ">1"
-        ],
-        categories = [
-            "biolink:ChemicalSubstance",
-            "biolink:ChemicalExposure",
-            "biolink:Drug"
-        ]
-    },
-    binning_strategies = [
-        {
-            method = range_bins {
-                bins = [
-                    0.0,
-                    1.0,
-                    2.0,
-                    Infinity
-                ],
-                right = False,
-                include_lowest = True,
-                labels = [
-                    "0",
-                    "1",
-                    ">1"
-                ]
-            },
-            suffix = ""
-        }
-    ],
     identifiers = [
         "SMILES:C[C@]12CC(:O)[C@H]3[C@@H](CCC4:CC(:O)C:C[C@]34C)[C@@H]1CC[C@]2(O)C(:O)CO",
         "CAS:68-59-7",
@@ -296,5 +261,17 @@ in {
             code = "1303132",
             system = "http://www.nlm.nih.gov/research/umls/rxnorm"
         }
-    ]
+    ],
+    feature = {
+        feature_type = enum [
+            "0",
+            "1",
+            ">1"
+        ],
+        categories = [
+            "biolink:ChemicalSubstance",
+            "biolink:ChemicalExposure",
+            "biolink:Drug"
+        ]
+    }
 }

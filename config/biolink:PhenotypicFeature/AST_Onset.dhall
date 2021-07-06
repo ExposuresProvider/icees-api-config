@@ -16,9 +16,6 @@ let cut = meta.cut
 let qcut = meta.qcut
 let range_bins = meta.range_bins
 let no_binning = meta.no_binning
-let replace = meta.replace
-let suffix = meta.suffix
-let no_rename = meta.no_rename
 let nearest_point_distance = meta.nearest_point_distance
 let nearest_point_attribute = meta.nearest_point_attribute
 let nearest_feature_distance = meta.nearest_feature_distance
@@ -29,13 +26,6 @@ let no_mapping = meta.no_mapping
 let geoid_mapping = meta.geoid_mapping
 in {
     name = "AST_Onset",
-    feature = {
-        feature_type = integer,
-        categories = [
-            "biolink:PhenotypicFeature",
-            "biolink:DiseaseOrPhenotypicFeature"
-        ]
-    },
     identifiers = [
         "UMLS:C0264413",
         "UMLS:C1844940",
@@ -82,5 +72,12 @@ in {
         "MONDO:0010040",
         "MONDO:0010729",
         "MONDO:0100016"
-    ]
+    ],
+    feature = {
+        feature_type = integer,
+        categories = [
+            "biolink:PhenotypicFeature",
+            "biolink:DiseaseOrPhenotypicFeature"
+        ]
+    }
 }

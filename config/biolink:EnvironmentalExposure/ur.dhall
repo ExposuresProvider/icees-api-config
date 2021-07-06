@@ -16,9 +16,6 @@ let cut = meta.cut
 let qcut = meta.qcut
 let range_bins = meta.range_bins
 let no_binning = meta.no_binning
-let replace = meta.replace
-let suffix = meta.suffix
-let no_rename = meta.no_rename
 let nearest_point_distance = meta.nearest_point_distance
 let nearest_point_attribute = meta.nearest_point_attribute
 let nearest_feature_distance = meta.nearest_feature_distance
@@ -29,15 +26,6 @@ let no_mapping = meta.no_mapping
 let geoid_mapping = meta.geoid_mapping
 in {
     name = "ur",
-    feature = {
-        feature_type = enum [
-            "R",
-            "U"
-        ],
-        categories = [
-            "biolink:EnvironmentalExposure"
-        ]
-    },
     identifiers = [
         "NCIT:C45781",
         "UMLSCUI:C0178587",
@@ -47,5 +35,14 @@ in {
         dataset = "acsUR",
         column = "ur",
         datatype = string
+    },
+    feature = {
+        feature_type = enum [
+            "R",
+            "U"
+        ],
+        categories = [
+            "biolink:EnvironmentalExposure"
+        ]
     }
 }

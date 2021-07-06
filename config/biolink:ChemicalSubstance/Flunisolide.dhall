@@ -16,9 +16,6 @@ let cut = meta.cut
 let qcut = meta.qcut
 let range_bins = meta.range_bins
 let no_binning = meta.no_binning
-let replace = meta.replace
-let suffix = meta.suffix
-let no_rename = meta.no_rename
 let nearest_point_distance = meta.nearest_point_distance
 let nearest_point_attribute = meta.nearest_point_attribute
 let nearest_feature_distance = meta.nearest_feature_distance
@@ -29,38 +26,6 @@ let no_mapping = meta.no_mapping
 let geoid_mapping = meta.geoid_mapping
 in {
     name = "Flunisolide",
-    feature = {
-        feature_type = enum [
-            "0",
-            "1",
-            ">1"
-        ],
-        categories = [
-            "biolink:ChemicalSubstance",
-            "biolink:ChemicalExposure",
-            "biolink:Drug"
-        ]
-    },
-    binning_strategies = [
-        {
-            method = range_bins {
-                bins = [
-                    0.0,
-                    1.0,
-                    2.0,
-                    Infinity
-                ],
-                right = False,
-                include_lowest = True,
-                labels = [
-                    "0",
-                    "1",
-                    ">1"
-                ]
-            },
-            suffix = ""
-        }
-    ],
     identifiers = [
         "SMILES:O.CC1(C)O[C@@H]2CC3[C@@H]4C[C@H](F)C5:CC(:O)C:CC5(C)[C@H]4[C@@H](O)C[C@]3(C)[C@@]2(O1)C(:O)CO.CC6(C)O[C@@H]7CC8[C@@H]9C[C@H](F)C%10:CC(:O)C:CC%10(C)[C@H]9[C@@H](O)C[C@]8(C)[C@@]7(O6)C(:O)CO",
         "CAS:77326-96-6",
@@ -130,5 +95,17 @@ in {
             code = "1797863",
             system = "http://www.nlm.nih.gov/research/umls/rxnorm"
         }
-    ]
+    ],
+    feature = {
+        feature_type = enum [
+            "0",
+            "1",
+            ">1"
+        ],
+        categories = [
+            "biolink:ChemicalSubstance",
+            "biolink:ChemicalExposure",
+            "biolink:Drug"
+        ]
+    }
 }

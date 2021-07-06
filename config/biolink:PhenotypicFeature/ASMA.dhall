@@ -16,9 +16,6 @@ let cut = meta.cut
 let qcut = meta.qcut
 let range_bins = meta.range_bins
 let no_binning = meta.no_binning
-let replace = meta.replace
-let suffix = meta.suffix
-let no_rename = meta.no_rename
 let nearest_point_distance = meta.nearest_point_distance
 let nearest_point_attribute = meta.nearest_point_attribute
 let nearest_feature_distance = meta.nearest_feature_distance
@@ -29,16 +26,6 @@ let no_mapping = meta.no_mapping
 let geoid_mapping = meta.geoid_mapping
 in {
     name = "ASMA",
-    feature = {
-        feature_type = enum [
-            "No",
-            "Yes"
-        ],
-        categories = [
-            "biolink:PhenotypicFeature",
-            "biolink:DiseaseOrPhenotypicFeature"
-        ]
-    },
     identifiers = [
         "MESH:C519298",
         "PUBCHEM.COMPOUND:14318164",
@@ -191,5 +178,15 @@ in {
         "MONDO:0017364",
         "MONDO:0018621",
         "MONDO:0043275"
-    ]
+    ],
+    feature = {
+        feature_type = enum [
+            "No",
+            "Yes"
+        ],
+        categories = [
+            "biolink:PhenotypicFeature",
+            "biolink:DiseaseOrPhenotypicFeature"
+        ]
+    }
 }

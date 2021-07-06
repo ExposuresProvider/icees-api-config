@@ -16,9 +16,6 @@ let cut = meta.cut
 let qcut = meta.qcut
 let range_bins = meta.range_bins
 let no_binning = meta.no_binning
-let replace = meta.replace
-let suffix = meta.suffix
-let no_rename = meta.no_rename
 let nearest_point_distance = meta.nearest_point_distance
 let nearest_point_attribute = meta.nearest_point_attribute
 let nearest_feature_distance = meta.nearest_feature_distance
@@ -29,17 +26,6 @@ let no_mapping = meta.no_mapping
 let geoid_mapping = meta.geoid_mapping
 in {
     name = "ConcomitantDrugs",
-    feature = {
-        feature_type = enum [
-            "0-2",
-            "3-4",
-            ">5"
-        ],
-        categories = [
-            "biolink:PhenotypicFeature",
-            "biolink:DiseaseOrPhenotypicFeature"
-        ]
-    },
     identifiers = [
         "UMLS:C1536016",
         "LOINC:81950-8",
@@ -85,5 +71,16 @@ in {
         "SCTID:105359004",
         "SCTID:39993",
         "SCTID:329007"
-    ]
+    ],
+    feature = {
+        feature_type = enum [
+            "0-2",
+            "3-4",
+            ">5"
+        ],
+        categories = [
+            "biolink:PhenotypicFeature",
+            "biolink:DiseaseOrPhenotypicFeature"
+        ]
+    }
 }

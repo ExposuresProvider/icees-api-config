@@ -16,9 +16,6 @@ let cut = meta.cut
 let qcut = meta.qcut
 let range_bins = meta.range_bins
 let no_binning = meta.no_binning
-let replace = meta.replace
-let suffix = meta.suffix
-let no_rename = meta.no_rename
 let nearest_point_distance = meta.nearest_point_distance
 let nearest_point_attribute = meta.nearest_point_attribute
 let nearest_feature_distance = meta.nearest_feature_distance
@@ -29,6 +26,16 @@ let no_mapping = meta.no_mapping
 let geoid_mapping = meta.geoid_mapping
 in {
     name = "Age",
+    identifiers = [
+        "NCIT:C25150",
+        "UMLSCUI:C0001779",
+        "NCIT:C69217",
+        "UMLSCUI:C2348002",
+        "NCIT:C37908",
+        "UMLSCUI:C1510829",
+        "SCTID:424144002",
+        "SCTID:397669002"
+    ],
     feature = {
         feature_type = enum [
             "0-2",
@@ -41,15 +48,5 @@ in {
         categories = [
             "biolink:PhenotypicFeature"
         ]
-    },
-    identifiers = [
-        "NCIT:C25150",
-        "UMLSCUI:C0001779",
-        "NCIT:C69217",
-        "UMLSCUI:C2348002",
-        "NCIT:C37908",
-        "UMLSCUI:C1510829",
-        "SCTID:424144002",
-        "SCTID:397669002"
-    ]
+    }
 }

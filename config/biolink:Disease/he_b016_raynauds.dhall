@@ -16,9 +16,6 @@ let cut = meta.cut
 let qcut = meta.qcut
 let range_bins = meta.range_bins
 let no_binning = meta.no_binning
-let replace = meta.replace
-let suffix = meta.suffix
-let no_rename = meta.no_rename
 let nearest_point_distance = meta.nearest_point_distance
 let nearest_point_attribute = meta.nearest_point_attribute
 let nearest_feature_distance = meta.nearest_feature_distance
@@ -29,6 +26,16 @@ let no_mapping = meta.no_mapping
 let geoid_mapping = meta.geoid_mapping
 in {
     name = "he_b016_raynauds",
+    identifiers = [
+        "MESH:D011928",
+        "SCITD:22954002",
+        "SCITD:195295006",
+        "SCITD:195296007",
+        "SCITD:266261006",
+        "SCITD:73483003",
+        "SCITD:403674007",
+        "LOINC:67732-8"
+    ],
     feature = {
         feature_type = enum [
             "0",
@@ -39,35 +46,5 @@ in {
             "biolink:Disease",
             "biolink:DiseaseOrPhenotypicFeature"
         ]
-    },
-    binning_strategies = [
-        {
-            method = range_bins {
-                bins = [
-                    0.0,
-                    1.0,
-                    2.0,
-                    Infinity
-                ],
-                right = False,
-                include_lowest = True,
-                labels = [
-                    "0",
-                    "1",
-                    ">1"
-                ]
-            },
-            suffix = ""
-        }
-    ],
-    identifiers = [
-        "MESH:D011928",
-        "SCITD:22954002",
-        "SCITD:195295006",
-        "SCITD:195296007",
-        "SCITD:266261006",
-        "SCITD:73483003",
-        "SCITD:403674007",
-        "LOINC:67732-8"
-    ]
+    }
 }

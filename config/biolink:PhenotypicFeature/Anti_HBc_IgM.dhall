@@ -16,9 +16,6 @@ let cut = meta.cut
 let qcut = meta.qcut
 let range_bins = meta.range_bins
 let no_binning = meta.no_binning
-let replace = meta.replace
-let suffix = meta.suffix
-let no_rename = meta.no_rename
 let nearest_point_distance = meta.nearest_point_distance
 let nearest_point_attribute = meta.nearest_point_attribute
 let nearest_feature_distance = meta.nearest_feature_distance
@@ -29,6 +26,13 @@ let no_mapping = meta.no_mapping
 let geoid_mapping = meta.geoid_mapping
 in {
     name = "Anti_HBc_IgM",
+    identifiers = [
+        "UMLS:C0948251",
+        "SCTID:143335009",
+        "SCTID:165947003",
+        "SCTID:995951000000103",
+        "SCTID:50506008"
+    ],
     feature = {
         feature_type = enum [
             "No",
@@ -38,12 +42,5 @@ in {
             "biolink:PhenotypicFeature",
             "biolink:DiseaseOrPhenotypicFeature"
         ]
-    },
-    identifiers = [
-        "UMLS:C0948251",
-        "SCTID:143335009",
-        "SCTID:165947003",
-        "SCTID:995951000000103",
-        "SCTID:50506008"
-    ]
+    }
 }

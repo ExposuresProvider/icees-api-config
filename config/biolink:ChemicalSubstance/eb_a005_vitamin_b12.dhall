@@ -16,9 +16,6 @@ let cut = meta.cut
 let qcut = meta.qcut
 let range_bins = meta.range_bins
 let no_binning = meta.no_binning
-let replace = meta.replace
-let suffix = meta.suffix
-let no_rename = meta.no_rename
 let nearest_point_distance = meta.nearest_point_distance
 let nearest_point_attribute = meta.nearest_point_attribute
 let nearest_feature_distance = meta.nearest_feature_distance
@@ -29,6 +26,13 @@ let no_mapping = meta.no_mapping
 let geoid_mapping = meta.geoid_mapping
 in {
     name = "eb_a005_vitamin_b12",
+    identifiers = [
+        "MESH:D014805",
+        "LOINC:LP102723-6",
+        "CHEBI:15982",
+        "CHEBI:17439",
+        "CHEBI:48568"
+    ],
     feature = {
         feature_type = enum [
             "0",
@@ -40,32 +44,5 @@ in {
             "biolink:ChemicalExposure",
             "biolink:Drug"
         ]
-    },
-    binning_strategies = [
-        {
-            method = range_bins {
-                bins = [
-                    0.0,
-                    1.0,
-                    2.0,
-                    Infinity
-                ],
-                right = False,
-                include_lowest = True,
-                labels = [
-                    "0",
-                    "1",
-                    ">1"
-                ]
-            },
-            suffix = ""
-        }
-    ],
-    identifiers = [
-        "MESH:D014805",
-        "LOINC:LP102723-6",
-        "CHEBI:15982",
-        "CHEBI:17439",
-        "CHEBI:48568"
-    ]
+    }
 }

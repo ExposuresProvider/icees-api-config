@@ -16,9 +16,6 @@ let cut = meta.cut
 let qcut = meta.qcut
 let range_bins = meta.range_bins
 let no_binning = meta.no_binning
-let replace = meta.replace
-let suffix = meta.suffix
-let no_rename = meta.no_rename
 let nearest_point_distance = meta.nearest_point_distance
 let nearest_point_attribute = meta.nearest_point_attribute
 let nearest_feature_distance = meta.nearest_feature_distance
@@ -29,12 +26,6 @@ let no_mapping = meta.no_mapping
 let geoid_mapping = meta.geoid_mapping
 in {
     name = "CharlsonComorbidityIndex",
-    feature = {
-        feature_type = range 0 37,
-        categories = [
-            "biolink:PhenotypicFeature"
-        ]
-    },
     identifiers = [
         "NCIT:C176422",
         "SCTID:762713009",
@@ -49,5 +40,11 @@ in {
             system = "http://hl7.org/fhir/sid/icd-10-cm*",
             code = "M65.32"
         }
-    ]
+    ],
+    feature = {
+        feature_type = range 0 37,
+        categories = [
+            "biolink:PhenotypicFeature"
+        ]
+    }
 }

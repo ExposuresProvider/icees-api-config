@@ -16,9 +16,6 @@ let cut = meta.cut
 let qcut = meta.qcut
 let range_bins = meta.range_bins
 let no_binning = meta.no_binning
-let replace = meta.replace
-let suffix = meta.suffix
-let no_rename = meta.no_rename
 let nearest_point_distance = meta.nearest_point_distance
 let nearest_point_attribute = meta.nearest_point_attribute
 let nearest_feature_distance = meta.nearest_feature_distance
@@ -29,6 +26,14 @@ let no_mapping = meta.no_mapping
 let geoid_mapping = meta.geoid_mapping
 in {
     name = "ICU",
+    identifiers = [
+        "NCIT:C53511",
+        "UMLSCUI:C0021708",
+        "NCIT:C171454",
+        "LOINC:LP173045-8",
+        "SCTID:309904001",
+        "LOINC:LP76050-1"
+    ],
     feature = {
         feature_type = enum [
             "No",
@@ -38,13 +43,5 @@ in {
             "biolink:PhenotypicFeature",
             "biolink:DiseaseOrPhenotypicFeature"
         ]
-    },
-    identifiers = [
-        "NCIT:C53511",
-        "UMLSCUI:C0021708",
-        "NCIT:C171454",
-        "LOINC:LP173045-8",
-        "SCTID:309904001",
-        "LOINC:LP76050-1"
-    ]
+    }
 }

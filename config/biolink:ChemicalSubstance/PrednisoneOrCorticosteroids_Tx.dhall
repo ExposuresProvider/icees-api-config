@@ -16,9 +16,6 @@ let cut = meta.cut
 let qcut = meta.qcut
 let range_bins = meta.range_bins
 let no_binning = meta.no_binning
-let replace = meta.replace
-let suffix = meta.suffix
-let no_rename = meta.no_rename
 let nearest_point_distance = meta.nearest_point_distance
 let nearest_point_attribute = meta.nearest_point_attribute
 let nearest_feature_distance = meta.nearest_feature_distance
@@ -29,17 +26,6 @@ let no_mapping = meta.no_mapping
 let geoid_mapping = meta.geoid_mapping
 in {
     name = "PrednisoneOrCorticosteroids_Tx",
-    feature = {
-        feature_type = enum [
-            "No",
-            "Yes"
-        ],
-        categories = [
-            "biolink:ChemicalSubstance",
-            "biolink:ChemicalExposure",
-            "biolink:Drug"
-        ]
-    },
     identifiers = [
         "CHEBI:50858",
         "NCIT:C142385",
@@ -98,5 +84,16 @@ in {
         "ICD9:E950.%",
         "ICD9:E962.%",
         "ICD9:E980.%"
-    ]
+    ],
+    feature = {
+        feature_type = enum [
+            "No",
+            "Yes"
+        ],
+        categories = [
+            "biolink:ChemicalSubstance",
+            "biolink:ChemicalExposure",
+            "biolink:Drug"
+        ]
+    }
 }

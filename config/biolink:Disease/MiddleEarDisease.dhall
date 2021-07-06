@@ -16,9 +16,6 @@ let cut = meta.cut
 let qcut = meta.qcut
 let range_bins = meta.range_bins
 let no_binning = meta.no_binning
-let replace = meta.replace
-let suffix = meta.suffix
-let no_rename = meta.no_rename
 let nearest_point_distance = meta.nearest_point_distance
 let nearest_point_attribute = meta.nearest_point_attribute
 let nearest_feature_distance = meta.nearest_feature_distance
@@ -29,37 +26,6 @@ let no_mapping = meta.no_mapping
 let geoid_mapping = meta.geoid_mapping
 in {
     name = "MiddleEarDisease",
-    feature = {
-        feature_type = enum [
-            "0",
-            "1",
-            ">1"
-        ],
-        categories = [
-            "biolink:Disease",
-            "biolink:DiseaseOrPhenotypicFeature"
-        ]
-    },
-    binning_strategies = [
-        {
-            method = range_bins {
-                bins = [
-                    0.0,
-                    1.0,
-                    2.0,
-                    Infinity
-                ],
-                right = False,
-                include_lowest = True,
-                labels = [
-                    "0",
-                    "1",
-                    ">1"
-                ]
-            },
-            suffix = ""
-        }
-    ],
     identifiers = [
         "MONDO:0003276",
         "MONDO:0001234",
@@ -83,5 +49,16 @@ in {
             system = "https://browser.ihtsdotools.org",
             code = "SCTID: 65363002"
         }
-    ]
+    ],
+    feature = {
+        feature_type = enum [
+            "0",
+            "1",
+            ">1"
+        ],
+        categories = [
+            "biolink:Disease",
+            "biolink:DiseaseOrPhenotypicFeature"
+        ]
+    }
 }

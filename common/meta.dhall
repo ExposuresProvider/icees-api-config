@@ -42,17 +42,8 @@ let SpecializedFHIRMapping =
       | BMI
       >
 
-let Statistic = < Max | Min | Avg | StdDev | PrevDate >
-
-let RenameAs = < Suffix : Text | Replace : Text | NoRename >
-
-let StatisticVariant = {
-    statistic : Statistic,
-    rename : RenameAs
-}
-
 let EnvironmentalMapping =
-      { dataset : Text, column : Text, statistics : List StatisticVariant }
+      { dataset : Text, column : Text }
 
 let TypeInteger = {
     minimum : Optional Integer,
@@ -88,6 +79,8 @@ let Mapping =
       | NoMapping
       >
 
+let no_mapping = None Mapping
+
 let Category = Text
 
 let ICEESFeature = {
@@ -96,6 +89,10 @@ let ICEESFeature = {
 }
 
 let Identifiers = List Text
+
+let Statistic = < Max | Min | Avg | StdDev | PrevDate >
+
+let no_statistic = None Statistic
 
 let RangeBins =
       { bins : List Double
@@ -108,53 +105,37 @@ let BinString = List Text
 
 let Bins = < RangeBins : RangeBins | String : List (List Text) >
 
-let BinningMethod = < Cut : Natural | QCut : Natural | Bins : Bins | NoBinning >
+let BinningStrategy = < Cut : Natural | QCut : Natural | Bins : Bins >
 
-let BinningStrategy = {
-    method : BinningMethod,
-    suffix : Text
-}
+let no_binning = None BinningStrategy
+
+let no_identifiers = [] : Identifiers
+
+let no_categories = [] : List Category
 
 let FeatureVariable = {
     Type = {
         name : Text,
 	mapping : Optional Mapping,
-        binning_strategies : List BinningStrategy,
+	statistic : Optional Statistic,
+        binning_strategy : Optional BinningStrategy,
         feature : ICEESFeature,
 	identifiers : Identifiers
     },
     default = {
-	mapping = None Mapping,
-	binning_strategies = [{
-            method = BinningMethod.NoBinning,
-            suffix = ""
-        }],
-	identifiers = [] : Identifiers
+	mapping = no_mapping,
+	statistic = no_statistic,
+	binning_strategy = no_binning,
+	identifiers = no_identifiers
     }
-}
-
-let VariableVariant = {
-    variable : FeatureVariable.Type,
-    variant : Optional Text,
-    rename : Optional RenameAs
-}
-
-let variable = \(v:FeatureVariable.Type) -> {
-    variable = v,
-    variant = None Text,
-    rename = None RenameAs
-}
-
-let variant = \(v:FeatureVariable.Type) -> \(vv: Text) -> {
-    variable = v,
-    variant = Some vv,
-    rename = None RenameAs
 }
 
 let Table = {
     name: Text,
-    variables: List VariableVariant
+    variables: FeatureVariable.Type
 }
+
+let DataSet = List Table
 
 in  {
     FeatureVariable = FeatureVariable,
@@ -162,7 +143,11 @@ in  {
     ICEESAPIType = ICEESAPIType,
     Mapping = Mapping,
     NearestMapping = NearestMapping,
-    no_mapping = None Mapping,
+    no_mapping = no_mapping,
+    no_statistic = no_statistic,
+    no_binning = no_binning,
+    no_identifiers = no_identifiers,
+    no_categories = no_categories,
     geoid_mapping = \(g:GEOIDMapping) -> Some (Mapping.GEOIDMapping g),
     range = \ (minimum : Natural) -> \ (maximum : Natural) -> ICEESAPIType.Integer {
         maximum = Some (Natural/toInteger maximum),
@@ -179,22 +164,15 @@ in  {
         enum = Some e
     },
     number = ICEESAPIType.Number,
-    no_identifiers = [] : Identifiers,
-    no_categories = [] : List Category,
-    cut = BinningMethod.Cut,
-    qcut = BinningMethod.QCut,
-    range_bins = \ (rbs : RangeBins) -> BinningMethod.Bins (Bins.RangeBins rbs),
-    no_binning = BinningMethod.NoBinning,
-    replace = RenameAs.Replace,
-    suffix = RenameAs.Suffix,
-    no_rename = RenameAs.NoRename,
+    cut = \(a: Natural) -> Some (BinningStrategy.Cut a),
+    qcut = \(a: Natural) -> Some (BinningStrategy.QCut a),
+    range_bins = \ (rbs : RangeBins) -> Some (BinningStrategy.Bins (Bins.RangeBins rbs)),
     environmental_mapping = \(e:EnvironmentalMapping) -> Some (Mapping.EnvironmentalMapping e),
-    avg = Statistic.Avg,
-    max = Statistic.Max,
-    prev_date = Statistic.PrevDate,
+    avg = Some Statistic.Avg,
+    max = Some Statistic.Max,
+    prev_date = Some Statistic.PrevDate,
     Table = Table,
-    variable = variable,
-    variant = variant,
+    DataSet = DataSet,
     generic_fhir_mapping = \(g:GenericFHIRMapping) -> Some (Mapping.GenericFHIRMapping g),
     nearest_point_distance = \ (d : Distance) -> Some (Mapping.NearestPointMapping (NearestMapping.Distance d)),
     nearest_point_attribute = \ (d : FeatureAttribute) -> Some (Mapping.NearestPointMapping (NearestMapping.FeatureAttribute d)),

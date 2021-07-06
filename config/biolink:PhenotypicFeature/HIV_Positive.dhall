@@ -16,9 +16,6 @@ let cut = meta.cut
 let qcut = meta.qcut
 let range_bins = meta.range_bins
 let no_binning = meta.no_binning
-let replace = meta.replace
-let suffix = meta.suffix
-let no_rename = meta.no_rename
 let nearest_point_distance = meta.nearest_point_distance
 let nearest_point_attribute = meta.nearest_point_attribute
 let nearest_feature_distance = meta.nearest_feature_distance
@@ -29,6 +26,15 @@ let no_mapping = meta.no_mapping
 let geoid_mapping = meta.geoid_mapping
 in {
     name = "HIV_Positive",
+    identifiers = [
+        "NCIT:C15175",
+        "UMLS:C0855843",
+        "UMLS:C0860724",
+        "UMLS:C0740290",
+        "UMLS:C0456101",
+        "SCITD:165816005",
+        "SCITD:143224002"
+    ],
     feature = {
         feature_type = enum [
             "No",
@@ -38,14 +44,5 @@ in {
             "biolink:PhenotypicFeature",
             "biolink:DiseaseOrPhenotypicFeature"
         ]
-    },
-    identifiers = [
-        "NCIT:C15175",
-        "UMLS:C0855843",
-        "UMLS:C0860724",
-        "UMLS:C0740290",
-        "UMLS:C0456101",
-        "SCITD:165816005",
-        "SCITD:143224002"
-    ]
+    }
 }

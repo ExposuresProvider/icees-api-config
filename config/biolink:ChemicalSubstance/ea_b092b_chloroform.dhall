@@ -16,9 +16,6 @@ let cut = meta.cut
 let qcut = meta.qcut
 let range_bins = meta.range_bins
 let no_binning = meta.no_binning
-let replace = meta.replace
-let suffix = meta.suffix
-let no_rename = meta.no_rename
 let nearest_point_distance = meta.nearest_point_distance
 let nearest_point_attribute = meta.nearest_point_attribute
 let nearest_feature_distance = meta.nearest_feature_distance
@@ -29,37 +26,6 @@ let no_mapping = meta.no_mapping
 let geoid_mapping = meta.geoid_mapping
 in {
     name = "ea_b092b_chloroform",
-    feature = {
-        feature_type = enum [
-            "0",
-            "1",
-            ">1"
-        ],
-        categories = [
-            "biolink:ChemicalSubstance",
-            "biolink:ChemicalExposure"
-        ]
-    },
-    binning_strategies = [
-        {
-            method = range_bins {
-                bins = [
-                    0.0,
-                    1.0,
-                    2.0,
-                    Infinity
-                ],
-                right = False,
-                include_lowest = True,
-                labels = [
-                    "0",
-                    "1",
-                    ">1"
-                ]
-            },
-            suffix = ""
-        }
-    ],
     identifiers = [
         "CHEBI:35255",
         "CHEBI:85365",
@@ -70,5 +36,16 @@ in {
         "CHEBI:29365",
         "CHEBI:34576",
         "PUBCHEM:6212"
-    ]
+    ],
+    feature = {
+        feature_type = enum [
+            "0",
+            "1",
+            ">1"
+        ],
+        categories = [
+            "biolink:ChemicalSubstance",
+            "biolink:ChemicalExposure"
+        ]
+    }
 }

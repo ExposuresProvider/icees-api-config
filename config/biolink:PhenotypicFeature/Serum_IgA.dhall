@@ -16,9 +16,6 @@ let cut = meta.cut
 let qcut = meta.qcut
 let range_bins = meta.range_bins
 let no_binning = meta.no_binning
-let replace = meta.replace
-let suffix = meta.suffix
-let no_rename = meta.no_rename
 let nearest_point_distance = meta.nearest_point_distance
 let nearest_point_attribute = meta.nearest_point_attribute
 let nearest_feature_distance = meta.nearest_feature_distance
@@ -29,16 +26,6 @@ let no_mapping = meta.no_mapping
 let geoid_mapping = meta.geoid_mapping
 in {
     name = "Serum_IgA",
-    feature = {
-        feature_type = enum [
-            "No",
-            "Yes"
-        ],
-        categories = [
-            "biolink:PhenotypicFeature",
-            "biolink:DiseaseOrPhenotypicFeature"
-        ]
-    },
     identifiers = [
         "UMLS:C3276783",
         "UMLS:C3278891",
@@ -61,5 +48,15 @@ in {
         "LOINC:LP394673-0",
         "LOINC:LP394360-4",
         "CPT:82784"
-    ]
+    ],
+    feature = {
+        feature_type = enum [
+            "No",
+            "Yes"
+        ],
+        categories = [
+            "biolink:PhenotypicFeature",
+            "biolink:DiseaseOrPhenotypicFeature"
+        ]
+    }
 }

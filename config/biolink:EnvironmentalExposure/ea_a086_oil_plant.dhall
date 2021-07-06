@@ -16,9 +16,6 @@ let cut = meta.cut
 let qcut = meta.qcut
 let range_bins = meta.range_bins
 let no_binning = meta.no_binning
-let replace = meta.replace
-let suffix = meta.suffix
-let no_rename = meta.no_rename
 let nearest_point_distance = meta.nearest_point_distance
 let nearest_point_attribute = meta.nearest_point_attribute
 let nearest_feature_distance = meta.nearest_feature_distance
@@ -29,6 +26,11 @@ let no_mapping = meta.no_mapping
 let geoid_mapping = meta.geoid_mapping
 in {
     name = "ea_a086_oil_plant",
+    identifiers = [
+        "ENVO:00000120",
+        "ENVO:01000003",
+        "ENVO:00002185"
+    ],
     feature = {
         feature_type = enum [
             "Live more than 2 miles away",
@@ -40,10 +42,5 @@ in {
         categories = [
             "biolink:EnvironmentalExposure"
         ]
-    },
-    identifiers = [
-        "ENVO:00000120",
-        "ENVO:01000003",
-        "ENVO:00002185"
-    ]
+    }
 }

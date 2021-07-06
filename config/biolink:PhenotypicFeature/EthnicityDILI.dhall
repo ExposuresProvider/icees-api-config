@@ -16,9 +16,6 @@ let cut = meta.cut
 let qcut = meta.qcut
 let range_bins = meta.range_bins
 let no_binning = meta.no_binning
-let replace = meta.replace
-let suffix = meta.suffix
-let no_rename = meta.no_rename
 let nearest_point_distance = meta.nearest_point_distance
 let nearest_point_attribute = meta.nearest_point_attribute
 let nearest_feature_distance = meta.nearest_feature_distance
@@ -29,6 +26,15 @@ let no_mapping = meta.no_mapping
 let geoid_mapping = meta.geoid_mapping
 in {
     name = "EthnicityDILI",
+    identifiers = [
+        "NCIT:C29933",
+        "NCIT:C16564",
+        "UMLSCUI:C0015031",
+        "SCTID:186034007",
+        "UMLS:C2733502",
+        "UMLS:C1287117",
+        "UMLS:C1301552"
+    ],
     feature = {
         feature_type = enum [
             "No",
@@ -38,14 +44,5 @@ in {
             "biolink:PhenotypicFeature",
             "biolink:DiseaseOrPhenotypicFeature"
         ]
-    },
-    identifiers = [
-        "NCIT:C29933",
-        "NCIT:C16564",
-        "UMLSCUI:C0015031",
-        "SCTID:186034007",
-        "UMLS:C2733502",
-        "UMLS:C1287117",
-        "UMLS:C1301552"
-    ]
+    }
 }

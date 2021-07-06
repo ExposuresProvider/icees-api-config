@@ -16,9 +16,6 @@ let cut = meta.cut
 let qcut = meta.qcut
 let range_bins = meta.range_bins
 let no_binning = meta.no_binning
-let replace = meta.replace
-let suffix = meta.suffix
-let no_rename = meta.no_rename
 let nearest_point_distance = meta.nearest_point_distance
 let nearest_point_attribute = meta.nearest_point_attribute
 let nearest_feature_distance = meta.nearest_feature_distance
@@ -29,22 +26,6 @@ let no_mapping = meta.no_mapping
 let geoid_mapping = meta.geoid_mapping
 in {
     name = "EstProbabilityHouseholdNonHispWhite",
-    feature = {
-        feature_type = range 1 4,
-        categories = [
-            "biolink:EnvironmentalExposure"
-        ]
-    },
-    binning_strategies = [
-        {
-            method = qcut 4,
-            suffix = ""
-        },
-        {
-            method = qcut 4,
-            suffix = "_qcut"
-        }
-    ],
     identifiers = [
         "NCIT:C93992",
         "UMLSCUI:C2986190",
@@ -54,5 +35,11 @@ in {
         dataset = "acs",
         column = "prp_nHwHHs",
         datatype = string
+    },
+    feature = {
+        feature_type = range 1 4,
+        categories = [
+            "biolink:EnvironmentalExposure"
+        ]
     }
 }
