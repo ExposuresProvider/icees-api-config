@@ -1,6 +1,6 @@
 let meta = ../../common/meta.dhall
-let no_categories = meta.no_categories
 let range = meta.range
+let no_categories = meta.no_categories
 in {
     name = "Inflluenza7pointClinicalStatusScore",
     feature = {

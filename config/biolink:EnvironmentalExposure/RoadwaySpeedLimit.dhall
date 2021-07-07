@@ -1,6 +1,6 @@
 let meta = ../../common/meta.dhall
-let number = meta.number
 let nearest_feature_attribute = meta.nearest_feature_attribute
+let number = meta.number
 let integer = meta.integer
 in {
     name = "RoadwaySpeedLimit",

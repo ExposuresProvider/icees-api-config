@@ -1,8 +1,8 @@
 let meta = ../../common/meta.dhall
-let cut = meta.cut
 let environmental_mapping = meta.environmental_mapping
-let range = meta.range
 let avg = meta.avg
+let range = meta.range
+let cut = meta.cut
 in {
     name = "AvgDailyNOExposure_2",
     identifiers = [

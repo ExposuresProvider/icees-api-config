@@ -1,7 +1,7 @@
 let meta = ../../common/meta.dhall
 let geoid_mapping = meta.geoid_mapping
-let range = meta.range
 let string = meta.string
+let range = meta.range
 let qcut = meta.qcut
 in {
     name = "EstProbabilityNoAuto_qcut",

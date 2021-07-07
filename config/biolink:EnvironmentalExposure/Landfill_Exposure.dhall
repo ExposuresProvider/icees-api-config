@@ -1,8 +1,13 @@
 let meta = ../../common/meta.dhall
-let range_bins = meta.range_bins
+let nearest_point_distance = meta.nearest_point_distance
 let range = meta.range
+let range_bins = meta.range_bins
 in {
     name = "Landfill_Exposure",
+    mapping = nearest_point_distance {
+        dataset = "landfill",
+        maximum = 4000.0
+    },
     feature = {
         feature_type = range 1 6,
         categories = [

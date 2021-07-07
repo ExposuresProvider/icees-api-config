@@ -1,3 +1,6 @@
+let Nesting = https://prelude.dhall-lang.org/JSON/Nesting
+let Tagged = https://prelude.dhall-lang.org/JSON/Tagged
+
 {-
 Currently there are six main sources FHIR-PIT maps feature variables: 
  * Generic FHIR mapping (Condition, Procedure, MedicationRequest, Observation) 
@@ -56,9 +59,9 @@ let TypeString = {
 
 let ICEESAPIType = < String : TypeString | Integer : TypeInteger | Number >
 
-let GEOIDMapping = { dataset : Text, column : Text, datatype : ICEESAPIType }
+let GEOIDMapping = { dataset : Text, column : Text, datatype : Tagged ICEESAPIType }
 
-let FeatureAttribute = { dataset : Text, name : Text, datatype : ICEESAPIType }
+let FeatureAttribute = { dataset : Text, name : Text, datatype : Tagged ICEESAPIType }
 
 let Distance = {
     dataset : Text,
@@ -71,19 +74,19 @@ let NearestMapping =
 let Mapping =
       < JqFHIRMapping : JqFHIRMapping
       | GenericFHIRMapping : GenericFHIRMapping
-      | SpecializedFHIRMapping : SpecializedFHIRMapping
+      | SpecializedFHIRMapping : Tagged SpecializedFHIRMapping
       | EnvironmentalMapping : EnvironmentalMapping
       | GEOIDMapping : GEOIDMapping
       | NearestPointMapping : NearestMapping
       | NearestFeatureMapping : NearestMapping
       >
 
-let no_mapping = None Mapping
+let no_mapping = None (Tagged Mapping)
 
 let Category = Text
 
 let ICEESFeature = {
-    feature_type : ICEESAPIType,
+    feature_type : Tagged ICEESAPIType,
     categories : List Category
 }
 
@@ -115,7 +118,7 @@ let no_categories = [] : List Category
 let FeatureVariable = {
     Type = {
         name : Text,
-	mapping : Optional Mapping,
+	mapping : Optional (Tagged Mapping),
 	statistic : Optional Statistic,
         binning_strategy : Optional BinningStrategy,
         feature : ICEESFeature,
@@ -129,6 +132,12 @@ let FeatureVariable = {
     }
 }
 
+let tag = \(t: Type) -> \(a: t) -> {
+        field = "tag",
+	nesting = Nesting.Nested "param",
+        contents = a
+}
+
 let Table = {
     name: Text,
     variables: List FeatureVariable.Type
@@ -140,7 +149,7 @@ in  {
     FeatureVariable = FeatureVariable,
     TypeString = TypeString,
     TypeInteger = TypeInteger,
-    Mapping = Mapping,
+    Mapping = Tagged Mapping,
     JqFHIRMapping = JqFHIRMapping,
     GenericFHIRMapping = GenericFHIRMapping,
     SpecializedFHIRMapping = SpecializedFHIRMapping,
@@ -153,34 +162,35 @@ in  {
     no_binning = no_binning,
     no_identifiers = no_identifiers,
     no_categories = no_categories,
-    geoid_mapping = \(g: GEOIDMapping) -> Some (Mapping.GEOIDMapping g),
-    range = \ (minimum : Natural) -> \ (maximum : Natural) -> ICEESAPIType.Integer {
+    range = \ (minimum : Natural) -> \ (maximum : Natural) -> tag ICEESAPIType (ICEESAPIType.Integer {
         maximum = Some (Natural/toInteger maximum),
         minimum = Some (Natural/toInteger minimum)
-    },
-    integer = ICEESAPIType.Integer {
+    }),
+    integer = tag ICEESAPIType (ICEESAPIType.Integer {
         maximum = None Integer,
         minimum = None Integer
-    },
-    string = ICEESAPIType.String {
+    }),
+    string = tag ICEESAPIType (ICEESAPIType.String {
         enum = None (List Text)
-    },
-    enum = \(e : List Text) -> ICEESAPIType.String {
+    }),
+    enum = \(e : List Text) -> tag ICEESAPIType (ICEESAPIType.String {
         enum = Some e
-    },
-    number = ICEESAPIType.Number,
+    }),
+    number = tag ICEESAPIType ICEESAPIType.Number,
     cut = \(a: Natural) -> Some (BinningStrategy.Cut a),
     qcut = \(a: Natural) -> Some (BinningStrategy.QCut a),
     range_bins = \ (rbs : RangeBins) -> Some (BinningStrategy.Bins (Bins.RangeBins rbs)),
-    environmental_mapping = \(e: EnvironmentalMapping) -> Some (Mapping.EnvironmentalMapping e),
     avg = Some Statistic.Avg,
     max = Some Statistic.Max,
     prev_date = Some Statistic.PrevDate,
     Table = Table,
     DataSet = DataSet,
-    generic_fhir_mapping = \(g: GenericFHIRMapping) -> Some (Mapping.GenericFHIRMapping g),
-    nearest_point_distance = \ (d : Distance) -> Some (Mapping.NearestPointMapping (NearestMapping.Distance d)),
-    nearest_point_attribute = \ (d : FeatureAttribute) -> Some (Mapping.NearestPointMapping (NearestMapping.FeatureAttribute d)),
-    nearest_feature_distance = \ (d : Distance) -> Some (Mapping.NearestFeatureMapping (NearestMapping.Distance d)),
-    nearest_feature_attribute = \ (d : FeatureAttribute) -> Some (Mapping.NearestFeatureMapping (NearestMapping.FeatureAttribute d))
+    count_if = \(g: FHIRMappingVisit) -> Some (tag Mapping (Mapping.SpecializedFHIRMapping (tag SpecializedFHIRMapping (SpecializedFHIRMapping.Visit g)))),
+    geoid_mapping = \(g: GEOIDMapping) -> Some (tag Mapping (Mapping.GEOIDMapping g)),
+    environmental_mapping = \(e: EnvironmentalMapping) -> Some (tag Mapping (Mapping.EnvironmentalMapping e)),
+    generic_fhir_mapping = \(g: GenericFHIRMapping) -> Some (tag Mapping (Mapping.GenericFHIRMapping g)),
+    nearest_point_distance = \ (d : Distance) -> Some (tag Mapping (Mapping.NearestPointMapping (NearestMapping.Distance d))),
+    nearest_point_attribute = \ (d : FeatureAttribute) -> Some (tag Mapping (Mapping.NearestPointMapping (NearestMapping.FeatureAttribute d))),
+    nearest_feature_distance = \ (d : Distance) -> Some (tag Mapping (Mapping.NearestFeatureMapping (NearestMapping.Distance d))),
+    nearest_feature_attribute = \ (d : FeatureAttribute) -> Some (tag Mapping (Mapping.NearestFeatureMapping (NearestMapping.FeatureAttribute d)))
 }

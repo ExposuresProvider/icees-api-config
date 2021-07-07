@@ -1,7 +1,7 @@
 let meta = ../../common/meta.dhall
 let environmental_mapping = meta.environmental_mapping
-let range = meta.range
 let avg = meta.avg
+let range = meta.range
 let qcut = meta.qcut
 in {
     name = "AvgDailyBenzeneExposure_2_qcut",

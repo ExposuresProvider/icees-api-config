@@ -1,6 +1,6 @@
 let meta = ../../common/meta.dhall
-let integer = meta.integer
 let no_identifiers = meta.no_identifiers
+let integer = meta.integer
 in {
     name = "Days_DILIOnsetToInitial",
     identifiers = no_identifiers,

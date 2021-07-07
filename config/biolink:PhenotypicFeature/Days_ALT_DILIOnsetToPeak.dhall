@@ -1,6 +1,6 @@
 let meta = ../../common/meta.dhall
-let number = meta.number
 let no_identifiers = meta.no_identifiers
+let number = meta.number
 in {
     name = "Days_ALT_DILIOnsetToPeak",
     identifiers = no_identifiers,

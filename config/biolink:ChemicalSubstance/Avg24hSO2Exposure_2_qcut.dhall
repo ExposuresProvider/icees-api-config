@@ -1,6 +1,6 @@
 let meta = ../../common/meta.dhall
-let prev_date = meta.prev_date
 let environmental_mapping = meta.environmental_mapping
+let prev_date = meta.prev_date
 let range = meta.range
 let qcut = meta.qcut
 in {

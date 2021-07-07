@@ -288,20 +288,18 @@ def convert(all_features_input_file_path, identifiers_input_file_path, fhir_mapp
     for table_name, table_identifiers in identifiers.items():
         for feature_name, feature_identifiers in table_identifiers.items():
             feature_name2 = normalize_feature_name(feature_name)
-            print("normalized: " + feature_name2)
             variable = variables[feature_name2]
             add_key_value_pair(variable, "identifiers", identifier("no_identifiers") if len(feature_identifiers) == 0 else feature_identifiers)
 
 
     for feature_name, fhir_mapping in fhir_mappings.get("FHIR", {}).items():
         feature_name2 = normalize_feature_name(feature_name)
-        print("normalized: " + feature_name2)
         converted_fhir_mapping = convert_fhir_mapping(fhir_mapping)
         variable = variables[feature_name2]
         add_key_value_pair(variable, "mapping", converted_fhir_mapping)
 
 
-    for geoid_dataset_name, geoid_dataset_mapping in fhir_mappings["GEOID"].items():
+    for geoid_dataset_name, geoid_dataset_mapping in fhir_mappings.get("GEOID").items():
         for column_name, feature_name in geoid_dataset_mapping["columns"].items():
             feature_name2 = normalize_feature_name(feature_name)
             variable = variables[feature_name2]
@@ -315,12 +313,12 @@ def convert(all_features_input_file_path, identifiers_input_file_path, fhir_mapp
             ))
 
 
-    for nearest_road_dataset_name, nearest_road_dataset_mapping in fhir_mappings["NearestRoad"].items():
+    for nearest_road_dataset_name, nearest_road_dataset_mapping in fhir_mappings.get("NearestRoad", {}).items():
         feature_name = nearest_road_dataset_mapping["distance_feature_name"]
         feature_name2 = normalize_feature_name(feature_name)
         distance_variable = variables[feature_name2]
         add_key_value_pair(distance_variable, "mapping", application(
-            identifier("nearest_point_distance"),
+            identifier("nearest_feature_distance"),
             {
                 "dataset": nearest_road_dataset_name,
                 "maximum": 500.0
@@ -342,15 +340,15 @@ def convert(all_features_input_file_path, identifiers_input_file_path, fhir_mapp
             ))
 
 
-    for nearest_point_dataset_name, nearest_point_dataset_mapping in fhir_mappings["NearestPoint"].items():
-        feature_name = nearest_road_dataset_mapping["distance_feature_name"]
+    for nearest_point_dataset_name, nearest_point_dataset_mapping in fhir_mappings.get("NearestPoint").items():
+        feature_name = nearest_point_dataset_mapping["distance_feature_name"]
         feature_name2 = normalize_feature_name(feature_name)
         distance_variable = variables[feature_name2]
         add_key_value_pair(distance_variable, "mapping", application(
             identifier("nearest_point_distance"),
             {
                 "dataset": nearest_point_dataset_name,
-                "maximum": 500.0
+                "maximum": 4000.0
             }
         ))
         for attribute_name, feature in nearest_point_dataset_mapping["attributes_to_features_map"].items():
@@ -374,6 +372,15 @@ def convert(all_features_input_file_path, identifiers_input_file_path, fhir_mapp
                 "dataset": "cmaq2" if "_2" in variable_name else "cmaq",
                 "column": variable_name,
             })
+            add_key_value_pair(variable, "mapping", mapping)
+        elif variable_name.endswith("Visits"):
+            mapping = application(identifier("count_if"), [
+                "AsthmaDx",
+                "CroupDx",
+                "ReactiveAirwayDx",
+                "CoughDx",
+                "PneumoniaDx"
+            ])
             add_key_value_pair(variable, "mapping", mapping)
 
     update_vars = {}

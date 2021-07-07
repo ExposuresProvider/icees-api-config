@@ -1,6 +1,6 @@
 let meta = ../../common/meta.dhall
-let range_bins = meta.range_bins
 let enum = meta.enum
+let range_bins = meta.range_bins
 in {
     name = "D28A_ASTHMA_AD_TEXT2",
     feature = {

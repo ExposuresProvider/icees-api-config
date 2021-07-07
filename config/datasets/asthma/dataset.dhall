@@ -10,6 +10,12 @@ in [{
        v.AsthmaDx,
        v.Prednisone,
        v.`AvgDailyPM2.5Exposure_StudyAvg`,
-       v.`AvgDailyPM2.5Exposure_StudyMax`
+       v.`AvgDailyPM2.5Exposure_StudyMax`,
+       v.Landfill_Exposure,
+       v.CAFO_Exposure,
+       v.MajorRoadwayHighwayExposure,
+       v.RoadwayAADT,
+       v.ur,
+       v.TotalEDInpatientVisits
    ]
 }]

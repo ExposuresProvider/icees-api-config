@@ -1,4 +1,5 @@
 let meta = ../../common/meta.dhall
+let count_if = meta.count_if
 let enum = meta.enum
 in {
     name = "TotalEDInpatientVisits",
@@ -9,6 +10,13 @@ in {
         "NCIT:C68605",
         "UMLSCUI:C2348993",
         "SCTID:103324002"
+    ],
+    mapping = count_if [
+        "AsthmaDx",
+        "CroupDx",
+        "ReactiveAirwayDx",
+        "CoughDx",
+        "PneumoniaDx"
     ],
     feature = {
         feature_type = enum [

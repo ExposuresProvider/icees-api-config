@@ -1,6 +1,6 @@
 let meta = ../../common/meta.dhall
-let max = meta.max
 let environmental_mapping = meta.environmental_mapping
+let max = meta.max
 let range = meta.range
 let qcut = meta.qcut
 in {

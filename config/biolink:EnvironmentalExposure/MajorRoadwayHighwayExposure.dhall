@@ -1,13 +1,13 @@
 let meta = ../../common/meta.dhall
-let range_bins = meta.range_bins
+let nearest_feature_distance = meta.nearest_feature_distance
 let range = meta.range
-let nearest_point_distance = meta.nearest_point_distance
+let range_bins = meta.range_bins
 in {
     name = "MajorRoadwayHighwayExposure",
     identifiers = [
         "SCTID:272510001"
     ],
-    mapping = nearest_point_distance {
+    mapping = nearest_feature_distance {
         dataset = "nearestRoadTL",
         maximum = 500.0
     },

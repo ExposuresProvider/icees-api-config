@@ -1,7 +1,7 @@
 let meta = ../../common/meta.dhall
-let integer = meta.integer
 let no_identifiers = meta.no_identifiers
 let generic_fhir_mapping = meta.generic_fhir_mapping
+let integer = meta.integer
 in {
     name = "C-reactiveProtein",
     identifiers = no_identifiers,

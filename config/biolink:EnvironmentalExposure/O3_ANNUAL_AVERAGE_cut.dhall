@@ -1,6 +1,6 @@
 let meta = ../../common/meta.dhall
-let cut = meta.cut
 let range = meta.range
+let cut = meta.cut
 in {
     name = "O3_ANNUAL_AVERAGE_cut",
     feature = {

@@ -1,6 +1,6 @@
 let meta = ../../common/meta.dhall
-let range_bins = meta.range_bins
 let range = meta.range
+let range_bins = meta.range_bins
 in {
     name = "MajorRoadwayHighwayExposure2",
     feature = {

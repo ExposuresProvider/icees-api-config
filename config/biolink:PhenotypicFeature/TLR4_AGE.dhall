@@ -1,6 +1,6 @@
 let meta = ../../common/meta.dhall
-let range_bins = meta.range_bins
 let enum = meta.enum
+let range_bins = meta.range_bins
 in {
     name = "TLR4_AGE",
     feature = {
