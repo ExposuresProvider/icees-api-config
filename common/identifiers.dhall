@@ -26,4 +26,4 @@ let convertTable = \(v: Table) -> {
     mapValue = List/map FeatureVariable.Type IdentifiersEntry convertFeature v.variables
 }
 
-in \(d:DataSet) -> List/map Table TableEntry convertTable d
+in \(d: DataSet) -> List/map Table TableEntry convertTable d
