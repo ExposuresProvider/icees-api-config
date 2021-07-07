@@ -33,19 +33,12 @@ let GenericFHIRMapping = List GenericMatch
 
 let FHIRMappingVisit = List Text
 
-let SpecializedFHIRMapping =
-      < Visit : FHIRMappingVisit
-      | Age
-      | Race
-      | Sex
-      | Ethnicity
-      | Weight
-      | Height
-      | BMI
-      >
+let SpecializedFHIRMapping = < Visit : FHIRMappingVisit | Age | Race | Sex | Ethnicity | Weight | Height | BMI >
 
-let EnvironmentalMapping =
-      { dataset : Text, column : Text }
+let EnvironmentalMapping = { 
+    dataset : Text, 
+    column : Text
+}
 
 let TypeInteger = {
     minimum : Optional Integer,
@@ -67,8 +60,7 @@ let Distance = {
     maximum : Double
 }
 
-let NearestMapping =
-      < FeatureAttribute : FeatureAttribute | Distance : Distance >
+let NearestMapping = < FeatureAttribute : FeatureAttribute | Distance : Distance >
 
 let Mapping =
       < JqFHIRMapping : JqFHIRMapping
@@ -95,12 +87,12 @@ let Statistic = < Max | Min | Avg | StdDev | PrevDate >
 
 let no_statistic = None Statistic
 
-let RangeBins =
-      { bins : List Double
-      , right : Bool
-      , include_lowest : Bool
-      , labels : List Text
-      }
+let RangeBins = { 
+    bins : List Double,
+    right : Bool,
+    include_lowest : Bool,
+    labels : List Text
+}
 
 let BinString = List Text
 
@@ -132,9 +124,9 @@ let FeatureVariable = {
 }
 
 let tag = \(t: Type) -> \(a: t) -> {
-        field = "tag",
-	nesting = Nesting.Nested "param",
-        contents = a
+    field = "tag",
+    nesting = Nesting.Nested "param",
+    contents = a
 }
 
 let Table = {
