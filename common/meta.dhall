@@ -139,6 +139,8 @@ let DataSet = List Table
 
 in  {
     FeatureVariable = FeatureVariable,
+    TypeString = TypeString,
+    TypeInteger = TypeInteger,
     no_mapping = no_mapping,
     no_statistic = no_statistic,
     no_binning = no_binning,
