@@ -31,7 +31,6 @@ let GenericMatch = {
 
 let GenericFHIRMapping = List GenericMatch
 
-
 let FHIRMappingVisit = List Text
 
 let SpecializedFHIRMapping =
