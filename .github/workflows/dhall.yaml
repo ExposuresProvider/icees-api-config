@@ -10,4 +10,4 @@ jobs:
       - uses: dhall-lang/setup-dhall@v4
         with:
           version: '1.28.0'
-      - run: set -e; for f in $GITHUB_WORKSPACE/**/*.dhall; do echo $f; dhall --file $f --output /dev/null; done
+      - run: set -e; for f in $GITHUB_WORKSPACE/**/*.dhall; do echo $f; dhall --file $f; done
