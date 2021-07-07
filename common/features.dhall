@@ -30,22 +30,22 @@ let convertFeature = \(v: FeatureVariable.Type) -> {
             String = \(ts: TypeString) -> "string",
 	    Integer = \(ti: TypeInteger) -> "integer",
  	    Number = "number"
-        } v.feature.feature_type,
+        } v.feature.feature_type.contents,
 	maximum = merge {
             String = \(ts: TypeString) -> None Integer,
 	    Integer = \(ti: TypeInteger) -> ti.maximum,
 	    Number = None Integer
-	} v.feature.feature_type,
+	} v.feature.feature_type.contents,
 	minimum = merge {
             String = \(ts: TypeString) -> None Integer,
 	    Integer = \(ti: TypeInteger) -> ti.minimum,
 	    Number = None Integer
-	} v.feature.feature_type,
+	} v.feature.feature_type.contents,
 	enum = merge {
             String = \(ts: TypeString) -> ts.enum,
 	    Integer = \(ti: TypeInteger) -> None (List Text),
 	    Number = None (List Text)
-	} v.feature.feature_type
+	} v.feature.feature_type.contents
     }
 }
 
