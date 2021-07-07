@@ -8,7 +8,6 @@ let FeatureVariable = meta.FeatureVariable
 
 let Feature = {
     type: Text,
-    categories: List Text,
     maximum: Optional Integer,
     minimum: Optional Integer,
     enum: Optional (List Text)
@@ -32,7 +31,6 @@ let convertFeature = \(v: FeatureVariable.Type) -> {
 	    Integer = \(ti: TypeInteger) -> "integer",
  	    Number = "number"
         } v.feature.feature_type,
-	categories = v.feature.categories,
 	maximum = merge {
             String = \(ts: TypeString) -> None Integer,
 	    Integer = \(ti: TypeInteger) -> ti.maximum,
