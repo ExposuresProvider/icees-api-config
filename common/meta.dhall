@@ -76,7 +76,6 @@ let Mapping =
       | GEOIDMapping : GEOIDMapping
       | NearestPointMapping : NearestMapping
       | NearestFeatureMapping : NearestMapping
-      | NoMapping
       >
 
 let no_mapping = None Mapping
@@ -141,6 +140,14 @@ in  {
     FeatureVariable = FeatureVariable,
     TypeString = TypeString,
     TypeInteger = TypeInteger,
+    Mapping = Mapping,
+    JqFHIRMapping = JqFHIRMapping,
+    GenericFHIRMapping = GenericFHIRMapping,
+    SpecializedFHIRMapping = SpecializedFHIRMapping,
+    EnvironmentalMapping = EnvironmentalMapping,
+    GEOIDMapping = GEOIDMapping,
+    NearestMapping = NearestMapping,
+    GenericMatch = GenericMatch,
     no_mapping = no_mapping,
     no_statistic = no_statistic,
     no_binning = no_binning,
