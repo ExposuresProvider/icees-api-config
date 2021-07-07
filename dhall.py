@@ -1,4 +1,5 @@
 from itertools import chain
+from functools import reduce
 
 def record_completion(default_from, update_to):
     return {
@@ -43,6 +44,18 @@ def record_completion(r, c):
     }
 
 
+def extract_identifiers(obj):
+    if isinstance(obj, list):
+        return reduce(lambda x, y: x | y, map(extract_identifiers, obj), set())
+    elif isinstance(obj, dict):
+        if "__identifier" in obj:
+            return {obj["__identifier"]}
+        else:
+            return reduce(lambda x, y: x | y, map(extract_identifiers, obj.values()), set())
+    else:
+        return set()
+    
+    
 positive_infinity = {
     "__infinity": None
 }

@@ -1,7 +1,8 @@
 from deepdiff import DeepDiff
 import yaml
 import dhall
-from dhall import construct, application, identifier, positive_infinity, negative_infinity, let, imp, ascribe, record_completion
+from dhall import construct, application, identifier, positive_infinity, negative_infinity, let, imp, ascribe, record_completion, extract_identifiers
+import dhall
 import os.path
 import sys
 from collections import defaultdict
@@ -84,7 +85,7 @@ def convert_feature(feature):
         else:
             binning_strategies = None
     elif feature["type"] == "number":
-        feature_type = identifier("ICEESAPIType.Number")
+        feature_type = identifier("number")
         binning_strategies = None
     else:
         raise ValueError("Cannot parse type " + feature["type"])
@@ -94,6 +95,12 @@ def convert_feature(feature):
         "feature_type": feature_type,
         "categories": identifier("no_categories") if len(categories) == 0 else feature["categories"]
     }, binning_strategies
+
+
+def copy(a, n):
+    a = deepcopy(a)
+    a["name"] = n
+    return a
 
 
 def deep_merge(a, b):
@@ -282,7 +289,7 @@ def convert(all_features_input_file_path, identifiers_input_file_path, fhir_mapp
         if "Daily" in variable_name and "Exposure" in variable_name:
             if "_2" in variable_name:
                 statistic = identifier("avg")
-                statistic_variable = deepcopy(variable)
+                statistic_variable = copy(variable, variable_name)
                 update_vars[variable_name] = statistic_variable
                 add_key_value_pair(statistic_variable, "statistic", statistic)
             else:
@@ -292,14 +299,14 @@ def convert(all_features_input_file_path, identifiers_input_file_path, fhir_mapp
                     "_StudyMax"
                 )]
                 for statistic, suffix in statistics:
-                    statistic_variable = deepcopy(variable)
                     variable_name2 = variable_name + suffix
+                    statistic_variable = copy(variable, variable_name2)
                     update_vars[variable_name2] = statistic_variable
                     add_key_value_pair(statistic_variable, "statistic", statistic)
 
             statistic = identifier("prev_date")
             variable_name2 = variable_name.replace("Daily", "24h")
-            statistic_variable = deepcopy(variable)
+            statistic_variable = copy(variable, variable_name2)
             update_vars[variable_name2] = statistic_variable
             add_key_value_pair(statistic_variable, "statistic", statistic)
     variables.update(update_vars)
@@ -312,8 +319,8 @@ def convert(all_features_input_file_path, identifiers_input_file_path, fhir_mapp
             add_key_value_pair(variable, "feature", converted_feature)
             if binning_strategies is not None:
                 for binning_strategy, suffix in binning_strategies:
-                    binned_variable = deepcopy(variable)
                     binned_variable_name = feature_name + suffix
+                    binned_variable = copy(variable, binned_variable_name)
                     update_vars[binned_variable_name] = binned_variable 
                     add_key_value_pair(binned_variable, "binning_strategy", binning_strategy)
 
@@ -350,7 +357,7 @@ def convert(all_features_input_file_path, identifiers_input_file_path, fhir_mapp
                 {
                     "meta": imp("../../common/meta.dhall"),
                     **{
-                        k: identifier(f"meta.{k}") for k in ["ICEESAPIType", "Mapping", "NearestMapping", "generic_fhir_mapping", "environmental_mapping", "avg", "max", "prev_date", "integer", "range", "string", "enum", "number", "cut", "qcut", "range_bins", "no_binning", "nearest_point_distance", "nearest_point_attribute", "nearest_feature_distance", "nearest_feature_attribute", "no_identifiers", "no_categories", "no_mapping", "geoid_mapping"]
+                        k: identifier(f"meta.{k}") for k in extract_identifiers(variable)
                     }
                 },
                 variable
