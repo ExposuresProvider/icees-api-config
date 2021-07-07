@@ -8787,19 +8787,6 @@ patient:
   - SCTID:788651004
   eb_a017_blk_cohosh:
   - SCTID:7404811000001106
-  he _b012_heart_attack:
-  - MONDO:0005068
-  - NCIT:C27996
-  - SCITD:233824008
-  - MESH:D009203
-  - MESH:D006333
-  - MESH:D011660
-  - MESH:D002275
-  - MESH:D054144
-  - MESH:D054143
-  - MESH:C535758
-  - LOINC:LA10558-7
-  - LOINC:LA15807-3
   he_a004a_birth_low_bw:
   - UMLSCUI:C0024032
   - UMLSCUI:C0282666
@@ -9029,6 +9016,19 @@ patient:
   - SCITD:186960006
   - SCITD:194818009
   - SCITD:64333001
+  he_b012_heart_attack:
+  - MONDO:0005068
+  - NCIT:C27996
+  - SCITD:233824008
+  - MESH:D009203
+  - MESH:D006333
+  - MESH:D011660
+  - MESH:D002275
+  - MESH:D054144
+  - MESH:D054143
+  - MESH:C535758
+  - LOINC:LA10558-7
+  - LOINC:LA15807-3
   he_b013_coronary_artery:
   - LOINC:LA25636-4
   - MESH:D003324
@@ -9588,8 +9588,6 @@ visit:
   - MESH:C435939
   - MESH:C520558
   - MESH:C520984
-  A1ATDeficiency:
-  - MONDO:0013282
   ALT:
   - LOINC:LP15333-5
   - LOINC:LP44699-4
@@ -10441,8 +10439,8 @@ visit:
   Avg24hPM2.5Exposure_qcut: *id009
   Avg24hSO2Exposure_2: *id010
   Avg24hSO2Exposure_2_qcut: *id010
-  AvgailyAcetaldehydeExposure_2: *id002
-  AvgailyAcetaldehydeExposure_2_qcut: *id002
+  AvgDailyAcetaldehydeExposure_2: *id002
+  AvgDailyAcetaldehydeExposure_2_qcut: *id002
   BMI:
   - NCIT:C138901
   - UMLS:C2675358
@@ -17033,6 +17031,7 @@ visit:
   ea_b194h_pen_ink: []
   ea_b194i_toner: []
   ea_b194j_soy_ink: []
+  ea_b194k_pharma_ink: []
   ea_b194l_ink_other: []
   ea_b199a_ink_ongoing_d: []
   ea_e249_sunburn:
@@ -17114,19 +17113,6 @@ visit:
   - SCTID:788651004
   eb_a017_blk_cohosh:
   - SCTID:7404811000001106
-  he _b012_heart_attack:
-  - MONDO:0005068
-  - NCIT:C27996
-  - SCITD:233824008
-  - MESH:D009203
-  - MESH:D006333
-  - MESH:D011660
-  - MESH:D002275
-  - MESH:D054144
-  - MESH:D054143
-  - MESH:C535758
-  - LOINC:LA10558-7
-  - LOINC:LA15807-3
   he_a004a_birth_low_bw:
   - UMLSCUI:C0024032
   - UMLSCUI:C0282666
@@ -17356,6 +17342,19 @@ visit:
   - SCITD:186960006
   - SCITD:194818009
   - SCITD:64333001
+  he_b012_heart_attack:
+  - MONDO:0005068
+  - NCIT:C27996
+  - SCITD:233824008
+  - MESH:D009203
+  - MESH:D006333
+  - MESH:D011660
+  - MESH:D002275
+  - MESH:D054144
+  - MESH:D054143
+  - MESH:C535758
+  - LOINC:LA10558-7
+  - LOINC:LA15807-3
   he_b013_coronary_artery:
   - LOINC:LA25636-4
   - MESH:D003324
