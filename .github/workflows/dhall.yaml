@@ -9,5 +9,5 @@ jobs:
       - uses: actions/checkout@v2
       - uses: dhall-lang/setup-dhall@v4
         with:
-          version: '1.27.0'
+          version: '1.28.0'
       - run: set -e; for f in $GITHUB_WORKSPACE/**/*.dhall; do dhall --file $f; done
