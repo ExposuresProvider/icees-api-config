@@ -25,28 +25,26 @@ let TableEntry = {
 
 let convertFeature = \(v: FeatureVariable.Type) -> {
     mapKey = v.name,
-    mapValue = {
-        type = merge {
-            String = \(ts: TypeString) -> "string",
-	    Integer = \(ti: TypeInteger) -> "integer",
- 	    Number = "number"
-        } v.feature.feature_type.contents,
-	maximum = merge {
-            String = \(ts: TypeString) -> None Integer,
-	    Integer = \(ti: TypeInteger) -> ti.maximum,
-	    Number = None Integer
-	} v.feature.feature_type.contents,
-	minimum = merge {
-            String = \(ts: TypeString) -> None Integer,
-	    Integer = \(ti: TypeInteger) -> ti.minimum,
-	    Number = None Integer
-	} v.feature.feature_type.contents,
-	enum = merge {
-            String = \(ts: TypeString) -> ts.enum,
-	    Integer = \(ti: TypeInteger) -> None (List Text),
-	    Number = None (List Text)
-	} v.feature.feature_type.contents
-    }
+    mapValue = merge {
+        String = \(ts: TypeString) -> {
+	    type = "string",
+	    maximum = None Integer,
+	    minimum = None Integer,
+	    enum = ts.enum
+	},
+	Integer = \(ti: TypeInteger) -> {
+	    type = "integer",
+	    maximum = ti.maximum,
+	    minimum = ti.minimum,
+	    enum = None (List Text)
+	},
+	Number = {
+	    type = "number",
+	    maximum = None Integer,
+	    minimum = None Integer,
+	    enum = None (List Text)
+	}
+    } v.feature.feature_type.contents
 }
 
 let convertTable = \(v: Table) -> {
