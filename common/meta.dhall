@@ -147,6 +147,7 @@ let DataSet = List Table
 
 in  {
     FeatureVariable = FeatureVariable,
+    Identifiers = Identifiers,
     TypeString = TypeString,
     TypeInteger = TypeInteger,
     Mapping = Tagged Mapping,
