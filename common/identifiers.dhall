@@ -3,8 +3,7 @@ let meta = ./meta.dhall
 let DataSet = meta.DataSet
 let Table = meta.Table
 let FeatureVariable = meta.FeatureVariable
-
-let Identifiers = List Text
+let Identifiers = meta.Identifiers
 
 let IdentifiersEntry = {
     mapKey: Text,
