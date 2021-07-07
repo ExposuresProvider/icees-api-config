@@ -14,9 +14,9 @@ Currently there are six main sources FHIR-PIT maps feature variables:
 {-
 For jq FHIR mapping, we use jq to extract feature.
 -}
-let JqFHIRMapping =
-      { jq: Text
-      }
+let JqFHIRMapping = { 
+    jq: Text
+}
 
 {-
 For generic FHIR mappings, we match data to ICEES feature variables according to FHIR resource, system, and code. By default, if either `system` or `code` contains `*`, it is considered as a glob, which matches zero or more characters. This allows us to map, for example, ICD 10 codes such as `E50.*`. This behavior can be modified by setting the optional `system_is_regex` or `code_is_regex` fields. When they are set to `True`, the system and code are parsed as regular expressions. When they are set to `False`, the system and code are not parsed as regular expressions or globs.
