@@ -17,8 +17,6 @@ with open(path) as inpf:
 
 os.remove(path)
 
-print(yaml.dump(dataset))
-
 fhirmapping = defaultdict(lambda: defaultdict(lambda: defaultdict(list)))
 geoidmapping = defaultdict(dict)
 nearestpointmapping = defaultdict(lambda: {
