@@ -1,7 +1,8 @@
 let meta = ../../common/meta.dhall
-let string = meta.string
-let range = meta.range
 let geoid_mapping = meta.geoid_mapping
+let range = meta.range
+let string = meta.string
+let cut = meta.cut
 in {
     name = "EstProbabilityHighSchoolMaxEducation",
     identifiers = [
@@ -21,5 +22,6 @@ in {
         categories = [
             "biolink:EnvironmentalExposure"
         ]
-    }
+    },
+    binning_strategy = cut 4
 }

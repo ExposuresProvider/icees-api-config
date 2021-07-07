@@ -1,6 +1,6 @@
 let meta = ../../common/meta.dhall
-let range = meta.range
 let no_identifiers = meta.no_identifiers
+let range = meta.range
 in {
     name = "Year_DILI_Onset",
     identifiers = no_identifiers,

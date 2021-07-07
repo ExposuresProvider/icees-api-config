@@ -1,7 +1,7 @@
 let meta = ../../common/meta.dhall
-let range = meta.range
 let generic_fhir_mapping = meta.generic_fhir_mapping
 let no_categories = meta.no_categories
+let range = meta.range
 in {
     name = "WHOSeverityScore",
     identifiers = [

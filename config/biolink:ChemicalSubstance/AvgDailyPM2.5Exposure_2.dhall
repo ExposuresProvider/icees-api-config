@@ -1,4 +1,5 @@
 let meta = ../../common/meta.dhall
+let cut = meta.cut
 let environmental_mapping = meta.environmental_mapping
 let range = meta.range
 let avg = meta.avg
@@ -22,5 +23,6 @@ in {
             "biolink:ChemicalSubstance",
             "biolink:ChemicalExposure"
         ]
-    }
+    },
+    binning_strategy = cut 5
 }

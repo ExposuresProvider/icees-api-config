@@ -1,7 +1,7 @@
 let meta = ../../common/meta.dhall
-let string = meta.string
-let enum = meta.enum
 let geoid_mapping = meta.geoid_mapping
+let enum = meta.enum
+let string = meta.string
 in {
     name = "ur",
     identifiers = [

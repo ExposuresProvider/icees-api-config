@@ -1,6 +1,6 @@
 let meta = ../../common/meta.dhall
-let enum = meta.enum
 let no_identifiers = meta.no_identifiers
+let enum = meta.enum
 in {
     name = "ea_a017i_heat_none",
     identifiers = no_identifiers,

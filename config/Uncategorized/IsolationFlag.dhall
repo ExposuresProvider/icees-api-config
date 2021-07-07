@@ -1,8 +1,8 @@
 let meta = ../../common/meta.dhall
+let no_identifiers = meta.no_identifiers
+let generic_fhir_mapping = meta.generic_fhir_mapping
 let enum = meta.enum
 let no_categories = meta.no_categories
-let generic_fhir_mapping = meta.generic_fhir_mapping
-let no_identifiers = meta.no_identifiers
 in {
     name = "IsolationFlag",
     identifiers = no_identifiers,

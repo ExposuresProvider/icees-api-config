@@ -1,6 +1,6 @@
 let meta = ../../common/meta.dhall
-let string = meta.string
 let generic_fhir_mapping = meta.generic_fhir_mapping
+let string = meta.string
 in {
     name = "DischargeStatus",
     identifiers = [

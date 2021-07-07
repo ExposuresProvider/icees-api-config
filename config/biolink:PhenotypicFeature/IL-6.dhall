@@ -1,7 +1,7 @@
 let meta = ../../common/meta.dhall
 let integer = meta.integer
-let generic_fhir_mapping = meta.generic_fhir_mapping
 let no_identifiers = meta.no_identifiers
+let generic_fhir_mapping = meta.generic_fhir_mapping
 in {
     name = "IL-6",
     identifiers = no_identifiers,

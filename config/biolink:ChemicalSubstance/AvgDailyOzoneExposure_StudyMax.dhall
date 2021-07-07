@@ -1,7 +1,8 @@
 let meta = ../../common/meta.dhall
+let max = meta.max
 let environmental_mapping = meta.environmental_mapping
 let range = meta.range
-let max = meta.max
+let cut = meta.cut
 in {
     name = "AvgDailyOzoneExposure_StudyMax",
     identifiers = [
@@ -22,5 +23,6 @@ in {
             "biolink:ChemicalSubstance",
             "biolink:ChemicalExposure"
         ]
-    }
+    },
+    binning_strategy = cut 5
 }

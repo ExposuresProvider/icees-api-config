@@ -1,6 +1,6 @@
 let meta = ../../common/meta.dhall
-let string = meta.string
 let nearest_feature_attribute = meta.nearest_feature_attribute
+let string = meta.string
 in {
     name = "RoadwayType",
     mapping = nearest_feature_attribute {

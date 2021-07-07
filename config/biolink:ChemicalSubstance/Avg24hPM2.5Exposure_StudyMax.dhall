@@ -1,4 +1,5 @@
 let meta = ../../common/meta.dhall
+let cut = meta.cut
 let range = meta.range
 in {
     name = "Avg24hPM2.5Exposure_StudyMax",
@@ -8,5 +9,6 @@ in {
             "biolink:ChemicalSubstance",
             "biolink:ChemicalExposure"
         ]
-    }
+    },
+    binning_strategy = cut 5
 }

@@ -1,6 +1,7 @@
 let meta = ../../common/meta.dhall
-let environmental_mapping = meta.environmental_mapping
 let prev_date = meta.prev_date
+let cut = meta.cut
+let environmental_mapping = meta.environmental_mapping
 let range = meta.range
 in {
     name = "Max24hPM2.5Exposure",
@@ -22,5 +23,6 @@ in {
             "biolink:ChemicalSubstance",
             "biolink:ChemicalExposure"
         ]
-    }
+    },
+    binning_strategy = cut 5
 }
