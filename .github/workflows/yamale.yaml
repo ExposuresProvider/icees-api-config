@@ -1,4 +1,4 @@
-name: YAML schema validator
+name: YAML schema validator using Yamale
 on: [push, pull_request, workflow_dispatch]
 
 jobs:
@@ -6,13 +6,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
-    - uses: nrkno/yaml-schema-validator-github-action@6cf8c4b3bceea7928c91432e865dcdc46fa4419c
+    - uses: NCATS-Tangerine/yaml-schema-validator-github-action@master
       with:
-        schema: ../schema/mapping.yaml
-        target: config/mappings.yml
+        schema: '../schema/mapping.yaml'
+        target: 'config/mappings.yml'
         strict: '1'
-    - uses: nrkno/yaml-schema-validator-github-action@6cf8c4b3bceea7928c91432e865dcdc46fa4419c
+    - uses: NCATS-Tangerine/yaml-schema-validator-github-action@master
       with:
-        schema: ../schema/features.yaml
-        target: config/all_features.yaml
+        schema: '../schema/features.yaml'
+        target: 'config/all_features.yaml'
         strict: '1'
