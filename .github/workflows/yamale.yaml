@@ -9,7 +9,7 @@ jobs:
     - uses: nrkno/yaml-schema-validator-github-action@6cf8c4b3bceea7928c91432e865dcdc46fa4419c
       with:
         schema: ../schema/mapping.yaml
-        target: config/mappings.yaml
+        target: config/mappings.yml
         strict: '1'
     - uses: nrkno/yaml-schema-validator-github-action@6cf8c4b3bceea7928c91432e865dcdc46fa4419c
       with:
