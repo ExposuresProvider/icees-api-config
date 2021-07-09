@@ -1,0 +1,18 @@
+name: YAML schema validator
+on: [push, pull_request, workflow_dispatch]
+
+jobs:
+  yaml-schema-validation:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - uses: nrkno/yaml-schema-validator-github-action@master
+      with:
+        schema: 'schemas/mappings.yaml'
+        target: 'mappings.yaml'
+        strict: '1'
+    - uses: nrkno/yaml-schema-validator-github-action@master
+      with:
+        schema: 'schemas/all_features.yaml'
+        target: 'all_features.yaml'
+        strict: '1'
