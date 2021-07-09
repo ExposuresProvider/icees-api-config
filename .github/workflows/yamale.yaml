@@ -8,11 +8,11 @@ jobs:
     - uses: actions/checkout@v2
     - uses: nrkno/yaml-schema-validator-github-action@master
       with:
-        schema: ../schema/mappings.yaml
+        schema: ../schema/mapping.yaml
         target: 'mappings.yaml'
         strict: '1'
     - uses: nrkno/yaml-schema-validator-github-action@master
       with:
-        schema: $GITHUB_WORKSPACE/schemas/all_features.yaml
+        schema: ../schema/features.yaml
         target: 'all_features.yaml'
         strict: '1'
