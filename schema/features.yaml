@@ -1,0 +1,10 @@
+map(include('table'), key=str())
+---
+table:
+  map(include('feature'), key=str())
+feature:
+  type: str(required=True)
+  maximum: int(required=False)
+  minimum: int(required=False)
+  enum: list(str(), required=False)
+  categories: list(regex('^biolink:([A-Z][a-z]+)+$'), required=True)

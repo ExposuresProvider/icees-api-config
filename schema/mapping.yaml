@@ -1,0 +1,6 @@
+map(include('feature'), key=str())
+---
+feature:
+  type: str(required=True)
+  identifiers: list(str(), required=True)
+  categories: list(regex('^biolink:([A-Z][a-z]+)+$'), required=True)

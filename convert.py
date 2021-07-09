@@ -23,7 +23,7 @@ for table, table_mappings in old_mappings.items():
             categories = column_mapping["categories"]
             if len(categories) == 0:
                 print("no biolinkType, default to NameThing")
-                categories = ["NamedThing"]
+                categories = ["biolink:NamedThing"]
             ty = column_mapping["type"]
             mappings[column] = {
                 "categories": categories,

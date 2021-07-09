@@ -24,8 +24,8 @@ patient:
     categories:
     - biolink:PhenotypicFeature
     enum: &id004
-    - 0
-    - 1
+    - "0"
+    - "1"
     type: integer
   ALT_DILIOnset_ULN:
     categories:
@@ -89,8 +89,8 @@ patient:
     categories:
     - biolink:PhenotypicFeature
     enum: &id009
-    - 0
-    - 1
+    - "0"
+    - "1"
     type: integer
   AST_DILIOnset_ULN:
     categories:
@@ -145,8 +145,8 @@ patient:
     categories:
     - biolink:PhenotypicFeature
     enum: &id013
-    - 0
-    - 1
+    - "0"
+    - "1"
     type: integer
   AbsoluteLymphocyteCount_flag_first:
     categories:
@@ -168,8 +168,8 @@ patient:
     categories:
     - biolink:PhenotypicFeature
     enum: &id016
-    - 0
-    - 1
+    - "0"
+    - "1"
     type: integer
   AbsoluteNeutrophilCount_flag_first:
     categories:
@@ -229,8 +229,8 @@ patient:
     categories:
     - biolink:PhenotypicFeature
     enum: &id021
-    - 0
-    - 1
+    - "0"
+    - "1"
     type: integer
   Albumin_flag_first:
     categories:
@@ -706,8 +706,8 @@ patient:
     categories:
     - biolink:PhenotypicFeature
     enum: &id046
-    - 0
-    - 1
+    - "0"
+    - "1"
     type: integer
   BaseDeficit_flag_first:
     categories:
@@ -777,8 +777,8 @@ patient:
     categories:
     - biolink:PhenotypicFeature
     enum: &id051
-    - 0
-    - 1
+    - "0"
+    - "1"
     type: integer
   BloodUreaNitrogen_flag_first:
     categories:
@@ -800,8 +800,8 @@ patient:
     categories:
     - biolink:PhenotypicFeature
     enum: &id054
-    - 0
-    - 1
+    - "0"
+    - "1"
     type: integer
   BrainNatriureticPeptide_flag_first:
     categories:
@@ -842,8 +842,8 @@ patient:
     categories:
     - biolink:PhenotypicFeature
     enum: &id059
-    - 0
-    - 1
+    - "0"
+    - "1"
     type: integer
   C-reactiveProtein_flag_first:
     categories:
@@ -871,8 +871,8 @@ patient:
     categories:
     - biolink:PhenotypicFeature
     enum: &id062
-    - 0
-    - 1
+    - "0"
+    - "1"
     type: integer
   CK_flag_first:
     categories:
@@ -1105,8 +1105,8 @@ patient:
     categories:
     - biolink:PhenotypicFeature
     enum: &id087
-    - 0
-    - 1
+    - "0"
+    - "1"
     type: integer
   D-dimer_flag_first:
     categories:
@@ -1517,8 +1517,8 @@ patient:
     categories:
     - biolink:PhenotypicFeature
     enum: &id116
-    - 0
-    - 1
+    - "0"
+    - "1"
     type: integer
   ErythrocyteSedimentationRate_flag_first:
     categories:
@@ -1550,7 +1550,7 @@ patient:
     categories:
     - biolink:ChemicalSubstance
     - biolink:ChemicalExposure
-    - biolink:Dru
+    - biolink:Drug
     enum: &id120
     - '0'
     - '1'
@@ -1686,8 +1686,8 @@ patient:
     categories:
     - biolink:PhenotypicFeature
     enum: &id129
-    - 0
-    - 1
+    - "0"
+    - "1"
     type: integer
   Ferritin_flag_first:
     categories:
@@ -1914,8 +1914,8 @@ patient:
     categories:
     - biolink:PhenotypicFeature
     enum: &id156
-    - 0
-    - 1
+    - "0"
+    - "1"
     type: integer
   Hemoglobin_flag_first:
     categories:
@@ -1946,8 +1946,8 @@ patient:
     categories:
     - biolink:PhenotypicFeature
     enum: &id160
-    - 0
-    - 1
+    - "0"
+    - "1"
     type: integer
   HgbA1C_flag_first:
     categories:
@@ -2040,8 +2040,8 @@ patient:
     categories:
     - biolink:PhenotypicFeature
     enum: &id170
-    - 0
-    - 1
+    - "0"
+    - "1"
     type: integer
   IL-6_flag_first:
     categories:
@@ -2248,8 +2248,8 @@ patient:
     categories:
     - biolink:PhenotypicFeature
     enum: &id190
-    - 0
-    - 1
+    - "0"
+    - "1"
     type: integer
   LDH_flag_first:
     categories:
@@ -2271,8 +2271,8 @@ patient:
     categories:
     - biolink:PhenotypicFeature
     enum: &id193
-    - 0
-    - 1
+    - "0"
+    - "1"
     type: integer
   Lactate_flag_first:
     categories:
@@ -2797,8 +2797,8 @@ patient:
     categories:
     - biolink:PhenotypicFeature
     enum: &id233
-    - 0
-    - 1
+    - "0"
+    - "1"
     type: integer
   PlateletCount_flag_first:
     categories:
@@ -2894,8 +2894,8 @@ patient:
     categories:
     - biolink:PhenotypicFeature
     enum: &id244
-    - 0
-    - 1
+    - "0"
+    - "1"
     type: integer
   Procalcitonin_flag_first:
     categories:
@@ -3175,8 +3175,8 @@ patient:
     categories:
     - biolink:PhenotypicFeature
     enum: &id271
-    - 0
-    - 1
+    - "0"
+    - "1"
     type: integer
   SerumBicarbonate_flag_first:
     categories:
@@ -3198,8 +3198,8 @@ patient:
     categories:
     - biolink:PhenotypicFeature
     enum: &id274
-    - 0
-    - 1
+    - "0"
+    - "1"
     type: integer
   SerumChloride_flag_first:
     categories:
@@ -3221,8 +3221,8 @@ patient:
     categories:
     - biolink:PhenotypicFeature
     enum: &id277
-    - 0
-    - 1
+    - "0"
+    - "1"
     type: integer
   SerumCreatinine_flag_first:
     categories:
@@ -3244,8 +3244,8 @@ patient:
     categories:
     - biolink:PhenotypicFeature
     enum: &id280
-    - 0
-    - 1
+    - "0"
+    - "1"
     type: integer
   SerumGlucose_flag_first:
     categories:
@@ -3267,8 +3267,8 @@ patient:
     categories:
     - biolink:PhenotypicFeature
     enum: &id283
-    - 0
-    - 1
+    - "0"
+    - "1"
     type: integer
   SerumPotassium_flag_first:
     categories:
@@ -3290,8 +3290,8 @@ patient:
     categories:
     - biolink:PhenotypicFeature
     enum: &id286
-    - 0
-    - 1
+    - "0"
+    - "1"
     type: integer
   SerumSodium_flag_first:
     categories:
@@ -3370,8 +3370,8 @@ patient:
     categories:
     - biolink:PhenotypicFeature
     enum: &id296
-    - 0
-    - 1
+    - "0"
+    - "1"
     type: integer
   SpO2FiO2ratio_flag_first:
     categories:
@@ -3401,8 +3401,8 @@ patient:
     categories:
     - biolink:PhenotypicFeature
     enum: &id300
-    - 0
-    - 1
+    - "0"
+    - "1"
     type: integer
   SvO2_flag_first:
     categories:
@@ -3596,8 +3596,8 @@ patient:
     categories:
     - biolink:PhenotypicFeature
     enum: &id314
-    - 0
-    - 1
+    - "0"
+    - "1"
     type: integer
   Troponin_flag_first:
     categories:
@@ -3675,8 +3675,8 @@ patient:
     categories:
     - biolink:PhenotypicFeature
     enum: &id323
-    - 0
-    - 1
+    - "0"
+    - "1"
     type: integer
   WBCcount_flag_first:
     categories:
@@ -9653,15 +9653,15 @@ patient:
     categories:
     - biolink:PhenotypicFeature
     enum: &id978
-    - 0
-    - 1
+    - "0"
+    - "1"
     type: integer
   pCO2ArterialVenous:
     categories:
     - biolink:PhenotypicFeature
     enum: &id979
-    - 0
-    - 1
+    - "0"
+    - "1"
     type: integer
   pCO2ArterialVenous_flag_first:
     categories:
@@ -9699,8 +9699,8 @@ patient:
     categories:
     - biolink:PhenotypicFeature
     enum: &id984
-    - 0
-    - 1
+    - "0"
+    - "1"
     type: integer
   pH_flag_first:
     categories:
@@ -9722,8 +9722,8 @@ patient:
     categories:
     - biolink:PhenotypicFeature
     enum: &id987
-    - 0
-    - 1
+    - "0"
+    - "1"
     type: integer
   pO2Arterial_flag_first:
     categories:
@@ -9745,8 +9745,8 @@ patient:
     categories:
     - biolink:PhenotypicFeature
     enum: &id990
-    - 0
-    - 1
+    - "0"
+    - "1"
     type: integer
   pO2FiO2ratio_flag_first:
     categories:

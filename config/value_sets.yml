@@ -13,11 +13,11 @@ A1AT_DeficiencyVisit:
 - 'No'
 - 'Yes'
 ALT:
-- 0
-- 1
+- '0'
+- '1'
 ALTVisit:
-- 0
-- 1
+- '0'
+- '1'
 ALT_flag_first:
 - low
 - normal
@@ -49,11 +49,11 @@ ASMAVisit:
 - 'No'
 - 'Yes'
 AST:
-- 0
-- 1
+- '0'
+- '1'
 ASTVisit:
-- 0
-- 1
+- '0'
+- '1'
 AST_flag_first:
 - low
 - normal
@@ -77,11 +77,11 @@ AbdominalPainVisit:
 - 'No'
 - 'Yes'
 AbsoluteLymphocyteCount:
-- 0
-- 1
+- '0'
+- '1'
 AbsoluteLymphocyteCountVisit:
-- 0
-- 1
+- '0'
+- '1'
 AbsoluteLymphocyteCount_flag_first:
 - low
 - normal
@@ -99,11 +99,11 @@ AbsoluteLymphocyteCount_flag_lastVisit:
 - normal
 - high
 AbsoluteNeutrophilCount:
-- 0
-- 1
+- '0'
+- '1'
 AbsoluteNeutrophilCountVisit:
-- 0
-- 1
+- '0'
+- '1'
 AbsoluteNeutrophilCount_flag_first:
 - low
 - normal
@@ -172,11 +172,11 @@ AgeVisit2:
 - 45-64
 - 65-89
 Albumin:
-- 0
-- 1
+- '0'
+- '1'
 AlbuminVisit:
-- 0
-- 1
+- '0'
+- '1'
 Albumin_flag_first:
 - low
 - normal
@@ -926,18 +926,6 @@ AvgDailySO2Exposure_2_qcutVisit:
 - 3
 - 4
 - 5
-AvgailyAcetaldehydeExposure_2:
-- 1
-- 2
-- 3
-- 4
-- 5
-AvgailyAcetaldehydeExposure_2_qcut:
-- 1
-- 2
-- 3
-- 4
-- 5
 BMI_CATEGORY:
 - Normal (18.5 to <25)
 - Over (25 to <30)
@@ -961,11 +949,11 @@ BMI_CategoryVisit:
 - Obese
 - Other/Multiracial
 BaseDeficit:
-- 0
-- 1
+- '0'
+- '1'
 BaseDeficitVisit:
-- 0
-- 1
+- '0'
+- '1'
 BaseDeficit_flag_first:
 - low
 - normal
@@ -1009,11 +997,11 @@ BloodTypeVisit:
 - O+
 - O-
 BloodUreaNitrogen:
-- 0
-- 1
+- '0'
+- '1'
 BloodUreaNitrogenVisit:
-- 0
-- 1
+- '0'
+- '1'
 BloodUreaNitrogen_flag_first:
 - low
 - normal
@@ -1031,11 +1019,11 @@ BloodUreaNitrogen_flag_lastVisit:
 - normal
 - high
 BrainNatriureticPeptide:
-- 0
-- 1
+- '0'
+- '1'
 BrainNatriureticPeptideVisit:
-- 0
-- 1
+- '0'
+- '1'
 BrainNatriureticPeptide_flag_first:
 - low
 - normal
@@ -1077,11 +1065,11 @@ BudesonideVisit:
 - '1'
 - '>1'
 C-reactiveProtein:
-- 0
-- 1
+- '0'
+- '1'
 C-reactiveProteinVisit:
-- 0
-- 1
+- '0'
+- '1'
 C-reactiveProtein_flag_first:
 - low
 - normal
@@ -1113,11 +1101,11 @@ CAFO_ExposureVisit:
 - 5
 - 6
 CK:
-- 0
-- 1
+- '0'
+- '1'
 CKVisit:
-- 0
-- 1
+- '0'
+- '1'
 CK_flag_first:
 - low
 - normal
@@ -1485,11 +1473,11 @@ CysticFibrosisVisit:
 - '1'
 - '>1'
 D-dimer:
-- 0
-- 1
+- '0'
+- '1'
 D-dimerVisit:
-- 0
-- 1
+- '0'
+- '1'
 D-dimer_flag_first:
 - low
 - normal
@@ -1892,11 +1880,11 @@ Epinephrine_gttVisit:
 - '1'
 - '>1'
 ErythrocyteSedimentationRate:
-- 0
-- 1
+- '0'
+- '1'
 ErythrocyteSedimentationRateVisit:
-- 0
-- 1
+- '0'
+- '1'
 ErythrocyteSedimentationRate_flag_first:
 - low
 - normal
@@ -2086,11 +2074,11 @@ FentanylVisit:
 - '1'
 - '>1'
 Ferritin:
-- 0
-- 1
+- '0'
+- '1'
 FerritinVisit:
-- 0
-- 1
+- '0'
+- '1'
 Ferritin_flag_first:
 - low
 - normal
@@ -2290,11 +2278,11 @@ HemochromatosisVisit:
 - 'No'
 - 'Yes'
 Hemoglobin:
-- 0
-- 1
+- '0'
+- '1'
 HemoglobinVisit:
-- 0
-- 1
+- '0'
+- '1'
 Hemoglobin_flag_first:
 - low
 - normal
@@ -2318,11 +2306,11 @@ HepatitisAVisit:
 - 'No'
 - 'Yes'
 HgbA1C:
-- 0
-- 1
+- '0'
+- '1'
 HgbA1CVisit:
-- 0
-- 1
+- '0'
+- '1'
 HgbA1C_flag_first:
 - low
 - normal
@@ -2396,11 +2384,11 @@ ICUVisit:
 - 'No'
 - 'Yes'
 IL-6:
-- 0
-- 1
+- '0'
+- '1'
 IL-6Visit:
-- 0
-- 1
+- '0'
+- '1'
 IL-6_flag_first:
 - low
 - normal
@@ -2620,11 +2608,11 @@ KidneyCancerVisit:
 - '1'
 - '>1'
 LDH:
-- 0
-- 1
+- '0'
+- '1'
 LDHVisit:
-- 0
-- 1
+- '0'
+- '1'
 LDH_flag_first:
 - low
 - normal
@@ -2642,11 +2630,11 @@ LDH_flag_lastVisit:
 - normal
 - high
 Lactate:
-- 0
-- 1
+- '0'
+- '1'
 LactateVisit:
-- 0
-- 1
+- '0'
+- '1'
 Lactate_flag_first:
 - low
 - normal
@@ -3372,11 +3360,11 @@ Phenylephrine_gttVisit:
 - '1'
 - '>1'
 PlateletCount:
-- 0
-- 1
+- '0'
+- '1'
 PlateletCountVisit:
-- 0
-- 1
+- '0'
+- '1'
 PlateletCount_flag_first:
 - low
 - normal
@@ -3460,11 +3448,11 @@ PrimarySclerosingCholangitisVisit:
 - 'No'
 - 'Yes'
 Procalcitonin:
-- 0
-- 1
+- '0'
+- '1'
 ProcalcitoninVisit:
-- 0
-- 1
+- '0'
+- '1'
 Procalcitonin_flag_first:
 - low
 - normal
@@ -3744,11 +3732,11 @@ SertralineVisit:
 - '1'
 - '>1'
 SerumBicarbonate:
-- 0
-- 1
+- '0'
+- '1'
 SerumBicarbonateVisit:
-- 0
-- 1
+- '0'
+- '1'
 SerumBicarbonate_flag_first:
 - low
 - normal
@@ -3766,11 +3754,11 @@ SerumBicarbonate_flag_lastVisit:
 - normal
 - high
 SerumChloride:
-- 0
-- 1
+- '0'
+- '1'
 SerumChlorideVisit:
-- 0
-- 1
+- '0'
+- '1'
 SerumChloride_flag_first:
 - low
 - normal
@@ -3788,11 +3776,11 @@ SerumChloride_flag_lastVisit:
 - normal
 - high
 SerumCreatinine:
-- 0
-- 1
+- '0'
+- '1'
 SerumCreatinineVisit:
-- 0
-- 1
+- '0'
+- '1'
 SerumCreatinine_flag_first:
 - low
 - normal
@@ -3810,11 +3798,11 @@ SerumCreatinine_flag_lastVisit:
 - normal
 - high
 SerumGlucose:
-- 0
-- 1
+- '0'
+- '1'
 SerumGlucoseVisit:
-- 0
-- 1
+- '0'
+- '1'
 SerumGlucose_flag_first:
 - low
 - normal
@@ -3832,11 +3820,11 @@ SerumGlucose_flag_lastVisit:
 - normal
 - high
 SerumPotassium:
-- 0
-- 1
+- '0'
+- '1'
 SerumPotassiumVisit:
-- 0
-- 1
+- '0'
+- '1'
 SerumPotassium_flag_first:
 - low
 - normal
@@ -3854,11 +3842,11 @@ SerumPotassium_flag_lastVisit:
 - normal
 - high
 SerumSodium:
-- 0
-- 1
+- '0'
+- '1'
 SerumSodiumVisit:
-- 0
-- 1
+- '0'
+- '1'
 SerumSodium_flag_first:
 - low
 - normal
@@ -3924,11 +3912,11 @@ SmokingStatusVisit:
 - '1'
 - '>1'
 SpO2FiO2ratio:
-- 0
-- 1
+- '0'
+- '1'
 SpO2FiO2ratioVisit:
-- 0
-- 1
+- '0'
+- '1'
 SpO2FiO2ratio_flag_first:
 - low
 - normal
@@ -3952,11 +3940,11 @@ StevensJohnsonSyndromeVisit:
 - 'No'
 - 'Yes'
 SvO2:
-- 0
-- 1
+- '0'
+- '1'
 SvO2Visit:
-- 0
-- 1
+- '0'
+- '1'
 SvO2_flag_first:
 - low
 - normal
@@ -4186,11 +4174,11 @@ TriptorelinVisit:
 - '1'
 - '>1'
 Troponin:
-- 0
-- 1
+- '0'
+- '1'
 TroponinVisit:
-- 0
-- 1
+- '0'
+- '1'
 Troponin_flag_first:
 - low
 - normal
@@ -4258,11 +4246,11 @@ VentilatorVisit:
 - '1'
 - '>1'
 WBCcount:
-- 0
-- 1
+- '0'
+- '1'
 WBCcountVisit:
-- 0
-- 1
+- '0'
+- '1'
 WBCcount_flag_first:
 - low
 - normal
@@ -7695,14 +7683,6 @@ eb_m322_babies_delivered_nVisit:
 - '1'
 - '2'
 - '>2'
-he _b012_heart_attack:
-- '0'
-- '1'
-- '>1'
-he _b012_heart_attackVisit:
-- '0'
-- '1'
-- '>1'
 he_a004a_birth_low_bw:
 - '0'
 - '1'
@@ -7772,6 +7752,14 @@ he_b011_angina:
 - '1'
 - '>1'
 he_b011_anginaVisit:
+- '0'
+- '1'
+- '>1'
+he_b012_heart_attack:
+- '0'
+- '1'
+- '>1'
+he_b012_heart_attackVisit:
 - '0'
 - '1'
 - '>1'
@@ -9978,14 +9966,14 @@ he_u214_bipolarVisit:
 - '1'
 - '>1'
 pCO2Arterial:
-- 0
-- 1
+- '0'
+- '1'
 pCO2ArterialVenous:
-- 0
-- 1
+- '0'
+- '1'
 pCO2ArterialVenousVisit:
-- 0
-- 1
+- '0'
+- '1'
 pCO2ArterialVenous_flag_first:
 - low
 - normal
@@ -10003,8 +9991,8 @@ pCO2ArterialVenous_flag_lastVisit:
 - normal
 - high
 pCO2ArterialVisit:
-- 0
-- 1
+- '0'
+- '1'
 pCO2Arterial_flag_first:
 - low
 - normal
@@ -10022,11 +10010,11 @@ pCO2Arterial_flag_lastVisit:
 - normal
 - high
 pH:
-- 0
-- 1
+- '0'
+- '1'
 pHVisit:
-- 0
-- 1
+- '0'
+- '1'
 pH_flag_first:
 - low
 - normal
@@ -10044,11 +10032,11 @@ pH_flag_lastVisit:
 - normal
 - high
 pO2Arterial:
-- 0
-- 1
+- '0'
+- '1'
 pO2ArterialVisit:
-- 0
-- 1
+- '0'
+- '1'
 pO2Arterial_flag_first:
 - low
 - normal
@@ -10066,11 +10054,11 @@ pO2Arterial_flag_lastVisit:
 - normal
 - high
 pO2FiO2ratio:
-- 0
-- 1
+- '0'
+- '1'
 pO2FiO2ratioVisit:
-- 0
-- 1
+- '0'
+- '1'
 pO2FiO2ratio_flag_first:
 - low
 - normal
