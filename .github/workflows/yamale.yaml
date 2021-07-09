@@ -7,13 +7,13 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - uses: nrkno/yaml-schema-validator-github-action@master
-      working-directory: config
+      working-directory: ./config
       with:
         schema: ../schema/mapping.yaml
         target: 'mappings.yaml'
         strict: '1'
     - uses: nrkno/yaml-schema-validator-github-action@master
-      working-directory: config
+      working-directory: ./config
       with:
         schema: ../schema/features.yaml
         target: 'all_features.yaml'
