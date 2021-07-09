@@ -6,12 +6,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
-    - uses: nrkno/yaml-schema-validator-github-action@6cf8c4b3bceea7928c91432e865dcdc46fa4419c
+    - uses: nrkno/yaml-schema-validator-github-action@master
+      working-directory: config
       with:
         schema: ../schema/mapping.yaml
         target: 'mappings.yaml'
         strict: '1'
-    - uses: nrkno/yaml-schema-validator-github-action@6cf8c4b3bceea7928c91432e865dcdc46fa4419c
+    - uses: nrkno/yaml-schema-validator-github-action@master
+      working-directory: config
       with:
         schema: ../schema/features.yaml
         target: 'all_features.yaml'
