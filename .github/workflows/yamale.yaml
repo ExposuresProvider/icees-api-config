@@ -8,7 +8,7 @@ jobs:
     - uses: actions/checkout@v2
     - uses: nrkno/yaml-schema-validator-github-action@master
       with:
-        schema: $GITHUB_WORKSPACE/schemas/mappings.yaml
+        schema: ${{ github.workspace }}/schemas/mappings.yaml
         target: 'mappings.yaml'
         strict: '1'
     - uses: nrkno/yaml-schema-validator-github-action@master
