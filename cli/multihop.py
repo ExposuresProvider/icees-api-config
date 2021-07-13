@@ -28,15 +28,33 @@ def replace(template, values):
 
 NODE_NORMALIZER_QUERY_URL ="https://nodenormalization-sri.renci.org/1.1/get_normalized_nodes"
 
+
+def get_label_equivalent_identifier(obj, identifier):
+    for id2, id2_attributes in obj.items():
+        if id2_attributes is not None:
+            equivalent_ids = id2_attributes["equivalent_identifiers"]
+            for eqid in equivalent_ids:
+                if eqid["identifier"] == identifier:
+                    label = eqid.get("label")
+                    if label is None:
+                        return "~ " + id2_attributes["id"]["label"]
+                    else:
+                        return label
+    return None
+
+
 def get_label(obj, identifier):
     eqid_attributes = obj.get(identifier)
     if eqid_attributes is None:
-        return None
-    id_label = "~ " + eqid_attributes["id"]["label"]
+        return get_label_equivalent_identifier(obj, identifier)
     id_attributes = [eqid for eqid in eqid_attributes["equivalent_identifiers"] if eqid["identifier"] == identifier]
     if len(id_attributes) == 0:
         return id_label
-    return id_attributes[0].get("label", id_label)
+    label = id_attributes[0].get("label")
+    if label is None:
+        return "~ " + eqid_attributes["id"]["label"]
+    else:
+        return label
         
 
 def get_ids(binding):
@@ -210,6 +228,9 @@ def truncate(s, verbose):
 def create_results_df(ids, nodes_list, edges_list, equivalent_ids, step, depth, verbose):
     if nodes_list is None:
         return None
+    ids_results = {a for nodes in nodes_list for node in nodes for a in node}
+    equivalent_ids2 = get_equivalent_ids(ids_results - set(equivalent_ids.keys()), verbose)
+    equivalent_ids = {**equivalent_ids, **equivalent_ids2}
     query = step["query"]
     qedges = list(query["edges"].keys())
     qnodes = list(query["nodes"].keys())
@@ -223,7 +244,7 @@ def format_integer(i, n):
     return str(i).rjust(len(str(n-1)))
 
 
-def runSteps(progress, subprogress, key, depth, ids_list, steps, verbose):
+def runSteps(progress, subprogress, key, depth, ids_list, limit, steps, verbose):
     if len(steps) == 0:
         subprogress[key] = f"{Fore.GREEN}{len(ids_list)} Result(s){Fore.RESET}"
         return [pd.DataFrame([[]])]
@@ -240,65 +261,77 @@ def runSteps(progress, subprogress, key, depth, ids_list, steps, verbose):
         subprogress[key] = {subkey: {}}
         subsubprogress = subprogress[key][subkey]
         for i, ids in enumerate(ids_list):
-            subsubkey = truncate(f"{format_integer(i, len(ids_list))}: {len(ids)} Identifier(s) {ids}", verbose)
+            subsubkey = truncate(f"{format_integer(i, len(ids_list))}: {len(ids)} Identifier(s) {[label(equivalent_ids, id) for id in ids]}", verbose)
             subsubprogress[subsubkey] = {}
             subsubsubprogress = subsubprogress[subsubkey]
             use_equivalent_ids = step.get("synonymize_ids", False)
             if use_equivalent_ids:
                 ids = get_eqids_for_ids(equivalent_ids, ids)
-            df = runStepsWithIds(progress, subsubsubprogress, equivalent_ids, depth, filter_node_ids_by_prefix(supported_prefixes, ids), step, tail, verbose)
+            df = runStepsWithIds(progress, subsubsubprogress, equivalent_ids, depth, filter_node_ids_by_prefix(supported_prefixes, ids), limit, step, tail, verbose)
             next_results_df_list.append(df)
+            if limit is not None:
+                if df is not None:
+                    limit -= len(df)
+                    if limit <= 0:
+                        return next_results_df_list
 
         return next_results_df_list
 
     
-def runStepsWithIds(progress, subprogress, equivalent_ids, depth, ids, step, tail, verbose):
+def runStepsWithIds(progress, subprogress, equivalent_ids, depth, ids, limit, step, tail, verbose):
     name = step["name"]
     query = step["query"]
     qnodes = list(query["nodes"].keys())
     result_node = step.get("result_node")
     logger.info(f"running {name} with {ids}")
-    key = truncate(f"{len(ids)} Identifier(s) {name}({ids})", verbose)
+    key = truncate(f"{len(ids)} Identifier(s) {name}({[label(equivalent_ids, id) for id in ids]})", verbose)
     if len(ids) == 0:
         subprogress[key] = f"{Fore.YELLOW}No supported identifiers{Fore.RESET}"
         return None
-    subprogress[key] = f"{Fore.BLUE}Running{Fore.RESET}"
+    subprogress[key] = f"{Fore.BLUE}Running{Fore.RESET} limit {limit}"
     if verbose["progress"]:
         to_tree(progress).show()
 
     resp_obj = run_query(step, subprogress, key, ids, verbose)
 
     if resp_obj is not None:
-        nodes_list, edges_list = parse_resp(step, resp_obj, verbose)
+        try:
+            nodes_list, edges_list = parse_resp(step, resp_obj, verbose)
 
-        if nodes_list is None:
-            subprogress[key] = f"{Fore.YELLOW}No Results{Fore.RESET}"
+            if nodes_list is None:
+                subprogress[key] = f"{Fore.YELLOW}No Results{Fore.RESET}"
+                return None
+
+            results_df = create_results_df(ids, nodes_list, edges_list, equivalent_ids, step, depth, verbose)
+
+            if result_node is None:
+                subprogress[key] = f"{Fore.GREEN}{len(nodes_list)} Result(s){Fore.RESET}"
+                return results_df
+            else:
+                result_node_index = qnodes.index(result_node)
+                result_node_id_lists = [nodes[result_node_index] for nodes in nodes_list]
+
+                df_list = runSteps(progress, subprogress, key, depth + 1, result_node_id_lists, limit, tail, verbose)
+
+                next_results_df_list = []
+                for i, df in enumerate(df_list):
+                    if df is not None:
+                        next_results_df_list.append(results_df[i:i+1].merge(df, how="cross"))
+
+                return pd.concat(next_results_df_list) if len(next_results_df_list) > 0 else None
+        except Exception as e:
+            subprogress[key] = f"{Fore.RED}Error{Fore.RESET} {resp_obj}"
+            logger.error(f"{resp_obj}")
+            logger.error(f"error: cannot get query results {traceback.format_exc()}")
             return None
-        
-        results_df = create_results_df(ids, nodes_list, edges_list, equivalent_ids, step, depth, verbose)
 
-        if result_node is None:
-            subprogress[key] = f"{Fore.GREEN}{len(nodes_list)} Result(s){Fore.RESET}"
-            return results_df
-        else:
-            result_node_index = qnodes.index(result_node)
-            result_node_id_lists = [nodes[result_node_index] for nodes in nodes_list]
-
-            df_list = runSteps(progress, subprogress, key, depth + 1, result_node_id_lists, tail, verbose)
-
-            next_results_df_list = []
-            for i, df in enumerate(df_list):
-                if df is not None:
-                    next_results_df_list.append(results_df[i:i+1].merge(df, how="cross"))
-
-            return pd.concat(next_results_df_list) if len(next_results_df_list) > 0 else None
     else:
         return None
 
             
-def runWorkflow(ids, workflow, verbose=False, columns=None):
+def runWorkflow(ids, workflow, verbose=False, columns=None, limit=None):
     progress = {"start": {}}
-    df_list = runSteps(progress, progress, "start", 0, ids, workflow, verbose)
+    df_list = runSteps(progress, progress, "start", 0, ids, limit, workflow, verbose)
     logger.info(to_tree(progress))
     next_results_df_list = []
     for df in df_list:
@@ -321,16 +354,20 @@ if __name__ == "__main__":
     parser.add_argument('input_file_path', type=str, help='input file')
     parser.add_argument('output_file_path', type=str, help='output file')    
     parser.add_argument("-t", "--tree_output", type=str, default=None, help='generate tree output')
+    parser.add_argument("-e", "--report_path", type=str, default=None, help='generate json summary')
     parser.add_argument("-p", "--progress", action='store_true', default=False, help='show progress')
     parser.add_argument('-r', '--response', action='store_true', default=False, help='print request response')
     parser.add_argument('-n', '--no_truncate', action='store_true', default=False, help='no truncation of node names')
     parser.add_argument('-c', '--curl', action='store_true', default=False, help='print curl command')
     parser.add_argument('-d', '--debug', action='store_true', default=False, help='print debug')
+    parser.add_argument('-l', '--limit', type=int, default=None, help='limit number of results')
 
     args = parser.parse_args()
     input_file_path = args.input_file_path
     output_file_path = args.output_file_path
     tree_output_file_path = args.tree_output
+    report_file_path = args.report_path
+    limit = args.limit
     verbose = {
         "no_truncate": args.no_truncate,
         "curl": args.curl,
@@ -346,11 +383,11 @@ if __name__ == "__main__":
     workflow = query["steps"]
     columns = query.get("columns", None)
 
-    progress = runWorkflow(ids, workflow, verbose=verbose, columns=columns)
+    progress = runWorkflow(ids, workflow, verbose=verbose, columns=columns, limit=limit)
     if tree_output_file_path is not None:
         with open(tree_output_file_path, "w") as f:
             f.write(str(to_tree(progress)))
 
-    
-
-
+    if report_file_path is not None:
+        with open(report_file_path, "w") as f2:
+            json.dump(progress, f2)
