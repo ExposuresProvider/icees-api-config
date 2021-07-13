@@ -1,6 +1,8 @@
 let meta = ../../common/meta.dhall
+let binning_strategies = ../../common/binning_strategies.dhall
 let count_if = meta.count_if
 let enum = meta.enum
+let max_cutoff = binning_strategies.max_cutoff
 in {
     name = "TotalEDInpatientVisits",
     identifiers = [
@@ -35,5 +37,6 @@ in {
         categories = [
             "biolink:ActivityAndBehavior"
         ]
-    }
+    },
+    binning_strategy = max_cutoff 10
 }

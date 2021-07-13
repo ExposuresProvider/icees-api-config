@@ -45,8 +45,9 @@ def normalize_feature_name(key):
 
 def bin_range(enum):
     n = len(enum)
-    labels = [str(i) in enum for i in range(n - 1)] + [f">{n - 2}"]
-    if set(labels) < set(enum):
+    labels = [str(i) for i in range(n - 1)] + [f">{n - 2}"]
+    print(f"set(labels) = {set(labels)}, set(enum) = {set(enum)}")
+    if set(labels) == set(enum):
         return {
             "bins": [1.0 * i for i in range(n)] + [positive_infinity],
             "right" : False,
@@ -100,10 +101,10 @@ def convert_feature(features, feature_name, feature):
         else:
             feature_type = application(identifier("enum"), enum)
 
-        if enum is not None and (range_bins := bin_range(enum)) is not None:            
+        if enum is not None and bin_range(enum) is not None:            
             binning_strategies = [(application(
-                    identifier("range_bins"),
-                    range_bins
+                    identifier("max_cutoff"),
+                    len(enum) - 1
                 ),
                 ""
             )]
@@ -457,12 +458,25 @@ def convert(all_features_input_file_path, identifiers_input_file_path, fhir_mapp
             print(f"cannot find feature {variable_name}")
             
         os.makedirs(variable_output_dir_path, exist_ok=True)
+        identifiers = extract_identifiers(variable)
+        all_binning_strategies_identifiers = {"max_cutoff", "labels_max_cutoff", "labels_cut"}
+        binning_strategies_identifiers = [identifier for identifier in identifiers if identifier in all_binning_strategies_identifiers]
+        meta_identifiers = [identifier for identifier in identifiers if identifier not in all_binning_strategies_identifiers]
+        imports = {}
+        if len(meta_identifiers) != 0:
+            imports["meta"] = imp("../../common/meta.dhall")
+        if len(binning_strategies_identifiers) != 0:
+            imports["binning_strategies"] = imp("../../common/binning_strategies.dhall")
+        
         with open(variable_output_file_path, "w") as vof:
             dhall.dump(let(
                 {
-                    "meta": imp("../../common/meta.dhall"),
+                    **imports,
                     **{
-                        k: identifier(f"meta.{k}") for k in extract_identifiers(variable)
+                        k: identifier(f"meta.{k}") for k in meta_identifiers
+                    },
+                    **{
+                        k: identifier(f"binning_strategies.{k}") for k in binning_strategies_identifiers
                     }
                 },
                 variable

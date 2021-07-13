@@ -1,7 +1,9 @@
 let meta = ../../common/meta.dhall
+let binning_strategies = ../../common/binning_strategies.dhall
 let no_identifiers = meta.no_identifiers
 let generic_fhir_mapping = meta.generic_fhir_mapping
 let enum = meta.enum
+let max_cutoff = binning_strategies.max_cutoff
 in {
     name = "EstimatedGFR",
     identifiers = no_identifiers,
@@ -23,5 +25,6 @@ in {
         categories = [
             "biolink:PhenotypicFeature"
         ]
-    }
+    },
+    binning_strategy = max_cutoff 2
 }

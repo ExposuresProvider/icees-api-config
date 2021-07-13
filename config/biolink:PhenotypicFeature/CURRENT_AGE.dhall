@@ -1,6 +1,7 @@
 let meta = ../../common/meta.dhall
+let binning_strategies = ../../common/binning_strategies.dhall
 let enum = meta.enum
-let range_bins = meta.range_bins
+let max_cutoff = binning_strategies.max_cutoff
 in {
     name = "CURRENT_AGE",
     feature = {
@@ -16,25 +17,5 @@ in {
             "biolink:PhenotypicFeature"
         ]
     },
-    binning_strategy = range_bins {
-        bins = [
-            0.0,
-            3.0,
-            18.0,
-            35.0,
-            51.0,
-            70.0,
-            90.0
-        ],
-        right = False,
-        include_lowest = True,
-        labels = [
-            "0-2",
-            "3-17",
-            "18-34",
-            "35-50",
-            "51-69",
-            "70-89"
-        ]
-    }
+    binning_strategy = max_cutoff 5
 }

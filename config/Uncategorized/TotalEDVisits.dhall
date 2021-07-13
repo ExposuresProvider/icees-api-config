@@ -1,7 +1,9 @@
 let meta = ../../common/meta.dhall
+let binning_strategies = ../../common/binning_strategies.dhall
 let count_if = meta.count_if
 let enum = meta.enum
 let no_categories = meta.no_categories
+let max_cutoff = binning_strategies.max_cutoff
 in {
     name = "TotalEDVisits",
     identifiers = [
@@ -34,5 +36,6 @@ in {
             ">9"
         ],
         categories = no_categories
-    }
+    },
+    binning_strategy = max_cutoff 10
 }

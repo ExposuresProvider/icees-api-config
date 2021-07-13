@@ -1,5 +1,7 @@
 let meta = ../../common/meta.dhall
+let binning_strategies = ../../common/binning_strategies.dhall
 let enum = meta.enum
+let max_cutoff = binning_strategies.max_cutoff
 in {
     name = "ea_a017b_heat_gas",
     identifiers = [
@@ -16,5 +18,6 @@ in {
             "biolink:ChemicalSubstance",
             "biolink:ChemicalExposure"
         ]
-    }
+    },
+    binning_strategy = max_cutoff 2
 }

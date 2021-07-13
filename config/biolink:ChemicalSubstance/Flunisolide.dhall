@@ -1,6 +1,8 @@
 let meta = ../../common/meta.dhall
+let binning_strategies = ../../common/binning_strategies.dhall
 let generic_fhir_mapping = meta.generic_fhir_mapping
 let enum = meta.enum
+let max_cutoff = binning_strategies.max_cutoff
 in {
     name = "Flunisolide",
     identifiers = [
@@ -84,5 +86,6 @@ in {
             "biolink:ChemicalExposure",
             "biolink:Drug"
         ]
-    }
+    },
+    binning_strategy = max_cutoff 2
 }

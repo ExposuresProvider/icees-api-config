@@ -1,4 +1,3 @@
-let meta = ../../common/meta.dhall
 in {
     name = "HBVPositive",
     identifiers = [

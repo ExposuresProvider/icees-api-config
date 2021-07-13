@@ -1,5 +1,7 @@
 let meta = ../../common/meta.dhall
+let binning_strategies = ../../common/binning_strategies.dhall
 let enum = meta.enum
+let max_cutoff = binning_strategies.max_cutoff
 in {
     name = "CodeBlue",
     feature = {
@@ -11,5 +13,6 @@ in {
         categories = [
             "biolink:NamedThing"
         ]
-    }
+    },
+    binning_strategy = max_cutoff 2
 }

@@ -1,6 +1,8 @@
 let meta = ../../common/meta.dhall
+let binning_strategies = ../../common/binning_strategies.dhall
 let generic_fhir_mapping = meta.generic_fhir_mapping
 let enum = meta.enum
+let max_cutoff = binning_strategies.max_cutoff
 in {
     name = "CysticFibrosisDx",
     mapping = generic_fhir_mapping [
@@ -29,5 +31,6 @@ in {
             "biolink:Disease",
             "biolink:DiseaseOrPhenotypicFeature"
         ]
-    }
+    },
+    binning_strategy = max_cutoff 2
 }

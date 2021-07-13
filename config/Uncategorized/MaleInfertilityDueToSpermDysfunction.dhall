@@ -1,7 +1,9 @@
 let meta = ../../common/meta.dhall
+let binning_strategies = ../../common/binning_strategies.dhall
 let generic_fhir_mapping = meta.generic_fhir_mapping
 let enum = meta.enum
 let no_categories = meta.no_categories
+let max_cutoff = binning_strategies.max_cutoff
 in {
     name = "MaleInfertilityDueToSpermDysfunction",
     identifiers = [
@@ -24,5 +26,6 @@ in {
             ">1"
         ],
         categories = no_categories
-    }
+    },
+    binning_strategy = max_cutoff 2
 }

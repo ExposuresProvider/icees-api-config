@@ -1,5 +1,7 @@
 let meta = ../../common/meta.dhall
+let binning_strategies = ../../common/binning_strategies.dhall
 let enum = meta.enum
+let max_cutoff = binning_strategies.max_cutoff
 in {
     name = "he_c023d_nodule_benign",
     identifiers = [
@@ -17,5 +19,6 @@ in {
             "biolink:Disease",
             "biolink:DiseaseOrPhenotypicFeature"
         ]
-    }
+    },
+    binning_strategy = max_cutoff 2
 }

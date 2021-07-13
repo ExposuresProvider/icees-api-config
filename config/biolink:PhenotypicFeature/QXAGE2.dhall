@@ -1,6 +1,7 @@
 let meta = ../../common/meta.dhall
+let binning_strategies = ../../common/binning_strategies.dhall
 let enum = meta.enum
-let range_bins = meta.range_bins
+let max_cutoff = binning_strategies.max_cutoff
 in {
     name = "QXAGE2",
     feature = {
@@ -15,23 +16,5 @@ in {
             "biolink:PhenotypicFeature"
         ]
     },
-    binning_strategy = range_bins {
-        bins = [
-            -Infinity,
-            5.0,
-            18.0,
-            45.0,
-            65.0,
-            90.0
-        ],
-        right = False,
-        include_lowest = False,
-        labels = [
-            "<5",
-            "5-17",
-            "18-44",
-            "45-64",
-            "65-89"
-        ]
-    }
+    binning_strategy = max_cutoff 4
 }
