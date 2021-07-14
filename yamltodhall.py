@@ -448,7 +448,7 @@ def convert(all_features_input_file_path, identifiers_input_file_path, fhir_mapp
         else:
             dir_name = "Uncategorized"
 
-        file_name = f"{variable_name}.dhall"
+        file_name = f"{variable_name}.dhall".replace(":", "~")
         variable_output_dir_path = os.path.join(variables_output_dir_path, dir_name)
         variable_output_file_path = os.path.join(variable_output_dir_path, file_name)
 
