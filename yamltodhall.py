@@ -444,7 +444,7 @@ def convert(all_features_input_file_path, identifiers_input_file_path, fhir_mapp
                 break
             
         if isinstance(categories, list):
-            dir_name = categories[0]
+            dir_name = categories[0].replace(":", "~")
         else:
             dir_name = "Uncategorized"
 
