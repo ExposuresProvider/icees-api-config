@@ -262,6 +262,10 @@ def convert_fhir_mapping(fhir_mapping):
     )
 
         
+def encode_windows(name):
+    return name.replace(":", "colon").replace("*", "asterisk")
+
+
 def convert_nearest_x_feature_type(feature_type):
     return identifier({"integer": "integer", "string": "string", "number": "number"}[feature_type])
 
@@ -444,11 +448,11 @@ def convert(all_features_input_file_path, identifiers_input_file_path, fhir_mapp
                 break
             
         if isinstance(categories, list):
-            dir_name = categories[0].replace(":", "~")
+            dir_name = encode_windows(categories[0])
         else:
             dir_name = "Uncategorized"
 
-        file_name = f"{variable_name}.dhall".replace(":", "~")
+        file_name = encode_windows(f"{variable_name}.dhall")
         variable_output_dir_path = os.path.join(variables_output_dir_path, dir_name)
         variable_output_file_path = os.path.join(variable_output_dir_path, file_name)
 
