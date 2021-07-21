@@ -14,8 +14,7 @@ from urllib.error import HTTPError
 import re
 import os
 from time import sleep
-
-
+import ZipFile
 
 def putSpace(input):  
     
@@ -31,7 +30,7 @@ def download_athena_files(search_list, name_list, url, url2, outfile):
     file_path_download = []
 
     for iter_num, feature in enumerate(search_list):
-        time.sleep(10)
+        sleep(5)
 
         print(name_list[iter_num],feature)
         if len(feature.split())==1:
@@ -94,13 +93,13 @@ def download_athena_files(search_list, name_list, url, url2, outfile):
                         vocab_list.append(file_name.rstrip('\n'))
 
                 vocab = []
-                for vocab_name in mgwas_file_names:
+                for vocab_name in vocab_list:
                     regex = re.compile('[@_!#$%^&*()<>?/\|}{~:]')
                     if re.search(r"\s",vocab_name):
                         fixed_vocab = vocab_name.replace(' ', '+')
-                        vocab.append(fixec_vocab)
+                        vocab.append(fixed_vocab)
                     elif (regex.search(vocab_name) == None):
-                        domain.append(vocab_name)
+                        vocab.append(vocab_name)
                     else:
                         fixed_vocab = vocab_name.replace('/', '%2F')
                         vocab.append(fixed_vocab)
@@ -112,7 +111,7 @@ def download_athena_files(search_list, name_list, url, url2, outfile):
                         domain_list.append(file_name.rstrip('\n'))
 
                 domain = []
-                for domain_name in mgwas_file_names:
+                for domain_name in domain_list:
                     regex = re.compile('[@_!#$%^&*()<>?/\|}{~:]')
                     if re.search(r"\s",domain_name):
                         fixed_domain = domain_name.replace(' ', '+')
@@ -149,11 +148,11 @@ def download_athena_files(search_list, name_list, url, url2, outfile):
 
 
     with ZipFile('Athena_data_iceescovidfeature.zip', 'w') as zipObj:
-    for file in file_path_download:
-        if file.endswith("csv"):
-            if os.stat(filename).st_size != 58:
-                print(filename)
-                zipObj.write(file, basename(file))
+        for file in file_path_download:
+            if file.endswith("csv"):
+                if os.stat(filename).st_size != 58:
+                    print(filename)
+                    zipObj.write(file, basename(file))
                 
 
 if __name__ == "__main__":
@@ -183,15 +182,21 @@ if __name__ == "__main__":
     data.iloc[2,1] = 'lymphocyte count'
     data.iloc[3,1] = 'lymphocyte count'
     data.iloc[39,1] = 'interleukin-6'
+    data.iloc[59,1] = 'body mass index'
+    data.iloc[77,1] = 'emergency room and inpatient visit'
+    data.iloc[78,1] = 'emergency department visit'
+    data.iloc[79,1] = 'inpatient visit'
+    data.iloc[84,1] = 'WHO clinical progression scale' 
+
     data['newft'].replace('Dx', '', regex=True,inplace=True)
     data['newft'] = data['newft'].apply(lambda x: ' '.join(i.strip() for i in x.split()))
     
     url = "https://athena.ohdsi.org/api/v1/concepts/download/csv?page=1&pageSize=15&query=%22"
-    outfile = '/home/priyash/Scripts/scripts_erbc_download/Athena_download_csv_v3/'
+    outfile = '/home/priyash/Scripts/scripts_erbc_download/Athena_downloaded_csv_v4/'
     url2 = "https://athena.ohdsi.org/api/v1/concepts/download/csv?page=1&pageSize=15&query="
     
-    search_list = list(data['newft'])
-    name_list = list(data['original_feature'])
+    search_list = list(data['newft'][-4:])
+    name_list = list(data['original_feature'][-4:])
     
     
     download_athena_files(search_list, name_list, url, url2, outfile)
