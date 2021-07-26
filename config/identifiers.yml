@@ -2011,7 +2011,7 @@ patient:
   - SCTID:371696002
   - SCTID:371697006
   Metformin: &id064
-  - "SMILES:\nCN(C)C(:N)NC(:N)N"
+  - "SMILES:CN(C)C(:N)NC(:N)N"
   - CAS:657-24-9
   - MESH:D008687
   - PUBCHEM:4091
