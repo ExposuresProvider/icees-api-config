@@ -1,7 +1,7 @@
 let meta = ../../common/meta.dhall
 let enum = meta.enum
 in {
-    name = "ChronicHepatitisC_ScreeningDx",
+    name = "ChronicHepatitisC_Screening",
     identifiers = [
         "SCTID:128302006",
         "SCTID:708198006",

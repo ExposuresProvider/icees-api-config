@@ -1,7 +1,7 @@
 let meta = ../../common/meta.dhall
 let enum = meta.enum
 in {
-    name = "DILIN_SeverityScoreDx",
+    name = "DILIN_SeverityScore",
     identifiers = [
         "MESH:D056486"
     ],
