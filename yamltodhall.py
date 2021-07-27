@@ -490,7 +490,7 @@ def convert(all_features_input_file_path, identifiers_input_file_path, fhir_mapp
     # add Dx for disease Rx for drug
     for variable_name, variable in variables.items():
         categories = variable.get("feature", {}).get("categories")
-        if isinstance(categories, list) and "biolink:Drug" in categories and not variable_name.endswith("Rx"):
+        if isinstance(categories, list) and "biolink:Drug" in categories and not variable_name.endswith("Rx") and not variable_name[2] == "_":
             print(f"adding Rx suffix to {variable_name}")
             variable_rx = variable_name + "Rx"
             variable["name"] = variable_rx
