@@ -3040,7 +3040,7 @@ patient:
   Rash:
     categories:
     - biolink:PhenotypicFeature
-    - biolink:DiseaseOrPhentoypicFeature
+    - biolink:DiseaseOrPhenotypicFeature
     enum: &id258
     - 'No'
     - 'Yes'

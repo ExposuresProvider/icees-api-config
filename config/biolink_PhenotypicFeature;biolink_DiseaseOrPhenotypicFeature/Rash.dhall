@@ -240,7 +240,7 @@ in {
         ],
         categories = [
             "biolink:PhenotypicFeature",
-            "biolink:DiseaseOrPhentoypicFeature"
+            "biolink:DiseaseOrPhenotypicFeature"
         ]
     }
 }

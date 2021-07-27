@@ -502,7 +502,10 @@ def convert(all_features_input_file_path, identifiers_input_file_path, fhir_mapp
             update_vars[variable_dx] = variable
             delete_vars.add(variable_name)
     update_dict(variables, update_vars, delete_vars)
-        
+
+    def quote(s):
+        return f"\"{s}\"" if "," in s else s
+    
     package = {}
     dataset = []
     for variable_name, variable in variables.items():
@@ -517,7 +520,7 @@ def convert(all_features_input_file_path, identifiers_input_file_path, fhir_mapp
                 break
             
         if isinstance(categories, list):
-            dir_name = encode_windows(",".join(categories))
+            dir_name = encode_windows(";".join(categories))
         else:
             dir_name = "Uncategorized"
 
@@ -526,7 +529,7 @@ def convert(all_features_input_file_path, identifiers_input_file_path, fhir_mapp
         variable_output_file_path = os.path.join(variable_output_dir_path, file_name)
 
         if "feature" in variable:
-            package[variable_name] = record_completion("FeatureVariable", imp(f"./{dir_name}/{file_name}"))
+            package[variable_name] = record_completion("FeatureVariable", imp(f"./{quote(dir_name)}/{quote(file_name)}"))
             dataset.append(dot(identifier("v"), variable_name))
         else:
             print(f"cannot find feature {variable_name}")
