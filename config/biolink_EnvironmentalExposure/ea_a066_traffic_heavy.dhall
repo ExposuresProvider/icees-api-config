@@ -16,13 +16,5 @@ in {
             "biolink:EnvironmentalExposure"
         ]
     },
-    feature_alt = {
-        feature_type = enum [
-            "0",
-            "1",
-            ">1"
-        ],
-        categories = "biolink:EnvironmentalExposure"
-    },
     binning_strategy = max_cutoff 2
 }

@@ -21777,7 +21777,8 @@ visit:
     enum: *id379
     type: string
   ea_a066_traffic_heavy:
-    categories: biolink:EnvironmentalExposure
+    categories:
+      - biolink:EnvironmentalExposure
     enum: *id380
     type: string
   ea_a066_traffic_heavyVisit:
