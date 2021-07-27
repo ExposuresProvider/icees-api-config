@@ -496,7 +496,7 @@ def convert(all_features_input_file_path, identifiers_input_file_path, fhir_mapp
             variable["name"] = variable_rx
             update_vars[variable_rx] = variable
             delete_vars.add(variable_name)
-        elif isinstance(categories, list) and "biolink:Disease" in categories and not variable_name.endswith("Dx"):
+        elif isinstance(categories, list) and "biolink:Disease" in categories and not variable_name.endswith("Dx") and not variable_name[2] == "_":
             print(f"adding Dx suffix to {variable_name}")
             variable_dx = variable_name + "Dx"
             variable["name"] = variable_dx
