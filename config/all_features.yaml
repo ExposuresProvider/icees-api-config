@@ -964,6 +964,15 @@ patient:
     - 'No'
     - 'Yes'
     type: string
+  ChronicHepatitisB:
+    categories:
+    - biolink:PhenotypicFeature
+    - biolink:Disease
+    - biolink:DiseaseOrPhenotypicFeature
+    enum:
+    - 'No'
+    - 'Yes'
+    type: string
   ChronicHepatitisB_Screening:
     categories:
     - biolink:PhenotypicFeature
@@ -3696,6 +3705,102 @@ patient:
     - normal
     - high
     type: string
+  WBCcount_value_first:
+    categories:
+    - biolink:PhenotypicFeature
+    type: number
+  WBCcount_value_last:
+    categories:
+    - biolink:PhenotypicFeature
+    type: number
+  FEV1_value_first:
+    categories:
+    - biolink:PhenotypicFeature
+    type: number
+  FEV1_value_last:
+    categories:
+    - biolink:PhenotypicFeature
+    type: number
+  FVC_value_first:
+    categories:
+    - biolink:PhenotypicFeature
+    type: number
+  FVC_value_last:
+    categories:
+    - biolink:PhenotypicFeature
+    type: number
+  HCT_flag_first:
+    categories:
+    - biolink:PhenotypicFeature
+    enum:
+    - low
+    - normal
+    - high
+    type: string
+  HCT_flag_last:
+    categories:
+    - biolink:PhenotypicFeature
+    enum:
+    - low
+    - normal
+    - high
+    type: string
+  HCT_value_first:
+    categories:
+    - biolink:PhenotypicFeature
+    type: number
+  HCT_value_last:
+    categories:
+    - biolink:PhenotypicFeature
+    type: number
+  PLT_flag_first:
+    categories:
+    - biolink:PhenotypicFeature
+    enum:
+    - low
+    - normal
+    - high
+    type: string
+  PLT_flag_last:
+    categories:
+    - biolink:PhenotypicFeature
+    enum:
+    - low
+    - normal
+    - high
+    type: string
+  PLT_value_first:
+    categories:
+    - biolink:PhenotypicFeature
+    type: number
+  PLT_value_last:
+    categories:
+    - biolink:PhenotypicFeature
+    type: number
+  FEV1FVC_flag_first:
+    categories:
+    - biolink:PhenotypicFeature
+    enum:
+    - low
+    - normal
+    - high
+    type: string
+  FEV1FVC_flag_last:
+    categories:
+    - biolink:PhenotypicFeature
+    enum:
+    - low
+    - normal
+    - high
+    type: string
+  FEV1FVC_fraction_first:
+    categories:
+    - biolink:PhenotypicFeature
+    type: number
+  FEV1FVC_fraction_last:
+    categories:
+    - biolink:PhenotypicFeature
+    type: number
   WHONAME_Implicated_Drug1:
     categories:
     - biolink:ChemicalSubstance
@@ -3742,7 +3847,8 @@ patient:
     - Other
     type: string
   WHOSeverityScore:
-    categories: []
+    categories:
+      - biolink:PhenotypicFeature
     maximum: 10
     minimum: 0
     type: integer
@@ -19451,7 +19557,7 @@ visit:
     - '1'
     - '>1'
     type: string
-  ImmunodulationPredinoseOrMethylpredinose:
+  ImmunodulationPrednisoneOrMethylprednisone:
     categories:
     - biolink:ChemicalSubstance
     - biolink:ChemicalExposure

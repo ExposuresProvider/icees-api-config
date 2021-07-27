@@ -263,7 +263,7 @@ def convert_fhir_mapping(fhir_mapping):
 
         
 def encode_windows(name):
-    return name.replace(":", "colon").replace("*", "asterisk")
+    return name.replace(":", "_").replace("*", "_")
 
 
 def convert_nearest_x_feature_type(feature_type):
@@ -517,7 +517,7 @@ def convert(all_features_input_file_path, identifiers_input_file_path, fhir_mapp
                 break
             
         if isinstance(categories, list):
-            dir_name = encode_windows(categories[0])
+            dir_name = encode_windows(",".join(categories))
         else:
             dir_name = "Uncategorized"
 
