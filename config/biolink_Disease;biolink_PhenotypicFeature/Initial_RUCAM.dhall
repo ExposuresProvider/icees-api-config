@@ -13,8 +13,8 @@ in {
             "Highly Probable"
         ],
         categories = [
-            "biolink:PhenotypicFeature",
-            "biolink:Disease"
+            "biolink:Disease",
+            "biolink:PhenotypicFeature"
         ]
     }
 }

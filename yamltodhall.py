@@ -505,11 +505,20 @@ def convert(all_features_input_file_path, identifiers_input_file_path, fhir_mapp
     update_dict(variables, update_vars, delete_vars)
 
     # simplify categories
+    existing = []
     for variable_name, variable in variables.items():
         categories = variable.get("feature", {}).get("categories")
         if isinstance(categories, list):
             if "biolink:DiseaseOrPhenotypicFeature" in categories and ("biolink:Disease" in categories or "biolink:PhenotypicFeature" in categories):
                 categories.remove("biolink:DiseaseOrPhenotypicFeature")
+            has = False
+            for c in existing:
+                if set(c) == set(categories):
+                    categories.clear()
+                    categories.extend(c)
+                    break
+            if not has:
+                existing.append(categories)
 
     def quote(s):
         return f"\"{s}\"" if "," in s or " " in s else s

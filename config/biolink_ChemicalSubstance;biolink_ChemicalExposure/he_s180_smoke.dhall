@@ -1,11 +1,17 @@
 let meta = ../../common/meta.dhall
 let binning_strategies = ../../common/binning_strategies.dhall
-let no_identifiers = meta.no_identifiers
 let enum = meta.enum
 let max_cutoff = binning_strategies.max_cutoff
 in {
-    name = "he_s184_cigars_pipes",
-    identifiers = no_identifiers,
+    name = "he_s180_smoke",
+    identifiers = [
+        "NCIT:C172730",
+        "NCIT:C70989,",
+        "NCIT:C167376,",
+        "NCIT:C118169,",
+        "NCIT:C157711,",
+        "NCIT:C116977"
+    ],
     feature = {
         feature_type = enum [
             "0",
@@ -13,8 +19,8 @@ in {
             ">1"
         ],
         categories = [
-            "biolink:ChemicalExposure",
-            "biolink:ChemicalSubstance"
+            "biolink:ChemicalSubstance",
+            "biolink:ChemicalExposure"
         ]
     },
     binning_strategy = max_cutoff 2

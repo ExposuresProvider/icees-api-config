@@ -14,8 +14,8 @@ in {
             "Fatal"
         ],
         categories = [
-            "biolink:PhenotypicFeature",
-            "biolink:Disease"
+            "biolink:Disease",
+            "biolink:PhenotypicFeature"
         ]
     }
 }

@@ -15,8 +15,8 @@ in {
             ">1"
         ],
         categories = [
-            "biolink:ChemicalExposure",
-            "biolink:ChemicalSubstance"
+            "biolink:ChemicalSubstance",
+            "biolink:ChemicalExposure"
         ]
     },
     binning_strategy = max_cutoff 2

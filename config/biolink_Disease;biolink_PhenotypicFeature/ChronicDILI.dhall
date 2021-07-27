@@ -1,10 +1,9 @@
 let meta = ../../common/meta.dhall
 let enum = meta.enum
 in {
-    name = "UnexplainedAbnormalLiverTest",
+    name = "ChronicDILI",
     identifiers = [
-        "SCTID:207471009",
-        "SCTID:166603001"
+        "MESH:D056487"
     ],
     feature = {
         feature_type = enum [
@@ -12,8 +11,8 @@ in {
             "Yes"
         ],
         categories = [
-            "biolink:PhenotypicFeature",
-            "biolink:Disease"
+            "biolink:Disease",
+            "biolink:PhenotypicFeature"
         ]
     }
 }

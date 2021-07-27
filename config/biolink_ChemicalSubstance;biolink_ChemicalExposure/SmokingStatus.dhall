@@ -3,9 +3,8 @@ let binning_strategies = ../../common/binning_strategies.dhall
 let enum = meta.enum
 let max_cutoff = binning_strategies.max_cutoff
 in {
-    name = "he_s179_100_cigarettes",
+    name = "SmokingStatus",
     identifiers = [
-        "NCIT:C127059",
         "NCIT:C1519386",
         "UMLSCUI:C1519386",
         "MONDO:0008575",
@@ -17,7 +16,8 @@ in {
         "LOINC:LP212149-1",
         "SCTID:766931000000106",
         "SCTID:390902009",
-        "SCTID:390904005"
+        "SCTID:390904005",
+        "SCTID:365980008"
     ],
     feature = {
         feature_type = enum [
@@ -26,8 +26,8 @@ in {
             ">1"
         ],
         categories = [
-            "biolink:ChemicalExposure",
-            "biolink:ChemicalSubstance"
+            "biolink:ChemicalSubstance",
+            "biolink:ChemicalExposure"
         ]
     },
     binning_strategy = max_cutoff 2

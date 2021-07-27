@@ -1,11 +1,10 @@
 let meta = ../../common/meta.dhall
 let enum = meta.enum
 in {
-    name = "GilbertsSyndrome",
+    name = "UnexplainedAbnormalLiverTest",
     identifiers = [
-        "OMIM:MTHU031877",
-        "MESH:D005878",
-        "LOINC:27503000"
+        "SCTID:207471009",
+        "SCTID:166603001"
     ],
     feature = {
         feature_type = enum [
@@ -13,8 +12,8 @@ in {
             "Yes"
         ],
         categories = [
-            "biolink:PhenotypicFeature",
-            "biolink:Disease"
+            "biolink:Disease",
+            "biolink:PhenotypicFeature"
         ]
     }
 }
