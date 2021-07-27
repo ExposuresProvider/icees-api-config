@@ -16,3 +16,13 @@ jobs:
         schema: '../schema/features.yaml'
         target: 'config/all_features.yaml'
         strict: '1'
+    - uses: NCATS-Tangerine/yaml-schema-validator-github-action@master
+      with:
+        schema: '../schema/identifiers.yaml'
+        target: 'config/identifiers.yml'
+        strict: '1'
+    - uses: NCATS-Tangerine/yaml-schema-validator-github-action@master
+      with:
+        schema: '../schema/sets.yaml'
+        target: 'config/value_sets.yaml'
+        strict: '1'
