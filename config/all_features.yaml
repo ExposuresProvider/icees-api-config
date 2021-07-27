@@ -4331,7 +4331,7 @@ patient:
     - Live within 2 miles but more than 1 mile
     - Live within 1 mile but more than 1/4 mile
     - Live within 1/4 mile or less
-    - Don't know
+    - "Don't know"
     type: string
   ea_a068_bus_station:
     categories:
@@ -4341,7 +4341,7 @@ patient:
     - Live within 2 miles but more than 1 mile
     - Live within 1 mile but more than 1/4 mile
     - Live within 1/4 mile or less
-    - Don't know
+    - "Don't know"
     type: string
   ea_a069_airport:
     categories:
@@ -4351,7 +4351,7 @@ patient:
     - Live within 2 miles but more than 1 mile
     - Live within 1 mile but more than 1/4 mile
     - Live within 1/4 mile or less
-    - Don't know
+    - "Don't know"
     type: string
   ea_a070_dry_cleaners:
     categories:
@@ -4361,7 +4361,7 @@ patient:
     - Live within 2 miles but more than 1 mile
     - Live within 1 mile but more than 1/4 mile
     - Live within 1/4 mile or less
-    - Don't know
+    - "Don't know"
     type: string
   ea_a071_farm:
     categories:
@@ -4371,7 +4371,7 @@ patient:
     - Live within 2 miles but more than 1 mile
     - Live within 1 mile but more than 1/4 mile
     - Live within 1/4 mile or less
-    - Don't know
+    - "Don't know"
     type: string
   ea_a072_gas_station:
     categories:
@@ -4381,7 +4381,7 @@ patient:
     - Live within 2 miles but more than 1 mile
     - Live within 1 mile but more than 1/4 mile
     - Live within 1/4 mile or less
-    - Don't know
+    - "Don't know"
     type: string
   ea_a073_golf_course:
     categories:
@@ -4391,7 +4391,7 @@ patient:
     - Live within 2 miles but more than 1 mile
     - Live within 1 mile but more than 1/4 mile
     - Live within 1/4 mile or less
-    - Don't know
+    - "Don't know"
     type: string
   ea_a074_greenhouse:
     categories:
@@ -4401,7 +4401,7 @@ patient:
     - Live within 2 miles but more than 1 mile
     - Live within 1 mile but more than 1/4 mile
     - Live within 1/4 mile or less
-    - Don't know
+    - "Don't know"
     type: string
   ea_a075_hazard_waste:
     categories:
@@ -4411,7 +4411,7 @@ patient:
     - Live within 2 miles but more than 1 mile
     - Live within 1 mile but more than 1/4 mile
     - Live within 1/4 mile or less
-    - Don't know
+    - "Don't know"
     type: string
   ea_a076_power_lines:
     categories:
@@ -4421,7 +4421,7 @@ patient:
     - Live within 2 miles but more than 1 mile
     - Live within 1 mile but more than 1/4 mile
     - Live within 1/4 mile or less
-    - Don't know
+    - "Don't know"
     type: string
   ea_a077_incinerator:
     categories:
@@ -4431,7 +4431,7 @@ patient:
     - Live within 2 miles but more than 1 mile
     - Live within 1 mile but more than 1/4 mile
     - Live within 1/4 mile or less
-    - Don't know
+    - "Don't know"
     type: string
   ea_a078_landfill:
     categories:
@@ -4441,7 +4441,7 @@ patient:
     - Live within 2 miles but more than 1 mile
     - Live within 1 mile but more than 1/4 mile
     - Live within 1/4 mile or less
-    - Don't know
+    - "Don't know"
     type: string
   ea_a079_tannery:
     categories:
@@ -4451,7 +4451,7 @@ patient:
     - Live within 2 miles but more than 1 mile
     - Live within 1 mile but more than 1/4 mile
     - Live within 1/4 mile or less
-    - Don't know
+    - "Don't know"
     type: string
   ea_a080_military_base:
     categories:
@@ -4461,7 +4461,7 @@ patient:
     - Live within 2 miles but more than 1 mile
     - Live within 1 mile but more than 1/4 mile
     - Live within 1/4 mile or less
-    - Don't know
+    - "Don't know"
     type: string
   ea_a081_oil_refinery:
     categories:
@@ -4471,7 +4471,7 @@ patient:
     - Live within 2 miles but more than 1 mile
     - Live within 1 mile but more than 1/4 mile
     - Live within 1/4 mile or less
-    - Don't know
+    - "Don't know"
     type: string
   ea_a082_paper_mill:
     categories:
@@ -4481,7 +4481,7 @@ patient:
     - Live within 2 miles but more than 1 mile
     - Live within 1 mile but more than 1/4 mile
     - Live within 1/4 mile or less
-    - Don't know
+    - "Don't know"
     type: string
   ea_a083_poultry_plant:
     categories:
@@ -4491,7 +4491,7 @@ patient:
     - Live within 2 miles but more than 1 mile
     - Live within 1 mile but more than 1/4 mile
     - Live within 1/4 mile or less
-    - Don't know
+    - "Don't know"
     type: string
   ea_a084_coal_plant:
     categories:
@@ -4501,7 +4501,7 @@ patient:
     - Live within 2 miles but more than 1 mile
     - Live within 1 mile but more than 1/4 mile
     - Live within 1/4 mile or less
-    - Don't know
+    - "Don't know"
     type: string
   ea_a085_gas_plant:
     categories:
@@ -4511,7 +4511,7 @@ patient:
     - Live within 2 miles but more than 1 mile
     - Live within 1 mile but more than 1/4 mile
     - Live within 1/4 mile or less
-    - Don't know
+    - "Don't know"
     type: string
   ea_a086_oil_plant:
     categories:
@@ -4521,7 +4521,7 @@ patient:
     - Live within 2 miles but more than 1 mile
     - Live within 1 mile but more than 1/4 mile
     - Live within 1/4 mile or less
-    - Don't know
+    - "Don't know"
     type: string
   ea_a087_nuclear_plant:
     categories:
@@ -4531,7 +4531,7 @@ patient:
     - Live within 2 miles but more than 1 mile
     - Live within 1 mile but more than 1/4 mile
     - Live within 1/4 mile or less
-    - Don't know
+    - "Don't know"
     type: string
   ea_a088b_factory_d:
     categories:
@@ -7096,7 +7096,8 @@ patient:
     - '>1'
     type: string
   eb_m313_ever_pregnant:
-    categories: []
+    categories:
+      - biolink:PhenotypicFeature
     enum: &id682
     - '0'
     - '1'
@@ -7202,7 +7203,8 @@ patient:
     - '>1'
     type: string
   eb_m322_babies_delivered_n:
-    categories: []
+    categories:
+      - biolink:PhenotypicFeature
     enum: &id694
     - '0'
     - '1'
@@ -7219,21 +7221,24 @@ patient:
     - '>1'
     type: string
   he_a004a_birth_low_bw:
-    categories: []
+    categories:
+      - biolink:NamedThing
     enum: &id696
     - '0'
     - '1'
     - '>1'
     type: string
   he_a004b_birth_preterm:
-    categories: []
+    categories:
+      - biolink:NamedThing
     enum: &id697
     - '0'
     - '1'
     - '>1'
     type: string
   he_a004c_birth_multi:
-    categories: []
+    categories:
+      - biolink:NamedThing
     enum: &id698
     - Twin
     - Triplet
@@ -19554,7 +19559,10 @@ visit:
     enum: *id179
     type: string
   Influenza7pointClinicalStatusScore:
-    categories: []
+    categories:
+      - biolink:Disease
+      - biolink:PhenotypicFeature
+      - biolink:DiseaseOrPhenotypicFeature
     maximum: 10
     minimum: 0
     type: integer
@@ -19604,7 +19612,8 @@ visit:
     enum: *id184
     type: string
   IsolationFlag:
-    categories: []
+    categories:
+      - biolink:NamedThing
     enum: *id185
     type: string
   IsolationFlagVisit:
@@ -19869,34 +19878,6 @@ visit:
     maximum: 5
     minimum: 1
     type: integer
-  Max24hOzoneExposure_StudyAvg:
-    categories:
-    - biolink:ChemicalSubstance
-    - biolink:ChemicalExposure
-    maximum: 5
-    minimum: 1
-    type: integer
-  Max24hOzoneExposure_StudyAvg_qcut:
-    categories:
-    - biolink:ChemicalSubstance
-    - biolink:ChemicalExposure
-    maximum: 5
-    minimum: 1
-    type: integer
-  Max24hOzoneExposure_StudyMax:
-    categories:
-    - biolink:ChemicalSubstance
-    - biolink:ChemicalExposure
-    maximum: 5
-    minimum: 1
-    type: integer
-  Max24hOzoneExposure_StudyMax_qcut:
-    categories:
-    - biolink:ChemicalSubstance
-    - biolink:ChemicalExposure
-    maximum: 5
-    minimum: 1
-    type: integer
   Max24hOzoneExposure_qcut:
     categories:
     - biolink:ChemicalSubstance
@@ -19905,34 +19886,6 @@ visit:
     minimum: 1
     type: integer
   Max24hPM2.5Exposure:
-    categories:
-    - biolink:ChemicalSubstance
-    - biolink:ChemicalExposure
-    maximum: 5
-    minimum: 1
-    type: integer
-  Max24hPM2.5Exposure_StudyAvg:
-    categories:
-    - biolink:ChemicalSubstance
-    - biolink:ChemicalExposure
-    maximum: 5
-    minimum: 1
-    type: integer
-  Max24hPM2.5Exposure_StudyAvg_qcut:
-    categories:
-    - biolink:ChemicalSubstance
-    - biolink:ChemicalExposure
-    maximum: 5
-    minimum: 1
-    type: integer
-  Max24hPM2.5Exposure_StudyMax:
-    categories:
-    - biolink:ChemicalSubstance
-    - biolink:ChemicalExposure
-    maximum: 5
-    minimum: 1
-    type: integer
-  Max24hPM2.5Exposure_StudyMax_qcut:
     categories:
     - biolink:ChemicalSubstance
     - biolink:ChemicalExposure
@@ -20687,6 +20640,15 @@ visit:
     - biolink:ChemicalSubstance
     - biolink:ChemicalExposure
     - biolink:Drug
+    enum:
+    - '0'
+    - '1'
+    - '>1'
+    type: string
+  RespiratorySupportHFNC:
+    categories:
+    - biolink:ClinicalIntervention
+    - biolink:ChemicalExposure
     enum:
     - '0'
     - '1'
@@ -21815,7 +21777,7 @@ visit:
     enum: *id379
     type: string
   ea_a066_traffic_heavy:
-    categories: []
+    categories: biolink:EnvironmentalExposure
     enum: *id380
     type: string
   ea_a066_traffic_heavyVisit:

@@ -15044,16 +15044,8 @@ visit:
   Max24hOzoneExposure: *id007
   Max24hOzoneExposure_2: *id007
   Max24hOzoneExposure_2_qcut: *id007
-  Max24hOzoneExposure_StudyAvg: *id007
-  Max24hOzoneExposure_StudyAvg_qcut: *id007
-  Max24hOzoneExposure_StudyMax: *id007
-  Max24hOzoneExposure_StudyMax_qcut: *id007
   Max24hOzoneExposure_qcut: *id007
   Max24hPM2.5Exposure: *id008
-  Max24hPM2.5Exposure_StudyAvg: *id008
-  Max24hPM2.5Exposure_StudyAvg_qcut: *id008
-  Max24hPM2.5Exposure_StudyMax: *id008
-  Max24hPM2.5Exposure_StudyMax_qcut: *id008
   Max24hPM2.5Exposure_qcut: *id008
   MedroxyprogresteroneVisit: *id060
   MenopauseVisit: *id061
@@ -15112,7 +15104,7 @@ visit:
   TheophyllineVisit: *id087
   TrazodoneVisit: *id088
   TriptorelinVisit: *id089
-  UrbanRural: *id090
+  ur: *id090
   UterineCancerVisit: *id091
   VenlafaxineVisit: *id092
   VisitType:
@@ -21094,7 +21086,7 @@ visit:
   ea_a059c_pet_other: []
   ea_a060_pest_regularly: []
   ea_a065_traffic: []
-  a_a066_traffic_heavy: []
+  ea_a066_traffic_heavy: []
   ea_b092a_benzene:
   - CHEBI_27798
   ea_b092b_chloroform:
@@ -21868,7 +21860,7 @@ visit:
   ea_b146f_carcinogens_other: []
   ea_b151a_carcinogens_ongoing_d: []
   ea_b152_acid_d: []
-  a_b152f_acid_other: []
+  ea_b152f_acid_other: []
   ea_b157a_acid_ongoing_d: []
   ea_b158_alkalis_d:
   - CHEBI_22313
