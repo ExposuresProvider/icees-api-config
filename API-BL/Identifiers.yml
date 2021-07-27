@@ -2011,7 +2011,7 @@ patient:
   - SCTID:371696002
   - SCTID:371697006
   Metformin: &id064
-  - "SMILES:\nCN(C)C(:N)NC(:N)N"
+  - "SMILES:CN(C)C(:N)NC(:N)N"
   - CAS:657-24-9
   - MESH:D008687
   - PUBCHEM:4091
@@ -8697,7 +8697,7 @@ patient:
   - SCITD:59021001
   - SCITD:64333001
   - SCITD:186358002
-  he _b012_heart_attack:
+  he_b012_heart_attack:
   - MONDO:0005068
   - NCIT:C27996
   - UMLSCUI:C0027051
@@ -11211,7 +11211,7 @@ patient:
   - MESH:D019698
   ChronicHepatitisB_Screening:
   - MESH:D019694
-  ChronicHepatitsB:
+  ChronicHepatitisB:
   - UMLS:C0524909
   Cirrhosis:
   - NCIT:C3044
@@ -14893,8 +14893,8 @@ patient:
   rs1363907_a: []
   rs2476601_a: []
 visit:
-  AvgailyAcetaldehydeExposure_2: *id001
-  AvgailyAcetaldehydeExposure_2_qcut: *id001
+  AvgDailyAcetaldehydeExposure_2: *id001
+  AvgDailyAcetaldehydeExposure_2_qcut: *id001
   AgeVisit: *id011
   AlbuterolVisit: *id014
   AlcoholDependenceVisit: *id015
@@ -14932,7 +14932,7 @@ visit:
   BudesonideVisit: *id021
   CervicalCancerVisit: *id022
   CetirizineVisit: *id023
-  Ciclesonidevisit: *id024
+  CiclesonideVisit: *id024
   CitalopramVisit: *id025
   CoughDxVisit: *id026
   CroupDxVisit: *id027
@@ -15166,7 +15166,7 @@ visit:
   - SCTID:766931000000106
   - SCTID:390902009
   - SCTID:390904005
-  ChalrsonComorbidityIndex:
+  CharlsonComorbidityIndex:
   - NCIT:C176422
   - SCTID:762713009
   - SCTID:446619003
@@ -19944,7 +19944,7 @@ visit:
   - SCITD:162380009
   - SCITD:68235000
   - LOINC:LA9263-0
-  Bronchietasis:
+  Bronchiectasis:
   - SCITD:12295008
   - SCITD:77593006
   - SCITD:195985008
@@ -20339,7 +20339,7 @@ visit:
   - SCITD:59021001
   - SCITD:64333001
   - SCITD:186358002
-  he _b012_heart_attack:
+  he_b012_heart_attack:
   - MONDO:0005068
   - NCIT:C27996
   - UMLSCUI:C0027051
@@ -21776,8 +21776,8 @@ visit:
   ea_b194h_pen_ink: []
   ea_b194i_toner: []
   ea_b194j_soy_ink: []
-  ea_b194k_pharma_ink:
-    ea_a012_current_home_type: []
+  ea_b194k_pharma_ink: []
+  ea_a012_current_home_type: []
   ea_a017h_heat_other: []
   ea_a017i_heat_none: []
   ea_a017j_heat_dk: []
@@ -22029,8 +22029,6 @@ visit:
   - MESH:C435939
   - MESH:C520558
   - MESH:C520984
-  A1ATDeficiency:
-  - MONDO:0013282
   ALT_DILIOnset_ULN:
   - HP:0031964
   ALTOnset:
@@ -22702,7 +22700,7 @@ visit:
   - LOINC:LP44703-4
   AlkalinePhosphatase_Peak_DILIOnsetToMonth6_ULN:
   - HP:0003155
-  AlkalinePhosphatate_Peak_DILIOnsetToMonth6:
+  AlkalinePhosphatase_Peak_DILIOnsetToMonth6:
   - HP:0003155
   AntiHAV:
   - OMIM:MTHU045723
@@ -22843,7 +22841,7 @@ visit:
   - SCTID:708198006
   - SCTID:186640001
   - MESH:D019698
-  ChronicHepatititsB_Screening:
+  ChronicHepatitisB_Screening:
   - MESH:D019694
   Cirrhosis:
   - NCIT:C3044
@@ -23074,9 +23072,9 @@ visit:
   - MESH:C489631
   DaysALTDILIOnsetToPeak: []
   DaysASTDILIOnsetToPeak: []
-  DaysAlkalphinePhosphataseDILIOnsetToPeak: []
+  DaysAlkalinePhosphataseDILIOnsetToPeak: []
   DaysBilirubinDILIOnsetToPeak: []
-  DaysDILIOnsetToInititalVisit: []
+  DaysDILIOnsetToInitialVisit: []
   DaysDrugStartToEarliestSign: []
   DaysDrugStartToEarliestSignOrDILI: []
   DaysEarliestSignToDILI: []
@@ -23958,7 +23956,7 @@ visit:
   - UMLS:C0264843
   - UMLS:C4076065
   - UMLS:C3150339
-  HepatititsA: []
+  HepatitisA: []
   HospitalizationNewProlonged:
   - MESH:D006760
   INROnset:

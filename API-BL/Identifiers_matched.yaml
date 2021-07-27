@@ -1153,12 +1153,12 @@ patient:
   CharlsonComorbidityIndex: []
   ChronicDILI:
   - MESH:D056487: MONDO:0002184
+  ChronicHepatitisB:
+  - UMLS:C0524909: MONDO:0005366
   ChronicHepatitisB_Screening:
   - MESH:D019694: MONDO:0005366
   ChronicHepatitisC_Screening:
   - MESH:D019698: MONDO:0005354
-  ChronicHepatitsB:
-  - UMLS:C0524909: MONDO:0005366
   ChronicKidneyDiseaseDx:
   - MONDO:0005240: MONDO:0005240
   - MONDO:0001343: MONDO:0001343
@@ -5921,16 +5921,6 @@ patient:
   eb_a016_zinc:
   - MESH:D015032: PUBCHEM.COMPOUND:23994
   eb_a017_blk_cohosh: []
-  he _b012_heart_attack:
-  - MONDO:0005068: MONDO:0005068
-  - NCIT:C27996: MONDO:0005068
-  - MESH:D009203: MONDO:0005068
-  - MESH:D006333: MONDO:0005252
-  - MESH:D011660: MONDO:0004596
-  - MESH:D002275: MONDO:0043529
-  - MESH:D054144: MONDO:0006727
-  - MESH:D054143: MONDO:0006993
-  - MESH:C535758: MONDO:0009326
   he_a004a_birth_low_bw:
   - MONDO:0005030: MONDO:0005030
   - MONDO:0008871: MONDO:0008871
@@ -6092,6 +6082,16 @@ patient:
   - NCIT:C66911: MONDO:0006805
   - NCIT:C66914: UMLS:C0340288
   - NCIT:C80382: UMLS:C0741026
+  he_b012_heart_attack:
+  - MONDO:0005068: MONDO:0005068
+  - NCIT:C27996: MONDO:0005068
+  - MESH:D009203: MONDO:0005068
+  - MESH:D006333: MONDO:0005252
+  - MESH:D011660: MONDO:0004596
+  - MESH:D002275: MONDO:0043529
+  - MESH:D054144: MONDO:0006727
+  - MESH:D054143: MONDO:0006993
+  - MESH:C535758: MONDO:0009326
   he_b013_coronary_artery:
   - MESH:D003324: MONDO:0005010
   - MESH:D003327: MONDO:0005010
@@ -6520,8 +6520,6 @@ visit:
   - MESH:C435939: MESH:C435939
   - MESH:C520558: MESH:C520558
   - MESH:C520984: MESH:C520984
-  A1ATDeficiency:
-  - MONDO:0013282: MONDO:0013282
   ALT:
   - NCIT:C143267: NCIT:C143267
   - NCIT:C145734: NCIT:C145734
@@ -7185,9 +7183,9 @@ visit:
   - MESH:D000469: MESH:D000469
   AlkalinePhosphatase_DILIOnset_ULN:
   - HP:0003155: HP:0003155
-  AlkalinePhosphatase_Peak_DILIOnsetToMonth6_ULN:
+  AlkalinePhosphatase_Peak_DILIOnsetToMonth6:
   - HP:0003155: HP:0003155
-  AlkalinePhosphatate_Peak_DILIOnsetToMonth6:
+  AlkalinePhosphatase_Peak_DILIOnsetToMonth6_ULN:
   - HP:0003155: HP:0003155
   AlopeciaVisit: []
   AndrostenedioneVisit: []
@@ -7326,10 +7324,10 @@ visit:
   Avg24hSO2Exposure_2_qcut:
   - CHEBI:18422: PUBCHEM.COMPOUND:1119
   - MESH:D013458: PUBCHEM.COMPOUND:1119
-  AvgailyAcetaldehydeExposure_2:
+  AvgDailyAcetaldehydeExposure_2:
   - CHEBI:15343: PUBCHEM.COMPOUND:177
   - MESH:D000079: PUBCHEM.COMPOUND:177
-  AvgailyAcetaldehydeExposure_2_qcut:
+  AvgDailyAcetaldehydeExposure_2_qcut:
   - CHEBI:15343: PUBCHEM.COMPOUND:177
   - MESH:D000079: PUBCHEM.COMPOUND:177
   BMI:
@@ -7521,7 +7519,7 @@ visit:
   - NCIT:C122438: HP:0003138
   BrainNatriureticPeptide:
   - CHEBI:135919: PUBCHEM.COMPOUND:71308561
-  Bronchietasis:
+  Bronchiectasis:
   - MESH:D001987: MONDO:0004822
   BudesonideVisit:
   - CAS:51333-22-3: PUBCHEM.COMPOUND:5281004
@@ -7721,16 +7719,16 @@ visit:
   CetirizineVisit:
   - CAS:83881-51-0: PUBCHEM.COMPOUND:2678
   - MESH:D017332: PUBCHEM.COMPOUND:2678
-  ChalrsonComorbidityIndex: []
+  CharlsonComorbidityIndex: []
   ChronicArteryDiseaseDx:
   - NCIT:C12372: UBERON:0001637
   - MONDO:0000473: MONDO:0000473
   ChronicDILI:
   - MESH:D056487: MONDO:0002184
+  ChronicHepatitisB_Screening:
+  - MESH:D019694: MONDO:0005366
   ChronicHepatitisC_Screening:
   - MESH:D019698: MONDO:0005354
-  ChronicHepatititsB_Screening:
-  - MESH:D019694: MONDO:0005366
   ChronicKidneyDiseaseDx:
   - MONDO:0005240: MONDO:0005240
   - MONDO:0001343: MONDO:0001343
@@ -7783,7 +7781,7 @@ visit:
   - MONDO:0005002: MONDO:0005002
   - MONDO:0023540: MONDO:0023540
   - MONDO:0010220: MONDO:0010220
-  Ciclesonidevisit:
+  CiclesonideVisit:
   - CAS:126544-47-6: PUBCHEM.COMPOUND:129317886
   - MESH:C120481: PUBCHEM.COMPOUND:6918155
   Cirrhosis:
@@ -7994,9 +7992,9 @@ visit:
   - MESH:D003371: HP:0012735
   DaysALTDILIOnsetToPeak: []
   DaysASTDILIOnsetToPeak: []
-  DaysAlkalphinePhosphataseDILIOnsetToPeak: []
+  DaysAlkalinePhosphataseDILIOnsetToPeak: []
   DaysBilirubinDILIOnsetToPeak: []
-  DaysDILIOnsetToInititalVisit: []
+  DaysDILIOnsetToInitialVisit: []
   DaysDrugStartToEarliestSign: []
   DaysDrugStartToEarliestSignOrDILI: []
   DaysEarliestSignToDILI: []
@@ -8989,7 +8987,7 @@ visit:
   - MONDO:0017238: MONDO:0017238
   - MONDO:0014914: MONDO:0014914
   - MONDO:0007717: MONDO:0007717
-  HepatititsA: []
+  HepatitisA: []
   HgbA1C:
   - NCIT:C122507: NCIT:C122507
   HistrelinVisit: []
@@ -11669,6 +11667,7 @@ visit:
   YearDILIOnset: []
   a_a066_traffic_heavy: []
   a_b152f_acid_other: []
+  ea_a012_current_home_type: []
   ea_a014_central_heat: []
   ea_a017a_heat_natural_gas: []
   ea_a017b_heat_gas: []
@@ -12435,16 +12434,6 @@ visit:
   eb_a016_zinc:
   - MESH:D015032: PUBCHEM.COMPOUND:23994
   eb_a017_blk_cohosh: []
-  he _b012_heart_attack:
-  - MONDO:0005068: MONDO:0005068
-  - NCIT:C27996: MONDO:0005068
-  - MESH:D009203: MONDO:0005068
-  - MESH:D006333: MONDO:0005252
-  - MESH:D011660: MONDO:0004596
-  - MESH:D002275: MONDO:0043529
-  - MESH:D054144: MONDO:0006727
-  - MESH:D054143: MONDO:0006993
-  - MESH:C535758: MONDO:0009326
   he_a004a_birth_low_bw:
   - MONDO:0005030: MONDO:0005030
   - MONDO:0008871: MONDO:0008871
@@ -12606,6 +12595,16 @@ visit:
   - NCIT:C66911: MONDO:0006805
   - NCIT:C66914: UMLS:C0340288
   - NCIT:C80382: UMLS:C0741026
+  he_b012_heart_attack:
+  - MONDO:0005068: MONDO:0005068
+  - NCIT:C27996: MONDO:0005068
+  - MESH:D009203: MONDO:0005068
+  - MESH:D006333: MONDO:0005252
+  - MESH:D011660: MONDO:0004596
+  - MESH:D002275: MONDO:0043529
+  - MESH:D054144: MONDO:0006727
+  - MESH:D054143: MONDO:0006993
+  - MESH:C535758: MONDO:0009326
   he_b013_coronary_artery:
   - MESH:D003324: MONDO:0005010
   - MESH:D003327: MONDO:0005010
