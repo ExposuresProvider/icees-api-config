@@ -1670,6 +1670,7 @@ let variables = [
     v.eb_f111_gonorrhea,
     v.eb_f113_hep_b,
     v.eb_f114_hep_c,
+    v.eb_f115_hIV,
     v.eb_f116_legionnaires,
     v.eb_f117_lyme,
     v.eb_f118_malaria,
@@ -1686,6 +1687,7 @@ let variables = [
     v.eb_f129_staph,
     v.eb_f130_strep,
     v.eb_f131_syphilis,
+    v.eb_f132_TB,
     v.eb_f133_ulcers,
     v.eb_f134_whooping_cough,
     v.eb_g159_dx_sleep_disorder,
@@ -1703,6 +1705,8 @@ let variables = [
     v.eb_k302a_klinefelter_you,
     v.eb_k303a_muscular_dyst_you,
     v.eb_k304a_niemann_pick_you,
+    v.eb_k305a_PKU_you,
+    v.eb_k306a_PKD_you,
     v.eb_k307a_sickle_cell_you,
     v.eb_k308a_taysachs_you,
     v.eb_k309a_thalassemia_you,
@@ -2085,11 +2089,7 @@ let variables = [
     v.ThrombocytopeniaDx,
     v.UnexplainedAbnormalLiverTestDx,
     v.WilsonsDiseaseDx,
-    v.CoronaryArteryDiseaseDx,
-    v.eb_f115_hIVDx,
-    v.eb_f132_TBDx,
-    v.eb_k305a_PKU_youDx,
-    v.eb_k306a_PKD_youDx
+    v.CoronaryArteryDiseaseDx
 ]
 in [
     {

@@ -1671,6 +1671,7 @@ in {
     eb_f111_gonorrhea = FeatureVariable :: (./biolink_Disease/eb_f111_gonorrhea.dhall),
     eb_f113_hep_b = FeatureVariable :: (./biolink_Disease/eb_f113_hep_b.dhall),
     eb_f114_hep_c = FeatureVariable :: (./biolink_Disease/eb_f114_hep_c.dhall),
+    eb_f115_hIV = FeatureVariable :: (./biolink_Disease/eb_f115_hIV.dhall),
     eb_f116_legionnaires = FeatureVariable :: (./biolink_Disease/eb_f116_legionnaires.dhall),
     eb_f117_lyme = FeatureVariable :: (./biolink_Disease/eb_f117_lyme.dhall),
     eb_f118_malaria = FeatureVariable :: (./biolink_Disease/eb_f118_malaria.dhall),
@@ -1687,6 +1688,7 @@ in {
     eb_f129_staph = FeatureVariable :: (./biolink_Disease/eb_f129_staph.dhall),
     eb_f130_strep = FeatureVariable :: (./biolink_Disease/eb_f130_strep.dhall),
     eb_f131_syphilis = FeatureVariable :: (./biolink_Disease/eb_f131_syphilis.dhall),
+    eb_f132_TB = FeatureVariable :: (./biolink_Disease/eb_f132_TB.dhall),
     eb_f133_ulcers = FeatureVariable :: (./biolink_Disease/eb_f133_ulcers.dhall),
     eb_f134_whooping_cough = FeatureVariable :: (./biolink_Disease/eb_f134_whooping_cough.dhall),
     eb_g159_dx_sleep_disorder = FeatureVariable :: (./biolink_Disease/eb_g159_dx_sleep_disorder.dhall),
@@ -1704,6 +1706,8 @@ in {
     eb_k302a_klinefelter_you = FeatureVariable :: (./biolink_Disease/eb_k302a_klinefelter_you.dhall),
     eb_k303a_muscular_dyst_you = FeatureVariable :: (./biolink_Disease/eb_k303a_muscular_dyst_you.dhall),
     eb_k304a_niemann_pick_you = FeatureVariable :: (./biolink_Disease/eb_k304a_niemann_pick_you.dhall),
+    eb_k305a_PKU_you = FeatureVariable :: (./biolink_Disease/eb_k305a_PKU_you.dhall),
+    eb_k306a_PKD_you = FeatureVariable :: (./biolink_Disease/eb_k306a_PKD_you.dhall),
     eb_k307a_sickle_cell_you = FeatureVariable :: (./biolink_Disease/eb_k307a_sickle_cell_you.dhall),
     eb_k308a_taysachs_you = FeatureVariable :: (./biolink_Disease/eb_k308a_taysachs_you.dhall),
     eb_k309a_thalassemia_you = FeatureVariable :: (./biolink_Disease/eb_k309a_thalassemia_you.dhall),
@@ -2086,9 +2090,5 @@ in {
     ThrombocytopeniaDx = FeatureVariable :: (./biolink_Disease;biolink_PhenotypicFeature/ThrombocytopeniaDx.dhall),
     UnexplainedAbnormalLiverTestDx = FeatureVariable :: (./biolink_Disease;biolink_PhenotypicFeature/UnexplainedAbnormalLiverTestDx.dhall),
     WilsonsDiseaseDx = FeatureVariable :: (./biolink_Disease/WilsonsDiseaseDx.dhall),
-    CoronaryArteryDiseaseDx = FeatureVariable :: (./biolink_Disease/CoronaryArteryDiseaseDx.dhall),
-    eb_f115_hIVDx = FeatureVariable :: (./biolink_Disease/eb_f115_hIVDx.dhall),
-    eb_f132_TBDx = FeatureVariable :: (./biolink_Disease/eb_f132_TBDx.dhall),
-    eb_k305a_PKU_youDx = FeatureVariable :: (./biolink_Disease/eb_k305a_PKU_youDx.dhall),
-    eb_k306a_PKD_youDx = FeatureVariable :: (./biolink_Disease/eb_k306a_PKD_youDx.dhall)
+    CoronaryArteryDiseaseDx = FeatureVariable :: (./biolink_Disease/CoronaryArteryDiseaseDx.dhall)
 }
