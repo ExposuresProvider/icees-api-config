@@ -504,7 +504,7 @@ def convert(all_features_input_file_path, identifiers_input_file_path, fhir_mapp
     update_dict(variables, update_vars, delete_vars)
 
     def quote(s):
-        return f"\"{s}\"" if "," in s else s
+        return f"\"{s}\"" if "," in s or " " in s else s
     
     package = {}
     dataset = []

@@ -14913,18 +14913,10 @@ visit:
   Avg24hNOxExposure_2: *id006
   Avg24hNOxExposure_2_qcut: *id006
   Avg24hOzoneExposure: *id007
-  Avg24hOzoneExposure_StudyAvg: *id007
-  Avg24hOzoneExposure_StudyAvg_qcut: *id007
-  Avg24hOzoneExposure_StudyMax: *id007
-  Avg24hOzoneExposure_StudyMax_qcut: *id007
   Avg24hOzoneExposure_qcut: *id007
   Avg24hPM2.5Exposure: *id008
   Avg24hPM2.5Exposure_2: *id008
   Avg24hPM2.5Exposure_2_qcut: *id008
-  Avg24hPM2.5Exposure_StudyAvg: *id008
-  Avg24hPM2.5Exposure_StudyAvg_qcut: *id008
-  Avg24hPM2.5Exposure_StudyMax: *id008
-  Avg24hPM2.5Exposure_StudyMax_qcut: *id008
   Avg24hPM2.5Exposure_qcut: *id008
   Avg24hSO2Exposure_2: *id009
   Avg24hSO2Exposure_2_qcut: *id009
