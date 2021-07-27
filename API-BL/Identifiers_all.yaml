@@ -2282,6 +2282,8 @@ patient:
   - SCTID:446363004: null
   ChronicDILI:
   - MESH:D056487: MONDO:0002184
+  ChronicHepatitisB:
+  - UMLS:C0524909: MONDO:0005366
   ChronicHepatitisB_Screening:
   - MESH:D019694: MONDO:0005366
   ChronicHepatitisC_Screening:
@@ -2289,8 +2291,6 @@ patient:
   - SCTID:128302006: null
   - SCTID:708198006: null
   - SCTID:186640001: null
-  ChronicHepatitsB:
-  - UMLS:C0524909: MONDO:0005366
   ChronicKidneyDiseaseDx:
   - MONDO:0005240: MONDO:0005240
   - MONDO:0001343: MONDO:0001343
@@ -7329,10 +7329,7 @@ patient:
   Metformin:
   - CAS:657-24-9: PUBCHEM.COMPOUND:14219
   - MESH:D008687: PUBCHEM.COMPOUND:14219
-  - ? 'SMILES:
-
-      CN(C)C(:N)NC(:N)N'
-    : null
+  - SMILES:CN(C)C(:N)NC(:N)N: null
   - PUBCHEM:4091: null
   - RXCUI:1992685: null
   - RXCUI:1992693: null
@@ -14236,22 +14233,6 @@ patient:
   - SCTID:7404711000001103: null
   - SCTID:7404811000001106: null
   - LOINC:LA14584-9: null
-  he _b012_heart_attack:
-  - MONDO:0005068: MONDO:0005068
-  - NCIT:C27996: MONDO:0005068
-  - MESH:D009203: MONDO:0005068
-  - MESH:D006333: MONDO:0005252
-  - MESH:D011660: MONDO:0004596
-  - MESH:D002275: MONDO:0043529
-  - MESH:D054144: MONDO:0006727
-  - MESH:D054143: MONDO:0006993
-  - MESH:C535758: MONDO:0009326
-  - UMLSCUI:C0027051: null
-  - SCITD:233824008: null
-  - LOINC:LA16286-9: null
-  - LOINC:LA10558-7: null
-  - LOINC:LA28843-3: null
-  - LOINC:LA15807-3: null
   he_a004a_birth_low_bw:
   - MONDO:0005030: MONDO:0005030
   - MONDO:0008871: MONDO:0008871
@@ -14574,6 +14555,22 @@ patient:
   - SCITD:59021001: null
   - SCITD:64333001: null
   - SCITD:186358002: null
+  he_b012_heart_attack:
+  - MONDO:0005068: MONDO:0005068
+  - NCIT:C27996: MONDO:0005068
+  - MESH:D009203: MONDO:0005068
+  - MESH:D006333: MONDO:0005252
+  - MESH:D011660: MONDO:0004596
+  - MESH:D002275: MONDO:0043529
+  - MESH:D054144: MONDO:0006727
+  - MESH:D054143: MONDO:0006993
+  - MESH:C535758: MONDO:0009326
+  - UMLSCUI:C0027051: null
+  - SCITD:233824008: null
+  - LOINC:LA16286-9: null
+  - LOINC:LA10558-7: null
+  - LOINC:LA28843-3: null
+  - LOINC:LA15807-3: null
   he_b013_coronary_artery:
   - MESH:D003324: MONDO:0005010
   - MESH:D003327: MONDO:0005010
@@ -15324,8 +15321,6 @@ visit:
   - MESH:C435939: MESH:C435939
   - MESH:C520558: MESH:C520558
   - MESH:C520984: MESH:C520984
-  A1ATDeficiency:
-  - MONDO:0013282: MONDO:0013282
   ALT:
   - NCIT:C143267: NCIT:C143267
   - NCIT:C145734: NCIT:C145734
@@ -16223,9 +16218,9 @@ visit:
   - LOINC:LP44703-4: null
   AlkalinePhosphatase_DILIOnset_ULN:
   - HP:0003155: HP:0003155
-  AlkalinePhosphatase_Peak_DILIOnsetToMonth6_ULN:
+  AlkalinePhosphatase_Peak_DILIOnsetToMonth6:
   - HP:0003155: HP:0003155
-  AlkalinePhosphatate_Peak_DILIOnsetToMonth6:
+  AlkalinePhosphatase_Peak_DILIOnsetToMonth6_ULN:
   - HP:0003155: HP:0003155
   AlopeciaVisit:
   - SCTID:56317004: null
@@ -16708,11 +16703,11 @@ visit:
   - CHEBI:18422: PUBCHEM.COMPOUND:1119
   - MESH:D013458: PUBCHEM.COMPOUND:1119
   - PUBCHEM:1119: null
-  AvgailyAcetaldehydeExposure_2:
+  AvgDailyAcetaldehydeExposure_2:
   - CHEBI:15343: PUBCHEM.COMPOUND:177
   - MESH:D000079: PUBCHEM.COMPOUND:177
   - PUBCHEM:177: null
-  AvgailyAcetaldehydeExposure_2_qcut:
+  AvgDailyAcetaldehydeExposure_2_qcut:
   - CHEBI:15343: PUBCHEM.COMPOUND:177
   - MESH:D000079: PUBCHEM.COMPOUND:177
   - PUBCHEM:177: null
@@ -17117,7 +17112,7 @@ visit:
   - PUBCHEM:53325981: null
   - PUBCHEM:45588097: null
   - PUBCHEM:16132422: null
-  Bronchietasis:
+  Bronchiectasis:
   - MESH:D001987: MONDO:0004822
   - SCITD:12295008: null
   - SCITD:77593006: null
@@ -18028,7 +18023,7 @@ visit:
   - SCTID:320820009: null
   - SCTID:400462001: null
   - SCTID:377275008: null
-  ChalrsonComorbidityIndex:
+  CharlsonComorbidityIndex:
   - NCIT:C176422: null
   - SCTID:762713009: null
   - SCTID:446619003: null
@@ -18040,13 +18035,13 @@ visit:
   - SCTID:27624003: null
   ChronicDILI:
   - MESH:D056487: MONDO:0002184
+  ChronicHepatitisB_Screening:
+  - MESH:D019694: MONDO:0005366
   ChronicHepatitisC_Screening:
   - MESH:D019698: MONDO:0005354
   - SCTID:128302006: null
   - SCTID:708198006: null
   - SCTID:186640001: null
-  ChronicHepatititsB_Screening:
-  - MESH:D019694: MONDO:0005366
   ChronicKidneyDiseaseDx:
   - MONDO:0005240: MONDO:0005240
   - MONDO:0001343: MONDO:0001343
@@ -18113,7 +18108,7 @@ visit:
   - LOINC:LA28200-6: null
   - LOINC:LA27422-7: null
   - LOINC:LA27872-3: null
-  Ciclesonidevisit:
+  CiclesonideVisit:
   - CAS:126544-47-6: PUBCHEM.COMPOUND:129317886
   - MESH:C120481: PUBCHEM.COMPOUND:6918155
   - SMILES:CC(C)C(:O)OCC(:O)[C@@]12O[C@@H](O[C@@H]1C[C@H]3[C@@H]4CCC5:CC(:O)C:C[C@]5(C)[C@H]4[C@@H](O)C[C@]23C)C6CCCCC6: null
@@ -18450,9 +18445,9 @@ visit:
   - SCITD:161926007: null
   DaysALTDILIOnsetToPeak: []
   DaysASTDILIOnsetToPeak: []
-  DaysAlkalphinePhosphataseDILIOnsetToPeak: []
+  DaysAlkalinePhosphataseDILIOnsetToPeak: []
   DaysBilirubinDILIOnsetToPeak: []
-  DaysDILIOnsetToInititalVisit: []
+  DaysDILIOnsetToInitialVisit: []
   DaysDrugStartToEarliestSign: []
   DaysDrugStartToEarliestSignOrDILI: []
   DaysEarliestSignToDILI: []
@@ -20792,7 +20787,7 @@ visit:
   - LOINC:LP94632-4: null
   - LOINC:LP16426-6: null
   - LOINC:LP31618-9: null
-  HepatititsA: []
+  HepatitisA: []
   HgbA1C:
   - NCIT:C122507: NCIT:C122507
   - UMLSCUI:C0239940: null
@@ -24521,10 +24516,7 @@ visit:
   MetforminVisit:
   - CAS:657-24-9: PUBCHEM.COMPOUND:14219
   - MESH:D008687: PUBCHEM.COMPOUND:14219
-  - ? 'SMILES:
-
-      CN(C)C(:N)NC(:N)N'
-    : null
+  - SMILES:CN(C)C(:N)NC(:N)N: null
   - PUBCHEM:4091: null
   - RXCUI:1992685: null
   - RXCUI:1992693: null
@@ -28292,6 +28284,7 @@ visit:
   YearDILIOnset: []
   a_a066_traffic_heavy: []
   a_b152f_acid_other: []
+  ea_a012_current_home_type: []
   ea_a014_central_heat: []
   ea_a017a_heat_natural_gas:
   - ENVO:01000556: null
@@ -29142,8 +29135,7 @@ visit:
   ea_b194h_pen_ink: []
   ea_b194i_toner: []
   ea_b194j_soy_ink: []
-  ea_b194k_pharma_ink:
-  - ea_a012_current_home_type: null
+  ea_b194k_pharma_ink: []
   ea_b194l_ink_other: []
   ea_b199a_ink_ongoing_d: []
   ea_e249_sunburn:
@@ -29269,22 +29261,6 @@ visit:
   - SCTID:7404711000001103: null
   - SCTID:7404811000001106: null
   - LOINC:LA14584-9: null
-  he _b012_heart_attack:
-  - MONDO:0005068: MONDO:0005068
-  - NCIT:C27996: MONDO:0005068
-  - MESH:D009203: MONDO:0005068
-  - MESH:D006333: MONDO:0005252
-  - MESH:D011660: MONDO:0004596
-  - MESH:D002275: MONDO:0043529
-  - MESH:D054144: MONDO:0006727
-  - MESH:D054143: MONDO:0006993
-  - MESH:C535758: MONDO:0009326
-  - UMLSCUI:C0027051: null
-  - SCITD:233824008: null
-  - LOINC:LA16286-9: null
-  - LOINC:LA10558-7: null
-  - LOINC:LA28843-3: null
-  - LOINC:LA15807-3: null
   he_a004a_birth_low_bw:
   - MONDO:0005030: MONDO:0005030
   - MONDO:0008871: MONDO:0008871
@@ -29607,6 +29583,22 @@ visit:
   - SCITD:59021001: null
   - SCITD:64333001: null
   - SCITD:186358002: null
+  he_b012_heart_attack:
+  - MONDO:0005068: MONDO:0005068
+  - NCIT:C27996: MONDO:0005068
+  - MESH:D009203: MONDO:0005068
+  - MESH:D006333: MONDO:0005252
+  - MESH:D011660: MONDO:0004596
+  - MESH:D002275: MONDO:0043529
+  - MESH:D054144: MONDO:0006727
+  - MESH:D054143: MONDO:0006993
+  - MESH:C535758: MONDO:0009326
+  - UMLSCUI:C0027051: null
+  - SCITD:233824008: null
+  - LOINC:LA16286-9: null
+  - LOINC:LA10558-7: null
+  - LOINC:LA28843-3: null
+  - LOINC:LA15807-3: null
   he_b013_coronary_artery:
   - MESH:D003324: MONDO:0005010
   - MESH:D003327: MONDO:0005010
