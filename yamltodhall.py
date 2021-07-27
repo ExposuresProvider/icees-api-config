@@ -10,6 +10,7 @@ from collections import defaultdict
 from copy import deepcopy
 import tx.functional.maybe as maybe
 
+
 class keydefaultdict(defaultdict):
     def __missing__(self, key):
         if self.default_factory is None:
@@ -502,6 +503,13 @@ def convert(all_features_input_file_path, identifiers_input_file_path, fhir_mapp
             update_vars[variable_dx] = variable
             delete_vars.add(variable_name)
     update_dict(variables, update_vars, delete_vars)
+
+    # simplify categories
+    for variable_name, variable in variables.items():
+        categories = variable.get("feature", {}).get("categories")
+        if isinstance(categories, list):
+            if "biolink:DiseaseOrPhenotypicFeature" in categories and ("biolink:Disease" in categories or "biolink:PhenotypicFeature" in categories):
+                categories.remove("biolink:DiseaseOrPhenotypicFeature")
 
     def quote(s):
         return f"\"{s}\"" if "," in s or " " in s else s
