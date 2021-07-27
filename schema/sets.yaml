@@ -1,0 +1,4 @@
+map(include('feature'), key=str())
+---
+feature:
+  list(any(str(), int(), number()))
