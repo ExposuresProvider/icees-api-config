@@ -1,5 +1,5 @@
 in {
-    name = "ChronicHepatitsB",
+    name = "ChronicHepatitisB",
     identifiers = [
         "UMLS:C0524909"
     ]

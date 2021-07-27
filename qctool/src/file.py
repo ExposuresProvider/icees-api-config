@@ -206,14 +206,14 @@ class MappingFile(YAMLFile):
                 return Right(GEOID[name])
 
         for name, keys in NearestRoad_keys.items():
-            if old_key in keys:
+            if key in keys:
                 return Right(NearestRoad[name])
         
         for name, keys in NearestPoint_keys.items():
-            if old_key in keys:
+            if key in keys:
                 return Right(NearestPoint[name])
         
-        return Left(f"variable {old_key} no longer exists")
+        return Left(f"variable {key} no longer exists")
 
 
 def make_file(ty, filename):

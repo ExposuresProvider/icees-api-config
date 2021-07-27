@@ -10,15 +10,8 @@ in {
             resource = "Condition",
             code_is_regex = False,
             system_is_regex = False,
-            system = "http://hl7.org/fhir/sid/icd-9-cm*",
-            code = "472.*"
-        },
-        {
-            resource = "Condition",
-            code_is_regex = False,
-            system_is_regex = False,
-            system = "http://hl7.org/fhir/sid/icd-10-cm*",
-            code = "R09.81"
+            system = "https://browser.ihtsdotools.org",
+            code = "SCTID: 68235000"
         }
     ],
     feature = {
@@ -32,5 +25,16 @@ in {
             "biolink:DiseaseOrPhenotypicFeature"
         ]
     },
-    binning_strategy = max_cutoff 2
+    binning_strategy = max_cutoff 2,
+    identifiers = [
+        "NCIT:C78500",
+        "UMLSCUI:C0027424",
+        "NCIT:C143698",
+        "NCIT:C144284",
+        "NCIT:C144860",
+        "SCITD:232210005",
+        "SCITD:162380009",
+        "SCITD:68235000",
+        "LOINC:LA9263-0"
+    ]
 }

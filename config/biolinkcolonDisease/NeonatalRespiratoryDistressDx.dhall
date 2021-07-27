@@ -10,22 +10,8 @@ in {
             resource = "Condition",
             code_is_regex = False,
             system_is_regex = False,
-            system = "http://hl7.org/fhir/sid/icd-9-cm*",
-            code = "769.*"
-        },
-        {
-            resource = "Condition",
-            code_is_regex = False,
-            system_is_regex = False,
-            system = "http://hl7.org/fhir/sid/icd-9-cm*",
-            code = "770.*"
-        },
-        {
-            resource = "Condition",
-            code_is_regex = False,
-            system_is_regex = False,
-            system = "http://hl7.org/fhir/sid/icd-10-cm*",
-            code = "P22.*"
+            system = "https://browser.ihtsdotools.org",
+            code = "SCTID: 46775006"
         }
     ],
     feature = {
@@ -39,5 +25,17 @@ in {
             "biolink:DiseaseOrPhenotypicFeature"
         ]
     },
-    binning_strategy = max_cutoff 2
+    binning_strategy = max_cutoff 2,
+    identifiers = [
+        "MONDO:0009971",
+        "MONDO:0012593",
+        "MONDO:0009929",
+        "SCITD:157107007",
+        "SCITD:46775006",
+        "SCITD:157114009",
+        "SCITD:206322005",
+        "NCIT:C154950",
+        "NCIT:C128768",
+        "NCIT:C128769"
+    ]
 }

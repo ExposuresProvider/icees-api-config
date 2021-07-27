@@ -3565,11 +3565,13 @@ patient:
     - '>9'
     type: string
   TotalEDVisits:
-    categories: []
+    categories:
+    - biolink:ActivityAndBehavior
     enum: *id001
     type: string
   TotalInpatientVisits:
-    categories: []
+    categories:
+    - biolink:ActivityAndBehavior
     enum: *id001
     type: string
   Trazodone:
@@ -19501,11 +19503,6 @@ visit:
     categories: []
     enum: *id179
     type: string
-  Inflluenza7pointClinicalStatusScore:
-    categories: []
-    maximum: 10
-    minimum: 0
-    type: integer
   Influenza7pointClinicalStatusScore:
     categories: []
     maximum: 10

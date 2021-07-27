@@ -11211,7 +11211,7 @@ patient:
   - MESH:D019698
   ChronicHepatitisB_Screening:
   - MESH:D019694
-  ChronicHepatitsB:
+  ChronicHepatitisB:
   - UMLS:C0524909
   Cirrhosis:
   - NCIT:C3044
@@ -14932,7 +14932,7 @@ visit:
   BudesonideVisit: *id021
   CervicalCancerVisit: *id022
   CetirizineVisit: *id023
-  Ciclesonidevisit: *id024
+  CiclesonideVisit: *id024
   CitalopramVisit: *id025
   CoughDxVisit: *id026
   CroupDxVisit: *id027
@@ -15166,7 +15166,7 @@ visit:
   - SCTID:766931000000106
   - SCTID:390902009
   - SCTID:390904005
-  ChalrsonComorbidityIndex:
+  CharlsonComorbidityIndex:
   - NCIT:C176422
   - SCTID:762713009
   - SCTID:446619003
@@ -19944,7 +19944,7 @@ visit:
   - SCITD:162380009
   - SCITD:68235000
   - LOINC:LA9263-0
-  Bronchietasis:
+  Bronchiectasis:
   - SCITD:12295008
   - SCITD:77593006
   - SCITD:195985008
@@ -22700,7 +22700,7 @@ visit:
   - LOINC:LP44703-4
   AlkalinePhosphatase_Peak_DILIOnsetToMonth6_ULN:
   - HP:0003155
-  AlkalinePhosphatate_Peak_DILIOnsetToMonth6:
+  AlkalinePhosphatase_Peak_DILIOnsetToMonth6:
   - HP:0003155
   AntiHAV:
   - OMIM:MTHU045723
@@ -22841,7 +22841,7 @@ visit:
   - SCTID:708198006
   - SCTID:186640001
   - MESH:D019698
-  ChronicHepatititsB_Screening:
+  ChronicHepatitisB_Screening:
   - MESH:D019694
   Cirrhosis:
   - NCIT:C3044
@@ -23072,9 +23072,9 @@ visit:
   - MESH:C489631
   DaysALTDILIOnsetToPeak: []
   DaysASTDILIOnsetToPeak: []
-  DaysAlkalphinePhosphataseDILIOnsetToPeak: []
+  DaysAlkalinePhosphataseDILIOnsetToPeak: []
   DaysBilirubinDILIOnsetToPeak: []
-  DaysDILIOnsetToInititalVisit: []
+  DaysDILIOnsetToInitialVisit: []
   DaysDrugStartToEarliestSign: []
   DaysDrugStartToEarliestSignOrDILI: []
   DaysEarliestSignToDILI: []
@@ -23956,7 +23956,7 @@ visit:
   - UMLS:C0264843
   - UMLS:C4076065
   - UMLS:C3150339
-  HepatititsA: []
+  HepatitisA: []
   HospitalizationNewProlonged:
   - MESH:D006760
   INROnset:

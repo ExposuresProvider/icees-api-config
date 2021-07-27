@@ -2,7 +2,7 @@ from deepdiff import DeepDiff
 from functools import reduce
 import yaml
 import dhall
-from dhall import construct, application, identifier, positive_infinity, negative_infinity, let, imp, ascribe, record_completion, extract_identifiers
+from dhall import construct, application, identifier, positive_infinity, negative_infinity, let, imp, ascribe, record_completion, extract_identifiers, dot
 import dhall
 import os.path
 import sys
@@ -46,7 +46,7 @@ def normalize_feature_name(key):
 def bin_range(enum):
     n = len(enum)
     labels = [str(i) for i in range(n - 1)] + [f">{n - 2}"]
-    print(f"set(labels) = {set(labels)}, set(enum) = {set(enum)}")
+    # print(f"set(labels) = {set(labels)}, set(enum) = {set(enum)}")
     if set(labels) == set(enum):
         return {
             "bins": [1.0 * i for i in range(n)] + [positive_infinity],
@@ -276,7 +276,7 @@ def update_dict(variables, update_vars, delete_vars):
     variables.update(update_vars)
 
 
-def convert(all_features_input_file_path, identifiers_input_file_path, fhir_mappings_input_file_path, variables_output_dir_path):
+def convert(all_features_input_file_path, identifiers_input_file_path, fhir_mappings_input_file_path, variables_output_dir_path, feature_names):
     with open(all_features_input_file_path) as f:
         all_features = yaml.safe_load(f)
 
@@ -292,84 +292,91 @@ def convert(all_features_input_file_path, identifiers_input_file_path, fhir_mapp
 
     for table_name, table_identifiers in identifiers.items():
         for feature_name, feature_identifiers in table_identifiers.items():
-            feature_name2 = normalize_feature_name(feature_name)
-            variable = variables[feature_name2]
-            add_key_value_pair(variable, "identifiers", identifier("no_identifiers") if len(feature_identifiers) == 0 else feature_identifiers)
+            if len(feature_names) == 0 or feature_name in feature_names:
+                feature_name2 = normalize_feature_name(feature_name)
+                variable = variables[feature_name2]
+                add_key_value_pair(variable, "identifiers", identifier("no_identifiers") if len(feature_identifiers) == 0 else feature_identifiers)
 
 
     for feature_name, fhir_mapping in fhir_mappings.get("FHIR", {}).items():
-        feature_name2 = normalize_feature_name(feature_name)
-        converted_fhir_mapping = convert_fhir_mapping(fhir_mapping)
-        variable = variables[feature_name2]
-        add_key_value_pair(variable, "mapping", converted_fhir_mapping)
+        if len(feature_names) == 0 or feature_name in feature_names:
+            feature_name2 = normalize_feature_name(feature_name)
+            converted_fhir_mapping = convert_fhir_mapping(fhir_mapping)
+            variable = variables[feature_name2]
+            add_key_value_pair(variable, "mapping", converted_fhir_mapping)
 
 
     for geoid_dataset_name, geoid_dataset_mapping in fhir_mappings.get("GEOID").items():
         for column_name, feature_name in geoid_dataset_mapping["columns"].items():
-            feature_name2 = normalize_feature_name(feature_name)
-            variable = variables[feature_name2]
-            add_key_value_pair(variable, "mapping", construct(
-                "geoid_mapping",
-                {
-                    "dataset": geoid_dataset_name,
-                    "column": column_name,
-                    "datatype": identifier("string")
-                }
-            ))
+            if len(feature_names) == 0 or feature_name in feature_names:
+                feature_name2 = normalize_feature_name(feature_name)
+                variable = variables[feature_name2]
+                add_key_value_pair(variable, "mapping", construct(
+                    "geoid_mapping",
+                    {
+                        "dataset": geoid_dataset_name,
+                        "column": column_name,
+                        "datatype": identifier("string")
+                    }
+                ))
 
 
     for nearest_road_dataset_name, nearest_road_dataset_mapping in fhir_mappings.get("NearestRoad", {}).items():
         feature_name = nearest_road_dataset_mapping["distance_feature_name"]
-        feature_name2 = normalize_feature_name(feature_name)
-        distance_variable = variables[feature_name2]
-        add_key_value_pair(distance_variable, "mapping", application(
-            identifier("nearest_feature_distance"),
-            {
-                "dataset": nearest_road_dataset_name,
-                "maximum": 500.0
-            }
-        ))
+        if len(feature_names) == 0 or feature_name in feature_names:
+            feature_name2 = normalize_feature_name(feature_name)
+            distance_variable = variables[feature_name2]
+            add_key_value_pair(distance_variable, "mapping", application(
+                identifier("nearest_feature_distance"),
+                {
+                    "dataset": nearest_road_dataset_name,
+                    "maximum": 500.0
+                }
+            ))
         for attribute_name, feature in nearest_road_dataset_mapping["attributes_to_features_map"].items():
             feature_type = feature["feature_type"]
             datatype = convert_nearest_x_feature_type(feature_type)
             feature_name = feature["feature_name"]
-            feature_name2 = normalize_feature_name(feature_name)
-            variable = variables[feature_name2]
-            add_key_value_pair(variable, "mapping", application(
-                identifier("nearest_feature_attribute"),
-                {
-                    "dataset": nearest_road_dataset_name,
-                    "name": attribute_name,
-                    "datatype": datatype
-                }
-            ))
+            if len(feature_names) == 0 or feature_name in feature_names:
+                feature_name2 = normalize_feature_name(feature_name)
+                variable = variables[feature_name2]
+                add_key_value_pair(variable, "mapping", application(
+                    identifier("nearest_feature_attribute"),
+                    {
+                        "dataset": nearest_road_dataset_name,
+                        "name": attribute_name,
+                        "datatype": datatype
+                    }
+                ))
 
 
     for nearest_point_dataset_name, nearest_point_dataset_mapping in fhir_mappings.get("NearestPoint").items():
         feature_name = nearest_point_dataset_mapping["distance_feature_name"]
-        feature_name2 = normalize_feature_name(feature_name)
-        distance_variable = variables[feature_name2]
-        add_key_value_pair(distance_variable, "mapping", application(
-            identifier("nearest_point_distance"),
-            {
-                "dataset": nearest_point_dataset_name,
-                "maximum": 4000.0
-            }
-        ))
+        if len(feature_names) == 0 or feature_name in feature_names:
+            feature_name2 = normalize_feature_name(feature_name)
+            distance_variable = variables[feature_name2]
+            add_key_value_pair(distance_variable, "mapping", application(
+                identifier("nearest_point_distance"),
+                {
+                    "dataset": nearest_point_dataset_name,
+                    "maximum": 4000.0
+                }
+            ))
         for attribute_name, feature in nearest_point_dataset_mapping["attributes_to_features_map"].items():
             feature_type = feature["feature_type"]
             datatype = convert_nearest_x_feature_type(feature_type)
             feature_name = feature["feature_name"]
-            feature_name2 = normalize_feature_name(feature_name)
-            variable = variables[feature_name2]
-            add_key_value_pair(variable, "mapping", application(
-                idenfitier("nearest_point_attribute"),
-                {
-                    "dataset": nearest_point_dataset_name,
-                    "name": attribute_name,
-                    "datatype": datatype
-                }
-            ))
+            if len(feature_names) == 0 or feature_name in feature_names:
+                feature_name2 = normalize_feature_name(feature_name)
+                variable = variables[feature_name2]
+                add_key_value_pair(variable, "mapping", application(
+                    idenfitier("nearest_point_attribute"),
+                    {
+                        "dataset": nearest_point_dataset_name,
+                        "name": attribute_name,
+                        "datatype": datatype
+                    }
+                ))
 
     for variable_name, variable in variables.items():
         if "Daily" in variable_name and "Exposure" in variable_name:
@@ -421,21 +428,83 @@ def convert(all_features_input_file_path, identifiers_input_file_path, fhir_mapp
     delete_vars = set()
     for table_name, features in all_features.items():
         for feature_name, feature in features.items():
-            feature_name = remove_bin_suffix(feature_name)
-            converted_feature, binning_strategies = convert_feature(all_features, feature_name, feature)
-            variable = variables[feature_name]
-            add_key_value_pair(variable, "feature", converted_feature)
-            if binning_strategies is not None:
-                if feature_name in variables:
-                    delete_vars.add(feature_name)
-                for binning_strategy, suffix in binning_strategies:
-                    binned_variable_name = feature_name + suffix
-                    binned_variable = copy(variable, binned_variable_name)
-                    update_vars[binned_variable_name] = binned_variable 
-                    add_key_value_pair(binned_variable, "binning_strategy", binning_strategy)
+            if len(feature_names) == 0 or feature_name in feature_names:
+                feature_name = remove_bin_suffix(feature_name)
+                converted_feature, binning_strategies = convert_feature(all_features, feature_name, feature)
+                variable = variables[feature_name]
+                add_key_value_pair(variable, "feature", converted_feature)
+                if binning_strategies is not None:
+                    if feature_name in variables:
+                        delete_vars.add(feature_name)
+                    for binning_strategy, suffix in binning_strategies:
+                        binned_variable_name = feature_name + suffix
+                        binned_variable = copy(variable, binned_variable_name)
+                        update_vars[binned_variable_name] = binned_variable 
+                        add_key_value_pair(binned_variable, "binning_strategy", binning_strategy)
     update_dict(variables, update_vars, delete_vars)
 
+    update_vars = {}
+    delete_vars = set()
+    # check for underscore inconsistency for example ALT_Onset vs ALTOnset retain the one with more info
+    def merge_variables(variable_name, variable_name_no_underscore):
+        print(f"merging {variable_name}, {variable_name_no_underscore}")
+        vnu = update_vars.get(variable_name, variables[variable_name_no_underscore])
+        vnu["name"] = variable_name
+        variablem = deep_merge(variables[variable_name], vnu)
+        if variablem is None:
+            print(f"cannot merge varibles {variable_name} = {variable} and {variable_name_no_underscore} = {vnu}")
+        else:
+            update_vars[variable_name] = variablem
+            delete_vars.add(variable_name_no_underscore)
+
+    def replace_and_merge(indices, variable_name, vn2):
+        if len(indices) == 0:
+            if variable_name != vn2 and vn2 in variables:
+                merge_variables(variable_name, vn2)
+        else:
+            index, *other_indices = indices
+            replace_and_merge(other_indices, variable_name, vn2[:index] + vn2[index+1:])
+            replace_and_merge(other_indices, variable_name, vn2)
+
+
+    for variable_name, variable in variables.items():
+        if "_" in variable_name:
+            start = 0
+            indices = []
+            while True:
+                index = variable_name.find("_", start)
+                if index != -1:
+                    indices.append(index)
+                    start = index + 1
+                else:
+                    break
+            replace_and_merge(list(reversed(indices)), variable_name, variable_name)
+                
+        if variable_name + "Dx" in variables:
+            merge_variables(variable_name + "Dx", variable_name)
+    update_dict(variables, update_vars, delete_vars)
+
+    update_vars = {}
+    delete_vars = set()
+    # add Dx for disease Rx for drug
+    for variable_name, variable in variables.items():
+        categories = variable.get("categories")
+        if isinstance(categories, list) and "biolink:Drug" in categories and not variable_name.endswith("Rx"):
+            print(f"adding Rx suffix to {variable_name}")
+            variable_rx = variable_name + "Rx"
+            variable["name"] = variable_rx
+            update_vars[variable_rx] = variable
+            delete_vars.add(variable_name)
+        elif isinstance(categories, list) and "biolink:Disease" in categories and not variable_name.endswith("Dx"):
+            print(f"adding Dx suffix to {variable_name}")
+            variable_dx = variable_name + "Dx"
+            variable["name"] = variable_dx
+            update_vars[variable_dx] = variable
+            delete_vars.add(variable_name)
+    update_dict(variables, update_vars, delete_vars)
+        
     package = {}
+    dataset = []
     for variable_name, variable in variables.items():
 #        print(f"writing to {variable_name}")
         categories = identifier("no_category")
@@ -458,6 +527,7 @@ def convert(all_features_input_file_path, identifiers_input_file_path, fhir_mapp
 
         if "feature" in variable:
             package[variable_name] = record_completion("FeatureVariable", imp(f"./{dir_name}/{file_name}"))
+            dataset.append(dot(identifier("v"), variable_name))
         else:
             print(f"cannot find feature {variable_name}")
             
@@ -477,10 +547,10 @@ def convert(all_features_input_file_path, identifiers_input_file_path, fhir_mapp
                 {
                     **imports,
                     **{
-                        k: identifier(f"meta.{k}") for k in meta_identifiers
+                        k: dot(identifier("meta"), k) for k in meta_identifiers
                     },
                     **{
-                        k: identifier(f"binning_strategies.{k}") for k in binning_strategies_identifiers
+                        k: dot(identifier("binning_strategies"), k) for k in binning_strategies_identifiers
                     }
                 },
                 variable
@@ -491,15 +561,25 @@ def convert(all_features_input_file_path, identifiers_input_file_path, fhir_mapp
             {
                 "meta": imp("../common/meta.dhall"),
                 **{
-                    k: identifier(f"meta.{k}") for k in ["FeatureVariable"]
+                    k: dot(identifier("meta"), k) for k in ["FeatureVariable"]
                 }
             }, package), pof)
 
+    with open(os.path.join(variables_output_dir_path, "dataset.dhall"), "w") as pof:
+        dhall.dump(let(
+            {
+                "v": imp("./package.dhall"),
+                "variables": dataset
+            }, [{
+                "name": table_name,
+                "variables": identifier("variables")
+            } for table_name in all_features.keys()]), pof)
+
 
 if __name__ == "__main__":
-    all_features_input_file_path, identifiers_input_file_path, fhir_mappings_input_file_path, variables_output_dir_path = sys.argv[1:]
+    all_features_input_file_path, identifiers_input_file_path, fhir_mappings_input_file_path, variables_output_dir_path, *feature_names = sys.argv[1:]
 
-    convert(all_features_input_file_path, identifiers_input_file_path, fhir_mappings_input_file_path, variables_output_dir_path)
+    convert(all_features_input_file_path, identifiers_input_file_path, fhir_mappings_input_file_path, variables_output_dir_path, feature_names)
 
 
                         

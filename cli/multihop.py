@@ -9,6 +9,7 @@ from colorama import init, Fore, Back
 import pandas as pd
 import traceback
 import logging
+from libchebipy._chebi_entity import ChebiEntity
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
@@ -27,6 +28,16 @@ def replace(template, values):
     
 
 NODE_NORMALIZER_QUERY_URL ="https://nodenormalization-sri.renci.org/1.1/get_normalized_nodes"
+CHEMBL_URL_BASE = "https://www.ebi.ac.uk"
+CHEMBL_LOOKUP_URL_BASE = f"{CHEMBL_URL_BASE}/chembl/api/data/chembl_id_lookup"
+
+
+def lookup_chembl(id):
+    headers = {"Accept": "application/json"}
+    resp = requests.get(f"{CHEMBL_LOOKUP_URL_BASE}/{id}", headers=headers)
+    resource_path = resp.json()["resource_url"]
+    resp2 = requests.get(f"{CHEMBL_URL_BASE}{resource_path}", headers=headers)
+    return resp2.json()["pref_name"]
 
 
 def get_label_equivalent_identifier(obj, identifier):
@@ -96,6 +107,18 @@ def to_subtree(obj, tree, tree_node):
         
 def label(obj, id):
     id_label = get_label(obj, id)
+    if id_label is None:
+        prefix, *id_raw = id.split(":") 
+        try:
+            if prefix == "CHEMBL" or prefix == "CHEMBL.COMPOUND":
+                logger.info(f"trying calling chembl api for identifier {id}")
+                id_label = lookup_chembl(id_raw[0])
+            elif prefix == "CHEBI":
+                logger.info(f"trying calling chebi api for identifier {id}")
+                id_label = ChebiEntity(id_raw[0]).get_name()
+        except:
+            logger.error(traceback.format_exc())
+            
     return f"{id}, {id_label}" if id_label is not None else id
 
 
@@ -235,7 +258,13 @@ def create_results_df(ids, nodes_list, edges_list, equivalent_ids, step, depth, 
     qedges = list(query["edges"].keys())
     qnodes = list(query["nodes"].keys())
     name = step["name"]
-    results_df = pd.DataFrame([list(map(lambda a: "\n".join(map(partial(label, equivalent_ids), sorted(list(set(a))))), nodes + edges)) for nodes, edges in zip(nodes_list, edges_list)], columns = [f"{depth}_{column}" for column in qnodes + qedges])
+    results_df = pd.DataFrame(
+        [
+            [json.dumps(list(map(partial(label, equivalent_ids), sorted(list(set(a))))), indent=4) for a in nodes + edges]
+            for nodes, edges in zip(nodes_list, edges_list)
+        ],
+        columns = [f"{depth}_{column}" for column in qnodes + qedges]
+    )
     results_df[f"step_{depth}"] = f"{name}:{json.dumps([label(equivalent_ids, id) for id in ids], indent=4)}"
     return results_df
 
@@ -246,7 +275,7 @@ def format_integer(i, n):
 
 def runSteps(progress, subprogress, key, depth, ids_list, limit, steps, verbose):
     if len(steps) == 0:
-        subprogress[key] = f"{Fore.GREEN}{len(ids_list)} Result(s){Fore.RESET}"
+        subprogress[key] = truncate(f"{Fore.GREEN}{len(ids_list)} Result(s){Fore.RESET}", verbose)
         return [pd.DataFrame([[]])]
     else:
         step, *tail = steps
@@ -305,7 +334,7 @@ def runStepsWithIds(progress, subprogress, equivalent_ids, depth, ids, limit, st
             results_df = create_results_df(ids, nodes_list, edges_list, equivalent_ids, step, depth, verbose)
 
             if result_node is None:
-                subprogress[key] = f"{Fore.GREEN}{len(nodes_list)} Result(s){Fore.RESET}"
+                subprogress[key] = truncate(f"{Fore.GREEN}{len(nodes_list)} Result(s){Fore.RESET}", verbose)
                 return results_df
             else:
                 result_node_index = qnodes.index(result_node)

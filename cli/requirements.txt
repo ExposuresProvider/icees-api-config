@@ -1,2 +1,5 @@
+requests
 treelib
 colorama
+libchebipy
+pandas

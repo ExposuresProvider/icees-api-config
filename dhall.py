@@ -23,6 +23,13 @@ def identifier(s):
     }
 
 
+def dot(e, f):
+    return {
+        "__expression": e,
+        "__field": f
+    }
+
+
 def let(assignments, expr):
     return {
         "__let": assignments,
@@ -120,7 +127,9 @@ def to_dhall_expression_string(obj, need_parens, indent, increment_indent):
                 es = parenthesize(es)
             return es
         elif "__identifier" in obj:
-            return obj["__identifier"]
+            return id(obj["__identifier"])
+        elif "__expression" in obj:
+            return to_dhall_expression_string(obj["__expression"], True, indent, increment_indent) + "." + id(obj["__field"])
         elif "__import" in obj:
             return obj["__import"]
         elif "__let" in obj:

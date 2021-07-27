@@ -10,8 +10,8 @@ in {
             resource = "Condition",
             code_is_regex = False,
             system_is_regex = False,
-            system = "http://hl7.org/fhir/sid/icd-10-cm*",
-            code = "R05"
+            system = "https://browser.ihtsdotools.org",
+            code = "SCTID: 28743005"
         }
     ],
     feature = {
@@ -25,5 +25,13 @@ in {
             "biolink:DiseaseOrPhenotypicFeature"
         ]
     },
-    binning_strategy = max_cutoff 2
+    binning_strategy = max_cutoff 2,
+    identifiers = [
+        "NCIT:C78569",
+        "UMLSCUI:C0451597",
+        "SCITD:139183005",
+        "SCITD:267034005",
+        "SCITD:161926007",
+        "MESH:D003371"
+    ]
 }
