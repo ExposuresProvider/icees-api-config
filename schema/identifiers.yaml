@@ -1,0 +1,7 @@
+
+map(include('table'), key=str())
+---
+table:
+  map(include('feature'), key=str())
+feature:
+  list(regex('^[A-Z0-9.]+:.+$'), required=True)
