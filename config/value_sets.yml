@@ -476,30 +476,6 @@ Avg24hOzoneExposure:
 - 3
 - 4
 - 5
-Avg24hOzoneExposure_StudyAvg:
-- 1
-- 2
-- 3
-- 4
-- 5
-Avg24hOzoneExposure_StudyAvg_qcut:
-- 1
-- 2
-- 3
-- 4
-- 5
-Avg24hOzoneExposure_StudyMax:
-- 1
-- 2
-- 3
-- 4
-- 5
-Avg24hOzoneExposure_StudyMax_qcut:
-- 1
-- 2
-- 3
-- 4
-- 5
 Avg24hOzoneExposure_qcut:
 - 1
 - 2
@@ -519,30 +495,6 @@ Avg24hPM2.5Exposure_2:
 - 4
 - 5
 Avg24hPM2.5Exposure_2_qcut:
-- 1
-- 2
-- 3
-- 4
-- 5
-Avg24hPM2.5Exposure_StudyAvg:
-- 1
-- 2
-- 3
-- 4
-- 5
-Avg24hPM2.5Exposure_StudyAvg_qcut:
-- 1
-- 2
-- 3
-- 4
-- 5
-Avg24hPM2.5Exposure_StudyMax:
-- 1
-- 2
-- 3
-- 4
-- 5
-Avg24hPM2.5Exposure_StudyMax_qcut:
 - 1
 - 2
 - 3
@@ -1324,6 +1276,9 @@ ChronicDILI:
 ChronicDILIVisit:
 - 'No'
 - 'Yes'
+ChronicHepatitisB:
+- 'No'
+- 'Yes'
 ChronicHepatitisB_Screening:
 - 'No'
 - 'Yes'
@@ -2063,6 +2018,14 @@ ExtracorporealVentilationORSystemicAssistanceVisit:
 - '0'
 - '1'
 - '>1'
+FEV1FVC_flag_first:
+- low
+- normal
+- high
+FEV1FVC_flag_last:
+- low
+- normal
+- high
 FamilyHistoryLiverDisease:
 - 'No'
 - 'Yes'
@@ -2211,6 +2174,14 @@ HBsAg:
 HBsAgVisit:
 - 'No'
 - 'Yes'
+HCT_flag_first:
+- low
+- normal
+- high
+HCT_flag_last:
+- low
+- normal
+- high
 HCV_Positive:
 - 'No'
 - 'Yes'
@@ -2443,7 +2414,7 @@ ImmunodulationIVIG:
 - '0'
 - '1'
 - '>1'
-ImmunodulationPredinoseOrMethylpredinose:
+ImmunodulationPrednisoneOrMethylprednisone:
 - '0'
 - '1'
 - '>1'
@@ -2489,18 +2460,6 @@ IndacaterolVisit:
 - '0'
 - '1'
 - '>1'
-Inflluenza7pointClinicalStatusScore:
-- 0
-- 1
-- 2
-- 3
-- 4
-- 5
-- 6
-- 7
-- 8
-- 9
-- 10
 Influenza7pointClinicalStatusScore:
 - 0
 - 1
@@ -2815,30 +2774,6 @@ Max24hOzoneExposure_2_qcut:
 - 3
 - 4
 - 5
-Max24hOzoneExposure_StudyAvg:
-- 1
-- 2
-- 3
-- 4
-- 5
-Max24hOzoneExposure_StudyAvg_qcut:
-- 1
-- 2
-- 3
-- 4
-- 5
-Max24hOzoneExposure_StudyMax:
-- 1
-- 2
-- 3
-- 4
-- 5
-Max24hOzoneExposure_StudyMax_qcut:
-- 1
-- 2
-- 3
-- 4
-- 5
 Max24hOzoneExposure_qcut:
 - 1
 - 2
@@ -2846,30 +2781,6 @@ Max24hOzoneExposure_qcut:
 - 4
 - 5
 Max24hPM2.5Exposure:
-- 1
-- 2
-- 3
-- 4
-- 5
-Max24hPM2.5Exposure_StudyAvg:
-- 1
-- 2
-- 3
-- 4
-- 5
-Max24hPM2.5Exposure_StudyAvg_qcut:
-- 1
-- 2
-- 3
-- 4
-- 5
-Max24hPM2.5Exposure_StudyMax:
-- 1
-- 2
-- 3
-- 4
-- 5
-Max24hPM2.5Exposure_StudyMax_qcut:
 - 1
 - 2
 - 3
@@ -3311,6 +3222,14 @@ PCDVisit:
 - '0'
 - '1'
 - '>1'
+PLT_flag_first:
+- low
+- normal
+- high
+PLT_flag_last:
+- low
+- normal
+- high
 PM25_ANNUAL_AVERAGE_cut:
 - 1
 - 2
@@ -3623,6 +3542,10 @@ RenalDisease:
 RenalDiseaseVisit:
 - 'No'
 - 'Yes'
+RespiratorySupportHFNC:
+- '0'
+- '1'
+- '>1'
 RespiratorySupportHNO3orFlolan:
 - '0'
 - '1'
@@ -16929,3 +16852,16 @@ ur:
 urVisit:
 - R
 - U
+year:
+- 2010
+- 2011
+- 2012
+- 2013
+- 2014
+- 2015
+- 2016
+- 2017
+- 2018
+- 2019
+- 2020
+- 2021

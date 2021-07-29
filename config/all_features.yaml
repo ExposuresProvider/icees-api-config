@@ -1,4 +1,9 @@
 patient:
+  year:
+    categories: []
+    maximum: 2021
+    minimum: 2010
+    type: integer
   A*02:01:
     categories:
     - biolink:SequenceVariant

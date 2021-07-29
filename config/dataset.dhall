@@ -185,6 +185,7 @@ let variables = [
     v.RoadwayAADT,
     v.RoadwaySpeedLimit,
     v.RoadwayLanes,
+    v.year,
     v.AADT,
     v.ALT_Onset_ULN,
     v.ALT_flag_first,

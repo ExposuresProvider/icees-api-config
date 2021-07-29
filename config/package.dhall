@@ -186,6 +186,7 @@ in {
     RoadwayAADT = FeatureVariable :: (./biolink_EnvironmentalExposure/RoadwayAADT.dhall),
     RoadwaySpeedLimit = FeatureVariable :: (./biolink_EnvironmentalExposure/RoadwaySpeedLimit.dhall),
     RoadwayLanes = FeatureVariable :: (./biolink_EnvironmentalExposure/RoadwayLanes.dhall),
+    year = FeatureVariable :: (./Uncategorized/year.dhall),
     AADT = FeatureVariable :: (./biolink_EnvironmentalExposure/AADT.dhall),
     ALT_Onset_ULN = FeatureVariable :: (./biolink_PhenotypicFeature/ALT_Onset_ULN.dhall),
     ALT_flag_first = FeatureVariable :: (./biolink_PhenotypicFeature/ALT_flag_first.dhall),
