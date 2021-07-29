@@ -6,11 +6,7 @@ let variables = [
     v.Sex2,
     v.ur,
     v.`IL-6`,
-
-
     v.BMI,
-    v.rs1363907_a,
-    v.rs2476601_a,
     v.FEV1FVC_flag_first,
     v.FEV1FVC_fraction_first,
     v.FEV1FVC_flag_last,
@@ -225,6 +221,7 @@ let variables = [
     v.HypertensionDx,
     v.IN_EPR,
     v.IN_ICEES,
+    v.Imatinib,
     v.Indacaterol,
     v.Ipratropium,
     v.Landfill_Exposure,
