@@ -9334,31 +9334,31 @@ patient:
   - NCIT:C26804
   - UMLSCUI:C0022415
   he_q140_asbestos:
-  - ENVO_2000026
+  - ENVO:2000026
   he_q141_biohazards:
-  - ENVO_2000012
+  - ENVO:2000012
   he_q142_chemicals:
-  - CHEBI_33286
-  - ENVO_2000012
-  - ENVO_2000023
+  - CHEBI:33286
+  - ENVO:2000012
+  - ENVO:2000023
   he_q143_coal_dust:
   - ENVO:02000099
   he_q144_coal:
-  - ENVO_01001440
-  - ENVO_2000013
-  - ENVO_2000037
+  - ENVO:01001440
+  - ENVO:2000013
+  - ENVO:2000037
   he_q145_diesel:
-  - ENVO_2000037
-  - ENVO_2000012
+  - ENVO:2000037
+  - ENVO:2000012
   he_q146_dyes: []
   he_q148_gasoline:
-  - ENVO_2000037
-  - ENVO_2000012
+  - ENVO:2000037
+  - ENVO:2000012
   he_q149_heavy_metals:
-  - ENVO_2000012
-  - ENVO_2000012
+  - ENVO:2000012
+  - ENVO:2000012
   he_q150_pesticide:
-  - CHEBI_33287
+  - CHEBI:33287
   he_q151_sand: []
   he_q152_other_dust:
   - ENVO:02000127
@@ -9368,7 +9368,7 @@ patient:
   he_q154_wood_dust:
   - ENVO:02000126
   he_q155_xrays:
-  - ENVO_2000023
+  - ENVO:2000023
   he_s179_100_cigarettes:
   - NCIT:C127059
   - NCIT:C1519386
@@ -9420,21 +9420,21 @@ patient:
   - ENVO:01000557
   ea_a017b_heat_gas:
   - ENVO:01001740
-  - ENVO_2000012
+  - ENVO:2000012
   ea_a017c_heat_electricity:
-  - ENVO_2000012
+  - ENVO:2000012
   ea_a017d_heat_oil_kerosene:
   - ENVO:01001608
   ea_a017e_heat_coal:
-  - ENVO_2000038
-  - ENVO_2000013
+  - ENVO:2000038
+  - ENVO:2000013
   - ENVO:01000790
   - ENVO:02000091
   ea_a017f_heat_wood:
   - ENVO:01001292
   - ENVO:03000131
   ea_a017g_heat_solar_energy:
-  - ENVO_2000041
+  - ENVO:2000041
   ea_a018_fireplace:
   - ENVO:03000122
   ea_a020a_fireplace_wood:
@@ -9470,7 +9470,7 @@ patient:
   ea_a065_traffic: []
   ea_a066_traffic_heavy: []
   ea_b092a_benzene:
-  - CHEBI_27798
+  - CHEBI:27798
   ea_b092b_chloroform:
   - CHEBI:35255
   - CHEBI:85365
@@ -9516,14 +9516,14 @@ patient:
   ea_b104a_bleach:
   - CHEBI:132717
   ea_b104b_ammonia:
-  - CHEBI_16134
+  - CHEBI:16134
   ea_b104c_carbon_tetrachloride:
   - CHEBI:27385
   - NCIT:C63923
   - UMLSCUI:C0007022
   ea_b110a_arsenic:
   - NCIT:C133964
-  - CHEBI_27563
+  - CHEBI:27563
   ea_b110b_beryllium:
   - NCIT:C133964
   - CHEBI:33783
@@ -9691,7 +9691,7 @@ patient:
   - CHEBI:60168
   ea_b110g_nickel:
   - NCIT:C133964
-  - CHEBI_28112
+  - CHEBI:28112
   - CHEBI:28112
   - CHEBI:49423
   - CHEBI:49786
@@ -9760,7 +9760,7 @@ patient:
   - CHEBI:6794
   ea_b116b_methanol: []
   ea_b116c_ethanol:
-  - CHEBI_16236
+  - CHEBI:16236
   - CHEBI:17790
   - CHEBI:17790
   - CHEBI:137685
@@ -9983,20 +9983,20 @@ patient:
   ea_b122a_ethyl_dibromide:
   - CHEBI:28534
   ea_b122b_chlorinated_naph:
-  - CHEBI_23116
+  - CHEBI:23116
   - CHEBI:16482
   - ENVO:00002180
   - ENVO:01000551
   ea_b122c_insecticides:
   - CHEBI:24852
   ea_b122d_fungicides:
-  - ENVO_01001041
-  - ENVO_01001058
+  - ENVO:01001041
+  - ENVO:01001058
   ea_b122e_herbicides:
   - CHEBI:24527
   ea_b122f_ethyl_fumigants: []
   ea_b122g_rodenticides:
-  - CHEBI_33288
+  - CHEBI:33288
   ea_b128a_bpa:
   - ENVO:02500040
   ea_b128b_vinyl_chloride:
@@ -10015,35 +10015,35 @@ patient:
   - ENVO:02000127
   ea_b134b_fiberglass: []
   ea_b134c_rock_dust:
-  - ENVO_01001398
-  - ENVO_01001108
+  - ENVO:01001398
+  - ENVO:01001108
   ea_b134d_silica:
-  - ENVO_01001282
-  - ENVO_01001285
+  - ENVO:01001282
+  - ENVO:01001285
   ea_b134e_talc:
-  - ENVO_01001285
-  - CHEBI_32178
+  - ENVO:01001285
+  - CHEBI:32178
   ea_b140a_nitrous_oxide: []
   ea_b140b_carbon_dioxide:
-  - CHEBI_23014
+  - CHEBI:23014
   ea_b140c_carbon_monoxide:
-  - CHEBI_17245
+  - CHEBI:17245
   ea_b140d_ozone:
-  - CHEBI_25812
+  - CHEBI:25812
   ea_b146a_pbbs:
   - UMLSCUI:C0032441
   - NCIT:C44436
   ea_b146b_pcbs:
   - CHEBI:35446
   ea_b146c_radiation:
-  - ENVO_21001218
+  - ENVO:21001218
   - ENVO:01001857
   - ENVO:01001861
   - ENVO:01001864
   ea_b146d_xrays:
-  - ENVO_21001217
+  - ENVO:21001217
   ea_b146e_welding:
-  - ENVO_02000113
+  - ENVO:02000113
   ea_b152a_hydrochloric_acid:
   - CHEBI:37527
   - ENVO:03000127
@@ -10060,7 +10060,7 @@ patient:
   ea_b158a_sodium_oh:
   - CHEBI:32145
   ea_b158b_calcium_oh:
-  - CHEBI_3311
+  - CHEBI:3311
   ea_b158c_potassium_oh:
   - CHEBI:32035
   ea_b158d_magnesium_oh:
@@ -10106,23 +10106,23 @@ patient:
   ea_b176g_sevoflurane:
   - CHEBI:9130
   ea_b182a_white_glue:
-  - ENVO_00003076
+  - ENVO:00003076
   ea_b182b_rubber_cement:
-  - ENVO_00003076
+  - ENVO:00003076
   ea_b182c_neoprene:
-  - ENVO_00003076
+  - ENVO:00003076
   ea_b182d_vinyl_a:
-  - ENVO_00003076
+  - ENVO:00003076
   ea_b182e_epoxy:
-  - ENVO_00003076
+  - ENVO:00003076
   ea_b182f_urethane:
-  - ENVO_00003076
+  - ENVO:00003076
   ea_b182g_polyimides:
-  - ENVO_00003076
+  - ENVO:00003076
   ea_b182h_cyanoacrylates:
-  - ENVO_00003076
+  - ENVO:00003076
   ea_b182i_wallpaper_paste:
-  - ENVO_00003076
+  - ENVO:00003076
   ea_b188a_eutectic: []
   ea_b188b_tin_zinc: []
   ea_b188c_lead_silver: []
@@ -10179,7 +10179,7 @@ patient:
   ea_a073_golf_course: []
   ea_a074_greenhouse: []
   ea_a075_hazard_waste:
-  - ENVO_01001264
+  - ENVO:01001264
   - ENVO:00002206
   - ENVO:00002001
   - ENVO:00002267
@@ -10209,7 +10209,7 @@ patient:
   ea_a087_nuclear_plant:
   - ENVO:00002271
   ea_a088b_factory_d:
-  - ENVO_01000536
+  - ENVO:01000536
   ea_a091_farm_active:
   - ENVO:01001170
   ea_b092_solvent_d: []
@@ -10245,11 +10245,11 @@ patient:
   ea_b152f_acid_other: []
   ea_b157a_acid_ongoing_d: []
   ea_b158_alkalis_d:
-  - CHEBI_22313
-  - CHEBI_22314
+  - CHEBI:22313
+  - CHEBI:22314
   ea_b158e_alkalis_other:
-  - CHEBI_22313
-  - CHEBI_22314
+  - CHEBI:22313
+  - CHEBI:22314
   ea_b163a_alkalis_ongoing_d: []
   ea_b164_stains_d: []
   ea_b164g_stains_other: []
@@ -20960,35 +20960,35 @@ visit:
   - NCIT:C26804
   - UMLSCUI:C0022415
   he_q140_asbestos:
-  - ENVO_2000026
+  - ENVO:2000026
   he_q141_biohazards:
-  - ENVO_2000012
+  - ENVO:2000012
   he_q142_chemicals:
-  - CHEBI_33286
-  - ENVO_2000012
-  - ENVO_2000023
+  - CHEBI:33286
+  - ENVO:2000012
+  - ENVO:2000023
   he_q143_coal_dust:
   - ENVO:02000099
   he_q144_coal:
-  - ENVO_01001440
-  - ENVO_2000013
-  - ENVO_2000037
+  - ENVO:01001440
+  - ENVO:2000013
+  - ENVO:2000037
   he_q145_diesel:
-  - ENVO_2000037
-  - ENVO_2000012
+  - ENVO:2000037
+  - ENVO:2000012
   he_q146_dyes: []
   he_q147_formaldehyde:
   - CHEBI:16842
   - PUBCHEM:712
   - MESH:D005557
   he_q148_gasoline:
-  - ENVO_2000037
-  - ENVO_2000012
+  - ENVO:2000037
+  - ENVO:2000012
   he_q149_heavy_metals:
-  - ENVO_2000012
-  - ENVO_2000012
+  - ENVO:2000012
+  - ENVO:2000012
   he_q150_pesticide:
-  - CHEBI_33287
+  - CHEBI:33287
   he_q151_sand: []
   he_q152_other_dust:
   - ENVO:02000127
@@ -20998,7 +20998,7 @@ visit:
   he_q154_wood_dust:
   - ENVO:02000126
   he_q155_xrays:
-  - ENVO_2000023
+  - ENVO:2000023
   he_s179_100_cigarettes:
   - NCIT:C127059
   he_s180_smoke:
@@ -21038,21 +21038,21 @@ visit:
   - ENVO:01000557
   ea_a017b_heat_gas:
   - ENVO:01001740
-  - ENVO_2000012
+  - ENVO:2000012
   ea_a017c_heat_electricity:
-  - ENVO_2000012
+  - ENVO:2000012
   ea_a017d_heat_oil_kerosene:
   - ENVO:01001608
   ea_a017e_heat_coal:
-  - ENVO_2000038
-  - ENVO_2000013
+  - ENVO:2000038
+  - ENVO:2000013
   - ENVO:01000790
   - ENVO:02000091
   ea_a017f_heat_wood:
   - ENVO:01001292
   - ENVO:03000131
   ea_a017g_heat_solar_energy:
-  - ENVO_2000041
+  - ENVO:2000041
   ea_a018_fireplace:
   - ENVO:03000122
   ea_a020a_fireplace_wood:
@@ -21088,7 +21088,7 @@ visit:
   ea_a065_traffic: []
   ea_a066_traffic_heavy: []
   ea_b092a_benzene:
-  - CHEBI_27798
+  - CHEBI:27798
   ea_b092b_chloroform:
   - CHEBI:35255
   - CHEBI:85365
@@ -21134,14 +21134,14 @@ visit:
   ea_b104a_bleach:
   - CHEBI:132717
   ea_b104b_ammonia:
-  - CHEBI_16134
+  - CHEBI:16134
   ea_b104c_carbon_tetrachloride:
   - CHEBI:27385
   - NCIT:C63923
   - UMLSCUI:C0007022
   ea_b110a_arsenic:
   - NCIT:C133964
-  - CHEBI_27563
+  - CHEBI:27563
   ea_b110b_beryllium:
   - NCIT:C133964
   - CHEBI:33783
@@ -21309,7 +21309,7 @@ visit:
   - CHEBI:60168
   ea_b110g_nickel:
   - NCIT:C133964
-  - CHEBI_28112
+  - CHEBI:28112
   - CHEBI:28112
   - CHEBI:49423
   - CHEBI:49786
@@ -21378,7 +21378,7 @@ visit:
   - CHEBI:6794
   ea_b116b_methanol: []
   ea_b116c_ethanol:
-  - CHEBI_16236
+  - CHEBI:16236
   - CHEBI:17790
   - CHEBI:17790
   - CHEBI:137685
@@ -21601,20 +21601,20 @@ visit:
   ea_b122a_ethyl_dibromide:
   - CHEBI:28534
   ea_b122b_chlorinated_naph:
-  - CHEBI_23116
+  - CHEBI:23116
   - CHEBI:16482
   - ENVO:00002180
   - ENVO:01000551
   ea_b122c_insecticides:
   - CHEBI:24852
   ea_b122d_fungicides:
-  - ENVO_01001041
-  - ENVO_01001058
+  - ENVO:01001041
+  - ENVO:01001058
   ea_b122e_herbicides:
   - CHEBI:24527
   ea_b122f_ethyl_fumigants: []
   ea_b122g_rodenticides:
-  - CHEBI_33288
+  - CHEBI:33288
   ea_b128a_bpa:
   - ENVO:02500040
   ea_b128b_vinyl_chloride:
@@ -21633,35 +21633,35 @@ visit:
   - ENVO:02000127
   ea_b134b_fiberglass: []
   ea_b134c_rock_dust:
-  - ENVO_01001398
-  - ENVO_01001108
+  - ENVO:01001398
+  - ENVO:01001108
   ea_b134d_silica:
-  - ENVO_01001282
-  - ENVO_01001285
+  - ENVO:01001282
+  - ENVO:01001285
   ea_b134e_talc:
-  - ENVO_01001285
-  - CHEBI_32178
+  - ENVO:01001285
+  - CHEBI:32178
   ea_b140a_nitrous_oxide: []
   ea_b140b_carbon_dioxide:
-  - CHEBI_23014
+  - CHEBI:23014
   ea_b140c_carbon_monoxide:
-  - CHEBI_17245
+  - CHEBI:17245
   ea_b140d_ozone:
-  - CHEBI_25812
+  - CHEBI:25812
   ea_b146a_pbbs:
   - UMLSCUI:C0032441
   - NCIT:C44436
   ea_b146b_pcbs:
   - CHEBI:35446
   ea_b146c_radiation:
-  - ENVO_21001218
+  - ENVO:21001218
   - ENVO:01001857
   - ENVO:01001861
   - ENVO:01001864
   ea_b146d_xrays:
-  - ENVO_21001217
+  - ENVO:21001217
   ea_b146e_welding:
-  - ENVO_02000113
+  - ENVO:02000113
   ea_b152a_hydrochloric_acid:
   - CHEBI:37527
   - ENVO:03000127
@@ -21678,7 +21678,7 @@ visit:
   ea_b158a_sodium_oh:
   - CHEBI:32145
   ea_b158b_calcium_oh:
-  - CHEBI_3311
+  - CHEBI:3311
   ea_b158c_potassium_oh:
   - CHEBI:32035
   ea_b158d_magnesium_oh:
@@ -21724,23 +21724,23 @@ visit:
   ea_b176g_sevoflurane:
   - CHEBI:9130
   ea_b182a_white_glue:
-  - ENVO_00003076
+  - ENVO:00003076
   ea_b182b_rubber_cement:
-  - ENVO_00003076
+  - ENVO:00003076
   ea_b182c_neoprene:
-  - ENVO_00003076
+  - ENVO:00003076
   ea_b182d_vinyl_a:
-  - ENVO_00003076
+  - ENVO:00003076
   ea_b182e_epoxy:
-  - ENVO_00003076
+  - ENVO:00003076
   ea_b182f_urethane:
-  - ENVO_00003076
+  - ENVO:00003076
   ea_b182g_polyimides:
-  - ENVO_00003076
+  - ENVO:00003076
   ea_b182h_cyanoacrylates:
-  - ENVO_00003076
+  - ENVO:00003076
   ea_b182i_wallpaper_paste:
-  - ENVO_00003076
+  - ENVO:00003076
   ea_b188a_eutectic: []
   ea_b188b_tin_zinc: []
   ea_b188c_lead_silver: []
@@ -21797,7 +21797,7 @@ visit:
   ea_a073_golf_course: []
   ea_a074_greenhouse: []
   ea_a075_hazard_waste:
-  - ENVO_01001264
+  - ENVO:01001264
   - ENVO:00002206
   - ENVO:00002001
   - ENVO:00002267
@@ -21827,7 +21827,7 @@ visit:
   ea_a087_nuclear_plant:
   - ENVO:00002271
   ea_a088b_factory_d:
-  - ENVO_01000536
+  - ENVO:01000536
   ea_a091_farm_active:
   - ENVO:01001170
   ea_b092_solvent_d: []
@@ -21863,11 +21863,11 @@ visit:
   ea_b152f_acid_other: []
   ea_b157a_acid_ongoing_d: []
   ea_b158_alkalis_d:
-  - CHEBI_22313
-  - CHEBI_22314
+  - CHEBI:22313
+  - CHEBI:22314
   ea_b158e_alkalis_other:
-  - CHEBI_22313
-  - CHEBI_22314
+  - CHEBI:22313
+  - CHEBI:22314
   ea_b163a_alkalis_ongoing_d: []
   ea_b164_stains_d: []
   ea_b164g_stains_other: []
