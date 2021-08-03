@@ -19,20 +19,22 @@
     },
     {
         "name": "NC Department of Environmental Quality concentrated animal farming operations (CAFO) exposures data",
-	"urls": [
-	    "https://deq.nc.gov/about/divisions/water-resources/water-resources-permits/wastewater-branch/animal-feeding-operation-permits/animal-facility-map",
-	    "https://deq.nc.gov/cafo-map"
-	]
+        "url": "https://deq.nc.gov/about/divisions/water-resources/water-resources-permits/wastewater-branch/animal-feeding-operation-permits/animal-facility-map"
+    },
+    {
+        "name": "NC Department of Environmental Quality concentrated animal farming operations (CAFO) exposures data",
+        "url": "https://deq.nc.gov/cafo-map"
     },
     {
         "name": "NC Department of Environmental Quality landfill exposures data",
-	"urls": [
-	    "https://deq.nc.gov/about/divisions/waste-management/waste-management-rules-data/waste-management-gis-maps",
-	    "https://www.nconemap.gov/datasets/ncdenr::active-permitted-landfills/about"
-	]
+        "url": "https://deq.nc.gov/about/divisions/waste-management/waste-management-rules-data/waste-management-gis-maps"
+    },
+    {
+        "name": "NC Department of Environmental Quality landfill exposures data",
+        "url": "https://www.nconemap.gov/datasets/ncdenr::active-permitted-landfills/about"
     },
     {
         "name": "National Center for Education Statistics public school exposures data",
-	"url": "https://nces.ed.gov/datatools/"
+        "url": "https://nces.ed.gov/datatools/"
     }
 ]
