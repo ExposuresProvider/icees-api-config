@@ -5,7 +5,7 @@ let max_cutoff = binning_strategies.max_cutoff
 in {
     name = "he_q155_xrays",
     identifiers = [
-        "ENVO_2000023"
+        "ENVO:2000023"
     ],
     feature = {
         feature_type = enum [

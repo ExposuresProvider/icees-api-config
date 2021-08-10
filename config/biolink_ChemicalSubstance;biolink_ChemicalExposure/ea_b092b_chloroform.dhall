@@ -13,7 +13,7 @@ in {
         "CHEBI:48236",
         "CHEBI:29365",
         "CHEBI:34576",
-        "PUBCHEM:6212"
+        "PUBCHEM.COMPOUND:6212"
     ],
     feature = {
         feature_type = enum [

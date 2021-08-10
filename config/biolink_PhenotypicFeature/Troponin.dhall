@@ -15,8 +15,8 @@ in {
         "LOINC:LP14890-5",
         "LOINC:LP17145-1",
         "SCTID:102680009",
-        "PUBCHEM:16131354",
-        "PUBCHEM:44152811"
+        "PUBCHEM.COMPOUND:16131354",
+        "PUBCHEM.COMPOUND:44152811"
     ],
     mapping = generic_fhir_mapping [
         {

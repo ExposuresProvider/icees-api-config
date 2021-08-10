@@ -5,7 +5,7 @@ let max_cutoff = binning_strategies.max_cutoff
 in {
     name = "ea_b122g_rodenticides",
     identifiers = [
-        "CHEBI_33288"
+        "CHEBI:33288"
     ],
     feature = {
         feature_type = enum [

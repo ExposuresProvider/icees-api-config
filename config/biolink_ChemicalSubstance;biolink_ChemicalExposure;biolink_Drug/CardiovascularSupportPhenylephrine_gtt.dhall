@@ -5,7 +5,7 @@ let max_cutoff = binning_strategies.max_cutoff
 in {
     name = "CardiovascularSupportPhenylephrine_gtt",
     identifiers = [
-        "PUBCHEM:6102",
+        "PUBCHEM.COMPOUND:6102",
         "CHEBI:8093",
         "CHEBI:134779",
         "CHEBI:91518",

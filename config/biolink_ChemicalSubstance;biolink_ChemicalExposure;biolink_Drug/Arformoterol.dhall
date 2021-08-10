@@ -12,7 +12,7 @@ in {
         "CAS:299964-45-7",
         "CAS:67346-49-0",
         "CHEMBL:CHEMBL1363",
-        "PUBCHEM:3083544",
+        "PUBCHEM.COMPOUND:3083544",
         "RXCUI:695935",
         "RXCUI:668956",
         "UMLSCUI:C1876458",

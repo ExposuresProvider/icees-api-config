@@ -6,7 +6,7 @@ in {
     name = "ea_b110g_nickel",
     identifiers = [
         "NCIT:C133964",
-        "CHEBI_28112",
+        "CHEBI:28112",
         "CHEBI:28112",
         "CHEBI:49423",
         "CHEBI:49786",

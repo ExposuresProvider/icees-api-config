@@ -6,10 +6,10 @@ let max_cutoff = binning_strategies.max_cutoff
 in {
     name = "IntravenousImmunoglobulin",
     identifiers = [
-        "PUBCHEM:135312669",
-        "PUBCHEM:135331634",
-        "PUBCHEM:347911208",
-        "PUBCHEM:347911474",
+        "PUBCHEM.COMPOUND:135312669",
+        "PUBCHEM.COMPOUND:135331634",
+        "PUBCHEM.COMPOUND:347911208",
+        "PUBCHEM.COMPOUND:347911474",
         "NCIT:C121331",
         "LOINC:LA9437-0",
         "LOINC:LA11258-3",

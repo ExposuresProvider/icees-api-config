@@ -5,7 +5,7 @@ let max_cutoff = binning_strategies.max_cutoff
 in {
     name = "ea_b092c_chloroprene",
     identifiers = [
-        "PUBCHEM:31369",
+        "PUBCHEM.COMPOUND:31369",
         "CHEBI:39481",
         "CHEBI:60505",
         "UMLSCUI:C0008267",

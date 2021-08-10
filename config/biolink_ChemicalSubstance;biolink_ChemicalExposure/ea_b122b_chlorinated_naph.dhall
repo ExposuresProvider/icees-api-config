@@ -5,7 +5,7 @@ let max_cutoff = binning_strategies.max_cutoff
 in {
     name = "ea_b122b_chlorinated_naph",
     identifiers = [
-        "CHEBI_23116",
+        "CHEBI:23116",
         "CHEBI:16482",
         "ENVO:00002180",
         "ENVO:01000551"

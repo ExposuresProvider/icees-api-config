@@ -7,8 +7,8 @@ in {
     name = "Levosimendan_gtt",
     identifiers = [
         "CHEBI:50567",
-        "PUBCHEM:3033825",
-        "PUBCHEM:161928",
+        "PUBCHEM.COMPOUND:3033825",
+        "PUBCHEM.COMPOUND:161928",
         "NCIT:C174653",
         "RxNorm:73107",
         "RxNorm:901046",

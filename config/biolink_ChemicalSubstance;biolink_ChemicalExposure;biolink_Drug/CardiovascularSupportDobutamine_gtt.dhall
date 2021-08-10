@@ -7,7 +7,7 @@ in {
     identifiers = [
         "CHEBI:4670",
         "CHEBI:4671",
-        "PUBCHEM:36811",
+        "PUBCHEM.COMPOUND:36811",
         "NCIT:C61733",
         "UMLSCUI:C0012963",
         "NCIT:C171751",

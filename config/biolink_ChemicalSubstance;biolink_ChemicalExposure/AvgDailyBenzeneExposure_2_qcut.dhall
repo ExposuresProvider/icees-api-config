@@ -7,7 +7,7 @@ in {
     name = "AvgDailyBenzeneExposure_2_qcut",
     identifiers = [
         "CHEBI:16716",
-        "PUBCHEM:241",
+        "PUBCHEM.COMPOUND:241",
         "MESH:D001554"
     ],
     mapping = environmental_mapping {

@@ -6,7 +6,7 @@ in {
     name = "ea_a017b_heat_gas",
     identifiers = [
         "ENVO:01001740",
-        "ENVO_2000012"
+        "ENVO:2000012"
     ],
     feature = {
         feature_type = enum [

@@ -8,7 +8,7 @@ in {
     identifiers = [
         "NCIT:C152185",
         "UMLSCUI:CL553517",
-        "PUBCHEM:121304016",
+        "PUBCHEM.COMPOUND:121304016",
         "RxNorm:2284718",
         "RxNorm:2284959",
         "RxNorm:2284957",

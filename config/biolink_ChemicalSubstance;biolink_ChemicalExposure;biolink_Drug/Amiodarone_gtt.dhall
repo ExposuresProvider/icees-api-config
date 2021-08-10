@@ -6,7 +6,7 @@ let max_cutoff = binning_strategies.max_cutoff
 in {
     name = "Amiodarone_gtt",
     identifiers = [
-        "PUBCHEM:2157",
+        "PUBCHEM.COMPOUND:2157",
         "CHEBI:2663",
         "CHEBI:2664",
         "NCIT:C62002",

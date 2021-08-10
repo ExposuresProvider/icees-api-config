@@ -32,10 +32,10 @@ in {
         "SCTID:33592611000001103",
         "SCTID:4627511000001101",
         "SCTID:33593511000001109",
-        "PUBCHEM:53394235",
-        "PUBCHEM:23695838",
-        "PUBCHEM:6364626",
-        "PUBCHEM:5282411"
+        "PUBCHEM.COMPOUND:53394235",
+        "PUBCHEM.COMPOUND:23695838",
+        "PUBCHEM.COMPOUND:6364626",
+        "PUBCHEM.COMPOUND:5282411"
     ],
     feature = {
         feature_type = enum [

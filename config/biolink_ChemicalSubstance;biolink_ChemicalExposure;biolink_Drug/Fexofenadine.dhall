@@ -12,7 +12,7 @@ in {
         "CAS:83799-24-0",
         "MESH:C093230",
         "CHEMBL:CHEMBL914",
-        "PUBCHEM:3348",
+        "PUBCHEM.COMPOUND:3348",
         "RXCUI:1116528",
         "RXCUI:1670344",
         "RXCUI:1192737",

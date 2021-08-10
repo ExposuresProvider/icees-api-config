@@ -16,7 +16,7 @@ in {
         "CHEMBL:CHEMBL190",
         "CHEMBL:CHEMBL221190",
         "CHEMBL:CHEMBL1200406",
-        "PUBCHEM:2153",
+        "PUBCHEM.COMPOUND:2153",
         "RXCUI:208266",
         "RXCUI:208278",
         "RXCUI:313277",

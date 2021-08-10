@@ -9,7 +9,7 @@ in {
         "SMILES:C[C@@H]1C[C@H]2[C@@H]3CCC4:CC(:O)C:C[C@]4(C)[C@@]3(CL)[C@@H](O)C[C@]2(C)[C@@]1(O)C(:O)CCL",
         "CAS:105102-22-5",
         "CHEMBL:CHEMBL1161",
-        "PUBCHEM:441335",
+        "PUBCHEM.COMPOUND:441335",
         "RXCUI:1148523",
         "RXCUI:1797870",
         "RXCUI:92582",

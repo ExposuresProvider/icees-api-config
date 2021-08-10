@@ -118,7 +118,7 @@ in {
         "NCIT:C29101",
         "UMLSCUI:C0596007",
         "CHEBI:5801",
-        "PUBCHEM:3652"
+        "PUBCHEM.COMPOUND:3652"
     ],
     mapping = generic_fhir_mapping [
         {

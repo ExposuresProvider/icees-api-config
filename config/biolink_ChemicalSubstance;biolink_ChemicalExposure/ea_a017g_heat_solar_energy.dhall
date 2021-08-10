@@ -5,7 +5,7 @@ let max_cutoff = binning_strategies.max_cutoff
 in {
     name = "ea_a017g_heat_solar_energy",
     identifiers = [
-        "ENVO_2000041"
+        "ENVO:2000041"
     ],
     feature = {
         feature_type = enum [

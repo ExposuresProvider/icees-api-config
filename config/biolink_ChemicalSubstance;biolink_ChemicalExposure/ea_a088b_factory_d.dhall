@@ -5,7 +5,7 @@ let max_cutoff = binning_strategies.max_cutoff
 in {
     name = "ea_a088b_factory_d",
     identifiers = [
-        "ENVO_01000536"
+        "ENVO:01000536"
     ],
     feature = {
         feature_type = enum [

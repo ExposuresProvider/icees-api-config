@@ -18,7 +18,7 @@ in {
         "CHEBI:81386",
         "CHEBI:35640",
         "MONDO:0011479",
-        "PUBCHEM:439260",
+        "PUBCHEM.COMPOUND:439260",
         "NCIT:C62098",
         "UMLSCUI:C0028351",
         "NCIT:C74868",

@@ -9,7 +9,7 @@ in {
         "SMILES:OCC1CC(CCC1O)C(O)CNCCCCCCOCCCCC2CCCCC2",
         "CAS:89365-50-4",
         "CHEMBL:CHEMBL1263",
-        "PUBCHEM:5152",
+        "PUBCHEM.COMPOUND:5152",
         "RXCUI:866047",
         "RXCUI:866049",
         "RXCUI:896165",

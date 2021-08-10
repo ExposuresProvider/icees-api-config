@@ -6,7 +6,7 @@ in {
     name = "ea_b110a_arsenic",
     identifiers = [
         "NCIT:C133964",
-        "CHEBI_27563"
+        "CHEBI:27563"
     ],
     feature = {
         feature_type = enum [

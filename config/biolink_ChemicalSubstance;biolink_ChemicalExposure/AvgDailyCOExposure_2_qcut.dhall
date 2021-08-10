@@ -7,7 +7,7 @@ in {
     name = "AvgDailyCOExposure_2_qcut",
     identifiers = [
         "CHEBI:17245",
-        "PUBCHEM:281",
+        "PUBCHEM.COMPOUND:281",
         "MESH:D002248"
     ],
     mapping = environmental_mapping {

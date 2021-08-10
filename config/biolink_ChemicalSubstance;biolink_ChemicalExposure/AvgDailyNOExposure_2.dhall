@@ -7,7 +7,7 @@ in {
     name = "AvgDailyNOExposure_2",
     identifiers = [
         "CHEBI:16480",
-        "PUBCHEM:145068",
+        "PUBCHEM.COMPOUND:145068",
         "MESH:D009569"
     ],
     mapping = environmental_mapping {

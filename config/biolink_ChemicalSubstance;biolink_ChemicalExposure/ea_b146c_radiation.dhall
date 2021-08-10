@@ -5,7 +5,7 @@ let max_cutoff = binning_strategies.max_cutoff
 in {
     name = "ea_b146c_radiation",
     identifiers = [
-        "ENVO_21001218",
+        "ENVO:21001218",
         "ENVO:01001857",
         "ENVO:01001861",
         "ENVO:01001864"

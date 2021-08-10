@@ -5,9 +5,9 @@ let max_cutoff = binning_strategies.max_cutoff
 in {
     name = "he_b009_atherosclerosis",
     identifiers = [
-        "PUBCHEM:72941823",
-        "PUBCHEM:11607970",
-        "PUBCHEM:10224454",
+        "PUBCHEM.COMPOUND:72941823",
+        "PUBCHEM.COMPOUND:11607970",
+        "PUBCHEM.COMPOUND:10224454",
         "NCIT:C35768",
         "UMLSCUI:C0004153",
         "NCIT:C34459",

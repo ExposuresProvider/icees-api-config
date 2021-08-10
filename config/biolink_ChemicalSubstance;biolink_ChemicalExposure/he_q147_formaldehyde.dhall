@@ -6,7 +6,7 @@ in {
     name = "he_q147_formaldehyde",
     identifiers = [
         "CHEBI:16842",
-        "PUBCHEM:712",
+        "PUBCHEM.COMPOUND:712",
         "MESH:D005557"
     ],
     feature = {

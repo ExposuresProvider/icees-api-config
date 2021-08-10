@@ -7,7 +7,7 @@ in {
     name = "MaxDailyOzoneExposure_StudyMax_qcut",
     identifiers = [
         "MESH:D010126",
-        "PUBCHEM:24823",
+        "PUBCHEM.COMPOUND:24823",
         "SCTID:40057008",
         "CHEBI:25812",
         "ENVO:01000537"

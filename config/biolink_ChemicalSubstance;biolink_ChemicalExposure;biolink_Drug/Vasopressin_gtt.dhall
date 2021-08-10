@@ -23,7 +23,7 @@ in {
         "CHEBI:59726",
         "MONDO:0006802",
         "CHEBI:59728",
-        "PUBCHEM:11979316",
+        "PUBCHEM.COMPOUND:11979316",
         "RxNorm:1149",
         "RxNorm:2103181",
         "RxNorm:374283",

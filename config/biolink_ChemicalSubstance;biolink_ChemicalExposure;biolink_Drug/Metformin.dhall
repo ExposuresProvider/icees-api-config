@@ -9,7 +9,7 @@ in {
         "SMILES:CN(C)C(:N)NC(:N)N",
         "CAS:657-24-9",
         "MESH:D008687",
-        "PUBCHEM:4091",
+        "PUBCHEM.COMPOUND:4091",
         "RXCUI:1992685",
         "RXCUI:1992693",
         "RXCUI:1992698",

@@ -11,7 +11,7 @@ in {
         "CAS:53-03-2",
         "MESH:D011241",
         "CHEMBL:CHEMBL635",
-        "PUBCHEM:5865",
+        "PUBCHEM.COMPOUND:5865",
         "RXCUI:763179",
         "RXCUI:763181",
         "RXCUI:795858",

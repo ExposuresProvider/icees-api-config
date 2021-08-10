@@ -7,7 +7,7 @@ in {
     name = "AvgDailyNO2Exposure_2_qcut",
     identifiers = [
         "CHEBI:33101",
-        "PUBCHEM:3032552",
+        "PUBCHEM.COMPOUND:3032552",
         "MESH:D009585"
     ],
     mapping = environmental_mapping {

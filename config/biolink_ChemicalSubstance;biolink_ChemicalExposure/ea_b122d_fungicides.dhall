@@ -5,8 +5,8 @@ let max_cutoff = binning_strategies.max_cutoff
 in {
     name = "ea_b122d_fungicides",
     identifiers = [
-        "ENVO_01001041",
-        "ENVO_01001058"
+        "ENVO:01001041",
+        "ENVO:01001058"
     ],
     feature = {
         feature_type = enum [

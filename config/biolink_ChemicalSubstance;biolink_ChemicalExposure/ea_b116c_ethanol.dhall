@@ -5,7 +5,7 @@ let max_cutoff = binning_strategies.max_cutoff
 in {
     name = "ea_b116c_ethanol",
     identifiers = [
-        "CHEBI_16236",
+        "CHEBI:16236",
         "CHEBI:17790",
         "CHEBI:17790",
         "CHEBI:137685",

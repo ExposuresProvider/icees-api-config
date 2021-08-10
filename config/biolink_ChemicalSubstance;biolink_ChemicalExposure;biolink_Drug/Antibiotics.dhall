@@ -6,8 +6,8 @@ let max_cutoff = binning_strategies.max_cutoff
 in {
     name = "Antibiotics",
     identifiers = [
-        "PUBCHEM:102585999",
-        "PUBCHEM:101715062",
+        "PUBCHEM.COMPOUND:102585999",
+        "PUBCHEM.COMPOUND:101715062",
         "CHEBI:33281",
         "CHEBI:71644",
         "CHEBI:86323",

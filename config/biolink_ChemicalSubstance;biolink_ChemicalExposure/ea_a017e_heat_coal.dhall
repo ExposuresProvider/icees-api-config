@@ -5,8 +5,8 @@ let max_cutoff = binning_strategies.max_cutoff
 in {
     name = "ea_a017e_heat_coal",
     identifiers = [
-        "ENVO_2000038",
-        "ENVO_2000013",
+        "ENVO:2000038",
+        "ENVO:2000013",
         "ENVO:01000790",
         "ENVO:02000091"
     ],

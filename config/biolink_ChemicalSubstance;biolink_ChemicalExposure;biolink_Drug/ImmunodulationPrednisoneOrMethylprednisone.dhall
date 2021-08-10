@@ -9,7 +9,7 @@ in {
         "CHEBI:34655",
         "CHEBI:8380",
         "CHEBI:79702",
-        "PUBCHEM:5865",
+        "PUBCHEM.COMPOUND:5865",
         "NCIT:C770",
         "UMLSCUI:C0032952",
         "NCIT:C29376",

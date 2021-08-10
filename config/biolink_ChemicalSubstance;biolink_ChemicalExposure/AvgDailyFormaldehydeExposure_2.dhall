@@ -7,7 +7,7 @@ in {
     name = "AvgDailyFormaldehydeExposure_2",
     identifiers = [
         "CHEBI:16842",
-        "PUBCHEM:712",
+        "PUBCHEM.COMPOUND:712",
         "MESH:D005557"
     ],
     mapping = environmental_mapping {

@@ -3,7 +3,7 @@ let enum = meta.enum
 in {
     name = "ea_a075_hazard_waste",
     identifiers = [
-        "ENVO_01001264",
+        "ENVO:01001264",
         "ENVO:00002206",
         "ENVO:00002001",
         "ENVO:00002267"
