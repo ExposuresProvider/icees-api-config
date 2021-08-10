@@ -12187,18 +12187,18 @@ ImmunodulationTocilizumab:
   - SCITD:35410211000001103
   - NCIT:C84217
   - UMLSCUI:C1609165
-  - PUBCHEM17396767
-  - PUBCHEM104253153
-  - PUBCHEM135345962
-  - PUBCHEM178103463
-  - PUBCHEM329976997
-  - PUBCHEM347910344
-  - PUBCHEM349016747
-  - PUBCHEM354355060
-  - PUBCHEM385326041
-  - PUBCHEM385327557
-  - PUBCHEM387061215
-  - PUBCHEM405092064
+  - PUBCHEM.COMPOUND:17396767
+  - PUBCHEM.COMPOUND:104253153
+  - PUBCHEM.COMPOUND:135345962
+  - PUBCHEM.COMPOUND:178103463
+  - PUBCHEM.COMPOUND:329976997
+  - PUBCHEM.COMPOUND:347910344
+  - PUBCHEM.COMPOUND:349016747
+  - PUBCHEM.COMPOUND:354355060
+  - PUBCHEM.COMPOUND:385326041
+  - PUBCHEM.COMPOUND:385327557
+  - PUBCHEM.COMPOUND:387061215
+  - PUBCHEM.COMPOUND:405092064
   type: string
 Implicated_Drug1_Assessment:
   categories:
@@ -20351,18 +20351,18 @@ Tocilizumab:
   - SCITD:35410211000001103
   - NCIT:C84217
   - UMLSCUI:C1609165
-  - PUBCHEM17396767
-  - PUBCHEM104253153
-  - PUBCHEM135345962
-  - PUBCHEM178103463
-  - PUBCHEM329976997
-  - PUBCHEM347910344
-  - PUBCHEM349016747
-  - PUBCHEM354355060
-  - PUBCHEM385326041
-  - PUBCHEM385327557
-  - PUBCHEM387061215
-  - PUBCHEM405092064
+  - PUBCHEM.COMPOUND:17396767
+  - PUBCHEM.COMPOUND:104253153
+  - PUBCHEM.COMPOUND:135345962
+  - PUBCHEM.COMPOUND:178103463
+  - PUBCHEM.COMPOUND:329976997
+  - PUBCHEM.COMPOUND:347910344
+  - PUBCHEM.COMPOUND:349016747
+  - PUBCHEM.COMPOUND:354355060
+  - PUBCHEM.COMPOUND:385326041
+  - PUBCHEM.COMPOUND:385327557
+  - PUBCHEM.COMPOUND:387061215
+  - PUBCHEM.COMPOUND:405092064
   type: string
 TocilizumabVisit:
   categories:
@@ -21212,7 +21212,7 @@ ea_a017b_heat_gas:
   - biolink:ChemicalExposure
   identifiers:
   - ENVO:01001740
-  - ENVO_2000012
+  - ENVO:2000012
   type: string
 ea_a017b_heat_gasVisit:
   categories:
@@ -21224,7 +21224,7 @@ ea_a017c_heat_electricity:
   - biolink:ChemicalSubstance
   - biolink:ChemicalExposure
   identifiers:
-  - ENVO_2000012
+  - ENVO:2000012
   type: string
 ea_a017c_heat_electricityVisit:
   categories:
@@ -21248,8 +21248,8 @@ ea_a017e_heat_coal:
   - biolink:ChemicalSubstance
   - biolink:ChemicalExposure
   identifiers:
-  - ENVO_2000038
-  - ENVO_2000013
+  - ENVO:2000038
+  - ENVO:2000013
   - ENVO:01000790
   - ENVO:02000091
   type: string
@@ -21276,7 +21276,7 @@ ea_a017g_heat_solar_energy:
   - biolink:ChemicalSubstance
   - biolink:ChemicalExposure
   identifiers:
-  - ENVO_2000041
+  - ENVO:2000041
   type: string
 ea_a017g_heat_solar_energyVisit:
   categories:
@@ -21807,7 +21807,7 @@ ea_a075_hazard_waste:
   categories:
   - biolink:EnvironmentalExposure
   identifiers:
-  - ENVO_01001264
+  - ENVO:01001264
   - ENVO:00002206
   - ENVO:00002001
   - ENVO:00002267
@@ -21955,7 +21955,7 @@ ea_a088b_factory_d:
   - biolink:ChemicalSubstance
   - biolink:ChemicalExposure
   identifiers:
-  - ENVO_01000536
+  - ENVO:01000536
   type: string
 ea_a088b_factory_dVisit:
   categories:
@@ -21990,7 +21990,7 @@ ea_b092a_benzene:
   - biolink:ChemicalSubstance
   - biolink:ChemicalExposure
   identifiers:
-  - CHEBI_27798
+  - CHEBI:27798
   type: string
 ea_b092a_benzeneVisit:
   categories:
@@ -22252,7 +22252,7 @@ ea_b104b_ammonia:
   - biolink:ChemicalSubstance
   - biolink:ChemicalExposure
   identifiers:
-  - CHEBI_16134
+  - CHEBI:16134
   type: string
 ea_b104b_ammoniaVisit:
   categories:
@@ -22312,7 +22312,7 @@ ea_b110a_arsenic:
   - biolink:ChemicalExposure
   identifiers:
   - NCIT:C133964
-  - CHEBI_27563
+  - CHEBI:27563
   type: string
 ea_b110a_arsenicVisit:
   categories:
@@ -22540,7 +22540,7 @@ ea_b110g_nickel:
   - biolink:ChemicalExposure
   identifiers:
   - NCIT:C133964
-  - CHEBI_28112
+  - CHEBI:28112
   - CHEBI:28112
   - CHEBI:49423
   - CHEBI:49786
@@ -22672,7 +22672,7 @@ ea_b116c_ethanol:
   - biolink:ChemicalSubstance
   - biolink:ChemicalExposure
   identifiers:
-  - CHEBI_16236
+  - CHEBI:16236
   - CHEBI:17790
   - CHEBI:17790
   - CHEBI:137685
@@ -22958,7 +22958,7 @@ ea_b122b_chlorinated_naph:
   - biolink:ChemicalSubstance
   - biolink:ChemicalExposure
   identifiers:
-  - CHEBI_23116
+  - CHEBI:23116
   - CHEBI:16482
   - ENVO:00002180
   - ENVO:01000551
@@ -22985,8 +22985,8 @@ ea_b122d_fungicides:
   - biolink:ChemicalSubstance
   - biolink:ChemicalExposure
   identifiers:
-  - ENVO_01001041
-  - ENVO_01001058
+  - ENVO:01001041
+  - ENVO:01001058
   type: string
 ea_b122d_fungicidesVisit:
   categories:
@@ -23021,7 +23021,7 @@ ea_b122g_rodenticides:
   - biolink:ChemicalSubstance
   - biolink:ChemicalExposure
   identifiers:
-  - CHEBI_33288
+  - CHEBI:33288
   type: string
 ea_b122g_rodenticidesVisit:
   categories:
@@ -23192,8 +23192,8 @@ ea_b134c_rock_dust:
   categories:
   - biolink:EnvironmentalExposure
   identifiers:
-  - ENVO_01001398
-  - ENVO_01001108
+  - ENVO:01001398
+  - ENVO:01001108
   type: string
 ea_b134c_rock_dustVisit:
   categories:
@@ -23204,8 +23204,8 @@ ea_b134d_silica:
   categories:
   - biolink:EnvironmentalExposure
   identifiers:
-  - ENVO_01001282
-  - ENVO_01001285
+  - ENVO:01001282
+  - ENVO:01001285
   type: string
 ea_b134d_silicaVisit:
   categories:
@@ -23216,8 +23216,8 @@ ea_b134e_talc:
   categories:
   - biolink:EnvironmentalExposure
   identifiers:
-  - ENVO_01001285
-  - CHEBI_32178
+  - ENVO:01001285
+  - CHEBI:32178
   type: string
 ea_b134e_talcVisit:
   categories:
@@ -23271,7 +23271,7 @@ ea_b140b_carbon_dioxide:
   categories:
   - biolink:EnvironmentalExposure
   identifiers:
-  - CHEBI_23014
+  - CHEBI:23014
   type: string
 ea_b140b_carbon_dioxideVisit:
   categories:
@@ -23282,7 +23282,7 @@ ea_b140c_carbon_monoxide:
   categories:
   - biolink:EnvironmentalExposure
   identifiers:
-  - CHEBI_17245
+  - CHEBI:17245
   type: string
 ea_b140c_carbon_monoxideVisit:
   categories:
@@ -23293,7 +23293,7 @@ ea_b140d_ozone:
   categories:
   - biolink:EnvironmentalExposure
   identifiers:
-  - CHEBI_25812
+  - CHEBI:25812
   type: string
 ea_b140d_ozoneVisit:
   categories:
@@ -23363,7 +23363,7 @@ ea_b146c_radiation:
   - biolink:ChemicalSubstance
   - biolink:ChemicalExposure
   identifiers:
-  - ENVO_21001218
+  - ENVO:21001218
   - ENVO:01001857
   - ENVO:01001861
   - ENVO:01001864
@@ -23378,7 +23378,7 @@ ea_b146d_xrays:
   - biolink:ChemicalSubstance
   - biolink:ChemicalExposure
   identifiers:
-  - ENVO_21001217
+  - ENVO:21001217
   type: string
 ea_b146d_xraysVisit:
   categories:
@@ -23390,7 +23390,7 @@ ea_b146e_welding:
   - biolink:ChemicalSubstance
   - biolink:ChemicalExposure
   identifiers:
-  - ENVO_02000113
+  - ENVO:02000113
   type: string
 ea_b146e_weldingVisit:
   categories:
@@ -23520,8 +23520,8 @@ ea_b158_alkalis_d:
   - biolink:ChemicalSubstance
   - biolink:ChemicalExposure
   identifiers:
-  - CHEBI_22313
-  - CHEBI_22314
+  - CHEBI:22313
+  - CHEBI:22314
   type: string
 ea_b158_alkalis_dVisit:
   categories:
@@ -23545,7 +23545,7 @@ ea_b158b_calcium_oh:
   - biolink:ChemicalSubstance
   - biolink:ChemicalExposure
   identifiers:
-  - CHEBI_3311
+  - CHEBI:3311
   type: string
 ea_b158b_calcium_ohVisit:
   categories:
@@ -23581,8 +23581,8 @@ ea_b158e_alkalis_other:
   - biolink:ChemicalSubstance
   - biolink:ChemicalExposure
   identifiers:
-  - CHEBI_22313
-  - CHEBI_22314
+  - CHEBI:22313
+  - CHEBI:22314
   type: string
 ea_b158e_alkalis_otherVisit:
   categories:
@@ -23964,7 +23964,7 @@ ea_b182a_white_glue:
   - biolink:ChemicalSubstance
   - biolink:ChemicalExposure
   identifiers:
-  - ENVO_00003076
+  - ENVO:00003076
   type: string
 ea_b182a_white_glueVisit:
   categories:
@@ -23976,7 +23976,7 @@ ea_b182b_rubber_cement:
   - biolink:ChemicalSubstance
   - biolink:ChemicalExposure
   identifiers:
-  - ENVO_00003076
+  - ENVO:00003076
   type: string
 ea_b182b_rubber_cementVisit:
   categories:
@@ -23988,7 +23988,7 @@ ea_b182c_neoprene:
   - biolink:ChemicalSubstance
   - biolink:ChemicalExposure
   identifiers:
-  - ENVO_00003076
+  - ENVO:00003076
   type: string
 ea_b182c_neopreneVisit:
   categories:
@@ -24000,7 +24000,7 @@ ea_b182d_vinyl_a:
   - biolink:ChemicalSubstance
   - biolink:ChemicalExposure
   identifiers:
-  - ENVO_00003076
+  - ENVO:00003076
   type: string
 ea_b182d_vinyl_aVisit:
   categories:
@@ -24012,7 +24012,7 @@ ea_b182e_epoxy:
   - biolink:ChemicalSubstance
   - biolink:ChemicalExposure
   identifiers:
-  - ENVO_00003076
+  - ENVO:00003076
   type: string
 ea_b182e_epoxyVisit:
   categories:
@@ -24024,7 +24024,7 @@ ea_b182f_urethane:
   - biolink:ChemicalSubstance
   - biolink:ChemicalExposure
   identifiers:
-  - ENVO_00003076
+  - ENVO:00003076
   type: string
 ea_b182f_urethaneVisit:
   categories:
@@ -24036,7 +24036,7 @@ ea_b182g_polyimides:
   - biolink:ChemicalSubstance
   - biolink:ChemicalExposure
   identifiers:
-  - ENVO_00003076
+  - ENVO:00003076
   type: string
 ea_b182g_polyimidesVisit:
   categories:
@@ -24048,7 +24048,7 @@ ea_b182h_cyanoacrylates:
   - biolink:ChemicalSubstance
   - biolink:ChemicalExposure
   identifiers:
-  - ENVO_00003076
+  - ENVO:00003076
   type: string
 ea_b182h_cyanoacrylatesVisit:
   categories:
@@ -24060,7 +24060,7 @@ ea_b182i_wallpaper_paste:
   - biolink:ChemicalSubstance
   - biolink:ChemicalExposure
   identifiers:
-  - ENVO_00003076
+  - ENVO:00003076
   type: string
 ea_b182i_wallpaper_pasteVisit:
   categories:
@@ -28421,7 +28421,7 @@ he_q140_asbestos:
   - biolink:ChemicalSubstance
   - biolink:ChemicalExposure
   identifiers:
-  - ENVO_2000026
+  - ENVO:2000026
   type: string
 he_q140_asbestosVisit:
   categories:
@@ -28433,7 +28433,7 @@ he_q141_biohazards:
   - biolink:ChemicalSubstance
   - biolink:ChemicalExposure
   identifiers:
-  - ENVO_2000012
+  - ENVO:2000012
   type: string
 he_q141_biohazardsVisit:
   categories:
@@ -28445,9 +28445,9 @@ he_q142_chemicals:
   - biolink:ChemicalSubstance
   - biolink:ChemicalExposure
   identifiers:
-  - CHEBI_33286
-  - ENVO_2000012
-  - ENVO_2000023
+  - CHEBI:33286
+  - ENVO:2000012
+  - ENVO:2000023
   type: string
 he_q142_chemicalsVisit:
   categories:
@@ -28471,9 +28471,9 @@ he_q144_coal:
   - biolink:ChemicalSubstance
   - biolink:ChemicalExposure
   identifiers:
-  - ENVO_01001440
-  - ENVO_2000013
-  - ENVO_2000037
+  - ENVO:01001440
+  - ENVO:2000013
+  - ENVO:2000037
   type: string
 he_q144_coalVisit:
   categories:
@@ -28485,8 +28485,8 @@ he_q145_diesel:
   - biolink:ChemicalSubstance
   - biolink:ChemicalExposure
   identifiers:
-  - ENVO_2000037
-  - ENVO_2000012
+  - ENVO:2000037
+  - ENVO:2000012
   type: string
 he_q145_dieselVisit:
   categories:
@@ -28523,8 +28523,8 @@ he_q148_gasoline:
   - biolink:ChemicalSubstance
   - biolink:ChemicalExposure
   identifiers:
-  - ENVO_2000037
-  - ENVO_2000012
+  - ENVO:2000037
+  - ENVO:2000012
   type: string
 he_q148_gasolineVisit:
   categories:
@@ -28536,8 +28536,8 @@ he_q149_heavy_metals:
   - biolink:ChemicalSubstance
   - biolink:ChemicalExposure
   identifiers:
-  - ENVO_2000012
-  - ENVO_2000012
+  - ENVO:2000012
+  - ENVO:2000012
   type: string
 he_q149_heavy_metalsVisit:
   categories:
@@ -28549,7 +28549,7 @@ he_q150_pesticide:
   - biolink:ChemicalSubstance
   - biolink:ChemicalExposure
   identifiers:
-  - CHEBI_33287
+  - CHEBI:33287
   type: string
 he_q150_pesticideVisit:
   categories:
@@ -28609,7 +28609,7 @@ he_q155_xrays:
   - biolink:ChemicalSubstance
   - biolink:ChemicalExposure
   identifiers:
-  - ENVO_2000023
+  - ENVO:2000023
   type: string
 he_q155_xraysVisit:
   categories:
