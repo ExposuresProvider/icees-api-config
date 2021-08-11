@@ -1,0 +1,62 @@
+﻿Id	Code	Name	Standard Class	Domain	Vocab	Validity	Concept
+45609997	Z94.2	Lung transplant status	ICD10 code	Condition	ICD10	Valid	Non-standard
+1575314	T86.81	Complications of lung transplant	5-char nonbill code	Condition	ICD10CM	Valid	Non-standard
+35225406	Z94.2	Lung transplant status	4-char billing code	Condition	ICD10CM	Valid	Non-standard
+45551554	T86.811	Lung transplant failure	6-char billing code	Condition	ICD10CM	Valid	Non-standard
+45585330	T86.818	Other complications of lung transplant	6-char billing code	Condition	ICD10CM	Valid	Non-standard
+45590133	T86.810	Lung transplant rejection	6-char billing code	Condition	ICD10CM	Valid	Non-standard
+45604589	T86.812	Lung transplant infection	6-char billing code	Condition	ICD10CM	Valid	Non-standard
+45609396	T86.819	Unspecified complication of lung transplant	6-char billing code	Condition	ICD10CM	Valid	Non-standard
+1431957	T86.803	Lung transplant rejection (machine translation)	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+1435676	Z94.2	Lung transplant status	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+1435677	Z94.200	Lung transplant status	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+37097051	T86.81	Failure and rejection: lung transplant	ICD10 code	Condition	ICD10GM	Valid	Non-standard
+37097285	Z94.2	Lung transplant status	ICD10 code	Condition	ICD10GM	Valid	Non-standard
+44824847	996.84	Complications of transplanted lung	5-dig billing code	Condition	ICD9CM	Valid	Non-standard
+44828541	V42.6	Lung replaced by transplant	4-dig billing V code	Condition	ICD9CM	Valid	Non-standard
+765272	122501000119101	Lymphoproliferative disorder following lung transplant	Clinical Finding	Condition	SNOMED	Valid	Standard
+765898	129781000119105	Neoplasia following lung transplant	Clinical Finding	Condition	SNOMED	Valid	Standard
+4202145	432774005	Hyperacute rejection of lung transplant	Clinical Finding	Condition	SNOMED	Valid	Standard
+4207623	312603000	Lung transplant rejection	Clinical Finding	Condition	SNOMED	Valid	Standard
+4328973	431223003	Acute rejection of lung transplant	Clinical Finding	Condition	SNOMED	Valid	Standard
+4330381	431507002	Accelerated rejection of lung transplant	Clinical Finding	Condition	SNOMED	Valid	Standard
+4333202	432958009	Chronic rejection of lung transplant	Clinical Finding	Condition	SNOMED	Valid	Standard
+40510820	312602005	Lung transplant disorder	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+44810057	885881000000108	Lung transplant recipient	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+45765759	702775001	Lung transplant recipient	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+21499493	LA25534-1	Cardio/pulm: Lung transplant	Answer	Meas Value	LOINC	Valid	Standard
+36310010	LA28293-1	Lung transplant	Answer	Meas Value	LOINC	Valid	Standard
+45585834	Z48.24	Encounter for aftercare following lung transplant	5-char billing code	Observation	ICD10CM	Valid	Non-standard
+37097212	U55.2	Registration for a lung transplant	ICD10 code	Observation	ICD10GM	Valid	Non-standard
+3578143	255641000000102	Single lobe lung transplant	Undefined	Observation	SNOMED	Invalid	Non-standard
+3585495	784221000000106	Lung transplant planned	Undefined	Observation	SNOMED	Invalid	Non-standard
+4022649	105466004	Donor for lung transplant	Social Context	Observation	SNOMED	Valid	Standard
+4059465	161672008	H/O: lung recipient	Context-dependent	Observation	SNOMED	Valid	Standard
+37017004	713176007	Cadaver donor for lung transplant	Social Context	Observation	SNOMED	Valid	Standard
+44805123	784211000000100	Lung transplant planned	Context-dependent	Observation	SNOMED	Invalid	Non-standard
+45766934	704202004	Lung transplant planned	Context-dependent	Observation	SNOMED	Valid	Standard
+2100876	00580	Anesthesia for heart transplant or heart/lung transplant	CPT4	Procedure	CPT4	Valid	Standard
+"2106871	32851	Lung transplant, single; without cardiopulmonary bypass	CPT4	Procedure	CPT4	Valid	Standard"
+"2106882	32852	Lung transplant, single; with cardiopulmonary bypass	CPT4	Procedure	CPT4	Valid	Standard"
+"2106883	32853	Lung transplant, double (bilateral sequential or en bloc); without cardiopulmonary bypass	CPT4	Procedure	CPT4	Valid	Standard"
+"2106884	32854	Lung transplant, double (bilateral sequential or en bloc); with cardiopulmonary bypass	CPT4	Procedure	CPT4	Valid	Standard"
+"45887574	1006041	Lung transplant, double (bilateral sequential or en bloc)	CPT4 Hierarchy	Procedure	CPT4	Valid	Classification"
+"45887717	1006038	Lung transplant, single	CPT4 Hierarchy	Procedure	CPT4	Valid	Classification"
+2001372	33.5	Lung transplant	3-dig nonbill code	Procedure	ICD9Proc	Valid	Non-standard
+"2001373	33.50	Lung transplantation, not otherwise specified	4-dig billing code	Procedure	ICD9Proc	Valid	Non-standard"
+2001374	33.51	Unilateral lung transplantation	4-dig billing code	Procedure	ICD9Proc	Valid	Non-standard
+2001375	33.52	Bilateral lung transplantation	4-dig billing code	Procedure	ICD9Proc	Valid	Non-standard
+36914735	33.5	Lung transplant	3-dig nonbill code	Procedure	ICD9ProcCN	Valid	Non-standard
+3523471	169761000000104	Heart and lung transplant	Procedure	Procedure	SNOMED	Invalid	Non-standard
+3525057	255621000000109	Double lung transplant	Procedure	Procedure	SNOMED	Invalid	Non-standard
+3525058	255631000000106	Single lung transplant	Procedure	Procedure	SNOMED	Invalid	Non-standard
+4138959	32477003	Heart-lung transplant with recipient cardiectomy-pneumonectomy	Procedure	Procedure	SNOMED	Valid	Standard
+4228818	8835008	Anesthesia for heart/lung transplant	Procedure	Procedure	SNOMED	Valid	Standard
+4335479	232660006	Bilateral sequential single lung transplant	Procedure	Procedure	SNOMED	Valid	Standard
+4337138	88039007	Transplant of lung	Procedure	Procedure	SNOMED	Valid	Standard
+4337611	232657004	Single lung transplant	Procedure	Procedure	SNOMED	Valid	Standard
+4337612	232658009	Double lung transplant	Procedure	Procedure	SNOMED	Valid	Standard
+4339619	232659001	Double lung transplant as a block	Procedure	Procedure	SNOMED	Valid	Standard
+40313038	149133003	Lung transplant	Procedure	Procedure	SNOMED	Invalid	Non-standard
+44790094	226461000000108	Single lobe lung transplant	Procedure	Procedure	SNOMED	Invalid	Non-standard
+44792517	362101000000103	Lung transplant biopsy sample	Specimen	Specimen	SNOMED	Valid	Standard

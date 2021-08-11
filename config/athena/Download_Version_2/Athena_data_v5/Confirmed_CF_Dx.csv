@@ -1,0 +1,275 @@
+﻿Id	Code	Name	Standard Class	Domain	Vocab	Validity	Concept
+45537989	E84	Cystic fibrosis	ICD10 Hierarchy	Condition	ICD10	Valid	Non-standard
+"45576477	E84.9	Cystic fibrosis, unspecified	ICD10 code	Condition	ICD10	Valid	Non-standard"
+45605435	E84.0	Cystic fibrosis with pulmonary manifestations	ICD10 code	Condition	ICD10	Valid	Non-standard
+45605436	E84.1	Cystic fibrosis with intestinal manifestations	ICD10 code	Condition	ICD10	Valid	Non-standard
+45605437	E84.8	Cystic fibrosis with other manifestations	ICD10 code	Condition	ICD10	Valid	Non-standard
+45606711	P75	Meconium ileus in cystic fibrosis	ICD10 Hierarchy	Condition	ICD10	Valid	Non-standard
+1568074	E84	Cystic fibrosis	3-char nonbill code	Condition	ICD10CM	Valid	Non-standard
+1568075	E84.1	Cystic fibrosis with intestinal manifestations	4-char nonbill code	Condition	ICD10CM	Valid	Non-standard
+35207082	E84.0	Cystic fibrosis with pulmonary manifestations	4-char billing code	Condition	ICD10CM	Valid	Non-standard
+35207083	E84.8	Cystic fibrosis with other manifestations	4-char billing code	Condition	ICD10CM	Valid	Non-standard
+"35207084	E84.9	Cystic fibrosis, unspecified	4-char billing code	Condition	ICD10CM	Valid	Non-standard"
+45533049	E84.11	Meconium ileus in cystic fibrosis	5-char billing code	Condition	ICD10CM	Valid	Non-standard
+45595837	E84.19	Cystic fibrosis with other intestinal manifestations	5-char billing code	Condition	ICD10CM	Valid	Non-standard
+45605107	Z14.1	Cystic fibrosis carrier	4-char billing code	Condition	ICD10CM	Valid	Non-standard
+1410052	E84	Cystic fibrosis	ICD10 Hierarchy	Condition	ICD10CN	Valid	Non-standard
+1410053	E84.0	Cystic fibrosis with pulmonary manifestations	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+1410054	E84.000	Cystic fibrosis with pulmonary manifestations	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+1410055	E84.1	Cystic fibrosis with intestinal manifestations	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+1410056	E84.100	Cystic fibrosis with intestinal manifestations	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+1410058	E84.8	Cystic fibrosis with other manifestations	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+1410059	E84.800	Cystic fibrosis with other manifestations	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+1410060	E84.801	Cystic fibrosis with mixed performance (machine translation)	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+"1410061	E84.9	Cystic fibrosis, unspecified	ICD10 code	Condition	ICD10CN	Valid	Non-standard"
+"1410062	E84.900	Cystic fibrosis, unspecified	ICD10 code	Condition	ICD10CN	Valid	Non-standard"
+1410063	E84.901	Cystic fibrosis (machine translation)	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+1425035	P75	Meconium ileus in cystic fibrosis	ICD10 Hierarchy	Condition	ICD10CN	Valid	Non-standard
+37082493	E84	Cystic fibrosis	ICD10 Hierarchy	Condition	ICD10GM	Valid	Non-standard
+37082494	E84.0	Cystic fibrosis with pulmonary manifestations	ICD10 code	Condition	ICD10GM	Valid	Non-standard
+37082495	E84.1	Cystic fibrosis with intestinal manifestations	ICD10 code	Condition	ICD10GM	Valid	Non-standard
+37082496	E84.8	Cystic fibrosis with other manifestations	ICD10 code	Condition	ICD10GM	Valid	Non-standard
+37082497	E84.80	Cystic fibrosis with pulmonary and bowel manifestations	ICD10 code	Condition	ICD10GM	Valid	Non-standard
+37082498	E84.87	Cystic fibrosis with other multiple manifestations	ICD10 code	Condition	ICD10GM	Valid	Non-standard
+37082499	E84.88	Cystic fibrosis with other manifestations	ICD10 code	Condition	ICD10GM	Valid	Non-standard
+"37082500	E84.9	Cystic fibrosis, unspecified	ICD10 code	Condition	ICD10GM	Valid	Non-standard"
+37092757	P75	Meconium ileus in cystic fibrosis	ICD10 Hierarchy	Condition	ICD10GM	Valid	Non-standard
+44819520	277.02	Cystic fibrosis with pulmonary manifestations	5-dig billing code	Condition	ICD9CM	Valid	Non-standard
+44819521	277.09	Cystic fibrosis with other manifestations	5-dig billing code	Condition	ICD9CM	Valid	Non-standard
+44821799	277.00	Cystic fibrosis without mention of meconium ileus	5-dig billing code	Condition	ICD9CM	Valid	Non-standard
+44824090	277.03	Cystic fibrosis with gastrointestinal manifestations	5-dig billing code	Condition	ICD9CM	Valid	Non-standard
+44826475	277.0	Cystic fibrosis	4-dig nonbill code	Condition	ICD9CM	Valid	Non-standard
+44835550	V83.81	Cystic fibrosis gene carrier	5-dig billing V code	Condition	ICD9CM	Valid	Non-standard
+44836934	277.01	Cystic fibrosis with meconium ileus	5-dig billing code	Condition	ICD9CM	Valid	Non-standard
+45610477	D003550	Cystic Fibrosis	Main Heading	Condition	MeSH	Valid	Non-standard
+193174	86092005	Cystic fibrosis with meconium ileus	Clinical Finding	Condition	SNOMED	Valid	Standard
+194325	190909002	Cystic fibrosis with intestinal manifestations	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+254320	86555001	Cystic fibrosis of the lung	Clinical Finding	Condition	SNOMED	Valid	Standard
+434615	81423003	Cystic fibrosis without meconium ileus	Clinical Finding	Condition	SNOMED	Valid	Standard
+441267	190905008	Cystic fibrosis	Clinical Finding	Condition	SNOMED	Valid	Standard
+3520892	658391000000105	Cystic fibrosis with other manifestations	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3528816	384301000000109	Cystic fibrosis gene carrier	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3530488	526101000000108	Liver disease due to cystic fibrosis	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3535364	604421000000104	Cystic fibrosis NOS	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3542445	706991000000106	Arthropathy in cystic fibrosis	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3542446	707001000000100	Cystic fibrosis with distal intestinal obstruction syndrome	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3542447	707011000000103	Liver disease due to cystic fibrosis	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3544130	777381000000100	Carrier of cystic fibrosis gene	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3544151	778131000000103	Cystic fibrosis related cirrhosis	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3545007	807631000000102	Cystic fibrosis gene carrier	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3545960	859051000000100	Exacerbation of cystic fibrosis	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3546157	874641000000107	Newborn blood spot screening programme - cystic fibrosis not screened for or screening incomplete	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3547256	946751000000103	Cystic fibrosis screening related finding	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+"3547269	947111000000100	Cystic fibrosis screening, too young for reliable screening	Clinical Finding	Condition	SNOMED	Invalid	Non-standard"
+"3547270	947131000000108	Cystic fibrosis screening,sample taken too soon after transfusion (more than 72 hours)	Clinical Finding	Condition	SNOMED	Invalid	Non-standard"
+"3547271	947151000000101	Cystic fibrosis screening, insufficient sample	Clinical Finding	Condition	SNOMED	Invalid	Non-standard"
+"3547272	947171000000105	Cystic fibrosis screening, unsuitable sample (blood quality): incorrect blood application	Clinical Finding	Condition	SNOMED	Invalid	Non-standard"
+"3547273	947191000000109	Cystic fibrosis screening, unsuitable sample (blood quality): compressed/damaged	Clinical Finding	Condition	SNOMED	Invalid	Non-standard"
+"3547275	947211000000108	Cystic fibrosis screening, unsuitable sample: day 0 and day 5 on same card	Clinical Finding	Condition	SNOMED	Invalid	Non-standard"
+"3547276	947231000000100	Cystic fibrosis screening, unsuitable sample: possible faecal contamination	Clinical Finding	Condition	SNOMED	Invalid	Non-standard"
+"3547277	947251000000107	Cystic fibrosis screening, unsuitable sample: NHS number missing/not accurately recorded	Clinical Finding	Condition	SNOMED	Invalid	Non-standard"
+"3547279	947291000000104	Cystic fibrosis screening, unsuitable sample: date of sample missing/not accurately recorded	Clinical Finding	Condition	SNOMED	Invalid	Non-standard"
+"3547280	947311000000103	Cystic fibrosis screening, unsuitable sample: date of birth not accurately matched	Clinical Finding	Condition	SNOMED	Invalid	Non-standard"
+"3547281	947331000000106	Cystic fibrosis screening, unsuitable sample: expired card used	Clinical Finding	Condition	SNOMED	Invalid	Non-standard"
+"3547282	947371000000108	Cystic fibrosis screening, unsuitable sample: damaged in transit	Clinical Finding	Condition	SNOMED	Invalid	Non-standard"
+"3547283	947411000000107	Cystic fibrosis not screened for or screening incomplete: more than 8 weeks, too old for screening	Clinical Finding	Condition	SNOMED	Invalid	Non-standard"
+"3547285	947501000000109	Cystic fibrosis not screened for or screening incomplete, moved out of area	Clinical Finding	Condition	SNOMED	Invalid	Non-standard"
+"3547286	947521000000100	Cystic fibrosis not screened for or screening incomplete, not contactable, reasonable efforts made	Clinical Finding	Condition	SNOMED	Invalid	Non-standard"
+"3547287	947541000000107	Cystic fibrosis not screened for or screening incomplete, baby died	Clinical Finding	Condition	SNOMED	Invalid	Non-standard"
+"3547290	947351000000104	Cystic fibrosis screening, unsuitable sample: more than 14 days in transit, too old for analysis	Clinical Finding	Condition	SNOMED	Invalid	Non-standard"
+"3547672	965271000000100	Cystic fibrosis not screened for or screening incomplete, not required, previous valid result	Clinical Finding	Condition	SNOMED	Invalid	Non-standard"
+"3561131	947391000000107	Cystic fibrosis screening, inconclusive result	Clinical Finding	Condition	SNOMED	Invalid	Non-standard"
+3568427	286451000000100	Cystic fibrosis related diabetes mellitus	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+4071743	206471004	Perinatal jaundice due to cystic fibrosis	Clinical Finding	Condition	SNOMED	Valid	Standard
+4101436	190911006	Cystic fibrosis NOS	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+4127073	236793007	Azoospermia with absent vasa in association with cystic fibrosis trait	Clinical Finding	Condition	SNOMED	Valid	Standard
+4141399	307732006	Cystic fibrosis with other manifestations	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+4141669	427022004	Liver disease due to cystic fibrosis	Clinical Finding	Condition	SNOMED	Valid	Standard
+4143529	426705001	Diabetes mellitus associated with cystic fibrosis	Clinical Finding	Condition	SNOMED	Valid	Standard
+4144583	427089005	Diabetes mellitus due to cystic fibrosis	Clinical Finding	Condition	SNOMED	Valid	Standard
+4341770	235978006	Cystic fibrosis of pancreas	Clinical Finding	Condition	SNOMED	Valid	Standard
+36714965	720401009	Cystic fibrosis with gastritis and megaloblastic anemia syndrome	Clinical Finding	Condition	SNOMED	Valid	Standard
+36715501	721197001	Polyneuropathy due to classical cystic fibrosis	Clinical Finding	Condition	SNOMED	Valid	Standard
+37110724	725052002	Fetal cystic fibrosis	Clinical Finding	Condition	SNOMED	Valid	Standard
+37309675	16434671000119101	Cystic fibrosis transmembrane conductance regulator related metabolic syndrome	Clinical Finding	Condition	SNOMED	Valid	Standard
+37311779	817966005	Distal intestinal obstruction syndrome due to cystic fibrosis	Clinical Finding	Condition	SNOMED	Valid	Standard
+37396320	716088000	Follicular hamartoma with alopecia and cystic fibrosis syndrome	Clinical Finding	Condition	SNOMED	Valid	Standard
+40319144	156177002	(Fetus with hereditary disease) or (cystic fibrosis in pregnancy)	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40321239	154767009	Cystic fibrosis	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40358575	267334004	(Fetus with hereditary disease) or (cystic fibrosis in pregnancy)	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40389085	190906009	Cystic fibrosis with no meconium ileus	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40389086	190907000	Meconium ileus in cystic fibrosis	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40389087	190908005	Cystic fibrosis with pulmonary manifestations	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40389089	190910007	Cystic fibrosis with other manifestations	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40397190	199524005	Fetus with chromosomal abnormality (& suspect: [CF] or [mongol])	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40479565	441520002	Carrier of cystic fibrosis gene mutation	Clinical Finding	Condition	SNOMED	Valid	Standard
+40642791	85809002	Cystic fibrosis	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+42538541	762269004	Classical cystic fibrosis	Clinical Finding	Condition	SNOMED	Valid	Standard
+42538542	762270003	Atypical cystic fibrosis	Clinical Finding	Condition	SNOMED	Valid	Standard
+42538543	762271004	Subclinical cystic fibrosis	Clinical Finding	Condition	SNOMED	Valid	Standard
+44782927	698940002	Arthropathy associated with cystic fibrosis	Clinical Finding	Condition	SNOMED	Valid	Standard
+44796354	302771000000109	Cystic fibrosis not screened for or screening incomplete	Clinical Finding	Condition	SNOMED	Valid	Standard
+44802278	526071000000104	Arthropathy in cystic fibrosis	Clinical Finding	Condition	SNOMED	Valid	Standard
+44802279	526091000000100	Cystic fibrosis with distal intestinal obstruction syndrome	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+44805713	776981000000103	Cirrhosis associated with cystic fibrosis	Clinical Finding	Condition	SNOMED	Valid	Standard
+44808532	859041000000103	Exacerbation of cystic fibrosis	Clinical Finding	Condition	SNOMED	Valid	Standard
+45768892	707419009	Osteoporosis due to cystic fibrosis	Clinical Finding	Condition	SNOMED	Valid	Standard
+45768915	707450006	Pancreatic insufficiency due to cystic fibrosis of pancreas	Clinical Finding	Condition	SNOMED	Valid	Standard
+45768983	707536003	Digestive system manifestation co-occurrent and due to cystic fibrosis	Clinical Finding	Condition	SNOMED	Valid	Standard
+45768987	707542004	Otorhinolaryngological manifestation co-occurrent and due to cystic fibrosis	Clinical Finding	Condition	SNOMED	Valid	Standard
+45769019	707577004	Female infertility due to cystic fibrosis	Clinical Finding	Condition	SNOMED	Valid	Standard
+45769020	707578009	Perforation of intestine due to cystic fibrosis with meconium ileus	Clinical Finding	Condition	SNOMED	Valid	Standard
+45769146	707734002	Elevated liver enzymes level due to cystic fibrosis	Clinical Finding	Condition	SNOMED	Valid	Standard
+45769170	707766007	Exocrine pancreatic manifestation co-occurrent and due to cystic fibrosis	Clinical Finding	Condition	SNOMED	Valid	Standard
+45771017	707420003	Portal hypertension due to cystic fibrosis	Clinical Finding	Condition	SNOMED	Valid	Standard
+45772934	707418001	Male infertility due to cystic fibrosis	Clinical Finding	Condition	SNOMED	Valid	Standard
+46284461	946741000000101	Cystic fibrosis screening related finding	Clinical Finding	Condition	SNOMED	Valid	Standard
+"46284474	947101000000102	Cystic fibrosis screening, too young for reliable screening	Clinical Finding	Condition	SNOMED	Valid	Standard"
+"46284475	947121000000106	Cystic fibrosis screening,sample taken too soon after blood transfusion (less than 72 hours)	Clinical Finding	Condition	SNOMED	Valid	Standard"
+"46284476	947141000000104	Cystic fibrosis screening, insufficient sample	Clinical Finding	Condition	SNOMED	Valid	Standard"
+"46284477	947161000000103	Cystic fibrosis screening, unsuitable sample (blood quality): incorrect blood application	Clinical Finding	Condition	SNOMED	Valid	Standard"
+"46284478	947201000000106	Cystic fibrosis screening, unsuitable sample: day 0 and day 5 on same card	Clinical Finding	Condition	SNOMED	Valid	Standard"
+"46284479	947221000000102	Cystic fibrosis screening, unsuitable sample: possible faecal contamination	Clinical Finding	Condition	SNOMED	Valid	Standard"
+"46284480	947241000000109	Cystic fibrosis screening, unsuitable sample: NHS number missing/not accurately recorded	Clinical Finding	Condition	SNOMED	Valid	Standard"
+"46284482	947301000000100	Cystic fibrosis screening, unsuitable sample: date of birth not accurately matched	Clinical Finding	Condition	SNOMED	Valid	Standard"
+"46284483	947321000000109	Cystic fibrosis screening, unsuitable sample: expired card used	Clinical Finding	Condition	SNOMED	Valid	Standard"
+"46284484	947341000000102	Cystic fibrosis screening, unsuitable sample: more than 14 days in transit, too old for analysis	Clinical Finding	Condition	SNOMED	Valid	Standard"
+"46284485	947361000000101	Cystic fibrosis screening, unsuitable sample: damaged in transit	Clinical Finding	Condition	SNOMED	Valid	Standard"
+"46284486	947381000000105	Cystic fibrosis screening, inconclusive result	Clinical Finding	Condition	SNOMED	Valid	Standard"
+"46284487	947401000000105	Cystic fibrosis not screened for or screening incomplete: more than 8 weeks, too old for screening	Clinical Finding	Condition	SNOMED	Valid	Standard"
+"46284491	947491000000103	Cystic fibrosis not screened for or screening incomplete, moved out of area	Clinical Finding	Condition	SNOMED	Valid	Standard"
+"46284492	947511000000106	Cystic fibrosis not screened for or screening incomplete, not contactable, reasonable efforts made	Clinical Finding	Condition	SNOMED	Valid	Standard"
+"46284493	947531000000103	Cystic fibrosis not screened for or screening incomplete, baby died	Clinical Finding	Condition	SNOMED	Valid	Standard"
+"46284494	947551000000105	Cystic fibrosis not screened for or screening incomplete, not required, previous valid result	Clinical Finding	Condition	SNOMED	Valid	Standard"
+"46286977	947181000000107	Cystic fibrosis screening, unsuitable sample (blood quality): compressed/damaged	Clinical Finding	Condition	SNOMED	Valid	Standard"
+"46286978	947281000000101	Cystic fibrosis screening, unsuitable sample: date of sample missing/not accurately recorded	Clinical Finding	Condition	SNOMED	Valid	Standard"
+4212536	328285005	Cystic fibrosis food	Pharma/Biol Product	Device	SNOMED	Valid	Standard
+706447	LP173759-4	Cystic fibrosis action plan	Doc Kind	Meas Value	LOINC	Valid	Standard
+36210125	LA22202-8	Cystic fibrosis	Answer	Meas Value	LOINC	Valid	Standard
+36309422	LA25637-2	Cardio/pulm: Cystic fibrosis	Answer	Meas Value	LOINC	Valid	Standard
+"42742292	81220	CFTR (cystic fibrosis transmembrane conductance regulator) (eg, cystic fibrosis) gene analysis; common variants (eg, ACMG/ACOG guidelines)	CPT4	Measurement	CPT4	Valid	Standard"
+"42742293	81221	CFTR (cystic fibrosis transmembrane conductance regulator) (eg, cystic fibrosis) gene analysis; known familial variants	CPT4	Measurement	CPT4	Valid	Standard"
+"42742294	81222	CFTR (cystic fibrosis transmembrane conductance regulator) (eg, cystic fibrosis) gene analysis; duplication/deletion variants	CPT4	Measurement	CPT4	Valid	Standard"
+"42742295	81223	CFTR (cystic fibrosis transmembrane conductance regulator) (eg, cystic fibrosis) gene analysis; full gene sequence	CPT4	Measurement	CPT4	Valid	Standard"
+"42742296	81224	CFTR (cystic fibrosis transmembrane conductance regulator) (eg, cystic fibrosis) gene analysis; intron 8 poly-T analysis (eg, male infertility)	CPT4	Measurement	CPT4	Valid	Standard"
+"45889347	1020914	CFTR (cystic fibrosis transmembrane conductance regulator) (eg, cystic fibrosis) gene analysis	CPT4 Hierarchy	Measurement	CPT4	Valid	Classification"
+44830859	V77.6	Screening for cystic fibrosis	4-dig billing V code	Measurement	ICD9CM	Valid	Non-standard
+1176212	90256-9	CFTR gene full mutation analysis in Blood or Tissue by Sequencing	Lab Test	Measurement	LOINC	Valid	Standard
+3019398	21654-9	CFTR gene mutations found [Identifier] in Blood or Tissue by Molecular genetics method Nominal	Lab Test	Measurement	LOINC	Valid	Standard
+3022209	21177-1	Deprecated CFTR gene mutations found [Identifier] in Blood or Tissue by Molecular genetics method Nominal	Lab Test	Measurement	LOINC	Invalid	Non-standard
+3024572	623-9	Bacteria identified in Sputum by Cystic fibrosis respiratory culture	Lab Test	Measurement	LOINC	Valid	Standard
+3028818	42938-1	CFTR gene allele 1 [Presence] in Blood or Tissue by Molecular genetics method	Lab Test	Measurement	LOINC	Valid	Standard
+3029718	50998-4	CFTR gene mutations tested for [#] in Blood or Tissue by Molecular genetics method	Lab Test	Measurement	LOINC	Valid	Standard
+3030585	34706-2	CFTR gene c.3199del6 [Presence] in Blood or Tissue by Molecular genetics method	Lab Test	Measurement	LOINC	Valid	Standard
+3031161	34729-4	CFTR gene.p.Arg117His+5T variant [Presence] in Blood or Tissue by Molecular genetics method	Lab Test	Measurement	LOINC	Valid	Standard
+3031489	34718-7	CFTR gene mutations found [Identifier] in Amniotic fluid by Molecular genetics method Nominal	Lab Test	Measurement	LOINC	Valid	Standard
+3034307	42939-9	CFTR gene allele 2 [Presence] in Blood or Tissue by Molecular genetics method	Lab Test	Measurement	LOINC	Valid	Standard
+3035101	21655-6	CFTR gene.p.Phe508del [Presence] in Blood or Tissue by Molecular genetics method	Lab Test	Measurement	LOINC	Valid	Standard
+3035686	21656-4	CFTR gene mutations tested for in Blood or Tissue by Molecular genetics method Nominal	Lab Test	Measurement	LOINC	Valid	Standard
+3039782	53789-4	CFTR gene.p.IVS8 polyT 7T/9T [presence] in Blood or Tissue by Molecular genetics method	Lab Test	Measurement	LOINC	Valid	Standard
+3047055	43370-6	CFTR gene p.IVS8 PolyT [Presence] in Blood or Tissue by Molecular genetics method	Lab Test	Measurement	LOINC	Valid	Standard
+3047496	38456-0	CFTR gene c.3849+10kbC>T [Presence] in Blood or Tissue by Molecular genetics method	Lab Test	Measurement	LOINC	Valid	Standard
+3047640	38447-9	CFTR gene c.711+1G>T [Presence] in Blood or Tissue by Molecular genetics method	Lab Test	Measurement	LOINC	Valid	Standard
+3047791	38451-1	CFTR gene c.2789+5G>A [Presence] in Blood or Tissue by Molecular genetics method	Lab Test	Measurement	LOINC	Valid	Standard
+3047841	38452-9	CFTR gene c.3120+1G>A [Presence] in Blood or Tissue by Molecular genetics method	Lab Test	Measurement	LOINC	Valid	Standard
+3048713	38448-7	CFTR gene p.Ala455Glu [Presence] in Blood or Tissue by Molecular genetics method	Lab Test	Measurement	LOINC	Valid	Standard
+3049306	38450-3	CFTR gene c.2184delA [Presence] in Blood or Tissue by Molecular genetics method	Lab Test	Measurement	LOINC	Valid	Standard
+3050252	38404-0	CFTR gene targeted mutation analysis in Blood or Tissue by Molecular genetics method	Lab Test	Measurement	LOINC	Valid	Standard
+3050949	54083-1	CFTR gene mutations found [Identifier] in DBS by Molecular genetics method Nominal	Lab Test	Measurement	LOINC	Valid	Standard
+3051146	38449-5	CFTR gene c.1078delT [Presence] in Blood or Tissue by Molecular genetics method	Lab Test	Measurement	LOINC	Valid	Standard
+3051579	54078-1	Cystic fibrosis newborn screening panel	Lab Test	Measurement	LOINC	Valid	Standard
+3051677	46769-6	Cystic fibrosis newborn screen interpretation	Lab Test	Measurement	LOINC	Valid	Standard
+3051819	38453-7	CFTR gene c.3659delC [Presence] in Blood or Tissue by Molecular genetics method	Lab Test	Measurement	LOINC	Valid	Standard
+3052727	38455-2	CFTR gene c.621+1G>T [Presence] in Blood or Tissue by Molecular genetics method	Lab Test	Measurement	LOINC	Valid	Standard
+3052813	38454-5	CFTR gene p.Gly85Glu [Presence] in Blood or Tissue by Molecular genetics method	Lab Test	Measurement	LOINC	Valid	Standard
+3053143	46989-0	CFTR gene targeted mutation analysis in Amniotic fluid by Molecular genetics method	Lab Test	Measurement	LOINC	Valid	Standard
+21492474	78382-9	CFTR gene mutations found [Identifier] in Blood or Tissue by MS.MALDI-TOF Nominal	Lab Test	Measurement	LOINC	Valid	Standard
+21492789	79425-5	Bacteria identified in Lower respiratory specimen by Cystic fibrosis respiratory culture	Lab Test	Measurement	LOINC	Valid	Standard
+36207193	LP261070-9	Cystic fibrosis action plan | {Setting}	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+36209856	LP258951-5	Cystic fibrosis | DBS	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+37045024	LP386878-5	Cystic fibrosis newborn screening panel | Patient | Chemistry Panels	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37057229	LP385902-4	Cystic fibrosis | DBS | Chemistry - non-challenge	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+40761036	57930-0	CFTR gene p.Asp1152His [Presence] in Blood or Tissue by Molecular genetics method	Lab Test	Measurement	LOINC	Valid	Standard
+42868718	70244-9	CFTR gene c.394delTT [Presence] in Blood or Tissue by Molecular genetics method	Lab Test	Measurement	LOINC	Valid	Standard
+42870541	69480-2	CFTR gene deletion and duplication mutation analysis in Blood or Tissue by MLPA	Lab Test	Measurement	LOINC	Valid	Standard
+44786805	74148-8	Cystic fibrosis action plan	Clinical Observation	Measurement	LOINC	Valid	Standard
+46236731	77017-2	CFTR gene mutation analysis [interpretation] in Blood or Tissue Qualitative by MS.MALDI	Lab Test	Measurement	LOINC	Valid	Standard
+3556510	382241000000108	Cystic fibrosis 20 common mutation test	Procedure	Measurement	SNOMED	Invalid	Non-standard
+3556511	382251000000106	Cystic fibrosis 29 common mutation test	Procedure	Measurement	SNOMED	Invalid	Non-standard
+4036695	117254004	Cystic fibrosis respiratory culture	Procedure	Measurement	SNOMED	Valid	Standard
+4062654	171191008	Cystic fibrosis screening	Procedure	Measurement	SNOMED	Valid	Standard
+4198134	314080004	Cystic fibrosis screening test	Procedure	Measurement	SNOMED	Invalid	Non-standard
+4314290	86964003	Cystic fibrosis sweat test	Procedure	Measurement	SNOMED	Valid	Standard
+37393350	1015871000000108	Cystic fibrosis screening test	Observable Entity	Measurement	SNOMED	Valid	Standard
+37394208	1028351000000108	Cystic fibrosis screening	Observable Entity	Measurement	SNOMED	Valid	Standard
+40308883	144405008	Cystic fibrosis screening test	Procedure	Measurement	SNOMED	Invalid	Non-standard
+40309758	148406000	Cystic fibrosis screening	Procedure	Measurement	SNOMED	Invalid	Non-standard
+40330733	167167007	Cystic fibrosis screening test	Procedure	Measurement	SNOMED	Invalid	Non-standard
+40478878	444260001	Cystic fibrosis 20 common mutation test	Procedure	Measurement	SNOMED	Valid	Standard
+40481949	443530000	Cystic fibrosis 29 common mutation test	Procedure	Measurement	SNOMED	Valid	Standard
+44801041	466821000000105	[V]Screening for cystic fibrosis	Context-dependent	Measurement	SNOMED	Invalid	Non-standard
+45770234	925071000000102	Cystic fibrosis transmembrane conductance regulator linkage genetic test	Procedure	Measurement	SNOMED	Valid	Standard
+45770235	925081000000100	Cystic fibrosis transmembrane conductance regulator single mutation genetic test	Procedure	Measurement	SNOMED	Valid	Standard
+45770236	925091000000103	Cystic fibrosis transmembrane conductance regulator targeted genetic test	Procedure	Measurement	SNOMED	Valid	Standard
+45770239	925131000000100	Cystic fibrosis transmembrane conductance regulator comprehensive genetic test	Procedure	Measurement	SNOMED	Valid	Standard
+2213389	8A	CFTR (cystic fibrosis) (Deprecated)	CPT4	Observation	CPT4	Valid	Standard
+1004064	LP416833-4	Cystic fibrosis action plan | {Setting} | Document ontology	LOINC Hierarchy	Observation	LOINC	Valid	Classification
+1028953	LP6212-7	Cystic fibrosis respiratory culture	LOINC Method	Observation	LOINC	Valid	Non-standard
+37029187	LP385903-2	Cystic fibrosis newborn screening comment/discussion | DBS | Chemistry - non-challenge	LOINC Hierarchy	Observation	LOINC	Valid	Classification
+37062828	LP76303-4	Cystic fibrosis newborn screening panel	LOINC Component	Observation	LOINC	Valid	Non-standard
+37069661	LP97617-2	Cystic fibrosis newborn screening comment/discussion	LOINC Component	Observation	LOINC	Valid	Non-standard
+37078413	LP56779-9	Cystic fibrosis	LOINC Component	Observation	LOINC	Valid	Non-standard
+40760818	57707-2	Cystic fibrosis newborn screening comment-discussion	Clinical Observation	Observation	LOINC	Valid	Standard
+40778665	LP96704-9	Cystic fibrosis | Dried blood spot	LOINC Hierarchy	Observation	LOINC	Invalid	Non-standard
+44787341	LP173735-4	Cystic fibrosis action plan	LOINC Component	Observation	LOINC	Valid	Non-standard
+3526776	302461000000109	Cystic fibrosis not suspected	Context-dependent	Observation	SNOMED	Invalid	Non-standard
+3545307	831201000000107	Cystic fibrosis not suspected	Context-dependent	Observation	SNOMED	Invalid	Non-standard
+3546200	875541000000109	Cystic fibrosis screening declined	Context-dependent	Observation	SNOMED	Invalid	Non-standard
+3546207	875681000000100	Suspected cystic fibrosis	Context-dependent	Observation	SNOMED	Invalid	Non-standard
+"3547265	947051000000102	Cystic fibrosis screening declined, screened in UK (as reported by parents) with no evidence of result	Context-dependent	Observation	SNOMED	Invalid	Non-standard"
+"3547266	947071000000106	Cystic fibrosis screening declined, screened outside UK with evidence of result	Context-dependent	Observation	SNOMED	Invalid	Non-standard"
+"3547267	947091000000105	Cystic fibrosis screening declined, screened outside UK with no evidence of result	Context-dependent	Observation	SNOMED	Invalid	Non-standard"
+"3547690	965681000000100	Cystic fibrosis screening declined, no history of being screened	Context-dependent	Observation	SNOMED	Invalid	Non-standard"
+3555183	302281000000101	Cystic fibrosis further sample required	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+3557109	515621000000105	Cystic fibrosis monitoring	Procedure	Observation	SNOMED	Invalid	Non-standard
+3557110	515641000000103	Cystic fibrosis annual review	Procedure	Observation	SNOMED	Invalid	Non-standard
+3558309	709831000000109	Seen in cystic fibrosis clinic	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+3558310	709841000000100	Seen in cystic fibrosis clinic	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+3559947	874651000000105	Newborn blood spot screening programme - cystic fibrosis repeat screening with further sample required	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+3559948	874661000000108	Newborn blood spot screening programme - cystic fibrosis not suspected and other disorders follow up required	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+3566797	302401000000105	Suspected cystic fibrosis	Context-dependent	Observation	SNOMED	Invalid	Non-standard
+"3566804	302551000000105	Cystic fibrosis not suspected, further follow up required	Clinical Finding	Observation	SNOMED	Invalid	Non-standard"
+3570760	302211000000108	Cystic fibrosis screening declined	Context-dependent	Observation	SNOMED	Invalid	Non-standard
+3579260	292571000000107	Cystic fibrosis related diabetes mellitus	Undefined	Observation	SNOMED	Invalid	Non-standard
+4051565	160309002	Family history of cystic fibrosis	Context-dependent	Observation	SNOMED	Valid	Standard
+4129552	237151009	Suspect cystic fibrosis fetus	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+4177221	428301001	Suspected cystic fibrosis	Context-dependent	Observation	SNOMED	Valid	Standard
+4323210	428273001	Cystic fibrosis not suspected	Context-dependent	Observation	SNOMED	Valid	Standard
+4323642	428841003	Cystic fibrosis screening declined	Context-dependent	Observation	SNOMED	Valid	Standard
+35609149	1079191000000108	Emergency hospital admission to paediatric cystic fibrosis service	Procedure	Observation	SNOMED	Valid	Standard
+35609151	1079211000000107	Emergency hospital admission to adult cystic fibrosis service	Procedure	Observation	SNOMED	Valid	Standard
+37110723	725051009	Suspected cystic fibrosis in fetus	Context-dependent	Observation	SNOMED	Valid	Standard
+40306747	137711004	FH: Cystic fibrosis	Context-dependent	Observation	SNOMED	Invalid	Non-standard
+40520584	316649006	[V]Screening for cystic fibrosis	Context-dependent	Observation	SNOMED	Invalid	Non-standard
+42536926	735969005	Cystic fibrosis transmembrane conductance regulator potentiator	Disposition	Observation	SNOMED	Valid	Standard
+44784393	698529000	Seen in cystic fibrosis clinic	Clinical Finding	Observation	SNOMED	Valid	Standard
+44791839	302651000000109	Cystic fibrosis carrier comment	Qualifier Value	Observation	SNOMED	Valid	Standard
+"44793464	384341000000107	Newborn blood spot screening programme, cystic fibrosis repeat screening with further sample required	Clinical Finding	Observation	SNOMED	Valid	Standard"
+"44793470	384401000000104	Newborn blood spot screening programme, cystic fibrosis not suspected and other disorders follow up required	Clinical Finding	Observation	SNOMED	Valid	Standard"
+44802568	515611000000104	Cystic fibrosis monitoring	Procedure	Observation	SNOMED	Valid	Standard
+44802569	515631000000107	Cystic fibrosis annual review	Procedure	Observation	SNOMED	Valid	Standard
+44808040	827981000000103	Paediatric cystic fibrosis service	Qualifier Value	Observation	SNOMED	Valid	Standard
+44811436	893391000000101	Adult cystic fibrosis service	Qualifier Value	Observation	SNOMED	Valid	Standard
+"46284471	947031000000109	Cystic fibrosis screening declined, no history of being screened	Context-dependent	Observation	SNOMED	Valid	Standard"
+"46284472	947041000000100	Cystic fibrosis screening declined, screened in UK (as reported by parents) with no evidence of result	Context-dependent	Observation	SNOMED	Valid	Standard"
+"46284473	947061000000104	Cystic fibrosis screening declined, screened outside UK with evidence of result	Context-dependent	Observation	SNOMED	Valid	Standard"
+"46286976	947081000000108	Cystic fibrosis screening declined, screened outside UK with no evidence of result	Context-dependent	Observation	SNOMED	Valid	Standard"
+"927153	81443	Genetic testing for severe inherited conditions (eg, cystic fibrosis, Ashkenazi Jewish-associated disorders [eg, Bloom syndrome, Canavan disease, Fanconi anemia type C, mucolipidosis type VI, Gaucher disease, Tay-Sachs disease], beta hemoglobinopathies...	CPT4	Procedure	CPT4	Valid	Standard"
+"42628643	81412	Ashkenazi Jewish associated disorders (eg, Bloom syndrome, Canavan disease, cystic fibrosis, familial dysautonomia, Fanconi anemia group C, Gaucher disease, Tay-Sachs disease), genomic sequence analysis panel, must include sequencing of at least 9 gene...	CPT4	Procedure	CPT4	Valid	Standard"
+4195178	44489000	Cystic fibrosis carrier detection	Procedure	Procedure	SNOMED	Valid	Standard
+"4216583	41636009	Cystic fibrosis carrier detection, blood	Procedure	Procedure	SNOMED	Valid	Standard"
+"4238529	67799006	Cystic fibrosis, prenatal detection	Procedure	Procedure	SNOMED	Valid	Standard"
+"4286937	69103000	Cystic fibrosis carrier detection, amniotic fluid	Procedure	Procedure	SNOMED	Valid	Standard"
+35630661	959001000000108	Paediatric cystic fibrosis care plan	Record Artifact	Type Concept	SNOMED	Valid	Non-standard
+35630679	959821000000108	Adult cystic fibrosis care plan	Record Artifact	Type Concept	SNOMED	Valid	Non-standard
+45765817	702844004	Cystic fibrosis clinic	Location	Visit	SNOMED	Valid	Non-standard

@@ -1,0 +1,12 @@
+﻿Id	Code	Name	Standard Class	Domain	Vocab	Validity	Concept
+40757108	84145	Procalcitonin (PCT)	CPT4	Measurement	CPT4	Valid	Standard
+3046279	33959-8	Procalcitonin [Mass/volume] in Serum or Plasma	Lab Test	Measurement	LOINC	Valid	Standard
+37036001	LP381196-7	Procalcitonin | Serum or Plasma | Chemistry - non-challenge	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+40774162	LP50616-9	Procalcitonin | Bld-Ser-Plas	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+44817130	75241-0	Procalcitonin [Mass/volume] in Serum or Plasma by Immunoassay	Lab Test	Measurement	LOINC	Valid	Standard
+3561393	984141000000102	Serum procalcitonin level	Procedure	Measurement	SNOMED	Invalid	Non-standard
+37392971	1010991000000108	Serum procalcitonin level	Observable Entity	Measurement	SNOMED	Valid	Standard
+44791466	284031000000106	Procalcitonin measurement	Procedure	Measurement	SNOMED	Valid	Standard
+46286859	984131000000106	Serum procalcitonin measurement	Procedure	Measurement	SNOMED	Valid	Standard
+37064734	LP31682-5	Procalcitonin	LOINC Component	Observation	LOINC	Valid	Non-standard
+42741827	0194T	Procalcitonin (PCT) (Deprecated)	CPT4	Procedure	CPT4	Valid	Standard

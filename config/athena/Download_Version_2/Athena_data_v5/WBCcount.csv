@@ -1,0 +1,35 @@
+﻿Id	Code	Name	Standard Class	Domain	Vocab	Validity	Concept
+1567868	D72.81	Decreased white blood cell count	5-char nonbill code	Condition	ICD10CM	Valid	Non-standard
+1567869	D72.82	Elevated white blood cell count	5-char nonbill code	Condition	ICD10CM	Valid	Non-standard
+"45537933	D72.829	Elevated white blood cell count, unspecified	6-char billing code	Condition	ICD10CM	Valid	Non-standard"
+45542715	D72.828	Other elevated white blood cell count	6-char billing code	Condition	ICD10CM	Valid	Non-standard
+"45566711	D72.819	Decreased white blood cell count, unspecified	6-char billing code	Condition	ICD10CM	Valid	Non-standard"
+45576413	D72.818	Other decreased white blood cell count	6-char billing code	Condition	ICD10CM	Valid	Non-standard
+44826486	288.69	Other elevated white blood cell count	5-dig billing code	Condition	ICD9CM	Valid	Non-standard
+44828822	288.59	Other decreased white blood cell count	5-dig billing code	Condition	ICD9CM	Valid	Non-standard
+44836949	288.5	Decreased white blood cell count	4-dig nonbill code	Condition	ICD9CM	Valid	Non-standard
+44836950	288.6	Elevated white blood cell count	4-dig nonbill code	Condition	ICD9CM	Valid	Non-standard
+4013538	165507003	White blood cell count normal	Clinical Finding	Condition	SNOMED	Valid	Standard
+4013991	165509000	White blood cell count abnormal	Clinical Finding	Condition	SNOMED	Valid	Standard
+"45882671	LA17012-8	Low blood counts, anemia, low white blood cell count, or low platelet count	Answer	Meas Value	LOINC	Valid	Standard"
+"2212091	80050	General health panel This panel must include the following: Comprehensive metabolic panel (80053) Blood count, complete (CBC), automated and automated differential WBC count (85025 or 85027 and 85004) OR Blood count, complete (CBC), automated (85027) a...	CPT4	Measurement	CPT4	Valid	Standard"
+"2212094	80055	Obstetric panel This panel must include the following: Blood count, complete (CBC), automated and automated differential WBC count (85025 or 85027 and 85004) OR Blood count, complete (CBC), automated (85027) and appropriate manual differential WBC coun...	CPT4	Measurement	CPT4	Valid	Standard"
+2212637	85004	Blood count; automated differential WBC count	CPT4	Measurement	CPT4	Valid	Standard
+"2212640	85009	Blood count; manual differential WBC count, buffy coat	CPT4	Measurement	CPT4	Valid	Standard"
+"2212648	85025	Blood count; complete (CBC), automated (Hgb, Hct, RBC, WBC and platelet count) and automated differential WBC count	CPT4	Measurement	CPT4	Valid	Standard"
+"2212649	85027	Blood count; complete (CBC), automated (Hgb, Hct, RBC, WBC and platelet count)	CPT4	Measurement	CPT4	Valid	Standard"
+"2212651	85032	Blood count; manual cell count (erythrocyte, leukocyte, or platelet) each	CPT4	Measurement	CPT4	Valid	Standard"
+"2212656	85048	Blood count; leukocyte (WBC), automated	CPT4	Measurement	CPT4	Valid	Standard"
+45617970	D007958	Leukocyte Count	Main Heading	Measurement	MeSH	Valid	Non-standard
+4013251	165511009	Differential white blood cell count procedure	Procedure	Measurement	SNOMED	Valid	Standard
+"4014488	104112007	White blood cell count, automated, cerebrospinal fluid	Procedure	Measurement	SNOMED	Valid	Standard"
+"4016236	104126003	White blood cell count, automated, synovial fluid	Procedure	Measurement	SNOMED	Valid	Standard"
+"4016930	104115009	White blood cell count, automated, peritoneal fluid	Procedure	Measurement	SNOMED	Valid	Standard"
+"4016931	104119003	White blood cell count, automated, pleural fluid	Procedure	Measurement	SNOMED	Valid	Standard"
+"4016933	104124000	White blood cell count, automated, semen	Procedure	Measurement	SNOMED	Valid	Standard"
+4212899	391558003	Total white blood count	Procedure	Measurement	SNOMED	Valid	Standard
+4298431	767002	White blood cell count	Procedure	Measurement	SNOMED	Valid	Standard
+37208925	1110441000000100	White blood cell count in blood	Observable Entity	Measurement	SNOMED	Valid	Standard
+40301779	142914005	White blood cell count	Procedure	Measurement	SNOMED	Invalid	Non-standard
+40301788	142922003	Differential white blood cell count	Procedure	Measurement	SNOMED	Invalid	Non-standard
+40332442	165506007	White blood cell count	Procedure	Measurement	SNOMED	Invalid	Non-standard

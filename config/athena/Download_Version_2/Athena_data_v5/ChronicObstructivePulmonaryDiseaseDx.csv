@@ -1,0 +1,292 @@
+﻿Id	Code	Name	Standard Class	Domain	Vocab	Validity	Concept
+45543268	J44	Other chronic obstructive pulmonary disease	ICD10 Hierarchy	Condition	ICD10	Valid	Non-standard
+"45548115	J44.9	Chronic obstructive pulmonary disease, unspecified	ICD10 code	Condition	ICD10	Valid	Non-standard"
+45586673	J44.8	Other specified chronic obstructive pulmonary disease	ICD10 code	Condition	ICD10	Valid	Non-standard
+45601131	J44.0	Chronic obstructive pulmonary disease with acute lower respiratory infection	ICD10 code	Condition	ICD10	Valid	Non-standard
+"45601132	J44.1	Chronic obstructive pulmonary disease with acute exacerbation, unspecified	ICD10 code	Condition	ICD10	Valid	Non-standard"
+1569487	J44	Other chronic obstructive pulmonary disease	3-char nonbill code	Condition	ICD10CM	Valid	Non-standard
+35208023	J44.0	Chronic obstructive pulmonary disease with (acute) lower respiratory infection	4-char billing code	Condition	ICD10CM	Valid	Non-standard
+35208024	J44.1	Chronic obstructive pulmonary disease with (acute) exacerbation	4-char billing code	Condition	ICD10CM	Valid	Non-standard
+"35208025	J44.9	Chronic obstructive pulmonary disease, unspecified	4-char billing code	Condition	ICD10CM	Valid	Non-standard"
+1415636	J44	Other chronic obstructive pulmonary disease	ICD10 Hierarchy	Condition	ICD10CN	Valid	Non-standard
+1415637	J44.0	Chronic obstructive pulmonary disease with acute lower respiratory infection	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+1415638	J44.000	Chronic obstructive pulmonary disease with acute lower respiratory infection	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+"1415639	J44.1	Chronic obstructive pulmonary disease with acute exacerbation, unspecified	ICD10 code	Condition	ICD10CN	Valid	Non-standard"
+"1415640	J44.100	Chronic obstructive pulmonary disease with acute exacerbation, unspecified	ICD10 code	Condition	ICD10CN	Valid	Non-standard"
+1415642	J44.8	Other specified chronic obstructive pulmonary disease	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+1415643	J44.800	Other specified chronic obstructive pulmonary disease	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+"1415649	J44.9	Chronic obstructive pulmonary disease, unspecified	ICD10 code	Condition	ICD10CN	Valid	Non-standard"
+"1415650	J44.900	Chronic obstructive pulmonary disease, unspecified	ICD10 code	Condition	ICD10CN	Valid	Non-standard"
+37085197	J44	Other chronic obstructive pulmonary disease	ICD10 Hierarchy	Condition	ICD10GM	Valid	Non-standard
+37085198	J44.0	Chronic obstructive pulmonary disease with acute lower respiratory infection	ICD10 code	Condition	ICD10GM	Valid	Non-standard
+37085208	J44.00	Chronic obstructive pulmonary disease with acute lower respiratory infection: FEV1	ICD10 code	Condition	ICD10GM	Valid	Non-standard
+37085209	J44.01	Chronic obstructive pulmonary disease with acute lower respiratory infection: FEV1> = 35 % and 	ICD10 code	Condition	ICD10GM	Valid	Non-standard
+37085210	J44.02	Chronic obstructive pulmonary disease with acute lower respiratory tract infection: FEV1> = 50 % and 	ICD10 code	Condition	ICD10GM	Valid	Non-standard
+37085211	J44.03	Chronic obstructive pulmonary disease with acute lower respiratory tract infection: FEV1> = 70 % of the predicted value 	ICD10 code	Condition	ICD10GM	Valid	Non-standard
+37085212	J44.09	Chronic obstructive pulmonary disease with acute lower respiratory infection: FEV1 unspecified	ICD10 code	Condition	ICD10GM	Valid	Non-standard
+"37085213	J44.1	Chronic obstructive pulmonary disease with acute exacerbation, unspecified	ICD10 code	Condition	ICD10GM	Valid	Non-standard"
+"37085214	J44.10	Chronic obstructive pulmonary disease with acute exacerbation, unspecified: FEV1	ICD10 code	Condition	ICD10GM	Valid	Non-standard"
+"37085215	J44.11	Chronic obstructive pulmonary disease with acute exacerbation, unspecified: FEV1> = 35 % and 	ICD10 code	Condition	ICD10GM	Valid	Non-standard"
+"37085216	J44.12	Chronic obstructive pulmonary disease with acute exacerbation, unspecified: FEV1> = 50 % and 	ICD10 code	Condition	ICD10GM	Valid	Non-standard"
+"37085217	J44.13	Chronic obstructive pulmonary disease with acute exacerbation, unspecified: FEV1> = 70 % of the target value 	ICD10 code	Condition	ICD10GM	Valid	Non-standard"
+"37085218	J44.19	Chronic obstructive pulmonary disease with acute exacerbation, unspecified: FEV1 unspecified	ICD10 code	Condition	ICD10GM	Valid	Non-standard"
+37085219	J44.8	Other specified chronic obstructive pulmonary disease	ICD10 code	Condition	ICD10GM	Valid	Non-standard
+"37085225	J44.9	Chronic obstructive pulmonary disease, unspecified	ICD10 code	Condition	ICD10GM	Valid	Non-standard"
+"37085226	J44.90	Chronic obstructive pulmonary disease, unspecified: FEV1	ICD10 code	Condition	ICD10GM	Valid	Non-standard"
+"37085227	J44.91	Chronic obstructive pulmonary disease, unspecified: FEV1> = 35 % and 	ICD10 code	Condition	ICD10GM	Valid	Non-standard"
+"37085228	J44.92	Chronic obstructive pulmonary disease, unspecified: FEV1> = 50 % and 	ICD10 code	Condition	ICD10GM	Valid	Non-standard"
+"37085229	J44.93	Chronic obstructive pulmonary disease, unspecified: FEV1> = 70 % of the target value 	ICD10 code	Condition	ICD10GM	Valid	Non-standard"
+"37085230	J44.99	Chronic obstructive pulmonary disease, unspecified: FEV1 unspecified	ICD10 code	Condition	ICD10GM	Valid	Non-standard"
+908216	D000080445	Asthma-Chronic Obstructive Pulmonary Disease Overlap Syndrome	Main Heading	Condition	MeSH	Valid	Non-standard
+"45611133	D029424	Pulmonary Disease, Chronic Obstructive	Main Heading	Condition	MeSH	Valid	Non-standard"
+255573	13645005	Chronic obstructive lung disease	Clinical Finding	Condition	SNOMED	Valid	Standard
+257004	195951007	Acute exacerbation of chronic obstructive airways disease	Clinical Finding	Condition	SNOMED	Valid	Standard
+3522251	39101000000100	At risk of chronic obstructive pulmonary disease	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3522354	41361000000102	At risk of chronic obstructive pulmonary disease	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3522526	44751000000103	At risk of chronic obstructive pulmonary disease	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3524125	207321000000104	Multiple chronic obstructive pulmonary disease emergency hospital admissions	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3524126	207331000000102	Multiple chronic obstructive pulmonary disease emergency hospital admissions	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3526696	294001000000101	Very severe chronic obstructive pulmonary disease	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3526697	294011000000104	Very severe chronic obstructive pulmonary disease	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3528800	383621000000108	At risk of chronic obstructive pulmonary disease exacerbation	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3535838	611541000000106	Chronic obstructive airways disease NOS	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+"3538077	644271000000105	Chronic obstructive pulmonary disease with acute exacerbation, unspecified	Clinical Finding	Condition	SNOMED	Invalid	Non-standard"
+3547178	941211000000101	Chronic obstructive pulmonary disease resolved	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3566175	581981000000100	Other specified chronic obstructive airways disease	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+4007230	10169006	Heaves	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+4046986	135836000	End stage chronic obstructive airways disease	Clinical Finding	Condition	SNOMED	Valid	Standard
+"4051464	233671000	Chronic obstructive pulmonary disease with acute exacerbation, unspecified	Clinical Finding	Condition	SNOMED	Invalid	Non-standard"
+4110056	196001008	Chronic obstructive pulmonary disease with acute lower respiratory infection	Clinical Finding	Condition	SNOMED	Valid	Standard
+4110175	196003006	Chronic obstructive airways disease NOS	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+4112674	195999007	Other specified chronic obstructive airways disease	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+4188974	413846005	Chronic obstructive pulmonary disease finding	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+4193588	313297008	Moderate chronic obstructive pulmonary disease	Clinical Finding	Condition	SNOMED	Valid	Standard
+4196712	313296004	Mild chronic obstructive pulmonary disease	Clinical Finding	Condition	SNOMED	Valid	Standard
+4209097	313299006	Severe chronic obstructive pulmonary disease	Clinical Finding	Condition	SNOMED	Valid	Standard
+4295149	401200002	At risk of chronic obstructive pulmonary disease	Clinical Finding	Condition	SNOMED	Valid	Standard
+40316552	155582008	Mild chronic obstructive pulmonary disease	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40316553	155583003	Moderate chronic obstructive pulmonary disease	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40316554	155584009	Severe chronic obstructive pulmonary disease	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40395905	195996000	Mild chronic obstructive pulmonary disease	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40395906	195997009	Moderate chronic obstructive pulmonary disease	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40395907	195998004	Severe chronic obstructive pulmonary disease	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+"40395913	196002001	Chronic obstructive pulmonary disease with acute exacerbation, unspecified	Clinical Finding	Condition	SNOMED	Invalid	Non-standard"
+40396961	196231009	[X]Other specified chronic obstructive pulmonary disease	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40560113	390598009	Chronic obstructive pulmonary disease self-management plan given	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+44782563	697911002	Pulmonary hypertension due to chronic obstructive pulmonary disease	Clinical Finding	Condition	SNOMED	Valid	Standard
+44788819	198901000000105	Multiple chronic obstructive pulmonary disease emergency hospital admissions	Clinical Finding	Condition	SNOMED	Valid	Standard
+44791725	293991000000106	Very severe chronic obstructive pulmonary disease	Clinical Finding	Condition	SNOMED	Valid	Standard
+44793424	383611000000102	At risk of chronic obstructive pulmonary disease exacerbation	Clinical Finding	Condition	SNOMED	Valid	Standard
+44796286	419861000000108	[X]Other specified chronic obstructive pulmonary disease	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+44807895	847091000000104	Acute non-infective exacerbation of chronic obstructive pulmonary disease	Clinical Finding	Condition	SNOMED	Valid	Standard
+46284163	941201000000103	Chronic obstructive pulmonary disease resolved	Clinical Finding	Condition	SNOMED	Valid	Standard
+36210118	LA27422-7	Pulmonary disorders- chronic obstructive pulmonary disease	Answer	Meas Value	LOINC	Invalid	Non-standard
+"36210679	LA27514-1	Chronic respiratory condition (e.g., chronic obstructive pulmonary disease)	Answer	Meas Value	LOINC	Valid	Standard"
+36308250	LA28200-6	Chronic obstructive pulmonary disease	Answer	Meas Value	LOINC	Valid	Standard
+"36309893	LA27872-3	Asthma, chronic obstructive pulmonary disease (COPD), or chronic lung disease (e.g., chronic bronchitis and restrictive lung diseases such as asbestosis)	Answer	Meas Value	LOINC	Valid	Standard"
+764579	457011000124109	COPD assessment test	Staging / Scales	Measurement	SNOMED	Valid	Standard
+3530535	527371000000100	Chronic obstructive pulmonary disease assessment test score	Staging / Scales	Measurement	SNOMED	Invalid	Non-standard
+3552722	169651000000106	Number of chronic obstructive pulmonary disease exacerbations in past year	Observable Entity	Measurement	SNOMED	Invalid	Non-standard
+3553002	174231000000105	Number of chronic obstructive pulmonary disease exacerbations in past year	Observable Entity	Measurement	SNOMED	Invalid	Non-standard
+3557190	520161000000109	Clinical chronic obstructive pulmonary disease questionnaire total score	Observable Entity	Measurement	SNOMED	Invalid	Non-standard
+3558377	726711000000107	Chronic obstructive pulmonary disease assessment test score	Observable Entity	Measurement	SNOMED	Invalid	Non-standard
+3572897	520121000000101	Clinical chronic obstructive pulmonary disease questionnaire	Staging / Scales	Measurement	SNOMED	Invalid	Non-standard
+4064928	171230000	Chronic obstructive pulmonary disease screening	Procedure	Measurement	SNOMED	Valid	Standard
+4189656	414882007	Number of chronic obstructive pulmonary disease exacerbations in past year	Clinical Finding	Measurement	SNOMED	Invalid	Non-standard
+36684442	57671000052108	Chronic Obstructive Pulmonary Disease Assessment Test scale	Staging / Scales	Measurement	SNOMED	Valid	Standard
+40309801	148445005	Chronic obstructive pulmonary disease screening	Procedure	Measurement	SNOMED	Invalid	Non-standard
+40482483	445192002	Clinical chronic obstructive pulmonary disease questionnaire total score	Observable Entity	Measurement	SNOMED	Valid	Standard
+40482942	445312005	Clinical chronic obstructive pulmonary disease questionnaire	Staging / Scales	Measurement	SNOMED	Valid	Standard
+40488830	446660005	Chronic obstructive pulmonary disease assessment test score	Observable Entity	Measurement	SNOMED	Valid	Standard
+44802479	527361000000107	Chronic obstructive pulmonary disease assessment test	Staging / Scales	Measurement	SNOMED	Invalid	Non-standard
+3656686	225571000001105	Coronavirus disease 2019 (COVID-19) general practice extraction - chronic obstructive pulmonary disease (COPD) medication simple reference set	Model Comp	Metadata	SNOMED	Valid	Non-standard
+"2101887	1015F	Chronic obstructive pulmonary disease (COPD) symptoms assessed (Includes assessment of at least 1 of the following: dyspnea, cough/sputum, wheezing), or respiratory symptom assessment tool completed (COPD)	CPT4	Observation	CPT4	Valid	Standard"
+"2101893	1026F	Co-morbid conditions assessed (eg, includes assessment for presence or absence of: malignancy, liver disease, congestive heart failure, cerebrovascular disease, renal disease, chronic obstructive pulmonary disease, asthma, diabetes, other co-morbid con...	CPT4	Observation	CPT4	Valid	Standard"
+3044760	45670-7	Emphysema or COPD [Minimum Data Set]	Survey	Observation	LOINC	Valid	Standard
+507442	1062051000000104	Respiratory Care for Chronic Obstructive Pulmonary Disease TOM (Therapy Outcome Measure) activity score	Observable Entity	Observation	SNOMED	Valid	Standard
+507443	1062061000000101	Respiratory Care for Chronic Obstructive Pulmonary Disease TOM (Therapy Outcome Measure) carer wellbeing score	Observable Entity	Observation	SNOMED	Valid	Standard
+507444	1062071000000108	Respiratory Care for Chronic Obstructive Pulmonary Disease TOM (Therapy Outcome Measure) impairment score	Observable Entity	Observation	SNOMED	Valid	Standard
+507445	1062081000000105	Respiratory Care for Chronic Obstructive Pulmonary Disease TOM (Therapy Outcome Measure) participation score	Observable Entity	Observation	SNOMED	Valid	Standard
+507750	1062091000000107	Respiratory Care for Chronic Obstructive Pulmonary Disease TOM (Therapy Outcome Measure) wellbeing score	Observable Entity	Observation	SNOMED	Valid	Standard
+762862	432951000124109	Documentation of chronic obstructive pulmonary disorder medication action plan	Procedure	Observation	SNOMED	Valid	Standard
+3523041	94491000000108	No family history of chronic obstructive pulmonary disease	Context-dependent	Observation	SNOMED	Invalid	Non-standard
+3524100	206771000000101	Suspected chronic obstructive pulmonary disease	Context-dependent	Observation	SNOMED	Invalid	Non-standard
+3524101	206781000000104	Suspected chronic obstructive pulmonary disease	Context-dependent	Observation	SNOMED	Invalid	Non-standard
+3524341	215221000000102	Chronic obstructive pulmonary disease excluded by spirometry	Context-dependent	Observation	SNOMED	Invalid	Non-standard
+3524342	215231000000100	Chronic obstructive pulmonary disease excluded by spirometry	Context-dependent	Observation	SNOMED	Invalid	Non-standard
+3528631	375931000000105	Chronic obstructive pulmonary disease structured smoking assessment declined - enhanced services administration	Procedure	Observation	SNOMED	Invalid	Non-standard
+3545189	820351000000107	Chronic obstructive pulmonary disease rescue pack not indicated	Context-dependent	Observation	SNOMED	Invalid	Non-standard
+3545927	857801000000104	Chronic obstructive pulmonary disease rescue pack declined	Context-dependent	Observation	SNOMED	Invalid	Non-standard
+3546429	890871000000103	Chronic obstructive pulmonary disease written self management plan declined	Context-dependent	Observation	SNOMED	Invalid	Non-standard
+3550618	40641000000103	Chronic obstructive pulmonary disease monitoring by nurse	Procedure	Observation	SNOMED	Invalid	Non-standard
+3550619	40651000000100	Chronic obstructive pulmonary disease monitoring by doctor	Procedure	Observation	SNOMED	Invalid	Non-standard
+3550710	42951000000105	Chronic obstructive pulmonary disease monitoring by nurse	Procedure	Observation	SNOMED	Invalid	Non-standard
+3550711	42961000000108	Chronic obstructive pulmonary disease monitoring by doctor	Procedure	Observation	SNOMED	Invalid	Non-standard
+3550768	44591000000100	Chronic obstructive pulmonary disease monitoring by nurse	Procedure	Observation	SNOMED	Invalid	Non-standard
+3550769	44601000000106	Chronic obstructive pulmonary disease monitoring by doctor	Procedure	Observation	SNOMED	Invalid	Non-standard
+3550963	76831000000105	Chronic obstructive pulmonary disease monitoring by nurse	Procedure	Observation	SNOMED	Invalid	Non-standard
+3551252	89851000000100	Exception reporting: COPD quality indicators	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+3551262	90001000000103	Excepted from COPD quality indicators: Informed dissent	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+3551673	102321000000100	Did not attend chronic obstructive pulmonary disease clinic	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+3551861	105411000000107	Did not attend chronic obstructive pulmonary disease clinic	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+3552046	113051000000101	Chronic obstructive pulmonary disease monitoring third letter	Procedure	Observation	SNOMED	Invalid	Non-standard
+3552047	113061000000103	Chronic obstructive pulmonary disease monitoring verbal invite	Procedure	Observation	SNOMED	Invalid	Non-standard
+3552224	117601000000101	Chronic obstructive pulmonary disease monitoring 3rd letter	Procedure	Observation	SNOMED	Invalid	Non-standard
+3552414	122341000000103	Chronic obstructive pulmonary disease monitoring 3rd letter	Procedure	Observation	SNOMED	Invalid	Non-standard
+3552415	122361000000102	Chronic obstructive pulmonary disease monitoring phone invite	Procedure	Observation	SNOMED	Invalid	Non-standard
+3552720	169631000000104	Chronic obstructive pulmonary disease accident and emergency attendance since last visit	Procedure	Observation	SNOMED	Invalid	Non-standard
+3552721	169641000000108	Emergency chronic obstructive pulmonary disease admission since last appointment	Procedure	Observation	SNOMED	Invalid	Non-standard
+3553000	174211000000102	Chronic obstructive pulmonary disease accident and emergency attendance since last visit	Procedure	Observation	SNOMED	Invalid	Non-standard
+3553001	174221000000108	Emergency chronic obstructive pulmonary disease admission since last appointment	Procedure	Observation	SNOMED	Invalid	Non-standard
+3553872	213401000000106	Chronic obstructive pulmonary disease disturbs sleep	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+3553873	213411000000108	Chronic obstructive pulmonary disease disturbs sleep	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+3553874	213421000000102	Chronic obstructive pulmonary disease does not disturb sleep	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+3553875	213431000000100	Chronic obstructive pulmonary disease does not disturb sleep	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+3556410	375861000000106	Referred for chronic obstructive pulmonary disease structured smoking assessment - enhanced services administration	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+3556411	375871000000104	Referred for chronic obstructive pulmonary disease structured smoking assessment - enhanced services administration	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+3556714	487251000000101	Chronic obstructive pulmonary disease - enhanced services administration	Procedure	Observation	SNOMED	Invalid	Non-standard
+3556715	487261000000103	Chronic obstructive pulmonary disease patient unsuitable for pulmonary rehabilitation - enhanced services administration	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+3556790	491081000000108	Chronic obstructive pulmonary disease - enhanced services administration	Procedure	Observation	SNOMED	Invalid	Non-standard
+3556791	491091000000105	Chronic obstructive pulmonary disease patient unsuitable for pulmonary rehabilitation - enhanced services administration	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+3558583	760611000000109	Chronic obstructive pulmonary disease 3 month review	Procedure	Observation	SNOMED	Invalid	Non-standard
+3558584	760631000000101	Chronic obstructive pulmonary disease 6 month review	Procedure	Observation	SNOMED	Invalid	Non-standard
+3558891	789671000000109	Preferred place of care for next exacerbation of chronic obstructive pulmonary disease	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+3558900	790311000000104	Referral to chronic obstructive pulmonary disease community nursing team	Procedure	Observation	SNOMED	Invalid	Non-standard
+3559264	826121000000103	On chronic obstructive pulmonary disease supportive care pathway	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+3559274	827581000000108	Has chronic obstructive pulmonary disease care plan	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+3559541	848441000000102	Following chronic obstructive pulmonary disease care pathway protocol	Procedure	Observation	SNOMED	Invalid	Non-standard
+3559660	857671000000106	Seen in chronic obstructive pulmonary disease clinic	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+3564340	113041000000104	Chronic obstructive pulmonary disease monitoring first letter	Procedure	Observation	SNOMED	Invalid	Non-standard
+3567839	113071000000105	Chronic obstructive pulmonary disease monitoring telephone invitation	Procedure	Observation	SNOMED	Invalid	Non-standard
+3569594	89991000000102	Excepted from COPD quality indicators: Patient unsuitable	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+3570105	122971000000108	Chronic obstructive pulmonary disease monitoring second letter	Procedure	Observation	SNOMED	Invalid	Non-standard
+3571984	117621000000105	Chronic obstructive pulmonary disease monitoring phone invite	Procedure	Observation	SNOMED	Invalid	Non-standard
+3572763	375921000000108	Chronic obstructive pulmonary disease structured smoking assessment declined - enhanced services administration	Procedure	Observation	SNOMED	Invalid	Non-standard
+3574176	915671000000101	Chronic obstructive pulmonary disease management plan declined	Context-dependent	Observation	SNOMED	Invalid	Non-standard
+3574394	99381000000102	No family history of chronic obstructive pulmonary disease	Context-dependent	Observation	SNOMED	Invalid	Non-standard
+3576088	76841000000101	Chronic obstructive pulmonary disease monitoring by doctor	Undefined	Observation	SNOMED	Invalid	Non-standard
+3576116	78851000000102	At risk of chronic obstructive pulmonary disease	Undefined	Observation	SNOMED	Invalid	Non-standard
+3576191	81091000000104	Chronic obstructive pulmonary disease monitoring by nurse	Undefined	Observation	SNOMED	Invalid	Non-standard
+3576192	81101000000107	Chronic obstructive pulmonary disease monitoring by doctor	Undefined	Observation	SNOMED	Invalid	Non-standard
+3576250	83561000000102	At risk of chronic obstructive pulmonary disease	Undefined	Observation	SNOMED	Invalid	Non-standard
+3576706	116971000000104	Chronic obstructive pulmonary disease clinical management plan	Undefined	Observation	SNOMED	Invalid	Non-standard
+3576716	117571000000108	Chronic obstructive pulmonary disease monitoring administration	Undefined	Observation	SNOMED	Invalid	Non-standard
+3576717	117581000000105	Chronic obstructive pulmonary disease monitoring 1st letter	Undefined	Observation	SNOMED	Invalid	Non-standard
+3576718	117591000000107	Chronic obstructive pulmonary disease monitoring 2nd letter	Undefined	Observation	SNOMED	Invalid	Non-standard
+3576720	117611000000104	Chronic obstructive pulmonary disease monitoring verbal invite	Undefined	Observation	SNOMED	Invalid	Non-standard
+3576799	121711000000109	Chronic obstructive pulmonary disease clinical management plan	Undefined	Observation	SNOMED	Invalid	Non-standard
+3576804	122321000000105	Chronic obstructive pulmonary disease monitoring 1st letter	Undefined	Observation	SNOMED	Invalid	Non-standard
+3576805	122331000000107	Chronic obstructive pulmonary disease monitoring 2nd letter	Undefined	Observation	SNOMED	Invalid	Non-standard
+3576806	122351000000100	Chronic obstructive pulmonary disease monitoring verbal invite	Undefined	Observation	SNOMED	Invalid	Non-standard
+3578052	253151000000106	Health education - chronic obstructive pulmonary disease	Undefined	Observation	SNOMED	Invalid	Non-standard
+3581855	520131000000104	Clinical chronic obstructive pulmonary disease questionnaire	Undefined	Observation	SNOMED	Invalid	Non-standard
+3587147	948121000000105	Telehealth chronic obstructive pulmonary disease monitoring	Undefined	Observation	SNOMED	Invalid	Non-standard
+3661635	866204005	Consultation for chronic obstructive pulmonary disease	Procedure	Observation	SNOMED	Valid	Standard
+4151705	270473001	History of chronic obstructive airway disease	Context-dependent	Observation	SNOMED	Valid	Standard
+4189168	414087000	Emergency chronic obstructive pulmonary disease admission since last appointment	Procedure	Observation	SNOMED	Valid	Standard
+4190882	390891009	Chronic obstructive pulmonary disease monitoring	Procedure	Observation	SNOMED	Valid	Standard
+4193265	391131001	Chronic obstructive pulmonary disease self-management plan given	Procedure	Observation	SNOMED	Invalid	Non-standard
+4211648	413845009	Chronic obstructive pulmonary disease accident and emergency attendance since last visit	Procedure	Observation	SNOMED	Valid	Standard
+4215256	394702007	Chronic obstructive pulmonary disease follow-up	Procedure	Observation	SNOMED	Valid	Standard
+4215257	394703002	Chronic obstructive pulmonary disease annual review	Procedure	Observation	SNOMED	Valid	Standard
+4215706	395159008	Chronic obstructive pulmonary disease leaflet given	Procedure	Observation	SNOMED	Valid	Standard
+4235401	408501008	Emergency hospital admission for chronic obstructive pulmonary disease	Procedure	Observation	SNOMED	Valid	Standard
+4252388	408552005	No family history of chronic obstructive pulmonary disease	Context-dependent	Observation	SNOMED	Valid	Standard
+4269178	401184000	Chronic obstructive pulmonary disease monitoring by nurse	Procedure	Observation	SNOMED	Valid	Standard
+4295034	401185004	Chronic obstructive pulmonary disease monitoring by doctor	Procedure	Observation	SNOMED	Valid	Standard
+4307038	390941006	Chronic obstructive pulmonary disease monitoring due	Clinical Finding	Observation	SNOMED	Valid	Standard
+36716970	723245007	Number of chronic obstructive pulmonary disease exacerbations in past year	Observable Entity	Observation	SNOMED	Valid	Standard
+37208761	1108721000000102	Excepted from COPD (chronic obstructive pulmonary disease) quality indicators - service unavailable	Clinical Finding	Observation	SNOMED	Valid	Standard
+37208966	1110861000000102	QOF (Quality and Outcomes Framework) chronic obstructive pulmonary disease quality indicator-related care invitation	Procedure	Observation	SNOMED	Valid	Standard
+37310423	1129881000000105	Does use digital self-management support tool for COPD (chronic obstructive pulmonary disease)	Clinical Finding	Observation	SNOMED	Valid	Standard
+37310425	1129861000000101	Use of digital self-management tool for COPD (chronic obstructive pulmonary disease)	Observable Entity	Observation	SNOMED	Valid	Standard
+37310804	143371000000104	QOF (Quality and Outcomes Framework) chronic obstructive pulmonary disease quality indicator-related care invitation using preferred method of communication	Procedure	Observation	SNOMED	Valid	Standard
+37396521	716358000	Telehealth chronic obstructive pulmonary disease monitoring	Procedure	Observation	SNOMED	Valid	Standard
+40560106	390591003	Chronic obstructive pulmonary disease monitoring	Procedure	Observation	SNOMED	Invalid	Non-standard
+40560108	390593000	Chronic obstructive pulmonary disease monitoring due	Procedure	Observation	SNOMED	Invalid	Non-standard
+40563018	393032000	Chronic obstructive pulmonary disease follow-up	Procedure	Observation	SNOMED	Invalid	Non-standard
+40563019	393033005	Chronic obstructive pulmonary disease annual review	Procedure	Observation	SNOMED	Invalid	Non-standard
+40563539	393134002	Chronic obstructive pulmonary disease leaflet given	Context-dependent	Observation	SNOMED	Invalid	Non-standard
+40564968	389859001	Chronic obstructive pulmonary disease monitoring	Procedure	Observation	SNOMED	Invalid	Non-standard
+40564971	389861005	Chronic obstructive pulmonary disease monitoring due	Procedure	Observation	SNOMED	Invalid	Non-standard
+40564976	389866000	Chronic obstructive pulmonary disease self-management plan given	Context-dependent	Observation	SNOMED	Invalid	Non-standard
+40566166	393988006	Chronic obstructive pulmonary disease follow-up	Procedure	Observation	SNOMED	Invalid	Non-standard
+40566167	393989003	Chronic obstructive pulmonary disease annual review	Procedure	Observation	SNOMED	Invalid	Non-standard
+40566663	394085003	Chronic obstructive pulmonary disease leaflet given	Context-dependent	Observation	SNOMED	Invalid	Non-standard
+42689543	1065151000000105	Number of hospital admissions due to COPD (chronic obstructive pulmonary disease) in past year	Observable Entity	Observation	SNOMED	Valid	Standard
+42689618	1066231000000103	Chronic obstructive pulmonary disease monitoring email invitation	Procedure	Observation	SNOMED	Valid	Standard
+42689663	1066821000000101	COPD (chronic obstructive pulmonary disease) monitoring SMS (short message service) text message first invitation	Procedure	Observation	SNOMED	Valid	Standard
+42689665	1066851000000106	COPD (chronic obstructive pulmonary disease) monitoring SMS (short message service) text message third invitation	Procedure	Observation	SNOMED	Valid	Standard
+42690682	1066281000000104	COPD (chronic obstructive pulmonary disease) monitoring SMS (short message service) text message invitation	Procedure	Observation	SNOMED	Valid	Standard
+42690688	1066841000000108	COPD (chronic obstructive pulmonary disease) monitoring SMS (short message service) text message second invitation	Procedure	Observation	SNOMED	Valid	Standard
+44788053	110011000000107	Did not attend chronic obstructive pulmonary disease clinic	Clinical Finding	Observation	SNOMED	Valid	Standard
+44788723	198401000000104	Chronic obstructive pulmonary disease disturbs sleep	Clinical Finding	Observation	SNOMED	Valid	Standard
+44788724	198411000000102	Chronic obstructive pulmonary disease does not disturb sleep	Clinical Finding	Observation	SNOMED	Valid	Standard
+44788836	201341000000101	Chronic obstructive pulmonary disease monitoring status	Clinical Finding	Observation	SNOMED	Valid	Standard
+44789576	204991000000107	Suspected chronic obstructive pulmonary disease	Context-dependent	Observation	SNOMED	Valid	Standard
+44789649	205731000000109	Chronic obstructive pulmonary disease excluded by spirometry	Context-dependent	Observation	SNOMED	Valid	Standard
+44793048	374591000000101	Chronic obstructive pulmonary disease enhanced services administration	Procedure	Observation	SNOMED	Valid	Standard
+44793074	371611000000107	Chronic obstructive pulmonary disease patient unsuitable for pulmonary rehabilitation	Clinical Finding	Observation	SNOMED	Valid	Standard
+44793128	375851000000108	Referred for chronic obstructive pulmonary disease structured smoking assessment	Clinical Finding	Observation	SNOMED	Valid	Standard
+44793163	375911000000102	Chronic obstructive pulmonary disease structured smoking assessment declined	Procedure	Observation	SNOMED	Valid	Standard
+44802096	523661000000105	Step down change in chronic obstructive pulmonary disease management plan	Procedure	Observation	SNOMED	Invalid	Non-standard
+44802097	523671000000103	Step up change in chronic obstructive pulmonary disease management plan	Procedure	Observation	SNOMED	Invalid	Non-standard
+44803708	716241000000106	Chronic obstructive pulmonary disease monitoring first letter	Procedure	Observation	SNOMED	Valid	Standard
+44803711	716281000000103	Chronic obstructive pulmonary disease monitoring verbal invite	Procedure	Observation	SNOMED	Valid	Standard
+44803712	716291000000101	Excepted from COPD quality indicators - informed dissent	Clinical Finding	Observation	SNOMED	Valid	Standard
+44803714	716311000000100	Excepted from COPD quality indicators - patient unsuitable	Clinical Finding	Observation	SNOMED	Valid	Standard
+44803835	716901000000101	Chronic obstructive pulmonary disease monitoring telephone invitation	Procedure	Observation	SNOMED	Valid	Standard
+44803846	717021000000106	Chronic obstructive pulmonary disease monitoring second letter	Procedure	Observation	SNOMED	Valid	Standard
+44803920	717521000000104	Chronic obstructive pulmonary disease monitoring third letter	Procedure	Observation	SNOMED	Valid	Standard
+44803925	717591000000101	Exception reporting - COPD quality indicators	Clinical Finding	Observation	SNOMED	Valid	Standard
+44804338	711431000000109	Chronic obstructive pulmonary disease monitoring invitation	Procedure	Observation	SNOMED	Valid	Standard
+44804958	760601000000107	Chronic obstructive pulmonary disease 3 monthly review	Procedure	Observation	SNOMED	Valid	Standard
+44804959	760621000000103	Chronic obstructive pulmonary disease 6 monthly review	Procedure	Observation	SNOMED	Valid	Standard
+44805004	783631000000109	General practitioner out of hours service notified of chronic obstructive pulmonary disease care plan	Clinical Finding	Observation	SNOMED	Valid	Standard
+44805920	789661000000102	Preferred place of care for next exacerbation of chronic obstructive pulmonary disease	Clinical Finding	Observation	SNOMED	Valid	Standard
+44806050	790301000000101	Referral to chronic obstructive pulmonary disease community nursing team	Procedure	Observation	SNOMED	Valid	Standard
+44806159	820341000000109	Chronic obstructive pulmonary disease rescue pack not indicated	Context-dependent	Observation	SNOMED	Valid	Standard
+44806369	811961000000106	Chronic obstructive pulmonary disease self-management plan agreed	Clinical Finding	Observation	SNOMED	Valid	Standard
+44807085	804631000000105	Chronic obstructive pulmonary disease monitoring due date	Observable Entity	Observation	SNOMED	Valid	Standard
+44807940	827571000000106	Has chronic obstructive pulmonary disease care plan	Clinical Finding	Observation	SNOMED	Valid	Standard
+44808238	848431000000106	Chronic obstructive pulmonary disease care pathway	Procedure	Observation	SNOMED	Valid	Standard
+44808261	857661000000104	Seen in chronic obstructive pulmonary disease clinic	Clinical Finding	Observation	SNOMED	Valid	Standard
+44808266	857791000000103	Chronic obstructive pulmonary disease rescue pack declined	Context-dependent	Observation	SNOMED	Valid	Standard
+44808267	857811000000102	Chronic obstructive pulmonary disease written self management plan declined	Context-dependent	Observation	SNOMED	Valid	Standard
+44808268	857821000000108	Chronic obstructive pulmonary disease self management plan not appropriate	Clinical Finding	Observation	SNOMED	Valid	Standard
+44809514	826111000000109	On chronic obstructive pulmonary disease supportive care pathway	Clinical Finding	Observation	SNOMED	Valid	Standard
+44810352	897311000000101	Shared care chronic obstructive pulmonary disease monitoring	Procedure	Observation	SNOMED	Valid	Standard
+44811197	892321000000109	Chronic obstructive pulmonary disease management plan declined	Context-dependent	Observation	SNOMED	Valid	Standard
+45766865	704120002	Change in chronic obstructive pulmonary disease management plan	Procedure	Observation	SNOMED	Valid	Standard
+45766866	704121003	Step up change in chronic obstructive pulmonary disease management plan	Procedure	Observation	SNOMED	Valid	Standard
+45766868	704123000	Step down change in chronic obstructive pulmonary disease management plan	Procedure	Observation	SNOMED	Valid	Standard
+46284512	948111000000104	Telehealth chronic obstructive pulmonary disease monitoring	Procedure	Observation	SNOMED	Invalid	Non-standard
+3519365	520211000000104	Assessment using clinical chronic obstructive pulmonary disease questionnaire	Procedure	Procedure	SNOMED	Invalid	Non-standard
+3524842	250521000000103	Health education - chronic obstructive pulmonary disease	Procedure	Procedure	SNOMED	Invalid	Non-standard
+3542906	718251000000105	Issue of chronic obstructive pulmonary disease rescue pack	Procedure	Procedure	SNOMED	Invalid	Non-standard
+3542991	726721000000101	Assessment using chronic obstructive pulmonary disease assessment test	Procedure	Procedure	SNOMED	Invalid	Non-standard
+3544570	789751000000109	Chronic obstructive pulmonary disease medication optimisation	Procedure	Procedure	SNOMED	Invalid	Non-standard
+3544571	789761000000107	Chronic obstructive pulmonary disease medication optimisation	Procedure	Procedure	SNOMED	Invalid	Non-standard
+3545348	832111000000108	Chronic obstructive pulmonary disease self-management plan review	Procedure	Procedure	SNOMED	Invalid	Non-standard
+3570718	247551000000109	Health education - chronic obstructive pulmonary disease	Procedure	Procedure	SNOMED	Invalid	Non-standard
+40484268	445602009	Assessment using clinical chronic obstructive pulmonary disease questionnaire	Procedure	Procedure	SNOMED	Valid	Standard
+40492734	445811006	Assessment using chronic obstructive pulmonary disease assessment test	Procedure	Procedure	SNOMED	Valid	Standard
+42539771	741056003	Education about chronic obstructive pulmonary disease	Procedure	Procedure	SNOMED	Valid	Standard
+43021482	473202005	Optimization of medication for chronic obstructive pulmonary disease	Procedure	Procedure	SNOMED	Valid	Standard
+43021503	473223004	Chronic obstructive lung disorder medication review	Procedure	Procedure	SNOMED	Valid	Standard
+44803979	718241000000107	Issue of chronic obstructive pulmonary disease rescue pack	Procedure	Procedure	SNOMED	Valid	Standard
+44804726	781591000000108	Education about chronic obstructive pulmonary disease	Procedure	Procedure	SNOMED	Invalid	Non-standard
+44805524	753941000000104	Discussion about chronic obstructive pulmonary disease exacerbation plan	Procedure	Procedure	SNOMED	Valid	Standard
+44807824	837911000000108	Provision of written information about chronic obstructive pulmonary disease	Procedure	Procedure	SNOMED	Valid	Standard
+44808673	859431000000102	Chronic obstructive pulmonary disease care assessment	Procedure	Procedure	SNOMED	Valid	Standard
+44809305	845101000000100	Management of chronic obstructive pulmonary disease	Procedure	Procedure	SNOMED	Valid	Standard
+44809306	845111000000103	Management of exacerbation of chronic obstructive pulmonary disease	Procedure	Procedure	SNOMED	Valid	Standard
+44813400	810951000000101	Chronic obstructive pulmonary disease self-management plan review	Procedure	Procedure	SNOMED	Valid	Standard
+3523318	122311000000104	Chronic obstructive pulmonary disease monitoring administration	Record Artifact	Type Concept	SNOMED	Invalid	Non-standard
+3567130	113031000000108	Chronic obstructive pulmonary disease monitoring administration	Admin Concept	Type Concept	SNOMED	Invalid	Non-standard
+4135423	412776001	Chronic obstructive pulmonary disease clinical management plan	Qualifier Value	Type Concept	SNOMED	Invalid	Non-standard
+42537180	736365000	Acute exacerbation of chronic obstructive pulmonary disease care plan	Record Artifact	Type Concept	SNOMED	Valid	Non-standard
+42539611	736283006	Chronic obstructive pulmonary disease clinical management plan	Record Artifact	Type Concept	SNOMED	Valid	Non-standard
+44803333	713731000000102	Chronic obstructive pulmonary disease monitoring administration	Record Artifact	Type Concept	SNOMED	Valid	Non-standard
+44808944	851321000000106	Acute exacerbation of chronic obstructive pulmonary disease care plan	Record Artifact	Type Concept	SNOMED	Invalid	Non-standard
+45765814	702839006	Chronic obstructive pulmonary disease clinic	Location	Visit	SNOMED	Valid	Non-standard

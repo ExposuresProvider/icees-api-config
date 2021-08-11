@@ -1,0 +1,96 @@
+Id	Code	Name	Standard Class	Domain	Vocab	Validity	Concept
+1337860	3628	dopamine	Ingredient	Drug	RxNorm	Valid	Standard
+1337893	238217	Dopamine 160 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+1337894	238218	Dopamine 40 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+1337895	238219	Dopamine 80 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+1337896	242967	Dopamine 6.4 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+1337898	251821	Dopamine 5 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+1337932	328223	Dopamine 0.8 MG/ML	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+1337933	328224	Dopamine 1.6 MG/ML	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+1337934	328226	Dopamine 40 MG/ML	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+1337935	328227	Dopamine 80 MG/ML	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+1337938	333594	Dopamine 6.4 MG/ML	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+1337939	334616	Dopamine 20 MG/ML	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+1337940	334617	Dopamine 5 MG/ML	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+1337941	542916	Dopamine 80 MG/ML Injectable Solution [Intropin]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+1337972	727843	5 ML Dopamine 40 MG/ML Prefilled Syringe	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+1337973	727844	10 ML Dopamine 40 MG/ML Prefilled Syringe	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19000899	102360	Dopamine 160 MG/ML Injectable Solution [Intropin]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+19020016	198415	Dopamine 1 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19025508	201474	Dopamine 40 MG/ML Injectable Solution [Intropin]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+19064037	250958	Dopamine 20 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19069830	542915	Dopamine 80 MG/ML [Intropin]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19069851	562988	Dopamine 160 MG/ML [Intropin]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19069852	565918	Dopamine 40 MG/ML [Intropin]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19076710	310011	Dopamine 0.8 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19076731	310012	Dopamine 1.6 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19076732	310013	Dopamine 3.2 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19085195	330425	Dopamine 1 MG/ML	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19085196	330426	Dopamine 3.2 MG/ML	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19085198	330428	Dopamine 160 MG/ML	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19104258	413342	Dopamine 12 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19104394	414035	Dopamine 10 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19104498	415408	Dopamine 25 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19109662	439196	Dopamine 10 MG/ML	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19109663	439197	Dopamine 12 MG/ML	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19112196	452182	Dopamine 25 MG/ML	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19132924	82010	dopamine hydrochloride	Precise Ingredient	Drug	RxNorm	Valid	Non-standard
+35201973	2058464	100 ML dopamine hydrochloride 1.6 MG/ML Injection	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+35201974	2058465	100 ML dopamine hydrochloride 3.2 MG/ML Injection	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+35201975	2058469	100 ML dopamine hydrochloride 0.8 MG/ML Injection	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+35606558	1743862	dopamine Injection	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+35606559	1743864	dopamine hydrochloride 3.2 MG/ML Injection	Clinical Drug	Drug	RxNorm	Valid	Standard
+35606560	1743866	dopamine hydrochloride 160 MG/ML Injection	Clinical Drug	Drug	RxNorm	Valid	Standard
+35606561	1743869	250 ML dopamine hydrochloride 0.8 MG/ML Injection	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+35606562	1743870	dopamine hydrochloride 0.8 MG/ML Injection	Clinical Drug	Drug	RxNorm	Valid	Standard
+35606563	1743871	500 ML dopamine hydrochloride 0.8 MG/ML Injection	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+35606564	1743877	250 ML dopamine hydrochloride 1.6 MG/ML Injection	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+35606565	1743878	dopamine hydrochloride 1.6 MG/ML Injection	Clinical Drug	Drug	RxNorm	Valid	Standard
+35606566	1743879	500 ML dopamine hydrochloride 1.6 MG/ML Injection	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+35606567	1743938	10 ML dopamine hydrochloride 40 MG/ML Injection	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+35606568	1743939	dopamine hydrochloride 40 MG/ML Injection	Clinical Drug	Drug	RxNorm	Valid	Standard
+35606569	1743941	5 ML dopamine hydrochloride 40 MG/ML Injection	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+35606570	1743950	10 ML dopamine hydrochloride 80 MG/ML Injection	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+35606571	1743951	dopamine hydrochloride 80 MG/ML Injection	Clinical Drug	Drug	RxNorm	Valid	Standard
+35606572	1743953	5 ML dopamine hydrochloride 80 MG/ML Injection	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+36224502	1160755	dopamine Injectable Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+40031956	377100	dopamine Injectable Solution	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40031957	92979	Dopamine Injectable Solution [Intropin]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40141037	727842	dopamine Prefilled Syringe	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40240694	1114873	dopamine hydrochloride 160 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+40240695	1114874	5 ML dopamine hydrochloride 160 MG/ML Injection	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+40240696	1114876	Dopamine Hydrochloride 160 MG/ML Injectable Solution [Intropin]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+40240697	1114875	Dopamine Hydrochloride 160 MG/ML [Intropin]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+40240699	1114879	dopamine hydrochloride 40 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+40240700	1114880	Dopamine Hydrochloride 40 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+40240701	1114882	Dopamine Hydrochloride 40 MG/ML Injectable Solution [Intropin]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+40240702	1114881	Dopamine Hydrochloride 40 MG/ML [Intropin]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+40240703	1114887	dopamine hydrochloride 80 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+40240704	1114888	Dopamine Hydrochloride 80 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+40240705	1114890	Dopamine Hydrochloride 80 MG/ML Injectable Solution [Intropin]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+40240706	1114889	Dopamine Hydrochloride 80 MG/ML [Intropin]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+42799044	1292716	10 ML dopamine hydrochloride 40 MG/ML Prefilled Syringe	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+42799057	1292731	5 ML dopamine hydrochloride 40 MG/ML Prefilled Syringe	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+42799668	1293169	dopamine hydrochloride 0.4 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+42799669	1293170	dopamine hydrochloride 0.4 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+42799670	1292739	dopamine hydrochloride 0.8 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+42799671	1292740	Dopamine Hydrochloride 0.8 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+42799672	1292741	dopamine hydrochloride 1 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+42799673	1292742	dopamine hydrochloride 1 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+42799674	1292750	dopamine hydrochloride 1.6 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+42799675	1292751	Dopamine Hydrochloride 1.6 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+42799676	1292763	dopamine hydrochloride 10 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+42799677	1292764	dopamine hydrochloride 10 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+42799678	1292766	dopamine hydrochloride 12 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+42799679	1292767	dopamine hydrochloride 12 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+42799680	1292882	dopamine hydrochloride 20 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+42799681	1292883	dopamine hydrochloride 20 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+42799682	1292884	dopamine hydrochloride 25 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+42799683	1292885	dopamine hydrochloride 25 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+42799684	1292886	dopamine hydrochloride 3.2 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+42799685	1292887	250 ML dopamine hydrochloride 3.2 MG/ML Injection	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+42799704	1292888	dopamine hydrochloride 5 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+42799705	1292889	dopamine hydrochloride 5 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+42799706	1292898	dopamine hydrochloride 6.4 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+42799707	1292899	dopamine hydrochloride 6.4 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+42902632	1359745	dopamine hydrochloride 40 MG/ML Prefilled Syringe	Clinical Drug	Drug	RxNorm	Valid	Standard

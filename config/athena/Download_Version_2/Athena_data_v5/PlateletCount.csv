@@ -1,0 +1,63 @@
+﻿Id	Code	Name	Standard Class	Domain	Vocab	Validity	Concept
+4190643	415115007	Platelet count above reference range	Clinical Finding	Condition	SNOMED	Valid	Standard
+4190644	415116008	Platelet count below reference range	Clinical Finding	Condition	SNOMED	Valid	Standard
+4209512	441458001	Platelet count below reference range at birth	Clinical Finding	Condition	SNOMED	Valid	Standard
+4273307	365632008	Platelet count - finding	Clinical Finding	Condition	SNOMED	Valid	Standard
+4306265	165555003	Platelet count normal	Clinical Finding	Condition	SNOMED	Valid	Standard
+4306266	165558001	Platelet count abnormal	Clinical Finding	Condition	SNOMED	Valid	Standard
+4316372	95605009	HELLP syndrome	Clinical Finding	Condition	SNOMED	Valid	Standard
+40301838	142968000	Platelet count normal	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40301842	142971008	Platelet count abnormal	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40624797	70786006	Thrombocytopenia	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+"45882671	LA17012-8	Low blood counts, anemia, low white blood cell count, or low platelet count	Answer	Meas Value	LOINC	Valid	Standard"
+"2212638	85007	Blood count; blood smear, microscopic examination with manual differential WBC count	CPT4	Measurement	CPT4	Valid	Standard"
+"2212639	85008	Blood count; blood smear, microscopic examination without manual differential WBC count	CPT4	Measurement	CPT4	Valid	Standard"
+"2212648	85025	Blood count; complete (CBC), automated (Hgb, Hct, RBC, WBC and platelet count) and automated differential WBC count	CPT4	Measurement	CPT4	Valid	Standard"
+"2212649	85027	Blood count; complete (CBC), automated (Hgb, Hct, RBC, WBC and platelet count)	CPT4	Measurement	CPT4	Valid	Standard"
+"2212651	85032	Blood count; manual cell count (erythrocyte, leukocyte, or platelet) each	CPT4	Measurement	CPT4	Valid	Standard"
+"2212657	85049	Blood count; platelet, automated	CPT4	Measurement	CPT4	Valid	Standard"
+3006297	26516-5	Platelets [#/volume] in Plasma	Lab Test	Measurement	LOINC	Valid	Standard
+3006985	15201-7	Platelets Large Fragments [#/volume] in Blood by Manual count	Lab Test	Measurement	LOINC	Valid	Standard
+3007461	26515-7	Platelets [#/volume] in Blood	Lab Test	Measurement	LOINC	Valid	Standard
+3010834	778-1	Platelets [#/volume] in Blood by Manual count	Lab Test	Measurement	LOINC	Valid	Standard
+3016682	13056-7	Platelets [#/volume] in Plasma by Automated count	Lab Test	Measurement	LOINC	Valid	Standard
+3017990	5907-1	Deprecated Platelets [#/volume] in Blood by Automated count	Lab Test	Measurement	LOINC	Invalid	Non-standard
+3024929	777-3	Platelets [#/volume] in Blood by Automated count	Lab Test	Measurement	LOINC	Valid	Standard
+3031586	49497-1	Platelets [#/volume] in Blood by Estimate	Lab Test	Measurement	LOINC	Valid	Standard
+3039085	51632-8	Platelets reticulated [#/volume] in Blood	Lab Test	Measurement	LOINC	Invalid	Non-standard
+3039827	40574-6	Platelets [#/volume] in Body fluid by Automated count	Lab Test	Measurement	LOINC	Valid	Standard
+3051319	47284-5	Platelets [#/volume] in Cord blood	Lab Test	Measurement	LOINC	Valid	Standard
+36031577	96354-6	Platelets Large [#/volume] in Blood by Automated count	Lab Test	Measurement	LOINC	Valid	Standard
+40758923	55802-3	Platelets [#/volume] in Cord blood by Estimate	Lab Test	Measurement	LOINC	Valid	Standard
+40765005	62244-9	Platelets [#/volume] in Blood from Fetus by Automated count	Lab Test	Measurement	LOINC	Valid	Standard
+42869449	71692-8	Platelets reticulated [#/volume] in Blood by Automated count	Lab Test	Measurement	LOINC	Valid	Standard
+44787107	74464-9	Platelets [#/volume] in Capillary blood by Manual count	Lab Test	Measurement	LOINC	Valid	Standard
+44816673	74775-8	Platelets [#/volume] in Platelet rich plasma by Automated count	Lab Test	Measurement	LOINC	Valid	Standard
+45616850	D010976	Platelet Count	Main Heading	Measurement	MeSH	Valid	Non-standard
+3550564	39851000000106	Percentage reticulated platelet count	Procedure	Measurement	SNOMED	Invalid	Non-standard
+3550655	42161000000105	Percentage reticulated platelet count	Procedure	Measurement	SNOMED	Invalid	Non-standard
+3550814	45791000000107	Percentage reticulated platelet count	Observable Entity	Measurement	SNOMED	Invalid	Non-standard
+3550994	79751000000101	Percentage reticulated platelet count	Procedure	Measurement	SNOMED	Invalid	Non-standard
+3557373	545881000000101	Platelet count NOS	Procedure	Measurement	SNOMED	Invalid	Non-standard
+"4015052	104091002	Hemogram, automated, with RBC, WBC, Hgb, Hct, Indices, Platelet count, and manual WBC differential	Procedure	Measurement	SNOMED	Valid	Standard"
+"4015170	104107006	Platelet count, blood, automated	Procedure	Measurement	SNOMED	Valid	Standard"
+"4016231	104106002	Platelet count, blood, manual	Procedure	Measurement	SNOMED	Valid	Standard"
+"4016927	104092009	Hemogram, automated, with RBC, WBC, Hgb, Hct, Indices, Platelet count, and automated partial WBC differential	Procedure	Measurement	SNOMED	Valid	Standard"
+"4016928	104093004	Hemogram, automated, with RBC, WBC, Hgb, Hct, Indices, Platelet count, and automated complete WBC differential	Procedure	Measurement	SNOMED	Valid	Standard"
+"4038124	117249008	Platelet count, Rees-Ecker method	Procedure	Measurement	SNOMED	Valid	Standard"
+4267147	61928009	Platelet count	Procedure	Measurement	SNOMED	Valid	Standard
+4270019	401296001	Percentage reticulated platelet count	Procedure	Measurement	SNOMED	Valid	Standard
+4306443	165560004	Platelet count NOS	Procedure	Measurement	SNOMED	Invalid	Non-standard
+37208696	1108041000000107	Platelet count in blood	Observable Entity	Measurement	SNOMED	Valid	Standard
+37393863	1022651000000100	Platelet count	Observable Entity	Measurement	SNOMED	Valid	Standard
+37397896	993161000000104	Percentage reticulated platelet count	Observable Entity	Measurement	SNOMED	Valid	Standard
+40301837	142967005	Platelet count	Procedure	Measurement	SNOMED	Invalid	Non-standard
+40301844	142973006	Platelet count NOS	Procedure	Measurement	SNOMED	Invalid	Non-standard
+44806871	803431000000106	Immature platelet fraction count	Procedure	Measurement	SNOMED	Valid	Standard
+"506552	1051531000000104	H/O: HELLP (haemolysis, elevated liver enzymes, low platelet count) syndrome	Context-dependent	Observation	SNOMED	Invalid	Non-standard"
+3576041	75491000000101	Percentage reticulated platelet count	Undefined	Observation	SNOMED	Invalid	Non-standard
+37111517	726513006	History of hemolysis-elevated liver enzymes-low platelet count syndrome	Context-dependent	Observation	SNOMED	Valid	Standard
+"42738269	85023	Blood count; hemogram and platelet count, automated, and manual differential WBC count (CBC) (Deprecated)	CPT4	Procedure	CPT4	Valid	Standard"
+"42738270	85024	Blood count; hemogram and platelet count, automated, and automated partial differential WBC count (CBC) (Deprecated)	CPT4	Procedure	CPT4	Valid	Standard"
+42739636	85590	Platelet; manual count (Deprecated)	CPT4	Procedure	CPT4	Valid	Standard
+42739637	85595	Platelet; automated count (Deprecated)	CPT4	Procedure	CPT4	Valid	Standard

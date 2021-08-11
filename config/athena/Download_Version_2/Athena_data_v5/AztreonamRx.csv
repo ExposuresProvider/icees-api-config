@@ -1,0 +1,42 @@
+Id	Code	Name	Standard Class	Domain	Vocab	Validity	Concept
+1356134	2108283	aztreonam Inhalation Solution	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+1356135	2108285	aztreonam Inhalation Solution [Cayston]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+1715117	1272	aztreonam	Ingredient	Drug	RxNorm	Valid	Standard
+1715119	213589	Aztreonam 20 MG/ML Injectable Solution [Azactam]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+1715144	315452	Aztreonam 20 MG/ML	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+1715145	315453	Aztreonam 40 MG/ML	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19025854	201828	Aztreonam 333 MG/ML Injectable Solution [Azactam]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+19042988	573465	Aztreonam 20 MG/ML [Azactam]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19042989	573466	Aztreonam 40 MG/ML [Azactam]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19047931	213590	Aztreonam 40 MG/ML Injectable Solution [Azactam]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+19073780	308466	Aztreonam 20 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19073791	308467	Aztreonam 333 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19073792	308468	Aztreonam 40 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19094972	340910	Aztreonam 333 MG/ML	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19117663	566024	Aztreonam 333 MG/ML [Azactam]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+36212965	1155014	aztreonam Inhalant Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36212966	1155015	aztreonam Injectable Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+40013092	350570	Aztreonam 1 MG	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+40013093	349247	Aztreonam 1 MG Injectable Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+40013103	376825	Aztreonam Injectable Solution	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40013104	91897	Aztreonam Injectable Solution [Azactam]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40173626	901608	aztreonam 75 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+40173627	901610	aztreonam 75 MG/ML Inhalation Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+40173628	901614	aztreonam 75 MG/ML Inhalation Solution [Cayston]	Branded Drug	Drug	RxNorm	Valid	Standard
+40173629	901612	aztreonam 75 MG/ML [Cayston]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+40173630	901609	Aztreonam Inhalant Solution	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40173631	901613	Aztreonam Inhalant Solution [Cayston]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40175509	968700	1 ML Aztreonam 75 MG/ML Inhalant Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+40175510	968702	1 ML Aztreonam 75 MG/ML Inhalant Solution [Cayston]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+40175963	968703	{84 (1 ML Aztreonam 75 MG/ML Inhalant Solution [Cayston]) } Pack [Cayston 28 Day]	Branded Pack	Drug	RxNorm	Invalid	Non-standard
+40175964	968701	{84 (1 ML Aztreonam 75 MG/ML Inhalant Solution) } Pack	Clinical Pack	Drug	RxNorm	Invalid	Non-standard
+46287305	1664979	aztreonam 1000 MG	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+46287306	1664980	aztreonam Injection	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+46287307	1664981	aztreonam 1000 MG Injection	Clinical Drug	Drug	RxNorm	Valid	Standard
+46287308	1664982	aztreonam 1000 MG [Azactam]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+46287309	1664983	aztreonam Injection [Azactam]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+46287310	1664984	aztreonam 1000 MG Injection [Azactam]	Branded Drug	Drug	RxNorm	Valid	Standard
+46287311	1664985	aztreonam 2000 MG	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+46287312	1664986	aztreonam 2000 MG Injection	Clinical Drug	Drug	RxNorm	Valid	Standard
+46287313	1664987	aztreonam 2000 MG [Azactam]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+46287314	1664988	aztreonam 2000 MG Injection [Azactam]	Branded Drug	Drug	RxNorm	Valid	Standard

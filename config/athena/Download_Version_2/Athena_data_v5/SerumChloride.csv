@@ -1,0 +1,7 @@
+﻿Id	Code	Name	Standard Class	Domain	Vocab	Validity	Concept
+4042572	166696002	Serum chloride level abnormal	Clinical Finding	Condition	SNOMED	Valid	Standard
+4043091	166695003	Serum chloride level normal	Clinical Finding	Condition	SNOMED	Valid	Standard
+4153270	271238006	Serum chloride measurement	Procedure	Measurement	SNOMED	Valid	Standard
+37392173	1000671000000100	Serum chloride level	Observable Entity	Measurement	SNOMED	Valid	Standard
+40307199	143996004	Serum chloride (& level)	Procedure	Measurement	SNOMED	Invalid	Non-standard
+40328430	166694004	Serum chloride (& level)	Procedure	Measurement	SNOMED	Invalid	Non-standard

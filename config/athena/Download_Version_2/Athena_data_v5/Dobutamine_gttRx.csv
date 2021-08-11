@@ -1,0 +1,35 @@
+Id	Code	Name	Standard Class	Domain	Vocab	Validity	Concept
+1337720	3616	dobutamine	Ingredient	Drug	RxNorm	Valid	Standard
+1337748	328215	dobutamine 12.5 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+1337749	328216	dobutamine 0.5 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+1337750	328217	dobutamine 1 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+1337751	328218	dobutamine 4 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+1337753	345811	dobutamine 2 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+1719036	1812167	dobutamine Injection	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+1719037	1812168	20 ML dobutamine 12.5 MG/ML Injection	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+1719038	1812169	dobutamine 12.5 MG/ML Injection	Clinical Drug	Drug	RxNorm	Valid	Standard
+1719039	1812170	40 ML dobutamine 12.5 MG/ML Injection	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+1719040	1812184	dobutamine 2 MG/ML Injection	Clinical Drug	Drug	RxNorm	Valid	Standard
+1719041	1812186	dobutamine 4 MG/ML Injection	Clinical Drug	Drug	RxNorm	Valid	Standard
+1719042	1812188	dobutamine 1 MG/ML Injection	Clinical Drug	Drug	RxNorm	Valid	Standard
+19025507	201473	Dobutamine 12.5 MG/ML Injectable Solution [Dobutrex]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+19026519	203121	dobutamine hydrochloride	Precise Ingredient	Drug	RxNorm	Valid	Non-standard
+19027360	204395	Dobutamine 12.5 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19037767	565917	Dobutamine 12.5 MG/ML [Dobutrex]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19065473	252860	dobutamine 50 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+19076656	309983	Dobutamine 0.25 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19076657	309984	dobutamine 0.5 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+19076658	309985	250 ML dobutamine 1 MG/ML Injection	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+19076659	309986	250 ML dobutamine 2 MG/ML Injection	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+19076660	309987	250 ML dobutamine 4 MG/ML Injection	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+19084020	329709	Dobutamine 0.25 MG/ML	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19091005	334605	dobutamine 50 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+19104158	412816	Dobutamine 5 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19109636	439152	Dobutamine 5 MG/ML	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+36224130	1159604	dobutamine Injectable Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+37499144	2283529	dobutamine 12.5 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+37499146	2283531	dobutamine 12.5 MG/ML [Dobutrex]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+37499147	2283532	dobutamine Injectable Solution [Dobutrex]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+37499149	2283534	dobutamine 12.5 MG/ML Injectable Solution [Dobutrex]	Branded Drug	Drug	RxNorm	Valid	Standard
+40035704	374370	dobutamine Injectable Solution	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40035705	362607	Dobutamine Injectable Solution [Dobutrex]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard

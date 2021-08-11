@@ -1,0 +1,33 @@
+﻿Id	Code	Name	Standard Class	Domain	Vocab	Validity	Concept
+"1403142	A15.101	Tuberculosis, tumors, sputum culture () (machine translation)	ICD10 code	Condition	ICD10CN	Valid	Non-standard"
+"1403143	A15.102	Cheese pulmonary tuberculosis, sputum culture () (machine translation)	ICD10 code	Condition	ICD10CN	Valid	Non-standard"
+"1403144	A15.103	Tuberculosis, pulmonary fibrosis, sputum culture () (machine translation)	ICD10 code	Condition	ICD10CN	Valid	Non-standard"
+"1403145	A15.104	Tuberculous pneumonia, sputum culture () (machine translation)	ICD10 code	Condition	ICD10CN	Valid	Non-standard"
+"1403146	A15.105	Tuberculous pneumothorax, sputum culture () (machine translation)	ICD10 code	Condition	ICD10CN	Valid	Non-standard"
+"1403147	A15.106	Tuberculosis, bronchiectasis, sputum culture () (machine translation)	ICD10 code	Condition	ICD10CN	Valid	Non-standard"
+"1403148	A15.107	Cavitary pulmonary tuberculosis, sputum culture () (machine translation)	ICD10 code	Condition	ICD10CN	Valid	Non-standard"
+"1403149	A15.108	Pulmonary tuberculosis, sputum culture () (machine translation)	ICD10 code	Condition	ICD10CN	Valid	Non-standard"
+"1403150	A15.109	Proliferation tuberculosis, sputum culture () (machine translation)	ICD10 code	Condition	ICD10CN	Valid	Non-standard"
+"1403242	A16.010	Tuberculosis, sputum culture (-) (machine translation)	ICD10 code	Condition	ICD10CN	Valid	Non-standard"
+"1403243	A16.011	Tuberculosis, tumors, sputum culture (-) (machine translation)	ICD10 code	Condition	ICD10CN	Valid	Non-standard"
+"1403244	A16.012	Tuberculous pneumonia, sputum culture (-) (machine translation)	ICD10 code	Condition	ICD10CN	Valid	Non-standard"
+"1403245	A16.013	Tuberculosis, pulmonary fibrosis, sputum culture (-) (machine translation)	ICD10 code	Condition	ICD10CN	Valid	Non-standard"
+"1403246	A16.014	Tuberculous pneumothorax, sputum culture (-) (machine translation)	ICD10 code	Condition	ICD10CN	Valid	Non-standard"
+"1403248	A16.015	Tuberculosis, bronchiectasis, sputum culture (-) (machine translation)	ICD10 code	Condition	ICD10CN	Valid	Non-standard"
+"1403249	A16.016	Cheese lung tuberculosis, sputum culture (-) (machine translation)	ICD10 code	Condition	ICD10CN	Valid	Non-standard"
+"1403250	A16.017	Cavitary pulmonary tuberculosis, sputum culture (-) (machine translation)	ICD10 code	Condition	ICD10CN	Valid	Non-standard"
+"1403251	A16.018	Pulmonary tuberculosis, sputum culture (-) (machine translation)	ICD10 code	Condition	ICD10CN	Valid	Non-standard"
+"1403252	A16.019	Proliferation tuberculosis, sputum culture (-) (machine translation)	ICD10 code	Condition	ICD10CN	Valid	Non-standard"
+37204131	23021000175100	Contamination of sputum culture	Clinical Finding	Condition	SNOMED	Valid	Standard
+46270040	12700001000004106	Sputum culture positive for Pseudomonas	Clinical Finding	Condition	SNOMED	Valid	Standard
+46270072	13290001000004109	Sputum culture positive for Aspergillus	Clinical Finding	Condition	SNOMED	Valid	Standard
+46270075	13320001000004109	Positive sputum culture for hRSV (Human respiratory syncytial virus)	Clinical Finding	Condition	SNOMED	Valid	Standard
+46273057	711535003	Sputum culture positive for extended beta lactamase producing Escherichia coli	Clinical Finding	Condition	SNOMED	Valid	Standard
+3001355	577-7	Fungus identified in Sputum by Culture	Lab Test	Measurement	LOINC	Valid	Standard
+3016981	14458-4	Virus identified in Sputum by Culture	Lab Test	Measurement	LOINC	Valid	Standard
+3023419	6460-0	Bacteria identified in Sputum by Culture	Lab Test	Measurement	LOINC	Valid	Standard
+4015191	104184002	Sputum culture for mycobacterium	Procedure	Measurement	SNOMED	Valid	Standard
+40312248	145234008	Sputum culture	Procedure	Measurement	SNOMED	Invalid	Non-standard
+40334108	168005003	Sputum culture	Procedure	Measurement	SNOMED	Invalid	Non-standard
+"2007183	90.42	Microscopic examination of specimen from trachea, bronchus, pleura, lung, and other thoracic specimen, and of sputum, culture	4-dig billing code	Procedure	ICD9Proc	Valid	Standard"
+"2007184	90.43	Microscopic examination of specimen from trachea, bronchus, pleura, lung, and other thoracic specimen, and of sputum, culture and sensitivity	4-dig billing code	Procedure	ICD9Proc	Valid	Standard"

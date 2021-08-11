@@ -1,0 +1,15 @@
+Id	Code	Name	Standard Class	Domain	Vocab	Validity	Concept
+1145689	2367757	remdesivir 5 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+1145690	2367759	remdesivir 5 MG/ML Injection	Clinical Drug	Drug	RxNorm	Valid	Standard
+1146730	2367758	20 ML remdesivir 5 MG/ML Injection	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+37002793	2395499	remdesivir 100 MG [Veklury]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+37002794	2395500	remdesivir Injection [Veklury]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+37002796	2395502	remdesivir 100 MG Injection [Veklury]	Branded Drug	Drug	RxNorm	Valid	Standard
+37002797	2395503	remdesivir 5 MG/ML [Veklury]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+37002798	2395505	remdesivir 5 MG/ML Injection [Veklury]	Branded Drug	Drug	RxNorm	Valid	Standard
+37003601	2395504	20 ML remdesivir 5 MG/ML Injection [Veklury]	Quant Branded Drug	Drug	RxNorm	Valid	Standard
+37499271	2284718	remdesivir	Ingredient	Drug	RxNorm	Valid	Standard
+37499272	2284957	remdesivir 100 MG	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+37499273	2284958	remdesivir Injectable Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+37499274	2284959	remdesivir Injection	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+37499275	2284960	remdesivir 100 MG Injection	Clinical Drug	Drug	RxNorm	Valid	Standard

@@ -1,0 +1,44 @@
+﻿Id	Code	Name	Standard Class	Domain	Vocab	Validity	Concept
+45610463	D003324	Coronary Artery Disease	Main Heading	Condition	MeSH	Valid	Non-standard
+317576	53741008	Coronary arteriosclerosis	Clinical Finding	Condition	SNOMED	Valid	Standard
+4080593	240567009	Syphilitic coronary artery disease	Clinical Finding	Condition	SNOMED	Valid	Standard
+4108673	194843003	Double coronary vessel disease	Clinical Finding	Condition	SNOMED	Valid	Standard
+4111393	194842008	Single coronary vessel disease	Clinical Finding	Condition	SNOMED	Valid	Standard
+4119951	233844002	Accelerated coronary artery disease in transplanted heart	Clinical Finding	Condition	SNOMED	Valid	Standard
+4119952	233845001	Cardiac syndrome X	Clinical Finding	Condition	SNOMED	Valid	Standard
+4124682	233817007	Triple vessel disease of the heart	Clinical Finding	Condition	SNOMED	Valid	Standard
+4155007	371803003	Multi vessel coronary artery disease	Clinical Finding	Condition	SNOMED	Valid	Standard
+4155962	371804009	Left main coronary artery disease	Clinical Finding	Condition	SNOMED	Valid	Standard
+4168972	420006002	Obliterative coronary artery disease	Clinical Finding	Condition	SNOMED	Valid	Standard
+36684978	459701000124101	Coronary small artery disease	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+37309630	16891151000119103	Coronary artery disease due to type 2 diabetes mellitus	Clinical Finding	Condition	SNOMED	Valid	Standard
+40398869	194841001	Coronary (atherosclerosis or artery disease) or triple vessel disease of the heart	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40552085	373144005	Single vessel coronary artery disease	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40552086	373145006	Double vessel coronary artery disease	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40552087	373146007	Triple vessel coronary artery disease	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40597938	41702007	Coronary atherosclerosis	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40641917	8957000	Coronary artery disease	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+43020660	472100003	Ischemic dilated cardiomyopathy due to coronary artery disease	Clinical Finding	Condition	SNOMED	Valid	Standard
+45766165	703273002	Heart failure with reduced ejection fraction due to coronary artery disease	Clinical Finding	Condition	SNOMED	Valid	Standard
+"36307799	LA27838-4	Coronary artery disease (CAD) (e.g., angina, myocardial infarction, and atherosclerotic heart disease (ASHD))	Answer	Meas Value	LOINC	Valid	Standard"
+36309684	LA25636-4	Cardio/pulm: Coronary artery disease	Answer	Meas Value	LOINC	Valid	Standard
+21491691	78940-4	Coronary artery disease risk factor panel	Clinical Observation	Measurement	LOINC	Valid	Standard
+4128423	304915008	Duke's coronary artery disease score	Staging / Scales	Measurement	SNOMED	Valid	Standard
+"42627948	81493	Coronary artery disease, mRNA, gene expression profiling by real-time RT-PCR of 23 genes, utilizing whole peripheral blood, algorithm reported as a risk score	CPT4	Observation	CPT4	Valid	Standard"
+1014041	LP193302-9	Coronary artery disease risk factor panel	LOINC Component	Observation	LOINC	Valid	Non-standard
+1014826	LP207937-6	Premature coronary artery disease	LOINC Component	Observation	LOINC	Valid	Non-standard
+1033994	LP89996-0	Coronary artery disease in last 7 days	LOINC Component	Observation	LOINC	Valid	Non-standard
+21494240	80985-5	Family history of Premature coronary artery disease	Clinical Observation	Observation	LOINC	Valid	Standard
+40757908	54777-8	Coronary artery disease in last 7 days [MDSv3]	Survey	Observation	LOINC	Valid	Standard
+3542663	709881000000108	Coronary artery disease excluded	Context-dependent	Observation	SNOMED	Invalid	Non-standard
+3542664	709891000000105	Coronary artery disease excluded	Context-dependent	Observation	SNOMED	Invalid	Non-standard
+4177223	428308007	History of percutaneous transluminal coronary angioplasty	Context-dependent	Observation	SNOMED	Valid	Standard
+4180760	428375006	History of placement of stent for coronary artery disease	Context-dependent	Observation	SNOMED	Valid	Standard
+4326027	430091005	Family history of coronary arteriosclerosis	Context-dependent	Observation	SNOMED	Valid	Standard
+43021388	473146006	Coronary arteriosclerosis excluded	Context-dependent	Observation	SNOMED	Valid	Standard
+44783149	699196002	Coronary artery disease absent	Context-dependent	Observation	SNOMED	Valid	Standard
+725125	1031065	Noninvasive estimated coronary fractional flow reserve (FFR) derived from coronary computed tomography angiography data using computation fluid dynamics physiologic simulation software analysis of functional data to assess the severity of coronary arte...	CPT4 Hierarchy	Procedure	CPT4	Valid	Classification
+725127	0501T	Noninvasive estimated coronary fractional flow reserve (FFR) derived from coronary computed tomography angiography data using computation fluid dynamics physiologic simulation software analysis of functional data to assess the severity of coronary arte...	CPT4	Procedure	CPT4	Valid	Standard
+725128	0502T	Noninvasive estimated coronary fractional flow reserve (FFR) derived from coronary computed tomography angiography data using computation fluid dynamics physiologic simulation software analysis of functional data to assess the severity of coronary arte...	CPT4	Procedure	CPT4	Valid	Standard
+725129	0503T	Noninvasive estimated coronary fractional flow reserve (FFR) derived from coronary computed tomography angiography data using computation fluid dynamics physiologic simulation software analysis of functional data to assess the severity of coronary arte...	CPT4	Procedure	CPT4	Valid	Standard
+725130	0504T	Noninvasive estimated coronary fractional flow reserve (FFR) derived from coronary computed tomography angiography data using computation fluid dynamics physiologic simulation software analysis of functional data to assess the severity of coronary arte...	CPT4	Procedure	CPT4	Valid	Standard

@@ -1,0 +1,101 @@
+﻿Id	Code	Name	Standard Class	Domain	Vocab	Validity	Concept
+45757881	462283006	Pulse oximetry telemetric monitoring system receiver	Physical Object	Device	SNOMED	Valid	Standard
+45757945	462385001	Pulse oximetry telemetric monitoring system transmitter	Physical Object	Device	SNOMED	Valid	Standard
+45758059	462558007	Pulse oximetry telemetric monitoring system	Physical Object	Device	SNOMED	Valid	Standard
+"45758197	462761006	Patient monitoring system module, pulse oximetry	Physical Object	Device	SNOMED	Valid	Standard"
+36308002	LA24027-7	Pulse oximetry	Answer	Meas Value	LOINC	Valid	Standard
+"2212349	82805	Gases, blood, any combination of pH, pCO2, pO2, CO2, HCO3 (including calculated O2 saturation); with O2 saturation, by direct measurement, except pulse oximetry	CPT4	Measurement	CPT4	Valid	Standard"
+"2212350	82810	Gases, blood, O2 saturation only, by direct measurement, except pulse oximetry	CPT4	Measurement	CPT4	Valid	Standard"
+3000703	19948-9	Deprecated Fractional oxyhemoglobin in 8 hour maximum by Pulse oximetry	Clinical Observation	Measurement	LOINC	Invalid	Non-standard
+3001213	19954-7	Deprecated Fractional oxyhemoglobin in Blood Postductal by Pulse oximetry	Clinical Observation	Measurement	LOINC	Invalid	Non-standard
+3001376	8889-8	Heart rate by Pulse oximetry	Clinical Observation	Measurement	LOINC	Valid	Standard
+3001407	19960-4	Deprecated Fractional oxyhemoglobin by Pulse oximetry --on room air	Clinical Observation	Measurement	LOINC	Invalid	Non-standard
+3002881	19952-1	Deprecated Fractional oxyhemoglobin in Blood Preductal by Pulse oximetry	Clinical Observation	Measurement	LOINC	Invalid	Non-standard
+3005299	19950-5	Deprecated Fractional oxyhemoglobin in 8 hour minimum by Pulse oximetry	Clinical Observation	Measurement	LOINC	Invalid	Non-standard
+3008093	19968-7	Deprecated Fractional oxyhemoglobin by Pulse oximetry --pre physiotherapy	Clinical Observation	Measurement	LOINC	Invalid	Non-standard
+3013491	19966-1	Deprecated Fractional oxyhemoglobin by Pulse oximetry --pre bronchodilation	Clinical Observation	Measurement	LOINC	Invalid	Non-standard
+3020245	19958-8	Deprecated Fractional oxyhemoglobin by Pulse oximetry --during treatment	Clinical Observation	Measurement	LOINC	Invalid	Non-standard
+3034524	19956-2	Deprecated Fractional oxyhemoglobin by Pulse oximetry --during bronchodilation	Clinical Observation	Measurement	LOINC	Invalid	Non-standard
+3035417	19962-0	Deprecated Fractional oxyhemoglobin by Pulse oximetry --post bronchodilation	Clinical Observation	Measurement	LOINC	Invalid	Non-standard
+3035918	19964-6	Deprecated Fractional oxyhemoglobin by Pulse oximetry --post treatment	Clinical Observation	Measurement	LOINC	Invalid	Non-standard
+3037403	19970-3	Deprecated Fractional oxyhemoglobin by Pulse oximetry --pre treatment	Clinical Observation	Measurement	LOINC	Invalid	Non-standard
+3038280	40591-0	Deprecated Fractional oxyhemoglobin by Pulse oximetry --post exercise	Clinical Observation	Measurement	LOINC	Invalid	Non-standard
+3041279	40592-8	Deprecated Fractional oxyhemoglobin by Pulse oximetry --resting	Clinical Observation	Measurement	LOINC	Invalid	Non-standard
+3042971	44616-1	Deprecated Pulse oximetry panel	Clinical Observation	Measurement	LOINC	Invalid	Non-standard
+21492229	76520-6	Transmission.infrared Arterial blood Pulse oximetry	Clinical Observation	Measurement	LOINC	Valid	Standard
+21492230	76521-4	Transmission.red Arterial blood Pulse oximetry	Clinical Observation	Measurement	LOINC	Valid	Standard
+21492231	76522-2	Transmission Arterial blood Pulse oximetry	Clinical Observation	Measurement	LOINC	Valid	Standard
+21492232	76523-0	Plethysmogram Arterial blood Pulse oximetry	Clinical Observation	Measurement	LOINC	Valid	Standard
+36303575	89272-9	Oxygen saturation in Arterial blood by Pulse oximetry --during apnea	Lab Test	Measurement	LOINC	Invalid	Non-standard
+36304254	89277-8	Oxygen saturation in Arterial blood by Pulse oximetry --during anesthesia	Lab Test	Measurement	LOINC	Valid	Standard
+36305056	86904-0	Carboxyhemoglobin/Hemoglobin.total in Arterial blood by Pulse oximetry	Clinical Observation	Measurement	LOINC	Valid	Standard
+36305237	89276-0	Oxygen saturation in Arterial blood by Pulse oximetry --W exercise	Lab Test	Measurement	LOINC	Valid	Standard
+37066329	LP409177-5	Pulse oximetry site | * | Respiratory measures and Ventilator management	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+40762496	59405-1	Oxygen saturation (8 hour maximum) in Arterial blood Pulse oximetry	Clinical Observation	Measurement	LOINC	Valid	Standard
+40762497	59406-9	Oxygen saturation (8 hour minimum) in Arterial blood Pulse oximetry	Clinical Observation	Measurement	LOINC	Valid	Standard
+40762498	59407-7	Oxygen saturation in Blood Preductal by Pulse oximetry	Clinical Observation	Measurement	LOINC	Valid	Standard
+40762499	59408-5	Oxygen saturation in Arterial blood by Pulse oximetry	Clinical Observation	Measurement	LOINC	Valid	Standard
+40762500	59409-3	Oxygen saturation in Arterial blood by Pulse oximetry --during treatment	Clinical Observation	Measurement	LOINC	Valid	Standard
+40762501	59410-1	Oxygen saturation in Arterial blood by Pulse oximetry --on room air	Clinical Observation	Measurement	LOINC	Valid	Standard
+40762502	59411-9	Oxygen saturation in Arterial blood by Pulse oximetry --post bronchodilation	Clinical Observation	Measurement	LOINC	Valid	Standard
+40762503	59412-7	Oxygen saturation in Arterial blood by Pulse oximetry --post exercise	Clinical Observation	Measurement	LOINC	Valid	Standard
+40762504	59413-5	Oxygen saturation in Arterial blood by Pulse oximetry --post treatment	Clinical Observation	Measurement	LOINC	Valid	Standard
+40762505	59414-3	Oxygen saturation in Arterial blood by Pulse oximetry --pre bronchodilation	Clinical Observation	Measurement	LOINC	Valid	Standard
+40762506	59415-0	Oxygen saturation in Arterial blood by Pulse oximetry --pre physiotherapy	Clinical Observation	Measurement	LOINC	Valid	Standard
+40762507	59416-8	Oxygen saturation in Arterial blood by Pulse oximetry --pre treatment	Clinical Observation	Measurement	LOINC	Valid	Standard
+40762508	59417-6	Oxygen saturation in Arterial blood by Pulse oximetry --resting	Clinical Observation	Measurement	LOINC	Valid	Standard
+40762509	59418-4	Oxygen saturation in Blood Postductal by Pulse oximetry	Clinical Observation	Measurement	LOINC	Valid	Standard
+40765363	62627-5	Deprecated PhenX measure - respiratory - pulse oximetry - exercise	Clinical Observation	Measurement	LOINC	Invalid	Non-standard
+40765364	62628-3	PhenX - respiratory - pulse oximetry - exercise protocol 091001	Clinical Observation	Measurement	LOINC	Valid	Standard
+40765466	62733-1	PhenX - respiratory - pulse oximetry - rest protocol 091101	Clinical Observation	Measurement	LOINC	Valid	Standard
+40765467	62734-9	Deprecated PhenX measure - respiratory - pulse oximetry - rest	Clinical Observation	Measurement	LOINC	Invalid	Non-standard
+43054872	61006-3	Perfusion index Tissue by Pulse oximetry	Clinical Observation	Measurement	LOINC	Valid	Standard
+43533816	73793-2	Signal quality Blood Postductal Pulse oximetry	Clinical Observation	Measurement	LOINC	Valid	Standard
+43533817	73794-0	Perfusion index Blood Postductal Pulse oximetry	Clinical Observation	Measurement	LOINC	Valid	Standard
+43533818	73795-7	Heart rate Blood Postductal Pulse oximetry	Clinical Observation	Measurement	LOINC	Valid	Standard
+43533820	73797-3	Signal quality Blood Preductal Pulse oximetry	Clinical Observation	Measurement	LOINC	Valid	Standard
+43533821	73798-1	Perfusion index Blood Preductal Pulse oximetry	Clinical Observation	Measurement	LOINC	Valid	Standard
+43533822	73799-9	Heart rate Blood Preductal Pulse oximetry	Clinical Observation	Measurement	LOINC	Valid	Standard
+45613201	D010092	Oximetry	Main Heading	Measurement	MeSH	Valid	Non-standard
+3554233	226441000000107	Continuous pulse oximetry	Procedure	Measurement	SNOMED	Invalid	Non-standard
+3554561	255841000000103	Overnight pulse oximetry	Procedure	Measurement	SNOMED	Invalid	Non-standard
+3555590	341311000000101	Pulse waveform amplitude using pulse oximetry	Observable Entity	Measurement	SNOMED	Invalid	Non-standard
+3560189	891431000000108	Post-exercise pulse oximetry	Procedure	Measurement	SNOMED	Invalid	Non-standard
+4082816	277923006	Pulse oximetry waveform	Observable Entity	Measurement	SNOMED	Valid	Standard
+4091874	252568001	Overnight pulse oximetry	Procedure	Measurement	SNOMED	Valid	Standard
+4098046	252465000	Pulse oximetry	Procedure	Measurement	SNOMED	Valid	Standard
+4140593	427064004	Continuous pulse oximetry	Procedure	Measurement	SNOMED	Valid	Standard
+4197762	431591009	Pulse waveform amplitude using pulse oximetry	Observable Entity	Measurement	SNOMED	Valid	Standard
+44783377	699463009	Intermittent pulse oximetry	Procedure	Measurement	SNOMED	Valid	Standard
+44808982	861341000000108	Post-exercise pulse oximetry	Procedure	Measurement	SNOMED	Valid	Standard
+"2106213	3028F	Oxygen saturation results documented and reviewed (includes assessment through pulse oximetry or arterial blood gas measurement) (CAP, COPD) (EM)	CPT4	Observation	CPT4	Valid	Standard"
+1005433	LP111912-4	PhenX - respiratory - pulse oximetry - exercise protocol 091001	LOINC Component	Observation	LOINC	Valid	Non-standard
+1005492	LP111971-0	PhenX measure - respiratory - pulse oximetry - exercise	LOINC Component	Observation	LOINC	Invalid	Non-standard
+1005552	LP112298-7	PhenX - respiratory - pulse oximetry - rest protocol 091101	LOINC Component	Observation	LOINC	Valid	Non-standard
+1005845	LP113313-3	PhenX measure - respiratory - pulse oximetry - rest	LOINC Component	Observation	LOINC	Invalid	Non-standard
+1005846	LP113315-8	PhenX - respiratory - pulse oximetry - rest	LOINC Component	Observation	LOINC	Valid	Non-standard
+1029267	LP6469-3	Pulse oximetry	LOINC Method	Observation	LOINC	Valid	Non-standard
+1030980	LP73211-2	Pulse oximetry panel	LOINC Component	Observation	LOINC	Invalid	Non-standard
+3014036	20081-6	Pulse oximetry site	Clinical Observation	Observation	LOINC	Valid	Standard
+37053959	LP73212-0	Pulse oximetry site	LOINC Component	Observation	LOINC	Valid	Non-standard
+3578149	255831000000107	Continuous pulse oximetry	Undefined	Observation	SNOMED	Invalid	Non-standard
+3614716	4125201000001109	Graseby MR30 infant cardio-respiratory and pulse oximetry monitor	Context-dependent	Observation	SNOMED	Invalid	Non-standard
+4155650	284034009	Pulse oximetry monitoring	Procedure	Observation	SNOMED	Valid	Standard
+40563064	393077003	Pulse oximetry monitoring	Procedure	Observation	SNOMED	Invalid	Non-standard
+40566209	394028004	Pulse oximetry monitoring	Procedure	Observation	SNOMED	Invalid	Non-standard
+45773001	708065004	Pulse oximetry	Qualifier Value	Observation	SNOMED	Valid	Standard
+"725113	94617	Exercise test for bronchospasm, including pre- and post-spirometry, electrocardiographic recording(s), and pulse oximetry	CPT4	Procedure	CPT4	Valid	Standard"
+"926949	1035191	Car seat/bed testing for airway integrity, for infants through 12 months of age, with continual clinical staff observation and continuous recording of pulse oximetry, heart rate and respiratory rate, with interpretation and report	CPT4 Hierarchy	Procedure	CPT4	Valid	Classification"
+"926967	1035157	Remote monitoring of physiologic parameter(s) (eg, weight, blood pressure, pulse oximetry, respiratory flow rate), initial	CPT4 Hierarchy	Procedure	CPT4	Valid	Classification"
+"927188	99453	Remote monitoring of physiologic parameter(s) (eg, weight, blood pressure, pulse oximetry, respiratory flow rate), initial; set-up and patient education on use of equipment	CPT4	Procedure	CPT4	Valid	Standard"
+"927189	99454	Remote monitoring of physiologic parameter(s) (eg, weight, blood pressure, pulse oximetry, respiratory flow rate), initial; device(s) supply with daily recording(s) or programmed alert(s) transmission, each 30 days	CPT4	Procedure	CPT4	Valid	Standard"
+2314047	94760	Noninvasive ear or pulse oximetry for oxygen saturation; single determination	CPT4	Procedure	CPT4	Valid	Standard
+"2314048	94761	Noninvasive ear or pulse oximetry for oxygen saturation; multiple determinations (eg, during exercise)	CPT4	Procedure	CPT4	Valid	Standard"
+2314049	94762	Noninvasive ear or pulse oximetry for oxygen saturation; by continuous overnight monitoring (separate procedure)	CPT4	Procedure	CPT4	Valid	Standard
+"42742390	94780	Car seat/bed testing for airway integrity, for infants through 12 months of age, with continual clinical staff observation and continuous recording of pulse oximetry, heart rate and respiratory rate, with interpretation and report; 60 minutes	CPT4	Procedure	CPT4	Valid	Standard"
+"42742391	94781	Car seat/bed testing for airway integrity, for infants through 12 months of age, with continual clinical staff observation and continuous recording of pulse oximetry, heart rate and respiratory rate, with interpretation and report; each additional full...	CPT4	Procedure	CPT4	Valid	Standard"
+"45888858	1020934	Car seat/bed testing for airway integrity, neonate, with continual nursing observation and continuous recording of pulse oximetry, heart rate and respiratory rate, with interpretation and report (Deprecated)	CPT4 Hierarchy	Procedure	CPT4	Valid	Classification"
+45889581	1013256	Noninvasive ear or pulse oximetry for oxygen saturation	CPT4 Hierarchy	Procedure	CPT4	Valid	Classification
+2004825	75.38	Fetal pulse oximetry	4-dig billing code	Procedure	ICD9Proc	Valid	Standard
+36908041	75.38	Fetal pulse oximetry	4-dig nonbill code	Procedure	ICD9ProcCN	Valid	Non-standard
+36909664	75.3800	Fetal pulse oximetry	6-dig billing code	Procedure	ICD9ProcCN	Valid	Non-standard

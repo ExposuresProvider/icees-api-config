@@ -1,0 +1,73 @@
+﻿Id	Code	Name	Standard Class	Domain	Vocab	Validity	Concept
+45553675	Q33.4	Congenital bronchiectasis	ICD10 code	Condition	ICD10	Valid	Non-standard
+45605889	J47	Bronchiectasis	ICD10 Hierarchy	Condition	ICD10	Valid	Non-standard
+1569492	J47	Bronchiectasis	3-char nonbill code	Condition	ICD10CM	Valid	Non-standard
+35210885	Q33.4	Congenital bronchiectasis	4-char billing code	Condition	ICD10CM	Valid	Non-standard
+45562458	J47.0	Bronchiectasis with acute lower respiratory infection	4-char billing code	Condition	ICD10CM	Valid	Non-standard
+"45562459	J47.9	Bronchiectasis, uncomplicated	4-char billing code	Condition	ICD10CM	Valid	Non-standard"
+45572172	J47.1	Bronchiectasis with (acute) exacerbation	4-char billing code	Condition	ICD10CM	Valid	Non-standard
+"1403135	A15.006	Tuberculosis, bronchiectasis, sputum microscopy () (machine translation)	ICD10 code	Condition	ICD10CN	Valid	Non-standard"
+"1403147	A15.106	Tuberculosis, bronchiectasis, sputum culture () (machine translation)	ICD10 code	Condition	ICD10CN	Valid	Non-standard"
+"1403158	A15.206	Tuberculosis, bronchiectasis, pathology () (machine translation)	ICD10 code	Condition	ICD10CN	Valid	Non-standard"
+"1403169	A15.306	Tuberculosis, bronchiectasis confirmed () (machine translation)	ICD10 code	Condition	ICD10CN	Valid	Non-standard"
+"1403237	A16.005	Tuberculosis, bronchiectasis, sputum microscopy (-) (machine translation)	ICD10 code	Condition	ICD10CN	Valid	Non-standard"
+"1403248	A16.015	Tuberculosis, bronchiectasis, sputum culture (-) (machine translation)	ICD10 code	Condition	ICD10CN	Valid	Non-standard"
+"1403258	A16.025	Tuberculosis, bronchiectasis, Pathology (-) (machine translation)	ICD10 code	Condition	ICD10CN	Valid	Non-standard"
+"1403267	A16.034	Tuberculosis, bronchiectasis, cytology (histology) (-) (machine translation)	ICD10 code	Condition	ICD10CN	Valid	Non-standard"
+"1403278	A16.105	Tuberculosis, bronchiectasis, bacteriological and histological examination not done (machine translation)	ICD10 code	Condition	ICD10CN	Valid	Non-standard"
+1403289	A16.205	Tuberculous bronchiectasis (machine translation)	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+1415673	J47	Bronchiectasis	ICD10 Hierarchy	Condition	ICD10CN	Valid	Non-standard
+1415674	J47.x00	Bronchiectasis	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+1415675	J47.x01	Bronchiectasis with hemoptysis (machine translation)	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+1415677	J47.x03	Bronchiectasis with infection (machine translation)	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+1424251	O99.502	Pregnancy with bronchiectasis (machine translation)	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+1425880	Q33.4	Congenital bronchiectasis	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+1425881	Q33.400	Congenital bronchiectasis	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+37085235	J47	Bronchiectasis	ICD10 Hierarchy	Condition	ICD10GM	Valid	Non-standard
+37093192	Q33.4	Congenital bronchiectasis	ICD10 code	Condition	ICD10GM	Valid	Non-standard
+44819314	011.5	Tuberculous bronchiectasis	4-dig nonbill code	Condition	ICD9CM	Valid	Non-standard
+"44825101	011.53	Tuberculous bronchiectasis, tubercle bacilli found (in sputum) by microscopy	5-dig billing code	Condition	ICD9CM	Valid	Non-standard"
+"44825102	011.56	Tuberculous bronchiectasis, tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]	5-dig billing code	Condition	ICD9CM	Valid	Non-standard"
+44825758	748.61	Congenital bronchiectasis	5-dig billing code	Condition	ICD9CM	Valid	Non-standard
+"44826292	011.51	Tuberculous bronchiectasis, bacteriological or histological examination not done	5-dig billing code	Condition	ICD9CM	Valid	Non-standard"
+"44826293	011.52	Tuberculous bronchiectasis, bacteriological or histological examination unknown (at present)	5-dig billing code	Condition	ICD9CM	Valid	Non-standard"
+44826680	494.1	Bronchiectasis with acute exacerbation	4-dig billing code	Condition	ICD9CM	Valid	Non-standard
+44827823	494	Bronchiectasis	3-dig nonbill code	Condition	ICD9CM	Valid	Non-standard
+"44830891	011.50	Tuberculous bronchiectasis, unspecified	5-dig billing code	Condition	ICD9CM	Valid	Non-standard"
+"44830892	011.54	Tuberculous bronchiectasis, tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture	5-dig billing code	Condition	ICD9CM	Valid	Non-standard"
+44834770	494.0	Bronchiectasis without acute exacerbation	4-dig billing code	Condition	ICD9CM	Valid	Non-standard
+"44836739	011.55	Tuberculous bronchiectasis, tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically	5-dig billing code	Condition	ICD9CM	Valid	Non-standard"
+45610666	D007619	Kartagener Syndrome	Main Heading	Condition	MeSH	Valid	Non-standard
+45611628	D001987	Bronchiectasis	Main Heading	Condition	MeSH	Valid	Non-standard
+255059	77593006	Congenital bronchiectasis	Clinical Finding	Condition	SNOMED	Valid	Standard
+256449	12295008	Bronchiectasis	Clinical Finding	Condition	SNOMED	Valid	Standard
+257775	23022004	Tuberculous bronchiectasis	Clinical Finding	Condition	SNOMED	Valid	Standard
+3537084	630531000000104	Bronchiectasis NOS	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+4027836	13217005	Fusiform bronchiectasis	Clinical Finding	Condition	SNOMED	Valid	Standard
+4049259	12310001	Childhood bronchiectasis	Clinical Finding	Condition	SNOMED	Valid	Standard
+4050875	233627004	Congenital cystic bronchiectasis	Clinical Finding	Condition	SNOMED	Valid	Standard
+4050876	233630006	Obstructive bronchiectasis	Clinical Finding	Condition	SNOMED	Valid	Standard
+4050877	233633008	Bronchiectasis due to toxic inhalation	Clinical Finding	Condition	SNOMED	Valid	Standard
+4050878	233634002	Post-lung transplantation bronchiectasis	Clinical Finding	Condition	SNOMED	Valid	Standard
+4052549	233628009	Acquired bronchiectasis	Clinical Finding	Condition	SNOMED	Valid	Standard
+4052550	233629001	Idiopathic bronchiectasis	Clinical Finding	Condition	SNOMED	Valid	Standard
+4052552	233631005	Toxin-induced bronchiectasis	Clinical Finding	Condition	SNOMED	Valid	Standard
+4052553	233632003	Bronchiectasis due to toxic aspiration	Clinical Finding	Condition	SNOMED	Valid	Standard
+4078695	19325002	Traction bronchiectasis	Clinical Finding	Condition	SNOMED	Valid	Standard
+4110052	195986009	Bronchiectasis NOS	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+4110637	195984007	Recurrent bronchiectasis	Clinical Finding	Condition	SNOMED	Valid	Standard
+4112671	195985008	Post-infective bronchiectasis	Clinical Finding	Condition	SNOMED	Valid	Standard
+4173466	42402006	Kartagener syndrome	Clinical Finding	Condition	SNOMED	Valid	Standard
+4199450	51068008	Adult bronchiectasis	Clinical Finding	Condition	SNOMED	Valid	Standard
+4203619	52500008	Saccular bronchiectasis	Clinical Finding	Condition	SNOMED	Valid	Standard
+4306635	83457000	Cylindrical bronchiectasis	Clinical Finding	Condition	SNOMED	Valid	Standard
+4313982	86204009	Immotile cilia syndrome	Clinical Finding	Condition	SNOMED	Valid	Standard
+37017852	714203003	Acute bronchitis co-occurrent with bronchiectasis	Clinical Finding	Condition	SNOMED	Valid	Standard
+40316550	155580000	Bronchiectasis	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40322382	156938004	(Congenital respiratory anomalies NOS) or (bronchiectasis - congenital)	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40355015	268321003	(Congenital respiratory anomalies NOS) or (bronchiectasis - congenital)	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40483342	445378003	Acute exacerbation of bronchiectasis	Clinical Finding	Condition	SNOMED	Valid	Standard
+36311045	LA25633-1	Cardio/pulm: Bronchiectasis	Answer	Meas Value	LOINC	Valid	Standard
+3547161	939441000000104	History of bronchiectasis	Context-dependent	Observation	SNOMED	Invalid	Non-standard
+37207478	61581000000107	Bronchiectasis annual review	Procedure	Observation	SNOMED	Valid	Standard
+46284090	939431000000108	H/O: bronchiectasis	Context-dependent	Observation	SNOMED	Valid	Standard

@@ -1,0 +1,23 @@
+﻿Id	Code	Name	Standard Class	Domain	Vocab	Validity	Concept
+"1035133	LA30353-9	Yes, on invasive mechanical ventilation support upon admission	Answer	Meas Value	LOINC	Valid	Standard"
+"36308277	LA28333-5	Fully liberated at discharge (i.e., patient did not require any invasive mechanical ventilation support for at least 2 consecutive calendar days immediately prior to discharge)	Answer	Meas Value	LOINC	Valid	Standard"
+"36308558	LA28329-3	No, not on invasive mechanical ventilation support	Answer	Meas Value	LOINC	Valid	Standard"
+"36308727	LA28332-7	Not fully liberated at discharge (i.e., patient required partial or full invasive mechanical ventilation support within 2 calendar days prior to discharge)	Answer	Meas Value	LOINC	Valid	Standard"
+42530690	LA26607-4	Invasive mechanical ventilation by intubation or tracheostomy	Answer	Meas Value	LOINC	Valid	Standard
+1017310	LP263646-4	Invasive mechanical ventilation support upon admission	LOINC Component	Observation	LOINC	Valid	Non-standard
+36305051	87539-3	Invasive mechanical ventilation support upon admission [CMS Assessment]	Survey	Observation	LOINC	Valid	Standard
+3558850	784831000000107	Non invasive ventilation therapy review	Procedure	Observation	SNOMED	Invalid	Non-standard
+2008006	96.7	Other continuous invasive mechanical ventilation	3-dig nonbill code	Procedure	ICD9Proc	Valid	Standard
+2008007	96.70	Continuous invasive mechanical ventilation of unspecified duration	4-dig billing code	Procedure	ICD9Proc	Valid	Standard
+2008008	96.71	Continuous invasive mechanical ventilation for less than 96 consecutive hours	4-dig billing code	Procedure	ICD9Proc	Valid	Standard
+2008009	96.72	Continuous invasive mechanical ventilation for 96 consecutive hours or more	4-dig billing code	Procedure	ICD9Proc	Valid	Standard
+36908221	96.7100	Continuous invasive mechanical ventilation for less than 96 consecutive hours	6-dig billing code	Procedure	ICD9ProcCN	Valid	Non-standard
+36911998	96.71	Continuous invasive mechanical ventilation for less than 96 consecutive hours	4-dig nonbill code	Procedure	ICD9ProcCN	Valid	Non-standard
+36912523	96.70	Continuous invasive mechanical ventilation of unspecified duration	4-dig nonbill code	Procedure	ICD9ProcCN	Valid	Non-standard
+36912543	96.7000	Continuous invasive mechanical ventilation of unspecified duration	6-dig billing code	Procedure	ICD9ProcCN	Valid	Non-standard
+36913171	96.72	Continuous invasive mechanical ventilation for 96 consecutive hours or more	4-dig nonbill code	Procedure	ICD9ProcCN	Valid	Non-standard
+36914514	96.7200	Continuous invasive mechanical ventilation for 96 consecutive hours or more	6-dig billing code	Procedure	ICD9ProcCN	Valid	Non-standard
+36915726	96.7	Other continuous invasive mechanical ventilation	3-dig nonbill code	Procedure	ICD9ProcCN	Valid	Non-standard
+45619676	D063087	Noninvasive Ventilation	Main Heading	Procedure	MeSH	Valid	Non-standard
+3525059	255671000000108	Invasive ventilation	Procedure	Procedure	SNOMED	Invalid	Non-standard
+44790095	226471000000101	Invasive ventilation	Procedure	Procedure	SNOMED	Valid	Standard

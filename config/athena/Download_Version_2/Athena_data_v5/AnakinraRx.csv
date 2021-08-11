@@ -1,0 +1,24 @@
+Id	Code	Name	Standard Class	Domain	Vocab	Validity	Concept
+1114375	72435	anakinra	Ingredient	Drug	RxNorm	Valid	Standard
+1114376	582666	anakinra 150 MG/ML	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+1114377	582667	anakinra 150 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+1114379	727711	0.67 ML anakinra 149 MG/ML Prefilled Syringe	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+1114380	727714	0.67 ML anakinra 149 MG/ML Prefilled Syringe [Kineret]	Quant Branded Drug	Drug	RxNorm	Valid	Standard
+1114381	727715	anakinra 149 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19033445	727712	anakinra 149 MG/ML [Kineret]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19098153	351141	anakinra 100 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19098333	352056	anakinra 100 MG/ML Injectable Solution [Kineret]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+19099253	358779	anakinra 100 MG/ML	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19120959	575806	anakinra 100 MG/ML [Kineret]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19127199	727709	1 ML anakinra 100 MG/ML Prefilled Syringe	Quant Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19127200	727710	anakinra 149 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+36214443	1157701	anakinra Injectable Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+40094438	378321	anakinra Injectable Solution	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40094439	402706	anakinra Injectable Solution [Kineret]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40127328	582669	anakinra 150 MG/ML Injectable Solution [Kineret]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+40127329	582668	anakinra 150 MG/ML [Kineret]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+40141482	727708	anakinra Prefilled Syringe	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40141483	727713	anakinra Prefilled Syringe [Kineret]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+42902489	1359602	anakinra 149 MG/ML Prefilled Syringe [Kineret]	Branded Drug	Drug	RxNorm	Valid	Standard
+42902611	1359724	anakinra 149 MG/ML Prefilled Syringe	Clinical Drug	Drug	RxNorm	Valid	Standard
+42902680	1359793	anakinra 100 MG/ML Prefilled Syringe	Clinical Drug	Drug	RxNorm	Invalid	Non-standard

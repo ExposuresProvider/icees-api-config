@@ -1,0 +1,473 @@
+﻿Id	Code	Name	Standard Class	Domain	Vocab	Validity	Concept
+3628686	10120601000001104	VAGINAL PH INBALANCE	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+4008860	111981003	Decreased skin pH	Clinical Finding	Condition	SNOMED	Valid	Standard
+4041888	167307003	Urine pH = 5.0	Clinical Finding	Condition	SNOMED	Valid	Standard
+4041889	167308008	Urine pH = 6.0	Clinical Finding	Condition	SNOMED	Valid	Standard
+4041890	167311009	Urine pH = 7.5	Clinical Finding	Condition	SNOMED	Valid	Standard
+4041891	167312002	Urine pH = 8.0	Clinical Finding	Condition	SNOMED	Valid	Standard
+4042078	167021005	Blood pH normal	Clinical Finding	Condition	SNOMED	Valid	Standard
+4042747	167022003	Blood pH abnormal	Clinical Finding	Condition	SNOMED	Valid	Standard
+4048430	20802003	Increased skin pH	Clinical Finding	Condition	SNOMED	Valid	Standard
+4055299	167309000	Urine pH = 6.5	Clinical Finding	Condition	SNOMED	Valid	Standard
+4055300	167310005	Urine pH = 7.0	Clinical Finding	Condition	SNOMED	Valid	Standard
+4055302	167313007	Urine pH = 8.5	Clinical Finding	Condition	SNOMED	Valid	Standard
+4055573	167845008	Vomit pH normal	Clinical Finding	Condition	SNOMED	Valid	Standard
+4056919	1965009	Normal skin pH	Clinical Finding	Condition	SNOMED	Valid	Standard
+4138008	425688002	Philadelphia chromosome-positive acute lymphoblastic leukemia	Clinical Finding	Condition	SNOMED	Valid	Standard
+4194127	312284004	pH observations	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+4240725	58008004	Peliosis hepatis	Clinical Finding	Condition	SNOMED	Valid	Standard
+4267237	365439006	Feces pH - finding	Clinical Finding	Condition	SNOMED	Valid	Standard
+4267351	365442000	Vomit pH - finding	Clinical Finding	Condition	SNOMED	Valid	Standard
+4276432	365723003	pH - finding	Clinical Finding	Condition	SNOMED	Valid	Standard
+4282150	66118000	Abnormal skin pH	Clinical Finding	Condition	SNOMED	Valid	Standard
+40309458	144544002	Urine pH = 5.0	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40309459	144545001	Urine pH = 6.0	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40309460	144546000	Urine pH = 6.5	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40309461	144547009	Urine pH = 7.0	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40309462	144548004	Urine pH = 7.5	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40309463	144549007	Urine pH = 8.0	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40309464	144550007	Urine pH = 8.5	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40311651	145073004	Vomit pH normal	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40318469	152367008	FMed 136A-ask for service PH	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40318879	152368003	FMed 133-service PH summary	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40533179	326585002	Urinary analgesia & ph change	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+44804499	726291000000107	Urine pH = 5.5	Clinical Finding	Condition	SNOMED	Valid	Standard
+4105374	257492003	Pinhole	Physical Object	Device	SNOMED	Valid	Standard
+4204052	52893008	Blood gas/pH analyzer	Physical Object	Device	SNOMED	Valid	Standard
+35625885	768975006	pH monitoring capsule	Physical Object	Device	SNOMED	Valid	Standard
+"36713422	717741004	Gastroesophageal pH/impedance catheter, non-sterile	Physical Object	Device	SNOMED	Valid	Standard"
+36713661	718589007	Gastric pH strip	Physical Object	Device	SNOMED	Valid	Standard
+45762606	469339000	Extracorporeal blood gas/pH monitor	Physical Object	Device	SNOMED	Valid	Standard
+45763015	469966006	Intravascular blood gas/pH monitoring system	Physical Object	Device	SNOMED	Valid	Standard
+45763295	470373000	Gastric pH long-term ambulatory recorder	Physical Object	Device	SNOMED	Valid	Standard
+45765320	702230000	pH meter	Physical Object	Device	SNOMED	Valid	Standard
+"45765336	702253004	Blood gas electrode, pH	Physical Object	Device	SNOMED	Valid	Standard"
+45771666	464491004	Vaginal pH dressing	Physical Object	Device	SNOMED	Valid	Standard
+45772033	470393008	Gastric pH electrode	Physical Object	Device	SNOMED	Valid	Standard
+45772633	464585004	Vaginal pH suppository	Physical Object	Device	SNOMED	Valid	Standard
+21498711	LA22405-7	PH	Answer	Meas Value	LOINC	Valid	Standard
+"2212165	81000	Urinalysis, by dip stick or tablet reagent for bilirubin, glucose, hemoglobin, ketones, leukocytes, nitrite, pH, protein, specific gravity, urobilinogen, any number of these constituents; non-automated, with microscopy	CPT4	Measurement	CPT4	Valid	Standard"
+"2212166	81001	Urinalysis, by dip stick or tablet reagent for bilirubin, glucose, hemoglobin, ketones, leukocytes, nitrite, pH, protein, specific gravity, urobilinogen, any number of these constituents; automated, with microscopy	CPT4	Measurement	CPT4	Valid	Standard"
+"2212167	81002	Urinalysis, by dip stick or tablet reagent for bilirubin, glucose, hemoglobin, ketones, leukocytes, nitrite, pH, protein, specific gravity, urobilinogen, any number of these constituents; non-automated, without microscopy	CPT4	Measurement	CPT4	Valid	Standard"
+"2212168	81003	Urinalysis, by dip stick or tablet reagent for bilirubin, glucose, hemoglobin, ketones, leukocytes, nitrite, pH, protein, specific gravity, urobilinogen, any number of these constituents; automated, without microscopy	CPT4	Measurement	CPT4	Valid	Standard"
+"2212347	82800	Gases, blood, pH only	CPT4	Measurement	CPT4	Valid	Standard"
+"2212348	82803	Gases, blood, any combination of pH, pCO2, pO2, CO2, HCO3 (including calculated O2 saturation)	CPT4	Measurement	CPT4	Valid	Standard"
+"2212349	82805	Gases, blood, any combination of pH, pCO2, pO2, CO2, HCO3 (including calculated O2 saturation); with O2 saturation, by direct measurement, except pulse oximetry	CPT4	Measurement	CPT4	Valid	Standard"
+"2212508	83986	PH; body fluid, not otherwise specified	CPT4	Measurement	CPT4	Valid	Standard"
+40756982	83987	PH; exhaled breath condensate	CPT4	Measurement	CPT4	Valid	Standard
+"40757020	82930	Gastric acid analysis, includes pH if performed, each specimen	CPT4	Measurement	CPT4	Valid	Standard"
+"45889243	1011224	Urinalysis, by dip stick or tablet reagent for bilirubin, glucose, hemoglobin, ketones, leukocytes, nitrite, pH, protein, specific gravity, urobilinogen, any number of these constituents	CPT4 Hierarchy	Measurement	CPT4	Valid	Classification"
+"45889464	1014265	Gases, blood, any combination of pH, pCO2, pO2, CO2, HCO3 (including calculated O2 saturation)	CPT4 Hierarchy	Measurement	CPT4	Valid	Classification"
+45889670	1020199	PH	CPT4 Hierarchy	Measurement	CPT4	Valid	Classification
+1001847	93843-1	Primary hyperoxaluria multigene analysis in Blood or Tissue by Molecular genetics method	Lab Test	Measurement	LOINC	Valid	Standard
+3000090	4554-2	Hemoglobin A2/Hemoglobin.total in Blood by Electrophoresis alkaline (pH 8.9)	Lab Test	Measurement	LOINC	Valid	Standard
+3000677	4557-5	Hemoglobin Abruzzo [Presence] in Blood by Electrophoresis alkaline (pH 8.9)	Lab Test	Measurement	LOINC	Valid	Standard
+3000750	4629-2	Hemoglobin Zurich [Presence] in Blood by Electrophoresis acid (pH 6.3)	Lab Test	Measurement	LOINC	Valid	Standard
+3001851	4556-7	Hemoglobin Abruzzo [Presence] in Blood by Electrophoresis acid (pH 6.3)	Lab Test	Measurement	LOINC	Valid	Standard
+3002349	4562-5	Hemoglobin C/Hemoglobin.total in Blood by Electrophoresis alkaline (pH 8.9)	Lab Test	Measurement	LOINC	Valid	Standard
+3002908	4561-7	Hemoglobin C/Hemoglobin.total in Blood by Electrophoresis acid (pH 6.3)	Lab Test	Measurement	LOINC	Valid	Standard
+"3004375	21795-0	t(9;22)(q34.1;q11)(ABL1,BCR) cells/Cells.total in Blood or Tissue by Molecular genetics method	Lab Test	Measurement	LOINC	Valid	Standard"
+3004673	4593-0	Hemoglobin I [Presence] in Blood by Electrophoresis acid (pH 6.3)	Lab Test	Measurement	LOINC	Valid	Standard
+3005076	4553-4	Hemoglobin A2/Hemoglobin.total in Blood by Electrophoresis acid (pH 6.3)	Lab Test	Measurement	LOINC	Valid	Standard
+3005672	4601-1	Hemoglobin Kempsey [Presence] in Blood by Electrophoresis acid (pH 6.3)	Lab Test	Measurement	LOINC	Valid	Standard
+3005680	4589-8	Hemoglobin Hasharon [Presence] in Blood by Electrophoresis acid (pH 6.3)	Lab Test	Measurement	LOINC	Valid	Standard
+3005806	9348-4	pH free acid of Gastric fluid	Lab Test	Measurement	LOINC	Valid	Standard
+3005822	4595-5	Hemoglobin J - Baltimore [Presence] in Blood by Electrophoresis acid (pH 6.3)	Lab Test	Measurement	LOINC	Valid	Standard
+3006598	28646-8	pH of Arterial cord blood	Lab Test	Measurement	LOINC	Valid	Standard
+3006852	9347-6	pH combined acid of Gastric fluid	Lab Test	Measurement	LOINC	Valid	Standard
+3006988	4594-8	Hemoglobin I [Presence] in Blood by Electrophoresis alkaline (pH 8.9)	Lab Test	Measurement	LOINC	Valid	Standard
+3007114	5924-6	Deprecated pH of Gastric fluid	Lab Test	Measurement	LOINC	Invalid	Non-standard
+3008065	2754-0	pH of Synovial fluid	Lab Test	Measurement	LOINC	Valid	Standard
+3008139	4577-3	Hemoglobin F - Texas [Presence] in Blood by Electrophoresis acid (pH 6.3)	Lab Test	Measurement	LOINC	Valid	Standard
+3008430	12711-8	Hemoglobin A region [Presence] in Blood by Electrophoresis alkaline (pH 8.9)	Lab Test	Measurement	LOINC	Valid	Standard
+3009030	4583-1	Hemoglobin G - Georgia [Presence] in Blood by Electrophoresis acid (pH 6.3)	Lab Test	Measurement	LOINC	Valid	Standard
+3009343	2745-8	pH of Capillary blood	Lab Test	Measurement	LOINC	Valid	Standard
+3009367	4568-2	Hemoglobin Constant Spring [Presence] in Blood by Electrophoresis alkaline (pH 8.9)	Lab Test	Measurement	LOINC	Valid	Standard
+3009516	4581-5	Hemoglobin G - Coushatta [Presence] in Blood by Electrophoresis acid (pH 6.3)	Lab Test	Measurement	LOINC	Valid	Standard
+3009748	4615-1	Hemoglobin N - Seattle [Presence] in Blood by Electrophoresis acid (pH 6.3)	Lab Test	Measurement	LOINC	Valid	Standard
+3010421	11558-4	pH of Blood	Lab Test	Measurement	LOINC	Valid	Standard
+3010591	4616-9	Hemoglobin N - Seattle [Presence] in Blood by Electrophoresis alkaline (pH 8.9)	Lab Test	Measurement	LOINC	Valid	Standard
+3011894	4612-8	Hemoglobin Malmo [Presence] in Blood by Electrophoresis alkaline (pH 8.9)	Lab Test	Measurement	LOINC	Valid	Standard
+"3011913	21822-2	t(9;22)(q34.1;q11)(ABL1,BCR) fusion transcript major break points [Presence] in Blood or Tissue by Molecular genetics method	Lab Test	Measurement	LOINC	Valid	Standard"
+3011988	14873-4	pH of Cord blood	Lab Test	Measurement	LOINC	Valid	Standard
+3012388	19213-8	pH of Mixed venous blood	Lab Test	Measurement	LOINC	Valid	Standard
+3012544	2746-6	pH of Venous blood	Lab Test	Measurement	LOINC	Valid	Standard
+3012639	4614-4	Hemoglobin N - Baltimore [Presence] in Blood by Electrophoresis alkaline (pH 8.9)	Lab Test	Measurement	LOINC	Valid	Standard
+"3013321	21821-4	t(9;22)(q34.1;q11)(ABL1,BCR) fusion transcript [Presence] in Blood or Tissue by Molecular genetics method	Lab Test	Measurement	LOINC	Valid	Standard"
+3013516	2752-4	pH of Semen	Lab Test	Measurement	LOINC	Valid	Standard
+3014312	2749-0	pH of Gastric fluid	Lab Test	Measurement	LOINC	Valid	Standard
+3014644	4622-7	Hemoglobin S [Presence] in Blood by Electrophoresis acid (pH 6.3)	Lab Test	Measurement	LOINC	Valid	Standard
+3014732	4582-3	Hemoglobin G - Coushatta [Units/volume] in Blood by Electrophoresis alkaline (pH 8.9)	Lab Test	Measurement	LOINC	Valid	Standard
+3015198	2755-7	pH of Stool	Lab Test	Measurement	LOINC	Valid	Standard
+3015217	4578-1	Hemoglobin F - Texas [Units/volume] in Blood by Electrophoresis alkaline (pH 8.9)	Lab Test	Measurement	LOINC	Valid	Standard
+3015501	27378-9	pH of 24 hour Urine	Lab Test	Measurement	LOINC	Valid	Standard
+3015736	2756-5	pH of Urine	Lab Test	Measurement	LOINC	Valid	Standard
+3015870	4584-9	Hemoglobin G - Georgia [Presence] in Blood by Electrophoresis alkaline (pH 8.9)	Lab Test	Measurement	LOINC	Valid	Standard
+3016408	4585-6	Hemoglobin G - Philadelphia [Presence] in Blood by Electrophoresis acid (pH 6.3)	Lab Test	Measurement	LOINC	Valid	Standard
+3016431	19072-8	Calcium.ionized [Moles/volume] adjusted to pH 7.4 in Serum or Plasma	Lab Test	Measurement	LOINC	Valid	Standard
+3016629	4586-4	Hemoglobin G - Philadelphia [Presence] in Blood by Electrophoresis alkaline (pH 8.9)	Lab Test	Measurement	LOINC	Valid	Standard
+3016756	4590-6	Hemoglobin Hasharon [Presence] in Blood by Electrophoresis alkaline (pH 8.9)	Lab Test	Measurement	LOINC	Valid	Standard
+"3016815	21823-0	t(9;22)(q34.1;q11)(ABL1,BCR) fusion transcript minor break points [Presence] in Blood or Tissue by Molecular genetics method	Lab Test	Measurement	LOINC	Valid	Standard"
+3017077	12712-6	Hemoglobin S+D+G region [Presence] in Blood by Electrophoresis alkaline (pH 8.9)	Lab Test	Measurement	LOINC	Valid	Standard
+3017300	4591-4	Hemoglobin Hope [Presence] in Blood by Electrophoresis acid (pH 6.3)	Lab Test	Measurement	LOINC	Valid	Standard
+3017624	12713-4	Hemoglobin C+E+O+A2 region [Presence] in Blood by Electrophoresis alkaline (pH 8.9)	Lab Test	Measurement	LOINC	Valid	Standard
+3017758	2747-4	pH of Cerebral spinal fluid	Lab Test	Measurement	LOINC	Valid	Standard
+3017828	4592-2	Hemoglobin Hope [Presence] in Blood by Electrophoresis alkaline (pH 8.9)	Lab Test	Measurement	LOINC	Valid	Standard
+3018033	10582-5	pH of Cervical mucus	Lab Test	Measurement	LOINC	Valid	Standard
+3018418	2753-2	pH of Serum or Plasma	Lab Test	Measurement	LOINC	Valid	Standard
+3018672	2748-2	pH of Body fluid	Lab Test	Measurement	LOINC	Valid	Standard
+3019225	17433-4	pH of Specimen	Lab Test	Measurement	LOINC	Valid	Standard
+3019758	4570-8	Hemoglobin D - Punjab [Presence] in Blood by Electrophoresis acid (pH 6.3)	Lab Test	Measurement	LOINC	Valid	Standard
+3019977	2744-1	pH of Arterial blood	Lab Test	Measurement	LOINC	Valid	Standard
+3020111	4618-5	Hemoglobin O - Arab [Presence] in Blood by Electrophoresis alkaline (pH 8.9)	Lab Test	Measurement	LOINC	Valid	Standard
+3020197	4617-7	Hemoglobin O - Arab [Presence] in Blood by Electrophoresis acid (pH 6.3)	Lab Test	Measurement	LOINC	Valid	Standard
+3021087	4623-5	Hemoglobin S [Presence] in Blood by Electrophoresis alkaline (pH 8.9)	Lab Test	Measurement	LOINC	Valid	Standard
+3021969	4630-0	Hemoglobin Zurich [Presence] in Blood by Electrophoresis alkaline (pH 8.9)	Lab Test	Measurement	LOINC	Valid	Standard
+3022621	5803-2	pH of Urine by Test strip	Lab Test	Measurement	LOINC	Valid	Standard
+3022670	28647-6	pH of Venous cord blood	Lab Test	Measurement	LOINC	Valid	Standard
+3023037	2751-6	pH of Peritoneal fluid	Lab Test	Measurement	LOINC	Valid	Standard
+3023056	4574-0	Hemoglobin E/Hemoglobin.total in Blood by Electrophoresis alkaline (pH 8.9)	Lab Test	Measurement	LOINC	Valid	Standard
+3023862	4604-5	Hemoglobin Lepore [Presence] in Blood by Electrophoresis acid (pH 6.3)	Lab Test	Measurement	LOINC	Valid	Standard
+3024409	4605-2	Hemoglobin Lepore [Presence] in Blood by Electrophoresis alkaline (pH 8.9)	Lab Test	Measurement	LOINC	Valid	Standard
+3024768	4598-9	Hemoglobin J - Oxford [Presence] in Blood by Electrophoresis acid (pH 6.3)	Lab Test	Measurement	LOINC	Valid	Standard
+3025293	4611-0	Hemoglobin Malmo [Presence] in Blood by Electrophoresis acid (pH 6.3)	Lab Test	Measurement	LOINC	Valid	Standard
+3025609	4599-7	Hemoglobin J - Oxford [Presence] in Blood by Electrophoresis alkaline (pH 8.9)	Lab Test	Measurement	LOINC	Valid	Standard
+3026734	4613-6	Hemoglobin N - Baltimore [Presence] in Blood by Electrophoresis acid (pH 6.3)	Lab Test	Measurement	LOINC	Valid	Standard
+3027075	4602-9	Hemoglobin Kempsey [Presence] in Blood by Electrophoresis alkaline (pH 8.9)	Lab Test	Measurement	LOINC	Valid	Standard
+3027390	9349-2	pH total acid of Gastric fluid	Lab Test	Measurement	LOINC	Valid	Standard
+3027764	4596-3	Hemoglobin J - Baltimore [Presence] in Blood by Electrophoresis alkaline (pH 8.9)	Lab Test	Measurement	LOINC	Valid	Standard
+3028794	42728-6	pH of Ocular fluid	Lab Test	Measurement	LOINC	Valid	Standard
+"3028956	50014-0	t(9;22)(q34.1;q11)(ABL1,BCR) fusion transcript in Blood or Tissue by Molecular genetics method	Lab Test	Measurement	LOINC	Valid	Standard"
+"3029230	49796-6	t(9;22)(q34.1;q11)(ABL1,BCR) b2a2+b3a2 fusion transcript [#/volume] in Blood or Tissue by Molecular genetics method	Lab Test	Measurement	LOINC	Valid	Standard"
+"3029271	50195-7	t(9;22)(q34.1;q11)(ABL1,BCR) fusion transcript/control transcript [Log Number Ratio] in Blood or Tissue by Molecular genetics method	Lab Test	Measurement	LOINC	Valid	Standard"
+3029305	50560-2	pH of Urine by Automated test strip	Lab Test	Measurement	LOINC	Valid	Standard
+3029473	33254-4	pH of Arterial blood adjusted to patient's actual temperature	Lab Test	Measurement	LOINC	Valid	Standard
+3030091	49701-6	pH of Blood adjusted to patient's actual temperature	Lab Test	Measurement	LOINC	Valid	Standard
+3030109	49698-4	pH of Arterial cord blood adjusted to patient's actual temperature	Lab Test	Measurement	LOINC	Valid	Standard
+3030238	50980-2	pH of Mixed venous blood adjusted to patient's actual temperature	Lab Test	Measurement	LOINC	Valid	Standard
+3030251	50895-2	pH of Pleural fluid by Test strip	Lab Test	Measurement	LOINC	Valid	Standard
+3030327	33913-5	pH of Capillary blood from Fetus	Lab Test	Measurement	LOINC	Valid	Standard
+3030512	50791-3	Hemoglobin pattern [Interpretation] in Blood by Electrophoresis acid (pH 6.0)	Lab Test	Measurement	LOINC	Valid	Standard
+3030830	50896-0	pH of Body fluid by Test strip	Lab Test	Measurement	LOINC	Valid	Standard
+3031015	50897-8	pH of 24 hour Urine by Test strip	Lab Test	Measurement	LOINC	Valid	Standard
+3031020	50838-2	Calcium.ionized [Moles/volume] adjusted to pH 7.4 in Body fluid	Lab Test	Measurement	LOINC	Valid	Standard
+3031401	42670-0	pH of Vitreous fluid	Lab Test	Measurement	LOINC	Valid	Standard
+3032186	49699-2	pH of Venous cord blood adjusted to patient's actual temperature	Lab Test	Measurement	LOINC	Valid	Standard
+3032448	49959-0	Specific gravity of Urine adjusted to pH 7.4	Lab Test	Measurement	LOINC	Valid	Standard
+"3032765	49797-4	t(9;22)(q34.1;q11)(ABL1,BCR) b2a2+b3a2 fusion transcript [Presence] in Bone marrow by Molecular genetics method	Lab Test	Measurement	LOINC	Valid	Standard"
+"3033239	49795-8	t(9;22)(q34.1;q11)(ABL1,BCR) e1a2 fusion transcript [Presence] in Blood or Tissue by Molecular genetics method	Lab Test	Measurement	LOINC	Valid	Standard"
+3033905	4559-1	Hemoglobin Barts [Presence] in Blood by Electrophoresis alkaline (pH 8.9)	Lab Test	Measurement	LOINC	Valid	Standard
+3034220	9481-3	pH of Water	Lab Test	Measurement	LOINC	Valid	Standard
+3034794	4565-8	Hemoglobin Chesapeake [Presence] in Blood by Electrophoresis acid (pH 6.3)	Lab Test	Measurement	LOINC	Valid	Standard
+"3034974	42714-6	t(9;22)(q34.1;q11)(ABL1,BCR) b2a2+b3a2 fusion transcript [Presence] in Blood or Tissue by Molecular genetics method	Lab Test	Measurement	LOINC	Valid	Standard"
+3035080	2743-3	pH of Amniotic fluid	Lab Test	Measurement	LOINC	Valid	Standard
+3035180	35329-2	pH of Body fluid--2nd specimen post Sincalide	Lab Test	Measurement	LOINC	Valid	Standard
+3035326	4566-6	Hemoglobin Chesapeake [Presence] in Blood by Electrophoresis alkaline (pH 8.9)	Lab Test	Measurement	LOINC	Valid	Standard
+3035448	4571-6	Hemoglobin D - Punjab [Units/volume] in Blood by Electrophoresis alkaline (pH 8.9)	Lab Test	Measurement	LOINC	Valid	Standard
+3035469	35327-6	pH of Body fluid--4th specimen post Sincalide	Lab Test	Measurement	LOINC	Valid	Standard
+3035614	4567-4	Hemoglobin Constant Spring [Presence] in Blood by Electrophoresis acid (pH 6.3)	Lab Test	Measurement	LOINC	Valid	Standard
+3035880	2750-8	pH of Pleural fluid	Lab Test	Measurement	LOINC	Valid	Standard
+3036490	4573-2	Hemoglobin E/Hemoglobin.total in Blood by Electrophoresis acid (pH 6.3)	Lab Test	Measurement	LOINC	Valid	Standard
+3037000	35330-0	pH of Body fluid--1st specimen post Sincalide	Lab Test	Measurement	LOINC	Valid	Standard
+3037001	35326-8	pH of Body fluid--5th specimen post Sincalide	Lab Test	Measurement	LOINC	Valid	Standard
+3037020	35328-4	pH of Body fluid--3rd specimen post Sincalide	Lab Test	Measurement	LOINC	Valid	Standard
+3038157	4558-3	Hemoglobin Barts [Presence] in Blood by Electrophoresis acid (pH 6.3)	Lab Test	Measurement	LOINC	Valid	Standard
+3038904	53576-5	Personal health monitoring report Document	Clinical Observation	Measurement	LOINC	Valid	Standard
+3038908	53600-3	pH of Blood product unit	Lab Test	Measurement	LOINC	Valid	Standard
+3038999	39486-6	pH of Venous blood adjusted to patient's actual temperature	Lab Test	Measurement	LOINC	Valid	Standard
+3039180	53654-0	pH of Dialysis fluid	Lab Test	Measurement	LOINC	Valid	Standard
+3039352	53087-3	Calcium.ionized [Moles/volume] adjusted to pH 7.4 in Nonbiological fluid	Lab Test	Measurement	LOINC	Valid	Standard
+"3039381	52130-2	t(9;22)(q34.1;q11)(ABL1,BCR) b2a2 fusion transcript/control transcript [# Ratio] in Blood or Tissue by Molecular genetics method	Lab Test	Measurement	LOINC	Valid	Standard"
+3039602	53139-2	Calcium.ionized [Moles/volume] adjusted to pH 7.4 in Capillary blood	Lab Test	Measurement	LOINC	Valid	Standard
+3040007	53651-6	pH of 2 hour Urine	Lab Test	Measurement	LOINC	Valid	Standard
+3040042	53652-4	pH of 4 hour Urine	Lab Test	Measurement	LOINC	Valid	Standard
+3040135	39485-8	pH of Capillary blood adjusted to patient's actual temperature	Lab Test	Measurement	LOINC	Valid	Standard
+"3041524	52135-1	t(9;22)(q34.1;q11)(ABL1,BCR) transcript detection panel - Blood or Tissue by Molecular genetics method	Lab Test	Measurement	LOINC	Valid	Standard"
+"3041541	51867-0	t(9;22)(q34.1;q11)(ABL1,BCR) fusion transcript in Blood or Tissue by FISH	Lab Test	Measurement	LOINC	Valid	Standard"
+"3041559	52131-0	t(9;22)(q34.1;q11)(ABL1,BCR) b3a2 fusion transcript/control transcript [# Ratio] in Blood or Tissue by Molecular genetics method	Lab Test	Measurement	LOINC	Valid	Standard"
+3041671	53140-0	Calcium.ionized [Moles/volume] adjusted to pH 7.4 in Venous blood	Lab Test	Measurement	LOINC	Valid	Standard
+3041706	53138-4	Calcium.ionized [Moles/volume] adjusted to pH 7.4 in Arterial blood	Lab Test	Measurement	LOINC	Valid	Standard
+3042013	41109-0	FGD1 gene mutations found [Identifier] in Blood or Tissue by Molecular genetics method Nominal	Lab Test	Measurement	LOINC	Valid	Standard
+"3042391	52132-8	t(9;22)(q34.1;q11)(ABL1,BCR) e1a2 fusion transcript/control transcript [# Ratio] in Blood or Tissue by Molecular genetics method	Lab Test	Measurement	LOINC	Valid	Standard"
+3043112	33417-7	pH of Pericardial fluid	Lab Test	Measurement	LOINC	Valid	Standard
+3044023	34554-6	Electrolytes 1998 and Venous pH panel - Serum or Plasma + Blood venous	Lab Test	Measurement	LOINC	Valid	Standard
+3044232	40426-9	FGD1 gene targeted mutation analysis in Blood or Tissue by Molecular genetics method	Lab Test	Measurement	LOINC	Valid	Standard
+3045441	33196-7	Fetal Lateral cerebral ventricles Posterior horn width US	Clinical Observation	Measurement	LOINC	Valid	Standard
+3048816	47598-8	Calcium.ionized [Moles/volume] adjusted to pH 7.4 in Blood	Lab Test	Measurement	LOINC	Valid	Standard
+"3049056	46434-7	t(9;22)(q34.1;q11)(ABL1,BCR) fusion transcript/control transcript [# Ratio] in Blood or Tissue by Molecular genetics method	Lab Test	Measurement	LOINC	Valid	Standard"
+3049433	48037-6	pH of Vaginal fluid	Lab Test	Measurement	LOINC	Valid	Standard
+3049451	47720-8	pH of Cord blood adjusted to patient's actual temperature	Lab Test	Measurement	LOINC	Valid	Standard
+3049554	49014-4	PAH gene targeted mutation analysis in Blood or Tissue by Molecular genetics method	Lab Test	Measurement	LOINC	Valid	Standard
+3051267	53653-2	pH of Bile fluid	Lab Test	Measurement	LOINC	Valid	Standard
+3051832	38524-5	Hemoglobin F/Hemoglobin.total in Blood by Electrophoresis alkaline (pH 8.9)	Lab Test	Measurement	LOINC	Valid	Standard
+21493904	80830-3	pH of Lower respiratory specimen	Lab Test	Measurement	LOINC	Valid	Standard
+"21494132	81750-2	Deprecated t(9;22)(q34.1;q11)(ABL1,BCR) fusion transcript in Bone marrow by Molecular genetics method	Lab Test	Measurement	LOINC	Invalid	Non-standard"
+21495293	LP216158-8	pH | Lower respiratory specimen	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+36031381	96247-2	Right retina Phase shift--light-adapted [Time] by PERG	Clinical Observation	Measurement	LOINC	Valid	Standard
+36031621	96248-0	Left retina Phase shift--light-adapted [Time] by PERG	Clinical Observation	Measurement	LOINC	Valid	Standard
+36032009	96717-4	pH of Prostatic fluid	Lab Test	Measurement	LOINC	Valid	Standard
+36033609	LP421442-7	pH | Prostatic fluid | Chemistry - non-challenge	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37027195	LP402533-6	pH | Urine | Urinalysis	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37029779	LP383433-2	pH | Blood capillary | Chemistry - non-challenge	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37034213	LP383429-0	pH | Amniotic fluid | Chemistry - non-challenge	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37034833	LP383443-1	pH | Gastric fluid | Chemistry - non-challenge	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37035022	LP383432-4	pH | Blood arterial | Chemistry - non-challenge	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37036413	LP383437-3	pH | Blood mixed venous | Chemistry - non-challenge	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37037079	LP383438-1	pH | Blood venous | Chemistry - non-challenge	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37037535	LP386767-0	pH free acid | Gastric fluid | Chemistry - non-challenge	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37043344	LP383446-4	pH | Peritoneal fluid | Chemistry - non-challenge	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37044939	LP383436-5	pH | Blood cord venous | Chemistry - non-challenge	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37047286	LP383435-7	pH | Blood cord arterial | Chemistry - non-challenge	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37047666	LP400877-9	pH | Vaginal | Fertility testing	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37048918	LP383449-8	pH | Saliva | Chemistry - non-challenge	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37049135	LP383453-0	pH | Synovial fluid | Chemistry - non-challenge	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37049140	LP400876-1	pH | Cervical mucus | Fertility testing	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37049185	LP383441-5	pH | Dialysis fluid | Chemistry - non-challenge	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37050688	LP383439-9	pH | Body fluid | Chemistry - non-challenge	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37053155	LP383455-5	pH | Urine | Chemistry - non-challenge	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37053342	LP383461-3	pH | Fetus | Blood capillary | Chemistry - non-challenge	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37054770	LP383442-3	pH | Nonbiological fluid | Chemistry - non-challenge	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37056433	LP383450-6	pH | Semen | Chemistry - non-challenge	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37056640	LP383448-0	pH | Lower respiratory specimen | Chemistry - non-challenge	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37057956	LP383431-6	pH | Blood | Chemistry - non-challenge	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37058488	LP386765-4	pH total acid | Gastric fluid | Chemistry - non-challenge	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37058695	LP383440-7	pH | Cerebral spinal fluid | Chemistry - non-challenge	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37060591	LP383452-2	pH | Stool | Chemistry - non-challenge	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37062798	LP383454-8	pH | Total parental nutrition | Chemistry - non-challenge	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37063407	LP383444-9	pH | Ocular fluid | Chemistry - non-challenge	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37063860	LP383462-1	pH | Fetus | Chemistry - non-challenge	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37064652	LP383430-8	pH | Bile fluid | Chemistry - non-challenge	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37064953	LP386766-2	pH combined acid | Gastric fluid | Chemistry - non-challenge	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37065533	LP383447-2	pH | Pleural fluid | Chemistry - non-challenge	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37066826	LP383460-5	pH | Blood product unit | Chemistry - non-challenge	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37067041	LP383459-7	pH | XXX | Chemistry - non-challenge	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37067443	LP383456-3	pH | Vaginal | Chemistry - non-challenge	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37068148	LP386892-6	Electrolytes 1998 and Venous pH panel | Serum or Plasma + Blood venous | Chemistry Panels	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37070356	LP383457-1	pH | Vitreous fluid | Chemistry - non-challenge	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37071101	LP383458-9	pH | Water | Chemistry - non-challenge	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37072029	LP387160-7	pH | Body fluid | Chemistry - challenge	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37072552	LP383445-6	pH | Pericardial fluid | Chemistry - non-challenge	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37073586	LP383451-4	pH | Serum or Plasma | Chemistry - non-challenge	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37078651	LP383434-0	pH | Blood cord | Chemistry - non-challenge	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+40652740	LG23556-0	Calcium.ionized^^adjusted to pH 7.4|MCnc|Pt|ANYBldSerPl	LOINC Group	Measurement	LOINC	Valid	Classification
+40652741	LG5743-2	Calcium.ionized^^adjusted to pH 7.4|SCnc|Pt|ANYBldSerPl	LOINC Group	Measurement	LOINC	Valid	Classification
+40757348	54217-5	Public health notifiable condition	Clinical Observation	Measurement	LOINC	Valid	Standard
+40757497	54366-0	Calcium.ionized [Moles/volume] adjusted to pH 7.4 in Cord blood	Lab Test	Measurement	LOINC	Valid	Standard
+"40758056	54926-1	t(9;22)(q34.1;q11)(ABL1,BCR) e19a2 fusion transcript [#/volume] in Blood or Tissue by Molecular genetics method	Lab Test	Measurement	LOINC	Valid	Standard"
+"40758277	55147-3	t(9;22)(q34.1;q11)(ABL1,BCR) b2a2+b3a2 fusion transcript/control transcript [# Ratio] in Blood or Tissue by Molecular genetics method	Lab Test	Measurement	LOINC	Valid	Standard"
+40759089	55968-2	pH of Total parental nutrition	Lab Test	Measurement	LOINC	Valid	Standard
+40759097	55976-5	pH of Nonbiological fluid	Lab Test	Measurement	LOINC	Valid	Standard
+40760082	56963-2	pH of Saliva (oral fluid)	Lab Test	Measurement	LOINC	Valid	Standard
+40760451	57333-7	Calcium.ionized [Mass/volume] adjusted to pH 7.4 in Serum or Plasma by Ion-selective membrane electrode (ISE)	Lab Test	Measurement	LOINC	Valid	Standard
+40761501	58400-3	Specimen pH acceptable of Urine	Lab Test	Measurement	LOINC	Valid	Standard
+40762534	59472-1	Calcium.ionized [Mass/volume] adjusted to pH 7.4 in Arterial blood by Ion-selective membrane electrode (ISE)	Lab Test	Measurement	LOINC	Valid	Standard
+40762535	59473-9	Calcium.ionized [Mass/volume] adjusted to pH 7.4 in Venous blood by Ion-selective membrane electrode (ISE)	Lab Test	Measurement	LOINC	Valid	Standard
+"40766153	63422-0	t(9;22)(q34.1;q11)(ABL1,BCR) b2a2+b3a2+e1a2 fusion transcript [Presence] in Blood or Tissue by Molecular genetics method	Lab Test	Measurement	LOINC	Valid	Standard"
+40767007	64296-7	Personal health monitoring report Automated	Clinical Observation	Measurement	LOINC	Valid	Standard
+40770969	68381-3	pH of Synovial fluid by Test strip	Lab Test	Measurement	LOINC	Valid	Standard
+40770970	68382-1	pH of Pericardial fluid by Test strip	Lab Test	Measurement	LOINC	Valid	Standard
+40771046	68459-7	pH of Peritoneal fluid by Test strip	Lab Test	Measurement	LOINC	Valid	Standard
+"40771901	69380-4	t(9;22)(q34.1;q11)(ABL1,BCR) b2a2+b3a2 fusion transcript/control transcript (International Scale) [# Ratio] in Blood or Tissue by Molecular genetics method	Lab Test	Measurement	LOINC	Valid	Standard"
+"40771902	69381-2	t(9;22)(q34.1;q11)(ABL1,BCR) b2a2 fusion transcript/control transcript (International Scale) in Blood or Tissue by Molecular genetics method	Lab Test	Measurement	LOINC	Valid	Standard"
+"40771903	69382-0	t(9;22)(q34.1;q11)(ABL1,BCR) b3a2 fusion transcript/control transcript (International Scale) in Blood or Tissue by Molecular genetics method	Lab Test	Measurement	LOINC	Valid	Standard"
+40773460	LP43705-0	pH | Blood cord	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40773642	LP45410-5	pH | XXX	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40775507	LP106433-8	pH | Blood product unit	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40777701	LP52541-7	pH | Ocular fluid	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40778643	LP96513-4	pH | Saliva	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40780727	LP48773-3	pH | Blood venous	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40780728	LP48778-2	pH | Peritoneal fluid	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40783995	LP48776-6	pH | Gastric fluid	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40784575	LP55043-1	pH | Water	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40785130	LP70903-7	pH | Dialysis fluid	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40787065	LP46136-5	pH | Blood mixed venous	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40787313	LP48767-5	pH | Amniotic Fluid	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40787314	LP48770-9	pH | Blood arterial	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40787328	LP48942-4	pH | Blood cord venous	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40787886	LP54979-7	pH combined Acid | Gastric fluid	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40787887	LP54981-3	pH total Acid | Gastric fluid	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40789846	LP41598-1	pH | Bld-Ser-Plas	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40790554	LP48753-5	pH | Urine	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40790558	LP48780-8	pH | Synovial fluid	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40790911	LP52528-4	pH | Vitreous fluid	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40791131	LP54980-5	pH free Acid | Gastric fluid	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40791219	LP57417-5	pH | Fetus | Blood capillary	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40791347	LP64339-2	pH | Semen	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40791901	LP95173-8	pH | Nonbiological fluid	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40793841	LP48772-5	pH | Blood capillary	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40793842	LP48774-1	pH | Cerebral spinal fluid	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40793843	LP48775-8	pH | Body Fluid	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40793844	LP48777-4	pH | Pleural fluid	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40793845	LP48781-6	pH | Stool	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40795246	LP99228-6	Specimen pH acceptable | Urine	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40797188	LP48941-6	pH | Blood cord arterial	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40797331	LP50393-5	pH | Pericardial fluid	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40798260	LP70902-9	pH | Bile fluid	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40798438	LP95171-2	pH | Total parental nutrition	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+42527135	76280-7	Intramucosal gastric pH	Clinical Observation	Measurement	LOINC	Valid	Standard
+"42529040	82904-4	t(9;22)(q34.1;q11)(ABL1,BCR) fusion transcript [Presence] in Bone marrow by Molecular genetics method	Lab Test	Measurement	LOINC	Valid	Standard"
+"42529041	82905-1	t(9;22)(q34.1;q11)(ABL1,BCR) fusion transcript/control transcript [Log Number Ratio] in Bone marrow by Molecular genetics method	Lab Test	Measurement	LOINC	Valid	Standard"
+"42868452	69963-7	t(9;22)(q34.1;q11)(ABL1,BCR) e1a2 fusion transcript/control transcript [# Ratio] in Bone marrow by Molecular genetics method	Lab Test	Measurement	LOINC	Valid	Standard"
+42868719	70245-6	PAH gene.p.Arg408Trp [Presence] in Blood or Tissue by Molecular genetics method	Lab Test	Measurement	LOINC	Valid	Standard
+43055234	72269-4	pH of Vaginal fluid by Test strip	Lab Test	Measurement	LOINC	Valid	Standard
+43055751	LP157263-7	pH | Vaginal	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+43533596	73573-8	Magnesium Ionized [Moles/volume] adjusted to pH 7.4 in Blood by Ion-selective membrane electrode (ISE)	Lab Test	Measurement	LOINC	Valid	Standard
+44786698	74041-5	BCR-ABL1 p210 Major Molecular Response (MMR) [Presence] in Blood or Tissue by Molecular genetics method --post treatment	Lab Test	Measurement	LOINC	Valid	Standard
+"44816906	75015-8	t(9;22)(q34.1;q11)(ABL1,BCR) b2a2 fusion transcript [Presence] in Blood or Tissue by Molecular genetics method	Lab Test	Measurement	LOINC	Valid	Standard"
+"44816907	75016-6	t(9;22)(q34.1;q11)(ABL1,BCR) b3a2 fusion transcript [Presence] in Bone marrow by Molecular genetics method	Lab Test	Measurement	LOINC	Valid	Standard"
+"44816908	75017-4	t(9;22)(q34.1;q11)(ABL1,BCR) e19a2 fusion transcript [Presence] in Bone marrow by Molecular genetics method	Lab Test	Measurement	LOINC	Valid	Standard"
+"44816909	75018-2	t(9;22)(q34.1;q11)(ABL1,BCR) e19a2 fusion transcript [Presence] in Blood or Tissue by Molecular genetics method	Lab Test	Measurement	LOINC	Valid	Standard"
+"44816910	75019-0	t(9;22)(q34.1;q11)(ABL1,BCR) e1a2 fusion transcript [Presence] in Bone marrow by Molecular genetics method	Lab Test	Measurement	LOINC	Valid	Standard"
+"44816911	75020-8	t(9;22)(q34.1;q11)(ABL1,BCR) fusion transcript in Bone marrow by Molecular genetics method	Lab Test	Measurement	LOINC	Valid	Standard"
+"46235651	75892-0	t(9;22)(q34.1;q11)(ABL1,BCR) fusion transcript break points [Identifier] in Blood or Tissue by Molecular genetics method Nominal	Lab Test	Measurement	LOINC	Valid	Standard"
+46237017	77175-8	Coxiella burnetii phase 1 and 2 IgG and IgM panel - Serum	Lab Test	Measurement	LOINC	Valid	Standard
+1036732	D006863	Hydrogen-Ion Concentration	Main Heading	Measurement	MeSH	Valid	Non-standard
+45618414	D050782	Esophageal pH Monitoring	Main Heading	Measurement	MeSH	Valid	Non-standard
+3552176	116131000000103	Pleural fluid pH	Procedure	Measurement	SNOMED	Invalid	Non-standard
+3552331	120711000000104	Pleural fluid pH	Procedure	Measurement	SNOMED	Invalid	Non-standard
+3557388	546941000000106	Vomit pH NOS	Procedure	Measurement	SNOMED	Invalid	Non-standard
+3557466	555911000000103	Faeces pH NOS	Procedure	Measurement	SNOMED	Invalid	Non-standard
+3557494	559431000000103	Urine pH NOS	Procedure	Measurement	SNOMED	Invalid	Non-standard
+"4005519	121834004	pH, free acid measurement	Procedure	Measurement	SNOMED	Valid	Standard"
+"4008139	121833005	pH, combined acid measurement	Procedure	Measurement	SNOMED	Valid	Standard"
+"4008140	121835003	pH, total acid measurement	Procedure	Measurement	SNOMED	Valid	Standard"
+4035538	117352003	Electrophoresis method with 6.3 pH buffer	Procedure	Measurement	SNOMED	Valid	Standard
+4035539	117353008	Electrophoresis method with 8.9 pH buffer	Procedure	Measurement	SNOMED	Valid	Standard
+4055298	167305006	Urine pH test	Procedure	Measurement	SNOMED	Valid	Standard
+4055572	167844007	Measurement of vomit pH	Procedure	Measurement	SNOMED	Valid	Standard
+4055833	167315000	Urine pH NOS	Procedure	Measurement	SNOMED	Invalid	Non-standard
+4057462	167848005	Vomit pH NOS	Procedure	Measurement	SNOMED	Invalid	Non-standard
+4065536	167675000	Feces pH NOS	Procedure	Measurement	SNOMED	Invalid	Non-standard
+4065646	167671009	Measurement of feces pH	Procedure	Measurement	SNOMED	Valid	Standard
+4089633	251425002	Vaginal pH	Observable Entity	Measurement	SNOMED	Valid	Standard
+4091267	252649009	Point pH monitoring	Procedure	Measurement	SNOMED	Valid	Standard
+4091268	252652001	pH reflux test	Procedure	Measurement	SNOMED	Valid	Standard
+4092179	251385003	pH profile measurement	Procedure	Measurement	SNOMED	Valid	Standard
+4093122	252650009	Period pH monitoring	Procedure	Measurement	SNOMED	Valid	Standard
+"4097822	27051004	pH measurement, arterial	Procedure	Measurement	SNOMED	Valid	Standard"
+4099592	27327002	Hydrogen ion concentration	Observable Entity	Measurement	SNOMED	Valid	Standard
+4120852	259096003	Scalp pH measurement	Procedure	Measurement	SNOMED	Valid	Standard
+4136739	413052007	Pleural fluid pH measurement	Procedure	Measurement	SNOMED	Valid	Standard
+4150624	271276000	Semen pH measurement	Procedure	Measurement	SNOMED	Valid	Standard
+4154501	271348005	Urine dipstick for pH	Procedure	Measurement	SNOMED	Valid	Standard
+"4173295	424679001	pH measurement, vaginal fluid	Procedure	Measurement	SNOMED	Valid	Standard"
+4215028	81065003	pH measurement	Procedure	Measurement	SNOMED	Valid	Standard
+"4225589	8478005	Gastric fluid analysis, pH titration	Procedure	Measurement	SNOMED	Valid	Standard"
+4243951	60170009	Analysis of arterial blood gases and pH	Procedure	Measurement	SNOMED	Valid	Standard
+4309122	391551009	Serum ionized calcium (pH 7.4) level	Procedure	Measurement	SNOMED	Valid	Standard
+"4309216	84425009	pH measurement, body fluid	Procedure	Measurement	SNOMED	Valid	Standard"
+"4315792	9456006	pH measurement, venous	Procedure	Measurement	SNOMED	Valid	Standard"
+4321858	70815009	Esophagus acid reflux test with intraluminal pH electrode	Procedure	Measurement	SNOMED	Valid	Standard
+37392672	1007071000000105	Blood venous pH	Observable Entity	Measurement	SNOMED	Valid	Standard
+37392917	1010271000000100	Faeces pH	Observable Entity	Measurement	SNOMED	Valid	Standard
+37392921	1010311000000100	Semen pH	Observable Entity	Measurement	SNOMED	Valid	Standard
+37393145	1013241000000102	Serum ionized calcium (pH 7.4) level	Observable Entity	Measurement	SNOMED	Valid	Standard
+37393388	1016371000000107	Pleural fluid pH level	Observable Entity	Measurement	SNOMED	Valid	Standard
+37393635	1019591000000107	Urine pH test	Observable Entity	Measurement	SNOMED	Valid	Standard
+37393986	1024211000000107	Fluid sample pH	Observable Entity	Measurement	SNOMED	Valid	Standard
+37397837	992361000000108	Vomit pH	Observable Entity	Measurement	SNOMED	Valid	Standard
+37398730	1030701000000107	Urine dipstick for pH	Observable Entity	Measurement	SNOMED	Valid	Standard
+37399161	1007061000000103	Blood arterial pH	Observable Entity	Measurement	SNOMED	Valid	Standard
+40308322	144268006	Blood arterial PH (& level)	Procedure	Measurement	SNOMED	Invalid	Non-standard
+40308323	144269003	Blood venous PH (& level)	Procedure	Measurement	SNOMED	Invalid	Non-standard
+40309456	144542003	Urine pH test	Procedure	Measurement	SNOMED	Invalid	Non-standard
+40309466	144551006	Urine dipstick for pH	Procedure	Measurement	SNOMED	Invalid	Non-standard
+40309467	144552004	Urine pH NOS	Observable Entity	Measurement	SNOMED	Invalid	Non-standard
+40311047	144896008	Feces pH	Procedure	Measurement	SNOMED	Invalid	Non-standard
+40311052	144900006	Feces pH NOS	Procedure	Measurement	SNOMED	Invalid	Non-standard
+40311603	145030008	Semen pH (& level)	Procedure	Measurement	SNOMED	Invalid	Non-standard
+40311650	145072009	Vomit pH	Clinical Finding	Measurement	SNOMED	Invalid	Non-standard
+40311654	145076007	Vomit pH NOS	Clinical Finding	Measurement	SNOMED	Invalid	Non-standard
+40313239	145392007	Sample pH &/or fluid	Clinical Finding	Measurement	SNOMED	Invalid	Non-standard
+40330136	167020006	Blood arterial PH (& level)	Procedure	Measurement	SNOMED	Invalid	Non-standard
+40330140	167023008	Blood venous PH (& level)	Procedure	Measurement	SNOMED	Invalid	Non-standard
+40331338	167314001	Urine dipstick for pH	Procedure	Measurement	SNOMED	Invalid	Non-standard
+40333508	167803006	Semen pH (& level)	Procedure	Measurement	SNOMED	Invalid	Non-standard
+40459406	252058003	Semen pH level	Observable Entity	Measurement	SNOMED	Invalid	Non-standard
+40480459	441744002	Fecal pH	Observable Entity	Measurement	SNOMED	Valid	Standard
+40483097	442339009	Measurement of pH in vaginal fluid specimen using nitrazine yellow for detection of rupture of amniotic membrane	Procedure	Measurement	SNOMED	Valid	Standard
+40484183	443986005	Quantitative measurement of pH in capillary blood specimen	Procedure	Measurement	SNOMED	Valid	Standard
+40485024	444113001	Measurement of pH of plasma of venous cord blood specimen at 37 degrees Celsius	Procedure	Measurement	SNOMED	Valid	Standard
+40485069	444154009	Measurement of pH of plasma of arterial blood specimen at 37 degrees Celsius	Procedure	Measurement	SNOMED	Valid	Standard
+40487877	446460000	24 hour esophageal pH study	Procedure	Measurement	SNOMED	Valid	Standard
+40491344	447142002	Measurement of pH of serum or plasma of fetal blood specimen	Procedure	Measurement	SNOMED	Valid	Standard
+40558877	390321008	Serum ionized calcium (pH 7.4) level	Procedure	Measurement	SNOMED	Invalid	Non-standard
+40563837	389589003	Serum ionized calcium (pH 7.4) level	Procedure	Measurement	SNOMED	Invalid	Non-standard
+44789221	194851000000109	Ionised calcium (pH 7.4) measurement	Procedure	Measurement	SNOMED	Valid	Standard
+44806428	791911000000107	Cord venous blood pH	Observable Entity	Measurement	SNOMED	Valid	Standard
+44806434	791971000000102	Cord arterial blood pH	Observable Entity	Measurement	SNOMED	Valid	Standard
+1013031	LP188711-8	Intramucosal pH	LOINC Component	Observation	LOINC	Valid	Non-standard
+1023099	LP307356-8	Calcium.ionized^^adjusted to pH 7.4	LOINC Component	Observation	LOINC	Valid	Non-standard
+1023211	LP307511-8	Magnesium.ionized^^adjusted to pH 7.4	LOINC Component	Observation	LOINC	Valid	Non-standard
+1025509	LP309946-4	Specific gravity^^adjusted to pH 7.4	LOINC Component	Observation	LOINC	Valid	Non-standard
+1028990	LP6248-1	Electrophoresis acid (pH 6.3)	LOINC Method	Observation	LOINC	Valid	Non-standard
+1028993	LP6249-9	Electrophoresis alkaline (pH 8.9)	LOINC Method	Observation	LOINC	Valid	Non-standard
+1029386	LP65749-1	Electrophoresis acid (pH 6.0)	LOINC Method	Observation	LOINC	Valid	Non-standard
+1175187	90064-7	Public health emergency event name	Clinical Observation	Observation	LOINC	Valid	Standard
+1175328	91011-7	Etiology of a public health emergency	Clinical Observation	Observation	LOINC	Valid	Standard
+1176159	89724-9	Minimum Data Set (MDS) for Public Health Emergency Operations Centers (EOC) [CDC Emergency Operations Centers]	Survey	Observation	LOINC	Valid	Standard
+36303627	89264-6	Date specimen was sent to public health laboratory	Clinical Observation	Observation	LOINC	Valid	Standard
+37020064	91565-2	Key words related to public health emergency	Clinical Observation	Observation	LOINC	Valid	Standard
+37020259	92198-1	Public health emergency budget source	Clinical Observation	Observation	LOINC	Valid	Standard
+37020539	92200-5	Public health emergency budget implementing unit name [Identifier]	Clinical Observation	Observation	LOINC	Valid	Standard
+37020601	92037-1	Significant activities related to public health emergency event Reporting Period	Clinical Observation	Observation	LOINC	Valid	Standard
+37020699	91564-5	Information source for rumor related to public health emergency	Clinical Observation	Observation	LOINC	Valid	Standard
+37020971	91566-0	Rumor related to public health emergency Narrative	Clinical Observation	Observation	LOINC	Valid	Standard
+37021138	92197-3	Public health emergency budget [#] Reporting Period	Clinical Observation	Observation	LOINC	Valid	Standard
+37021207	92199-9	Public health emergency budget breakdown details Reporting Period Document	Clinical Observation	Observation	LOINC	Valid	Standard
+37021220	91603-1	Summary of current situation related to public health emergency Narrative	Clinical Observation	Observation	LOINC	Valid	Standard
+37024745	LP99217-9	Specimen pH acceptable	LOINC Component	Observation	LOINC	Valid	Non-standard
+37038801	LP404266-1	Specimen pH acceptable | Urine | Specimen information	LOINC Hierarchy	Observation	LOINC	Valid	Classification
+37046304	LP29094-7	pH free acid	LOINC Component	Observation	LOINC	Valid	Non-standard
+37069503	LP17852-2	pH combined acid	LOINC Component	Observation	LOINC	Valid	Non-standard
+37070977	LP31923-3	Electrolytes 1998 and Venous pH panel	LOINC Component	Observation	LOINC	Valid	Non-standard
+40776179	LP29095-4	pH total acid	LOINC Component	Observation	LOINC	Valid	Non-standard
+40785817	LP14752-7	pH	LOINC Component	Observation	LOINC	Valid	Non-standard
+3549938	26061000000106	FMed 136A-ask for service PH	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+3575253	26071000000104	FMed 133-service PH summary	Undefined	Observation	SNOMED	Invalid	Non-standard
+3578179	256811000000109	Diagnostic fibreoptic endoscopic insertion of Bravo pH capsule to oesophagus	Undefined	Observation	SNOMED	Invalid	Non-standard
+3605329	2994001000001104	Purified water BP - product	Context-dependent	Observation	SNOMED	Invalid	Non-standard
+4054438	160476009	Social / personal history observable	Observable Entity	Observation	SNOMED	Valid	Standard
+4055832	167306007	Urine pH test not done	Context-dependent	Observation	SNOMED	Valid	Standard
+4090066	251651006	Cervical mucus pH	Observable Entity	Observation	SNOMED	Valid	Standard
+4090187	251817009	Pubic hair stage	Observable Entity	Observation	SNOMED	Valid	Standard
+4131174	264722004	pH pattern	Qualifier Value	Observation	SNOMED	Valid	Standard
+4140568	264912003	ph IR	Qualifier Value	Observation	SNOMED	Valid	Standard
+4143821	426955004	Philadelphia chromosome-positive acute lymphoblastic leukemia	Morph Abnormality	Observation	SNOMED	Valid	Standard
+4160161	398221005	Fetal pH monitoring	Procedure	Observation	SNOMED	Valid	Standard
+4212578	415532001	Skin pH	Observable Entity	Observation	SNOMED	Valid	Standard
+"4218517	398537000	Salmonella 3,10:R1,z40:1,7	Organism	Observation	SNOMED	Valid	Standard"
+40295370	127452003	Past medical history of	Context-dependent	Observation	SNOMED	Invalid	Non-standard
+40309457	144543008	Urine pH test not done	Context-dependent	Observation	SNOMED	Invalid	Non-standard
+40502234	302662003	Salmonella italiana	Organism	Observation	SNOMED	Invalid	Non-standard
+40502253	302680007	Salmonella rutgers	Organism	Observation	SNOMED	Invalid	Non-standard
+40523855	315731006	[V]Potential health hazards related to personal history (PH) and family history (FH)	Context-dependent	Observation	SNOMED	Invalid	Non-standard
+40628158	73864000	Skin pH	Observable Entity	Observation	SNOMED	Invalid	Non-standard
+44788775	201000000102	FMed 136A-ask for service PH	Clinical Finding	Observation	SNOMED	Valid	Standard
+44812762	399901000000105	[V]Potential health hazards related to personal history (PH) and family history (FH)	Context-dependent	Observation	SNOMED	Invalid	Non-standard
+45769109	707689009	Adjusted to pH 7.4	Qualifier Value	Observation	SNOMED	Valid	Standard
+45769116	707698007	Ion selective membrane electrode output adjusted to pH 7.4	Qualifier Value	Observation	SNOMED	Valid	Standard
+"2313613	91034	Esophagus, gastroesophageal reflux test; with nasal catheter pH electrode(s) placement, recording, analysis and interpretation	CPT4	Procedure	CPT4	Valid	Standard"
+"2313614	91035	Esophagus, gastroesophageal reflux test; with mucosal attached telemetry pH electrode placement, recording, analysis and interpretation	CPT4	Procedure	CPT4	Valid	Standard"
+"42738688	91032	Esophagus, acid reflux test, with intraluminal pH electrode for detection of gastroesophageal reflux (Deprecated)	CPT4	Procedure	CPT4	Valid	Standard"
+"42738689	91033	Esophagus, acid reflux test, with intraluminal pH electrode for detection of gastroesophageal reflux; prolonged recording (Deprecated)	CPT4	Procedure	CPT4	Valid	Standard"
+42740943	0140T	Exhaled breath condensate pH (Deprecated)	CPT4	Procedure	CPT4	Valid	Standard
+36906665	89.3903	Within 24 hours esophageal PH monitoring (machine translation)	6-dig billing code	Procedure	ICD9ProcCN	Valid	Non-standard
+3525112	256831000000101	Diagnostic endoscopic insertion of Bravo pH capsule using rigid oesophagoscope	Procedure	Procedure	SNOMED	Invalid	Non-standard
+3525123	257031000000106	Diagnostic fibreoptic endoscopic insertion of Bravo pH capsule to upper gastrointestinal tract	Procedure	Procedure	SNOMED	Invalid	Non-standard
+"4014493	104146008	Hemoglobin electrophoresis, pH 6.3	Procedure	Procedure	SNOMED	Valid	Standard"
+"4016244	104147004	Hemoglobin electrophoresis, pH 8.9	Procedure	Procedure	SNOMED	Valid	Standard"
+4066403	173675002	Intubation of esophagus for ph manometry	Procedure	Procedure	SNOMED	Valid	Standard
+4071410	173828000	Intubation of stomach for ph manometry	Procedure	Procedure	SNOMED	Valid	Standard
+"4313508	9487008	Biofeedback, gastric secretion pH	Procedure	Procedure	SNOMED	Valid	Standard"
+4322818	71273005	Partial hepatectomy	Procedure	Procedure	SNOMED	Valid	Standard
+35625886	768976007	Endoscopic insertion of pH monitoring capsule into esophagus	Procedure	Procedure	SNOMED	Valid	Standard
+42538244	745084000	Checking position of nasogastric tube using pH indicator testing strip	Procedure	Procedure	SNOMED	Valid	Standard
+44790117	229391000000102	Diagnostic fibreoptic endoscopic insertion of Bravo pH capsule to upper gastrointestinal tract	Procedure	Procedure	SNOMED	Invalid	Non-standard
+44790378	229301000000109	Diagnostic fibreoptic endoscopic insertion of Bravo pH capsule to oesophagus	Procedure	Procedure	SNOMED	Invalid	Non-standard
+44790458	235491000000106	Diagnostic endoscopic insertion of Bravo pH capsule using rigid oesophagoscope	Procedure	Procedure	SNOMED	Valid	Standard
+44807510	807051000000102	Checking position of nasogastric tube using pH indicator testing strip	Procedure	Procedure	SNOMED	Invalid	Non-standard
+44807889	847011000000108	Fluoroscopy guided insertion of oesophageal pH monitoring device	Procedure	Procedure	SNOMED	Valid	Standard
+44809587	853801000000108	Endoscopic insertion of pH monitoring capsule to oesophagus	Procedure	Procedure	SNOMED	Invalid	Non-standard
+40334973	168163009	Sample pH &/or fluid	Specimen	Specimen	SNOMED	Invalid	Non-standard
+3563344	211000000100	FMed 133-service PH summary	Clinical Finding	Type Concept	SNOMED	Invalid	Non-standard

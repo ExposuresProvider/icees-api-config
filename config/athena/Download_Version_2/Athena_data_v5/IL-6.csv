@@ -1,0 +1,7 @@
+﻿Id	Code	Name	Standard Class	Domain	Vocab	Validity	Concept
+3009104	4655-7	Interleukin 6 [Units/volume] in Serum or Plasma	Lab Test	Measurement	LOINC	Invalid	Non-standard
+3023091	26881-3	Interleukin 6 [Mass/volume] in Serum or Plasma	Lab Test	Measurement	LOINC	Valid	Standard
+3029272	49919-4	Interleukin 6 [Mass/volume] in Cerebral spinal fluid	Lab Test	Measurement	LOINC	Valid	Standard
+3033291	49732-1	Interleukin 6 [Mass/volume] in Body fluid	Lab Test	Measurement	LOINC	Valid	Standard
+3044155	44322-6	Interleukin 6 [Presence] in Serum or Plasma	Lab Test	Measurement	LOINC	Valid	Standard
+4332015	22766004	IL-6 assay	Procedure	Measurement	SNOMED	Valid	Standard

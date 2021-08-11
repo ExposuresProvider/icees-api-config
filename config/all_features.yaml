@@ -324,7 +324,7 @@ patient:
     - '1'
     - '>1'
     type: string
-  Amiodarone_gtt:
+  Amiodarone_gttRx:
     categories:
     - biolink:ChemicalSubstance
     - biolink:ChemicalExposure
@@ -341,7 +341,7 @@ patient:
     maximum: 1
     minimum: 0
     type: integer
-  Anakinra:
+  AnakinraRx:
     categories:
     - biolink:ChemicalSubstance
     - biolink:ChemicalExposure
@@ -1311,7 +1311,7 @@ patient:
     - '1'
     - '>1'
     type: string
-  Dexamethasone:
+  DexamethasoneRx:
     categories:
     - biolink:ChemicalSubstance
     - biolink:ChemicalExposure
@@ -1354,7 +1354,7 @@ patient:
     - biolink:DiseaseOrPhenotypicFeature
     enum: null
     type: string
-  Dobutamine_gtt:
+  Dobutamine_gttRx:
     categories:
     - biolink:ChemicalSubstance
     - biolink:ChemicalExposure
@@ -1364,7 +1364,7 @@ patient:
     - '1'
     - '>1'
     type: string
-  Dopamine_gtt:
+  Dopamine_gttRx:
     categories:
     - biolink:ChemicalSubstance
     - biolink:ChemicalExposure
@@ -1517,7 +1517,7 @@ patient:
     - 'No'
     - 'Yes'
     type: string
-  Epinephrine_gtt:
+  Epinephrine_gttRx:
     categories:
     - biolink:ChemicalSubstance
     - biolink:ChemicalExposure
@@ -2013,7 +2013,7 @@ patient:
     - 'No'
     - 'Yes'
     type: string
-  Hydroxychloroquine:
+  HydroxychloroquineRx:
     categories:
     - biolink:ChemicalSubstance
     - biolink:ChemicalExposure
@@ -2222,7 +2222,7 @@ patient:
     - '1'
     - '>1'
     type: string
-  Isoproterenol_gtt:
+  Isoproterenol_gttRx:
     categories:
     - biolink:ChemicalSubstance
     - biolink:ChemicalExposure
@@ -2333,7 +2333,7 @@ patient:
     - '1'
     - '>1'
     type: string
-  Levosimendan_gtt:
+  Levosimendan_gttRx:
     categories:
     - biolink:ChemicalSubstance
     - biolink:ChemicalExposure
@@ -2572,7 +2572,7 @@ patient:
     - '1'
     - '>1'
     type: string
-  Milrinone_gtt:
+  Milrinone_gttRx:
     categories:
     - biolink:ChemicalSubstance
     - biolink:ChemicalExposure
@@ -2644,7 +2644,7 @@ patient:
     - 'No'
     - 'Yes'
     type: string
-  NitricOxideOrFolan:
+  NitricOxideOrFolanRx:
     categories:
     - biolink:ChemicalSubstance
     - biolink:ChemicalExposure
@@ -2664,7 +2664,7 @@ patient:
     - '1'
     - '>1'
     type: string
-  Norepinephrine_gtt:
+  Norepinephrine_gttRx:
     categories:
     - biolink:ChemicalSubstance
     - biolink:ChemicalExposure
@@ -2797,7 +2797,7 @@ patient:
     - Hepatocellular
     - Mixed
     type: string
-  Phenylephrine_gtt:
+  Phenylephrine_gttRx:
     categories:
     - biolink:ChemicalSubstance
     - biolink:ChemicalExposure
@@ -2868,7 +2868,7 @@ patient:
     - 'No'
     - 'Yes'
     type: string
-  PrednisoneOrMethylprednisone:
+  PrednisoneOrMethylprednisoneRx:
     categories:
     - biolink:ChemicalSubstance
     - biolink:ChemicalExposure
@@ -3059,7 +3059,7 @@ patient:
     - '1'
     - '>1'
     type: string
-  Remdesivir:
+  RemdesivirRx:
     categories:
     - biolink:ChemicalSubstance
     - biolink:ChemicalExposure
@@ -3552,7 +3552,7 @@ patient:
     - 'No'
     - 'Yes'
     type: string
-  Tocilizumab:
+  TocilizumabRx:
     categories:
     - biolink:ChemicalSubstance
     - biolink:ChemicalExposure
@@ -3649,7 +3649,7 @@ patient:
     - '1'
     - '>1'
     type: string
-  Vasopressin_gtt:
+  Vasopressin_gttRx:
     categories:
     - biolink:ChemicalSubstance
     - biolink:ChemicalExposure
@@ -17105,7 +17105,7 @@ visit:
     categories: []
     enum: *id028
     type: string
-  Amiodarone_gtt:
+  Amiodarone_gttRx:
     categories: []
     enum: *id029
     type: string
@@ -17128,7 +17128,7 @@ visit:
     maximum: 1
     minimum: 0
     type: integer
-  Anakinra:
+  AnakinraRx:
     categories: []
     enum: *id030
     type: string
@@ -18580,7 +18580,7 @@ visit:
     categories: []
     enum: *id101
     type: string
-  Dexamethasone:
+  DexamethasoneRx:
     categories: []
     enum: *id102
     type: string
@@ -18624,7 +18624,7 @@ visit:
     categories: []
     enum: null
     type: string
-  Dobutamine_gtt:
+  Dobutamine_gttRx:
     categories: []
     enum: *id106
     type: string
@@ -18632,7 +18632,7 @@ visit:
     categories: []
     enum: *id106
     type: string
-  Dopamine_gtt:
+  Dopamine_gttRx:
     categories: []
     enum: *id107
     type: string
@@ -18836,7 +18836,7 @@ visit:
     categories: []
     enum: *id114
     type: string
-  Epinephrine_gtt:
+  Epinephrine_gttRx:
     categories: []
     enum: *id115
     type: string
@@ -19363,7 +19363,7 @@ visit:
     categories: []
     enum: *id165
     type: string
-  Hydroxychloroquine:
+  HydroxychloroquineRx:
     categories: []
     enum: *id166
     type: string
@@ -19625,7 +19625,7 @@ visit:
     categories: []
     enum: *id185
     type: string
-  Isoproterenol_gtt:
+  Isoproterenol_gttRx:
     categories: []
     enum: *id186
     type: string
@@ -19754,7 +19754,7 @@ visit:
     categories: []
     enum: *id197
     type: string
-  Levosimendan_gtt:
+  Levosimendan_gttRx:
     categories: []
     enum: *id198
     type: string
@@ -20109,7 +20109,7 @@ visit:
     categories: []
     enum: *id210
     type: string
-  Milrinone_gtt:
+  Milrinone_gttRx:
     categories: []
     enum: *id211
     type: string
@@ -20206,7 +20206,7 @@ visit:
     categories: []
     enum: *id218
     type: string
-  NitricOxideOrFolan:
+  NitricOxideOrFolanRx:
     categories: []
     enum: *id219
     type: string
@@ -20222,7 +20222,7 @@ visit:
     categories: []
     enum: *id220
     type: string
-  Norepinephrine_gtt:
+  Norepinephrine_gttRx:
     categories: []
     enum: *id221
     type: string
@@ -20378,7 +20378,7 @@ visit:
     categories: []
     enum: *id231
     type: string
-  Phenylephrine_gtt:
+  Phenylephrine_gttRx:
     categories: []
     enum: *id232
     type: string
@@ -20442,7 +20442,7 @@ visit:
     categories: []
     enum: *id239
     type: string
-  PrednisoneOrMethylprednisone:
+  PrednisoneOrMethylprednisoneRx:
     categories: []
     enum: *id240
     type: string
@@ -20624,7 +20624,7 @@ visit:
     categories: []
     enum: *id259
     type: string
-  Remdesivir:
+  RemdesivirRx:
     categories: []
     enum: *id260
     type: string
@@ -21195,7 +21195,7 @@ visit:
     categories: []
     enum: *id310
     type: string
-  Tocilizumab:
+  TocilizumabRx:
     categories: []
     enum: *id311
     type: string
@@ -21263,7 +21263,7 @@ visit:
     categories: []
     enum: *id318
     type: string
-  Vasopressin_gtt:
+  Vasopressin_gttRx:
     categories: []
     enum: *id319
     type: string

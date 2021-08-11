@@ -1,0 +1,9 @@
+Id	Code	Name	Standard Class	Domain	Vocab	Validity	Concept
+1356167	2108356	dornase alfa Inhalation Solution [Pulmozyme]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+19020936	74704	Pulmozyme	Brand Name	Drug	RxNorm	Valid	Non-standard
+19020937	566434	dornase alfa 1 MG/ML [Pulmozyme]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19029476	205532	dornase alfa 1 MG/ML Inhalation Solution [Pulmozyme]	Branded Drug	Drug	RxNorm	Valid	Standard
+36241494	1183562	Pulmozyme Inhalant Product	Branded Dose Group	Drug	RxNorm	Valid	Classification
+40098677	361846	Dornase Alfa Inhalant Solution [Pulmozyme]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40132676	630694	recombinant human DNase 2.5 MG/ML Inhalant Solution [Pulmozyme]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+40132677	630693	recombinant human DNase 2.5 MG/ML [Pulmozyme]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard

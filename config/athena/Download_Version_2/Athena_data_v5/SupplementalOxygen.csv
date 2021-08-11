@@ -1,0 +1,27 @@
+Id	Code	Name	Standard Class	Domain	Vocab	Validity	Concept
+3559757	866711000000103	Blood oxygen saturation on supplemental oxygen at rest	Observable Entity	Measurement	SNOMED	Invalid	Non-standard
+3559758	866731000000106	Blood oxygen saturation on supplemental oxygen on exertion	Observable Entity	Measurement	SNOMED	Invalid	Non-standard
+3573938	867661000000108	Supplier-reported percentage variance between prescribed and used supplemental oxygen per day	Observable Entity	Observation	SNOMED	Invalid	Non-standard
+3661930	1321861000000107	Peripheral oxygen saturation level on supplemental oxygen on exertion decreased	Clinical Finding	Condition	SNOMED	Valid	Standard
+3661932	1321881000000103	Peripheral oxygen saturation level on supplemental oxygen on exertion unchanged	Clinical Finding	Condition	SNOMED	Valid	Standard
+4206698	440225002	Hypoxia altitude simulation test with supplemental oxygen titration	Procedure	Measurement	SNOMED	Valid	Standard
+36304401	88658-0	Use of supplemental oxygen	Clinical Observation	Observation	LOINC	Valid	Standard
+36308581	LA17976-4	Supplemental oxygen	Answer	Meas Value	LOINC	Valid	Standard
+36309737	LA28956-3	Supplemental oxygen therapy: Techniques to maximize ventilation (e.g., inspiratory hold maneuver, staircase breathing, manual hyperinflation, incentive spirometry)	Answer	Meas Value	LOINC	Valid	Standard
+36310094	LA20142-8	No supplemental oxygen	Answer	Meas Value	LOINC	Valid	Standard
+36685446	1097821000000100	Arterial oxygen saturation on supplemental oxygen at rest	Observable Entity	Measurement	SNOMED	Valid	Standard
+37046669	LP409229-4	Use of supplemental oxygen | Patient | Respiratory measures and Ventilator management	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37053806	LP201613-9	Use of supplemental oxygen	LOINC Component	Observation	LOINC	Valid	Non-standard
+37208385	1104411000000106	Sensitive to supplemental oxygen therapy	Clinical Finding	Condition	SNOMED	Valid	Standard
+42873170	931000119107	Dependence on supplemental oxygen	Clinical Finding	Condition	SNOMED	Valid	Standard
+44810009	866551000000109	Supplier reported volume of supplemental oxygen prescribed per day	Observable Entity	Observation	SNOMED	Valid	Standard
+44810010	866571000000100	Supplier reported volume of supplemental oxygen used per day	Observable Entity	Observation	SNOMED	Valid	Standard
+44810011	866591000000101	Supplier reported volume variance between prescribed and used supplemental oxygen per day	Observable Entity	Observation	SNOMED	Valid	Standard
+44810016	866701000000100	Peripheral blood oxygen saturation on supplemental oxygen at rest	Observable Entity	Measurement	SNOMED	Valid	Standard
+44810017	866721000000109	Peripheral blood oxygen saturation on supplemental oxygen on exertion	Observable Entity	Measurement	SNOMED	Valid	Standard
+44810249	867651000000105	Supplier reported percentage variance between prescribed and used supplemental oxygen per day	Observable Entity	Observation	SNOMED	Valid	Standard
+44834286	V46.2	Other dependence on machines, supplemental oxygen	4-dig billing V code	Condition	ICD9CM	Valid	Non-standard
+45600392	Z99.81	Dependence on supplemental oxygen	5-char billing code	Condition	ICD10CM	Valid	Non-standard
+45884194	LA19825-1	Receiving supplemental oxygen	Answer	Meas Value	LOINC	Valid	Standard
+46270565	60651000119103	Dependence on continuous supplemental oxygen	Clinical Finding	Condition	SNOMED	Valid	Standard
+46273505	89201000119106	Dependence on supplemental oxygen when ambulating	Clinical Finding	Condition	SNOMED	Valid	Standard

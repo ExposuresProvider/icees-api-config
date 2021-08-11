@@ -1,0 +1,5 @@
+"Id	Code	Name	Standard Class	Domain	Vocab	Validity	Concept"
+"262	ERIP	Emergency Room and Inpatient Visit	Visit	Visit	Visit	Valid	Standard"
+"9201	IP	Inpatient Visit	Visit	Visit	Visit	Valid	Standard"
+"4307376	83362003	Final inpatient visit with instructions at discharge	Procedure	Observation	SNOMED	Valid	Standard"
+"4338366	87790002	Follow-up inpatient consultation visit	Procedure	Observation	SNOMED	Valid	Standard"

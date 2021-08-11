@@ -1,0 +1,67 @@
+﻿Id	Code	Name	Standard Class	Domain	Vocab	Validity	Concept
+45612673	C536414	Primary hyperoxaluria type 1	Suppl Concept	Condition	MeSH	Valid	Non-standard
+4041531	166646003	Alanine aminotransferase (ALT) (serum glutamic-pyruvic transaminase) (SGPT) level abnormal	Clinical Finding	Condition	SNOMED	Valid	Standard
+4042564	166645004	Alanine aminotransferase (ALT) (serum glutamic-pyruvic transaminase) (SGPT) level normal	Clinical Finding	Condition	SNOMED	Valid	Standard
+4049576	124285000	Deficiency of alanine aminotransferase	Clinical Finding	Condition	SNOMED	Valid	Standard
+4158250	370979009	Normal ALT with persistent viremia by PCR	Clinical Finding	Condition	SNOMED	Valid	Standard
+4249568	409673008	ALT (SGPT) level raised	Clinical Finding	Condition	SNOMED	Valid	Standard
+3000784	25302-1	Alanine aminotransferase [Enzymatic activity/volume] in Body fluid	Lab Test	Measurement	LOINC	Valid	Standard
+3004056	1741-8	Alanine aminotransferase [Enzymatic activity/volume] in Amniotic fluid	Lab Test	Measurement	LOINC	Valid	Standard
+3005755	1743-4	Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma by With P-5'-P	Lab Test	Measurement	LOINC	Valid	Standard
+3006923	1742-6	Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma	Lab Test	Measurement	LOINC	Valid	Standard
+3015912	16324-6	Alanine aminotransferase [Enzymatic activity/volume] in Red Blood Cells	Lab Test	Measurement	LOINC	Valid	Standard
+3019056	16325-3	Alanine aminotransferase/Aspartate aminotransferase [Enzymatic activity ratio] in Serum or Plasma	Lab Test	Measurement	LOINC	Valid	Standard
+3022893	1916-6	Aspartate aminotransferase/Alanine aminotransferase [Enzymatic activity ratio] in Serum or Plasma	Lab Test	Measurement	LOINC	Valid	Standard
+3027388	1744-2	Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma by No addition of P-5'-P	Lab Test	Measurement	LOINC	Valid	Standard
+3028946	50168-4	Alanine aminotransferase [Enzymatic activity/volume] in Dialysis fluid	Lab Test	Measurement	LOINC	Valid	Standard
+3045928	44785-4	Alanine aminotransferase [Enzymatic activity/volume] (Maximum value during study) in Serum or Plasma by No addition of P-5'-P	Lab Test	Measurement	LOINC	Valid	Standard
+36032251	96586-3	Alanine aminotransferase [Enzymatic activity/volume] in DBS	Lab Test	Measurement	LOINC	Valid	Standard
+36033592	LP421219-9	Alanine aminotransferase | DBS | Chemistry - non-challenge	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37040912	LP382702-1	Alanine aminotransferase | Red Blood Cells | Chemistry - non-challenge	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37041708	LP382705-4	Alanine glyoxylate aminotransferase | Tissue and Smears | Chemistry - non-challenge	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37044531	LP382696-5	Alanine aminotransferase | Amniotic fluid | Chemistry - non-challenge	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37047736	LP382703-9	Alanine aminotransferase | Serum or Plasma | Chemistry - non-challenge	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37049460	LP382701-3	Alanine aminotransferase | Pleural fluid | Chemistry - non-challenge	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37055144	LP382842-5	Aspartate aminotransferase/Alanine aminotransferase | Serum or Plasma | Chemistry - non-challenge	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37058424	LP382698-1	Alanine aminotransferase | Body fluid | Chemistry - non-challenge	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37071721	LP382697-3	Alanine aminotransferase | Blood | Chemistry - non-challenge	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37073879	LP382707-0	Alanine aminotransferase/Aspartate aminotransferase | Serum or Plasma | Chemistry - non-challenge	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+"37074219	LP382704-7	Alanine aminotransferase | Serum, Plasma or Blood | Chemistry - non-challenge	LOINC Hierarchy	Measurement	LOINC	Valid	Classification"
+37077719	LP382699-9	Alanine aminotransferase | Dialysis fluid | Chemistry - non-challenge	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37077848	LP382700-5	Alanine aminotransferase | Peritoneal fluid | Chemistry - non-challenge	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+40757622	54491-6	Alanine aminotransferase [Enzymatic activity/volume] in Peritoneal fluid	Lab Test	Measurement	LOINC	Valid	Standard
+40757623	54492-4	Alanine aminotransferase [Enzymatic activity/volume] in Pleural fluid	Lab Test	Measurement	LOINC	Valid	Standard
+40762336	59245-1	Alanine glyoxylate aminotransferase [Enzymatic activity/mass] in Tissue	Lab Test	Measurement	LOINC	Valid	Standard
+40774803	LP65198-1	Alanine Aminotransferase | Dialysis fluid	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40776993	LP45402-2	Alanine Aminotransferase | Amniotic Fluid	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40778526	LP89685-9	Alanine aminotransferase | Pleural fluid	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40779048	LP133018-4	Alanine glyoxylate aminotransferase | Tissue and Smears	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40790133	LP44698-6	Alanine Aminotransferase | Red Blood Cells	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40790490	LP48132-2	Alanine Aminotransferase | Body Fluid	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40796722	LP44699-4	Alanine Aminotransferase | Bld-Ser-Plas	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40798341	LP89684-2	Alanine aminotransferase | Peritoneal fluid	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+46235106	76625-3	Alanine aminotransferase [Enzymatic activity/volume] in Blood	Lab Test	Measurement	LOINC	Valid	Standard
+"46236949	77144-4	Alanine aminotransferase [Enzymatic activity/volume] in Serum, Plasma or Blood	Lab Test	Measurement	LOINC	Valid	Standard"
+3554167	219651000000107	Serum alanine aminotransferase level	Procedure	Measurement	SNOMED	Invalid	Non-standard
+3554168	219661000000105	Serum alanine aminotransferase level	Procedure	Measurement	SNOMED	Invalid	Non-standard
+3560028	877061000000109	Aspartate aminotransferase/alanine aminotransferase ratio	Procedure	Measurement	SNOMED	Invalid	Non-standard
+3560169	890261000000109	Aspartate aminotransferase/alanine aminotransferase ratio	Procedure	Measurement	SNOMED	Invalid	Non-standard
+"4018061	104482006	ALT measurement, method without pyridoxal-5'-phosphate	Procedure	Measurement	SNOMED	Valid	Standard"
+"4019440	104481004	ALT measurement, method with pyridoxal-5'-phosphate	Procedure	Measurement	SNOMED	Valid	Standard"
+4019456	104539007	Aspartate amino transferase/alanine amino transferase ratio measurement	Procedure	Measurement	SNOMED	Valid	Standard
+4095055	250637003	ALT - blood measurement	Procedure	Measurement	SNOMED	Valid	Standard
+4146380	34608000	Alanine aminotransferase measurement	Procedure	Measurement	SNOMED	Valid	Standard
+4190899	390961000	Plasma alanine aminotransferase level	Procedure	Measurement	SNOMED	Valid	Standard
+37208490	1105851000000108	Alanine aminotransferase enzyme activity in plasma	Observable Entity	Measurement	SNOMED	Valid	Standard
+37208513	1106081000000100	Alanine aminotransferase enzyme activity in serum	Observable Entity	Measurement	SNOMED	Valid	Standard
+37392316	1002541000000108	Aspartate aminotransferase/alanine aminotransferase ratio	Observable Entity	Measurement	SNOMED	Valid	Standard
+37393142	1013211000000103	Plasma alanine aminotransferase level	Observable Entity	Measurement	SNOMED	Valid	Standard
+37393531	1018251000000107	Serum alanine aminotransferase level	Observable Entity	Measurement	SNOMED	Valid	Standard
+40558873	390318006	Plasma alanine aminotransferase level	Procedure	Measurement	SNOMED	Invalid	Non-standard
+40563834	389586005	Plasma alanine aminotransferase level	Procedure	Measurement	SNOMED	Invalid	Non-standard
+44788835	201321000000108	Serum alanine aminotransferase level	Procedure	Measurement	SNOMED	Valid	Standard
+"927155	81596	Infectious disease, chronic hepatitis C virus (HCV) infection, six biochemical assays (ALT, A2-macroglobulin, apolipoprotein A-1, total bilirubin, GGT, and haptoglobin) utilizing serum, prognostic algorithm reported as scores for fibrosis and necroinfl...	CPT4	Observation	CPT4	Valid	Standard"
+37058108	LP307348-5	Aspartate aminotransferase/Alanine aminotransferase	LOINC Component	Observation	LOINC	Valid	Non-standard
+37068216	LP307326-1	Alanine aminotransferase/Aspartate aminotransferase	LOINC Component	Observation	LOINC	Valid	Non-standard
+37070195	LP99934-9	Alanine glyoxylate aminotransferase	LOINC Component	Observation	LOINC	Valid	Non-standard
+40782579	LP15333-5	Alanine aminotransferase	LOINC Component	Observation	LOINC	Valid	Non-standard

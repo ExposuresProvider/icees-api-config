@@ -1,0 +1,35 @@
+Id	Code	Name	Standard Class	Domain	Vocab	Validity	Concept
+19020068	7442	nitric oxide	Ingredient	Drug	RxNorm	Valid	Standard
+19020070	582613	nitric oxide 0.01 %	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+19020619	582615	nitric oxide 0.01 % / nitrogen 99.99 % Gas for Inhalation	Clinical Drug	Drug	RxNorm	Valid	Standard
+19020620	827693	nitric oxide 0.08 % / nitrogen 99.92 % Gas for Inhalation [INOmax]	Branded Drug	Drug	RxNorm	Valid	Standard
+19043876	827687	nitric oxide 0.01 % / nitrogen 99.99 % [INOmax]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19043877	827689	nitric oxide 0.01 % / nitrogen 99.99 % Gas for Inhalation [INOmax]	Branded Drug	Drug	RxNorm	Valid	Standard
+19043879	827691	nitric oxide 0.08 % / nitrogen 99.92 % [INOmax]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19121839	582606	nitric oxide 0.08 %	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+19121841	582608	nitric oxide 0.08 % / nitrogen 99.92 % Gas for Inhalation	Clinical Drug	Drug	RxNorm	Valid	Standard
+19122056	584278	nitric oxide 99.8 %	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+19122057	584279	nitric oxide 99.8 % Gas for Inhalation	Clinical Drug	Drug	RxNorm	Valid	Standard
+36027391	1007265	Nitric Oxide / Nitrogen	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36227025	1159251	nitric oxide / nitrogen Inhalant Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36227026	1159252	nitric oxide Inhalant Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+40069602	406172	Nitric Oxide 0.8 %	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+40069603	404594	Nitric Oxide 0.8 % / Nitrogen 99.2 % Gas for Inhalation [INOmax]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+40069604	332551	Nitric Oxide 100 PPM	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+40069605	259185	Nitric Oxide 100 PPM Gas for Inhalation	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+40069606	332260	Nitric Oxide 800 PPM	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+40069607	259186	Nitric Oxide 800 PPM Gas for Inhalation	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+40069608	375185	nitric oxide Gas for Inhalation	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40118583	562851	nitric oxide / nitrogen Gas for Inhalation	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40118584	562852	Nitric Oxide 0.8 % / Nitrogen 99.2 % Gas for Inhalation	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+40118585	576516	Nitric Oxide 0.8 % / Nitrogen 99.2 % [INOmax]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+40126775	582617	Nitric Oxide 0.01 % / Nitrogen 99.99 % Gas for Inhalation [INOmax]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+40126776	582616	Nitric Oxide 0.01 % / Nitrogen 99.99 % [INOmax]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+40126779	582610	Nitric Oxide 0.08 % / Nitrogen 99.92 % Gas for Inhalation [INOmax]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+40126780	582609	Nitric Oxide 0.08 % / Nitrogen 99.92 % [INOmax]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+40155795	827688	nitric oxide / nitrogen Gas for Inhalation [INOmax]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40155798	827692	Nitric Oxide / Nitrogen Gas for Inhalation [INOmax 800]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40237310	1093161	Nitric Oxide 0.05 %	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+40237311	1093162	Nitric Oxide 0.05 % / Nitrogen 99.5 % Gas for Inhalation	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+45776910	1544280	nitric oxide 0.5 %	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+45776911	1544281	nitric oxide 0.5 % / nitrogen 99.5 % Gas for Inhalation	Clinical Drug	Drug	RxNorm	Valid	Standard

@@ -1,0 +1,66 @@
+﻿Id	Code	Name	Standard Class	Domain	Vocab	Validity	Concept
+4041190	166667003	AST/SGOT level normal	Clinical Finding	Condition	SNOMED	Valid	Standard
+4042568	166669000	Aspartate aminotransferase serum level raised	Clinical Finding	Condition	SNOMED	Valid	Standard
+4043085	166668008	AST/SGOT level abnormal	Clinical Finding	Condition	SNOMED	Valid	Standard
+4051506	124284001	Deficiency of aspartate aminotransferase	Clinical Finding	Condition	SNOMED	Valid	Standard
+4189605	373679006	Aspartate transaminase level	Clinical Finding	Condition	SNOMED	Valid	Standard
+3000477	1918-2	Aspartate aminotransferase [Enzymatic activity/volume] in Cerebral spinal fluid	Lab Test	Measurement	LOINC	Valid	Standard
+3003792	1919-0	Aspartate aminotransferase [Enzymatic activity/volume] in Body fluid	Lab Test	Measurement	LOINC	Valid	Standard
+3005435	16412-9	Aspartate aminotransferase [Enzymatic activity/volume] in Red Blood Cells	Lab Test	Measurement	LOINC	Valid	Standard
+3010307	2325-9	Gamma glutamyl transferase/Aspartate aminotransferase [Enzymatic activity ratio] in Serum or Plasma	Lab Test	Measurement	LOINC	Valid	Standard
+3010587	27344-1	Aspartate aminotransferase [Presence] in Serum or Plasma	Lab Test	Measurement	LOINC	Valid	Standard
+3011732	14409-7	Aspartate aminotransferase [Enzymatic activity/volume] in Pleural fluid	Lab Test	Measurement	LOINC	Valid	Standard
+3012169	14413-9	Aspartate aminotransferase [Enzymatic activity/volume] in Urine	Lab Test	Measurement	LOINC	Valid	Standard
+3013721	1920-8	Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma	Lab Test	Measurement	LOINC	Valid	Standard
+3019056	16325-3	Alanine aminotransferase/Aspartate aminotransferase [Enzymatic activity ratio] in Serum or Plasma	Lab Test	Measurement	LOINC	Valid	Standard
+3022893	1916-6	Aspartate aminotransferase/Alanine aminotransferase [Enzymatic activity ratio] in Serum or Plasma	Lab Test	Measurement	LOINC	Valid	Standard
+3023488	1917-4	Aspartate aminotransferase [Enzymatic activity/volume] in Amniotic fluid	Lab Test	Measurement	LOINC	Valid	Standard
+3024515	14410-5	Aspartate aminotransferase [Enzymatic activity/volume] in Peritoneal fluid	Lab Test	Measurement	LOINC	Valid	Standard
+3024746	14411-3	Aspartate aminotransferase [Enzymatic activity/volume] in Synovial fluid	Lab Test	Measurement	LOINC	Valid	Standard
+3025649	14412-1	Aspartate aminotransferase [Enzymatic activity/volume] in Gastric fluid	Lab Test	Measurement	LOINC	Valid	Standard
+3026390	14414-7	Aspartate aminotransferase [Enzymatic activity/volume] in Dialysis fluid	Lab Test	Measurement	LOINC	Valid	Standard
+3037081	30239-8	Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma by With P-5'-P	Lab Test	Measurement	LOINC	Valid	Standard
+3042781	44786-2	Aspartate aminotransferase [Enzymatic activity/volume] (Maximum value during study) in Serum or Plasma	Lab Test	Measurement	LOINC	Valid	Standard
+3046412	43822-6	Aspartate aminotransferase [Presence] in Body fluid	Lab Test	Measurement	LOINC	Valid	Standard
+36031681	96587-1	Aspartate aminotransferase [Enzymatic activity/volume] in DBS	Lab Test	Measurement	LOINC	Valid	Standard
+36033545	LP421220-7	Aspartate aminotransferase | DBS | Chemistry - non-challenge	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+36305398	88112-8	Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma by No addition of P-5'-P	Lab Test	Measurement	LOINC	Valid	Standard
+37023436	LP382835-9	Aspartate aminotransferase | Red Blood Cells | Chemistry - non-challenge	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37026147	LP382837-5	Aspartate aminotransferase | Synovial fluid | Chemistry - non-challenge	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37027648	LP383005-8	Gamma glutamyl transferase/Aspartate aminotransferase | Serum or Plasma | Chemistry - non-challenge	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37028425	LP382832-6	Aspartate aminotransferase | Gastric fluid | Chemistry - non-challenge	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37037366	LP382834-2	Aspartate aminotransferase | Pleural fluid | Chemistry - non-challenge	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37042354	LP382830-0	Aspartate aminotransferase | Cerebral spinal fluid | Chemistry - non-challenge	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37052065	LP382833-4	Aspartate aminotransferase | Peritoneal fluid | Chemistry - non-challenge	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37055144	LP382842-5	Aspartate aminotransferase/Alanine aminotransferase | Serum or Plasma | Chemistry - non-challenge	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37059000	LP382836-7	Aspartate aminotransferase | Serum or Plasma | Chemistry - non-challenge	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37065940	LP382838-3	Aspartate aminotransferase | Urine | Chemistry - non-challenge	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37067757	LP382829-2	Aspartate aminotransferase | Body fluid | Chemistry - non-challenge	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37067803	LP382831-8	Aspartate aminotransferase | Dialysis fluid | Chemistry - non-challenge	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37073879	LP382707-0	Alanine aminotransferase/Aspartate aminotransferase | Serum or Plasma | Chemistry - non-challenge	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37078623	LP382828-4	Aspartate aminotransferase | Amniotic fluid | Chemistry - non-challenge	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+40776762	LP43343-0	Aspartate Aminotransferase | Dialysis fluid	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40776927	LP44728-1	Aspartate Aminotransferase | Red Blood Cells	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40786768	LP43339-8	Aspartate Aminotransferase | Peritoneal fluid	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40787003	LP45656-3	Aspartate Aminotransferase | Bld-Ser-Plas	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40787063	LP46130-8	Aspartate Aminotransferase | Body Fluid	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40790000	LP43338-0	Aspartate Aminotransferase | Pleural fluid	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40790001	LP43341-4	Aspartate Aminotransferase | Gastric fluid	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40790002	LP43342-2	Aspartate Aminotransferase | Urine	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40790301	LP46117-5	Aspartate Aminotransferase | Amniotic Fluid	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40793558	LP46121-7	Aspartate Aminotransferase | Cerebral spinal fluid	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40796581	LP43340-6	Aspartate Aminotransferase | Synovial fluid	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+3560028	877061000000109	Aspartate aminotransferase/alanine aminotransferase ratio	Procedure	Measurement	SNOMED	Invalid	Non-standard
+3560169	890261000000109	Aspartate aminotransferase/alanine aminotransferase ratio	Procedure	Measurement	SNOMED	Invalid	Non-standard
+4019456	104539007	Aspartate amino transferase/alanine amino transferase ratio measurement	Procedure	Measurement	SNOMED	Valid	Standard
+4094595	250641004	AST serum measurement	Procedure	Measurement	SNOMED	Valid	Standard
+4263457	45896001	Aspartate aminotransferase measurement	Procedure	Measurement	SNOMED	Valid	Standard
+37208512	1106071000000102	Aspartate aminotransferase enzyme activity in serum	Observable Entity	Measurement	SNOMED	Valid	Standard
+37208565	1106681000000105	Aspartate aminotransferase enzyme activity in plasma	Observable Entity	Measurement	SNOMED	Valid	Standard
+37392189	1000881000000102	Serum aspartate aminotransferase level	Observable Entity	Measurement	SNOMED	Valid	Standard
+37392316	1002541000000108	Aspartate aminotransferase/alanine aminotransferase ratio	Observable Entity	Measurement	SNOMED	Valid	Standard
+37394375	1031101000000102	Aspartate aminotransferase level	Observable Entity	Measurement	SNOMED	Valid	Standard
+37058108	LP307348-5	Aspartate aminotransferase/Alanine aminotransferase	LOINC Component	Observation	LOINC	Valid	Non-standard
+37068216	LP307326-1	Alanine aminotransferase/Aspartate aminotransferase	LOINC Component	Observation	LOINC	Valid	Non-standard
+37068761	LP307433-5	Gamma glutamyl transferase/Aspartate aminotransferase	LOINC Component	Observation	LOINC	Valid	Non-standard
+40785861	LP15426-7	Aspartate aminotransferase	LOINC Component	Observation	LOINC	Valid	Non-standard

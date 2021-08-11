@@ -1,0 +1,117 @@
+﻿Id	Code	Name	Standard Class	Domain	Vocab	Validity	Concept
+45568148	R74.0	Elevation of levels of transaminase and lactic acid dehydrogenase [LDH]	ICD10 code	Condition	ICD10	Valid	Non-standard
+35211421	R74.0	Nonspecific elevation of levels of transaminase and lactic acid dehydrogenase [LDH]	4-char nonbill code	Condition	ICD10CM	Valid	Non-standard
+1427860	R74.0	Elevation of levels of transaminase and lactic acid dehydrogenase [LDH]	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+1427861	R74.000	Elevation of levels of transaminase and lactic acid dehydrogenase [LDH]	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+37094075	R74.0	Elevation of levels of transaminase and lactic acid dehydrogenase [LDH]	ICD10 code	Condition	ICD10GM	Valid	Non-standard
+46256888	C580233	Lactate Dehydrogenase Deficiency	Suppl Concept	Condition	MeSH	Valid	Non-standard
+4031797	237982007	Lactate dehydrogenase deficiency	Clinical Finding	Condition	SNOMED	Valid	Standard
+4193468	313142006	Serum tumor marker stage S3	Clinical Finding	Condition	SNOMED	Valid	Standard
+4196562	313140003	Serum tumor marker stage S1	Clinical Finding	Condition	SNOMED	Valid	Standard
+4196563	313141004	Serum tumor marker stage S2	Clinical Finding	Condition	SNOMED	Valid	Standard
+4245130	396392000	pM1c: Metastasis to visceral site other than lung or distant metastasis at any site associated with an elevated serum lactic dehydrogenase (LDH) (melanoma of the skin)	Clinical Finding	Condition	SNOMED	Valid	Standard
+4286890	396697000	Serum lactate dehydrogenase level elevated	Clinical Finding	Condition	SNOMED	Valid	Standard
+"40546436	370074001	S1: LDH < 1.5 x nl and HCG <5,000 mIU/ml and AFP <1,000 ng/ml	Staging / Scales	Condition	SNOMED	Invalid	Non-standard"
+"40546437	370075000	S2: LDH 1.5 - 10 x nl or HCG 5,000-50,000 or AFP 1,000 - 10,000	Staging / Scales	Condition	SNOMED	Invalid	Non-standard"
+"40546438	370076004	S3: LDH >10 x nl or HCG >50,000 or AFP >10,000	Staging / Scales	Condition	SNOMED	Invalid	Non-standard"
+"2212428	83615	Lactate dehydrogenase (LD), (LDH)	CPT4	Measurement	CPT4	Valid	Standard"
+"2212429	83625	Lactate dehydrogenase (LD), (LDH); isoenzymes, separation and quantitation	CPT4	Measurement	CPT4	Valid	Standard"
+"45889439	1014266	Lactate dehydrogenase (LD), (LDH)	CPT4 Hierarchy	Measurement	CPT4	Valid	Classification"
+725461	R74.02	Elevation of levels of lactic acid dehydrogenase [LDH]	5-char billing code	Measurement	ICD10CM	Valid	Non-standard
+44822314	790.4	Nonspecific elevation of levels of transaminase or lactic acid dehydrogenase [LDH]	4-dig billing code	Measurement	ICD9CM	Valid	Non-standard
+3003139	11053-6	Lactate dehydrogenase [Enzymatic activity/volume] in Red Blood Cells	Lab Test	Measurement	LOINC	Valid	Standard
+3004200	2535-3	Lactate dehydrogenase 1 [Enzymatic activity/volume] in Serum or Plasma by Chemical separation	Lab Test	Measurement	LOINC	Valid	Standard
+3004711	2541-1	Lactate dehydrogenase 3 [Enzymatic activity/volume] in Serum or Plasma by Chemical separation	Lab Test	Measurement	LOINC	Valid	Standard
+3005225	14805-6	Lactate dehydrogenase [Enzymatic activity/volume] in Serum or Plasma by Pyruvate to lactate reaction	Lab Test	Measurement	LOINC	Valid	Standard
+3005662	14119-2	Lactate dehydrogenase 1/Lactate dehydrogenase 2 [Enzymatic activity ratio] in Serum or Plasma	Lab Test	Measurement	LOINC	Valid	Standard
+3005783	2537-9	Lactate dehydrogenase 1 [Enzymatic activity/volume] in Serum or Plasma	Lab Test	Measurement	LOINC	Valid	Standard
+3006769	2543-7	Lactate dehydrogenase 3 [Enzymatic activity/volume] in Serum or Plasma	Lab Test	Measurement	LOINC	Valid	Standard
+3006898	2536-1	Lactate dehydrogenase 1/Lactate dehydrogenase.total in Serum or Plasma by Electrophoresis	Lab Test	Measurement	LOINC	Valid	Standard
+3007858	2542-9	Lactate dehydrogenase 3/Lactate dehydrogenase.total in Serum or Plasma by Electrophoresis	Lab Test	Measurement	LOINC	Valid	Standard
+3007869	32324-6	Lactate dehydrogenase [Enzymatic activity/volume] in Specimen	Lab Test	Measurement	LOINC	Valid	Standard
+3008270	13889-1	Lactate dehydrogenase 4/Lactate dehydrogenase.total in Urine by Electrophoresis	Lab Test	Measurement	LOINC	Valid	Standard
+3008338	2529-6	Lactate dehydrogenase [Enzymatic activity/volume] in Body fluid	Lab Test	Measurement	LOINC	Invalid	Non-standard
+3008581	2531-2	Lactate dehydrogenase [Enzymatic activity/volume] in Peritoneal fluid	Lab Test	Measurement	LOINC	Invalid	Non-standard
+3009347	5910-5	Lactate dehydrogenase isoenzymes [Interpretation] in Serum or Plasma	Lab Test	Measurement	LOINC	Valid	Standard
+3012481	2548-6	Lactate dehydrogenase 5/Lactate dehydrogenase.total in Serum or Plasma by Electrophoresis	Lab Test	Measurement	LOINC	Valid	Standard
+3014754	13890-9	Lactate dehydrogenase 5/Lactate dehydrogenase.total in Urine by Electrophoresis	Lab Test	Measurement	LOINC	Valid	Standard
+3015054	2530-4	Lactate dehydrogenase [Enzymatic activity/volume] in Pleural fluid	Lab Test	Measurement	LOINC	Invalid	Non-standard
+3015237	13886-7	Lactate dehydrogenase 1/Lactate dehydrogenase.total in Urine by Electrophoresis	Lab Test	Measurement	LOINC	Valid	Standard
+3015475	13887-5	Lactate dehydrogenase 2/Lactate dehydrogenase.total in Urine by Electrophoresis	Lab Test	Measurement	LOINC	Valid	Standard
+3015738	5921-2	Lactate dehydrogenase [Enzymatic activity/volume] in Dialysis fluid	Lab Test	Measurement	LOINC	Valid	Standard
+3016090	2527-0	Lactate dehydrogenase [Enzymatic activity/volume] in Amniotic fluid	Lab Test	Measurement	LOINC	Valid	Standard
+3016213	19248-4	Lactate dehydrogenase 2 [Enzymatic activity/volume] in Serum or Plasma by Electrophoresis	Lab Test	Measurement	LOINC	Valid	Standard
+3016307	13888-3	Lactate dehydrogenase 3/Lactate dehydrogenase.total in Urine by Electrophoresis	Lab Test	Measurement	LOINC	Valid	Standard
+3016436	2532-0	Lactate dehydrogenase [Enzymatic activity/volume] in Serum or Plasma	Lab Test	Measurement	LOINC	Invalid	Non-standard
+3016675	2533-8	Lactate dehydrogenase [Enzymatic activity/volume] in Synovial fluid	Lab Test	Measurement	LOINC	Invalid	Non-standard
+3016920	2528-8	Lactate dehydrogenase [Enzymatic activity/volume] in Cerebral spinal fluid	Lab Test	Measurement	LOINC	Invalid	Non-standard
+3017210	2534-6	Lactate dehydrogenase [Enzymatic activity/volume] in Urine	Lab Test	Measurement	LOINC	Valid	Standard
+3017861	2540-3	Lactate dehydrogenase 2 [Enzymatic activity/volume] in Serum or Plasma	Lab Test	Measurement	LOINC	Valid	Standard
+3018994	14803-1	Lactate dehydrogenase [Enzymatic activity/volume] in Body fluid by Lactate to pyruvate reaction	Lab Test	Measurement	LOINC	Valid	Standard
+3022250	14804-9	Lactate dehydrogenase [Enzymatic activity/volume] in Serum or Plasma by Lactate to pyruvate reaction	Lab Test	Measurement	LOINC	Valid	Standard
+3023919	2539-5	Lactate dehydrogenase 2/Lactate dehydrogenase.total in Serum or Plasma by Electrophoresis	Lab Test	Measurement	LOINC	Valid	Standard
+3024830	2545-2	Lactate dehydrogenase 4/Lactate dehydrogenase.total in Serum or Plasma by Electrophoresis	Lab Test	Measurement	LOINC	Valid	Standard
+3025124	2546-0	Lactate dehydrogenase 4 [Enzymatic activity/volume] in Serum or Plasma	Lab Test	Measurement	LOINC	Valid	Standard
+3025240	2544-5	Lactate dehydrogenase 4 [Enzymatic activity/volume] in Serum or Plasma by Chemical separation	Lab Test	Measurement	LOINC	Valid	Standard
+3025950	2547-8	Lactate dehydrogenase 5 [Enzymatic activity/volume] in Serum or Plasma by Chemical separation	Lab Test	Measurement	LOINC	Valid	Standard
+3027010	2549-4	Lactate dehydrogenase 5 [Enzymatic activity/volume] in Serum or Plasma	Lab Test	Measurement	LOINC	Valid	Standard
+3027132	14403-0	Lactate dehydrogenase [Enzymatic activity/volume] in Gastric fluid	Lab Test	Measurement	LOINC	Valid	Standard
+3027193	17041-5	Lactate dehydrogenase [Presence] in Urine	Lab Test	Measurement	LOINC	Valid	Standard
+3027430	2538-7	Lactate dehydrogenase 2 [Enzymatic activity/volume] in Serum or Plasma by Chemical separation	Lab Test	Measurement	LOINC	Valid	Standard
+3029419	50688-1	Plasmodium sp lactate dehydrogenase [Identifier] in Blood	Lab Test	Measurement	LOINC	Valid	Standard
+3032488	49930-1	Lactate dehydrogenase in pleural fluid/Lactate dehydrogenase in serum	Lab Test	Measurement	LOINC	Valid	Standard
+3034022	42929-0	Lactate dehydrogenase panel - Serum or Plasma	Lab Test	Measurement	LOINC	Valid	Standard
+3038334	53934-6	Lactate dehydrogenase in peritoneal fluid/Lactate dehydrogenase in serum	Lab Test	Measurement	LOINC	Valid	Standard
+3038468	51511-4	Lactate dehydrogenase 2/Lactate dehydrogenase.total in Cerebral spinal fluid by Electrophoresis	Lab Test	Measurement	LOINC	Valid	Standard
+3038502	51520-5	Lactate dehydrogenase 5/Lactate dehydrogenase.total in Peritoneal fluid by Electrophoresis	Lab Test	Measurement	LOINC	Valid	Standard
+3038592	53561-7	Lactate dehydrogenase/Creatinine [Ratio] in Urine	Lab Test	Measurement	LOINC	Valid	Standard
+3038761	51515-5	Lactate dehydrogenase 3/Lactate dehydrogenase.total in Peritoneal fluid by Electrophoresis	Lab Test	Measurement	LOINC	Valid	Standard
+3038772	51510-6	Lactate dehydrogenase 1/Lactate dehydrogenase.total in Cerebral spinal fluid by Electrophoresis	Lab Test	Measurement	LOINC	Valid	Standard
+3039092	51508-0	Lactate dehydrogenase 1/Lactate dehydrogenase.total in Pleural fluid by Electrophoresis	Lab Test	Measurement	LOINC	Valid	Standard
+3039118	51518-9	Lactate dehydrogenase 4/Lactate dehydrogenase.total in Pleural fluid by Electrophoresis	Lab Test	Measurement	LOINC	Valid	Standard
+3039122	51522-1	Lactate dehydrogenase 5/Lactate dehydrogenase.total in Cerebral spinal fluid by Electrophoresis	Lab Test	Measurement	LOINC	Valid	Standard
+3039310	51516-3	Lactate dehydrogenase 3/Lactate dehydrogenase.total in Cerebral spinal fluid by Electrophoresis	Lab Test	Measurement	LOINC	Valid	Standard
+3039364	53248-1	Plasmodium sp lactate dehydrogenase [Presence] in Blood	Lab Test	Measurement	LOINC	Valid	Standard
+3039684	51519-7	Lactate dehydrogenase 4/Lactate dehydrogenase.total in Cerebral spinal fluid by Electrophoresis	Lab Test	Measurement	LOINC	Valid	Standard
+3039697	51521-3	Lactate dehydrogenase 5/Lactate dehydrogenase.total in Pleural fluid by Electrophoresis	Lab Test	Measurement	LOINC	Valid	Standard
+3041507	51517-1	Lactate dehydrogenase 4/Lactate dehydrogenase.total in Peritoneal fluid by Electrophoresis	Lab Test	Measurement	LOINC	Valid	Standard
+3041510	51509-8	Lactate dehydrogenase 1/Lactate dehydrogenase.total in Peritoneal fluid by Electrophoresis	Lab Test	Measurement	LOINC	Valid	Standard
+3041832	51513-0	Lactate dehydrogenase 2/Lactate dehydrogenase.total in Peritoneal fluid by Electrophoresis	Lab Test	Measurement	LOINC	Valid	Standard
+3042126	51512-2	Lactate dehydrogenase 2/Lactate dehydrogenase.total in Pleural fluid by Electrophoresis	Lab Test	Measurement	LOINC	Valid	Standard
+3042252	53933-8	Lactate dehydrogenase in pericardial fluid/Lactate dehydrogenase in serum	Lab Test	Measurement	LOINC	Valid	Standard
+3042406	51514-8	Lactate dehydrogenase 3/Lactate dehydrogenase.total in Pleural fluid by Electrophoresis	Lab Test	Measurement	LOINC	Valid	Standard
+3043712	33367-4	Lactate dehydrogenase [Enzymatic activity/volume] in Pericardial fluid	Lab Test	Measurement	LOINC	Invalid	Non-standard
+3048491	47678-8	Lactate dehydrogenase [Enzymatic activity/volume] in 24 hour Urine	Lab Test	Measurement	LOINC	Valid	Standard
+3049127	47863-6	Lactate dehydrogenase [Enzymatic activity/time] in 24 hour Urine	Lab Test	Measurement	LOINC	Valid	Standard
+3049516	49279-3	Lactate dehydrogenase isoenzymes [Interpretation] in Serum or Plasma Narrative	Lab Test	Measurement	LOINC	Valid	Standard
+21493427	81430-1	Lactate dehydrogenase [Enzymatic activity/volume] in Peritoneal dialysis fluid by Lactate to pyruvate reaction	Lab Test	Measurement	LOINC	Valid	Standard
+40759878	56759-4	Deprecated Lactate dehydrogenase [Enzymatic activity/volume] in Semen by Lactate to pyruvate reaction	Lab Test	Measurement	LOINC	Invalid	Non-standard
+40760775	57664-5	Lactate dehydrogenase [Enzymatic activity/volume] in Semen	Lab Test	Measurement	LOINC	Valid	Standard
+40763077	60017-1	Lactate dehydrogenase [Enzymatic activity/volume] in Body fluid by Pyruvate to lactate reaction	Lab Test	Measurement	LOINC	Valid	Standard
+40763078	60018-9	Lactate dehydrogenase [Enzymatic activity/volume] in Pericardial fluid by Pyruvate to lactate reaction	Lab Test	Measurement	LOINC	Valid	Standard
+40763079	60019-7	Lactate dehydrogenase [Enzymatic activity/volume] in Pericardial fluid by Lactate to pyruvate reaction	Lab Test	Measurement	LOINC	Valid	Standard
+40763080	60020-5	Lactate dehydrogenase [Enzymatic activity/volume] in Peritoneal fluid by Pyruvate to lactate reaction	Lab Test	Measurement	LOINC	Valid	Standard
+40763081	60021-3	Lactate dehydrogenase [Enzymatic activity/volume] in Pleural fluid by Pyruvate to lactate reaction	Lab Test	Measurement	LOINC	Valid	Standard
+40763082	60022-1	Lactate dehydrogenase [Enzymatic activity/volume] in Pleural fluid by Lactate to pyruvate reaction	Lab Test	Measurement	LOINC	Valid	Standard
+40763083	60023-9	Lactate dehydrogenase [Enzymatic activity/volume] in Cerebral spinal fluid by Pyruvate to lactate reaction	Lab Test	Measurement	LOINC	Valid	Standard
+40763084	60024-7	Lactate dehydrogenase [Enzymatic activity/volume] in Cerebral spinal fluid by Lactate to pyruvate reaction	Lab Test	Measurement	LOINC	Valid	Standard
+40770975	68387-0	Lactate dehydrogenase [Enzymatic activity/volume] in Peritoneal fluid by Lactate to pyruvate reaction	Lab Test	Measurement	LOINC	Valid	Standard
+40771039	68452-2	Lactate dehydrogenase [Enzymatic activity/volume] in Synovial fluid by Pyruvate to lactate reaction	Lab Test	Measurement	LOINC	Valid	Standard
+40771040	68453-0	Lactate dehydrogenase [Enzymatic activity/volume] in Synovial fluid by Lactate to pyruvate reaction	Lab Test	Measurement	LOINC	Valid	Standard
+46235370	75639-5	Lactate dehydrogenase in body fluid/Lactate dehydrogenase in serum	Lab Test	Measurement	LOINC	Valid	Standard
+3571750	112511000000101	LDH isoenzymes	Procedure	Measurement	SNOMED	Invalid	Non-standard
+4012918	11274001	Lactate dehydrogenase measurement	Procedure	Measurement	SNOMED	Valid	Standard
+4098519	250644007	LDH blood measurement	Procedure	Measurement	SNOMED	Valid	Standard
+4133768	413056005	Ascitic fluid lactate dehydrogenase measurement	Procedure	Measurement	SNOMED	Valid	Standard
+4198886	313855009	Plasma lactate dehydrogenase measurement	Procedure	Measurement	SNOMED	Valid	Standard
+"4199027	313956009	Lactate dehydrogenase measurement, body fluid	Procedure	Measurement	SNOMED	Valid	Standard"
+4210717	313854008	Serum lactate dehydrogenase measurement	Procedure	Measurement	SNOMED	Valid	Standard
+4228212	88932000	Lactate dehydrogenase isoenzymes measurement	Procedure	Measurement	SNOMED	Valid	Standard
+37393796	1021731000000109	LDH (lactate dehydrogenase) isoenzymes	Observable Entity	Measurement	SNOMED	Valid	Standard
+37394193	1028111000000107	Lactate dehydrogenase level	Observable Entity	Measurement	SNOMED	Valid	Standard
+40315378	143977003	LDH level: [HBD] or [total serum] or [blood]	Procedure	Measurement	SNOMED	Invalid	Non-standard
+40315390	143988009	LDH blood level	Procedure	Measurement	SNOMED	Invalid	Non-standard
+40328416	166681001	LDH blood level	Procedure	Measurement	SNOMED	Invalid	Non-standard
+40588325	412891007	LDH isoenzymes	Procedure	Measurement	SNOMED	Invalid	Non-standard
+3576617	111761000000102	LDH isoenzymes	Undefined	Observation	SNOMED	Invalid	Non-standard
+40328403	166670004	LDH level: [HBD] or [total serum] or [blood]	Procedure	Procedure	SNOMED	Invalid	Non-standard

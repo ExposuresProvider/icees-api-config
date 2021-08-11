@@ -1,0 +1,98 @@
+Id	Code	Name	Standard Class	Domain	Vocab	Validity	Concept
+1594729	1923616	Vitamin K 1 Injection [Aquamephyton]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+1594730	1923617	1 ML Vitamin K 1 10 MG/ML Injection [Aquamephyton]	Quant Branded Drug	Drug	RxNorm	Invalid	Non-standard
+1594731	1923618	Vitamin K 1 10 MG/ML Injection [Aquamephyton]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+1594734	1923621	Vitamin K 1 2 MG/ML [Aquamephyton]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+1594735	1923622	0.5 ML Vitamin K 1 2 MG/ML Injection [Aquamephyton]	Quant Branded Drug	Drug	RxNorm	Invalid	Non-standard
+1594736	1923623	Vitamin K 1 2 MG/ML Injection [Aquamephyton]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+19001579	6728	vitamin K3	Ingredient	Drug	RxNorm	Valid	Standard
+19010128	11258	vitamin K	Ingredient	Drug	RxNorm	Valid	Standard
+19010129	198899	vitamin K 0.1 MG Oral Tablet	Clinical Drug	Drug	RxNorm	Valid	Standard
+19010130	246721	vitamin K 5 MG Oral Tablet	Clinical Drug	Drug	RxNorm	Valid	Standard
+19010151	246723	vitamin K 5 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+19010152	331285	vitamin K 5 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+19010153	331287	vitamin K 5 MG	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+19010154	333459	vitamin K 0.1 MG	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+19022023	199558	vitamin K 10 MG Oral Tablet	Clinical Drug	Drug	RxNorm	Valid	Standard
+19022045	568562	Vitamin K 1 2 MG/ML [Konakion]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19036008	284445	Calcium Carbonate 500 MG / Cholecalciferol 100 UNT / Vitamin K 1 0.04 MG Chewable Bar	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19036598	207828	Vitamin K 1 2 MG/ML Injectable Solution [Aquamephyton]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+19036599	207829	Vitamin K 1 2 MG/ML Injectable Solution [Konakion]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+19044727	8308	vitamin K1	Ingredient	Drug	RxNorm	Valid	Standard
+19044755	312422	Vitamin K 1 0.1 MG Oral Tablet	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19044760	317465	Vitamin K 1 0.1 MG	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19066634	259547	Calcium Carbonate 500 MG / Vitamin D2 100 MG / Vitamin K 1 40 MG Chewable Tablet	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19087213	331286	vitamin K 3 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+19089038	568561	Vitamin K 1 2 MG/ML [Aquamephyton]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19089795	333460	vitamin K 10 MG	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+19092647	336331	Vitamin K 1 40 MG	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19106287	42781	vitamin K2	Ingredient	Drug	RxNorm	Valid	Standard
+19121188	577045	Calcium Carbonate 500 MG / Cholecalciferol 100 UNT / Vitamin K 1 40 MG Chewable Tablet	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19126387	705189	Calcium Carbonate 500 MG / Cholecalciferol 200 UNT / Vitamin K 1 0.04 MG Chewable Tablet	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19126732	707382	Vitamin K 0.4 MG	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19126733	707384	Calcium Carbonate 500 MG / Vitamin D 100 UNT / Vitamin K 0.4 MG Chewable Bar	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19129076	756208	vitamin K 3 MG/ML Oral Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+19133345	829755	calcium carbonate 1250 MG / cholecalciferol 200 UNT / vitamin K1 0.04 MG Oral Tablet	Clinical Drug	Drug	RxNorm	Valid	Standard
+19133346	829758	calcium carbonate 1250 MG / cholecalciferol 200 UNT / vitamin K1 0.04 MG Chewable Tablet	Clinical Drug	Drug	RxNorm	Valid	Standard
+19133347	829759	calcium carbonate 1250 MG / cholecalciferol 500 UNT / vitamin K1 0.04 MG Chewable Tablet	Clinical Drug	Drug	RxNorm	Valid	Standard
+19135209	847004	vitamin K 0.1 MG Oral Capsule	Clinical Drug	Drug	RxNorm	Valid	Standard
+19135612	849528	Vitamin K 0.5 MG	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19135613	849530	Berberine 90 MG / Cholecalciferol 500 UNT / Hops extract 370 MG / Vitamin K 0.5 MG Oral Tablet	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+35602744	1670192	1 ML vitamin K1 10 MG/ML Injection	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+36027503	1007378	Calcium Carbonate / Cholecalciferol / Vitamin K 1	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36027634	1007514	Calcium Carbonate / Ergocalciferol / Vitamin K 1	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36028385	1008292	Berberine / Cholecalciferol / Hops extract / Vitamin K	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36028823	1008751	Calcium Carbonate / Vitamin D / Vitamin K	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36028839	1008768	Cholecalciferol / Vitamin K 2	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36029400	1149395	Calcium Carbonate / Vitamin D / Vitamin K	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36029451	1244924	Calcium Carbonate / Cholecalciferol / Vitamin K	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36029520	1304558	alpha Tocopherol / Ascorbic Acid / Biotin / Cholecalciferol / dexpanthenol / Folic Acid / Niacinamide / pyridoxine / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin K 1	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36029521	1305199	alpha Tocopherol / Ascorbic Acid / Biotin / dexpanthenol / Ergocalciferol / Folic Acid / Niacinamide / pyridoxine / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin K 1	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36217984	1153271	Berberine / Cholecalciferol / Hops extract / Vitamin K Oral Product	Clinical Dose Group	Drug	RxNorm	Invalid	Non-standard
+36217985	1153272	Berberine / Cholecalciferol / Hops extract / Vitamin K Pill	Clinical Dose Group	Drug	RxNorm	Invalid	Non-standard
+36223735	1161777	vitamin K Injectable Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36223736	1161778	vitamin K Oral Liquid Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36223737	1161779	vitamin K Oral Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36223738	1161780	vitamin K Pill	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36238031	1244922	calcium carbonate / cholecalciferol / vitamin K Oral Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36245182	1295254	calcium carbonate / cholecalciferol / vitamin K Chewable Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36246795	1362803	calcium carbonate / cholecalciferol / vitamin K Pill	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+37498643	2275181	calcium carbonate 1625 MG / cholecalciferol 0.0125 MG / vitamin K 0.04 MG Chewable Tablet	Clinical Drug	Drug	RxNorm	Valid	Standard
+37498644	2275182	calcium carbonate 1625 MG / cholecalciferol 0.0125 MG / vitamin K 0.04 MG [Viactiv Calcium Plus D]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+37498645	2275183	calcium carbonate 1625 MG / cholecalciferol 0.0125 MG / vitamin K 0.04 MG Chewable Tablet [Viactiv Calcium Plus D]	Branded Drug	Drug	RxNorm	Valid	Standard
+40018676	375393	Calcium / Vitamin D / Vitamin K Chewable Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40019618	253022	Calcium 500 MG / Vitamin D 100 UNT / Vitamin K 0.04 MG Chewable Tablet	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+40019682	378927	Calcium Carbonate / Cholecalciferol / Vitamin K 1 Chewable Bar	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40092642	350435	Vitamin K 0.0335 MG	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+40092643	336094	Vitamin K 0.04 MG	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+40092689	246722	Vitamin K 3 MG/ML Syrup	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+40092695	378846	vitamin K Injectable Solution	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40092696	374318	vitamin K Oral Tablet	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40092697	378845	Vitamin K Syrup	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40139941	707383	Calcium Carbonate / Vitamin D / Vitamin K Chewable Bar	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40147524	757324	vitamin K Oral Solution	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40159776	847003	vitamin K Oral Capsule	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40160411	849529	Berberine / Cholecalciferol / Hops extract / Vitamin K Oral Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40166211	865078	calcium carbonate 1250 MG / cholecalciferol 400 UNT / vitamin K1 0.04 MG Chewable Tablet	Clinical Drug	Drug	RxNorm	Valid	Standard
+40224277	1001691	calcium carbonate 1250 MG / cholecalciferol 100 UNT / vitamin K1 0.04 MG Chewable Tablet	Clinical Drug	Drug	RxNorm	Valid	Standard
+40235558	1090024	Calcium Carbonate 500 MG / Cholecalciferol 100 UNT / Vitamin K 1 0.04 MG Chewable Bar [Viactiv Soft Calcium Chews]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+40235560	1090022	Calcium Carbonate 500 MG / Cholecalciferol 100 UNT / Vitamin K 1 0.04 MG [Viactiv Soft Calcium Chews]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+40235561	1088809	Calcium Carbonate 500 MG / Cholecalciferol 200 UNT / Vitamin K 1 0.04 MG Oral Tablet	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+40235586	1090023	Calcium Carbonate / Cholecalciferol / Vitamin K 1 Chewable Bar [Viactiv Soft Calcium Chews]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40242555	1149394	Calcium Carbonate / Vitamin D / Vitamin K Chewable Bar	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40242556	1149399	Calcium Carbonate / Vitamin D / Vitamin K Chewable Bar [Viactiv Calcium Soft Chews]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40242557	1149396	Calcium Carbonate 1250 MG / Vitamin D 100 UNT / Vitamin K 0.04 MG Chewable Bar	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+40242558	1149400	Calcium Carbonate 1250 MG / Vitamin D 100 UNT / Vitamin K 0.04 MG Chewable Bar [Viactiv Calcium Soft Chews]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+40242559	1149398	Calcium Carbonate 1250 MG / Vitamin D 100 UNT / Vitamin K 0.04 MG [Viactiv Calcium Soft Chews]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+40242665	1149393	vitamin K 0.04 MG	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+42706098	1244923	Calcium Carbonate / Cholecalciferol / Vitamin K Chewable Bar	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+42706100	1244927	calcium carbonate 1250 MG / cholecalciferol 500 UNT / vitamin K 0.04 MG [Viactiv Calcium Plus D]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+42706101	1244928	Calcium Carbonate / Cholecalciferol / Vitamin K Chewable Bar [Viactiv Calcium Plus D]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+42708308	1244925	calcium carbonate 1250 MG / cholecalciferol 500 UNT / vitamin K 0.04 MG Chewable Tablet	Clinical Drug	Drug	RxNorm	Valid	Standard
+42708309	1244930	calcium carbonate 1250 MG / cholecalciferol 500 UNT / vitamin K 0.04 MG Chewable Tablet [Viactiv Calcium Plus D]	Branded Drug	Drug	RxNorm	Valid	Standard
+42708310	1244936	calcium carbonate 1250 MG / cholecalciferol 100 UNT / vitamin K 0.04 MG Chewable Tablet	Clinical Drug	Drug	RxNorm	Valid	Standard
+43011587	1362802	vitamin K 0.4 MG	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+43011588	1362804	calcium carbonate / cholecalciferol / vitamin K Chewable Tablet	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+43011952	1362805	calcium carbonate 1250 MG / cholecalciferol 1000 UNT / vitamin K 0.4 MG Chewable Tablet	Clinical Drug	Drug	RxNorm	Valid	Standard
+43532912	1430298	vitamin K2 0.04 MG Oral Tablet	Clinical Drug	Drug	RxNorm	Valid	Standard
+44817837	1535711	calcium carbonate / cholecalciferol / vitamin K Chewable Tablet [Viactiv Calcium Plus D]	Branded Drug Form	Drug	RxNorm	Valid	Standard

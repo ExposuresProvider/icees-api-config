@@ -1,0 +1,83 @@
+AMT
+APC
+ATC
+BDPM
+CCAM
+CIEL
+CIM10
+CPT4
+CVX
+Cancer Modifier
+Concept Class
+DPD
+EDI
+GGR
+HCPCS
+HGNC
+HemOnc
+ICD10
+ICD10CM
+ICD10CN
+ICD10GM
+ICD10PCS
+ICD9CM
+ICD9Proc
+ICD9ProcCN
+ICDO3
+JMDC
+KCD7
+KDC
+Korean Revenue Code
+LOINC
+MeSH
+Multum
+NAACCR
+NCCD
+NDC
+NDFRT
+Nebraska
+OPCS4
+OPS
+OSM
+OXMIS
+Obs Period Type
+PCORNet
+Read
+RxNorm
+RxNorm Extension
+SNOMED
+SNOMED Veterinary
+SPL
+Type Concept
+UK Biobank
+VA Product
+Visit
+ABMS
+CDM
+CGI
+CIViC
+CMS Place of Service
+CTD
+ClinVar
+Cohort
+Condition Status
+Condition Type
+Cost
+Cost Type
+Currency
+DRG
+Death Type
+Device Type
+Domain
+Drug Type
+EphMRA ATC
+Episode
+Episode Type
+Ethnicity
+Gender
+HES Specialty
+JAX
+KNHIS
+MDC
+MMI
+Meas Type

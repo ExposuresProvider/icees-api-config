@@ -1,0 +1,364 @@
+﻿Id	Code	Name	Standard Class	Domain	Vocab	Validity	Concept
+"45543858	N18.3	Chronic kidney disease, stage 3	ICD10 code	Condition	ICD10	Valid	Non-standard"
+"45553437	N18.2	Chronic kidney disease, stage 2	ICD10 code	Condition	ICD10	Valid	Non-standard"
+"45553438	N18.9	Chronic kidney disease, unspecified	ICD10 code	Condition	ICD10	Valid	Non-standard"
+45582391	N18	Chronic kidney disease	ICD10 Hierarchy	Condition	ICD10	Valid	Non-standard
+"45582392	N18.1	Chronic kidney disease, stage 1	ICD10 code	Condition	ICD10	Valid	Non-standard"
+"45582393	N18.4	Chronic kidney disease, stage 4	ICD10 code	Condition	ICD10	Valid	Non-standard"
+"45582394	N18.5	Chronic kidney disease, stage 5	ICD10 code	Condition	ICD10	Valid	Non-standard"
+"725440	N18.30	Chronic kidney disease, stage 3 unspecified	5-char billing code	Condition	ICD10CM	Valid	Non-standard"
+"725441	N18.31	Chronic kidney disease, stage 3a	5-char billing code	Condition	ICD10CM	Valid	Non-standard"
+"725442	N18.32	Chronic kidney disease, stage 3b	5-char billing code	Condition	ICD10CM	Valid	Non-standard"
+1569121	I12	Hypertensive chronic kidney disease	3-char nonbill code	Condition	ICD10CM	Valid	Non-standard
+1569122	I13	Hypertensive heart and chronic kidney disease	3-char nonbill code	Condition	ICD10CM	Valid	Non-standard
+1569123	I13.1	Hypertensive heart and chronic kidney disease without heart failure	4-char nonbill code	Condition	ICD10CM	Valid	Non-standard
+1571486	N18	Chronic kidney disease (CKD)	3-char nonbill code	Condition	ICD10CM	Valid	Non-standard
+"1571639	O10.2	Pre-existing hypertensive chronic kidney disease complicating pregnancy, childbirth and the puerperium	4-char nonbill code	Condition	ICD10CM	Valid	Non-standard"
+1571640	O10.21	Pre-existing hypertensive chronic kidney disease complicating pregnancy	5-char nonbill code	Condition	ICD10CM	Valid	Non-standard
+"1571641	O10.3	Pre-existing hypertensive heart and chronic kidney disease complicating pregnancy, childbirth and the puerperium	4-char nonbill code	Condition	ICD10CM	Valid	Non-standard"
+1571642	O10.31	Pre-existing hypertensive heart and chronic kidney disease complicating pregnancy	5-char nonbill code	Condition	ICD10CM	Valid	Non-standard
+35207671	I12.0	Hypertensive chronic kidney disease with stage 5 chronic kidney disease or end stage renal disease	4-char billing code	Condition	ICD10CM	Valid	Non-standard
+"35207672	I12.9	Hypertensive chronic kidney disease with stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease	4-char billing code	Condition	ICD10CM	Valid	Non-standard"
+"35207673	I13.0	Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease	4-char billing code	Condition	ICD10CM	Valid	Non-standard"
+"35207674	I13.2	Hypertensive heart and chronic kidney disease with heart failure and with stage 5 chronic kidney disease, or end stage renal disease	4-char billing code	Condition	ICD10CM	Valid	Non-standard"
+"35209274	N18.1	Chronic kidney disease, stage 1	4-char billing code	Condition	ICD10CM	Valid	Non-standard"
+"35209275	N18.2	Chronic kidney disease, stage 2 (mild)	4-char billing code	Condition	ICD10CM	Valid	Non-standard"
+"35209276	N18.3	Chronic kidney disease, stage 3 (moderate)	4-char nonbill code	Condition	ICD10CM	Valid	Non-standard"
+"35209277	N18.4	Chronic kidney disease, stage 4 (severe)	4-char billing code	Condition	ICD10CM	Valid	Non-standard"
+"35209278	N18.5	Chronic kidney disease, stage 5	4-char billing code	Condition	ICD10CM	Valid	Non-standard"
+"35209279	N18.9	Chronic kidney disease, unspecified	4-char billing code	Condition	ICD10CM	Valid	Non-standard"
+"45534171	O10.219	Pre-existing hypertensive chronic kidney disease complicating pregnancy, unspecified trimester	6-char billing code	Condition	ICD10CM	Valid	Non-standard"
+45534172	O10.22	Pre-existing hypertensive chronic kidney disease complicating childbirth	5-char billing code	Condition	ICD10CM	Valid	Non-standard
+45539086	O10.23	Pre-existing hypertensive chronic kidney disease complicating the puerperium	5-char billing code	Condition	ICD10CM	Valid	Non-standard
+"45539087	O10.319	Pre-existing hypertensive heart and chronic kidney disease complicating pregnancy, unspecified trimester	6-char billing code	Condition	ICD10CM	Valid	Non-standard"
+"45543164	I13.10	Hypertensive heart and chronic kidney disease without heart failure, with stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease	5-char billing code	Condition	ICD10CM	Valid	Non-standard"
+45547621	E10.22	Type 1 diabetes mellitus with diabetic chronic kidney disease	5-char billing code	Condition	ICD10CM	Valid	Non-standard
+"45548697	O10.212	Pre-existing hypertensive chronic kidney disease complicating pregnancy, second trimester	6-char billing code	Condition	ICD10CM	Valid	Non-standard"
+45552372	E08.22	Diabetes mellitus due to underlying condition with diabetic chronic kidney disease	5-char billing code	Condition	ICD10CM	Valid	Non-standard
+45557089	D63.1	Anemia in chronic kidney disease	4-char billing code	Condition	ICD10CM	Valid	Non-standard
+"45558201	O10.313	Pre-existing hypertensive heart and chronic kidney disease complicating pregnancy, third trimester	6-char billing code	Condition	ICD10CM	Valid	Non-standard"
+45558202	O10.32	Pre-existing hypertensive heart and chronic kidney disease complicating childbirth	5-char billing code	Condition	ICD10CM	Valid	Non-standard
+45561945	E09.22	Drug or chemical induced diabetes mellitus with diabetic chronic kidney disease	5-char billing code	Condition	ICD10CM	Valid	Non-standard
+45561955	E13.22	Other specified diabetes mellitus with diabetic chronic kidney disease	5-char billing code	Condition	ICD10CM	Valid	Non-standard
+"45567886	O10.211	Pre-existing hypertensive chronic kidney disease complicating pregnancy, first trimester	6-char billing code	Condition	ICD10CM	Valid	Non-standard"
+"45577557	O10.312	Pre-existing hypertensive heart and chronic kidney disease complicating pregnancy, second trimester	6-char billing code	Condition	ICD10CM	Valid	Non-standard"
+45582444	O10.33	Pre-existing hypertensive heart and chronic kidney disease complicating the puerperium	5-char billing code	Condition	ICD10CM	Valid	Non-standard
+"45587280	O10.213	Pre-existing hypertensive chronic kidney disease complicating pregnancy, third trimester	6-char billing code	Condition	ICD10CM	Valid	Non-standard"
+"45587281	O10.311	Pre-existing hypertensive heart and chronic kidney disease complicating pregnancy, first trimester	6-char billing code	Condition	ICD10CM	Valid	Non-standard"
+45595797	E11.22	Type 2 diabetes mellitus with diabetic chronic kidney disease	5-char billing code	Condition	ICD10CM	Valid	Non-standard
+"45596188	I13.11	Hypertensive heart and chronic kidney disease without heart failure, with stage 5 chronic kidney disease, or end stage renal disease	5-char billing code	Condition	ICD10CM	Valid	Non-standard"
+1421644	N18	Chronic kidney disease	ICD10 Hierarchy	Condition	ICD10CN	Valid	Non-standard
+1421647	N18.001	5 chronic kidney disease (machine translation)	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+1421648	N18.002	5 chronic kidney disease anemia (machine translation)	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+1421651	N18.801	Chronic kidney disease 1 (machine translation)	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+1421652	N18.802	Chronic kidney disease 2 (machine translation)	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+1421653	N18.803	3 chronic kidney disease (machine translation)	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+1421654	N18.804	4 chronic kidney disease (machine translation)	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+1421660	N18.810	Anemia of chronic kidney disease (machine translation)	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+"1421661	N18.9	Chronic kidney disease, unspecified	ICD10 code	Condition	ICD10CN	Valid	Non-standard"
+"1421662	N18.900	Chronic kidney disease, unspecified	ICD10 code	Condition	ICD10CN	Valid	Non-standard"
+"37090900	N18.2	Chronic kidney disease, stage 2	ICD10 code	Condition	ICD10GM	Valid	Non-standard"
+37091170	N18	Chronic kidney disease	ICD10 Hierarchy	Condition	ICD10GM	Valid	Non-standard
+"37091172	N18.1	Chronic kidney disease, stage 1	ICD10 code	Condition	ICD10GM	Valid	Non-standard"
+"37091173	N18.3	Chronic kidney disease, stage 3	ICD10 code	Condition	ICD10GM	Valid	Non-standard"
+"37091174	N18.4	Chronic kidney disease, stage 4	ICD10 code	Condition	ICD10GM	Valid	Non-standard"
+"37091175	N18.5	Chronic kidney disease, stage 5	ICD10 code	Condition	ICD10GM	Valid	Non-standard"
+"37091182	N18.89	Other chronic kidney disease, stage unspecified	ICD10 code	Condition	ICD10GM	Valid	Non-standard"
+"37091183	N18.9	Chronic kidney disease, unspecified	ICD10 code	Condition	ICD10GM	Valid	Non-standard"
+"44819692	404.01	Hypertensive heart and chronic kidney disease, malignant, with heart failure and with chronic kidney disease stage I through stage IV, or unspecified	5-dig billing code	Condition	ICD9CM	Valid	Non-standard"
+"44819693	404.03	Hypertensive heart and chronic kidney disease, malignant, with heart failure and with chronic kidney disease stage V or end stage renal disease	5-dig billing code	Condition	ICD9CM	Valid	Non-standard"
+"44819694	404.10	Hypertensive heart and chronic kidney disease, benign, without heart failure and with chronic kidney disease stage I through stage IV, or unspecified	5-dig billing code	Condition	ICD9CM	Valid	Non-standard"
+"44819695	404.11	Hypertensive heart and chronic kidney disease, benign, with heart failure and with chronic kidney disease stage I through stage IV, or unspecified	5-dig billing code	Condition	ICD9CM	Valid	Non-standard"
+"44819696	404.91	Hypertensive heart and chronic kidney disease, unspecified, with heart failure and with chronic kidney disease stage I through stage IV, or unspecified	5-dig billing code	Condition	ICD9CM	Valid	Non-standard"
+"44820856	404.13	Hypertensive heart and chronic kidney disease, benign, with heart failure and chronic kidney disease stage V or end stage renal disease	5-dig billing code	Condition	ICD9CM	Valid	Non-standard"
+"44820970	585.4	Chronic kidney disease, Stage IV (severe)	4-dig billing code	Condition	ICD9CM	Valid	Non-standard"
+"44821950	404.92	Hypertensive heart and chronic kidney disease, unspecified, without heart failure and with chronic kidney disease stage V or end stage renal disease	5-dig billing code	Condition	ICD9CM	Valid	Non-standard"
+"44824235	404.93	Hypertensive heart and chronic kidney disease, unspecified, with heart failure and chronic kidney disease stage V or end stage renal disease	5-dig billing code	Condition	ICD9CM	Valid	Non-standard"
+"44825426	403.01	Hypertensive chronic kidney disease, malignant, with chronic kidney disease stage V or end stage renal disease	5-dig billing code	Condition	ICD9CM	Valid	Non-standard"
+44827780	404	Hypertensive heart and chronic kidney disease	3-dig nonbill code	Condition	ICD9CM	Valid	Non-standard
+"44827888	585.3	Chronic kidney disease, Stage III (moderate)	4-dig billing code	Condition	ICD9CM	Valid	Non-standard"
+"44828971	403.91	Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage V or end stage renal disease	5-dig billing code	Condition	ICD9CM	Valid	Non-standard"
+44830172	585	Chronic kidney disease (CKD)	3-dig nonbill code	Condition	ICD9CM	Valid	Non-standard
+"44830173	585.2	Chronic kidney disease, Stage II (mild)	4-dig billing code	Condition	ICD9CM	Valid	Non-standard"
+44831068	285.21	Anemia in chronic kidney disease	5-dig billing code	Condition	ICD9CM	Valid	Non-standard
+"44831231	403.11	Hypertensive chronic kidney disease, benign, with chronic kidney disease stage V or end stage renal disease	5-dig billing code	Condition	ICD9CM	Valid	Non-standard"
+"44831232	404.02	Hypertensive heart and chronic kidney disease, malignant, without heart failure and with chronic kidney disease stage V or end stage renal disease	5-dig billing code	Condition	ICD9CM	Valid	Non-standard"
+44832367	403	Hypertensive chronic kidney disease	3-dig nonbill code	Condition	ICD9CM	Valid	Non-standard
+"44832368	403.00	Hypertensive chronic kidney disease, malignant, with chronic kidney disease stage I through stage IV, or unspecified	5-dig billing code	Condition	ICD9CM	Valid	Non-standard"
+"44832369	404.00	Hypertensive heart and chronic kidney disease, malignant, without heart failure and with chronic kidney disease stage I through stage IV, or unspecified	5-dig billing code	Condition	ICD9CM	Valid	Non-standard"
+"44833558	403.0	Hypertensive chronic kidney disease, malignant	4-dig nonbill code	Condition	ICD9CM	Valid	Non-standard"
+"44833559	404.0	Hypertensive heart and chronic kidney disease, malignant	4-dig nonbill code	Condition	ICD9CM	Valid	Non-standard"
+"44833560	404.12	Hypertensive heart and chronic kidney disease, benign, without heart failure and with chronic kidney disease stage V or end stage renal disease	5-dig billing code	Condition	ICD9CM	Valid	Non-standard"
+"44835922	403.10	Hypertensive chronic kidney disease, benign, with chronic kidney disease stage I through stage IV, or unspecified	5-dig billing code	Condition	ICD9CM	Valid	Non-standard"
+"44835923	403.90	Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage I through stage IV, or unspecified	5-dig billing code	Condition	ICD9CM	Valid	Non-standard"
+"44835924	404.90	Hypertensive heart and chronic kidney disease, unspecified, without heart failure and with chronic kidney disease stage I through stage IV, or unspecified	5-dig billing code	Condition	ICD9CM	Valid	Non-standard"
+"44836035	585.9	Chronic kidney disease, unspecified	4-dig billing code	Condition	ICD9CM	Valid	Non-standard"
+"44837191	585.1	Chronic kidney disease, Stage I	4-dig billing code	Condition	ICD9CM	Valid	Non-standard"
+"44837192	585.5	Chronic kidney disease, Stage V	4-dig billing code	Condition	ICD9CM	Valid	Non-standard"
+"45612367	D051436	Renal Insufficiency, Chronic	Main Heading	Condition	MeSH	Valid	Non-standard"
+45616896	D012080	Chronic Kidney Disease-Mineral and Bone Disorder	Main Heading	Condition	MeSH	Valid	Non-standard
+196991	236425005	Chronic renal impairment	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+443597	433144002	Chronic kidney disease stage 3	Clinical Finding	Condition	SNOMED	Valid	Standard
+443601	431856006	Chronic kidney disease stage 2	Clinical Finding	Condition	SNOMED	Valid	Standard
+443611	433146000	Chronic kidney disease stage 5	Clinical Finding	Condition	SNOMED	Valid	Standard
+443612	431857002	Chronic kidney disease stage 4	Clinical Finding	Condition	SNOMED	Valid	Standard
+443614	431855005	Chronic kidney disease stage 1	Clinical Finding	Condition	SNOMED	Valid	Standard
+760850	120261000119101	Benign hypertensive heart disease and chronic renal disease stage 5	Clinical Finding	Condition	SNOMED	Valid	Standard
+762000	285061000119106	Benign hypertensive heart disease and chronic renal disease stage 2	Clinical Finding	Condition	SNOMED	Valid	Standard
+762001	285081000119102	Benign hypertensive heart disease and chronic renal disease stage 3	Clinical Finding	Condition	SNOMED	Valid	Standard
+762033	285911000119109	Malignant hypertensive heart disease and chronic renal disease stage 3	Clinical Finding	Condition	SNOMED	Valid	Standard
+762034	285921000119102	Malignant hypertensive heart disease and chronic renal disease stage 4	Clinical Finding	Condition	SNOMED	Valid	Standard
+764011	449631000124102	Benign hypertensive heart disease and chronic renal disease	Clinical Finding	Condition	SNOMED	Valid	Standard
+765536	285101000119109	Benign hypertensive heart disease and chronic renal disease stage 4	Clinical Finding	Condition	SNOMED	Valid	Standard
+3519348	511551000000102	At risk of chronic kidney disease	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3547154	939221000000105	Chronic kidney disease resolved	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3553407	200431000000108	Chronic kidney disease stage 1	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3553408	200461000000103	Chronic kidney disease stage 4	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3553409	200471000000105	Chronic kidney disease stage 5	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3553776	211921000000105	Chronic kidney disease stage 1	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3553777	211931000000107	Chronic kidney disease stage 1	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3553778	211951000000100	Chronic kidney disease stage 2	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3553779	211971000000109	Chronic kidney disease stage 3	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3553780	211991000000108	Chronic kidney disease stage 4	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3555421	324131000000106	Chronic kidney disease stage 1 with proteinuria	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3555422	324141000000102	Chronic kidney disease stage 1 with proteinuria	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3555423	324161000000101	Chronic kidney disease stage 1 without proteinuria	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3555424	324171000000108	Chronic kidney disease stage 1 without proteinuria	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3555425	324191000000107	Chronic kidney disease stage 1 with proteinuria	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3555426	324201000000109	Chronic kidney disease stage 1 with proteinuria	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3555427	324221000000100	Chronic kidney disease stage 2 without proteinuria	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3555428	324231000000103	Chronic kidney disease stage 2 without proteinuria	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3555429	324261000000108	Chronic kidney disease stage 3 with proteinuria	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3555430	324271000000101	Chronic kidney disease stage 3 with proteinuria	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3555431	324291000000102	Chronic kidney disease stage 3 without proteinuria	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3555432	324301000000103	Chronic kidney disease stage 3 without proteinuria	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3555433	324321000000107	Chronic kidney disease stage 3A with proteinuria	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3555434	324331000000109	Chronic kidney disease stage 3A with proteinuria	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3555435	324351000000102	Chronic kidney disease stage 3A without proteinuria	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3555436	324361000000104	Chronic kidney disease stage 3A without proteinuria	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3555437	324381000000108	Chronic kidney disease stage 3B with proteinuria	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3555438	324391000000105	Chronic kidney disease stage 3B with proteinuria	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3555439	324421000000104	Chronic kidney disease stage 3B without proteinuria	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3555440	324431000000102	Chronic kidney disease stage 3B without proteinuria	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3555441	324451000000109	Chronic kidney disease stage 4 with proteinuria	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3555442	324461000000107	Chronic kidney disease stage 4 with proteinuria	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3555443	324481000000103	Chronic kidney disease stage 4 without proteinuria	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3555444	324491000000101	Chronic kidney disease stage 4 without proteinuria	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3555445	324511000000109	Chronic kidney disease stage 5 with proteinuria	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3555446	324521000000103	Chronic kidney disease stage 5 with proteinuria	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3555447	324551000000108	Chronic kidney disease stage 5 without proteinuria	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3555448	324561000000106	Chronic kidney disease stage 5 without proteinuria	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3555546	337491000000105	Chronic kidney disease stage 3B	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3556614	434421000124101	Hypertensive chronic kidney disease	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3559375	834001000000101	Chronic kidney disease stage 1	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3559376	834011000000104	Chronic kidney disease stage 2	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3559377	834021000000105	Chronic kidney disease stage 3	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3559378	834031000000107	Chronic kidney disease stage 4	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3559379	834041000000103	Chronic kidney disease stage 5	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3561143	949411000000101	Chronic kidney disease with glomerular filtration rate category G1 and albuminuria category A1	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3561144	949431000000109	Chronic kidney disease with glomerular filtration rate category G1 and albuminuria category A2	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3561145	949491000000105	Chronic kidney disease with glomerular filtration rate category G1 and albuminuria category A3	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3561146	949531000000105	Chronic kidney disease with glomerular filtration rate category G2 and albuminuria category A1	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3561147	949571000000107	Chronic kidney disease with glomerular filtration rate category G2 and albuminuria category A2	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3561148	949631000000106	Chronic kidney disease with glomerular filtration rate category G2 and albuminuria category A3	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3561149	949891000000108	Chronic kidney disease with glomerular filtration rate category G3a and albuminuria category A1	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3561150	949911000000106	Chronic kidney disease with glomerular filtration rate category G3a and albuminuria category A2	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3561151	949931000000103	Chronic kidney disease with glomerular filtration rate category G3a and albuminuria category A3	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3561152	950071000000105	Chronic kidney disease with glomerular filtration rate category G3b and albuminuria category A1	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3561153	950091000000109	Chronic kidney disease with glomerular filtration rate category G3b and albuminuria category A2	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3561154	950111000000104	Chronic kidney disease with glomerular filtration rate category G3b and albuminuria category A3	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3561155	950191000000108	Chronic kidney disease with glomerular filtration rate category G4 and albuminuria category A1	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3561156	950221000000101	Chronic kidney disease with glomerular filtration rate category G4 and albuminuria category A2	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3561157	950241000000108	Chronic kidney disease with glomerular filtration rate category G4 and albuminuria category A3	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3561158	950261000000109	Chronic kidney disease with glomerular filtration rate category G5 and albuminuria category A1	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3561159	950301000000104	Chronic kidney disease with glomerular filtration rate category G5 and albuminuria category A2	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3561160	950321000000108	Chronic kidney disease with glomerular filtration rate category G5 and albuminuria category A3	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3564953	200451000000101	Chronic kidney disease stage 3	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3566135	200441000000104	Chronic kidney disease stage 2	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+36715491	721183009	Low alkaline phosphatase due to chronic kidney disease	Clinical Finding	Condition	SNOMED	Valid	Standard
+36716184	722098007	Chronic kidney disease following donor nephrectomy	Clinical Finding	Condition	SNOMED	Valid	Standard
+36716455	722467000	Chronic kidney disease due to traumatic loss of kidney	Clinical Finding	Condition	SNOMED	Valid	Standard
+36717349	722150000	Chronic kidney disease due to systemic infection	Clinical Finding	Condition	SNOMED	Valid	Standard
+36717534	722149000	Chronic kidney disease following excision of renal neoplasm	Clinical Finding	Condition	SNOMED	Valid	Standard
+37017104	713313000	Chronic kidney disease mineral and bone disorder	Clinical Finding	Condition	SNOMED	Valid	Standard
+37017813	714152005	Chronic kidney disease stage 5 on dialysis	Clinical Finding	Condition	SNOMED	Valid	Standard
+37018761	714153000	Chronic kidney disease stage 5 with transplant	Clinical Finding	Condition	SNOMED	Valid	Standard
+37019193	691421000119108	Anemia co-occurrent and due to chronic kidney disease stage 3	Clinical Finding	Condition	SNOMED	Valid	Standard
+37395652	691411000119101	Anemia in chronic kidney disease stage 5	Clinical Finding	Condition	SNOMED	Valid	Standard
+37398911	691401000119104	Anemia in chronic kidney disease stage 4	Clinical Finding	Condition	SNOMED	Valid	Standard
+40478891	444271000	Erythropoietin resistance in anemia of chronic kidney disease	Clinical Finding	Condition	SNOMED	Valid	Standard
+43020437	153851000119106	Malignant hypertensive chronic kidney disease stage 5	Clinical Finding	Condition	SNOMED	Valid	Standard
+43020456	285871000119106	Malignant hypertensive chronic kidney disease stage 3	Clinical Finding	Condition	SNOMED	Valid	Standard
+43020457	285881000119109	Malignant hypertensive chronic kidney disease stage 4	Clinical Finding	Condition	SNOMED	Valid	Standard
+43021835	96731000119100	Hypertensive heart AND chronic kidney disease stage 3	Clinical Finding	Condition	SNOMED	Valid	Standard
+43021836	96741000119109	Hypertensive heart AND chronic kidney disease stage 2	Clinical Finding	Condition	SNOMED	Valid	Standard
+43021852	285831000119108	Malignant hypertensive chronic kidney disease	Clinical Finding	Condition	SNOMED	Valid	Standard
+43021853	285851000119102	Malignant hypertensive chronic kidney disease stage 1	Clinical Finding	Condition	SNOMED	Valid	Standard
+43021854	285861000119100	Malignant hypertensive chronic kidney disease stage 2	Clinical Finding	Condition	SNOMED	Valid	Standard
+43531559	751000119104	Chronic kidney disease stage 1 due to type 2 diabetes mellitus	Clinical Finding	Condition	SNOMED	Valid	Standard
+43531562	711000119100	Chronic kidney disease stage 5 due to type 2 diabetes mellitus	Clinical Finding	Condition	SNOMED	Valid	Standard
+43531566	741000119101	Chronic kidney disease stage 2 due to type 2 diabetes mellitus	Clinical Finding	Condition	SNOMED	Valid	Standard
+43531577	721000119107	Chronic kidney disease stage 4 due to type 2 diabetes mellitus	Clinical Finding	Condition	SNOMED	Valid	Standard
+43531578	771000119108	Chronic kidney disease due to type 2 diabetes mellitus	Clinical Finding	Condition	SNOMED	Valid	Standard
+43531653	731000119105	Chronic kidney disease stage 3 due to type 2 diabetes mellitus	Clinical Finding	Condition	SNOMED	Valid	Standard
+44782429	104931000119100	Chronic kidney disease due to hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+44782675	698463001	At risk of chronic kidney disease	Clinical Finding	Condition	SNOMED	Valid	Standard
+44782689	129151000119102	Chronic kidney disease stage 4 due to hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+44782690	129161000119100	Chronic kidney disease stage 5 due to hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+44782691	129171000119106	Chronic kidney disease stage 3 due to hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+44782692	129181000119109	Chronic kidney disease stage 2 due to hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+44782703	117681000119102	Chronic kidney disease stage 1 due to hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+44782728	15781000119107	Hypertensive heart AND chronic kidney disease with congestive heart failure	Clinical Finding	Condition	SNOMED	Valid	Standard
+44784621	8501000119104	Hypertensive heart and chronic kidney disease	Clinical Finding	Condition	SNOMED	Valid	Standard
+44784637	96701000119107	Hypertensive heart AND chronic kidney disease on dialysis	Clinical Finding	Condition	SNOMED	Valid	Standard
+44784638	96711000119105	Hypertensive heart AND chronic kidney disease stage 5	Clinical Finding	Condition	SNOMED	Valid	Standard
+44784639	96721000119103	Hypertensive heart AND chronic kidney disease stage 4	Clinical Finding	Condition	SNOMED	Valid	Standard
+44784640	96751000119106	Hypertensive heart AND chronic kidney disease stage 1	Clinical Finding	Condition	SNOMED	Valid	Standard
+44792017	309861000000100	Chronic kidney disease stage 3A	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+44792018	309871000000107	Chronic kidney disease stage 3B	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+44792226	324121000000109	Chronic kidney disease stage 1 with proteinuria	Clinical Finding	Condition	SNOMED	Valid	Standard
+44792227	324151000000104	Chronic kidney disease stage 1 without proteinuria	Clinical Finding	Condition	SNOMED	Valid	Standard
+44792228	324181000000105	Chronic kidney disease stage 2 with proteinuria	Clinical Finding	Condition	SNOMED	Valid	Standard
+44792229	324211000000106	Chronic kidney disease stage 2 without proteinuria	Clinical Finding	Condition	SNOMED	Valid	Standard
+44792230	324251000000105	Chronic kidney disease stage 3 with proteinuria	Clinical Finding	Condition	SNOMED	Valid	Standard
+44792231	324281000000104	Chronic kidney disease stage 3 without proteinuria	Clinical Finding	Condition	SNOMED	Valid	Standard
+44792232	324311000000101	Chronic kidney disease stage 3A with proteinuria	Clinical Finding	Condition	SNOMED	Valid	Standard
+44792249	324341000000100	Chronic kidney disease stage 3A without proteinuria	Clinical Finding	Condition	SNOMED	Valid	Standard
+44792250	324371000000106	Chronic kidney disease stage 3B with proteinuria	Clinical Finding	Condition	SNOMED	Valid	Standard
+44792251	324411000000105	Chronic kidney disease stage 3B without proteinuria	Clinical Finding	Condition	SNOMED	Valid	Standard
+44792252	324441000000106	Chronic kidney disease stage 4 with proteinuria	Clinical Finding	Condition	SNOMED	Valid	Standard
+44792253	324471000000100	Chronic kidney disease stage 4 without proteinuria	Clinical Finding	Condition	SNOMED	Valid	Standard
+44792254	324501000000107	Chronic kidney disease stage 5 with proteinuria	Clinical Finding	Condition	SNOMED	Valid	Standard
+44792255	324541000000105	Chronic kidney disease stage 5 without proteinuria	Clinical Finding	Condition	SNOMED	Valid	Standard
+45757137	10757401000119104	Pre-existing hypertensive heart and chronic kidney disease in mother complicating childbirth	Clinical Finding	Condition	SNOMED	Valid	Standard
+45757139	10757481000119107	Pre-existing hypertensive heart and chronic kidney disease in mother complicating pregnancy	Clinical Finding	Condition	SNOMED	Valid	Standard
+45757356	118781000119108	Pre-existing hypertensive chronic kidney disease in mother complicating pregnancy	Clinical Finding	Condition	SNOMED	Valid	Standard
+45757444	140101000119109	Hypertension in chronic kidney disease stage 5 due to type 2 diabetes mellitus	Clinical Finding	Condition	SNOMED	Valid	Standard
+45757445	140111000119107	Hypertension in chronic kidney disease stage 4 due to type 2 diabetes mellitus	Clinical Finding	Condition	SNOMED	Valid	Standard
+45757446	140121000119100	Hypertension in chronic kidney disease stage 3 due to type 2 diabetes mellitus	Clinical Finding	Condition	SNOMED	Valid	Standard
+45757447	140131000119102	Hypertension in chronic kidney disease stage 2 due to type 2 diabetes mellitus	Clinical Finding	Condition	SNOMED	Valid	Standard
+45763854	700378005	Chronic kidney disease stage 3A	Clinical Finding	Condition	SNOMED	Valid	Standard
+45763855	700379002	Chronic kidney disease stage 3B	Clinical Finding	Condition	SNOMED	Valid	Standard
+45768812	707323002	Anemia in chronic kidney disease	Clinical Finding	Condition	SNOMED	Valid	Standard
+45769901	90731000119103	Chronic kidney disease stage 2 due to type 1 diabetes mellitus	Clinical Finding	Condition	SNOMED	Valid	Standard
+45769902	90751000119109	Chronic kidney disease stage 4 due to type 1 diabetes mellitus	Clinical Finding	Condition	SNOMED	Valid	Standard
+45769903	90761000119106	Chronic kidney disease stage 5 due to type 1 diabetes mellitus	Clinical Finding	Condition	SNOMED	Valid	Standard
+45771064	71421000119105	Hypertension in chronic kidney disease due to type 2 diabetes mellitus	Clinical Finding	Condition	SNOMED	Valid	Standard
+45771067	71701000119105	Hypertension in chronic kidney disease due to type 1 diabetes mellitus	Clinical Finding	Condition	SNOMED	Valid	Standard
+45771075	90741000119107	Chronic kidney disease stage 3 due to type 1 diabetes mellitus	Clinical Finding	Condition	SNOMED	Valid	Standard
+45773576	90721000119101	Chronic kidney disease stage 1 due to type 1 diabetes mellitus	Clinical Finding	Condition	SNOMED	Valid	Standard
+45773688	96441000119101	Chronic kidney disease due to type 1 diabetes mellitus	Clinical Finding	Condition	SNOMED	Valid	Standard
+46270353	284961000119106	Chronic kidney disease due to benign hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+46270354	284971000119100	Chronic kidney disease stage 1 due to benign hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+46270355	284981000119102	Chronic kidney disease stage 2 due to benign hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+46270356	285011000119108	Chronic kidney disease stage 5 due to benign hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+46271022	709044004	Chronic kidney disease	Clinical Finding	Condition	SNOMED	Valid	Standard
+46273514	285001000119105	Chronic kidney disease stage 4 due to benign hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+46273636	284991000119104	Chronic kidney disease stage 3 due to benign hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+46284080	939211000000104	Chronic kidney disease resolved	Clinical Finding	Condition	SNOMED	Valid	Standard
+46284566	949401000000103	CKD G1A1 - chronic kidney disease with glomerular filtration rate category G1 and albuminuria category A1	Clinical Finding	Condition	SNOMED	Valid	Standard
+46284567	949421000000107	CKD G1A2 - chronic kidney disease with glomerular filtration rate category G1 and albuminuria category A2	Clinical Finding	Condition	SNOMED	Valid	Standard
+46284570	949481000000108	CKD G1A3 - chronic kidney disease with glomerular filtration rate category G1 and albuminuria category A3	Clinical Finding	Condition	SNOMED	Valid	Standard
+46284572	949521000000108	CKD G2A1 - chronic kidney disease with glomerular filtration rate category G2 and albuminuria category A1	Clinical Finding	Condition	SNOMED	Valid	Standard
+46284575	949621000000109	CKD G2A3 - chronic kidney disease with glomerular filtration rate category G2 and albuminuria category A3	Clinical Finding	Condition	SNOMED	Valid	Standard
+46284587	949881000000106	CKD G3aA1 - chronic kidney disease with glomerular filtration rate category G3a and albuminuria category A1	Clinical Finding	Condition	SNOMED	Valid	Standard
+46284588	949921000000100	CKD G3aA3 - chronic kidney disease with glomerular filtration rate category G3a and albuminuria category A3	Clinical Finding	Condition	SNOMED	Valid	Standard
+46284591	950061000000103	CKD G3bA1 - chronic kidney disease with glomerular filtration rate category G3b and albuminuria category A1	Clinical Finding	Condition	SNOMED	Valid	Standard
+46284592	950081000000107	CKD G3bA2 - chronic kidney disease with glomerular filtration rate category G3b and albuminuria category A2	Clinical Finding	Condition	SNOMED	Valid	Standard
+46284593	950101000000101	CKD G3bA3 - chronic kidney disease with glomerular filtration rate category G3b and albuminuria category A3	Clinical Finding	Condition	SNOMED	Valid	Standard
+46284597	950181000000106	CKD G4A1 - chronic kidney disease with glomerular filtration rate category G4 and albuminuria category A1	Clinical Finding	Condition	SNOMED	Valid	Standard
+46284598	950211000000107	CKD G4A2 - chronic kidney disease with glomerular filtration rate category G4 and albuminuria category A2	Clinical Finding	Condition	SNOMED	Valid	Standard
+46284599	950231000000104	CKD G4A3 - chronic kidney disease with glomerular filtration rate category G4 and albuminuria category A3	Clinical Finding	Condition	SNOMED	Valid	Standard
+46284600	950251000000106	CKD G5A1 - chronic kidney disease with glomerular filtration rate category G5 and albuminuria category A1	Clinical Finding	Condition	SNOMED	Valid	Standard
+46284602	950291000000103	CKD G5A2 - chronic kidney disease with glomerular filtration rate category G5 and albuminuria category A2	Clinical Finding	Condition	SNOMED	Valid	Standard
+46284603	950311000000102	CKD G5A3 - chronic kidney disease with glomerular filtration rate category G5 and albuminuria category A3	Clinical Finding	Condition	SNOMED	Valid	Standard
+46286992	949901000000109	CKD G3aA2 - chronic kidney disease with glomerular filtration rate category G3a and albuminuria category A2	Clinical Finding	Condition	SNOMED	Valid	Standard
+46287169	949561000000100	CKD G2A2 - chronic kidney disease with glomerular filtration rate category G2 and albuminuria category A2	Clinical Finding	Condition	SNOMED	Valid	Standard
+"36210709	LA27518-2	Chronic kidney disease, stage 5	Answer	Meas Value	LOINC	Valid	Standard"
+36308365	LA28055-4	Conservative management of chronic kidney disease (CKD)	Answer	Meas Value	LOINC	Valid	Standard
+36308803	LA28049-7	Etiology and progressive nature of chronic kidney disease (CKD)	Answer	Meas Value	LOINC	Valid	Standard
+36304831	87533-6	Chronic kidney disease management personal goals panel	Clinical Observation	Measurement	LOINC	Valid	Standard
+36306168	88240-7	Chronic kidney disease education panel	Clinical Observation	Measurement	LOINC	Valid	Standard
+3559661	857981000000102	Estimated glomerular filtration rate using Chronic Kidney Disease Epidemiology Collaboration formula per 1.73 square metres	Observable Entity	Measurement	SNOMED	Invalid	Non-standard
+4064381	171234009	Nephropathy screening	Procedure	Measurement	SNOMED	Valid	Standard
+37393011	1011481000000105	eGFR (estimated glomerular filtration rate) using creatinine Chronic Kidney Disease Epidemiology Collaboration equation per 1.73 square metres	Observable Entity	Measurement	SNOMED	Valid	Standard
+37393012	1011491000000107	eGFR (estimated glomerular filtration rate) using cystatin C Chronic Kidney Disease Epidemiology Collaboration equation per 1.73 square metres	Observable Entity	Measurement	SNOMED	Valid	Standard
+44808279	857971000000104	Estimated glomerular filtration rate using Chronic Kidney Disease Epidemiology Collaboration formula	Observable Entity	Measurement	SNOMED	Valid	Standard
+46285137	963601000000106	Estimated glomerular filtration rate using cystatin C Chronic Kidney Disease Epidemiology Collaboration equation	Observable Entity	Measurement	SNOMED	Valid	Standard
+46285138	963621000000102	Estimated glomerular filtration rate using creatinine Chronic Kidney Disease Epidemiology Collaboration equation	Observable Entity	Measurement	SNOMED	Valid	Standard
+1017036	LP262555-8	Chronic kidney disease education topic(s) discussed during this visit	LOINC Component	Observation	LOINC	Valid	Non-standard
+1017325	LP263708-2	Chronic kidney disease management personal goals panel	LOINC Component	Observation	LOINC	Valid	Non-standard
+1017428	LP264931-9	Chronic kidney disease education panel	LOINC Component	Observation	LOINC	Valid	Non-standard
+1017429	LP264932-7	Dialysis unit visit as part of chronic kidney disease education	LOINC Component	Observation	LOINC	Valid	Non-standard
+36303703	88239-9	Dialysis unit visit as part of chronic kidney disease education	Clinical Observation	Observation	LOINC	Valid	Standard
+36305202	86906-5	Chronic kidney disease education topic(s) discussed during this visit	Clinical Observation	Observation	LOINC	Valid	Standard
+3526051	274801000000100	Predicted stage chronic kidney disease	Observable Entity	Observation	SNOMED	Invalid	Non-standard
+3543812	768681000000100	H/O: chronic kidney disease	Context-dependent	Observation	SNOMED	Invalid	Non-standard
+3553395	196161000000107	Exception reporting: chronic kidney disease quality indicators	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+3553397	196201000000104	Excepted from chronic kidney disease quality indicators: Informed dissent	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+3553398	196211000000102	Excepted from chronic kidney disease quality indicators: Patient unsuitable	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+3554060	217421000000105	Excepted from chronic kidney disease quality indicators: Informed dissent	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+3554061	217431000000107	Excepted from chronic kidney disease quality indicators: Informed dissent	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+3554306	249111000000107	Chronic kidney disease monitoring first letter	Procedure	Observation	SNOMED	Invalid	Non-standard
+3554307	249141000000108	Chronic kidney disease monitoring verbal invitation	Procedure	Observation	SNOMED	Invalid	Non-standard
+3554386	250491000000101	Chronic kidney disease monitoring	Procedure	Observation	SNOMED	Invalid	Non-standard
+3554390	250601000000106	Chronic kidney disease annual review	Procedure	Observation	SNOMED	Invalid	Non-standard
+3554473	251781000000100	Chronic kidney disease monitoring second letter	Procedure	Observation	SNOMED	Invalid	Non-standard
+3554553	253121000000101	Chronic kidney disease monitoring	Procedure	Observation	SNOMED	Invalid	Non-standard
+3554556	253231000000107	Chronic kidney disease annual review	Procedure	Observation	SNOMED	Invalid	Non-standard
+3554778	274751000000107	Chronic kidney disease monitoring first letter	Procedure	Observation	SNOMED	Invalid	Non-standard
+3554779	274761000000105	Chronic kidney disease monitoring second letter	Procedure	Observation	SNOMED	Invalid	Non-standard
+3554780	274771000000103	Chronic kidney disease monitoring third letter	Procedure	Observation	SNOMED	Invalid	Non-standard
+3554781	274781000000101	Chronic kidney disease monitoring verbal invite	Procedure	Observation	SNOMED	Invalid	Non-standard
+3554782	274791000000104	Chronic kidney disease monitoring telephone invite	Procedure	Observation	SNOMED	Invalid	Non-standard
+3555085	298151000000105	Did not attend chronic kidney disease monitoring clinic	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+3555086	298161000000108	Did not attend chronic kidney disease monitoring clinic	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+3559116	811951000000108	Chronic kidney disease self-management plan agreed	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+3565476	249121000000101	Chronic kidney disease monitoring second letter	Procedure	Observation	SNOMED	Invalid	Non-standard
+3567042	249151000000106	Chronic kidney disease monitoring telephone invitation	Procedure	Observation	SNOMED	Invalid	Non-standard
+3567614	249131000000104	Chronic kidney disease monitoring third letter	Procedure	Observation	SNOMED	Invalid	Non-standard
+3577568	211941000000103	Chronic kidney disease stage 2	Undefined	Observation	SNOMED	Invalid	Non-standard
+3577569	211961000000102	Chronic kidney disease stage 3	Undefined	Observation	SNOMED	Invalid	Non-standard
+3577570	211981000000106	Chronic kidney disease stage 4	Undefined	Observation	SNOMED	Invalid	Non-standard
+3577571	212001000000106	Chronic kidney disease stage 5	Undefined	Observation	SNOMED	Invalid	Non-standard
+3577573	212011000000108	Chronic kidney disease stage 5	Undefined	Observation	SNOMED	Invalid	Non-standard
+3577660	217301000000106	Exception reporting: chronic kidney disease quality indicators	Undefined	Observation	SNOMED	Invalid	Non-standard
+3577662	217311000000108	Exception reporting: chronic kidney disease quality indicators	Undefined	Observation	SNOMED	Invalid	Non-standard
+3577665	217401000000101	Excepted from chronic kidney disease quality indicators: Patient unsuitable	Undefined	Observation	SNOMED	Invalid	Non-standard
+3577667	217411000000104	Excepted from chronic kidney disease quality indicators: Patient unsuitable	Undefined	Observation	SNOMED	Invalid	Non-standard
+3578015	251761000000109	Chronic kidney disease monitoring administration	Undefined	Observation	SNOMED	Invalid	Non-standard
+3578016	251771000000102	Chronic kidney disease monitoring first letter	Undefined	Observation	SNOMED	Invalid	Non-standard
+3578017	251791000000103	Chronic kidney disease monitoring third letter	Undefined	Observation	SNOMED	Invalid	Non-standard
+3578018	251801000000104	Chronic kidney disease monitoring verbal invite	Undefined	Observation	SNOMED	Invalid	Non-standard
+3578020	251811000000102	Chronic kidney disease monitoring telephone invite	Undefined	Observation	SNOMED	Invalid	Non-standard
+3578021	251821000000108	Predicted stage chronic kidney disease	Undefined	Observation	SNOMED	Invalid	Non-standard
+3578899	274741000000109	Chronic kidney disease monitoring administration	Undefined	Observation	SNOMED	Invalid	Non-standard
+3579736	337041000000108	Chronic kidney disease stage 3A	Undefined	Observation	SNOMED	Invalid	Non-standard
+3579737	337051000000106	Chronic kidney disease stage 3B	Undefined	Observation	SNOMED	Invalid	Non-standard
+3579741	337481000000108	Chronic kidney disease stage 3A	Undefined	Observation	SNOMED	Invalid	Non-standard
+3581761	511561000000104	At risk of chronic kidney disease	Undefined	Observation	SNOMED	Invalid	Non-standard
+43021961	472953006	History of chronic renal impairment	Context-dependent	Observation	SNOMED	Valid	Standard
+44790945	248721000000108	Chronic kidney disease monitoring	Procedure	Observation	SNOMED	Valid	Standard
+44791021	249171000000102	Chronic kidney disease annual review	Procedure	Observation	SNOMED	Valid	Standard
+44791043	249311000000109	Predicted stage chronic kidney disease	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+44791713	298141000000107	Did not attend chronic kidney disease monitoring clinic	Clinical Finding	Observation	SNOMED	Valid	Standard
+44803779	716651000000106	Chronic kidney disease monitoring first letter	Procedure	Observation	SNOMED	Valid	Standard
+44803801	716881000000104	Excepted from chronic kidney disease quality indicators - informed dissent	Clinical Finding	Observation	SNOMED	Valid	Standard
+44803834	716891000000102	Excepted from chronic kidney disease quality indicators - patient unsuitable	Clinical Finding	Observation	SNOMED	Valid	Standard
+44803864	717231000000104	Chronic kidney disease monitoring verbal invitation	Procedure	Observation	SNOMED	Valid	Standard
+44803874	717361000000100	Exception reporting - chronic kidney disease quality indicators	Clinical Finding	Observation	SNOMED	Valid	Standard
+44803914	717461000000108	Chronic kidney disease monitoring third letter	Procedure	Observation	SNOMED	Valid	Standard
+44803919	717511000000105	Chronic kidney disease monitoring telephone invitation	Procedure	Observation	SNOMED	Valid	Standard
+44803937	717751000000104	Chronic kidney disease monitoring second letter	Procedure	Observation	SNOMED	Valid	Standard
+44804337	711421000000107	Chronic kidney disease monitoring invitation	Procedure	Observation	SNOMED	Valid	Standard
+44806368	811941000000105	Chronic kidney disease self-management plan agreed	Clinical Finding	Observation	SNOMED	Valid	Standard
+"709856	0105U	Nephrology (chronic kidney disease), multiplex electrochemiluminescent immunoassay (ECLIA) of tumor necrosis factor receptor 1A, receptor superfamily 2 (TNFR1, TNFR2), and kidney injury molecule-1 (KIM-1) combined with longitudinal clinical data, inclu...	CPT4	Procedure	CPT4	Valid	Standard"
+3546586	903271000000102	Chronic kidney disease laboratory study	Procedure	Procedure	SNOMED	Invalid	Non-standard
+3573863	832101000000106	Chronic kidney disease self-management plan review	Procedure	Procedure	SNOMED	Invalid	Non-standard
+36715044	720510004	Education about chronic kidney disease	Procedure	Procedure	SNOMED	Valid	Standard
+44806129	811021000000104	Chronic kidney disease self-management plan review	Procedure	Procedure	SNOMED	Valid	Standard
+44813813	903261000000109	Chronic kidney disease laboratory study	Procedure	Procedure	SNOMED	Valid	Standard
+3562650	248391000000105	Chronic kidney disease monitoring administration	Admin Concept	Type Concept	SNOMED	Invalid	Non-standard
+36717134	720701005	Chronic kidney disease clinical management plan	Qualifier Value	Type Concept	SNOMED	Invalid	Non-standard
+42537816	737429003	Chronic kidney disease clinical management plan	Record Artifact	Type Concept	SNOMED	Valid	Non-standard
+44803387	713811000000100	Chronic kidney disease monitoring administration	Record Artifact	Type Concept	SNOMED	Valid	Non-standard

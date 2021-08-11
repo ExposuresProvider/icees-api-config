@@ -1,0 +1,10 @@
+NB: the code and files in this Download_Version_2 is the final version that was used to download the athena files. This should be used moving forward unless advised otherwise. The code was developed to reduce the effort on filtering the right idenitifers (equivalent name is vocab from athena) for FHIR mapping. 
+
+download_athena_updated_v2.py downloads the files by defining the domain (Drug, Condtion, etc) and vocabs (RxNorm, SNOWMED, etc). If the fetaure has suffix as Rx, we only download files with domain drug and vocab Rxnorm otherise we . 
+
+Domain.txt is a full list of domains Athena webiste. Here, Vocab.txt only contains the vocabs of our interest. 
+
+covid_feature_key_terms_v2.csv - this is the file used to pull covid features and search term. Verify this file with Kara everytimefor search terms as she is an expert in the medical domain. 
+
+
+download_athena_updated_v2.py can be ran as a cran job using download.sh

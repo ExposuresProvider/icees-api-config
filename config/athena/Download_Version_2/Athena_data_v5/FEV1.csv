@@ -1,0 +1,61 @@
+﻿Id	Code	Name	Standard Class	Domain	Vocab	Validity	Concept
+4064740	165042006	FEV normal	Clinical Finding	Condition	SNOMED	Valid	Standard
+4064741	165044007	FEV1/FVC ratio abnormal	Clinical Finding	Condition	SNOMED	Valid	Standard
+4065410	165043001	FEV1/FVC ratio normal	Clinical Finding	Condition	SNOMED	Valid	Standard
+4103361	28818005	Normal forced expiratory volume	Clinical Finding	Condition	SNOMED	Valid	Standard
+4151447	314472003	FEV1/FVC < 70% of predicted	Clinical Finding	Condition	SNOMED	Valid	Standard
+4152057	314473008	FEV1/FVC > 70% of predicted	Clinical Finding	Condition	SNOMED	Valid	Standard
+4261798	46154005	Decreased forced expiratory volume	Clinical Finding	Condition	SNOMED	Valid	Standard
+4280653	65740005	Increased forced expiratory volume	Clinical Finding	Condition	SNOMED	Valid	Standard
+3005025	20157-4	FEV1 --pre bronchodilation	Clinical Observation	Measurement	LOINC	Valid	Standard
+3010855	20151-7	Deprecated FEV1/Predicted by Calculation	Clinical Observation	Measurement	LOINC	Invalid	Non-standard
+3011505	19926-5	FEV1/FVC	Clinical Observation	Measurement	LOINC	Valid	Standard
+3011708	20152-5	FEV1 measured/predicted	Clinical Observation	Measurement	LOINC	Valid	Standard
+3013720	20153-3	FEV1/FEV total	Clinical Observation	Measurement	LOINC	Valid	Standard
+3019480	20156-6	FEV1 Predicted --pre bronchodilation	Clinical Observation	Measurement	LOINC	Valid	Standard
+3022830	20154-1	FEV1 Predicted --post bronchodilation	Clinical Observation	Measurement	LOINC	Valid	Standard
+3022891	20149-1	FEV1 Predicted	Clinical Observation	Measurement	LOINC	Valid	Standard
+3023550	20155-8	FEV1 --post bronchodilation	Clinical Observation	Measurement	LOINC	Valid	Standard
+3024594	19925-7	FEV1/FVC Predicted	Clinical Observation	Measurement	LOINC	Valid	Standard
+3024653	20150-9	FEV1	Clinical Observation	Measurement	LOINC	Valid	Standard
+3043285	43259-1	FEV1 --post 0.25 mg/mL methacholine	Clinical Observation	Measurement	LOINC	Valid	Standard
+3043291	43258-3	FEV1 --post 10 mg/mL methacholine	Clinical Observation	Measurement	LOINC	Valid	Standard
+3043478	43253-4	FEV1 --pre dose methacholine	Clinical Observation	Measurement	LOINC	Valid	Standard
+3043574	43254-2	FEV1 --Pre excercise	Clinical Observation	Measurement	LOINC	Valid	Standard
+3044378	43263-3	FEV1 --10 minutes post exercise	Clinical Observation	Measurement	LOINC	Valid	Standard
+3045045	43255-9	FEV1 --post dose methacholine	Clinical Observation	Measurement	LOINC	Valid	Standard
+3046362	43262-5	FEV1 --15 minutes post exercise	Clinical Observation	Measurement	LOINC	Valid	Standard
+3046522	43256-7	FEV1 --post 25 mg/mL methacholine	Clinical Observation	Measurement	LOINC	Valid	Standard
+3046526	43261-7	FEV1 --5 minutes post exercise	Clinical Observation	Measurement	LOINC	Valid	Standard
+3046754	43257-5	FEV1 --post 2.5 mg/mL methacholine	Clinical Observation	Measurement	LOINC	Valid	Standard
+3046800	43260-9	FEV1 --post 0.025 mg/mL methacholine	Clinical Observation	Measurement	LOINC	Valid	Standard
+40766747	64030-0	Percent of baseline forced expiratory volume in 1 second [PhenX]	Clinical Observation	Measurement	LOINC	Valid	Standard
+40768348	65657-9	Deprecated FEV1/predicted	Clinical Observation	Measurement	LOINC	Invalid	Non-standard
+40768349	65658-7	FEV1/FEV6 Predicted	Clinical Observation	Measurement	LOINC	Valid	Standard
+42868459	69970-2	FEV1/FVC --post bronchodilation	Clinical Observation	Measurement	LOINC	Valid	Standard
+42868472	69983-5	FEV1 percent change	Clinical Observation	Measurement	LOINC	Valid	Standard
+42868473	69984-3	FEV1/FVC percent change	Clinical Observation	Measurement	LOINC	Valid	Standard
+958683	D005541	Forced Expiratory Volume	Main Heading	Measurement	MeSH	Valid	Non-standard
+3574727	710711000000104	Percentage predicted forced expiratory volume in 1 second after bronchodilation	Observable Entity	Measurement	SNOMED	Invalid	Non-standard
+4101986	28101009	Total vital capacity with timed forced expiratory volume and peak flow rate measurement	Procedure	Measurement	SNOMED	Valid	Standard
+4150245	310360002	Expected FEV1/FVC ratio	Observable Entity	Measurement	SNOMED	Valid	Standard
+4196583	313222007	FEV1/FVC percent	Observable Entity	Measurement	SNOMED	Valid	Standard
+4233038	407602006	FEV1/FVC ratio before bronchodilator	Observable Entity	Measurement	SNOMED	Valid	Standard
+4236290	407599001	Forced expiratory volume in one second/Forced vital capacity ratio pre steroids	Observable Entity	Measurement	SNOMED	Valid	Standard
+4250004	407601004	Forced expiratory volume in one second/Forced vital capacity ratio post steroids	Observable Entity	Measurement	SNOMED	Valid	Standard
+4250005	407603001	Forced expiratory volume 1 (FEV1)/ forced vital capacity (FVC) ratio after bronchodilator	Observable Entity	Measurement	SNOMED	Valid	Standard
+40491860	447254005	Percentage predicted forced expiratory volume in 1 second after bronchodilation	Observable Entity	Measurement	SNOMED	Valid	Standard
+40629988	74274000	Forced expiratory volume	Observable Entity	Measurement	SNOMED	Invalid	Non-standard
+44791345	276941000000104	FEV1 (forced expiratory volume in one second)/VC (vital capacity) percent	Observable Entity	Measurement	SNOMED	Invalid	Non-standard
+44810338	887391000000106	FEV1 (forced expiratory volume in 1 second)/FEV6 (forced expiratory volume in 6 seconds) ratio	Observable Entity	Measurement	SNOMED	Invalid	Non-standard
+44811010	862751000000103	Forced expiratory volume in one second/vital capacity ratio after bronchodilator	Observable Entity	Measurement	SNOMED	Valid	Standard
+44811092	862931000000108	FEV1 (forced expiratory volume in 1 second) after change of bronchodilator	Observable Entity	Measurement	SNOMED	Valid	Standard
+45765566	702534005	Forced expiratory volume in one second/Forced expiratory volume in six seconds ratio	Observable Entity	Measurement	SNOMED	Valid	Standard
+1006337	LP115580-5	Pre-bronchodilator forced expiratory volume in 1 second (FEV1) attempt	LOINC Component	Observation	LOINC	Valid	Non-standard
+1006339	LP115582-1	Post-bronchodilator forced expiratory volume in 1 second (FEV1) attempt	LOINC Component	Observation	LOINC	Valid	Non-standard
+1006341	LP115584-7	Percent of baseline forced expiratory volume in 1 second	LOINC Component	Observation	LOINC	Valid	Non-standard
+40766743	64026-8	Pre-bronchodilator forced expiratory volume in 1 second (FEV1) attempt [PhenX]	Clinical Observation	Observation	LOINC	Valid	Standard
+40766745	64028-4	Post-bronchodilator forced expiratory volume in 1 second (FEV1) attempt [PhenX]	Clinical Observation	Observation	LOINC	Valid	Standard
+3579072	288011000000109	Forced expiratory volume in one second/vital capacity percent	Undefined	Observation	SNOMED	Invalid	Non-standard
+3579080	288521000000105	Forced expiratory volume in one second/vital capacity percent	Undefined	Observation	SNOMED	Invalid	Non-standard
+3584728	710721000000105	Percentage predicted Forced Expiratory Volume in 1 second after bronchodilation	Undefined	Observation	SNOMED	Invalid	Non-standard

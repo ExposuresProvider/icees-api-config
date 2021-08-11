@@ -1,0 +1,57 @@
+Id	Code	Name	Standard Class	Domain	Vocab	Validity	Concept
+739620	2475336	norepinephrine 0.016 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+739621	2475338	norepinephrine 0.016 MG/ML Injection	Clinical Drug	Drug	RxNorm	Valid	Standard
+739622	2475339	norepinephrine 0.032 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+739623	2475341	norepinephrine 0.032 MG/ML Injection	Clinical Drug	Drug	RxNorm	Valid	Standard
+740243	2475337	250 ML norepinephrine 0.016 MG/ML Injection	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+740244	2475340	250 ML norepinephrine 0.032 MG/ML Injection	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+1321341	7512	norepinephrine	Ingredient	Drug	RxNorm	Valid	Standard
+1321363	242969	4 ML norepinephrine 1 MG/ML Injection	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+1321364	328853	norepinephrine 1 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+19004003	104455	Norepinephrine 0.2 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19011871	142104	norepinephrine 2 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+19040856	209217	4 ML norepinephrine 1 MG/ML Injection [Levophed]	Quant Branded Drug	Drug	RxNorm	Valid	Standard
+19088856	569844	norepinephrine 1 MG/ML [Levophed]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19100159	360916	norepinephrine 2 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+19101339	385741	Norepinephrine 0.2 MG/ML	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19104087	412425	lidocaine 20 MG/ML / norepinephrine 0.02 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+19104088	412426	lidocaine 30 MG/ML / norepinephrine 0.04 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+19104099	412495	lidocaine 30 MG/ML / norepinephrine 0.08 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+19104284	413439	lidocaine 20 MG/ML / norepinephrine 0.15 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+19104285	413440	lidocaine 20 MG/ML / norepinephrine 0.04 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+19104395	414038	Norepinephrine 0.1 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19104405	414151	mepivacaine 0.04 MG/ML / norepinephrine 20 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+19104445	415040	mepivacaine 0.025 MG/ML / norepinephrine 30 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+19111068	446835	norepinephrine 0.02 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+19111069	446837	norepinephrine 0.04 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+19111070	446840	norepinephrine 0.08 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+19111072	446842	norepinephrine 20 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+19111075	446846	norepinephrine 30 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+19111077	446850	Norepinephrine 0.1 MG/ML	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19111082	446860	norepinephrine 0.15 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+19128189	7508	norepinephrine bitartrate	Precise Ingredient	Drug	RxNorm	Valid	Non-standard
+35603731	1745276	norepinephrine Injection	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+35603732	1745278	norepinephrine Injection [Levophed]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+35603733	1745280	norepinephrine 1 MG/ML Injection	Clinical Drug	Drug	RxNorm	Valid	Standard
+35603734	1745281	norepinephrine 1 MG/ML Injection [Levophed]	Branded Drug	Drug	RxNorm	Valid	Standard
+36028496	1008411	Mepivacaine / Norepinephrine	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36028719	1008641	Lidocaine / Norepinephrine	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36218434	1164050	lidocaine / norepinephrine Injectable Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36225029	1159845	norepinephrine Injectable Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36227121	1160403	mepivacaine / norepinephrine Injectable Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+40001289	446836	lidocaine / norepinephrine Injectable Solution	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40061722	446843	mepivacaine / norepinephrine Injectable Solution	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40072394	373112	norepinephrine Injectable Solution	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40072395	93118	Norepinephrine Injectable Solution [Levophed]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40161339	853242	Norepinephrine 0.016 MG/ML	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+40161340	853243	Norepinephrine 0.016 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+40167235	866823	Norepinephrine 0.032 MG/ML	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+40167236	866824	Norepinephrine 0.032 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+40227204	1010911	Norepinephrine 0.064 MG/ML	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+40227205	1010912	Norepinephrine 0.064 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+40238686	1100200	50 ML Norepinephrine 0.016 MG/ML Prefilled Syringe	Quant Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+40239272	1100199	Norepinephrine Prefilled Syringe	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+42901045	1314130	Norepinephrine 0.06 MG/ML	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+42901726	1314131	Norepinephrine 0.06 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+42902918	1360031	Norepinephrine 0.016 MG/ML Prefilled Syringe	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+46275087	1657875	norepinephrine, DL-	Precise Ingredient	Drug	RxNorm	Valid	Non-standard

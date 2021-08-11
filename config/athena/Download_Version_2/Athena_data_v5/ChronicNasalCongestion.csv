@@ -1,0 +1,8 @@
+Id	Code	Name	Standard Class	Domain	Vocab	Validity	Concept
+4155092	272034001	C/O nasal congestion	Clinical Finding	Condition	SNOMED	Valid	Standard
+4195085	68235000	Nasal congestion	Clinical Finding	Condition	SNOMED	Valid	Standard
+40305692	139650002	Nasal: [obstruction present] or [C/O congestion]	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+40326993	162380009	Nasal: [obstruction present] or [C/O congestion]	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+40395419	195830008	Nasal: [obstruction] or [congestion (& sinus)] or [infection] or [sore nostril] or [cavity and sinus disease NOS]	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40436809	232210005	Nasal congestion	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+45602003	R09.81	Nasal congestion	5-char billing code	Condition	ICD10CM	Valid	Non-standard

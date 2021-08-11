@@ -1,0 +1,43 @@
+Id	Code	Name	Standard Class	Domain	Vocab	Validity	Concept
+1507835	11149	vasopressin (USP)	Ingredient	Drug	RxNorm	Valid	Standard
+1507837	242938	vasopressin (USP) 5 UNT/ML Injectable Suspension	Clinical Drug	Drug	RxNorm	Valid	Standard
+1507838	313578	vasopressin (USP) 20 UNT/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+1507839	316883	vasopressin (USP) 20 UNT/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+19039813	208841	vasopressin (USP) 20 UNT/ML Injectable Solution [Pitressin]	Branded Drug	Drug	RxNorm	Valid	Standard
+19084849	330297	vasopressin (USP) 5 UNT/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+19118739	569490	vasopressin (USP) 20 UNT/ML [Pitressin]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+35201749	2103181	vasopressin (USP) Injection	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+35201750	2103183	vasopressin (USP) Injection [Vasostrict]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+35201751	2103185	vasopressin (USP) 20 UNT/ML Injection	Clinical Drug	Drug	RxNorm	Valid	Standard
+35201752	2103186	vasopressin (USP) 20 UNT/ML Injection [Vasostrict]	Branded Drug	Drug	RxNorm	Valid	Standard
+35202042	2103182	1 ML vasopressin (USP) 20 UNT/ML Injection	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+35202043	2103184	1 ML vasopressin (USP) 20 UNT/ML Injection [Vasostrict]	Quant Branded Drug	Drug	RxNorm	Valid	Standard
+36223616	1160506	vasopressin (USP) Injectable Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+37003084	2399906	vasopressin (USP) 0.4 UNT/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+37003085	2399908	vasopressin (USP) 0.4 UNT/ML [Vasostrict]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+37003086	2399910	vasopressin (USP) 0.4 UNT/ML Injection	Clinical Drug	Drug	RxNorm	Valid	Standard
+37003087	2399911	vasopressin (USP) 0.4 UNT/ML Injection [Vasostrict]	Branded Drug	Drug	RxNorm	Valid	Standard
+37003088	2399912	vasopressin (USP) 0.6 UNT/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+37003089	2399914	vasopressin (USP) 0.6 UNT/ML [Vasostrict]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+37003090	2399916	vasopressin (USP) 0.6 UNT/ML Injection	Clinical Drug	Drug	RxNorm	Valid	Standard
+37003091	2399917	vasopressin (USP) 0.6 UNT/ML Injection [Vasostrict]	Branded Drug	Drug	RxNorm	Valid	Standard
+37003623	2399907	100 ML vasopressin (USP) 0.4 UNT/ML Injection	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+37003624	2399909	100 ML vasopressin (USP) 0.4 UNT/ML Injection [Vasostrict]	Quant Branded Drug	Drug	RxNorm	Valid	Standard
+37003625	2399913	100 ML vasopressin (USP) 0.6 UNT/ML Injection	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+37003626	2399915	100 ML vasopressin (USP) 0.6 UNT/ML Injection [Vasostrict]	Quant Branded Drug	Drug	RxNorm	Valid	Standard
+40087301	374283	vasopressin (USP) Injectable Solution	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40087302	363284	vasopressin (USP) Injectable Solution [Pitressin]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40087303	374284	vasopressin (USP) Injectable Suspension	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+42800055	1292460	Vasopressin (USP) 0.6 UNT/ML	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+42800056	1292461	Vasopressin (USP) 0.6 UNT/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+42801218	1299644	Vasopressin (USP) 0.1 UNT/ML	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+42801219	1299645	Vasopressin (USP) 0.1 UNT/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+42801220	1299642	Vasopressin (USP) 0.2 UNT/ML	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+42801221	1299643	Vasopressin (USP) 0.2 UNT/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+42801222	1299638	Vasopressin (USP) 0.4 UNT/ML	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+42801223	1299639	Vasopressin (USP) 0.4 UNT/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+42801224	1299640	Vasopressin (USP) 1 UNT/ML	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+42801225	1299641	Vasopressin (USP) 1 UNT/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+45775839	1593735	vasopressin (USP) 20 UNT/ML [Vasostrict]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+45775840	1593736	vasopressin (USP) Injectable Solution [Vasostrict]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+45775841	1593738	vasopressin (USP) 20 UNT/ML Injectable Solution [Vasostrict]	Branded Drug	Drug	RxNorm	Valid	Standard

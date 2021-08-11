@@ -1,0 +1,24 @@
+Id	Code	Name	Standard Class	Domain	Vocab	Validity	Concept
+1777087	5521	hydroxychloroquine	Ingredient	Drug	RxNorm	Valid	Standard
+1777088	197796	Hydroxychloroquine 200 MG Oral Tablet	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+1777091	329852	Hydroxychloroquine 200 MG	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19018120	153972	hydroxychloroquine sulfate	Precise Ingredient	Drug	RxNorm	Valid	Non-standard
+19026258	202317	Hydroxychloroquine 200 MG Oral Tablet [Plaquenil]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+19033030	206630	Hydroxychloroquine 200 MG Oral Tablet [Quineprox]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+19042426	566152	Hydroxychloroquine 200 MG [Plaquenil]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19079340	567454	Hydroxychloroquine 200 MG [Quineprox]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19107946	433859	Hydroxychloroquine 400 MG Oral Tablet	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19110235	440422	Hydroxychloroquine 400 MG	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+36220826	1164627	hydroxychloroquine Oral Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36220827	1164628	hydroxychloroquine Pill	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+40051595	370656	hydroxychloroquine Oral Tablet	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40051596	93787	hydroxychloroquine Oral Tablet [Plaquenil]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40051597	368893	hydroxychloroquine Oral Tablet [Quineprox]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40184083	979091	hydroxychloroquine sulfate 200 MG	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+40184084	979092	hydroxychloroquine sulfate 200 MG Oral Tablet	Clinical Drug	Drug	RxNorm	Valid	Standard
+40184085	979094	hydroxychloroquine sulfate 200 MG Oral Tablet [Plaquenil]	Branded Drug	Drug	RxNorm	Valid	Standard
+40184086	979097	hydroxychloroquine sulfate 200 MG Oral Tablet [Quineprox]	Branded Drug	Drug	RxNorm	Valid	Standard
+40184087	979093	hydroxychloroquine sulfate 200 MG [Plaquenil]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+40184088	979096	hydroxychloroquine sulfate 200 MG [Quineprox]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+40242199	1119311	hydroxychloroquine sulfate 400 MG	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+40242200	1119312	hydroxychloroquine sulfate 400 MG Oral Tablet	Clinical Drug	Drug	RxNorm	Valid	Standard

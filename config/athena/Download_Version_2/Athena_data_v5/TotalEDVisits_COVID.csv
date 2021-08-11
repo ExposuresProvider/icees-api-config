@@ -1,0 +1,4 @@
+"Id	Code	Name	Standard Class	Domain	Vocab	Validity	Concept"
+"4163685	4525004	Emergency department patient visit	Procedure	Observation	SNOMED	Valid	Standard"
+"21494349	80110-0	Emergency department Visit notification note	Clinical Observation	Measurement	LOINC	Valid	Standard"
+"262	ERIP	Emergency Room and Inpatient Visit	Visit	Visit	Visit	Valid	Standard"

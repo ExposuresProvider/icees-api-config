@@ -1,0 +1,7 @@
+﻿Id	Code	Name	Standard Class	Domain	Vocab	Validity	Concept
+4043092	166698001	Serum bicarbonate level normal	Clinical Finding	Condition	SNOMED	Valid	Standard
+4055575	166699009	Serum bicarbonate level abnormal	Clinical Finding	Condition	SNOMED	Valid	Standard
+4150494	271239003	Serum bicarbonate measurement	Procedure	Measurement	SNOMED	Valid	Standard
+37398477	1000681000000103	Serum bicarbonate level	Observable Entity	Measurement	SNOMED	Valid	Standard
+40307200	143997008	Serum bicarbonate (& level)	Procedure	Measurement	SNOMED	Invalid	Non-standard
+40328433	166697006	Serum bicarbonate (& level)	Procedure	Measurement	SNOMED	Invalid	Non-standard

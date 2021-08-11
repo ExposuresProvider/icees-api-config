@@ -1,0 +1,21 @@
+﻿Id	Code	Name	Standard Class	Domain	Vocab	Validity	Concept
+45553748	R79.82	Elevated C-reactive protein (CRP)	5-char billing code	Condition	ICD10CM	Valid	Non-standard
+44837446	790.95	Elevated C-reactive protein (CRP)	5-dig billing code	Condition	ICD9CM	Valid	Non-standard
+439937	166584001	C-reactive protein abnormal	Clinical Finding	Condition	SNOMED	Valid	Standard
+4041180	166583007	C-reactive protein normal	Clinical Finding	Condition	SNOMED	Valid	Standard
+37108742	119971000119104	Elevated C-reactive protein	Clinical Finding	Condition	SNOMED	Valid	Standard
+2212761	86140	C-reactive protein	CPT4	Measurement	CPT4	Valid	Standard
+2212762	86141	C-reactive protein; high sensitivity (hsCRP)	CPT4	Measurement	CPT4	Valid	Standard
+45888376	1014273	C-reactive protein	CPT4 Hierarchy	Measurement	CPT4	Valid	Classification
+3529700	493291000000103	Disease activity score in rheumatoid arthritis using C-reactive protein	Staging / Scales	Measurement	SNOMED	Invalid	Non-standard
+4152991	270980008	Plasma C-reactive protein measurement	Procedure	Measurement	SNOMED	Valid	Standard
+4208414	55235003	C-reactive protein measurement	Procedure	Measurement	SNOMED	Valid	Standard
+40481959	443539004	Disease activity score in rheumatoid arthritis using C-reactive protein	Staging / Scales	Measurement	SNOMED	Valid	Standard
+46272908	711357009	Measurement of C-reactive protein using high sensitivity technique	Procedure	Measurement	SNOMED	Valid	Standard
+3519327	507091000000106	Disease activity score in rheumatoid arthritis using C-reactive protein	Observable Entity	Observation	SNOMED	Invalid	Non-standard
+4052151	124923004	C-reactive protein reaction	Observable Entity	Observation	SNOMED	Valid	Standard
+40482696	442277000	Rheumatoid arthritis disease activity score using C-reactive protein	Observable Entity	Observation	SNOMED	Valid	Standard
+40484633	444060007	Disease activity score in rheumatoid arthritis using C-reactive protein	Observable Entity	Observation	SNOMED	Valid	Standard
+44812629	376521000000108	Disease activity score using C-reactive protein	Observable Entity	Observation	SNOMED	Valid	Standard
+45773538	703689005	High sensitivity method for C-reactive protein	Qualifier Value	Observation	SNOMED	Valid	Standard
+44802284	493251000000106	Assessment of rheumatoid arthritis using disease activity score using C-reactive protein	Procedure	Procedure	SNOMED	Valid	Standard

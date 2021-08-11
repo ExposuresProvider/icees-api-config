@@ -1,0 +1,85 @@
+﻿Id	Code	Name	Standard Class	Domain	Vocab	Validity	Concept
+4050907	124338008	Deficiency of creatine kinase	Clinical Finding	Condition	SNOMED	Valid	Standard
+4161804	398137007	Finding of creatine kinase level	Clinical Finding	Condition	SNOMED	Valid	Standard
+4217891	397938004	Finding of plasma creatine kinase level	Clinical Finding	Condition	SNOMED	Valid	Standard
+4220017	398000003	Finding of serum creatine kinase level	Clinical Finding	Condition	SNOMED	Valid	Standard
+4335393	432352001	Increased creatine kinase level	Clinical Finding	Condition	SNOMED	Valid	Standard
+40315389	143987004	Serum creatine kinase level	Procedure	Condition	SNOMED	Invalid	Non-standard
+40494653	29525002	Creatine kinase measurement	Procedure	Condition	SNOMED	Invalid	Non-standard
+40516044	313851000	Serum creatine kinase measurement	Procedure	Condition	SNOMED	Invalid	Non-standard
+"2212290	82550	Creatine kinase (CK), (CPK); total	CPT4	Measurement	CPT4	Valid	Standard"
+"2212291	82552	Creatine kinase (CK), (CPK); isoenzymes	CPT4	Measurement	CPT4	Valid	Standard"
+"2212292	82553	Creatine kinase (CK), (CPK); MB fraction only	CPT4	Measurement	CPT4	Valid	Standard"
+"2212293	82554	Creatine kinase (CK), (CPK); isoforms	CPT4	Measurement	CPT4	Valid	Standard"
+"45887633	1011368	Creatine kinase (CK), (CPK)	CPT4 Hierarchy	Measurement	CPT4	Valid	Classification"
+3007220	2157-6	Creatine kinase [Enzymatic activity/volume] in Serum or Plasma	Lab Test	Measurement	LOINC	Valid	Standard
+3008318	2156-8	Creatine kinase [Enzymatic activity/volume] in Amniotic fluid	Lab Test	Measurement	LOINC	Valid	Standard
+3014152	2151-9	Creatine kinase [Enzymatic activity/volume] in Cerebral spinal fluid	Lab Test	Measurement	LOINC	Valid	Standard
+3015620	24335-2	Creatine kinase panel - Serum or Plasma	Lab Test	Measurement	LOINC	Valid	Standard
+3017761	5912-1	Creatine kinase isoenzymes [Interpretation] in Serum or Plasma	Lab Test	Measurement	LOINC	Valid	Standard
+3023980	16688-4	Creatine kinase [Enzymatic activity/volume] in Body fluid	Lab Test	Measurement	LOINC	Valid	Standard
+3030170	50756-6	Creatine kinase [Mass/volume] in Blood	Lab Test	Measurement	LOINC	Invalid	Non-standard
+3036604	14680-3	Creatine kinase isoenzymes [Interpretation] in Serum or Plasma by Electrophoresis	Lab Test	Measurement	LOINC	Valid	Standard
+3040014	53433-9	Creatine kinase [Enzymatic activity/volume] in Dialysis fluid	Lab Test	Measurement	LOINC	Valid	Standard
+3044863	33547-1	Creatine Kinase aberrant band/Creatine kinase.total in Serum or Plasma by Electrophoresis	Lab Test	Measurement	LOINC	Valid	Standard
+3044881	34160-2	Creatine kinase [Presence] in Body fluid	Lab Test	Measurement	LOINC	Valid	Standard
+3048252	49129-0	Creatine kinase.MiMi/Creatine kinase.total in Serum or Plasma	Lab Test	Measurement	LOINC	Valid	Standard
+3048917	49258-7	Creatine kinase isoenzymes [Interpretation] in Serum or Plasma by Electrophoresis Narrative	Lab Test	Measurement	LOINC	Valid	Standard
+3049867	49259-5	Creatine kinase isoenzymes [Interpretation] in Serum or Plasma Narrative	Lab Test	Measurement	LOINC	Valid	Standard
+21496728	LP186277-2	Creatine Kinase aberrant band | Bld-Ser-Plas	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+37025234	LP382925-8	Creatine kinase | Cerebral spinal fluid | Chemistry - non-challenge	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37033324	LP382926-6	Creatine kinase | Dialysis fluid | Chemistry - non-challenge	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37044173	LP382924-1	Creatine kinase | Body fluid | Chemistry - non-challenge	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37045914	LP382923-3	Creatine kinase | Blood | Chemistry - non-challenge	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37052220	LP382927-4	Creatine kinase | Serum or Plasma | Chemistry - non-challenge	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37059872	LP382928-2	Creatine kinase isoenzymes | Serum or Plasma | Chemistry - non-challenge	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37067328	LP382922-5	Creatine kinase | Amniotic fluid | Chemistry - non-challenge	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37072966	LP386869-4	Creatine kinase panel | Serum or Plasma | Chemistry Panels	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+40652863	LG2921-7	Creatine kinase isoenzymes|Imp|Pt|ANYBldSerPl	LOINC Group	Measurement	LOINC	Valid	Classification
+40783791	LP46913-7	Creatine Kinase | Cerebral spinal fluid	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40787147	LP46932-7	Creatine Kinase | Amniotic Fluid	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40787148	LP46938-4	Creatine Kinase | Bld-Ser-Plas	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40794949	LP70458-2	Creatine kinase | Dialysis fluid	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40796611	LP43591-4	Creatine Kinase isoenzymes | Bld-Ser-Plas	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40796748	LP44874-3	Creatine Kinase | Body Fluid	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40797935	LP64256-8	Creatine Kinase abberant band | Bld-Ser-Plas	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+43055395	72561-4	Creatine Kinase aberrant band/Creatine kinase.total [Pure catalytic fraction] in Serum or Plasma by Electrophoresis	Lab Test	Measurement	LOINC	Valid	Standard
+3553763	211761000000104	Macromolecular creatine kinase level	Procedure	Measurement	SNOMED	Invalid	Non-standard
+3553764	211771000000106	Macromolecular creatine kinase level	Procedure	Measurement	SNOMED	Invalid	Non-standard
+3558938	794501000000103	Creatine kinase MB activity	Procedure	Measurement	SNOMED	Invalid	Non-standard
+3560537	912101000000108	Serum macromolecular creatine kinase level	Procedure	Measurement	SNOMED	Invalid	Non-standard
+4017058	104613001	Creatine kinase MB measurement	Procedure	Measurement	SNOMED	Valid	Standard
+4041895	166672007	Serum creatine kinase MB isoenzyme measurement	Procedure	Measurement	SNOMED	Valid	Standard
+4042917	16614002	Creatine kinase isoenzymes measurement	Procedure	Measurement	SNOMED	Valid	Standard
+4161692	398062009	Plasma creatine kinase measurement	Procedure	Measurement	SNOMED	Valid	Standard
+4161826	398245009	Serum creatine kinase measurement	Procedure	Measurement	SNOMED	Valid	Standard
+4209240	313540005	MB/total creatine kinase ratio measurement	Procedure	Measurement	SNOMED	Invalid	Non-standard
+4265595	397798009	Creatine kinase measurement	Procedure	Measurement	SNOMED	Valid	Standard
+4354262	250736004	Creatine kinase MB isoenzyme/total creatine kinase ratio measurement	Procedure	Measurement	SNOMED	Valid	Standard
+37208554	1106571000000107	Creatine kinase enzyme activity in plasma	Observable Entity	Measurement	SNOMED	Valid	Standard
+37208555	1106581000000109	Creatine kinase enzyme activity in serum	Observable Entity	Measurement	SNOMED	Valid	Standard
+37392191	1000911000000102	Plasma creatine kinase level	Observable Entity	Measurement	SNOMED	Valid	Standard
+37392193	1000931000000105	Serum creatine kinase level	Observable Entity	Measurement	SNOMED	Valid	Standard
+37392440	1004121000000100	Creatine kinase MB activity	Observable Entity	Measurement	SNOMED	Valid	Standard
+37392604	1006181000000109	Serum macromolecular creatine kinase level	Observable Entity	Measurement	SNOMED	Valid	Standard
+37392625	1006481000000102	Creatine kinase MB isoenzyme level	Observable Entity	Measurement	SNOMED	Valid	Standard
+37394192	1028101000000105	Creatine kinase level	Observable Entity	Measurement	SNOMED	Valid	Standard
+37394363	1030901000000109	Macromolecular creatine kinase level	Observable Entity	Measurement	SNOMED	Valid	Standard
+37398581	1012901000000102	MB/total creatine kinase ratio	Observable Entity	Measurement	SNOMED	Valid	Standard
+44783815	698000005	Creatine kinase BB isoenzyme measurement	Procedure	Measurement	SNOMED	Valid	Standard
+44783816	698001009	Creatine kinase MM isoenzyme measurement	Procedure	Measurement	SNOMED	Valid	Standard
+44790596	205261000000107	Macromolecular creatine kinase level	Procedure	Measurement	SNOMED	Valid	Standard
+44806955	794491000000109	Creatine kinase MB activity	Procedure	Measurement	SNOMED	Valid	Standard
+44808595	830481000000109	Measurement of creatine kinase activity	Procedure	Measurement	SNOMED	Valid	Standard
+44812275	912091000000100	Serum macromolecular CK (creatine kinase) measurement	Procedure	Measurement	SNOMED	Valid	Standard
+37028402	LP30878-0	Creatine Kinase aberrant band	LOINC Component	Observation	LOINC	Valid	Non-standard
+37061066	LP14139-7	Creatine kinase panel	LOINC Component	Observation	LOINC	Valid	Non-standard
+40782593	LP15510-8	Creatine kinase	LOINC Component	Observation	LOINC	Valid	Non-standard
+40786268	LP32868-9	Creatine kinase isoenzymes	LOINC Component	Observation	LOINC	Valid	Non-standard
+40308849	144375005	MB/total creatine kinase ratio	Procedure	Procedure	SNOMED	Invalid	Non-standard
+40315387	143985007	Plasma creatine kinase level	Procedure	Procedure	SNOMED	Invalid	Non-standard
+40328412	166678006	Plasma creatine kinase level	Procedure	Procedure	SNOMED	Invalid	Non-standard
+40328414	166680000	Serum creatine kinase level	Procedure	Procedure	SNOMED	Invalid	Non-standard
+40330699	167136005	MB/total creatine kinase ratio	Procedure	Procedure	SNOMED	Invalid	Non-standard
+40354567	269998002	Creatine (phospho)kinase (& level)	Procedure	Procedure	SNOMED	Invalid	Non-standard
+40516050	313857001	Plasma creatine kinase measurement	Procedure	Procedure	SNOMED	Invalid	Non-standard

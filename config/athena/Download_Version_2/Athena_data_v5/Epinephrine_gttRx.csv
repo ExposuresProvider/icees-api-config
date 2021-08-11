@@ -1,0 +1,877 @@
+Id	Code	Name	Standard Class	Domain	Vocab	Validity	Concept
+733197	746835	Bupivacaine 7.5 MG/ML / Epinephrine 0.005 MG/ML Injectable Solution [Sensorcaine with Epinephrine]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+793005	1989112	0.3 ML epinephrine 1 MG/ML Prefilled Syringe	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+793007	1989114	epinephrine 1 MG/ML [Symjepi]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+793008	1989115	epinephrine Prefilled Syringe [Symjepi]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+793010	1989117	0.3 ML epinephrine 1 MG/ML Prefilled Syringe [Symjepi]	Quant Branded Drug	Drug	RxNorm	Valid	Standard
+793011	1989118	epinephrine 1 MG/ML Prefilled Syringe	Clinical Drug	Drug	RxNorm	Valid	Standard
+793012	1989119	epinephrine 1 MG/ML Prefilled Syringe [Symjepi]	Branded Drug	Drug	RxNorm	Valid	Standard
+793160	1991328	NDA201739 0.1 ML epinephrine 1 MG/ML Auto-Injector	Clinical Drug	Drug	RxNorm	Valid	Standard
+793161	1991329	NDA201739 0.1 ML epinephrine 1 MG/ML Auto-Injector [Auvi-Q]	Branded Drug	Drug	RxNorm	Valid	Standard
+793387	1993224	1.8 ML epinephrine 0.005 MG/ML / prilocaine hydrochloride 40 MG/ML Cartridge [Citanest Forte]	Quant Branded Drug	Drug	RxNorm	Valid	Standard
+914435	249832	Atropine 2 MG/ML / Epinephrine 20 MG/ML Inhalant Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+914438	252363	Atropine 5 MG/ML / Epinephrine 10 MG/ML Inhalant Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+951304	312626	Epinephrine 0.005 MG/ML / Prilocaine 40 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+990227	311333	Epinephrine 0.005 MG/ML / Lidocaine 20 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+990231	317118	Epinephrine 0.005 MG/ML / Lidocaine 5 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+990291	348391	Epinephrine 0.01 MG/ML / Lidocaine 20 MG/ML Topical Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+990325	413235	epinephrine 0.125 MG/ML / lidocaine 20 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+990354	542576	Epinephrine 0.01 MG/ML / Lidocaine 20 MG/ML Injectable Solution [Octocaine with Epinephrine]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+990355	542592	Epinephrine 0.02 MG/ML / Lidocaine 20 MG/ML Injectable Solution [Octocaine with Epinephrine]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+990385	544476	Epinephrine 0.02 MG/ML / Lidocaine 20 MG/ML Injectable Solution [Lignospan]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+990504	746949	Epinephrine 0.02 MG/ML / Lidocaine 20 MG/ML Injectable Solution [Xylocaine with Epinephrine]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+990505	746951	Epinephrine 0.01 MG/ML / Lidocaine 20 MG/ML Injectable Solution [Xylocaine with Epinephrine]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+990506	746953	Epinephrine 0.01 MG/ML / Lidocaine 10 MG/ML Injectable Solution [Xylocaine with Epinephrine]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+990507	746955	Epinephrine 0.005 MG/ML / Lidocaine 5 MG/ML Injectable Solution [Xylocaine with Epinephrine]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+990508	746957	Epinephrine 0.005 MG/ML / Lidocaine 15 MG/ML Injectable Solution [Xylocaine with Epinephrine]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+990509	746959	Epinephrine 0.005 MG/ML / Lidocaine 20 MG/ML Injectable Solution [Xylocaine with Epinephrine]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+990510	746961	Epinephrine 0.005 MG/ML / Lidocaine 10 MG/ML Injectable Solution [Xylocaine with Epinephrine]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+1343916	3992	epinephrine	Ingredient	Drug	RxNorm	Valid	Standard
+1343918	141848	epinephrine 10 MG/ML Ophthalmic Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+1343985	212343	epinephrine 0.3 MG/ACTUAT Metered Dose Inhaler [Asthmahaler]	Branded Drug	Drug	RxNorm	Valid	Standard
+1343986	212344	Epinephrine 0.3 MG/ACTUAT Inhalant Solution [Bronchial Mist with Pump]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+1343987	212345	epinephrine 0.3 MG/ACTUAT Metered Dose Inhaler [Bronitin]	Branded Drug	Drug	RxNorm	Valid	Standard
+1343988	212538	epinephrine 0.25 MG/ACTUAT Metered Dose Inhaler [Bronkaid Mist]	Branded Drug	Drug	RxNorm	Valid	Standard
+1343989	237187	epinephrine 10 MG/ML Inhalation Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+1343990	243316	Epinephrine 0.15 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+1343991	243317	Epinephrine 11.2 MG/ML Inhalant Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+1344012	243318	Epinephrine 0.27 MG/ACTUAT Inhalant Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+1344013	244284	epinephrine 1 MG/ML Ophthalmic Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+1344014	245317	epinephrine 0.5 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+1344015	247596	Epinephrine 0.22 MG/ACTUAT Inhalant Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+1344016	247869	Epinephrine 35 MG/ML Inhalant Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+1344049	313963	epinephrine 20 MG/ML Ophthalmic Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+1344050	313967	epinephrine 1 MG/ML Nasal Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+1344052	317361	epinephrine 0.1 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+1344053	317362	epinephrine 5 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+1344054	328314	epinephrine 10 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+1344055	328315	epinephrine 20 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+1344056	328316	epinephrine 1 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+1344057	329236	epinephrine 0.3 MG/ACTUAT	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+1344058	329723	Epinephrine 0.2 MG/ACTUAT	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+1344059	329725	epinephrine 2.5 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+1344094	331888	epinephrine 0.22 MG/ACTUAT	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+1344095	334663	epinephrine 0.16 MG/ACTUAT	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+1344096	334664	Epinephrine 0.28 MG/ACTUAT	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+1344097	334665	Epinephrine 0.15 MG/ML	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+1344098	334666	epinephrine 0.5 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+1344099	336486	epinephrine 24 MG	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+1344100	336959	Epinephrine 0.27 MG/ACTUAT	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+1344124	349953	Epinephrine 1.9 MG	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+1344125	349954	Epinephrine 1.15 MG	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+1344126	358564	Epinephrine 11.2 MG/ML	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+1344127	358588	Epinephrine 35 MG/ML	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+1344203	545743	Epinephrine 1.15 MG Pellet [Racellet No 2]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+1344204	545751	Epinephrine 1.9 MG Pellet [Epidri]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+1344206	584568	epinephrine 0.018 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+1344207	597832	Articaine 40 MG/ML / Epinephrine 0.01 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+1344208	597833	Articaine 40 MG/ML / Epinephrine 0.005 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+1344209	597836	Articaine 40 MG/ML / Epinephrine 0.01 MG/ML Injectable Solution [Septocaine]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+1344210	597837	articaine 40 MG/ML / epinephrine 0.018 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+1344211	597842	Articaine 40 MG/ML / Epinephrine 0.018 MG/ML Injectable Solution [Zorcaine]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+1344242	727316	NDA019430 0.3 ML epinephrine 0.5 MG/ML Auto-Injector	Clinical Drug	Drug	RxNorm	Valid	Standard
+1344243	727345	0.3 ML Epinephrine 1 MG/ML Auto-Injector	Quant Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+1344244	727347	NDA019430 0.3 ML epinephrine 1 MG/ML Auto-Injector [Epipen]	Branded Drug	Drug	RxNorm	Valid	Standard
+1344245	727373	10 ML epinephrine 0.1 MG/ML Prefilled Syringe	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+1344246	727374	1 ML Epinephrine 1 MG/ML Prefilled Syringe	Quant Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+1344247	727386	NDA019430 0.3 ML epinephrine 0.5 MG/ML Auto-Injector [Epipen]	Branded Drug	Drug	RxNorm	Valid	Standard
+1344249	727412	0.15 ML Epinephrine 1 MG/ML Prefilled Syringe [Twinject]	Quant Branded Drug	Drug	RxNorm	Invalid	Non-standard
+1344250	727413	0.3 ML Epinephrine 1 MG/ML Prefilled Syringe [Twinject]	Quant Branded Drug	Drug	RxNorm	Invalid	Non-standard
+1344304	759761	300 ACTUAT epinephrine 0.16 MG/ACTUAT Metered Dose Inhaler [Medihaler-Epi]	Quant Branded Drug	Drug	RxNorm	Valid	Standard
+1356173	2108366	epinephrine Inhalation Powder	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+1356176	2108374	epinephrine Metered Dose Inhaler [Bronitin]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+1356177	2108376	epinephrine Metered Dose Inhaler [Asthmahaler]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+1356180	2108382	epinephrine Inhalation Solution	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+1356181	2108384	epinephrine 0.25 MG/ACTUAT	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+1356182	2108386	epinephrine 0.25 MG/ACTUAT [Bronkaid Mist]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+1356183	2108387	epinephrine Metered Dose Inhaler [Bronkaid Mist]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+1356377	2109082	epinephrine 0.125 MG/ACTUAT	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+1356379	2109085	epinephrine 0.125 MG/ACTUAT [Primatene Reformulated Jan 2019]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+1356380	2109086	epinephrine Metered Dose Inhaler [Primatene Reformulated Jan 2019]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+1356382	2109089	epinephrine 0.125 MG/ACTUAT Metered Dose Inhaler	Clinical Drug	Drug	RxNorm	Valid	Standard
+1356383	2109090	epinephrine 0.125 MG/ACTUAT Metered Dose Inhaler [Primatene Reformulated Jan 2019]	Branded Drug	Drug	RxNorm	Valid	Standard
+1356454	2109083	160 ACTUAT epinephrine 0.125 MG/ACTUAT Metered Dose Inhaler	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+1356455	2109088	160 ACTUAT epinephrine 0.125 MG/ACTUAT Metered Dose Inhaler [Primatene Reformulated Jan 2019]	Quant Branded Drug	Drug	RxNorm	Valid	Standard
+1361226	2178791	epinephrine 0.5 MG/ML [Symjepi]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+1361227	2178793	epinephrine 0.5 MG/ML Prefilled Syringe	Clinical Drug	Drug	RxNorm	Valid	Standard
+1361228	2178794	epinephrine 0.5 MG/ML Prefilled Syringe [Symjepi]	Branded Drug	Drug	RxNorm	Valid	Standard
+1361673	2178790	0.3 ML epinephrine 0.5 MG/ML Prefilled Syringe	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+1361674	2178792	0.3 ML epinephrine 0.5 MG/ML Prefilled Syringe [Symjepi]	Quant Branded Drug	Drug	RxNorm	Valid	Standard
+1593717	1928852	epinephrine bitartrate 0.009 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+1593718	1928853	1.7 ML articaine hydrochloride 40 MG/ML / epinephrine bitartrate 0.009 MG/ML Cartridge	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+1593720	1928855	articaine hydrochloride 40 MG/ML / epinephrine bitartrate 0.009 MG/ML [Ultacan]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+1593721	1928856	articaine / epinephrine Cartridge [Ultacan]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+1593723	1928858	1.7 ML articaine hydrochloride 40 MG/ML / epinephrine bitartrate 0.009 MG/ML Cartridge [Ultacan]	Quant Branded Drug	Drug	RxNorm	Valid	Standard
+1593724	1928859	articaine hydrochloride 40 MG/ML / epinephrine bitartrate 0.009 MG/ML Cartridge	Clinical Drug	Drug	RxNorm	Valid	Standard
+1593725	1928860	articaine hydrochloride 40 MG/ML / epinephrine bitartrate 0.009 MG/ML Cartridge [Ultacan]	Branded Drug	Drug	RxNorm	Valid	Standard
+1593726	1928861	epinephrine bitartrate 0.018 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+1593727	1928862	1.7 ML articaine hydrochloride 40 MG/ML / epinephrine bitartrate 0.018 MG/ML Cartridge	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+1593728	1928863	articaine hydrochloride 40 MG/ML / epinephrine bitartrate 0.018 MG/ML [Ultacan]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+1593729	1928864	1.7 ML articaine hydrochloride 40 MG/ML / epinephrine bitartrate 0.018 MG/ML Cartridge [Ultacan]	Quant Branded Drug	Drug	RxNorm	Valid	Standard
+1593730	1928865	articaine hydrochloride 40 MG/ML / epinephrine bitartrate 0.018 MG/ML Cartridge	Clinical Drug	Drug	RxNorm	Valid	Standard
+1593731	1928866	articaine hydrochloride 40 MG/ML / epinephrine bitartrate 0.018 MG/ML Cartridge [Ultacan]	Branded Drug	Drug	RxNorm	Valid	Standard
+1593742	1867594	10 ML bupivacaine hydrochloride 2.5 MG/ML / epinephrine 0.005 MG/ML Injection	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+1593743	1867595	bupivacaine hydrochloride 2.5 MG/ML / epinephrine 0.005 MG/ML Injection	Clinical Drug	Drug	RxNorm	Valid	Standard
+1593744	1867596	30 ML bupivacaine hydrochloride 2.5 MG/ML / epinephrine 0.005 MG/ML Injection	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+1593745	1867612	10 ML bupivacaine hydrochloride 2.5 MG/ML / epinephrine 0.005 MG/ML Injection [Marcaine with Epinephrine]	Quant Branded Drug	Drug	RxNorm	Valid	Standard
+1593746	1867613	bupivacaine hydrochloride 2.5 MG/ML / epinephrine 0.005 MG/ML Injection [Marcaine with Epinephrine]	Branded Drug	Drug	RxNorm	Valid	Standard
+1593747	1867614	30 ML bupivacaine hydrochloride 2.5 MG/ML / epinephrine 0.005 MG/ML Injection [Marcaine with Epinephrine]	Quant Branded Drug	Drug	RxNorm	Valid	Standard
+1593748	1867618	10 ML bupivacaine hydrochloride 2.5 MG/ML / epinephrine 0.005 MG/ML Injection [Sensorcaine with Epinephrine]	Quant Branded Drug	Drug	RxNorm	Valid	Standard
+1593749	1867619	bupivacaine hydrochloride 2.5 MG/ML / epinephrine 0.005 MG/ML Injection [Sensorcaine with Epinephrine]	Branded Drug	Drug	RxNorm	Valid	Standard
+1593750	1867620	30 ML bupivacaine hydrochloride 2.5 MG/ML / epinephrine 0.005 MG/ML Injection [Sensorcaine with Epinephrine]	Quant Branded Drug	Drug	RxNorm	Valid	Standard
+1593794	1867921	bupivacaine hydrochloride 7.5 MG/ML / epinephrine 0.005 MG/ML Injection	Clinical Drug	Drug	RxNorm	Valid	Standard
+1593795	1867922	bupivacaine hydrochloride 7.5 MG/ML / epinephrine 0.005 MG/ML Injection [Sensorcaine with Epinephrine]	Branded Drug	Drug	RxNorm	Valid	Standard
+1593799	1867937	epinephrine / lidocaine Injection	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+1593800	1867938	10 ML epinephrine 0.005 MG/ML / lidocaine hydrochloride 10 MG/ML Injection	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+1593801	1867939	epinephrine / lidocaine Injection [Xylocaine with Epinephrine]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+1593802	1867940	10 ML epinephrine 0.005 MG/ML / lidocaine hydrochloride 10 MG/ML Injection [Xylocaine with Epinephrine]	Quant Branded Drug	Drug	RxNorm	Valid	Standard
+1593803	1867941	epinephrine 0.005 MG/ML / lidocaine hydrochloride 10 MG/ML Injection	Clinical Drug	Drug	RxNorm	Valid	Standard
+1593804	1867942	epinephrine 0.005 MG/ML / lidocaine hydrochloride 10 MG/ML Injection [Xylocaine with Epinephrine]	Branded Drug	Drug	RxNorm	Valid	Standard
+1593805	1867943	30 ML epinephrine 0.005 MG/ML / lidocaine hydrochloride 10 MG/ML Injection	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+1593913	1867944	30 ML epinephrine 0.005 MG/ML / lidocaine hydrochloride 10 MG/ML Injection [Xylocaine with Epinephrine]	Quant Branded Drug	Drug	RxNorm	Valid	Standard
+1593914	1867992	10 ML epinephrine 0.005 MG/ML / lidocaine hydrochloride 15 MG/ML Injection	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+1593915	1867993	10 ML epinephrine 0.005 MG/ML / lidocaine hydrochloride 15 MG/ML Injection [Xylocaine with Epinephrine]	Quant Branded Drug	Drug	RxNorm	Valid	Standard
+1593916	1867994	epinephrine 0.005 MG/ML / lidocaine hydrochloride 15 MG/ML Injection	Clinical Drug	Drug	RxNorm	Valid	Standard
+1593917	1867995	epinephrine 0.005 MG/ML / lidocaine hydrochloride 15 MG/ML Injection [Xylocaine with Epinephrine]	Branded Drug	Drug	RxNorm	Valid	Standard
+1593918	1867996	30 ML epinephrine 0.005 MG/ML / lidocaine hydrochloride 15 MG/ML Injection	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+1593919	1867997	30 ML epinephrine 0.005 MG/ML / lidocaine hydrochloride 15 MG/ML Injection [Xylocaine with Epinephrine]	Quant Branded Drug	Drug	RxNorm	Valid	Standard
+1593920	1867998	5 ML epinephrine 0.005 MG/ML / lidocaine hydrochloride 15 MG/ML Injection	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+1593921	1867999	5 ML epinephrine 0.005 MG/ML / lidocaine hydrochloride 15 MG/ML Injection [Xylocaine with Epinephrine]	Quant Branded Drug	Drug	RxNorm	Valid	Standard
+1593923	1868011	epinephrine 0.005 MG/ML / lidocaine hydrochloride 20 MG/ML Injection	Clinical Drug	Drug	RxNorm	Valid	Standard
+1593924	1868012	epinephrine 0.005 MG/ML / lidocaine hydrochloride 20 MG/ML Injection [Xylocaine with Epinephrine]	Branded Drug	Drug	RxNorm	Valid	Standard
+1593933	1868028	10 ML epinephrine 0.005 MG/ML / lidocaine hydrochloride 20 MG/ML Injection	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+1593934	1868029	10 ML epinephrine 0.005 MG/ML / lidocaine hydrochloride 20 MG/ML Injection [Xylocaine with Epinephrine]	Quant Branded Drug	Drug	RxNorm	Valid	Standard
+1594367	1870205	NDA201739 0.3 ML epinephrine 1 MG/ML Auto-Injector	Clinical Drug	Drug	RxNorm	Valid	Standard
+1594368	1870207	NDA019430 0.3 ML epinephrine 1 MG/ML Auto-Injector	Clinical Drug	Drug	RxNorm	Valid	Standard
+1594379	1870225	NDA020800 0.15 ML epinephrine 1 MG/ML Auto-Injector	Clinical Drug	Drug	RxNorm	Valid	Standard
+1594382	1870230	NDA020800 0.3 ML epinephrine 1 MG/ML Auto-Injector	Clinical Drug	Drug	RxNorm	Valid	Standard
+1594383	1870232	NDA201739 0.15 ML epinephrine 1 MG/ML Auto-Injector	Clinical Drug	Drug	RxNorm	Valid	Standard
+19000101	665233	epinephrine 0.16 MG/ACTUAT [Medihaler-Epi]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19002105	103236	epinephrine 5 MG/ML / guanethidine 50 MG/ML Ophthalmic Solution [Ganda]	Branded Drug	Drug	RxNorm	Valid	Standard
+19002106	103237	epinephrine 10 MG/ML / guanethidine 50 MG/ML Ophthalmic Solution [Ganda]	Branded Drug	Drug	RxNorm	Valid	Standard
+19002107	103238	epinephrine 5 MG/ML / guanethidine 50 MG/ML Ophthalmic Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+19002108	103239	epinephrine 10 MG/ML / guanethidine 50 MG/ML Ophthalmic Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+19006632	597834	Articaine 40 MG/ML / Epinephrine 0.01 MG/ML [Septocaine]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19008283	106038	epinephrine 5 MG/ML Ophthalmic Solution [Simplene]	Branded Drug	Drug	RxNorm	Valid	Standard
+19009187	106690	epinephrine 5 MG/ML / guanethidine 30 MG/ML Ophthalmic Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+19009188	106691	epinephrine 2 MG/ML / guanethidine 10 MG/ML Ophthalmic Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+19009189	106692	epinephrine 5 MG/ML / guanethidine 10 MG/ML Ophthalmic Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+19009190	106693	epinephrine 1 MG/ML / guanethidine 5 MG/ML Ophthalmic Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+19009221	106694	epinephrine 0.5 MG/ML / guanethidine 2.5 MG/ML Ophthalmic Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+19009229	106778	epinephrine 0.1 MG/ML Ophthalmic Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+19009230	106779	epinephrine 0.5 MG/ML Ophthalmic Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+19009261	106780	epinephrine 5 MG/ML Ophthalmic Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+19009830	107623	cocaine 50 MG/ML / epinephrine 0.2 MG/ML Ophthalmic Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+19009856	107647	Epinephrine 0.0125 MG/ML / Lidocaine 20 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19012225	150637	Epinephrine 0.1 MG/ML Injectable Solution [Min-I-Jet Adrenaline IC]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+19012263	150650	Epinephrine 1 MG/ML Injectable Solution [Min-I-Jet Adrenaline]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+19015501	727346	epinephrine 1 MG/ML [Epipen]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19015502	727385	epinephrine 0.5 MG/ML [Epipen]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19016535	566739	epinephrine 5 MG/ML [Epinal]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19016536	566744	epinephrine 10 MG/ML [Epinal]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19016967	153217	epinephrine 0.1 MG / fluorouracil 30 MG Injectable Suspension	Clinical Drug	Drug	RxNorm	Valid	Standard
+19020394	198619	Epinephrine 0.25 MG/ACTUAT Inhalant Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19020395	198620	epinephrine 0.3 MG/ACTUAT Metered Dose Inhaler	Clinical Drug	Drug	RxNorm	Valid	Standard
+19020396	198621	Epinephrine 1 MG/ML Inhalant Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19020906	746946	Xylocaine with Epinephrine	Brand Name	Drug	RxNorm	Valid	Non-standard
+19020907	746947	Epinephrine 0.02 MG/ML / Lidocaine 20 MG/ML [Xylocaine with Epinephrine]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19020909	746952	Epinephrine 0.01 MG/ML / Lidocaine 10 MG/ML [Xylocaine with Epinephrine]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19020910	746954	Epinephrine 0.005 MG/ML / Lidocaine 5 MG/ML [Xylocaine with Epinephrine]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19020931	746956	Epinephrine 0.005 MG/ML / Lidocaine 15 MG/ML [Xylocaine with Epinephrine]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19020932	746958	Epinephrine 0.005 MG/ML / Lidocaine 20 MG/ML [Xylocaine with Epinephrine]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19022026	199567	epinephrine 0.005 MG/ML / prilocaine 10 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+19024784	201177	epinephrine 10 MG/ML Ophthalmic Solution [Simplene]	Branded Drug	Drug	RxNorm	Valid	Standard
+19026262	202341	epinephrine 5 MG/ML / guanethidine 30 MG/ML Ophthalmic Solution [Ganda]	Branded Drug	Drug	RxNorm	Valid	Standard
+19026263	202342	epinephrine 2 MG/ML / guanethidine 10 MG/ML Ophthalmic Solution [Ganda]	Branded Drug	Drug	RxNorm	Valid	Standard
+19026769	203180	epinephrine bitartrate	Precise Ingredient	Drug	RxNorm	Valid	Non-standard
+19027731	204562	Epinephrine 0.01 MG/ML / Lidocaine 10 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19027732	204563	Epinephrine 0.01 MG/ML / Lidocaine 20 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19027733	204564	Epinephrine 0.005 MG/ML / Lidocaine 15 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19027734	204565	Epinephrine 0.005 MG/ML / Lidocaine 10 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19027735	204566	Epinephrine 0.02 MG/ML / Lidocaine 20 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19028216	204801	epinephrine 10 MG/ML Topical Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+19028282	204843	Epinephrine 1 MG/ML Topical Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19029435	205518	Bupivacaine 2.5 MG/ML / Epinephrine 0.005 MG/ML Injectable Solution [Marcaine HCl with Epinephrine]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+19029436	205519	Bupivacaine 2.5 MG/ML / Epinephrine 0.005 MG/ML Injectable Solution [Sensorcaine with Epinephrine]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+19029439	205523	Bupivacaine 5 MG/ML / Epinephrine 0.005 MG/ML Injectable Solution [Marcaine HCl with Epinephrine]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+19029440	205524	Bupivacaine 5 MG/ML / Epinephrine 0.005 MG/ML Injectable Solution [Sensorcaine with Epinephrine]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+19029471	205526	Bupivacaine 7.5 MG/ML / Epinephrine 0.005 MG/ML Injectable Solution [Marcaine HCl with Epinephrine]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+19030501	205850	epinephrine 5 MG/ML Ophthalmic Solution [Epinal]	Branded Drug	Drug	RxNorm	Valid	Standard
+19030505	205855	epinephrine 10 MG/ML Ophthalmic Solution [Epinal]	Branded Drug	Drug	RxNorm	Valid	Standard
+19030506	205856	epinephrine 10 MG/ML Ophthalmic Solution [Eppy/N]	Branded Drug	Drug	RxNorm	Valid	Standard
+19030508	205858	epinephrine 20 MG/ML Ophthalmic Solution [Eppy/N]	Branded Drug	Drug	RxNorm	Valid	Standard
+19030532	205862	epinephrine 5 MG/ML Ophthalmic Solution [Epifrin]	Branded Drug	Drug	RxNorm	Valid	Standard
+19030534	205864	epinephrine 10 MG/ML Ophthalmic Solution [Epifrin]	Branded Drug	Drug	RxNorm	Valid	Standard
+19030535	205865	epinephrine 10 MG/ML Ophthalmic Solution [Glaucon]	Branded Drug	Drug	RxNorm	Valid	Standard
+19030537	205867	epinephrine 20 MG/ML Ophthalmic Solution [Epifrin]	Branded Drug	Drug	RxNorm	Valid	Standard
+19030538	205868	epinephrine 20 MG/ML Ophthalmic Solution [Glaucon]	Branded Drug	Drug	RxNorm	Valid	Standard
+19030571	205871	epinephrine 1 MG/ML Injectable Solution [Ana-Guard]	Branded Drug	Drug	RxNorm	Valid	Standard
+19030578	205878	epinephrine 5 MG/ML Injectable Suspension [Sus-Phrine Injection]	Branded Drug	Drug	RxNorm	Valid	Standard
+19030606	205890	epinephrine 10 MG/ML / pilocarpine hydrochloride 10 MG/ML Ophthalmic Solution [E-Pilo-1]	Branded Drug	Drug	RxNorm	Valid	Standard
+19030607	205891	epinephrine 10 MG/ML / pilocarpine hydrochloride 10 MG/ML Ophthalmic Solution [P1E1]	Branded Drug	Drug	RxNorm	Valid	Standard
+19030610	205894	epinephrine 10 MG/ML / pilocarpine hydrochloride 20 MG/ML Ophthalmic Solution [E-Pilo-2]	Branded Drug	Drug	RxNorm	Valid	Standard
+19030631	205895	epinephrine 10 MG/ML / pilocarpine hydrochloride 20 MG/ML Ophthalmic Solution [P2E1]	Branded Drug	Drug	RxNorm	Valid	Standard
+19030632	205897	epinephrine 10 MG/ML / pilocarpine hydrochloride 30 MG/ML Ophthalmic Solution [P3E1]	Branded Drug	Drug	RxNorm	Valid	Standard
+19030633	205898	epinephrine 10 MG/ML / pilocarpine hydrochloride 40 MG/ML Ophthalmic Solution [E-Pilo-4]	Branded Drug	Drug	RxNorm	Valid	Standard
+19030634	205899	epinephrine 10 MG/ML / pilocarpine hydrochloride 40 MG/ML Ophthalmic Solution [P4E1]	Branded Drug	Drug	RxNorm	Valid	Standard
+19030635	205900	epinephrine 10 MG/ML / pilocarpine hydrochloride 60 MG/ML Ophthalmic Solution [E-Pilo-6]	Branded Drug	Drug	RxNorm	Valid	Standard
+19030636	205901	epinephrine 10 MG/ML / pilocarpine hydrochloride 60 MG/ML Ophthalmic Solution [P6E1]	Branded Drug	Drug	RxNorm	Valid	Standard
+19035621	207466	Epinephrine 0.005 MG/ML / Prilocaine 40 MG/ML Injectable Solution [Citanest Forte]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+19041179	209345	Epinephrine 0.005 MG/ML / Etidocaine 10 MG/ML Injectable Solution [Duranest-MPF-Epinephrine]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+19041180	209346	Epinephrine 0.005 MG/ML / Etidocaine 15 MG/ML Injectable Solution [Duranest-MPF-Epinephrine]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+19043144	566751	epinephrine 5 MG/ML [Epifrin]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19043145	566752	epinephrine 10 MG/ML [Epifrin]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19043146	566755	epinephrine 20 MG/ML [Epifrin]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19047009	212347	Epinephrine 0.3 MG/ACTUAT Inhalant Solution [Primatene Mist Inhaler]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+19051775	219873	Sensorcaine-MPF with Epinephrine	Brand Name	Drug	RxNorm	Invalid	Non-standard
+19052302	220969	Xylocaine HCl with Epinephrine	Brand Name	Drug	RxNorm	Invalid	Non-standard
+19052304	220973	Xylocaine with Epinephrine Dental Cartridges	Brand Name	Drug	RxNorm	Invalid	Non-standard
+19057151	572541	Epinephrine 0.3 MG/ACTUAT [Bronchial Mist with Pump]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19057181	572542	epinephrine 0.3 MG/ACTUAT [Bronitin]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19058670	568228	Epinephrine 0.005 MG/ML / Prilocaine 40 MG/ML [Citanest Forte]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19058683	242768	Epinephrine 0.02 MG/ML / Lidocaine 15 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19061683	572716	Epinephrine 5 MG/ML [Bronkaid Mist]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19061975	250031	Epinephrine 0.28 MG/ACTUAT Inhalant Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19062429	566753	epinephrine 10 MG/ML [Glaucon]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19062430	566756	epinephrine 20 MG/ML [Glaucon]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19063444	569956	Epinephrine 0.005 MG/ML / Etidocaine 10 MG/ML [Duranest-MPF-Epinephrine]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19063445	569957	Epinephrine 0.005 MG/ML / Etidocaine 15 MG/ML [Duranest-MPF-Epinephrine]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19063634	566767	epinephrine 5 MG/ML [Sus-Phrine Injection]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19063797	566778	Epinephrine 10 MG/ML / Pilocarpine 10 MG/ML [E-Pilo-1]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19063799	566782	Epinephrine 10 MG/ML / Pilocarpine 20 MG/ML [E-Pilo-2]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19063831	566787	Epinephrine 10 MG/ML / Pilocarpine 40 MG/ML [E-Pilo-4]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19063833	566789	Epinephrine 10 MG/ML / Pilocarpine 60 MG/ML [E-Pilo-6]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19064453	566745	epinephrine 10 MG/ML [Eppy/N]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19064454	566747	epinephrine 20 MG/ML [Eppy/N]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19071462	542571	Octocaine with Epinephrine	Brand Name	Drug	RxNorm	Valid	Non-standard
+19071463	542575	Epinephrine 0.01 MG/ML / Lidocaine 20 MG/ML [Octocaine with Epinephrine]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19071464	542591	Epinephrine 0.02 MG/ML / Lidocaine 20 MG/ML [Octocaine with Epinephrine]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19072366	543967	Cambridge epinephrine lidocaine combination	Brand Name	Drug	RxNorm	Invalid	Non-standard
+19072367	543968	Epinephrine 0.01 MG/ML / Lidocaine 20 MG/ML [Cambridge epinephrine lidocaine combination]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19072404	218215	Marcaine HCl with Epinephrine	Brand Name	Drug	RxNorm	Invalid	Non-standard
+19072406	566425	Bupivacaine 5 MG/ML / Epinephrine 0.005 MG/ML [Marcaine HCl with Epinephrine]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19072407	566428	Bupivacaine 7.5 MG/ML / Epinephrine 0.005 MG/ML [Marcaine HCl with Epinephrine]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19072451	544072	A.T.O. epinephrine lidocaine combination	Brand Name	Drug	RxNorm	Invalid	Non-standard
+19072454	544076	Lignospan with epinephrine	Brand Name	Drug	RxNorm	Invalid	Non-standard
+19072698	544474	Epinephrine 0.02 MG/ML / Lidocaine 20 MG/ML [Lignospan]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19073347	545741	Epinephrine 1.15 MG [Racellet No 2]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19073349	545749	Epinephrine 1.9 MG [Epidri]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19074365	308818	Bupivacaine 5 MG/ML / Epinephrine 0.005 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19074367	308820	Bupivacaine 7.5 MG/ML / Epinephrine 0.005 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19074391	308826	butabarbital 25 MG / epinephrine 24 MG / theophylline 130 MG Oral Tablet	Clinical Drug	Drug	RxNorm	Valid	Standard
+19076270	566779	Epinephrine 10 MG/ML / Pilocarpine 10 MG/ML [P1E1]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19076302	566783	Epinephrine 10 MG/ML / Pilocarpine 20 MG/ML [P2E1]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19076304	566786	Epinephrine 10 MG/ML / Pilocarpine 30 MG/ML [P3E1]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19076306	566788	Epinephrine 10 MG/ML / Pilocarpine 40 MG/ML [P4E1]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19076866	310115	Epinephrine 0.16 MG/ACTUAT Inhalant Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19076867	310116	epinephrine 0.1 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+19076868	310117	Epinephrine 0.2 MG/ACTUAT Inhalant Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19076869	310118	epinephrine 5 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+19076870	310119	epinephrine 7 MG/ML Oral Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+19076891	310120	epinephrine 80 MG/ML / zinc chloride 20 MG/ML Oral Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+19076892	310121	Epinephrine 10 MG/ML / Pilocarpine 10 MG/ML Ophthalmic Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19076893	310122	Epinephrine 10 MG/ML / Pilocarpine 30 MG/ML Ophthalmic Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19076894	310123	Epinephrine 10 MG/ML / Pilocarpine 40 MG/ML Ophthalmic Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19076895	310124	Epinephrine 10 MG/ML / Pilocarpine 60 MG/ML Ophthalmic Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19076896	310125	epinephrine 2 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+19076897	310127	epinephrine 2.5 MG/ML Ophthalmic Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+19076898	310129	epinephrine 0.25 MG/ACTUAT Metered Dose Inhaler	Clinical Drug	Drug	RxNorm	Valid	Standard
+19076899	310132	epinephrine 1 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+19077189	310242	Epinephrine 0.005 MG/ML / Etidocaine 10 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19077190	310243	Epinephrine 0.005 MG/ML / Etidocaine 15 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19080735	315087	Epinephrine 7 MG/ML Inhalant Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19080736	315088	Epinephrine 10 MG/ML / Pilocarpine 20 MG/ML Ophthalmic Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19080834	219871	Sensorcaine with Epinephrine	Brand Name	Drug	RxNorm	Valid	Non-standard
+19080835	566421	Bupivacaine 2.5 MG/ML / Epinephrine 0.005 MG/ML [Sensorcaine with Epinephrine]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19080836	566426	Bupivacaine 5 MG/ML / Epinephrine 0.005 MG/ML [Sensorcaine with Epinephrine]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19080837	746834	Bupivacaine 7.5 MG/ML / Epinephrine 0.005 MG/ML [Sensorcaine with Epinephrine]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19082317	317067	Bupivacaine 2.5 MG/ML / Epinephrine 0.005 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19084033	329724	epinephrine 2 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+19085197	330427	epinephrine 0.005 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+19085545	330545	epinephrine 0.01 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+19085547	330547	epinephrine 0.02 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+19087838	331887	Epinephrine 0.25 MG/ACTUAT	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19094537	340605	epinephrine 7 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+19095752	345113	epinephrine 0.2 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+19096216	347063	Epinephrine 1.9 MG Pellet	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19096217	347064	Epinephrine 1.15 MG Pellet	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19096513	348732	Benzethonium 0.2 MG/ML / Epinephrine 10 MG/ML Inhalant Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19096538	348852	Epinephrine 0.6 MG Pellet	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19097576	350479	Epinephrine 0.6 MG	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19100377	362	epinephrine hydrochloride	Precise Ingredient	Drug	RxNorm	Valid	Non-standard
+19101271	385575	epinephrine 0.0125 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+19101537	386990	Epinephrine 0.002 MG/ML / Lidocaine 20 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19101617	388043	epinephrine 0.01 MG/ML / mepivacaine hydrochloride 20 MG/ML Injectable Solution [Scandonest 2% Special]	Branded Drug	Drug	RxNorm	Valid	Standard
+19101632	388058	Epinephrine 0.01 MG/ML / Mepivacaine 20 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19101883	392951	epinephrine 0.1 MG	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+19101998	393286	epinephrine 0.002 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+19103183	406709	epinephrine 80 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+19103200	407869	epinephrine 0.3 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+19103201	407870	epinephrine 0.3 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+19104243	413278	epinephrine 0.005 MG/ML / mepivacaine 10 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+19104244	413279	epinephrine 0.015 MG/ML / mepivacaine 20 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+19104297	413567	epinephrine 0.015 MG/ML / lidocaine 20 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+19104399	414075	Epinephrine 0.005 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19104479	415238	epinephrine 0.005 MG/ML / mepivacaine 20 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+19104907	417082	Atropine 0.01 MG/MG / Epinephrine 0.001 MG/MG / Tyramine 0.02 MG/MG Topical Ointment	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19108070	434239	Epinephrine 2.1 MG Pellet	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19108377	435374	epinephrine 0.01 MG/ML / lidocaine 15 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+19109724	439308	Epinephrine 2.1 MG	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19110495	440878	epinephrine 0.125 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+19110496	440879	epinephrine 0.015 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+19112348	452470	epinephrine 0.001 MG/MG	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+19114017	542570	epinephrine 0.1 MG/ML / lidocaine 20 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+19114018	542572	epinephrine 0.1 MG/ML / lidocaine 20 MG/ML [Octocaine with Epinephrine]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19114019	542574	epinephrine 0.1 MG/ML / lidocaine 20 MG/ML Injectable Solution [Octocaine with Epinephrine]	Branded Drug	Drug	RxNorm	Valid	Standard
+19114350	543970	Epinephrine 0.01 MG/ML / Lidocaine 20 MG/ML Injectable Solution [Cambridge epinephrine lidocaine combination]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+19114376	544044	Epinephrine 0.01 MG/ML / Lidocaine 20 MG/ML [Iontocaine]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19114377	544046	Epinephrine 0.01 MG/ML / Lidocaine 20 MG/ML Topical Solution [Iontocaine]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+19114385	544073	Epinephrine 0.01 MG/ML / Lidocaine 20 MG/ML [A.T.O. epinephrine lidocaine combination]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19114386	544075	Epinephrine 0.01 MG/ML / Lidocaine 20 MG/ML Injectable Solution [A.T.O. epinephrine lidocaine combination]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+19114387	544077	Epinephrine 0.01 MG/ML / Lidocaine 20 MG/ML [Lignospan with epinephrine]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19114388	544079	Epinephrine 0.01 MG/ML / Lidocaine 20 MG/ML Injectable Solution [Lignospan with epinephrine]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+19114389	544080	Epinephrine 0.02 MG/ML / Lidocaine 20 MG/ML [A.T.O. epinephrine lidocaine combination]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19114390	544081	Epinephrine 0.02 MG/ML / Lidocaine 20 MG/ML Injectable Solution [A.T.O. epinephrine lidocaine combination]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+19114790	545733	Epinephrine 0.6 MG [Sulpak]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19114791	545735	Epinephrine 0.6 MG Pellet [Sulpak]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+19115150	562260	epinephrine 5 MG/ML Injectable Suspension	Clinical Drug	Drug	RxNorm	Valid	Standard
+19115561	563274	epinephrine 5 MG/ML / guanethidine 50 MG/ML [Ganda]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19115562	563275	epinephrine 10 MG/ML / guanethidine 50 MG/ML [Ganda]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19116367	564293	epinephrine 5 MG/ML [Simplene]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19116715	564754	Epinephrine 0.1 MG/ML [Min-I-Jet Adrenaline IC]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19116723	564763	Epinephrine 1 MG/ML [Min-I-Jet Adrenaline]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19117475	565728	epinephrine 10 MG/ML [Simplene]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19117764	566156	epinephrine 5 MG/ML / guanethidine 30 MG/ML [Ganda]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19117765	566157	epinephrine 2 MG/ML / guanethidine 10 MG/ML [Ganda]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19117876	566420	Bupivacaine 2.5 MG/ML / Epinephrine 0.005 MG/ML [Marcaine HCl with Epinephrine]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19117951	566760	epinephrine 1 MG/ML [Ana-Guard]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19117954	566790	Epinephrine 10 MG/ML / Pilocarpine 60 MG/ML [P6E1]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19120089	572540	epinephrine 0.3 MG/ACTUAT [Asthmahaler]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19120090	572544	Epinephrine 0.3 MG/ACTUAT [Primatene Mist Inhaler]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19121052	576088	Epinephrine 0.01 MG/ML / Mepivacaine 20 MG/ML [Scandonest 2% Special]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19122196	597838	articaine 40 MG/ML / epinephrine 0.018 MG/ML [Septocaine]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19122197	597839	articaine 40 MG/ML / epinephrine 0.018 MG/ML Injectable Solution [Septocaine]	Branded Drug	Drug	RxNorm	Valid	Standard
+19122198	597840	Articaine 40 MG/ML / Epinephrine 0.018 MG/ML [Zorcaine]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19123041	605688	epinephrine 22.5 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+19123042	605689	epinephrine 22.5 MG/ML Topical Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+19123433	616390	epinephrine 1 MG/ML [Twinject]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19123434	616392	epinephrine 1 MG/ML Injectable Solution [Twinject]	Branded Drug	Drug	RxNorm	Valid	Standard
+19123940	629897	epinephrine 0.2 MG/ML / lidocaine 20 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+19126008	701962	epinephrine 0.22 MG/ACTUAT [Primatene Mist Inhaler]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19126009	701963	Epinephrine 0.22 MG/ACTUAT Inhalant Solution [Primatene Mist Inhaler]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+19127134	727375	5 ML Epinephrine 1 MG/ML Prefilled Syringe	Quant Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19127146	727410	0.15 ML Epinephrine 1 MG/ML Auto-Injector	Quant Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19127687	746207	270 ACTUAT Epinephrine 0.22 MG/ACTUAT Metered Dose Inhaler	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19127688	746209	270 ACTUAT Epinephrine 0.22 MG/ACTUAT Metered Dose Inhaler [Primatene Mist Inhaler]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+19127778	746950	Epinephrine 0.01 MG/ML / Lidocaine 20 MG/ML [Xylocaine with Epinephrine]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19127779	746960	Epinephrine 0.005 MG/ML / Lidocaine 10 MG/ML [Xylocaine with Epinephrine]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19129299	759760	300 ACTUAT epinephrine 0.16 MG/ACTUAT Metered Dose Inhaler	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+19129703	790424	{1 (1 ML Epinephrine 1 MG/ML Prefilled Syringe) / 4 (Chlorpheniramine 2 MG Chewable Tablet) } Pack	Clinical Pack	Drug	RxNorm	Invalid	Non-standard
+19129704	790425	{1 (1 ML Epinephrine 1 MG/ML Prefilled Syringe) / 4 (Chlorpheniramine 2 MG Chewable Tablet [Chlo-Amine]) } Pack [Ana Kit]	Branded Pack	Drug	RxNorm	Invalid	Non-standard
+35602778	1670364	bupivacaine / epinephrine Cartridge	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+35602779	1670365	1.8 ML bupivacaine hydrochloride 5 MG/ML / epinephrine 0.005 MG/ML Cartridge	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+35602780	1670366	bupivacaine hydrochloride 5 MG/ML / epinephrine 0.005 MG/ML Cartridge	Clinical Drug	Drug	RxNorm	Valid	Standard
+35602796	1672916	bupivacaine / epinephrine Injection	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+35602797	1672917	10 ML bupivacaine hydrochloride 5 MG/ML / epinephrine 0.005 MG/ML Injection	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+35602798	1672918	bupivacaine hydrochloride 5 MG/ML / epinephrine 0.005 MG/ML Injection	Clinical Drug	Drug	RxNorm	Valid	Standard
+35602799	1672919	30 ML bupivacaine hydrochloride 5 MG/ML / epinephrine 0.005 MG/ML Injection	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+35602816	1673141	bupivacaine / epinephrine Cartridge [Marcaine with Epinephrine]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+35602817	1673142	1.8 ML bupivacaine hydrochloride 5 MG/ML / epinephrine 0.005 MG/ML Cartridge [Marcaine with Epinephrine]	Quant Branded Drug	Drug	RxNorm	Valid	Standard
+35602818	1673143	bupivacaine hydrochloride 5 MG/ML / epinephrine 0.005 MG/ML Cartridge [Marcaine with Epinephrine]	Branded Drug	Drug	RxNorm	Valid	Standard
+35602819	1673145	3 ML bupivacaine hydrochloride 5 MG/ML / epinephrine 0.005 MG/ML Injection	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+35602820	1673146	bupivacaine / epinephrine Injection [Marcaine with Epinephrine]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+35602821	1673147	3 ML bupivacaine hydrochloride 5 MG/ML / epinephrine 0.005 MG/ML Injection [Marcaine with Epinephrine]	Quant Branded Drug	Drug	RxNorm	Valid	Standard
+35602822	1673148	bupivacaine hydrochloride 5 MG/ML / epinephrine 0.005 MG/ML Injection [Marcaine with Epinephrine]	Branded Drug	Drug	RxNorm	Valid	Standard
+35602823	1673242	10 ML bupivacaine hydrochloride 5 MG/ML / epinephrine 0.005 MG/ML Injection [Marcaine with Epinephrine]	Quant Branded Drug	Drug	RxNorm	Valid	Standard
+35602824	1673243	30 ML bupivacaine hydrochloride 5 MG/ML / epinephrine 0.005 MG/ML Injection [Marcaine with Epinephrine]	Quant Branded Drug	Drug	RxNorm	Valid	Standard
+35602839	1673295	bupivacaine / epinephrine Injection [Sensorcaine with Epinephrine]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+35602840	1673296	10 ML bupivacaine hydrochloride 5 MG/ML / epinephrine 0.005 MG/ML Injection [Sensorcaine with Epinephrine]	Quant Branded Drug	Drug	RxNorm	Valid	Standard
+35602841	1673297	bupivacaine hydrochloride 5 MG/ML / epinephrine 0.005 MG/ML Injection [Sensorcaine with Epinephrine]	Branded Drug	Drug	RxNorm	Valid	Standard
+35602842	1673298	30 ML bupivacaine hydrochloride 5 MG/ML / epinephrine 0.005 MG/ML Injection [Sensorcaine with Epinephrine]	Quant Branded Drug	Drug	RxNorm	Valid	Standard
+35603240	1719661	bupivacaine / epinephrine Cartridge [Vivacaine]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+35603241	1719663	bupivacaine hydrochloride 5 MG/ML / epinephrine 0.005 MG/ML Cartridge [Vivacaine]	Branded Drug	Drug	RxNorm	Valid	Standard
+35605351	1721533	Epinephrine 1 MG/ML [Episnap]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+35605352	1721534	Epinephrine Injection [Episnap]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+35605353	1721536	1 ML Epinephrine 1 MG/ML Injection [Episnap]	Quant Branded Drug	Drug	RxNorm	Invalid	Non-standard
+35605354	1721537	Epinephrine 1 MG/ML Injection [Episnap]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+35606251	1733887	epinephrine hydrochloride 0.0001 MG/MG	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+35606252	1733889	epinephrine / lidocaine Rectal Gel	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+35606253	1733890	epinephrine hydrochloride 0.0001 MG/MG / lidocaine hydrochloride 0.05 MG/MG Rectal Gel	Clinical Drug	Drug	RxNorm	Valid	Standard
+35606254	1733891	epinephrine / lidocaine Topical Spray	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+35606255	1733892	epinephrine 0.1 MG/ML / lidocaine hydrochloride 50 MG/ML Topical Spray	Clinical Drug	Drug	RxNorm	Valid	Standard
+35606501	1734707	epinephrine / prilocaine Cartridge	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+35606502	1734710	epinephrine / prilocaine Cartridge [Citanest Forte]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+36026767	2534330	epinephrine / lidocaine / tetracaine Topical Gel	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+36026768	2534332	epinephrine / lidocaine / tetracaine Topical Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36026769	2534333	epinephrine 0.001 MG/MG / lidocaine hydrochloride 0.05 MG/MG / tetracaine hydrochloride 0.01 MG/MG Topical Gel	Clinical Drug	Drug	RxNorm	Valid	Standard
+36027111	1006973	Atropine / Epinephrine / Tyramine	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36027450	1007325	Epinephrine / secbutabarbital / Theophylline	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36028253	1008154	Benzethonium / Epinephrine	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36029291	107602	Epinephrine / Lidocaine	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36029293	107606	Bupivacaine / Epinephrine	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36029295	107609	Cocaine / Epinephrine	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36029429	1233582	Bupivacaine / Epinephrine / Fentanyl	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36029585	1375969	Epinephrine / Lidocaine / Tetracaine	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36029980	214545	Epinephrine / Etidocaine	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36029981	214547	Epinephrine / Prilocaine	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36030108	284622	Articaine / Epinephrine	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36030142	389103	Epinephrine / Mepivacaine	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36030146	392449	Epinephrine / Fluorouracil	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36030366	687323	Epinephrine / Guanethidine	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36030648	690825	butabarbital / Epinephrine / Theophylline	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36030702	691245	Epinephrine / Pilocarpine	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36030703	691247	Epinephrine / zinc chloride	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36030985	818018	Atropine / Epinephrine	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36213693	1154208	cocaine / epinephrine Ophthalmic Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36214448	1154337	articaine / epinephrine Injectable Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36215776	1154671	atropine / epinephrine / tyramine Topical Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36215777	1154672	Atropine / Epinephrine Inhalant Product	Clinical Dose Group	Drug	RxNorm	Invalid	Non-standard
+36216384	1151675	Benzethonium / Epinephrine Inhalant Product	Clinical Dose Group	Drug	RxNorm	Invalid	Non-standard
+36217850	1151351	bupivacaine / epinephrine Injectable Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36221980	1163734	butabarbital / epinephrine / theophylline Oral Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36221981	1163735	butabarbital / epinephrine / theophylline Pill	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36222602	1163876	epinephrine / etidocaine Injectable Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36222603	1163877	epinephrine / fluorouracil Injectable Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36222604	1163878	epinephrine / guanethidine Ophthalmic Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36222605	1163879	epinephrine / lidocaine Injectable Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36222606	1163880	epinephrine / lidocaine Topical Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36222607	1163881	epinephrine / mepivacaine Injectable Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36222608	1163882	epinephrine / pilocarpine Ophthalmic Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36222609	1163883	epinephrine / prilocaine Injectable Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36222610	1163884	epinephrine / zinc chloride Oral Liquid Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36222611	1163885	epinephrine / zinc chloride Oral Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36222612	1163886	epinephrine Inhalant Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36222613	1163887	epinephrine Injectable Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36222614	1163888	epinephrine Nasal Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36222615	1163889	epinephrine Ophthalmic Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36222616	1163890	epinephrine Oral Liquid Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36222617	1163891	epinephrine Oral Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36222618	1163892	epinephrine Topical Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36227999	1180419	Marcaine with Epinephrine Injectable Product	Branded Dose Group	Drug	RxNorm	Valid	Classification
+36228346	1180530	Octocaine with Epinephrine Injectable Product	Branded Dose Group	Drug	RxNorm	Valid	Classification
+36228908	1178965	Sensorcaine with Epinephrine Injectable Product	Branded Dose Group	Drug	RxNorm	Valid	Classification
+36238104	1233580	Bupivacaine / Epinephrine / Fentanyl Injectable Product	Clinical Dose Group	Drug	RxNorm	Invalid	Non-standard
+36241945	1186623	Xylocaine with Epinephrine Injectable Product	Branded Dose Group	Drug	RxNorm	Valid	Classification
+36246567	1375967	Epinephrine / Lidocaine / Tetracaine Topical Product	Clinical Dose Group	Drug	RxNorm	Invalid	Non-standard
+36247929	1430158	Duranest with epinephrine Injectable Product	Branded Dose Group	Drug	RxNorm	Valid	Classification
+36248245	1733888	epinephrine / lidocaine Rectal Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36249312	1799453	epinephrine 0.22 MG	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+37003149	2462016	epinephrine hydrochloride 0.1 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+37003150	2462017	epinephrine hydrochloride 0.1 MG/ML / lidocaine hydrochloride 50 MG/ML Topical Spray	Clinical Drug	Drug	RxNorm	Valid	Standard
+40010977	452472	atropine / epinephrine / tyramine Topical Ointment	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40010978	379463	Atropine / Epinephrine Inhalant Solution	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40011419	437661	Articaine hydrochloride / Epinephrine Injectable Solution	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40011420	363013	Articaine hydrochloride / Epinephrine Injectable Solution [Septocaine]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40011426	249443	Articaine hydrochloride 40 MG/ML / Epinephrine 0.005 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+40011427	412488	Articaine hydrochloride 40 MG/ML / Epinephrine 0.01 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+40011428	284414	Articaine hydrochloride 40 MG/ML / Epinephrine 0.01 MG/ML Injectable Solution [Septocaine]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+40013166	378320	Benzethonium / Epinephrine Inhalant Solution	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40014793	374372	bupivacaine / epinephrine Injectable Solution	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40014794	362604	Bupivacaine / Epinephrine Injectable Solution [Marcaine HCl with Epinephrine]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40014795	94059	Bupivacaine / Epinephrine Injectable Solution [Sensorcaine with Epinephrine]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40014796	362603	Bupivacaine / Epinephrine Injectable Solution [Sensorcaine-MPF with Epinephrine]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40014832	205520	Bupivacaine 2.5 MG/ML / Epinephrine 0.005 MG/ML Injectable Solution [Sensorcaine-MPF with Epinephrine]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+40014848	205525	Bupivacaine 5 MG/ML / Epinephrine 0.005 MG/ML Injectable Solution [Sensorcaine-MPF with Epinephrine]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+40015120	205527	Bupivacaine 7.5 MG/ML / Epinephrine 0.005 MG/ML Injectable Solution [Sensorcaine-MPF with Epinephrine]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+40028830	377429	cocaine / epinephrine Ophthalmic Solution	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40037845	374458	epinephrine / etidocaine Injectable Solution	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40037846	363223	Epinephrine / Etidocaine Injectable Solution [Duranest-MPF-Epinephrine]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40037847	392953	epinephrine / fluorouracil Injectable Suspension	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40037848	377390	epinephrine / guanethidine Ophthalmic Solution	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40037849	363899	epinephrine / guanethidine Ophthalmic Solution [Ganda]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40037850	363897	Epinephrine / Guanethidine Ophthalmic Solution [Ganda 3+0.5]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40037851	363896	Epinephrine / Guanethidine Ophthalmic Solution [Ganda 5+0.5]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40037852	363895	Epinephrine / Guanethidine Ophthalmic Solution [Ganda 5+1]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40037853	374456	epinephrine / lidocaine Injectable Solution	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40037854	363232	Epinephrine / Lidocaine Injectable Solution [Xylocaine HCl with Epinephrine]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40037855	363230	Epinephrine / Lidocaine Injectable Solution [Xylocaine with Epinephrine Dental Cartridges]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40037856	94620	Epinephrine / Lidocaine Injectable Solution [Xylocaine+Adrenaline]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40037857	363231	Epinephrine / Lidocaine Injectable Solution [Xylocaine-MPF-Epinephrine]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40037858	378613	epinephrine / lidocaine Topical Solution	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40037859	393325	epinephrine / mepivacaine Injectable Solution	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40037860	393322	epinephrine / mepivacaine Injectable Solution [Scandonest 2% Special]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40037861	373451	epinephrine / pilocarpine Ophthalmic Solution	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40037862	363684	epinephrine / pilocarpine Ophthalmic Solution [E-Pilo-1]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40037863	363881	epinephrine / pilocarpine Ophthalmic Solution [E-Pilo-2]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40037864	363878	epinephrine / pilocarpine Ophthalmic Solution [E-Pilo-4]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40037865	363876	epinephrine / pilocarpine Ophthalmic Solution [E-Pilo-6]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40037866	363683	epinephrine / pilocarpine Ophthalmic Solution [P1E1]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40037867	363880	epinephrine / pilocarpine Ophthalmic Solution [P2E1]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40037868	363879	epinephrine / pilocarpine Ophthalmic Solution [P3E1]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40037869	363877	epinephrine / pilocarpine Ophthalmic Solution [P4E1]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40037870	363875	epinephrine / pilocarpine Ophthalmic Solution [P6E1]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40037871	374408	epinephrine / prilocaine Injectable Solution	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40037872	363388	Epinephrine / Prilocaine Injectable Solution [Citanest Forte]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40037873	406711	epinephrine / zinc chloride Oral Solution	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40037883	209318	Epinephrine 0.005 MG/ML / Lidocaine 10 MG/ML Injectable Solution [Xylocaine-MPF-Epinephrine]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+40037885	209317	Epinephrine 0.005 MG/ML / Lidocaine 15 MG/ML Injectable Solution [Xylocaine-MPF-Epinephrine]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+40037887	209319	Epinephrine 0.005 MG/ML / Lidocaine 20 MG/ML Injectable Solution [Xylocaine-MPF-Epinephrine]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+40038169	209315	Epinephrine 0.005 MG/ML / Lidocaine 5 MG/ML Injectable Solution [Xylocaine HCl with Epinephrine]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+40038178	209312	Epinephrine 0.01 MG/ML / Lidocaine 10 MG/ML Injectable Solution [Xylocaine HCl with Epinephrine]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+40038181	209313	Epinephrine 0.01 MG/ML / Lidocaine 20 MG/ML Injectable Solution [Xylocaine HCl with Epinephrine]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+40038182	209314	Epinephrine 0.01 MG/ML / Lidocaine 20 MG/ML Injectable Solution [Xylocaine with Epinephrine Dental Cartridges]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+40038188	153497	Epinephrine 0.0125 MG/ML / Lidocaine 20 MG/ML Injectable Solution [Xylocaine+Adrenaline]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+40038195	209320	Epinephrine 0.02 MG/ML / Lidocaine 20 MG/ML Injectable Solution [Xylocaine with Epinephrine Dental Cartridges]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+40038213	333538	Epinephrine 0.25 MG	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+40038214	237186	Epinephrine 0.25 MG Inhalant Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+40038226	212346	Epinephrine 0.3 MG/ACTUAT Inhalant Solution [Medihaler-Epi]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+40038228	212348	Epinephrine 0.3 MG/ACTUAT Inhalant Solution [Primatene Mist Suspension]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+40038565	331889	Epinephrine 2250 MG	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+40038566	283194	Epinephrine 2250 MG Nasal Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+40038584	350417	Epinephrine 5.5 MG	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+40038585	348571	Epinephrine 5.5 MG Inhalant Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+40038592	377281	Epinephrine Inhalant Solution	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40038593	361895	Epinephrine Inhalant Solution [Asthmahaler]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40038594	361858	Epinephrine Inhalant Solution [Bronchial Mist with Pump]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40038595	361857	Epinephrine Inhalant Solution [Bronitin]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40038596	361862	Epinephrine Inhalant Solution [Bronkaid Mist]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40038597	361856	Epinephrine Inhalant Solution [Medihaler-Epi]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40038598	361855	Epinephrine Inhalant Solution [Primatene Mist Inhaler]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40038599	361854	Epinephrine Inhalant Solution [Primatene Mist Suspension]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40038600	372030	epinephrine Injectable Solution	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40038601	363050	epinephrine Injectable Solution [Ana-Guard]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40038602	385909	Epinephrine Injectable Solution [Min-I-Jet Adrenaline IC]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40038603	385915	Epinephrine Injectable Solution [Min-I-Jet Adrenaline]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40038604	372031	epinephrine Nasal Solution	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40038605	372029	epinephrine Ophthalmic Solution	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40038606	363686	epinephrine Ophthalmic Solution [Epifrin]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40038607	363688	epinephrine Ophthalmic Solution [Epinal]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40038877	363687	epinephrine Ophthalmic Solution [Eppy/N]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40038878	363685	epinephrine Ophthalmic Solution [Glaucon]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40038879	363659	epinephrine Ophthalmic Solution [Simplene]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40038880	376685	epinephrine Oral Solution	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40038881	378176	Epinephrine Pellet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40038882	374510	epinephrine Topical Solution	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40083361	365666	epinephrine Injectable Suspension [Sus-Phrine Injection]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40093275	376044	butabarbital / epinephrine / theophylline Oral Tablet	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40104978	574854	Articaine hydrochloride 40 MG/ML / Epinephrine 0.01 MG/ML [Septocaine]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+40107015	566422	Bupivacaine 2.5 MG/ML / Epinephrine 0.005 MG/ML [Sensorcaine-MPF with Epinephrine]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+40107052	566427	Bupivacaine 5 MG/ML / Epinephrine 0.005 MG/ML [Sensorcaine-MPF with Epinephrine]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+40107062	566429	Bupivacaine 7.5 MG/ML / Epinephrine 0.005 MG/ML [Sensorcaine-MPF with Epinephrine]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+40111819	544074	Epinephrine / Lidocaine Injectable Solution [A.T.O. epinephrine lidocaine combination]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40111820	543969	Epinephrine / Lidocaine Injectable Solution [Cambridge epinephrine lidocaine combination]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40111821	544078	Epinephrine / Lidocaine Injectable Solution [Lignospan with epinephrine]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40111822	544475	Epinephrine / Lidocaine Injectable Solution [Lignospan]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40111823	542573	epinephrine / lidocaine Injectable Solution [Octocaine with Epinephrine]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40111885	544045	epinephrine / lidocaine Topical Solution [Iontocaine]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40111888	569932	Epinephrine 0.005 MG/ML / Lidocaine 10 MG/ML [Xylocaine-MPF-Epinephrine]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+40111889	569931	Epinephrine 0.005 MG/ML / Lidocaine 15 MG/ML [Xylocaine-MPF-Epinephrine]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+40111890	569933	Epinephrine 0.005 MG/ML / Lidocaine 20 MG/ML [Xylocaine-MPF-Epinephrine]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+40111891	569929	Epinephrine 0.005 MG/ML / Lidocaine 5 MG/ML [Xylocaine HCl with Epinephrine]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+40111893	569926	Epinephrine 0.01 MG/ML / Lidocaine 10 MG/ML [Xylocaine HCl with Epinephrine]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+40111954	569927	Epinephrine 0.01 MG/ML / Lidocaine 20 MG/ML [Xylocaine HCl with Epinephrine]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+40111955	569928	Epinephrine 0.01 MG/ML / Lidocaine 20 MG/ML [Xylocaine with Epinephrine Dental Cartridges]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+40111957	565286	Epinephrine 0.0125 MG/ML / Lidocaine 20 MG/ML [Xylocaine+Adrenaline]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+40111964	569934	Epinephrine 0.02 MG/ML / Lidocaine 20 MG/ML [Xylocaine with Epinephrine Dental Cartridges]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+40111972	572543	Epinephrine 0.3 MG/ACTUAT [Medihaler-Epi]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+40111974	572545	Epinephrine 0.3 MG/ACTUAT [Primatene Mist Suspension]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+40112099	562259	epinephrine Injectable Suspension	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40112100	545750	Epinephrine Pellet [Epidri]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40112101	545742	Epinephrine Pellet [Racellet No 2]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40112102	545734	Epinephrine Pellet [Sulpak]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40125139	584572	Articaine hydrochloride / Epinephrine Injectable Solution [Zorcaine]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40125140	584569	Articaine hydrochloride 40 MG/ML / Epinephrine 0.018 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+40125141	584573	Articaine hydrochloride 40 MG/ML / Epinephrine 0.018 MG/ML Injectable Solution [Zorcaine]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+40125142	584571	Articaine hydrochloride 40 MG/ML / Epinephrine 0.018 MG/ML [Zorcaine]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+40125884	584525	Epinephrine / Lidocaine Injectable Solution [Octocaine]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40125885	584327	Epinephrine / Lidocaine Patch	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40125886	584331	Epinephrine / Lidocaine Patch [Lidosite]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40125902	584526	Epinephrine 0.01 MG/ML / Lidocaine 20 MG/ML Injectable Solution [Octocaine]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+40125903	584524	Epinephrine 0.01 MG/ML / Lidocaine 20 MG/ML [Octocaine]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+40125914	584325	Epinephrine 1.05 MG	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+40125915	584328	Epinephrine 1.05 MG / Lidocaine 100 MG Patch	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+40125916	584332	Epinephrine 1.05 MG / Lidocaine 100 MG Patch [Lidosite]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+40125917	584330	Epinephrine 1.05 MG / Lidocaine 100 MG [Lidosite]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+40127703	597831	articaine / epinephrine Injectable Solution	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40127704	597835	articaine / epinephrine Injectable Solution [Septocaine]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40127705	597841	Articaine / Epinephrine Injectable Solution [Zorcaine]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40130161	616391	epinephrine Injectable Solution [Twinject]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40136227	665234	Epinephrine 0.16 MG/ACTUAT Inhalant Solution [Medihaler-Epi]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+40136692	665232	epinephrine bitartrate	Ingredient	Drug	RxNorm	Invalid	Non-standard
+40141766	727310	epinephrine Prefilled Syringe	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40141767	727343	Epinephrine Prefilled Syringe [Epipen]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40141768	727411	Epinephrine Prefilled Syringe [Twinject]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40144072	746948	Epinephrine / Lidocaine Injectable Solution [Xylocaine with Epinephrine]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40144087	746206	epinephrine Metered Dose Inhaler	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40144088	746208	epinephrine Metered Dose Inhaler [Primatene Mist Inhaler]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40147896	759758	epinephrine Metered Dose Inhaler [Medihaler-Epi]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40162025	852112	Epinephrine 0.008 MG/ML	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+40162026	852113	Epinephrine 0.008 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+40162027	852122	Epinephrine 0.016 MG/ML	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+40162028	852123	Epinephrine 0.016 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+40164064	861350	Articaine / Epinephrine Injectable Solution [Articadent]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40164066	861347	Articaine hydrochloride 40 MG/ML / Epinephrine 0.005 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+40164067	861351	Articaine hydrochloride 40 MG/ML / Epinephrine 0.005 MG/ML Injectable Solution [Articadent]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+40164068	861349	Articaine hydrochloride 40 MG/ML / Epinephrine 0.005 MG/ML [Articadent]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+40164069	861386	Articaine hydrochloride 40 MG/ML / Epinephrine 0.01 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+40164070	861388	Articaine hydrochloride 40 MG/ML / Epinephrine 0.01 MG/ML Injectable Solution [Articadent]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+40164071	861588	1.7 ML articaine hydrochloride 40 MG/ML / epinephrine 0.01 MG/ML Cartridge [Septocaine]	Quant Branded Drug	Drug	RxNorm	Valid	Standard
+40164072	861592	1.7 ML articaine hydrochloride 40 MG/ML / epinephrine 0.01 MG/ML Cartridge [Zorcaine]	Quant Branded Drug	Drug	RxNorm	Valid	Standard
+40164073	861387	Articaine hydrochloride 40 MG/ML / Epinephrine 0.01 MG/ML [Articadent]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+40164078	861586	articaine hydrochloride 40 MG/ML / epinephrine 0.01 MG/ML [Septocaine]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+40164079	861591	articaine hydrochloride 40 MG/ML / epinephrine 0.01 MG/ML [Zorcaine]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+40165732	860045	Epinephrine 0.012 MG/ML	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+40165733	860046	Epinephrine 0.012 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+40167814	883806	270 ACTUAT epinephrine 0.22 MG/ACTUAT Metered Dose Inhaler	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+40167815	883807	270 ACTUAT epinephrine 0.22 MG/ACTUAT Metered Dose Inhaler [Primatene Mist Inhaler]	Quant Branded Drug	Drug	RxNorm	Valid	Standard
+40169298	891437	NDA020800 0.15 ML epinephrine 1 MG/ML Auto-Injector [Adrenaclick]	Branded Drug	Drug	RxNorm	Valid	Standard
+40169309	891438	NDA020800 0.3 ML epinephrine 1 MG/ML Auto-Injector [Adrenaclick]	Branded Drug	Drug	RxNorm	Valid	Standard
+40170971	891435	epinephrine 1 MG/ML [Adrenaclick]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+40170972	891436	Epinephrine Prefilled Syringe [Adrenaclick]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40223411	997824	Bupivacaine / Epinephrine Injectable Solution [Vivacaine]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40223412	997825	Bupivacaine 5 MG/ML / Epinephrine 0.005 MG/ML Injectable Solution [Vivacaine]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+40223413	997823	Bupivacaine 5 MG/ML / Epinephrine 0.005 MG/ML [Vivacaine]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+40224921	1001079	epinephrine 10 MG/ML / pilocarpine hydrochloride 10 MG/ML Ophthalmic Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+40224922	1001082	epinephrine 10 MG/ML / pilocarpine hydrochloride 20 MG/ML Ophthalmic Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+40224923	1001085	epinephrine 10 MG/ML / pilocarpine hydrochloride 30 MG/ML Ophthalmic Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+40224924	1001086	epinephrine 10 MG/ML / pilocarpine hydrochloride 40 MG/ML Ophthalmic Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+40224925	1001089	epinephrine 10 MG/ML / pilocarpine hydrochloride 60 MG/ML Ophthalmic Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+40225839	1011641	Articaine / Epinephrine Injectable Solution [Articadent]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40225840	1011645	Articaine / Epinephrine Injectable Solution [Articadent 4/1:200000]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40225841	1011646	1.7 ML articaine hydrochloride 40 MG/ML / epinephrine 0.005 MG/ML Cartridge [Articadent]	Quant Branded Drug	Drug	RxNorm	Valid	Standard
+40225842	1011644	articaine hydrochloride 40 MG/ML / epinephrine 0.005 MG/ML [Articadent]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+40225843	1011648	1.7 ML articaine hydrochloride 40 MG/ML / epinephrine 0.01 MG/ML Cartridge [Articadent]	Quant Branded Drug	Drug	RxNorm	Valid	Standard
+40225844	1011647	articaine hydrochloride 40 MG/ML / epinephrine 0.01 MG/ML [Articadent]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+40225904	1012380	Bupivacaine / Epinephrine Injectable Solution [Marcaine with Epinephrine 0.25/1:200000]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40225905	1012387	Bupivacaine / Epinephrine Injectable Solution [Marcaine with Epinephrine 0.5/1:200000]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40225906	1012394	bupivacaine / epinephrine Injectable Solution [Marcaine with Epinephrine]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40225907	1012412	Bupivacaine / Epinephrine Injectable Solution [Sensorcaine with Epinephrine 0.25/1:200000]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40225908	1012416	bupivacaine / epinephrine Injectable Solution [Sensorcaine with Epinephrine]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40225909	1012420	Bupivacaine / Epinephrine Injectable Solution [Sensorcaine with Epinephrine 0.75/1:200000]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40225943	1012377	bupivacaine hydrochloride 2.5 MG/ML / epinephrine 0.005 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+40225944	1012381	bupivacaine hydrochloride 2.5 MG/ML / epinephrine 0.005 MG/ML Injectable Solution [Marcaine with Epinephrine]	Branded Drug	Drug	RxNorm	Valid	Standard
+40225945	1012413	bupivacaine hydrochloride 2.5 MG/ML / epinephrine 0.005 MG/ML Injectable Solution [Sensorcaine with Epinephrine]	Branded Drug	Drug	RxNorm	Valid	Standard
+40225946	1012379	bupivacaine hydrochloride 2.5 MG/ML / epinephrine 0.005 MG/ML [Marcaine with Epinephrine]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+40225947	1012411	bupivacaine hydrochloride 2.5 MG/ML / epinephrine 0.005 MG/ML [Sensorcaine with Epinephrine]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+40225960	1012384	bupivacaine hydrochloride 5 MG/ML / epinephrine 0.005 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+40225961	1012388	bupivacaine hydrochloride 5 MG/ML / epinephrine 0.005 MG/ML Injectable Solution [Marcaine with Epinephrine]	Branded Drug	Drug	RxNorm	Valid	Standard
+40225962	1012417	bupivacaine hydrochloride 5 MG/ML / epinephrine 0.005 MG/ML Injectable Solution [Sensorcaine with Epinephrine]	Branded Drug	Drug	RxNorm	Valid	Standard
+40225963	1012461	1.8 ML bupivacaine hydrochloride 5 MG/ML / epinephrine 0.005 MG/ML Cartridge [Vivacaine]	Quant Branded Drug	Drug	RxNorm	Valid	Standard
+40225964	1012386	bupivacaine hydrochloride 5 MG/ML / epinephrine 0.005 MG/ML [Marcaine with Epinephrine]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+40225965	1012415	bupivacaine hydrochloride 5 MG/ML / epinephrine 0.005 MG/ML [Sensorcaine with Epinephrine]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+40225966	1012460	bupivacaine hydrochloride 5 MG/ML / epinephrine 0.005 MG/ML [Vivacaine]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+40225973	1012391	30 ML bupivacaine hydrochloride 7.5 MG/ML / epinephrine 0.005 MG/ML Injection	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+40225974	1012395	Bupivacaine Hydrochloride 7.5 MG/ML / Epinephrine 0.005 MG/ML Injectable Solution [Marcaine with Epinephrine]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+40225975	1012421	30 ML bupivacaine hydrochloride 7.5 MG/ML / epinephrine 0.005 MG/ML Injection [Sensorcaine with Epinephrine]	Quant Branded Drug	Drug	RxNorm	Valid	Standard
+40225976	1012393	Bupivacaine Hydrochloride 7.5 MG/ML / Epinephrine 0.005 MG/ML [Marcaine with Epinephrine]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+40225977	1012419	bupivacaine hydrochloride 7.5 MG/ML / epinephrine 0.005 MG/ML [Sensorcaine with Epinephrine]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+40226312	1012410	Sensorcaine with Epinephrine 0.25/1:200000	Brand Name	Drug	RxNorm	Invalid	Non-standard
+40226313	1012414	Sensorcaine with Epinephrine 0.5/1:200000	Brand Name	Drug	RxNorm	Invalid	Non-standard
+40226314	1012418	Sensorcaine with Epinephrine 0.75/1:200000	Brand Name	Drug	RxNorm	Invalid	Non-standard
+40226418	1010746	Xylocaine with Epinephrine 0.5/1:200000	Brand Name	Drug	RxNorm	Invalid	Non-standard
+40226419	1010684	Xylocaine with Epinephrine 1.5/1:200000	Brand Name	Drug	RxNorm	Invalid	Non-standard
+40226420	1010752	Xylocaine with Epinephrine 1/1:100000	Brand Name	Drug	RxNorm	Invalid	Non-standard
+40226421	1010678	Xylocaine with Epinephrine 1/1:200000	Brand Name	Drug	RxNorm	Invalid	Non-standard
+40226422	1010760	Xylocaine with Epinephrine 2/1:100000	Brand Name	Drug	RxNorm	Invalid	Non-standard
+40226423	1010689	Xylocaine with Epinephrine 2/1:200000	Brand Name	Drug	RxNorm	Invalid	Non-standard
+40226424	1010765	Xylocaine with Epinephrine 2/1:50000	Brand Name	Drug	RxNorm	Invalid	Non-standard
+40226795	1012277	epinephrine / etidocaine Injectable Solution [Duranest with epinephrine]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40226796	1012271	Epinephrine / Etidocaine Injectable Solution [Duranest 1/1:200000]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40226799	1011808	Epinephrine / Lidocaine Injectable Solution [Lignospan]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40226800	1011813	Epinephrine / Lidocaine Injectable Solution [Lignospan 2/1:50000]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40226801	1011819	Epinephrine / Lidocaine Injectable Solution [Octocaine with Epinephrine 2/1:100000]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40226802	1011824	Epinephrine / Lidocaine Injectable Solution [Octocaine with Epinephrine 2/1:50000]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40226803	1010748	Epinephrine / Lidocaine Injectable Solution [Xylocaine with Epinephrine 0.5/1:200000]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40226804	1010686	Epinephrine / Lidocaine Injectable Solution [Xylocaine with Epinephrine 1.5/1:200000]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40226805	1010754	Epinephrine / Lidocaine Injectable Solution [Xylocaine with Epinephrine 1/1:100000]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40226806	1010680	Epinephrine / Lidocaine Injectable Solution [Xylocaine with Epinephrine 1/1:200000]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40226807	1010762	Epinephrine / Lidocaine Injectable Solution [Xylocaine with Epinephrine 2/1:100000]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40226808	1010691	Epinephrine / Lidocaine Injectable Solution [Xylocaine with Epinephrine 2/1:200000]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40226809	1010767	epinephrine / lidocaine Injectable Solution [Xylocaine with Epinephrine]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40226810	1012155	epinephrine 0.002 MG/ML / lidocaine hydrochloride 20 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+40226811	1012268	epinephrine 0.005 MG/ML / etidocaine hydrochloride 10 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+40226812	1012272	epinephrine 0.005 MG/ML / etidocaine hydrochloride 10 MG/ML Injectable Solution [Duranest with epinephrine]	Branded Drug	Drug	RxNorm	Valid	Standard
+40226813	1012270	epinephrine 0.005 MG/ML / etidocaine hydrochloride 10 MG/ML [Duranest with epinephrine]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+40226814	1012274	epinephrine 0.005 MG/ML / etidocaine hydrochloride 15 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+40226815	1012278	epinephrine 0.005 MG/ML / etidocaine hydrochloride 15 MG/ML Injectable Solution [Duranest with epinephrine]	Branded Drug	Drug	RxNorm	Valid	Standard
+40226816	1012276	epinephrine 0.005 MG/ML / etidocaine hydrochloride 15 MG/ML [Duranest with epinephrine]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+40226817	1010677	Epinephrine 0.005 MG/ML / Lidocaine Hydrochloride 10 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+40226818	1010681	Epinephrine 0.005 MG/ML / Lidocaine Hydrochloride 10 MG/ML Injectable Solution [Xylocaine with Epinephrine]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+40226819	1010679	epinephrine 0.005 MG/ML / lidocaine hydrochloride 10 MG/ML [Xylocaine with Epinephrine]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+40226820	1010683	Epinephrine 0.005 MG/ML / Lidocaine Hydrochloride 15 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+40226821	1010687	Epinephrine 0.005 MG/ML / Lidocaine Hydrochloride 15 MG/ML Injectable Solution [Xylocaine with Epinephrine]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+40226822	1010685	epinephrine 0.005 MG/ML / lidocaine hydrochloride 15 MG/ML [Xylocaine with Epinephrine]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+40226823	1010688	20 ML epinephrine 0.005 MG/ML / lidocaine hydrochloride 20 MG/ML Injection	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+40226824	1010692	20 ML epinephrine 0.005 MG/ML / lidocaine hydrochloride 20 MG/ML Injection [Xylocaine with Epinephrine]	Quant Branded Drug	Drug	RxNorm	Valid	Standard
+40226825	1010690	epinephrine 0.005 MG/ML / lidocaine hydrochloride 20 MG/ML [Xylocaine with Epinephrine]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+40226826	1010745	epinephrine 0.005 MG/ML / lidocaine hydrochloride 5 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+40226827	1010749	epinephrine 0.005 MG/ML / lidocaine hydrochloride 5 MG/ML Injectable Solution [Xylocaine with Epinephrine]	Branded Drug	Drug	RxNorm	Valid	Standard
+40226828	1010747	epinephrine 0.005 MG/ML / lidocaine hydrochloride 5 MG/ML [Xylocaine with Epinephrine]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+40226829	1012707	epinephrine 0.005 MG/ML / prilocaine hydrochloride 40 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+40226835	1012709	1.7 ML epinephrine 0.005 MG/ML / prilocaine hydrochloride 40 MG/ML Cartridge [Citanest Forte]	Quant Branded Drug	Drug	RxNorm	Valid	Standard
+40226836	1012708	epinephrine 0.005 MG/ML / prilocaine hydrochloride 40 MG/ML [Citanest Forte]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+40226837	1010751	epinephrine 0.01 MG/ML / lidocaine hydrochloride 10 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+40226838	1010755	epinephrine 0.01 MG/ML / lidocaine hydrochloride 10 MG/ML Injectable Solution [Xylocaine with Epinephrine]	Branded Drug	Drug	RxNorm	Valid	Standard
+40226839	1010753	epinephrine 0.01 MG/ML / lidocaine hydrochloride 10 MG/ML [Xylocaine with Epinephrine]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+40226840	1010759	epinephrine 0.01 MG/ML / lidocaine hydrochloride 20 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+40226841	1011809	1.7 ML epinephrine 0.01 MG/ML / lidocaine hydrochloride 20 MG/ML Cartridge [Lignospan]	Quant Branded Drug	Drug	RxNorm	Valid	Standard
+40226842	1011820	1.7 ML epinephrine 0.01 MG/ML / lidocaine hydrochloride 20 MG/ML Cartridge [Octocaine with Epinephrine]	Quant Branded Drug	Drug	RxNorm	Valid	Standard
+40226843	1010763	epinephrine 0.01 MG/ML / lidocaine hydrochloride 20 MG/ML Injectable Solution [Xylocaine with Epinephrine]	Branded Drug	Drug	RxNorm	Valid	Standard
+40226844	1013009	epinephrine 0.01 MG/ML / lidocaine hydrochloride 20 MG/ML Topical Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+40226845	1013011	epinephrine 0.01 MG/ML / lidocaine hydrochloride 20 MG/ML Topical Solution [Iontocaine]	Branded Drug	Drug	RxNorm	Valid	Standard
+40226846	1013010	epinephrine 0.01 MG/ML / lidocaine hydrochloride 20 MG/ML [Iontocaine]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+40226847	1011807	epinephrine 0.01 MG/ML / lidocaine hydrochloride 20 MG/ML [Lignospan]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+40226848	1011818	epinephrine 0.01 MG/ML / lidocaine hydrochloride 20 MG/ML [Octocaine with Epinephrine]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+40226849	1010761	epinephrine 0.01 MG/ML / lidocaine hydrochloride 20 MG/ML [Xylocaine with Epinephrine]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+40226850	1012792	epinephrine 0.01 MG/ML / mepivacaine hydrochloride 20 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+40226851	1012169	epinephrine 0.0125 MG/ML / lidocaine hydrochloride 20 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+40226852	1012178	epinephrine 0.02 MG/ML / lidocaine hydrochloride 15 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+40226853	1010764	Epinephrine 0.02 MG/ML / Lidocaine Hydrochloride 20 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+40226854	1011814	1.7 ML epinephrine 0.02 MG/ML / lidocaine hydrochloride 20 MG/ML Cartridge [Lignospan]	Quant Branded Drug	Drug	RxNorm	Valid	Standard
+40226855	1011825	1.7 ML epinephrine 0.02 MG/ML / lidocaine hydrochloride 20 MG/ML Cartridge [Octocaine with Epinephrine]	Quant Branded Drug	Drug	RxNorm	Valid	Standard
+40226856	1010768	1.7 ML epinephrine 0.02 MG/ML / lidocaine hydrochloride 20 MG/ML Cartridge [Xylocaine with Epinephrine]	Quant Branded Drug	Drug	RxNorm	Valid	Standard
+40226857	1011812	epinephrine 0.02 MG/ML / lidocaine hydrochloride 20 MG/ML [Lignospan]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+40226858	1011823	epinephrine 0.02 MG/ML / lidocaine hydrochloride 20 MG/ML [Octocaine with Epinephrine]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+40226859	1010766	epinephrine 0.02 MG/ML / lidocaine hydrochloride 20 MG/ML [Xylocaine with Epinephrine]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+40227195	1012378	Marcaine with Epinephrine 0.25/1:200000	Brand Name	Drug	RxNorm	Invalid	Non-standard
+40227196	1012385	Marcaine with Epinephrine 0.5/1:200000	Brand Name	Drug	RxNorm	Invalid	Non-standard
+40227197	1012392	Marcaine with Epinephrine 0.75/1:200000	Brand Name	Drug	RxNorm	Invalid	Non-standard
+40227213	1011817	Octocaine with Epinephrine 2/1:100000	Brand Name	Drug	RxNorm	Invalid	Non-standard
+40227214	1011822	Octocaine with Epinephrine 2/1:50000	Brand Name	Drug	RxNorm	Invalid	Non-standard
+40228323	1036871	epinephrine 10 MG/ML / pilocarpine hydrochloride 10 MG/ML [E-Pilo-1]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+40228324	1036872	epinephrine 10 MG/ML / pilocarpine hydrochloride 10 MG/ML [P1E1]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+40228325	1036865	epinephrine 10 MG/ML / pilocarpine hydrochloride 20 MG/ML [E-Pilo-2]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+40228326	1036866	epinephrine 10 MG/ML / pilocarpine hydrochloride 20 MG/ML [P2E1]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+40228327	1036856	epinephrine 10 MG/ML / pilocarpine hydrochloride 30 MG/ML [P3E1]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+40228328	1036857	epinephrine 10 MG/ML / pilocarpine hydrochloride 40 MG/ML [E-Pilo-4]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+40228329	1036858	epinephrine 10 MG/ML / pilocarpine hydrochloride 40 MG/ML [P4E1]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+40228330	1036862	epinephrine 10 MG/ML / pilocarpine hydrochloride 60 MG/ML [E-Pilo-6]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+40228331	1036859	epinephrine 10 MG/ML / pilocarpine hydrochloride 60 MG/ML [P6E1]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+40235440	1091067	Articaine / Epinephrine Injectable Solution [Orabloc]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40235441	1091071	Articaine / Epinephrine Injectable Solution [Orabloc 4/1:200000]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40235445	1091072	1.8 ML articaine hydrochloride 40 MG/ML / epinephrine 0.005 MG/ML Cartridge [Orabloc]	Quant Branded Drug	Drug	RxNorm	Valid	Standard
+40235446	1091070	articaine hydrochloride 40 MG/ML / epinephrine 0.005 MG/ML [Orabloc]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+40235447	1091068	1.8 ML articaine hydrochloride 40 MG/ML / epinephrine 0.01 MG/ML Cartridge [Orabloc]	Quant Branded Drug	Drug	RxNorm	Valid	Standard
+40235448	1091066	articaine hydrochloride 40 MG/ML / epinephrine 0.01 MG/ML [Orabloc]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+40236133	1091471	Epinephrine / Lidocaine Injectable Solution [A.T.O. epinephrine lidocaine combination]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40236134	1091441	Epinephrine / Lidocaine Injectable Solution [Cambridge epinephrine lidocaine combination]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40236137	1091474	Epinephrine 0.01 MG/ML / Lidocaine Hydrochloride 20 MG/ML Injectable Solution [A.T.O. epinephrine lidocaine combination]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+40236138	1091442	Epinephrine 0.01 MG/ML / Lidocaine Hydrochloride 20 MG/ML Injectable Solution [Cambridge epinephrine lidocaine combination]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+40236139	1091473	Epinephrine 0.01 MG/ML / Lidocaine Hydrochloride 20 MG/ML [A.T.O. epinephrine lidocaine combination]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+40236140	1091440	Epinephrine 0.01 MG/ML / Lidocaine Hydrochloride 20 MG/ML [Cambridge epinephrine lidocaine combination]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+40236141	1091472	Epinephrine 0.02 MG/ML / Lidocaine Hydrochloride 20 MG/ML Injectable Solution [A.T.O. epinephrine lidocaine combination]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+40236142	1091470	Epinephrine 0.02 MG/ML / Lidocaine Hydrochloride 20 MG/ML [A.T.O. epinephrine lidocaine combination]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+40238674	1100194	10 ML Epinephrine 0.016 MG/ML Prefilled Syringe	Quant Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+40239166	1110412	epinephrine 0.01 MG/ML / mepivacaine hydrochloride 20 MG/ML [Scandonest 2% Special]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+40240717	1116626	epinephrine 0.001 MG/MG / lidocaine hydrochloride 0.1 MG/MG Medicated Patch	Clinical Drug	Drug	RxNorm	Valid	Standard
+40240718	1116629	epinephrine 0.001 MG/MG / lidocaine hydrochloride 0.1 MG/MG Medicated Patch [Lidosite]	Branded Drug	Drug	RxNorm	Valid	Standard
+40240719	1116627	epinephrine 0.001 MG/MG / lidocaine hydrochloride 0.1 MG/MG [Lidosite]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+40240862	1116625	Epinephrine / Lidocaine Transdermal Patch	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40240863	1116628	Epinephrine / Lidocaine Transdermal Patch [Lidosite]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40242491	1150120	1 ML epinephrine 0.01 MG/ML / lidocaine hydrochloride 10 MG/ML Prefilled Syringe	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+40242515	1150121	3 ML epinephrine 0.01 MG/ML / lidocaine hydrochloride 10 MG/ML Prefilled Syringe	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+40242518	1150122	5 ML epinephrine 0.01 MG/ML / lidocaine hydrochloride 10 MG/ML Prefilled Syringe	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+40242541	1150829	1.7 ML articaine hydrochloride 40 MG/ML / epinephrine 0.005 MG/ML Cartridge [Septocaine]	Quant Branded Drug	Drug	RxNorm	Valid	Standard
+40242542	1150828	articaine hydrochloride 40 MG/ML / epinephrine 0.005 MG/ML [Septocaine]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+40242716	1150119	epinephrine / lidocaine Prefilled Syringe	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40242721	1150986	Epinephrine 0.032 MG/ML	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+40242722	1150987	Epinephrine 0.032 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+40243323	1190822	atropine sulfate 0.01 MG/MG / epinephrine bitartrate 0.001 MG/MG / tyramine 0.02 MG/MG Topical Ointment	Clinical Drug	Drug	RxNorm	Valid	Standard
+40243459	1190941	Atropine Sulfate 2 MG/ML / epinephrine bitartrate 20 MG/ML Inhalant Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+40243472	1190946	Atropine Sulfate 5 MG/ML / epinephrine bitartrate 10 MG/ML Inhalant Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+40243730	1190821	epinephrine bitartrate 0.001 MG/MG	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+40243731	1190945	epinephrine bitartrate 10 MG/ML	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+40243732	1190940	epinephrine bitartrate 20 MG/ML	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+42629168	1793094	epinephrine / lidocaine Medicated Patch	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+42629169	1793096	epinephrine / lidocaine Medicated Patch [Lidosite]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+42705168	1233581	Bupivacaine / Epinephrine / Fentanyl Injectable Solution	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+42706245	1245692	Epinephrine 0.0016 MG/ML	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+42706750	1249591	epinephrine sulfate 2 MG/ML	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+42706814	1250253	Epinephrine 0.064 MG/ML	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+42707335	1233583	Bupivacaine Hydrochloride 1 MG/ML / Epinephrine 0.002 MG/ML / Fentanyl 0.003 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+42707379	1233778	10 ML Epinephrine 0.01 MG/ML Prefilled Syringe	Quant Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+42708431	1245693	Epinephrine 0.0016 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+42708909	1249592	epinephrine sulfate 2 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+42708966	1250254	Epinephrine 0.064 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+42799042	1293648	1.7 ML epinephrine 0.01 MG/ML / lidocaine hydrochloride 20 MG/ML Cartridge	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+42799043	1293628	1.8 ML epinephrine 0.01 MG/ML / lidocaine hydrochloride 20 MG/ML Cartridge	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+42799564	1293190	Epinephrine 0.004 MG/ML	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+42799565	1293191	Epinephrine 0.004 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+42799566	1293182	Epinephrine 0.02 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+42873642	1305268	NDA201739 0.15 ML epinephrine 1 MG/ML Auto-Injector [Auvi-Q]	Branded Drug	Drug	RxNorm	Valid	Standard
+42873645	1305269	NDA201739 0.3 ML epinephrine 1 MG/ML Auto-Injector [Auvi-Q]	Branded Drug	Drug	RxNorm	Valid	Standard
+42873910	1305265	epinephrine 1 MG/ML [Auvi-Q]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+42873912	1305266	Epinephrine Prefilled Syringe [Auvi-Q]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+42902542	1359655	epinephrine 1 MG/ML Auto-Injector [Auvi-Q]	Branded Drug	Drug	RxNorm	Valid	Standard
+42902612	1359725	Epinephrine 1 MG/ML Prefilled Syringe [Twinject]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+42902641	1359754	epinephrine 0.1 MG/ML Prefilled Syringe	Clinical Drug	Drug	RxNorm	Valid	Standard
+42902643	1359756	epinephrine 1 MG/ML Auto-Injector	Clinical Drug	Drug	RxNorm	Valid	Standard
+42902649	1359762	Epinephrine 0.016 MG/ML Prefilled Syringe	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+42902686	1359799	epinephrine 1 MG/ML Auto-Injector [Epipen]	Branded Drug	Drug	RxNorm	Valid	Standard
+42902708	1359821	epinephrine 0.01 MG/ML / lidocaine hydrochloride 10 MG/ML Prefilled Syringe	Clinical Drug	Drug	RxNorm	Valid	Standard
+42902875	1359988	Epinephrine 0.01 MG/ML Prefilled Syringe	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+42902962	1360075	epinephrine 0.22 MG/ACTUAT Metered Dose Inhaler	Clinical Drug	Drug	RxNorm	Valid	Standard
+42903014	1360127	epinephrine 0.01 MG/ML / lidocaine hydrochloride 20 MG/ML Cartridge	Clinical Drug	Drug	RxNorm	Valid	Standard
+42903094	1360207	epinephrine 1 MG/ML Auto-Injector [Adrenaclick]	Branded Drug	Drug	RxNorm	Valid	Standard
+42903224	1360337	epinephrine 0.5 MG/ML Auto-Injector	Clinical Drug	Drug	RxNorm	Valid	Standard
+42903232	1360345	epinephrine 0.22 MG/ACTUAT Metered Dose Inhaler [Primatene Mist Inhaler]	Branded Drug	Drug	RxNorm	Valid	Standard
+42903314	1360427	epinephrine 0.5 MG/ML Auto-Injector [Epipen]	Branded Drug	Drug	RxNorm	Valid	Standard
+42903346	1360459	epinephrine 0.16 MG/ACTUAT Metered Dose Inhaler [Medihaler-Epi]	Branded Drug	Drug	RxNorm	Valid	Standard
+42903378	1360491	epinephrine 0.16 MG/ACTUAT Metered Dose Inhaler	Clinical Drug	Drug	RxNorm	Valid	Standard
+43525480	1372694	Marcaine with Epinephrine	Brand Name	Drug	RxNorm	Valid	Non-standard
+43526156	1375968	Epinephrine / Lidocaine / Tetracaine Topical Solution	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+43526157	1375913	Epinephrine 0.01 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+43526160	1375970	Epinephrine 1 MG/ML / Lidocaine Hydrochloride 40 MG/ML / Tetracaine 5 MG/ML Topical Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+43532706	1430155	Duranest with epinephrine	Brand Name	Drug	RxNorm	Valid	Non-standard
+44814533	1490057	epinephrine 1 MG/ML Injectable Solution [Adrenalin]	Branded Drug	Drug	RxNorm	Valid	Standard
+44814534	1490054	epinephrine 1 MG/ML [Adrenalin]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+44814535	1490055	epinephrine Injectable Solution [Adrenalin]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+45775322	1546216	Epinephrine Inhalant Powder	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+45775323	1546217	epinephrine 0.22 MG Inhalation Powder	Clinical Drug	Drug	RxNorm	Valid	Standard
+45892244	1595028	Articaine / Epinephrine Prefilled Syringe	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+45892245	1595029	1.7 ML articaine hydrochloride 40 MG/ML / epinephrine 0.005 MG/ML Cartridge	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+45892246	1595030	Articaine / Epinephrine Prefilled Syringe [Articadent]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+45892247	1595032	articaine hydrochloride 40 MG/ML / epinephrine 0.005 MG/ML Cartridge	Clinical Drug	Drug	RxNorm	Valid	Standard
+45892248	1595033	articaine hydrochloride 40 MG/ML / epinephrine 0.005 MG/ML Cartridge [Articadent]	Branded Drug	Drug	RxNorm	Valid	Standard
+45892250	1595035	1.7 ML articaine hydrochloride 40 MG/ML / epinephrine 0.01 MG/ML Cartridge	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+45892251	1595037	articaine hydrochloride 40 MG/ML / epinephrine 0.01 MG/ML Cartridge	Clinical Drug	Drug	RxNorm	Valid	Standard
+45892252	1595038	articaine hydrochloride 40 MG/ML / epinephrine 0.01 MG/ML Cartridge [Articadent]	Branded Drug	Drug	RxNorm	Valid	Standard
+45892253	1595041	Epinephrine / Prilocaine Prefilled Syringe	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+45892254	1595042	1.7 ML epinephrine 0.005 MG/ML / prilocaine hydrochloride 40 MG/ML Cartridge	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+45892255	1595043	Epinephrine / Prilocaine Prefilled Syringe [Citanest Forte]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+45892256	1595045	epinephrine 0.005 MG/ML / prilocaine hydrochloride 40 MG/ML Cartridge	Clinical Drug	Drug	RxNorm	Valid	Standard
+45892257	1595046	epinephrine 0.005 MG/ML / prilocaine hydrochloride 40 MG/ML Cartridge [Citanest Forte]	Branded Drug	Drug	RxNorm	Valid	Standard
+45892487	1596950	1.8 ML epinephrine 0.005 MG/ML / prilocaine hydrochloride 40 MG/ML Cartridge	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+46221312	1608498	Epinephrine / Lidocaine Prefilled Syringe [Xylocaine with Epinephrine]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+46221313	1608499	1.7 ML epinephrine 0.01 MG/ML / lidocaine hydrochloride 20 MG/ML Cartridge [Xylocaine with Epinephrine]	Quant Branded Drug	Drug	RxNorm	Valid	Standard
+46221314	1608500	epinephrine 0.01 MG/ML / lidocaine hydrochloride 20 MG/ML Cartridge [Xylocaine with Epinephrine]	Branded Drug	Drug	RxNorm	Valid	Standard
+46221315	1608501	1.7 ML Epinephrine 0.02 MG/ML / Lidocaine Hydrochloride 20 MG/ML Prefilled Syringe	Quant Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+46221316	1608502	1.7 ML Epinephrine 0.02 MG/ML / Lidocaine Hydrochloride 20 MG/ML Prefilled Syringe [Xylocaine with Epinephrine]	Quant Branded Drug	Drug	RxNorm	Invalid	Non-standard
+46221317	1608503	Epinephrine 0.02 MG/ML / Lidocaine Hydrochloride 20 MG/ML Prefilled Syringe	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+46221318	1608504	Epinephrine 0.02 MG/ML / Lidocaine Hydrochloride 20 MG/ML Prefilled Syringe [Xylocaine with Epinephrine]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+46274296	1249590	epinephrine sulfate	Precise Ingredient	Drug	RxNorm	Valid	Non-standard
+46275255	1658178	125 ACTUAT epinephrine 0.22 MG/ACTUAT Metered Dose Inhaler	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+46275411	1658945	articaine / epinephrine Cartridge	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+46275412	1658947	articaine / epinephrine Cartridge [Septocaine]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+46275413	1658950	articaine hydrochloride 40 MG/ML / epinephrine 0.005 MG/ML Cartridge [Septocaine]	Branded Drug	Drug	RxNorm	Valid	Standard
+46275414	1658966	1.8 ML articaine hydrochloride 40 MG/ML / epinephrine 0.005 MG/ML Cartridge	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+46275415	1658967	articaine / epinephrine Cartridge [Orabloc]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+46275416	1658969	articaine hydrochloride 40 MG/ML / epinephrine 0.005 MG/ML Cartridge [Orabloc]	Branded Drug	Drug	RxNorm	Valid	Standard
+46275417	1658975	articaine / epinephrine Cartridge [Articadent]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+46275915	1660013	epinephrine Injection	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+46275916	1660014	1 ML epinephrine 1 MG/ML Injection	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+46275917	1660015	epinephrine Injection [Adrenalin]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+46275918	1660016	1 ML epinephrine 1 MG/ML Injection [Adrenalin]	Quant Branded Drug	Drug	RxNorm	Valid	Standard
+46275919	1660017	epinephrine 1 MG/ML Injection	Clinical Drug	Drug	RxNorm	Valid	Standard
+46275920	1660018	epinephrine 1 MG/ML Injection [Adrenalin]	Branded Drug	Drug	RxNorm	Valid	Standard
+46275965	1657015	epinephrine / lidocaine Cartridge	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+46275966	1657016	1.8 ML epinephrine 0.02 MG/ML / lidocaine hydrochloride 20 MG/ML Cartridge	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+46275967	1657017	epinephrine 0.02 MG/ML / lidocaine hydrochloride 20 MG/ML Cartridge	Clinical Drug	Drug	RxNorm	Valid	Standard
+46275975	1657026	1.7 ML epinephrine 0.02 MG/ML / lidocaine hydrochloride 20 MG/ML Cartridge	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+46275976	1657032	epinephrine / lidocaine Cartridge [Lignospan]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+46275977	1657034	epinephrine 0.02 MG/ML / lidocaine hydrochloride 20 MG/ML Cartridge [Lignospan]	Branded Drug	Drug	RxNorm	Valid	Standard
+46275978	1657035	epinephrine / lidocaine Cartridge [Octocaine with Epinephrine]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+46275979	1657037	epinephrine 0.02 MG/ML / lidocaine hydrochloride 20 MG/ML Cartridge [Octocaine with Epinephrine]	Branded Drug	Drug	RxNorm	Valid	Standard
+46275980	1657038	epinephrine / lidocaine Cartridge [Xylocaine with Epinephrine]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+46275981	1657040	epinephrine 0.02 MG/ML / lidocaine hydrochloride 20 MG/ML Cartridge [Xylocaine with Epinephrine]	Branded Drug	Drug	RxNorm	Valid	Standard
+46276149	1661387	epinephrine Auto-Injector	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+46276150	1661390	epinephrine Auto-Injector [Adrenaclick]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+46276151	1661393	epinephrine Auto-Injector [Auvi-Q]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+46276152	1661398	epinephrine Auto-Injector [Epipen]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+46276164	1661464	articaine hydrochloride 40 MG/ML / epinephrine 0.01 MG/ML Cartridge [Orabloc]	Branded Drug	Drug	RxNorm	Valid	Standard
+46276165	1661469	articaine hydrochloride 40 MG/ML / epinephrine 0.01 MG/ML Cartridge [Septocaine]	Branded Drug	Drug	RxNorm	Valid	Standard
+46276166	1661475	articaine / epinephrine Cartridge [Zorcaine]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+46276167	1661477	articaine hydrochloride 40 MG/ML / epinephrine 0.01 MG/ML Cartridge [Zorcaine]	Branded Drug	Drug	RxNorm	Valid	Standard
+46276169	1661483	1.8 ML articaine hydrochloride 40 MG/ML / epinephrine 0.01 MG/ML Cartridge	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+46287454	1665522	epinephrine 0.01 MG/ML / lidocaine hydrochloride 20 MG/ML Cartridge [Lignospan]	Branded Drug	Drug	RxNorm	Valid	Standard
+46287455	1665544	epinephrine 0.01 MG/ML / lidocaine hydrochloride 20 MG/ML Cartridge [Octocaine with Epinephrine]	Branded Drug	Drug	RxNorm	Valid	Standard

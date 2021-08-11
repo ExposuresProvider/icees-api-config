@@ -1,0 +1,116 @@
+﻿Id	Code	Name	Standard Class	Domain	Vocab	Validity	Concept
+45538369	I11.0	Hypertensive heart disease with (congestive) heart failure	ICD10 code	Condition	ICD10	Valid	Non-standard
+45552780	I13.2	Hypertensive heart and renal disease with both (congestive) heart failure and renal failure	ICD10 code	Condition	ICD10	Valid	Non-standard
+45567179	I50.0	Congestive heart failure	ICD10 code	Condition	ICD10	Valid	Non-standard
+45572075	I13.0	Hypertensive heart and renal disease with (congestive) heart failure	ICD10 code	Condition	ICD10	Valid	Non-standard
+45576863	I11.9	Hypertensive heart disease without (congestive) heart failure	ICD10 code	Condition	ICD10	Valid	Non-standard
+1569179	I50.2	Systolic (congestive) heart failure	4-char nonbill code	Condition	ICD10CM	Valid	Non-standard
+1569180	I50.3	Diastolic (congestive) heart failure	4-char nonbill code	Condition	ICD10CM	Valid	Non-standard
+1569181	I50.4	Combined systolic (congestive) and diastolic (congestive) heart failure	4-char nonbill code	Condition	ICD10CM	Valid	Non-standard
+45533456	I50.32	Chronic diastolic (congestive) heart failure	5-char billing code	Condition	ICD10CM	Valid	Non-standard
+45533457	I50.40	Unspecified combined systolic (congestive) and diastolic (congestive) heart failure	5-char billing code	Condition	ICD10CM	Valid	Non-standard
+45543182	I50.21	Acute systolic (congestive) heart failure	5-char billing code	Condition	ICD10CM	Valid	Non-standard
+45548022	I50.31	Acute diastolic (congestive) heart failure	5-char billing code	Condition	ICD10CM	Valid	Non-standard
+45562355	I50.33	Acute on chronic diastolic (congestive) heart failure	5-char billing code	Condition	ICD10CM	Valid	Non-standard
+45567180	I50.23	Acute on chronic systolic (congestive) heart failure	5-char billing code	Condition	ICD10CM	Valid	Non-standard
+45567181	I50.43	Acute on chronic combined systolic (congestive) and diastolic (congestive) heart failure	5-char billing code	Condition	ICD10CM	Valid	Non-standard
+45576878	I50.22	Chronic systolic (congestive) heart failure	5-char billing code	Condition	ICD10CM	Valid	Non-standard
+45586587	I50.20	Unspecified systolic (congestive) heart failure	5-char billing code	Condition	ICD10CM	Valid	Non-standard
+45586588	I50.42	Chronic combined systolic (congestive) and diastolic (congestive) heart failure	5-char billing code	Condition	ICD10CM	Valid	Non-standard
+45591469	I50.41	Acute combined systolic (congestive) and diastolic (congestive) heart failure	5-char billing code	Condition	ICD10CM	Valid	Non-standard
+45601038	I50.30	Unspecified diastolic (congestive) heart failure	5-char billing code	Condition	ICD10CM	Valid	Non-standard
+1413725	I11.0	Hypertensive heart disease with (congestive) heart failure	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+1413726	I11.000	Hypertensive heart disease with (congestive) heart failure	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+1413729	I11.9	Hypertensive heart disease without (congestive) heart failure	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+1413730	I11.900	Hypertensive heart disease without (congestive) heart failure	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+1413740	I13.0	Hypertensive heart and renal disease with (congestive) heart failure	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+1413741	I13.000	Hypertensive heart and renal disease with (congestive) heart failure	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+1413744	I13.2	Hypertensive heart and renal disease with both (congestive) heart failure and renal failure	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+1413745	I13.200	Hypertensive heart and renal disease with both (congestive) heart failure and renal failure	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+1414249	I50.0	Congestive heart failure	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+1414250	I50.000	Congestive heart failure	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+37084430	I11.0	Hypertensive heart disease with (congestive) heart failure	ICD10 code	Condition	ICD10GM	Valid	Non-standard
+37084433	I11.9	Hypertensive heart disease without (congestive) heart failure	ICD10 code	Condition	ICD10GM	Valid	Non-standard
+37084443	I13.0	Hypertensive heart and renal disease with (congestive) heart failure	ICD10 code	Condition	ICD10GM	Valid	Non-standard
+37084449	I13.2	Hypertensive heart and renal disease with both (congestive) heart failure and renal failure	ICD10 code	Condition	ICD10GM	Valid	Non-standard
+37084450	I13.20	Hypertensive heart and kidney disease with (congestive) heart failure and kidney failure: No indication of a hypertensive crisis	ICD10 code	Condition	ICD10GM	Valid	Non-standard
+37084451	I13.21	Hypertensive heart and kidney disease with (congestive) heart failure and kidney failure: with details of a hypertensive crisis	ICD10 code	Condition	ICD10GM	Valid	Non-standard
+37084676	I50.0	Congestive heart failure	ICD10 code	Condition	ICD10GM	Valid	Non-standard
+"44826642	428.0	Congestive heart failure, unspecified	4-dig billing code	Condition	ICD9CM	Valid	Non-standard"
+45614267	D006333	Heart Failure	Main Heading	Condition	MeSH	Valid	Non-standard
+312338	77737007	Benign hypertensive heart disease with congestive heart failure	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+313502	77970009	Benign hypertensive heart disease without congestive heart failure	Clinical Finding	Condition	SNOMED	Valid	Standard
+314369	36315003	Malignant hypertensive heart disease without congestive heart failure	Clinical Finding	Condition	SNOMED	Valid	Standard
+314378	5148006	Hypertensive heart disease with congestive heart failure	Clinical Finding	Condition	SNOMED	Valid	Standard
+315295	82523003	Congestive rheumatic heart failure	Clinical Finding	Condition	SNOMED	Valid	Standard
+316994	83105008	Malignant hypertensive heart disease with congestive heart failure	Clinical Finding	Condition	SNOMED	Valid	Standard
+319034	60899001	Hypertensive heart disease without congestive heart failure	Clinical Finding	Condition	SNOMED	Valid	Standard
+319835	42343007	Congestive heart failure	Clinical Finding	Condition	SNOMED	Valid	Standard
+439694	194781004	Hypertensive heart and renal disease with both (congestive) heart failure and renal failure	Clinical Finding	Condition	SNOMED	Valid	Standard
+439696	194779001	Hypertensive heart and renal disease with (congestive) heart failure	Clinical Finding	Condition	SNOMED	Valid	Standard
+762002	285211000119102	Congestive heart failure as post-operative complication of cardiac surgery	Clinical Finding	Condition	SNOMED	Valid	Standard
+762003	285221000119109	Congestive heart failure as post-operative complication of non-cardiac surgery	Clinical Finding	Condition	SNOMED	Valid	Standard
+3522693	67451000119104	Congestive heart failure stage B	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3527337	325431000000103	Congestive heart failure due to valvular disease	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3527727	338101000000107	Congestive heart failure due to valvular disease	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+4023479	10633002	Acute congestive heart failure	Clinical Finding	Condition	SNOMED	Valid	Standard
+4139864	426263006	Congestive heart failure due to left ventricular systolic dysfunction	Clinical Finding	Condition	SNOMED	Valid	Standard
+4142561	426611007	Congestive heart failure due to valvular disease	Clinical Finding	Condition	SNOMED	Valid	Standard
+4206009	5375005	Chronic left-sided congestive heart failure	Clinical Finding	Condition	SNOMED	Valid	Standard
+4215446	80479009	Acute right-sided congestive heart failure	Clinical Finding	Condition	SNOMED	Valid	Standard
+4229440	88805009	Chronic congestive heart failure	Clinical Finding	Condition	SNOMED	Valid	Standard
+4236658	90727007	Pleural effusion due to congestive heart failure	Clinical Finding	Condition	SNOMED	Valid	Standard
+4242669	92506005	Biventricular congestive heart failure	Clinical Finding	Condition	SNOMED	Valid	Standard
+4284562	66989003	Chronic right-sided congestive heart failure	Clinical Finding	Condition	SNOMED	Valid	Standard
+4293582	403298007	Red half-moon nail in congestive heart failure	Clinical Finding	Condition	SNOMED	Valid	Standard
+4327205	74960003	Acute left-sided congestive heart failure	Clinical Finding	Condition	SNOMED	Valid	Standard
+4332663	430429008	At risk for congestive heart failure	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+"36676642	773587008	X-linked intellectual disability, cardiomegaly, congestive heart failure syndrome	Clinical Finding	Condition	SNOMED	Valid	Standard"
+36712927	15629541000119106	Congestive heart failure stage C due to ischemic cardiomyopathy	Clinical Finding	Condition	SNOMED	Valid	Standard
+36712928	15629591000119103	Congestive heart failure stage B due to ischemic cardiomyopathy	Clinical Finding	Condition	SNOMED	Valid	Standard
+36713488	717840005	Congestive heart failure stage B	Clinical Finding	Condition	SNOMED	Valid	Standard
+37309625	16838951000119100	Acute on chronic right-sided congestive heart failure	Clinical Finding	Condition	SNOMED	Valid	Standard
+40392293	195108009	Heart failure: [right] or [congestive]	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40392294	195109001	Acute congestive heart failure	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40392295	195110006	Chronic congestive heart failure	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+43021825	67431000119105	Congestive heart failure stage D	Clinical Finding	Condition	SNOMED	Valid	Standard
+43021826	67441000119101	Congestive heart failure stage C	Clinical Finding	Condition	SNOMED	Valid	Standard
+43022068	96311000119109	Exacerbation of congestive heart failure	Clinical Finding	Condition	SNOMED	Valid	Standard
+44782428	101281000119107	Congestive heart failure due to cardiomyopathy	Clinical Finding	Condition	SNOMED	Valid	Standard
+44782655	698296002	Acute exacerbation of chronic congestive heart failure	Clinical Finding	Condition	SNOMED	Valid	Standard
+44782713	23341000119109	Congestive heart failure with right heart failure	Clinical Finding	Condition	SNOMED	Valid	Standard
+44782728	15781000119107	Hypertensive heart AND chronic kidney disease with congestive heart failure	Clinical Finding	Condition	SNOMED	Valid	Standard
+44784345	72481000119103	Congestive heart failure as early postoperative complication	Clinical Finding	Condition	SNOMED	Valid	Standard
+44784442	698594003	Symptomatic congestive heart failure	Clinical Finding	Condition	SNOMED	Valid	Standard
+36308019	LA25635-6	Cardio/pulm: Congestive heart failure	Answer	Meas Value	LOINC	Valid	Standard
+"36309753	LA27840-0	Heart failure (e.g., congestive heart failure (CHF) and pulmonary edema)	Answer	Meas Value	LOINC	Valid	Standard"
+45884436	LA12740-9	Congestive heart failure (CHF)	Answer	Meas Value	LOINC	Valid	Standard
+"3528268	352171000000102	Congestive heart failure, hypertension, age, diabetes, stroke 2, stroke risk score	Staging / Scales	Measurement	SNOMED	Invalid	Non-standard"
+"3544636	793821000000107	Congestive heart failure, hypertension, age 2, diabetes mellitus, stroke 2 - vascular disease, age, sex category stroke risk	Staging / Scales	Measurement	SNOMED	Invalid	Non-standard"
+4229700	438367009	CHADS2 score	Staging / Scales	Measurement	SNOMED	Valid	Standard
+"35609719	1085111000000109	CHADS2 (congestive heart failure, hypertension, age 75 years or older, diabetes mellitus and previous stroke or transient ischaemic attack) score	Observable Entity	Measurement	SNOMED	Invalid	Non-standard"
+"35621770	763008007	CHADS2 (congestive heart failure, hypertension, age 75 years or older, diabetes mellitus and previous stroke or transient ischemic attack) score	Observable Entity	Measurement	SNOMED	Valid	Standard"
+37017409	713678009	CHA2DS2-VASc score	Staging / Scales	Measurement	SNOMED	Valid	Standard
+"42536432	735258002	CHA2DS2-VASc (congestive heart failure, hypertension, age 2, diabetes mellitus, stroke 2, vascular disease, age, sex category) score	Staging / Scales	Measurement	SNOMED	Valid	Standard"
+"42536433	735259005	CHA2DS2-VASc (congestive heart failure, hypertension, age 2, diabetes mellitus, stroke 2, vascular disease, age, sex category) stroke risk score	Observable Entity	Measurement	SNOMED	Valid	Standard"
+"44792469	352161000000109	Congestive heart failure, hypertension, age, diabetes, stroke 2 stroke risk score	Staging / Scales	Measurement	SNOMED	Invalid	Non-standard"
+"44806838	793811000000101	CHA2DS2-VASc (congestive heart failure, hypertension, age 2, diabetes mellitus, stroke 2, vascular disease, age, sex category) score	Staging / Scales	Measurement	SNOMED	Invalid	Non-standard"
+"44806840	793851000000102	CHA2DS2-VASc (congestive heart failure, hypertension, age 2, diabetes mellitus, stroke 2 - vascular disease, age, sex category) stroke risk score	Observable Entity	Measurement	SNOMED	Invalid	Non-standard"
+37310359	1128151000000104	Congestive heart failure extraction specification for CHA2DS2-VASc risk score simple reference set	Model Comp	Metadata	SNOMED	Valid	Non-standard
+"2101893	1026F	Co-morbid conditions assessed (eg, includes assessment for presence or absence of: malignancy, liver disease, congestive heart failure, cerebrovascular disease, renal disease, chronic obstructive pulmonary disease, asthma, diabetes, other co-morbid con...	CPT4	Observation	CPT4	Valid	Standard"
+1032138	LP74648-4	Congestive heart failure	LOINC Component	Observation	LOINC	Valid	Non-standard
+3046423	45641-8	Congestive heart failure [Minimum Data Set]	Survey	Observation	LOINC	Valid	Standard
+"3579907	352181000000100	Congestive heart failure, hypertension, age, diabetes, stroke 2, stroke risk score	Undefined	Observation	SNOMED	Invalid	Non-standard"
+4046878	134378009	Congestive heart failure monitoring	Procedure	Observation	SNOMED	Valid	Standard
+4198920	433305001	Family history of congestive heart failure	Context-dependent	Observation	SNOMED	Valid	Standard
+40545243	366784002	Congestive heart failure monitoring	Procedure	Observation	SNOMED	Invalid	Non-standard
+40545659	366862009	Congestive heart failure monitoring	Procedure	Observation	SNOMED	Invalid	Non-standard
+46269995	11016261000119104	Nutritional therapy for congestive heart failure done	Context-dependent	Observation	SNOMED	Valid	Standard
+"35609713	1085041000000109	Assessment using CHADS2 (congestive heart failure, hypertension, age 75 years or older, diabetes mellitus and previous stroke or transient ischaemic attack) score	Procedure	Procedure	SNOMED	Invalid	Non-standard"
+"35621769	763007002	Assessment using CHADS2 (congestive heart failure, hypertension, age 75 years or older, diabetes mellitus and previous stroke or transient ischemic attack) score	Procedure	Procedure	SNOMED	Valid	Standard"
+44782439	50781000119109	Nutrition therapy for congestive heart failure	Procedure	Procedure	SNOMED	Valid	Standard
+"44814080	793891000000105	Assessment using CHA2DS2-VASc (congestive heart failure, hypertension, age 2, diabetes mellitus, stroke 2 - vascular disease, age, sex category) score	Procedure	Procedure	SNOMED	Invalid	Non-standard"
+"45769380	708018005	Assessment using congestive heart failure, hypertension, age 2, diabetes mellitus, stroke 2 - vascular disease, age, sex category score	Procedure	Procedure	SNOMED	Valid	Standard"
+36715183	720700006	Congestive heart failure clinical management plan	Qualifier Value	Type Concept	SNOMED	Invalid	Non-standard
+42537817	737430008	Congestive heart failure clinical management plan	Record Artifact	Type Concept	SNOMED	Valid	Non-standard
+45765816	702843005	Congestive heart failure clinic	Location	Visit	SNOMED	Valid	Non-standard

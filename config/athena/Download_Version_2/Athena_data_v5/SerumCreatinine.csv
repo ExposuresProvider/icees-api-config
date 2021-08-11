@@ -1,0 +1,36 @@
+﻿Id	Code	Name	Standard Class	Domain	Vocab	Validity	Concept
+1428190	R94.402	Elevated serum creatinine (machine translation)	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+4041902	166717003	Serum creatinine raised	Clinical Finding	Condition	SNOMED	Valid	Standard
+4042574	166714005	Serum creatinine abnormal	Clinical Finding	Condition	SNOMED	Valid	Standard
+4042575	166716007	Serum creatinine normal	Clinical Finding	Condition	SNOMED	Valid	Standard
+4055579	166715006	Serum creatinine low	Clinical Finding	Condition	SNOMED	Valid	Standard
+4276437	365757006	Serum creatinine level - finding	Clinical Finding	Condition	SNOMED	Valid	Standard
+3050951	54052-6	HEDIS 2009 Codes to identify physiologic monitoring tests - Serum creatinine (SCr) (MPM-A)	Lab Test	Measurement	LOINC	Invalid	Non-standard
+37036132	LP404513-6	HEDIS 2014-2019 Value Set - Serum Creatinine | Patient | HEDIS panels	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37044885	LP404635-7	HEDIS 2009 Codes to identify physiologic monitoring tests - Serum creatinine (SCr) (MPM-A) | Patient | HEDIS panels	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+"37054309	LP404569-8	HEDIS 2012, 2013 Codes to identify physiologic monitoring tests - Serum creatinine (SCr) (MPM-A) | Patient | HEDIS panels	LOINC Hierarchy	Measurement	LOINC	Valid	Classification"
+"37063809	LP404604-3	HEDIS 2010,2011 Codes to identify physiologic monitoring tests - Serum creatinine (SCr) (MPM-A) | Patient | HEDIS panels	LOINC Hierarchy	Measurement	LOINC	Valid	Classification"
+"40760920	57811-2	HEDIS 2010,2011 Codes to identify physiologic monitoring tests - Serum creatinine (SCr) (MPM-A)	Lab Test	Measurement	LOINC	Invalid	Non-standard"
+40765538	62806-5	Deprecated PhenX measure - serum creatinine assay for kidney function	Clinical Observation	Measurement	LOINC	Invalid	Non-standard
+40765539	62807-3	PhenX - serum creatinine assay for kidney function protocol 141401	Clinical Observation	Measurement	LOINC	Valid	Standard
+"40770372	67764-1	HEDIS 2012, 2013 Codes to identify physiologic monitoring tests - Serum creatinine (SCr) (MPM-A)	Lab Test	Measurement	LOINC	Invalid	Non-standard"
+44786911	74256-9	HEDIS 2014-2019 Value Set - Serum Creatinine	Lab Test	Measurement	LOINC	Invalid	Non-standard
+3557578	573191000000108	Serum creatinine NOS	Procedure	Measurement	SNOMED	Invalid	Non-standard
+3561269	963631000000100	Estimated glomerular filtration rate using serum creatinine per 1.73 square metres	Observable Entity	Measurement	SNOMED	Invalid	Non-standard
+"4013964	113075003	Creatinine measurement, serum	Procedure	Measurement	SNOMED	Valid	Standard"
+4055580	166718008	Serum creatinine NOS	Procedure	Measurement	SNOMED	Invalid	Non-standard
+4197967	313822004	Corrected serum creatinine measurement	Procedure	Measurement	SNOMED	Valid	Standard
+37392176	1000731000000107	Serum creatinine level	Observable Entity	Measurement	SNOMED	Valid	Standard
+37392198	1000991000000106	Corrected serum creatinine level	Observable Entity	Measurement	SNOMED	Valid	Standard
+37394194	1028121000000101	Serum creatinine phosphokinase MB isoenzyme level	Observable Entity	Measurement	SNOMED	Valid	Standard
+40307212	144007006	Serum creatinine (& level)	Procedure	Measurement	SNOMED	Invalid	Non-standard
+40307224	144017001	Corrected serum creatinine level	Procedure	Measurement	SNOMED	Invalid	Non-standard
+40315380	143979000	Serum creatinine phosphokinase MB isoenzyme level	Procedure	Measurement	SNOMED	Invalid	Non-standard
+40328452	166713004	Serum creatinine (& level)	Procedure	Measurement	SNOMED	Invalid	Non-standard
+40328936	166727009	Corrected serum creatinine level	Procedure	Measurement	SNOMED	Invalid	Non-standard
+1005623	LP112369-6	PhenX measure - serum creatinine assay for kidney function	LOINC Component	Observation	LOINC	Invalid	Non-standard
+1005624	LP112370-4	PhenX - serum creatinine assay for kidney function protocol 141401	LOINC Component	Observation	LOINC	Valid	Non-standard
+"37039208	LP133826-0	HEDIS 2012, 2013 Codes to identify physiologic monitoring tests - Serum creatinine (SCr) (MPM-A)	LOINC Component	Observation	LOINC	Valid	Non-standard"
+37064000	LP175654-5	HEDIS 2014-2019 Value Set - Serum Creatinine	LOINC Component	Observation	LOINC	Valid	Non-standard
+37067847	LP71816-0	HEDIS 2009 Codes to identify physiologic monitoring tests - Serum creatinine (SCr) (MPM-A)	LOINC Component	Observation	LOINC	Valid	Non-standard
+"37074642	LP97771-7	HEDIS 2010,2011 Codes to identify physiologic monitoring tests - Serum creatinine (SCr) (MPM-A)	LOINC Component	Observation	LOINC	Valid	Non-standard"

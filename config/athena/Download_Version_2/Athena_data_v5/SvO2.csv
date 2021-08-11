@@ -1,0 +1,7 @@
+﻿Id	Code	Name	Standard Class	Domain	Vocab	Validity	Concept
+4096100	250552004	Mixed venous oxygen saturation measurement	Procedure	Measurement	SNOMED	Valid	Standard
+40484911	442734002	Mixed venous oxygen saturation	Observable Entity	Measurement	SNOMED	Valid	Standard
+40562470	392906001	Mixed venous oxygen saturation	Procedure	Measurement	SNOMED	Invalid	Non-standard
+40572978	393861000	Mixed venous oxygen saturation	Observable Entity	Measurement	SNOMED	Invalid	Non-standard
+1034548	LP96323-8	Mixed venous oxygen saturation monitoring	LOINC Component	Observation	LOINC	Valid	Non-standard
+40759994	56875-8	Mixed venous oxygen saturation monitoring (set)	Clinical Observation	Observation	LOINC	Valid	Standard

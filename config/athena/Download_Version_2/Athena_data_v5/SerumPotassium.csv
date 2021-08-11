@@ -1,0 +1,31 @@
+﻿Id	Code	Name	Standard Class	Domain	Vocab	Validity	Concept
+4041897	166689004	Raised serum potassium level	Clinical Finding	Condition	SNOMED	Valid	Standard
+4042571	166688007	Normal serum potassium level	Clinical Finding	Condition	SNOMED	Valid	Standard
+4043088	166690008	Serum potassium level below reference range	Clinical Finding	Condition	SNOMED	Valid	Standard
+37016722	712827009	Serum potassium level below reference range	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+1175606	90986-1	HEDIS 2019 Value Set - Serum Potassium	Lab Test	Measurement	LOINC	Invalid	Non-standard
+3039467	54053-4	HEDIS 2009 Codes to identify physiologic monitoring tests - Serum potassium (MPM-A)	Lab Test	Measurement	LOINC	Invalid	Non-standard
+37024607	LP404615-9	HEDIS 2010 Codes to identify physiologic monitoring tests - Serum potassium (MPM-A) | Patient | HEDIS panels	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37027452	LP404583-9	HEDIS 2011-2013 Codes to identify physiologic monitoring tests - Serum potassium (MPM-A) | Patient | HEDIS panels	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+"37031158	LP404533-4	HEDIS 2017, 2018 Value Set - Serum Potassium | Patient | HEDIS panels	LOINC Hierarchy	Measurement	LOINC	Valid	Classification"
+37031892	LP404636-5	HEDIS 2009 Codes to identify physiologic monitoring tests - Serum potassium (MPM-A) | Patient | HEDIS panels	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37033954	LP404541-7	HEDIS 2014-2016 Value Set - Serum Potassium | Patient | HEDIS panels	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37047577	LP404507-8	HEDIS 2019 Value Set - Serum Potassium | Patient | HEDIS panels	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+40760930	57821-1	HEDIS 2010 Codes to identify physiologic monitoring tests - Serum potassium (MPM-A)	Lab Test	Measurement	LOINC	Invalid	Non-standard
+40763504	60449-6	HEDIS 2011-2013 Codes to identify physiologic monitoring tests - Serum potassium (MPM-A)	Lab Test	Measurement	LOINC	Invalid	Non-standard
+"42529093	82962-2	HEDIS 2017, 2018 Value Set - Serum Potassium	Lab Test	Measurement	LOINC	Invalid	Non-standard"
+44786912	74257-7	HEDIS 2014-2016 Value Set - Serum Potassium	Lab Test	Measurement	LOINC	Invalid	Non-standard
+3552262	118491000000107	Serum voltage-gated potassium channel antibody level	Procedure	Measurement	SNOMED	Invalid	Non-standard
+3571806	113911000000101	Serum voltage-gated potassium channel antibody level	Procedure	Measurement	SNOMED	Invalid	Non-standard
+4133679	412961003	Serum voltage-gated potassium channel antibody measurement	Procedure	Measurement	SNOMED	Valid	Standard
+4154489	271236005	Serum potassium measurement	Procedure	Measurement	SNOMED	Valid	Standard
+37392171	1000651000000109	Serum potassium level	Observable Entity	Measurement	SNOMED	Valid	Standard
+37393286	1015061000000108	Serum voltage-gated potassium channel antibody level	Observable Entity	Measurement	SNOMED	Valid	Standard
+40315397	143994001	Serum potassium (& level)	Procedure	Measurement	SNOMED	Invalid	Non-standard
+40328422	166687002	Serum potassium (& level)	Procedure	Measurement	SNOMED	Invalid	Non-standard
+37021638	LP175655-2	HEDIS 2014-2016 Value Set - Serum Potassium	LOINC Component	Observation	LOINC	Valid	Non-standard
+"37030499	LP232138-0	HEDIS 2017, 2018 Value Set - Serum Potassium	LOINC Component	Observation	LOINC	Valid	Non-standard"
+37036951	LP71817-8	HEDIS 2009 Codes to identify physiologic monitoring tests - Serum potassium (MPM-A)	LOINC Component	Observation	LOINC	Valid	Non-standard
+37038753	LP270132-6	HEDIS 2019 Value Set - Serum Potassium	LOINC Component	Observation	LOINC	Valid	Non-standard
+37052502	LP101318-6	HEDIS 2011-2013 Codes to identify physiologic monitoring tests - Serum potassium (MPM-A)	LOINC Component	Observation	LOINC	Valid	Non-standard
+37058408	LP97783-2	HEDIS 2010 Codes to identify physiologic monitoring tests - Serum potassium (MPM-A)	LOINC Component	Observation	LOINC	Valid	Non-standard

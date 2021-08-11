@@ -1,0 +1,24 @@
+﻿Id	Code	Name	Standard Class	Domain	Vocab	Validity	Concept
+45879312	LA162-0	Discharge status uncertain	Answer	Meas Value	LOINC	Valid	Standard
+42690574	999003021000000104	Emergency care discharge status simple reference set	Model Comp	Metadata	SNOMED	Valid	Non-standard
+1031469	LP74005-7	Discharge functional status	LOINC Component	Observation	LOINC	Valid	Non-standard
+1032236	LP74745-8	Discharge Status	LOINC Component	Observation	LOINC	Valid	Non-standard
+3015048	11302-7	ED discharge disposition	Clinical Observation	Observation	LOINC	Valid	Standard
+3024349	8650-4	Hospital discharge disposition Narrative	Clinical Observation	Observation	LOINC	Valid	Standard
+3031117	42345-9	Discharge functional status (narrative)	Claims Attachment	Observation	LOINC	Valid	Standard
+3048432	46579-9	Discharge disposition [OASIS]	Survey	Observation	LOINC	Valid	Standard
+40757177	52523-8	Discharge Status	Survey	Observation	LOINC	Invalid	Non-standard
+40757216	52688-9	Discharge disposition [CARE]	Survey	Observation	LOINC	Invalid	Non-standard
+40758258	55128-3	Discharge disposition	Survey	Observation	LOINC	Valid	Standard
+40760397	57278-4	Deprecated Discharge disposition [CMS Assessment]	Survey	Observation	LOINC	Invalid	Non-standard
+43054945	72202-5	Discharge disposition - long term care hospital [CARE]	Survey	Observation	LOINC	Invalid	Non-standard
+44786928	74285-8	ED discharge disposition [NTDS]	Clinical Observation	Observation	LOINC	Valid	Standard
+44786933	74290-8	Hospital discharge disposition [NTDS]	Clinical Observation	Observation	LOINC	Valid	Standard
+46235140	75527-2	Vital status at discharge	Survey	Observation	LOINC	Valid	Standard
+46235141	75528-0	Discharge disposition [MSCDM]	Survey	Observation	LOINC	Valid	Standard
+46236016	77306-9	Deprecated Discharge disposition	Clinical Observation	Observation	LOINC	Invalid	Non-standard
+46236985	78023-9	Hospital discharge disposition [NHCS]	Survey	Observation	LOINC	Valid	Standard
+46236986	78024-7	ED discharge disposition [NHCS]	Survey	Observation	LOINC	Valid	Standard
+46236987	78025-4	Outpatient visit discharge disposition [NHCS]	Survey	Observation	LOINC	Valid	Standard
+4155966	371828006	Patient deceased during stay (discharge status = dead)	Clinical Finding	Observation	SNOMED	Valid	Standard
+4202605	309039003	Discharge status	Clinical Finding	Observation	SNOMED	Valid	Standard

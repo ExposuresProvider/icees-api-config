@@ -1,0 +1,10 @@
+﻿Id	Code	Name	Standard Class	Domain	Vocab	Validity	Concept
+3000419	5432-0	Deprecated CD126 cells/100 cells in Blood	Lab Test	Measurement	LOINC	Invalid	Non-standard
+3028307	17115-7	CD126 cells/100 cells in Blood	Lab Test	Measurement	LOINC	Valid	Standard
+3029399	51050-3	CD126 blasts/100 blasts in Blood	Lab Test	Measurement	LOINC	Valid	Standard
+3029423	51053-7	CD126 blasts [Units/volume] in Blood	Lab Test	Measurement	LOINC	Valid	Standard
+3029935	51052-9	CD126 blasts [Units/volume] in Bone marrow	Lab Test	Measurement	LOINC	Valid	Standard
+3029963	51049-5	CD126 blasts/100 blasts in Bone marrow	Lab Test	Measurement	LOINC	Valid	Standard
+3030226	51054-5	CD126 blasts [Units/volume] in Specimen	Lab Test	Measurement	LOINC	Valid	Standard
+3030286	51051-1	CD126 blasts/100 blasts in Specimen	Lab Test	Measurement	LOINC	Valid	Standard
+4332015	22766004	IL-6 assay	Procedure	Measurement	SNOMED	Valid	Standard

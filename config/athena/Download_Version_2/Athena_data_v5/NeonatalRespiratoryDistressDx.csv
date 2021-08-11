@@ -1,0 +1,26 @@
+﻿Id	Code	Name	Standard Class	Domain	Vocab	Validity	Concept
+"979583	C567034	Choreoathetosis, Hypothyroidism, And Neonatal Respiratory Distress	Suppl Concept	Condition	MeSH	Valid	Non-standard"
+"45613261	D012127	Respiratory Distress Syndrome, Newborn	Main Heading	Condition	MeSH	Valid	Non-standard"
+258866	46775006	Respiratory distress syndrome in the newborn	Clinical Finding	Condition	SNOMED	Valid	Standard
+36714023	719098007	Brain lung thyroid syndrome	Clinical Finding	Condition	SNOMED	Valid	Standard
+45768986	707541006	Acute respiratory distress in newborn with surfactant disorder	Clinical Finding	Condition	SNOMED	Valid	Standard
+3003920	14243-0	Phosphatidylcholine IgG Ab [Presence] in Serum	Lab Test	Measurement	LOINC	Valid	Standard
+3004990	14008-7	Phosphatidylcholine IgG Ab [Units/volume] in Serum by Immunoassay	Lab Test	Measurement	LOINC	Valid	Standard
+3007468	14009-5	Phosphatidylcholine IgM Ab [Units/volume] in Serum by Immunoassay	Lab Test	Measurement	LOINC	Valid	Standard
+3007538	14244-8	Phosphatidylcholine IgM Ab [Presence] in Serum	Lab Test	Measurement	LOINC	Valid	Standard
+3014201	14242-2	Phosphatidylcholine IgA Ab [Presence] in Serum	Lab Test	Measurement	LOINC	Valid	Standard
+3018084	14010-3	Phosphatidylcholine IgA Ab [Units/volume] in Serum by Immunoassay	Lab Test	Measurement	LOINC	Valid	Standard
+3021734	13073-2	Phosphatidylcholine IgG Ab [Units/volume] in Serum	Lab Test	Measurement	LOINC	Valid	Standard
+3025723	13075-7	Phosphatidylcholine IgA Ab [Units/volume] in Serum	Lab Test	Measurement	LOINC	Valid	Standard
+3025829	13074-0	Phosphatidylcholine IgM Ab [Units/volume] in Serum	Lab Test	Measurement	LOINC	Valid	Standard
+3027323	2784-7	Phosphatidylcholine.saturated [Mass/volume] in Amniotic fluid	Lab Test	Measurement	LOINC	Valid	Standard
+3029284	50618-8	Phosphatidylcholine.saturated/Surfactant.total in Amniotic fluid	Lab Test	Measurement	LOINC	Valid	Standard
+3031829	42742-7	Phosphatidylcholine IgG Ab B2GP1 independent [Multiple of the median] in Serum	Lab Test	Measurement	LOINC	Valid	Standard
+3032549	42743-5	Phosphatidylcholine IgM Ab B2GP1 dependent [Multiple of the median] in Serum	Lab Test	Measurement	LOINC	Valid	Standard
+3033231	33307-0	Phosphatidylcholine Ab [Presence] in Serum	Lab Test	Measurement	LOINC	Valid	Standard
+3033379	42739-3	Phosphatidylcholine IgA Ab B2GP1 dependent [Multiple of the median] in Serum	Lab Test	Measurement	LOINC	Valid	Standard
+3033695	42741-9	Phosphatidylcholine IgG Ab B2GP1 dependent [Multiple of the median] in Serum	Lab Test	Measurement	LOINC	Valid	Standard
+3033747	42740-1	Phosphatidylcholine IgA Ab B2GP1 independent [Multiple of the median] in Serum	Lab Test	Measurement	LOINC	Valid	Standard
+3035257	42744-3	Phosphatidylcholine IgM Ab B2GP1 independent [Multiple of the median] in Serum	Lab Test	Measurement	LOINC	Valid	Standard
+3036054	30165-5	Phosphatidylcholine/Albumin [Mass Ratio] in Amniotic fluid	Lab Test	Measurement	LOINC	Valid	Standard
+46235388	76765-7	Phosphatidylcholine.saturated [Moles/volume] in Amniotic fluid	Lab Test	Measurement	LOINC	Valid	Standard

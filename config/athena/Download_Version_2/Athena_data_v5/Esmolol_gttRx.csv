@@ -1,0 +1,40 @@
+Id	Code	Name	Standard Class	Domain	Vocab	Validity	Concept
+19021090	238245	esmolol 250 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19021111	238246	esmolol 10 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19021116	576525	esmolol 20 MG/ML [Brevibloc]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19026874	203222	esmolol hydrochloride	Precise Ingredient	Drug	RxNorm	Valid	Non-standard
+19031774	206240	esmolol 10 MG/ML Injectable Solution [Brevibloc]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+19031778	206244	esmolol 250 MG/ML Injectable Solution [Brevibloc]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+19063575	49737	esmolol	Ingredient	Drug	RxNorm	Valid	Standard
+19063576	329732	esmolol 10 MG/ML	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19085921	330690	esmolol 250 MG/ML	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19102505	403885	esmolol 20 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19102837	404603	esmolol 20 MG/ML Injectable Solution [Brevibloc]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+19103040	405860	esmolol 20 MG/ML	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19118071	567098	esmolol 10 MG/ML [Brevibloc]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19118075	567102	esmolol 250 MG/ML [Brevibloc]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+35603869	1736540	esmolol Injection	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+35603870	1736541	250 ML esmolol hydrochloride 10 MG/ML Injection	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+35603871	1736542	esmolol Injection [Brevibloc]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+35603872	1736543	250 ML esmolol hydrochloride 10 MG/ML Injection [Brevibloc]	Quant Branded Drug	Drug	RxNorm	Valid	Standard
+35603873	1736544	esmolol hydrochloride 10 MG/ML Injection	Clinical Drug	Drug	RxNorm	Valid	Standard
+35603874	1736545	esmolol hydrochloride 10 MG/ML Injection [Brevibloc]	Branded Drug	Drug	RxNorm	Valid	Standard
+35603875	1736546	10 ML esmolol hydrochloride 10 MG/ML Injection	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+35603876	1736547	10 ML esmolol hydrochloride 10 MG/ML Injection [Brevibloc]	Quant Branded Drug	Drug	RxNorm	Valid	Standard
+35603877	1736557	esmolol hydrochloride 20 MG/ML Injection	Clinical Drug	Drug	RxNorm	Valid	Standard
+35603878	1736558	esmolol hydrochloride 20 MG/ML Injection [Brevibloc]	Branded Drug	Drug	RxNorm	Valid	Standard
+36226064	1162506	esmolol Injectable Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+40059515	377103	esmolol Injectable Solution	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40059516	92016	esmolol Injectable Solution [Brevibloc]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40182869	979427	esmolol hydrochloride 10 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+40182870	979428	Esmolol hydrochloride 10 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+40182871	979430	Esmolol hydrochloride 10 MG/ML Injectable Solution [Brevibloc]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+40182872	979429	esmolol hydrochloride 10 MG/ML [Brevibloc]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+40182873	979431	esmolol hydrochloride 20 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+40182874	979432	100 ML esmolol hydrochloride 20 MG/ML Injection	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+40182875	979434	100 ML esmolol hydrochloride 20 MG/ML Injection [Brevibloc]	Quant Branded Drug	Drug	RxNorm	Valid	Standard
+40182876	979433	esmolol hydrochloride 20 MG/ML [Brevibloc]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+40182877	979435	esmolol hydrochloride 250 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+40182878	979436	esmolol hydrochloride 250 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+40182879	979438	esmolol hydrochloride 250 MG/ML Injectable Solution [Brevibloc]	Branded Drug	Drug	RxNorm	Valid	Standard
+40182880	979437	esmolol hydrochloride 250 MG/ML [Brevibloc]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
