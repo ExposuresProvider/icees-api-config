@@ -24,5 +24,5 @@ jobs:
     - uses: NCATS-Tangerine/yaml-schema-validator-github-action@master
       with:
         schema: '../schema/sets.yaml'
-        target: 'config/value_sets.yaml'
+        target: 'config/value_sets.yml'
         strict: '1'
