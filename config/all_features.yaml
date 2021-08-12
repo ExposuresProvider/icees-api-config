@@ -1,4 +1,334 @@
 patient:
+  IgE:
+    categories:
+    - biolink:PhenotypicFeature
+    enum: 
+    - "0"
+    - "1"
+    type: integer
+  IgE_flag_first:
+    categories:
+    - biolink:PhenotypicFeature
+    enum: 
+    - low
+    - normal
+    - high
+    - abnormal
+    type: string
+  IgE_flag_last:
+    categories:
+    - biolink:PhenotypicFeature
+    enum: 
+    - low
+    - normal
+    - high
+    - abnormal
+    type: string    
+  GlucoseToleranceTest:
+    categories:
+    - biolink:PhenotypicFeature
+    enum: 
+    - "0"
+    - "1"
+    type: integer
+  GlucoseToleranceTest_flag_first:
+    categories:
+    - biolink:PhenotypicFeature
+    enum: 
+    - low
+    - normal
+    - high
+    - abnormal
+    type: string
+  GlucoseToleranceTest_flag_last:
+    categories:
+    - biolink:PhenotypicFeature
+    enum: 
+    - low
+    - normal
+    - high
+    - abnormal
+    type: string    
+  Hemoglobin:
+    categories:
+    - biolink:PhenotypicFeature
+    enum: &id156
+    - "0"
+    - "1"
+    type: integer
+  Hemoglobin_flag_first:
+    categories:
+    - biolink:PhenotypicFeature
+    enum: &id157
+    - low
+    - normal
+    - high
+    - abnormal
+    type: string
+  Hemoglobin_flag_last:
+    categories:
+    - biolink:PhenotypicFeature
+    enum: &id158
+    - low
+    - normal
+    - high
+    - abnormal
+    type: string  
+  A1C:
+    categories:
+    - biolink:PhenotypicFeature
+    enum: 
+    - "0"
+    - "1"
+    type: integer
+  A1C_flag_first:
+    categories:
+    - biolink:PhenotypicFeature
+    enum: 
+    - low
+    - normal
+    - high
+    - abnormal
+    type: string
+  A1C_flag_last:
+    categories:
+    - biolink:PhenotypicFeature
+    enum: 
+    - low
+    - normal
+    - high
+    - abnormal
+    type: string  
+  # CysticFibrosisDx:
+  #   categories:
+  #   - biolink:Disease
+  #   - biolink:DiseaseOrPhenotypicFeature
+  #   enum:
+  #   - '0'
+  #   - '1'
+  #   - '>1'
+  #   type: string  
+  FailureToThriveDx:
+    categories:
+    - biolink:Disease
+    - biolink:DiseaseOrPhenotypicFeature
+    enum:
+    - '0'
+    - '1'
+    - '>1'
+    type: string  
+  # BronchiectasisDx:
+  #   categories:
+  #   - biolink:Disease
+  #   - biolink:DiseaseOrPhenotypicFeature
+  #   enum:
+  #   - '0'
+  #   - '1'
+  #   - '>1'
+  #   type: string  
+  ChronicSinusitisDx:
+    categories:
+    - biolink:Disease
+    - biolink:DiseaseOrPhenotypicFeature
+    enum:
+    - '0'
+    - '1'
+    - '>1'
+    type: string
+  # MiddleEarDiseaseDx:
+  #   categories:
+  #   - biolink:Disease
+  #   - biolink:DiseaseOrPhenotypicFeature
+  #   enum:
+  #   - '0'
+  #   - '1'
+  #   - '>1'
+  #   type: string
+  ProductiveCoughDx:
+    categories:
+    - biolink:Disease
+    - biolink:DiseaseOrPhenotypicFeature
+    enum:
+    - '0'
+    - '1'
+    - '>1'
+    type: string  
+  # NeonatalRespiratoryDistressDx:
+  #   categories:
+  #   - biolink:Disease
+  #   - biolink:DiseaseOrPhenotypicFeature
+  #   enum:
+  #   - '0'
+  #   - '1'
+  #   - '>1'
+  #   type: string
+  SitusInversusOrHeterotaxyDx:
+    categories:
+    - biolink:Disease
+    - biolink:DiseaseOrPhenotypicFeature
+    enum:
+    - '0'
+    - '1'
+    - '>1'
+    type: string  
+  MaleInfertilityDx:
+    categories:
+    - biolink:Disease
+    - biolink:DiseaseOrPhenotypicFeature
+    enum:
+    - '0'
+    - '1'
+    - '>1'
+    type: string  
+  LungTransplant:
+    categories:
+    - biolink:ClinicalIntervention
+    - biolink:PhenotypicFeature
+    - biolink:DiseaseOrPhenotypicFeature
+    enum: 
+    - 'No'
+    - 'Yes'
+    type: string
+  NitricOxideRx:
+    categories:
+    - biolink:ChemicalEntity
+    - biolink:ChemicalExposure
+    - biolink:Drug
+    enum:
+    - '0'
+    - '1'
+    - '>1'
+    type: string
+  TrikaftaRx:
+    categories:
+    - biolink:ChemicalEntity
+    - biolink:ChemicalExposure
+    - biolink:Drug
+    enum:
+    - '0'
+    - '1'
+    - '>1'
+    type: string
+  OrkambiRx:
+    categories:
+    - biolink:ChemicalEntity
+    - biolink:ChemicalExposure
+    - biolink:Drug
+    enum:
+    - '0'
+    - '1'
+    - '>1'
+    type: string
+  IvacaftorRx:
+    categories:
+    - biolink:ChemicalEntity
+    - biolink:ChemicalExposure
+    - biolink:Drug
+    enum:
+    - '0'
+    - '1'
+    - '>1'
+    type: string
+  AntihistamineRx:
+    categories:
+    - biolink:ChemicalEntity
+    - biolink:ChemicalExposure
+    - biolink:Drug
+    enum:
+    - '0'
+    - '1'
+    - '>1'
+    type: string
+  TobramycinRx:
+    categories:
+    - biolink:ChemicalEntity
+    - biolink:ChemicalExposure
+    - biolink:Drug
+    enum:
+    - '0'
+    - '1'
+    - '>1'
+    type: string
+  AztreonamRx:
+    categories:
+    - biolink:ChemicalEntity
+    - biolink:ChemicalExposure
+    - biolink:Drug
+    enum:
+    - '0'
+    - '1'
+    - '>1'
+    type: string
+  AzythromycinRx:
+    categories:
+    - biolink:ChemicalEntity
+    - biolink:ChemicalExposure
+    - biolink:Drug
+    enum:
+    - '0'
+    - '1'
+    - '>1'
+    type: string
+  ClarithromycinRx:
+    categories:
+    - biolink:ChemicalEntity
+    - biolink:ChemicalExposure
+    - biolink:Drug
+    enum:
+    - '0'
+    - '1'
+    - '>1'
+    type: string
+  VitaminA_Rx:
+    categories:
+    - biolink:ChemicalEntity
+    - biolink:ChemicalExposure
+    - biolink:Drug
+    enum:
+    - '0'
+    - '1'
+    - '>1'
+    type: string
+  VitaminB_Rx:
+    categories:
+    - biolink:ChemicalEntity
+    - biolink:ChemicalExposure
+    - biolink:Drug
+    enum:
+    - '0'
+    - '1'
+    - '>1'
+    type: string
+  VitaminK_Rx:
+    categories:
+    - biolink:ChemicalEntity
+    - biolink:ChemicalExposure
+    - biolink:Drug
+    enum:
+    - '0'
+    - '1'
+    - '>1'
+    type: string
+  PulmozymeRx:
+    categories:
+    - biolink:ChemicalEntity
+    - biolink:ChemicalExposure
+    - biolink:Drug
+    enum:
+    - '0'
+    - '1'
+    - '>1'
+    type: string
+  ImatinibRx:
+    categories:
+    - biolink:ChemicalEntity
+    - biolink:ChemicalExposure
+    - biolink:Drug
+    enum:
+    - '0'
+    - '1'
+    - '>1'
+    type: string  
   year:
     categories: []
     maximum: 2021
@@ -21,10 +351,6 @@ patient:
     - 'No'
     - 'Yes'
     type: string
-  AADT:
-    categories:
-    - biolink:EnvironmentalExposure
-    type: integer
   ALT:
     categories:
     - biolink:PhenotypicFeature
@@ -257,7 +583,7 @@ patient:
     type: string
   Albuterol:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
     enum: &id024
@@ -326,7 +652,7 @@ patient:
     type: string
   Amiodarone_gtt:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
     enum: &id029
@@ -343,7 +669,7 @@ patient:
     type: integer
   Anakinra:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
     enum: &id030
@@ -353,7 +679,7 @@ patient:
     type: string
   Androstenedione:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
     enum: &id031
@@ -411,7 +737,7 @@ patient:
     type: string
   Antibiotics:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
     enum: &id038
@@ -430,7 +756,7 @@ patient:
     type: string
   Arformoterol:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
     enum: &id040
@@ -467,217 +793,217 @@ patient:
     type: string
   Avg24hAcetaldehydeExposure_2:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:SmallMolecule
     - biolink:ChemicalExposure
     maximum: 5
     minimum: 1
     type: integer
   AvgDailyAcetaldehydeExposure_2:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:SmallMolecule
     - biolink:ChemicalExposure
     maximum: 5
     minimum: 1
     type: integer
   AvgDailyAcetaldehydeExposure_2_qcut:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:SmallMolecule
     - biolink:ChemicalExposure
     maximum: 5
     minimum: 1
     type: integer
   AvgDailyBenzeneExposure_2:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:SmallMolecule
     - biolink:ChemicalExposure
     maximum: 5
     minimum: 1
     type: integer
   AvgDailyBenzeneExposure_2_qcut:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:SmallMolecule
     - biolink:ChemicalExposure
     maximum: 5
     minimum: 1
     type: integer
   AvgDailyCOExposure_2:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:SmallMolecule
     - biolink:ChemicalExposure
     maximum: 5
     minimum: 1
     type: integer
   AvgDailyCOExposure_2_qcut:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:SmallMolecule
     - biolink:ChemicalExposure
     maximum: 5
     minimum: 1
     type: integer
   AvgDailyFormaldehydeExposure_2:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:SmallMolecule
     - biolink:ChemicalExposure
     maximum: 5
     minimum: 1
     type: integer
   AvgDailyFormaldehydeExposure_2_qcut:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:SmallMolecule
     - biolink:ChemicalExposure
     maximum: 5
     minimum: 1
     type: integer
   AvgDailyNO2Exposure_2:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:SmallMolecule
     - biolink:ChemicalExposure
     maximum: 5
     minimum: 1
     type: integer
   AvgDailyNO2Exposure_2_qcut:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:SmallMolecule
     - biolink:ChemicalExposure
     maximum: 5
     minimum: 1
     type: integer
   AvgDailyNOExposure_2:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:SmallMolecule
     - biolink:ChemicalExposure
     maximum: 5
     minimum: 1
     type: integer
   AvgDailyNOExposure_2_qcut:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:SmallMolecule
     - biolink:ChemicalExposure
     maximum: 5
     minimum: 1
     type: integer
   AvgDailyNOxExposure_2:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:SmallMolecule
     - biolink:ChemicalExposure
     maximum: 5
     minimum: 1
     type: integer
   AvgDailyNOxExposure_2_qcut:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:SmallMolecule
     - biolink:ChemicalExposure
     maximum: 5
     minimum: 1
     type: integer
   AvgDailyOzoneExposure:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:SmallMolecule
     - biolink:ChemicalExposure
     maximum: 5
     minimum: 1
     type: integer
   AvgDailyOzoneExposure_StudyAvg:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:SmallMolecule
     - biolink:ChemicalExposure
     maximum: 5
     minimum: 1
     type: integer
   AvgDailyOzoneExposure_StudyAvg_qcut:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:SmallMolecule
     - biolink:ChemicalExposure
     maximum: 5
     minimum: 1
     type: integer
   AvgDailyOzoneExposure_StudyMax:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:SmallMolecule
     - biolink:ChemicalExposure
     maximum: 5
     minimum: 1
     type: integer
   AvgDailyOzoneExposure_StudyMax_qcut:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:SmallMolecule
     - biolink:ChemicalExposure
     maximum: 5
     minimum: 1
     type: integer
   AvgDailyOzoneExposure_qcut:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:SmallMolecule
     - biolink:ChemicalExposure
     maximum: 5
     minimum: 1
     type: integer
   AvgDailyPM2.5Exposure:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:SmallMolecule
     - biolink:ChemicalExposure
     maximum: 5
     minimum: 1
     type: integer
   AvgDailyPM2.5Exposure_2:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:SmallMolecule
     - biolink:ChemicalExposure
     maximum: 5
     minimum: 1
     type: integer
   AvgDailyPM2.5Exposure_2_qcut:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:SmallMolecule
     - biolink:ChemicalExposure
     maximum: 5
     minimum: 1
     type: integer
   AvgDailyPM2.5Exposure_StudyAvg:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:SmallMolecule
     - biolink:ChemicalExposure
     maximum: 5
     minimum: 1
     type: integer
   AvgDailyPM2.5Exposure_StudyAvg_qcut:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:SmallMolecule
     - biolink:ChemicalExposure
     maximum: 5
     minimum: 1
     type: integer
   AvgDailyPM2.5Exposure_StudyMax:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:SmallMolecule
     - biolink:ChemicalExposure
     maximum: 5
     minimum: 1
     type: integer
   AvgDailyPM2.5Exposure_StudyMax_qcut:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:SmallMolecule
     - biolink:ChemicalExposure
     maximum: 5
     minimum: 1
     type: integer
   AvgDailyPM2.5Exposure_qcut:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:SmallMolecule
     - biolink:ChemicalExposure
     maximum: 5
     minimum: 1
     type: integer
   AvgDailySO2Exposure_2:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:SmallMolecule
     - biolink:ChemicalExposure
     maximum: 5
     minimum: 1
     type: integer
   AvgDailySO2Exposure_2_qcut:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:SmallMolecule
     - biolink:ChemicalExposure
     maximum: 5
     minimum: 1
@@ -732,7 +1058,7 @@ patient:
     type: string
   Beclomethasone:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
     enum: &id049
@@ -769,7 +1095,7 @@ patient:
     categories:
     - biolink:PhenotypicFeature
     enum: &id050
-    - 'A+ '
+    - A+
     - A-
     - B+
     - B-
@@ -835,7 +1161,7 @@ patient:
     type: string
   Budesonide:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
     enum: &id058
@@ -868,6 +1194,8 @@ patient:
     type: string
   CAFO_Exposure:
     categories:
+    - biolink:ChemicalEntity
+    - biolink:ComplexMolecularMixture
     - biolink:EnvironmentalExposure
     maximum: 6
     minimum: 1
@@ -897,7 +1225,7 @@ patient:
     type: string
   CRRT_HD:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
     enum: &id065
@@ -946,7 +1274,7 @@ patient:
     type: string
   Cetirizine:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
     enum: &id070
@@ -1025,7 +1353,7 @@ patient:
     type: string
   Ciclesonide:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
     enum: &id077
@@ -1044,7 +1372,7 @@ patient:
     type: string
   Citalopram:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
     enum: &id079
@@ -1052,6 +1380,30 @@ patient:
     - '1'
     - '>1'
     type: string
+  CLARK_prediction:
+    categories:
+    - biolink:Disease
+    - biolink:PhenotypicFeature
+    - biolink:DiseaseOrPhenotypicFeature
+    maximum: 1
+    minimum: 0
+    type: integer
+  CLARK_prediction_NotPCD:
+    categories:
+    - biolink:Disease
+    - biolink:PhenotypicFeature
+    - biolink:DiseaseOrPhenotypicFeature
+    maximum: 1
+    minimum: 0
+    type: integer
+  CLARK_prediction_PCD:
+    categories:
+    - biolink:Disease
+    - biolink:PhenotypicFeature
+    - biolink:DiseaseOrPhenotypicFeature
+    maximum: 1
+    minimum: 0
+    type: integer
   ConcomitantDrugs:
     categories:
     - biolink:PhenotypicFeature
@@ -1060,6 +1412,30 @@ patient:
     - 0-2
     - 3-4
     - '>5'
+    type: string
+  Confirmed_CF_Dx:
+    categories:
+    - biolink:Disease
+    - biolink:DiseaseOrPhenotypicFeature
+    enum:
+    - '0'
+    - '1'
+    type: string
+  Confirmed_IdiopathicBronchiectasisDx:
+    categories:
+    - biolink:Disease
+    - biolink:DiseaseOrPhenotypicFeature
+    enum:
+    - '0'
+    - '1'
+    type: string
+  Confirmed_PCD_Dx:
+    categories:
+    - biolink:Disease
+    - biolink:DiseaseOrPhenotypicFeature
+    enum:
+    - '0'
+    - '1'
     type: string
   CongestiveHeartFailure:
     categories:
@@ -1071,7 +1447,7 @@ patient:
     type: string
   ConvalescentPlasma:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
     enum: &id082
@@ -1313,7 +1689,7 @@ patient:
     type: string
   Dexamethasone:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
     enum: &id102
@@ -1340,7 +1716,7 @@ patient:
     type: string
   Diphenhydramine:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
     enum: &id105
@@ -1356,7 +1732,7 @@ patient:
     type: string
   Dobutamine_gtt:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
     enum: &id106
@@ -1366,7 +1742,7 @@ patient:
     type: string
   Dopamine_gtt:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
     enum: &id107
@@ -1393,7 +1769,7 @@ patient:
     type: string
   Duloxetine:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
     enum: &id110
@@ -1403,7 +1779,7 @@ patient:
     type: string
   ECLS:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
     enum: &id111
@@ -1519,7 +1895,7 @@ patient:
     type: string
   Epinephrine_gtt:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
     enum: &id115
@@ -1552,7 +1928,7 @@ patient:
     type: string
   Escitalopram:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
     enum: &id119
@@ -1562,7 +1938,7 @@ patient:
     type: string
   Esmolol_gtt:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
     enum: &id120
@@ -1634,7 +2010,7 @@ patient:
     type: string
   Estradiol:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
     enum: &id122
@@ -1644,7 +2020,7 @@ patient:
     type: string
   Estrogen:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
     enum: &id123
@@ -1654,7 +2030,7 @@ patient:
     type: string
   Estropipate:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
     enum: &id124
@@ -1680,9 +2056,7 @@ patient:
     type: string
   ExtracorporealVentilationORSystemicAssistance:
     categories:
-    - biolink:ChemicalSubstance
-    - biolink:ChemicalExposure
-    - biolink:Drug
+    - biolink:ClinicalIntervention
     enum: &id127
     - '0'
     - '1'
@@ -1730,7 +2104,7 @@ patient:
     type: string
   Fexofenadine:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
     enum: &id134
@@ -1761,7 +2135,7 @@ patient:
     type: string
   Flunisolide:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
     enum: &id137
@@ -1771,7 +2145,7 @@ patient:
     type: string
   Fluoxetine:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
     enum: &id138
@@ -1781,7 +2155,7 @@ patient:
     type: string
   Fluticasone:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
     enum: &id139
@@ -1791,13 +2165,82 @@ patient:
     type: string
   Formoterol:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
     enum: &id140
     - '0'
     - '1'
     - '>1'
+    type: string
+  FVC:
+    categories:
+    - biolink:PhenotypicFeature
+    enum:
+    - "0"
+    - "1"
+    type: integer
+  FVC_flag_first:
+    categories:
+    - biolink:PhenotypicFeature
+    enum:
+    - low
+    - normal
+    - high
+    type: string
+  FVC_flag_last:
+    categories:
+    - biolink:PhenotypicFeature
+    enum:
+    - low
+    - normal
+    - high
+    type: string
+  FEV:
+    categories:
+    - biolink:PhenotypicFeature
+    enum:
+    - "0"
+    - "1"
+    type: integer
+  FEV_flag_first:
+    categories:
+    - biolink:PhenotypicFeature
+    enum:
+    - low
+    - normal
+    - high
+    type: string
+  FEV_flag_last:
+    categories:
+    - biolink:PhenotypicFeature
+    enum:
+    - low
+    - normal
+    - high
+    type: string
+  FEV1_FVC:
+    categories:
+    - biolink:PhenotypicFeature
+    enum:
+    - "0"
+    - "1"
+    type: integer
+  # FEV1_FVC_flag_last:
+  #   categories:
+  #   - biolink:PhenotypicFeature
+  #   enum:
+  #   - low
+  #   - normal
+  #   - high
+  #   type: string
+  FEV1_FVC_flag_last:
+    categories:
+    - biolink:PhenotypicFeature
+    enum:
+    - low
+    - normal
+    - high
     type: string
   GENDER:
     categories:
@@ -1825,7 +2268,7 @@ patient:
     type: string
   Goserelin:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
     enum: &id144
@@ -1924,29 +2367,29 @@ patient:
     - 'No'
     - 'Yes'
     type: string
-  Hemoglobin:
-    categories:
-    - biolink:PhenotypicFeature
-    enum: &id156
-    - "0"
-    - "1"
-    type: integer
-  Hemoglobin_flag_first:
-    categories:
-    - biolink:PhenotypicFeature
-    enum: &id157
-    - low
-    - normal
-    - high
-    type: string
-  Hemoglobin_flag_last:
-    categories:
-    - biolink:PhenotypicFeature
-    enum: &id158
-    - low
-    - normal
-    - high
-    type: string
+  # Hemoglobin:
+  #   categories:
+  #   - biolink:PhenotypicFeature
+  #   enum: &id156
+  #   - "0"
+  #   - "1"
+  #   type: integer
+  # Hemoglobin_flag_first:
+  #   categories:
+  #   - biolink:PhenotypicFeature
+  #   enum: &id157
+  #   - low
+  #   - normal
+  #   - high
+  #   type: string
+  # Hemoglobin_flag_last:
+  #   categories:
+  #   - biolink:PhenotypicFeature
+  #   enum: &id158
+  #   - low
+  #   - normal
+  #   - high
+  #   type: string
   HepatitisA:
     categories:
     - biolink:PhenotypicFeature
@@ -1981,9 +2424,7 @@ patient:
     type: string
   HighFlowNasalCannula:
     categories:
-    - biolink:ChemicalSubstance
-    - biolink:ChemicalExposure
-    - biolink:Drug
+    - biolink:ClinicalIntervention
     enum: &id163
     - '0'
     - '1'
@@ -1991,7 +2432,7 @@ patient:
     type: string
   Histrelin:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
     enum: &id164
@@ -2006,16 +2447,15 @@ patient:
     type: integer
   Hospitalization_NewProlonged:
     categories:
-    - biolink:ActivityAndBehavior
-    - biolink:PhenotypicFeature
-    - biolink:DiseaseOrPhenotypicFeature
+    - biolink:ClinicalIntervention
+    - biolink:Hospitalization
     enum: &id165
     - 'No'
     - 'Yes'
     type: string
   Hydroxychloroquine:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
     enum: &id166
@@ -2025,7 +2465,7 @@ patient:
     type: string
   Hydroxyzine:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
     enum: &id167
@@ -2118,7 +2558,7 @@ patient:
     type: string
   Implicated_Drug1_Assessment:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
     enum: &id176
@@ -2129,7 +2569,7 @@ patient:
     type: string
   Implicated_Drug2_Assessment:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
     enum: &id177
@@ -2140,7 +2580,7 @@ patient:
     type: string
   Implicated_Drug3_Assessment:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
     enum: &id178
@@ -2151,7 +2591,7 @@ patient:
     type: string
   Indacaterol:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
     enum: &id179
@@ -2178,7 +2618,7 @@ patient:
     type: string
   IntravenousImmunoglobulin:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
     enum: &id181
@@ -2188,9 +2628,7 @@ patient:
     type: string
   InvasiveVentilation:
     categories:
-    - biolink:ChemicalSubstance
-    - biolink:ChemicalExposure
-    - biolink:Drug
+    - biolink:ClinicalIntervention
     enum: &id182
     - '0'
     - '1'
@@ -2198,7 +2636,7 @@ patient:
     type: string
   Ipratropium:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
     enum: &id183
@@ -2216,7 +2654,8 @@ patient:
     - 'Yes'
     type: string
   IsolationFlag:
-    categories: []
+    categories:
+    - biolink:ClinicalIntervention
     enum: &id185
     - '0'
     - '1'
@@ -2224,7 +2663,7 @@ patient:
     type: string
   Isoproterenol_gtt:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
     enum: &id186
@@ -2306,6 +2745,8 @@ patient:
     type: string
   Landfill_Exposure:
     categories:
+    - biolink:ChemicalEntity
+    - biolink:ComplexMolecularMixture
     - biolink:EnvironmentalExposure
     maximum: 6
     minimum: 1
@@ -2325,7 +2766,7 @@ patient:
     type: string
   Leuprolide:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
     enum: &id197
@@ -2335,7 +2776,7 @@ patient:
     type: string
   Levosimendan_gtt:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
     enum: &id198
@@ -2390,12 +2831,16 @@ patient:
     type: integer
   MajorRoadwayHighwayExposure:
     categories:
+    - biolink:ChemicalEntity
+    - biolink:ComplexMolecularMixture
     - biolink:EnvironmentalExposure
     maximum: 6
     minimum: 1
     type: integer
   MajorRoadwayHighwayExposure2:
     categories:
+    - biolink:ChemicalEntity
+    - biolink:ComplexMolecularMixture
     - biolink:EnvironmentalExposure
     maximum: 6
     minimum: 1
@@ -2419,105 +2864,105 @@ patient:
     type: string
   MaxDailyOzoneExposure:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:SmallMolecule
     - biolink:ChemicalExposure
     maximum: 5
     minimum: 1
     type: integer
   MaxDailyOzoneExposure_2:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:SmallMolecule
     - biolink:ChemicalExposure
     maximum: 5
     minimum: 1
     type: integer
   MaxDailyOzoneExposure_2_qcut:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:SmallMolecule
     - biolink:ChemicalExposure
     maximum: 5
     minimum: 1
     type: integer
   MaxDailyOzoneExposure_StudyAvg:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:SmallMolecule
     - biolink:ChemicalExposure
     maximum: 5
     minimum: 1
     type: integer
   MaxDailyOzoneExposure_StudyAvg_qcut:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:SmallMolecule
     - biolink:ChemicalExposure
     maximum: 5
     minimum: 1
     type: integer
   MaxDailyOzoneExposure_StudyMax:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:SmallMolecule
     - biolink:ChemicalExposure
     maximum: 5
     minimum: 1
     type: integer
   MaxDailyOzoneExposure_StudyMax_qcut:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:SmallMolecule
     - biolink:ChemicalExposure
     maximum: 5
     minimum: 1
     type: integer
   MaxDailyOzoneExposure_qcut:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:SmallMolecule
     - biolink:ChemicalExposure
     maximum: 5
     minimum: 1
     type: integer
   MaxDailyPM2.5Exposure:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:SmallMolecule
     - biolink:ChemicalExposure
     maximum: 5
     minimum: 1
     type: integer
   MaxDailyPM2.5Exposure_StudyAvg:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:SmallMolecule
     - biolink:ChemicalExposure
     maximum: 5
     minimum: 1
     type: integer
   MaxDailyPM2.5Exposure_StudyAvg_qcut:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:SmallMolecule
     - biolink:ChemicalExposure
     maximum: 5
     minimum: 1
     type: integer
   MaxDailyPM2.5Exposure_StudyMax:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:SmallMolecule
     - biolink:ChemicalExposure
     maximum: 5
     minimum: 1
     type: integer
   MaxDailyPM2.5Exposure_StudyMax_qcut:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:SmallMolecule
     - biolink:ChemicalExposure
     maximum: 5
     minimum: 1
     type: integer
   MaxDailyPM2.5Exposure_qcut:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:SmallMolecule
     - biolink:ChemicalExposure
     maximum: 5
     minimum: 1
     type: integer
   Medroxyprogresterone:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
     enum: &id205
@@ -2535,7 +2980,7 @@ patient:
     type: string
   Mepolizumab:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
     enum: &id207
@@ -2545,7 +2990,7 @@ patient:
     type: string
   Metaproterenol:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
     enum: &id208
@@ -2555,7 +3000,7 @@ patient:
     type: string
   Metformin:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
     enum: &id209
@@ -2574,7 +3019,7 @@ patient:
     type: string
   Milrinone_gtt:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
     enum: &id211
@@ -2584,7 +3029,7 @@ patient:
     type: string
   Mometasone:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
     enum: &id212
@@ -2602,7 +3047,7 @@ patient:
     type: string
   Nandrolone:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
     enum: &id214
@@ -2646,7 +3091,7 @@ patient:
     type: string
   NitricOxideOrFolan:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
     enum: &id219
@@ -2656,9 +3101,7 @@ patient:
     type: string
   NonInvasivePositivePressureVentilation:
     categories:
-    - biolink:ChemicalSubstance
-    - biolink:ChemicalExposure
-    - biolink:Drug
+    - biolink:ClinicalIntervention
     enum: &id220
     - '0'
     - '1'
@@ -2666,7 +3109,7 @@ patient:
     type: string
   Norepinephrine_gtt:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
     enum: &id221
@@ -2699,6 +3142,7 @@ patient:
     type: string
   ObesityBMI:
     categories:
+    - biolink:PhenotypicFeature
     - biolink:DiseaseOrPhenotypicFeature
     enum: &id223
     - '0'
@@ -2716,7 +3160,7 @@ patient:
     type: string
   Omalizumab:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
     enum: &id225
@@ -2780,7 +3224,7 @@ patient:
     type: integer
   Paroxetine:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
     enum: &id230
@@ -2799,7 +3243,7 @@ patient:
     type: string
   Phenylephrine_gtt:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
     enum: &id232
@@ -2841,7 +3285,7 @@ patient:
     type: string
   Prasterone:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
     enum: &id237
@@ -2851,7 +3295,7 @@ patient:
     type: string
   Prednisone:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
     enum: &id238
@@ -2861,7 +3305,7 @@ patient:
     type: string
   PrednisoneOrCorticosteroids_Tx:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
     enum: &id239
@@ -2870,7 +3314,7 @@ patient:
     type: string
   PrednisoneOrMethylprednisone:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
     enum: &id240
@@ -2929,7 +3373,7 @@ patient:
     type: string
   Progesterone:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
     enum: &id247
@@ -2939,7 +3383,7 @@ patient:
     type: string
   Propranolol:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
     enum: &id248
@@ -2963,6 +3407,29 @@ patient:
     enum: &id250
     - 'No'
     - 'Yes'
+    type: string
+  PulseOximetry:
+    categories:
+    - biolink:PhenotypicFeature
+    enum: 
+    - "0"
+    - "1"
+    type: integer
+  PulseOximetry_flag_first:
+    categories:
+    - biolink:PhenotypicFeature
+    enum: 
+    - low
+    - normal
+    - high
+    type: string
+  PulseOximetry_flag_last:
+    categories:
+    - biolink:PhenotypicFeature
+    enum: 
+    - low
+    - normal
+    - high
     type: string
   QXAGE:
     categories:
@@ -3061,7 +3528,7 @@ patient:
     type: string
   Remdesivir:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
     enum: &id260
@@ -3077,7 +3544,7 @@ patient:
     - 'No'
     - 'Yes'
     type: string
-  RespiratorySupportSupplementalO2:
+  SupplementalOxygen:
     categories:
     - biolink:ChemicalSubstance
     - biolink:ChemicalExposure
@@ -3087,10 +3554,6 @@ patient:
     - '1'
     - '>1'
     type: string
-  RoadwayAADT:
-    categories:
-    - biolink:EnvironmentalExposure
-    type: integer
   RoadwayDistanceExposure:
     categories:
     - biolink:EnvironmentalExposure
@@ -3102,14 +3565,6 @@ patient:
     - biolink:EnvironmentalExposure
     maximum: 6
     minimum: 1
-    type: integer
-  RoadwayLanes:
-    categories:
-    - biolink:EnvironmentalExposure
-    type: integer
-  RoadwaySpeedLimit:
-    categories:
-    - biolink:EnvironmentalExposure
     type: integer
   RoadwayType:
     categories:
@@ -3167,7 +3622,7 @@ patient:
     type: integer
   Salmeterol:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
     enum: &id269
@@ -3177,7 +3632,7 @@ patient:
     type: string
   Sertraline:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
     enum: &id270
@@ -3373,8 +3828,9 @@ patient:
     type: string
   SmokingStatus:
     categories:
+    - biolink:PhenotypicFeature
+    - biolink:DiseaseOrPhenotypicFeature
     - biolink:ChemicalExposure
-    - biolink:ChemicalSubstance
     enum: &id295
     - '0'
     - '1'
@@ -3402,6 +3858,14 @@ patient:
     - low
     - normal
     - high
+    type: string
+  SputumCulture:
+    categories:
+    - biolink:PhenotypicFeature
+    - biolink:DiseaseOrPhenotypicFeature
+    enum: 
+    - 'Negative'
+    - 'Positive'
     type: string
   StevensJohnsonSyndrome:
     categories:
@@ -3434,10 +3898,6 @@ patient:
     - normal
     - high
     type: string
-  THROUGH_LANES:
-    categories:
-    - biolink:EnvironmentalExposure
-    type: integer
   TLR4_AGE:
     categories:
     - biolink:PhenotypicFeature
@@ -3497,7 +3957,7 @@ patient:
     type: integer
   Tamoxifen:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
     enum: &id305
@@ -3525,7 +3985,7 @@ patient:
     type: string
   Testosterone:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
     enum: &id308
@@ -3535,7 +3995,7 @@ patient:
     type: string
   Theophylline:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
     enum: &id309
@@ -3554,7 +4014,7 @@ patient:
     type: string
   Tocilizumab:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
     enum: &id311
@@ -3564,7 +4024,8 @@ patient:
     type: string
   TotalEDInpatientVisits:
     categories:
-    - biolink:ActivityAndBehavior
+    - biolink:ClinicalIntervention
+    - biolink:Hospitalization
     enum: &id001
     - '0'
     - '1'
@@ -3580,17 +4041,17 @@ patient:
     type: string
   TotalEDVisits:
     categories:
-    - biolink:ActivityAndBehavior
+    - biolink:ClinicalIntervention
     enum: *id001
     type: string
   TotalInpatientVisits:
     categories:
-    - biolink:ActivityAndBehavior
+    - biolink:ClinicalIntervention
     enum: *id001
     type: string
   Trazodone:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
     enum: &id312
@@ -3600,7 +4061,7 @@ patient:
     type: string
   Triptorelin:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
     enum: &id313
@@ -3651,7 +4112,7 @@ patient:
     type: string
   Vasopressin_gtt:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
     enum: &id319
@@ -3661,7 +4122,7 @@ patient:
     type: string
   Venlafaxine:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
     enum: &id320
@@ -3671,9 +4132,7 @@ patient:
     type: string
   Ventilation:
     categories:
-    - biolink:ChemicalSubstance
-    - biolink:ChemicalExposure
-    - biolink:Drug
+    - biolink:ClinicalIntervention
     enum: &id321
     - '0'
     - '1'
@@ -3681,7 +4140,7 @@ patient:
     type: string
   Ventilator:
     categories:
-    - biolink:Device
+    - biolink:ClinicalIntervention
     enum: &id322
     - '0'
     - '1'
@@ -3808,7 +4267,7 @@ patient:
     type: number
   WHONAME_Implicated_Drug1:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
     enum: &id326
@@ -3817,7 +4276,7 @@ patient:
     type: string
   WHONAME_Implicated_Drug2:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
     enum: &id327
@@ -3841,7 +4300,7 @@ patient:
     type: string
   WHONAME_Implicated_Drug3:
     categories:
-    - biolink:ChemicalSubstance
+    - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
     enum: &id328
@@ -4224,8 +4683,7 @@ patient:
     type: string
   ea_a060_pest_regularly:
     categories:
-    - biolink:ChemicalSubstance
-    - biolink:ChemicalExposure
+    - biolink:EnvironmentalExposure
     enum: &id369
     - '0'
     - '1'
@@ -4233,8 +4691,7 @@ patient:
     type: string
   ea_a061a_pest_ants:
     categories:
-    - biolink:ChemicalSubstance
-    - biolink:ChemicalExposure
+    - biolink:EnvironmentalExposure
     enum: &id370
     - '0'
     - '1'
@@ -4242,8 +4699,7 @@ patient:
     type: string
   ea_a061b_pest_cockroaches:
     categories:
-    - biolink:ChemicalSubstance
-    - biolink:ChemicalExposure
+    - biolink:EnvironmentalExposure
     enum: &id371
     - '0'
     - '1'
@@ -4251,8 +4707,7 @@ patient:
     type: string
   ea_a061c_pest_bees_wasps:
     categories:
-    - biolink:ChemicalSubstance
-    - biolink:ChemicalExposure
+    - biolink:EnvironmentalExposure
     enum: &id372
     - '0'
     - '1'
@@ -4260,8 +4715,7 @@ patient:
     type: string
   ea_a061d_pest_flies:
     categories:
-    - biolink:ChemicalSubstance
-    - biolink:ChemicalExposure
+    - biolink:EnvironmentalExposure
     enum: &id373
     - '0'
     - '1'
@@ -4269,8 +4723,7 @@ patient:
     type: string
   ea_a061e_pest_spiders:
     categories:
-    - biolink:ChemicalSubstance
-    - biolink:ChemicalExposure
+    - biolink:EnvironmentalExposure
     enum: &id374
     - '0'
     - '1'
@@ -4278,8 +4731,7 @@ patient:
     type: string
   ea_a061f_pest_mosquitos:
     categories:
-    - biolink:ChemicalSubstance
-    - biolink:ChemicalExposure
+    - biolink:EnvironmentalExposure
     enum: &id375
     - '0'
     - '1'
@@ -4287,8 +4739,7 @@ patient:
     type: string
   ea_a061g_pest_flea_ticks:
     categories:
-    - biolink:ChemicalSubstance
-    - biolink:ChemicalExposure
+    - biolink:EnvironmentalExposure
     enum: &id376
     - '0'
     - '1'
@@ -4296,8 +4747,7 @@ patient:
     type: string
   ea_a061h_pest_termite:
     categories:
-    - biolink:ChemicalSubstance
-    - biolink:ChemicalExposure
+    - biolink:EnvironmentalExposure
     enum: &id377
     - '0'
     - '1'
@@ -4305,8 +4755,7 @@ patient:
     type: string
   ea_a061i_pest_other:
     categories:
-    - biolink:ChemicalSubstance
-    - biolink:ChemicalExposure
+    - biolink:EnvironmentalExposure
     enum: &id378
     - '0'
     - '1'
@@ -4945,8 +5394,7 @@ patient:
     type: string
   ea_b122_pest_d:
     categories:
-    - biolink:ChemicalSubstance
-    - biolink:ChemicalExposure
+    - biolink:EnvironmentalExposure
     enum: &id447
     - '0'
     - '1'
@@ -5017,8 +5465,7 @@ patient:
     type: string
   ea_b122h_pest_other:
     categories:
-    - biolink:ChemicalSubstance
-    - biolink:ChemicalExposure
+    - biolink:EnvironmentalExposure
     enum: &id455
     - '0'
     - '1'
@@ -5026,8 +5473,7 @@ patient:
     type: string
   ea_b127a_pest_ongoing_d:
     categories:
-    - biolink:ChemicalSubstance
-    - biolink:ChemicalExposure
+    - biolink:EnvironmentalExposure
     enum: &id456
     - '0'
     - '1'
@@ -7227,7 +7673,8 @@ patient:
     type: string
   he_a004a_birth_low_bw:
     categories:
-      - biolink:NamedThing
+      - biolink:PhenotypicFeature
+      - biolink:DiseaseOrPhenotypicFeature
     enum: &id696
     - '0'
     - '1'
@@ -7235,7 +7682,8 @@ patient:
     type: string
   he_a004b_birth_preterm:
     categories:
-      - biolink:NamedThing
+      - biolink:PhenotypicFeature
+      - biolink:DiseaseOrPhenotypicFeature
     enum: &id697
     - '0'
     - '1'
@@ -7243,7 +7691,8 @@ patient:
     type: string
   he_a004c_birth_multi:
     categories:
-      - biolink:NamedThing
+      - biolink:PhenotypicFeature
+      - biolink:DiseaseOrPhenotypicFeature
     enum: &id698
     - Twin
     - Triplet
@@ -18256,7 +18705,7 @@ visit:
     type: string
   CodeBlueVisit:
     categories:
-    - biolink:NamedThing
+    - biolink:ClinicalIntervention
     enum:
     - '0'
     - '1'
@@ -19618,7 +20067,7 @@ visit:
     type: string
   IsolationFlag:
     categories:
-      - biolink:NamedThing
+      - biolink:ClinicalIntervention
     enum: *id185
     type: string
   IsolationFlagVisit:
@@ -20639,45 +21088,6 @@ visit:
   RenalDiseaseVisit:
     categories: []
     enum: *id261
-    type: string
-  RespiratorySupportHNO3orFlolan:
-    categories:
-    - biolink:ChemicalSubstance
-    - biolink:ChemicalExposure
-    - biolink:Drug
-    enum:
-    - '0'
-    - '1'
-    - '>1'
-    type: string
-  RespiratorySupportHFNC:
-    categories:
-    - biolink:ClinicalIntervention
-    - biolink:ChemicalExposure
-    enum:
-    - '0'
-    - '1'
-    - '>1'
-    type: string
-  RespiratorySupportInvasiveVentilator:
-    categories:
-    - biolink:ChemicalSubstance
-    - biolink:ChemicalExposure
-    - biolink:Drug
-    enum:
-    - '0'
-    - '1'
-    - '>1'
-    type: string
-  RespiratorySupportNIPPV:
-    categories:
-    - biolink:ChemicalSubstance
-    - biolink:ChemicalExposure
-    - biolink:Drug
-    enum:
-    - '0'
-    - '1'
-    - '>1'
     type: string
   RespiratorySupportSupplementalO2:
     categories: []
