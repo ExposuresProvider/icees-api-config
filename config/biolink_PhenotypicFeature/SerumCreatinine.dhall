@@ -14,7 +14,7 @@ in {
         "RxNorm:2913",
         "NCIT:C121106",
         "NCIT:C14784",
-        "UMLSCUI:C4055609"
+        "UMLS:C4055609"
     ],
     mapping = generic_fhir_mapping [
         {

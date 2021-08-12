@@ -7,17 +7,17 @@ in {
         "CHEBI:30396",
         "LOINC:LA22405-7",
         "LOINC:LP14752-7",
-        "RxNORM:216068",
-        "RxNORM:92197",
-        "RxNORM:405069",
+        "RxNorm:216068",
+        "RxNorm:92197",
+        "RxNorm:405069",
         "NCIT:C45997",
-        "UMLSCUI:C4048290",
+        "UMLS:C4048290",
         "NCIT:C133500",
-        "UMLSCUI:CL521348",
+        "UMLS:CL521348",
         "NCIT:C63342",
-        "UMLSCUI:C1882074",
+        "UMLS:C1882074",
         "NCIT:C62981",
-        "UMLSCUI:C1881695"
+        "UMLS:C1881695"
     ],
     mapping = generic_fhir_mapping [
         {

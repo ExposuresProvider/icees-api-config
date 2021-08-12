@@ -5,10 +5,10 @@ in {
     name = "Troponin",
     identifiers = [
         "NCIT:C111327",
-        "UMLSCUI:C0523952",
+        "UMLS:C0523952",
         "MONDO:0011539",
         "NCIT:C104220",
-        "UMLSCUI:C3538889",
+        "UMLS:C3538889",
         "LOINC:LG433-9",
         "LOINC:LG19584-8",
         "LOINC:LG13250-2",

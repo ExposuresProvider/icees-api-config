@@ -4,9 +4,9 @@ in {
     name = "Sex",
     identifiers = [
         "NCIT:C28421",
-        "UMLSCUI:C1522384",
+        "UMLS:C1522384",
         "NCIT:C93992",
-        "UMLSCUI:C2986190",
+        "UMLS:C2986190",
         "SCTID:734000001",
         "UMLS:C0009990",
         "MESH:C110500",

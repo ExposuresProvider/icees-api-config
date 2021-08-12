@@ -9,7 +9,7 @@ in {
         "SCTID:1019221000000107",
         "LOINC:LP15987-8",
         "NCIT:C82621",
-        "UMLSCUI:C2826333",
+        "UMLS:C2826333",
         "NCIT:C161494"
     ],
     mapping = generic_fhir_mapping [

@@ -8,7 +8,7 @@ in {
         "MONDO:0011751",
         "MONDO:0005002",
         "NCIT:C3199",
-        "UMLSCUI:C0024117",
+        "UMLS:C0024117",
         "LOINC:LA28200-6",
         "LOINC:LA27422-7",
         "LOINC:LA27514-1",

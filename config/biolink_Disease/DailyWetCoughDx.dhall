@@ -27,7 +27,7 @@ in {
     binning_strategy = max_cutoff 2,
     identifiers = [
         "NCIT:C78569",
-        "UMLSCUI:C0451597",
+        "UMLS:C0451597",
         "SCITD:139183005",
         "SCITD:267034005",
         "SCITD:161926007",

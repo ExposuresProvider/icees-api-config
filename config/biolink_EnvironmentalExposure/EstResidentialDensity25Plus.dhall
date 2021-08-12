@@ -7,7 +7,7 @@ in {
     name = "EstResidentialDensity25Plus",
     identifiers = [
         "NCIT:C45781",
-        "UMLSCUI:C0178587",
+        "UMLS:C0178587",
         "SCTID:272497004"
     ],
     mapping = geoid_mapping {

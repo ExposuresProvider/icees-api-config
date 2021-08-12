@@ -6,7 +6,7 @@ in {
     name = "ImmunodulationAnakinra",
     identifiers = [
         "NCIT:C38717",
-        "UMLSCUI:C0245109",
+        "UMLS:C0245109",
         "SCITD:4751511000001100",
         "SCITD:385549000",
         "SCITD:395279009",

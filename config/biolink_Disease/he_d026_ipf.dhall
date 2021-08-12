@@ -6,7 +6,7 @@ in {
     name = "he_d026_ipf",
     identifiers = [
         "NCIT:C35716",
-        "UMLSCUI:C1800706",
+        "UMLS:C1800706",
         "SCITD:700250006",
         "SCITD:426437004",
         "SCITD:708537005",

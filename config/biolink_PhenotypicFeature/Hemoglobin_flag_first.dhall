@@ -6,7 +6,8 @@ in {
         feature_type = enum [
             "low",
             "normal",
-            "high"
+            "high",
+            "abnormal"
         ],
         categories = [
             "biolink:PhenotypicFeature"

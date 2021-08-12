@@ -22,7 +22,7 @@ in {
         "LOINC:LA14302-6",
         "LOINC:LA27854-1",
         "NCIT:C3123",
-        "UMLSCUI:C0020550",
+        "UMLS:C0020550",
         "NCIT:C143560",
         "NCIT:C129635",
         "NCIT:C113145",

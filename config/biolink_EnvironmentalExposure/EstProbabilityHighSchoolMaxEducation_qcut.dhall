@@ -7,9 +7,9 @@ in {
     name = "EstProbabilityHighSchoolMaxEducation_qcut",
     identifiers = [
         "NCIT:C89278",
-        "UMLSCUI:C0599395",
+        "UMLS:C0599395",
         "NCIT:C67136",
-        "UMLSCUI:C0870649",
+        "UMLS:C0870649",
         "SCTID:473461003"
     ],
     mapping = geoid_mapping {

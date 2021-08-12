@@ -12,11 +12,11 @@ in {
         "SCTID:313630000",
         "SCTID:313698005",
         "NCIT:C61027",
-        "UMLSCUI:C0202041",
+        "UMLS:C0202041",
         "NCIT:C55174",
-        "UMLSCUI:C1559925",
+        "UMLS:C1559925",
         "NCIT:C55175",
-        "UMLSCUI:C1559926"
+        "UMLS:C1559926"
     ],
     mapping = generic_fhir_mapping [
         {

@@ -9,9 +9,9 @@ in {
         "SCTID:165506007",
         "SCTID:142914005",
         "NCIT:C51948",
-        "UMLSCUI:C0023508",
+        "UMLS:C0023508",
         "NCIT:C35524",
-        "UMLSCUI:C0023518",
+        "UMLS:C0023518",
         "NCIT:C162110"
     ],
     mapping = generic_fhir_mapping [

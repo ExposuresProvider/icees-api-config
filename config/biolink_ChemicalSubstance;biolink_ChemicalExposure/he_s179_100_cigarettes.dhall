@@ -7,7 +7,7 @@ in {
     identifiers = [
         "NCIT:C127059",
         "NCIT:C1519386",
-        "UMLSCUI:C1519386",
+        "UMLS:C1519386",
         "MONDO:0008575",
         "LOINC:LP114183-9",
         "LOINC:LP156992-2",

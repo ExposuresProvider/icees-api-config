@@ -12,7 +12,7 @@ in {
         "MONDO:0015280",
         "MONDO:0010851",
         "NCIT:C50577",
-        "UMLSCUI:C0018801",
+        "UMLS:C0018801",
         "LOINC:LP269425-7",
         "LOINC:LP269421-6",
         "SCTID:84114007"

@@ -4,9 +4,9 @@ in {
     name = "Race",
     identifiers = [
         "NCIT:C17049",
-        "UMLSCUI:C0034510",
+        "UMLS:C0034510",
         "NCIT:C93992",
-        "UMLSCUI:C2986190",
+        "UMLS:C2986190",
         "SCTID:103579009",
         "PUBCHEM.COMPOUND:91782",
         "CHEBI:81969",

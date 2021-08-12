@@ -12,11 +12,11 @@ in {
         "SCTID:95971004",
         "RxNorm:7456",
         "NCIT:C61019",
-        "UMLSCUI:C0005845",
+        "UMLS:C0005845",
         "NCIT:C1753",
-        "UMLSCUI:C0600137",
+        "UMLS:C0600137",
         "NCIT:C122438",
-        "UMLSCUI:C0151539"
+        "UMLS:C0151539"
     ],
     mapping = generic_fhir_mapping [
         {

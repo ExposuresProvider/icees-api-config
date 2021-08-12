@@ -6,7 +6,7 @@ in {
     name = "he_s183_tobacco_smokeless",
     identifiers = [
         "NCIT:C105050",
-        "UMLSCUI:C3641918"
+        "UMLS:C3641918"
     ],
     feature = {
         feature_type = enum [

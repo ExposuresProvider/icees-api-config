@@ -23,7 +23,7 @@ in {
         "ICD9:786%",
         "ICD10R:05.%",
         "NCIT:C37935",
-        "UMLSCUOI:C0010200"
+        "UMLS:C0010200"
     ],
     mapping = generic_fhir_mapping [
         {

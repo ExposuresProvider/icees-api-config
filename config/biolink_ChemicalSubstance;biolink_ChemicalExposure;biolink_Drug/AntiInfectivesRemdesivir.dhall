@@ -6,7 +6,7 @@ in {
     name = "AntiInfectivesRemdesivir",
     identifiers = [
         "NCIT:C152185",
-        "UMLSCUI:CL553517",
+        "UMLS:CL553517",
         "PUBCHEM.COMPOUND:121304016",
         "RxNorm:2284718",
         "RxNorm:2284959",

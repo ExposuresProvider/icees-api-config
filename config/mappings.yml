@@ -24,9 +24,24 @@ A1AT_DeficiencyVisit:
   - biolink:NamedThing
   identifiers: []
   type: string
+A1C:
+  categories:
+  - biolink:PhenotypicFeature
+  identifiers: []
+  type: integer
+A1C_flag_first:
+  categories:
+  - biolink:PhenotypicFeature
+  identifiers: []
+  type: string
+A1C_flag_last:
+  categories:
+  - biolink:PhenotypicFeature
+  identifiers: []
+  type: string
 AADT:
   categories:
-  - biolink:EnvironmentalExposure
+  - biolink:NamedThing
   identifiers: []
   type: integer
 AADTVisit:
@@ -1050,7 +1065,7 @@ Albumin_flag_lastVisit:
   type: string
 Albuterol:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:ChemicalEntity
   - biolink:ChemicalExposure
   - biolink:Drug
   identifiers: &id002
@@ -1444,7 +1459,7 @@ AlopeciaVisit:
   type: string
 Amiodarone_gtt:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:ChemicalEntity
   - biolink:ChemicalExposure
   - biolink:Drug
   identifiers:
@@ -1499,7 +1514,7 @@ AmoxicillinDILIVisit:
   type: integer
 Anakinra:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:ChemicalEntity
   - biolink:ChemicalExposure
   - biolink:Drug
   identifiers:
@@ -1558,7 +1573,7 @@ AnakinraVisit:
   type: string
 Androstenedione:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:ChemicalEntity
   - biolink:ChemicalExposure
   - biolink:Drug
   identifiers: &id005
@@ -1820,7 +1835,7 @@ Anti_HCVVisit:
   type: string
 Antibiotics:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:ChemicalEntity
   - biolink:ChemicalExposure
   - biolink:Drug
   identifiers:
@@ -1963,6 +1978,13 @@ AntibioticsVisit:
   - biolink:NamedThing
   identifiers: []
   type: string
+AntihistamineRx:
+  categories:
+  - biolink:ChemicalEntity
+  - biolink:ChemicalExposure
+  - biolink:Drug
+  identifiers: []
+  type: string
 AnxietyDx:
   categories:
   - biolink:Disease
@@ -1981,7 +2003,7 @@ AnxietyVisit:
   type: string
 Arformoterol:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:ChemicalEntity
   - biolink:ChemicalExposure
   - biolink:Drug
   identifiers: &id006
@@ -2122,7 +2144,7 @@ AutoimmuneHepatitisVisit:
   type: string
 Avg24hAcetaldehydeExposure_2:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:SmallMolecule
   - biolink:ChemicalExposure
   identifiers: []
   type: integer
@@ -2285,7 +2307,7 @@ Avg24hSO2Exposure_2_qcut:
   type: integer
 AvgDailyAcetaldehydeExposure_2:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:SmallMolecule
   - biolink:ChemicalExposure
   identifiers: &id016
   - CHEBI:15343
@@ -2299,7 +2321,7 @@ AvgDailyAcetaldehydeExposure_2Visit:
   type: integer
 AvgDailyAcetaldehydeExposure_2_qcut:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:SmallMolecule
   - biolink:ChemicalExposure
   identifiers: *id016
   type: integer
@@ -2310,7 +2332,7 @@ AvgDailyAcetaldehydeExposure_2_qcutVisit:
   type: integer
 AvgDailyBenzeneExposure_2:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:SmallMolecule
   - biolink:ChemicalExposure
   identifiers: *id008
   type: integer
@@ -2321,7 +2343,7 @@ AvgDailyBenzeneExposure_2Visit:
   type: integer
 AvgDailyBenzeneExposure_2_qcut:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:SmallMolecule
   - biolink:ChemicalExposure
   identifiers: *id008
   type: integer
@@ -2332,7 +2354,7 @@ AvgDailyBenzeneExposure_2_qcutVisit:
   type: integer
 AvgDailyCOExposure_2:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:SmallMolecule
   - biolink:ChemicalExposure
   identifiers: *id009
   type: integer
@@ -2343,7 +2365,7 @@ AvgDailyCOExposure_2Visit:
   type: integer
 AvgDailyCOExposure_2_qcut:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:SmallMolecule
   - biolink:ChemicalExposure
   identifiers: *id009
   type: integer
@@ -2354,7 +2376,7 @@ AvgDailyCOExposure_2_qcutVisit:
   type: integer
 AvgDailyFormaldehydeExposure_2:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:SmallMolecule
   - biolink:ChemicalExposure
   identifiers:
   - CHEBI:16842
@@ -2368,7 +2390,7 @@ AvgDailyFormaldehydeExposure_2Visit:
   type: integer
 AvgDailyFormaldehydeExposure_2_qcut:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:SmallMolecule
   - biolink:ChemicalExposure
   identifiers:
   - CHEBI:16842
@@ -2382,7 +2404,7 @@ AvgDailyFormaldehydeExposure_2_qcutVisit:
   type: integer
 AvgDailyNO2Exposure_2:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:SmallMolecule
   - biolink:ChemicalExposure
   identifiers: *id010
   type: integer
@@ -2393,7 +2415,7 @@ AvgDailyNO2Exposure_2Visit:
   type: integer
 AvgDailyNO2Exposure_2_qcut:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:SmallMolecule
   - biolink:ChemicalExposure
   identifiers: *id010
   type: integer
@@ -2404,7 +2426,7 @@ AvgDailyNO2Exposure_2_qcutVisit:
   type: integer
 AvgDailyNOExposure_2:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:SmallMolecule
   - biolink:ChemicalExposure
   identifiers: *id011
   type: integer
@@ -2415,7 +2437,7 @@ AvgDailyNOExposure_2Visit:
   type: integer
 AvgDailyNOExposure_2_qcut:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:SmallMolecule
   - biolink:ChemicalExposure
   identifiers: *id011
   type: integer
@@ -2426,7 +2448,7 @@ AvgDailyNOExposure_2_qcutVisit:
   type: integer
 AvgDailyNOxExposure_2:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:SmallMolecule
   - biolink:ChemicalExposure
   identifiers: *id012
   type: integer
@@ -2437,7 +2459,7 @@ AvgDailyNOxExposure_2Visit:
   type: integer
 AvgDailyNOxExposure_2_qcut:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:SmallMolecule
   - biolink:ChemicalExposure
   identifiers: *id012
   type: integer
@@ -2448,7 +2470,7 @@ AvgDailyNOxExposure_2_qcutVisit:
   type: integer
 AvgDailyOzoneExposure:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:SmallMolecule
   - biolink:ChemicalExposure
   identifiers: *id013
   type: integer
@@ -2459,7 +2481,7 @@ AvgDailyOzoneExposureVisit:
   type: integer
 AvgDailyOzoneExposure_StudyAvg:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:SmallMolecule
   - biolink:ChemicalExposure
   identifiers: *id013
   type: integer
@@ -2470,7 +2492,7 @@ AvgDailyOzoneExposure_StudyAvgVisit:
   type: integer
 AvgDailyOzoneExposure_StudyAvg_qcut:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:SmallMolecule
   - biolink:ChemicalExposure
   identifiers: *id013
   type: integer
@@ -2481,7 +2503,7 @@ AvgDailyOzoneExposure_StudyAvg_qcutVisit:
   type: integer
 AvgDailyOzoneExposure_StudyMax:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:SmallMolecule
   - biolink:ChemicalExposure
   identifiers: *id013
   type: integer
@@ -2492,7 +2514,7 @@ AvgDailyOzoneExposure_StudyMaxVisit:
   type: integer
 AvgDailyOzoneExposure_StudyMax_qcut:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:SmallMolecule
   - biolink:ChemicalExposure
   identifiers: *id013
   type: integer
@@ -2503,7 +2525,7 @@ AvgDailyOzoneExposure_StudyMax_qcutVisit:
   type: integer
 AvgDailyOzoneExposure_qcut:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:SmallMolecule
   - biolink:ChemicalExposure
   identifiers: *id013
   type: integer
@@ -2514,7 +2536,7 @@ AvgDailyOzoneExposure_qcutVisit:
   type: integer
 AvgDailyPM2.5Exposure:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:SmallMolecule
   - biolink:ChemicalExposure
   identifiers: *id014
   type: integer
@@ -2525,7 +2547,7 @@ AvgDailyPM2.5ExposureVisit:
   type: integer
 AvgDailyPM2.5Exposure_2:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:SmallMolecule
   - biolink:ChemicalExposure
   identifiers: *id014
   type: integer
@@ -2536,7 +2558,7 @@ AvgDailyPM2.5Exposure_2Visit:
   type: integer
 AvgDailyPM2.5Exposure_2_qcut:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:SmallMolecule
   - biolink:ChemicalExposure
   identifiers: *id014
   type: integer
@@ -2547,7 +2569,7 @@ AvgDailyPM2.5Exposure_2_qcutVisit:
   type: integer
 AvgDailyPM2.5Exposure_StudyAvg:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:SmallMolecule
   - biolink:ChemicalExposure
   identifiers: *id014
   type: integer
@@ -2558,7 +2580,7 @@ AvgDailyPM2.5Exposure_StudyAvgVisit:
   type: integer
 AvgDailyPM2.5Exposure_StudyAvg_qcut:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:SmallMolecule
   - biolink:ChemicalExposure
   identifiers: *id014
   type: integer
@@ -2569,7 +2591,7 @@ AvgDailyPM2.5Exposure_StudyAvg_qcutVisit:
   type: integer
 AvgDailyPM2.5Exposure_StudyMax:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:SmallMolecule
   - biolink:ChemicalExposure
   identifiers: *id014
   type: integer
@@ -2580,7 +2602,7 @@ AvgDailyPM2.5Exposure_StudyMaxVisit:
   type: integer
 AvgDailyPM2.5Exposure_StudyMax_qcut:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:SmallMolecule
   - biolink:ChemicalExposure
   identifiers: *id014
   type: integer
@@ -2591,7 +2613,7 @@ AvgDailyPM2.5Exposure_StudyMax_qcutVisit:
   type: integer
 AvgDailyPM2.5Exposure_qcut:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:SmallMolecule
   - biolink:ChemicalExposure
   identifiers: *id014
   type: integer
@@ -2602,7 +2624,7 @@ AvgDailyPM2.5Exposure_qcutVisit:
   type: integer
 AvgDailySO2Exposure_2:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:SmallMolecule
   - biolink:ChemicalExposure
   identifiers: *id015
   type: integer
@@ -2613,7 +2635,7 @@ AvgDailySO2Exposure_2Visit:
   type: integer
 AvgDailySO2Exposure_2_qcut:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:SmallMolecule
   - biolink:ChemicalExposure
   identifiers: *id015
   type: integer
@@ -2622,6 +2644,20 @@ AvgDailySO2Exposure_2_qcutVisit:
   - biolink:NamedThing
   identifiers: []
   type: integer
+AztreonamRx:
+  categories:
+  - biolink:ChemicalEntity
+  - biolink:ChemicalExposure
+  - biolink:Drug
+  identifiers: []
+  type: string
+AzythromycinRx:
+  categories:
+  - biolink:ChemicalEntity
+  - biolink:ChemicalExposure
+  - biolink:Drug
+  identifiers: []
+  type: string
 BMI:
   categories:
   - biolink:PhenotypicFeature
@@ -2789,7 +2825,7 @@ BaseDeficit_flag_lastVisit:
   type: string
 Beclomethasone:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:ChemicalEntity
   - biolink:ChemicalExposure
   - biolink:Drug
   identifiers: &id017
@@ -3243,7 +3279,7 @@ BronchiectasisVisit:
   type: string
 Budesonide:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:ChemicalEntity
   - biolink:ChemicalExposure
   - biolink:Drug
   identifiers: &id018
@@ -3401,6 +3437,8 @@ C-reactiveProtein_flag_lastVisit:
   type: string
 CAFO_Exposure:
   categories:
+  - biolink:ChemicalEntity
+  - biolink:ComplexMolecularMixture
   - biolink:EnvironmentalExposure
   identifiers: []
   type: integer
@@ -3485,9 +3523,30 @@ CK_flag_lastVisit:
   - biolink:NamedThing
   identifiers: []
   type: string
+CLARK_prediction:
+  categories:
+  - biolink:Disease
+  - biolink:PhenotypicFeature
+  - biolink:DiseaseOrPhenotypicFeature
+  identifiers: []
+  type: integer
+CLARK_prediction_NotPCD:
+  categories:
+  - biolink:Disease
+  - biolink:PhenotypicFeature
+  - biolink:DiseaseOrPhenotypicFeature
+  identifiers: []
+  type: integer
+CLARK_prediction_PCD:
+  categories:
+  - biolink:Disease
+  - biolink:PhenotypicFeature
+  - biolink:DiseaseOrPhenotypicFeature
+  identifiers: []
+  type: integer
 CRRT_HD:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:ChemicalEntity
   - biolink:ChemicalExposure
   - biolink:Drug
   identifiers:
@@ -4284,7 +4343,7 @@ CervicalCancerVisit:
   type: string
 Cetirizine:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:ChemicalEntity
   - biolink:ChemicalExposure
   - biolink:Drug
   identifiers: &id020
@@ -4551,9 +4610,15 @@ ChronicObstructivePulmonaryDiseaseVisit:
   - biolink:NamedThing
   identifiers: []
   type: string
+ChronicSinusitisDx:
+  categories:
+  - biolink:Disease
+  - biolink:DiseaseOrPhenotypicFeature
+  identifiers: []
+  type: string
 Ciclesonide:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:ChemicalEntity
   - biolink:ChemicalExposure
   - biolink:Drug
   identifiers: &id021
@@ -4723,7 +4788,7 @@ CirrhosisVisit:
   type: string
 Citalopram:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:ChemicalEntity
   - biolink:ChemicalExposure
   - biolink:Drug
   identifiers: &id022
@@ -4736,9 +4801,16 @@ CitalopramVisit:
   - biolink:NamedThing
   identifiers: *id022
   type: string
+ClarithromycinRx:
+  categories:
+  - biolink:ChemicalEntity
+  - biolink:ChemicalExposure
+  - biolink:Drug
+  identifiers: []
+  type: string
 CodeBlueVisit:
   categories:
-  - biolink:NamedThing
+  - biolink:ClinicalIntervention
   identifiers: []
   type: string
 ConcomitantDrugs:
@@ -4794,6 +4866,24 @@ ConcomitantDrugs:
 ConcomitantDrugsVisit:
   categories:
   - biolink:NamedThing
+  identifiers: []
+  type: string
+Confirmed_CF_Dx:
+  categories:
+  - biolink:Disease
+  - biolink:DiseaseOrPhenotypicFeature
+  identifiers: []
+  type: string
+Confirmed_IdiopathicBronchiectasisDx:
+  categories:
+  - biolink:Disease
+  - biolink:DiseaseOrPhenotypicFeature
+  identifiers: []
+  type: string
+Confirmed_PCD_Dx:
+  categories:
+  - biolink:Disease
+  - biolink:DiseaseOrPhenotypicFeature
   identifiers: []
   type: string
 CongestiveHeartFailure:
@@ -4867,7 +4957,7 @@ CongestiveHeartFailureVisit:
   type: string
 ConvalescentPlasma:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:ChemicalEntity
   - biolink:ChemicalExposure
   - biolink:Drug
   identifiers:
@@ -5498,7 +5588,7 @@ DepressionVisit:
   type: string
 Dexamethasone:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:ChemicalEntity
   - biolink:ChemicalExposure
   - biolink:Drug
   identifiers:
@@ -6373,7 +6463,7 @@ DiabetesVisit:
   type: string
 Diphenhydramine:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:ChemicalEntity
   - biolink:ChemicalExposure
   - biolink:Drug
   identifiers: &id026
@@ -6812,7 +6902,7 @@ DischargeStatusVisit:
   type: string
 Dobutamine_gtt:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:ChemicalEntity
   - biolink:ChemicalExposure
   - biolink:Drug
   identifiers:
@@ -6850,7 +6940,7 @@ Dobutamine_gttVisit:
   type: string
 Dopamine_gtt:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:ChemicalEntity
   - biolink:ChemicalExposure
   - biolink:Drug
   identifiers: []
@@ -6957,7 +7047,7 @@ DrugDependenceVisit:
   type: string
 Duloxetine:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:ChemicalEntity
   - biolink:ChemicalExposure
   - biolink:Drug
   identifiers: &id028
@@ -6971,7 +7061,7 @@ DuloxetineVisit:
   type: string
 ECLS:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:ChemicalEntity
   - biolink:ChemicalExposure
   - biolink:Drug
   identifiers:
@@ -7241,7 +7331,7 @@ Eosinophil_GreaterThan500Visit:
   type: string
 Epinephrine_gtt:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:ChemicalEntity
   - biolink:ChemicalExposure
   - biolink:Drug
   identifiers:
@@ -7351,7 +7441,7 @@ ErythrocyteSedimentationRate_flag_lastVisit:
   type: string
 Escitalopram:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:ChemicalEntity
   - biolink:ChemicalExposure
   - biolink:Drug
   identifiers: &id030
@@ -7365,7 +7455,7 @@ EscitalopramVisit:
   type: string
 Esmolol_gtt:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:ChemicalEntity
   - biolink:ChemicalExposure
   - biolink:Drug
   identifiers:
@@ -7556,7 +7646,7 @@ EstimatedGFRVisit:
   type: string
 Estradiol:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:ChemicalEntity
   - biolink:ChemicalExposure
   - biolink:Drug
   identifiers: &id031
@@ -7572,7 +7662,7 @@ EstradiolVisit:
   type: string
 Estrogen:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:ChemicalEntity
   - biolink:ChemicalExposure
   - biolink:Drug
   identifiers: &id032
@@ -7585,7 +7675,7 @@ EstrogenVisit:
   type: string
 Estropipate:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:ChemicalEntity
   - biolink:ChemicalExposure
   - biolink:Drug
   identifiers: &id033
@@ -7626,9 +7716,7 @@ EthnicityVisit:
   type: string
 ExtracorporealVentilationORSystemicAssistance:
   categories:
-  - biolink:ChemicalSubstance
-  - biolink:ChemicalExposure
-  - biolink:Drug
+  - biolink:ClinicalIntervention
   identifiers: []
   type: string
 ExtracorporealVentilationORSystemicAssistanceVisit:
@@ -7636,6 +7724,11 @@ ExtracorporealVentilationORSystemicAssistanceVisit:
   - biolink:NamedThing
   identifiers: []
   type: string
+FEV:
+  categories:
+  - biolink:PhenotypicFeature
+  identifiers: []
+  type: integer
 FEV1FVC_flag_first:
   categories:
   - biolink:PhenotypicFeature
@@ -7656,6 +7749,16 @@ FEV1FVC_fraction_last:
   - biolink:PhenotypicFeature
   identifiers: []
   type: number
+FEV1_FVC:
+  categories:
+  - biolink:PhenotypicFeature
+  identifiers: []
+  type: integer
+FEV1_FVC_flag_last:
+  categories:
+  - biolink:PhenotypicFeature
+  identifiers: []
+  type: string
 FEV1_value_first:
   categories:
   - biolink:PhenotypicFeature
@@ -7666,6 +7769,31 @@ FEV1_value_last:
   - biolink:PhenotypicFeature
   identifiers: []
   type: number
+FEV_flag_first:
+  categories:
+  - biolink:PhenotypicFeature
+  identifiers: []
+  type: string
+FEV_flag_last:
+  categories:
+  - biolink:PhenotypicFeature
+  identifiers: []
+  type: string
+FVC:
+  categories:
+  - biolink:PhenotypicFeature
+  identifiers: []
+  type: integer
+FVC_flag_first:
+  categories:
+  - biolink:PhenotypicFeature
+  identifiers: []
+  type: string
+FVC_flag_last:
+  categories:
+  - biolink:PhenotypicFeature
+  identifiers: []
+  type: string
 FVC_value_first:
   categories:
   - biolink:PhenotypicFeature
@@ -7676,6 +7804,12 @@ FVC_value_last:
   - biolink:PhenotypicFeature
   identifiers: []
   type: number
+FailureToThriveDx:
+  categories:
+  - biolink:Disease
+  - biolink:DiseaseOrPhenotypicFeature
+  identifiers: []
+  type: string
 FamilyHistoryLiverDisease:
   categories:
   - biolink:PhenotypicFeature
@@ -7985,7 +8119,7 @@ FeverDxVisit:
   type: string
 Fexofenadine:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:ChemicalEntity
   - biolink:ChemicalExposure
   - biolink:Drug
   identifiers: &id035
@@ -8089,7 +8223,7 @@ FinalCausalityScoreVisit:
   type: string
 Flunisolide:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:ChemicalEntity
   - biolink:ChemicalExposure
   - biolink:Drug
   identifiers: &id037
@@ -8125,7 +8259,7 @@ FlunisolideVisit:
   type: string
 Fluoxetine:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:ChemicalEntity
   - biolink:ChemicalExposure
   - biolink:Drug
   identifiers: &id038
@@ -8139,7 +8273,7 @@ FluoxetineVisit:
   type: string
 Fluticasone:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:ChemicalEntity
   - biolink:ChemicalExposure
   - biolink:Drug
   identifiers: &id039
@@ -8394,7 +8528,7 @@ FluticasoneVisit:
   type: string
 Formoterol:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:ChemicalEntity
   - biolink:ChemicalExposure
   - biolink:Drug
   identifiers: &id040
@@ -8535,9 +8669,24 @@ GilbertsSyndromeVisit:
   - biolink:NamedThing
   identifiers: []
   type: string
+GlucoseToleranceTest:
+  categories:
+  - biolink:PhenotypicFeature
+  identifiers: []
+  type: integer
+GlucoseToleranceTest_flag_first:
+  categories:
+  - biolink:PhenotypicFeature
+  identifiers: []
+  type: string
+GlucoseToleranceTest_flag_last:
+  categories:
+  - biolink:PhenotypicFeature
+  identifiers: []
+  type: string
 Goserelin:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:ChemicalEntity
   - biolink:ChemicalExposure
   - biolink:Drug
   identifiers: &id041
@@ -9158,9 +9307,7 @@ HgbA1C_flag_lastVisit:
   type: string
 HighFlowNasalCannula:
   categories:
-  - biolink:ChemicalSubstance
-  - biolink:ChemicalExposure
-  - biolink:Drug
+  - biolink:ClinicalIntervention
   identifiers:
   - SCTID:426854004
   - SCTID:701101003
@@ -9183,7 +9330,7 @@ HighFlowNasalCannulaVisit:
   type: string
 Histrelin:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:ChemicalEntity
   - biolink:ChemicalExposure
   - biolink:Drug
   identifiers: &id042
@@ -9209,9 +9356,8 @@ HospitalLOSVisit:
   type: integer
 Hospitalization_NewProlonged:
   categories:
-  - biolink:ActivityAndBehavior
-  - biolink:PhenotypicFeature
-  - biolink:DiseaseOrPhenotypicFeature
+  - biolink:ClinicalIntervention
+  - biolink:Hospitalization
   identifiers:
   - MESH:D006760
   type: string
@@ -9222,7 +9368,7 @@ Hospitalization_NewProlongedVisit:
   type: string
 Hydroxychloroquine:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:ChemicalEntity
   - biolink:ChemicalExposure
   - biolink:Drug
   identifiers:
@@ -9347,7 +9493,7 @@ HydroxychloroquineVisit:
   type: string
 Hydroxyzine:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:ChemicalEntity
   - biolink:ChemicalExposure
   - biolink:Drug
   identifiers: &id043
@@ -9568,6 +9714,28 @@ IN_ICEES:
 IN_ICEESVisit:
   categories:
   - biolink:NamedThing
+  identifiers: []
+  type: string
+IgE:
+  categories:
+  - biolink:PhenotypicFeature
+  identifiers: []
+  type: integer
+IgE_flag_first:
+  categories:
+  - biolink:PhenotypicFeature
+  identifiers: []
+  type: string
+IgE_flag_last:
+  categories:
+  - biolink:PhenotypicFeature
+  identifiers: []
+  type: string
+ImatinibRx:
+  categories:
+  - biolink:ChemicalEntity
+  - biolink:ChemicalExposure
+  - biolink:Drug
   identifiers: []
   type: string
 ImmunodulationAnakinra:
@@ -12202,7 +12370,7 @@ ImmunodulationTocilizumab:
   type: string
 Implicated_Drug1_Assessment:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:ChemicalEntity
   - biolink:ChemicalExposure
   - biolink:Drug
   identifiers: []
@@ -12214,7 +12382,7 @@ Implicated_Drug1_AssessmentVisit:
   type: string
 Implicated_Drug2_Assessment:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:ChemicalEntity
   - biolink:ChemicalExposure
   - biolink:Drug
   identifiers: []
@@ -12226,7 +12394,7 @@ Implicated_Drug2_AssessmentVisit:
   type: string
 Implicated_Drug3_Assessment:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:ChemicalEntity
   - biolink:ChemicalExposure
   - biolink:Drug
   identifiers: []
@@ -12238,7 +12406,7 @@ Implicated_Drug3_AssessmentVisit:
   type: string
 Indacaterol:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:ChemicalEntity
   - biolink:ChemicalExposure
   - biolink:Drug
   identifiers: &id044
@@ -12293,7 +12461,7 @@ Initial_RUCAMVisit:
   type: string
 IntravenousImmunoglobulin:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:ChemicalEntity
   - biolink:ChemicalExposure
   - biolink:Drug
   identifiers:
@@ -12390,9 +12558,7 @@ IntravenousImmunoglobulinVisit:
   type: string
 InvasiveVentilation:
   categories:
-  - biolink:ChemicalSubstance
-  - biolink:ChemicalExposure
-  - biolink:Drug
+  - biolink:ClinicalIntervention
   identifiers:
   - LOINC:LA28889-6
   - LOINC:LP263712-4
@@ -12406,7 +12572,7 @@ InvasiveVentilationVisit:
   type: string
 Ipratropium:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:ChemicalEntity
   - biolink:ChemicalExposure
   - biolink:Drug
   identifiers: &id045
@@ -12508,7 +12674,7 @@ IschemicHepatitisVisit:
   type: string
 IsolationFlag:
   categories:
-  - biolink:NamedThing
+  - biolink:ClinicalIntervention
   identifiers: []
   type: string
 IsolationFlagVisit:
@@ -12518,7 +12684,7 @@ IsolationFlagVisit:
   type: string
 Isoproterenol_gtt:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:ChemicalEntity
   - biolink:ChemicalExposure
   - biolink:Drug
   identifiers:
@@ -12645,6 +12811,13 @@ Itching:
 ItchingVisit:
   categories:
   - biolink:NamedThing
+  identifiers: []
+  type: string
+IvacaftorRx:
+  categories:
+  - biolink:ChemicalEntity
+  - biolink:ChemicalExposure
+  - biolink:Drug
   identifiers: []
   type: string
 Jaundice:
@@ -12950,6 +13123,8 @@ Lactate_flag_lastVisit:
   type: string
 Landfill_Exposure:
   categories:
+  - biolink:ChemicalEntity
+  - biolink:ComplexMolecularMixture
   - biolink:EnvironmentalExposure
   identifiers: []
   type: integer
@@ -13038,7 +13213,7 @@ LateralityDefect_SitusInversusOrHeterotaxyVisit:
   type: string
 Leuprolide:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:ChemicalEntity
   - biolink:ChemicalExposure
   - biolink:Drug
   identifiers: &id047
@@ -13052,7 +13227,7 @@ LeuprolideVisit:
   type: string
 Levosimendan_gtt:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:ChemicalEntity
   - biolink:ChemicalExposure
   - biolink:Drug
   identifiers:
@@ -13349,6 +13524,13 @@ LiverTransplantVisit:
   - biolink:NamedThing
   identifiers: []
   type: string
+LungTransplant:
+  categories:
+  - biolink:ClinicalIntervention
+  - biolink:PhenotypicFeature
+  - biolink:DiseaseOrPhenotypicFeature
+  identifiers: []
+  type: string
 MEDIANHOUSEHOLDINCOME_cut:
   categories:
   - biolink:EnvironmentalExposure
@@ -13371,12 +13553,16 @@ MEDIANHOUSEHOLDINCOME_qcutVisit:
   type: integer
 MajorRoadwayHighwayExposure:
   categories:
+  - biolink:ChemicalEntity
+  - biolink:ComplexMolecularMixture
   - biolink:EnvironmentalExposure
   identifiers:
   - SCTID:272510001
   type: integer
 MajorRoadwayHighwayExposure2:
   categories:
+  - biolink:ChemicalEntity
+  - biolink:ComplexMolecularMixture
   - biolink:EnvironmentalExposure
   identifiers: []
   type: integer
@@ -13411,6 +13597,12 @@ MaleInfertilityDueToSpermDysfunctionDxVisit:
 MaleInfertilityDueToSpermDysfunctionVisit:
   categories:
   - biolink:NamedThing
+  identifiers: []
+  type: string
+MaleInfertilityDx:
+  categories:
+  - biolink:Disease
+  - biolink:DiseaseOrPhenotypicFeature
   identifiers: []
   type: string
 Malignancy:
@@ -13636,7 +13828,7 @@ Max24hPM2.5Exposure_qcut:
   type: integer
 MaxDailyOzoneExposure:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:SmallMolecule
   - biolink:ChemicalExposure
   identifiers: *id013
   type: integer
@@ -13647,7 +13839,7 @@ MaxDailyOzoneExposureVisit:
   type: integer
 MaxDailyOzoneExposure_2:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:SmallMolecule
   - biolink:ChemicalExposure
   identifiers: *id013
   type: integer
@@ -13658,7 +13850,7 @@ MaxDailyOzoneExposure_2Visit:
   type: integer
 MaxDailyOzoneExposure_2_qcut:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:SmallMolecule
   - biolink:ChemicalExposure
   identifiers: *id013
   type: integer
@@ -13669,7 +13861,7 @@ MaxDailyOzoneExposure_2_qcutVisit:
   type: integer
 MaxDailyOzoneExposure_StudyAvg:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:SmallMolecule
   - biolink:ChemicalExposure
   identifiers: *id013
   type: integer
@@ -13680,7 +13872,7 @@ MaxDailyOzoneExposure_StudyAvgVisit:
   type: integer
 MaxDailyOzoneExposure_StudyAvg_qcut:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:SmallMolecule
   - biolink:ChemicalExposure
   identifiers: *id013
   type: integer
@@ -13691,7 +13883,7 @@ MaxDailyOzoneExposure_StudyAvg_qcutVisit:
   type: integer
 MaxDailyOzoneExposure_StudyMax:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:SmallMolecule
   - biolink:ChemicalExposure
   identifiers: *id013
   type: integer
@@ -13702,7 +13894,7 @@ MaxDailyOzoneExposure_StudyMaxVisit:
   type: integer
 MaxDailyOzoneExposure_StudyMax_qcut:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:SmallMolecule
   - biolink:ChemicalExposure
   identifiers: *id013
   type: integer
@@ -13713,7 +13905,7 @@ MaxDailyOzoneExposure_StudyMax_qcutVisit:
   type: integer
 MaxDailyOzoneExposure_qcut:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:SmallMolecule
   - biolink:ChemicalExposure
   identifiers: *id013
   type: integer
@@ -13724,7 +13916,7 @@ MaxDailyOzoneExposure_qcutVisit:
   type: integer
 MaxDailyPM2.5Exposure:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:SmallMolecule
   - biolink:ChemicalExposure
   identifiers: *id014
   type: integer
@@ -13735,7 +13927,7 @@ MaxDailyPM2.5ExposureVisit:
   type: integer
 MaxDailyPM2.5Exposure_StudyAvg:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:SmallMolecule
   - biolink:ChemicalExposure
   identifiers: *id014
   type: integer
@@ -13746,7 +13938,7 @@ MaxDailyPM2.5Exposure_StudyAvgVisit:
   type: integer
 MaxDailyPM2.5Exposure_StudyAvg_qcut:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:SmallMolecule
   - biolink:ChemicalExposure
   identifiers: *id014
   type: integer
@@ -13757,7 +13949,7 @@ MaxDailyPM2.5Exposure_StudyAvg_qcutVisit:
   type: integer
 MaxDailyPM2.5Exposure_StudyMax:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:SmallMolecule
   - biolink:ChemicalExposure
   identifiers: *id014
   type: integer
@@ -13768,7 +13960,7 @@ MaxDailyPM2.5Exposure_StudyMaxVisit:
   type: integer
 MaxDailyPM2.5Exposure_StudyMax_qcut:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:SmallMolecule
   - biolink:ChemicalExposure
   identifiers: *id014
   type: integer
@@ -13779,7 +13971,7 @@ MaxDailyPM2.5Exposure_StudyMax_qcutVisit:
   type: integer
 MaxDailyPM2.5Exposure_qcut:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:SmallMolecule
   - biolink:ChemicalExposure
   identifiers: *id014
   type: integer
@@ -13790,7 +13982,7 @@ MaxDailyPM2.5Exposure_qcutVisit:
   type: integer
 Medroxyprogresterone:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:ChemicalEntity
   - biolink:ChemicalExposure
   - biolink:Drug
   identifiers: &id048
@@ -13856,7 +14048,7 @@ MenopauseVisit:
   type: string
 Mepolizumab:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:ChemicalEntity
   - biolink:ChemicalExposure
   - biolink:Drug
   identifiers: &id050
@@ -13884,7 +14076,7 @@ MepolizumabVisit:
   type: string
 Metaproterenol:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:ChemicalEntity
   - biolink:ChemicalExposure
   - biolink:Drug
   identifiers: &id051
@@ -13929,7 +14121,7 @@ MetaproterenolVisit:
   type: string
 Metformin:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:ChemicalEntity
   - biolink:ChemicalExposure
   - biolink:Drug
   identifiers: &id052
@@ -14164,7 +14356,7 @@ MiddleEarDiseaseVisit:
   type: string
 Milrinone_gtt:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:ChemicalEntity
   - biolink:ChemicalExposure
   - biolink:Drug
   identifiers:
@@ -14220,7 +14412,7 @@ Milrinone_gttVisit:
   type: string
 Mometasone:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:ChemicalEntity
   - biolink:ChemicalExposure
   - biolink:Drug
   identifiers: &id053
@@ -14371,7 +14563,7 @@ NaloxoneVisit:
   type: string
 Nandrolone:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:ChemicalEntity
   - biolink:ChemicalExposure
   - biolink:Drug
   identifiers: &id054
@@ -14711,7 +14903,7 @@ NeutropeniaVisit:
   type: string
 NitricOxideOrFolan:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:ChemicalEntity
   - biolink:ChemicalExposure
   - biolink:Drug
   identifiers:
@@ -14752,11 +14944,16 @@ NitricOxideOrFolanVisit:
   - biolink:NamedThing
   identifiers: []
   type: string
-NonInvasivePositivePressureVentilation:
+NitricOxideRx:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:ChemicalEntity
   - biolink:ChemicalExposure
   - biolink:Drug
+  identifiers: []
+  type: string
+NonInvasivePositivePressureVentilation:
+  categories:
+  - biolink:ClinicalIntervention
   identifiers:
   - SCTID:428311008
   - SCTID:447837008
@@ -14769,7 +14966,7 @@ NonInvasivePositivePressureVentilationVisit:
   type: string
 Norepinephrine_gtt:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:ChemicalEntity
   - biolink:ChemicalExposure
   - biolink:Drug
   identifiers:
@@ -14909,6 +15106,7 @@ ORIGINAL_ANALYTIC_SAMPLEVisit:
   type: string
 ObesityBMI:
   categories:
+  - biolink:PhenotypicFeature
   - biolink:DiseaseOrPhenotypicFeature
   identifiers: &id055
   - MONDO:0008300
@@ -15055,7 +15253,7 @@ ObesityVisit:
   type: string
 Omalizumab:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:ChemicalEntity
   - biolink:ChemicalExposure
   - biolink:Drug
   identifiers: &id057
@@ -15084,6 +15282,13 @@ OmalizumabVisit:
   categories:
   - biolink:NamedThing
   identifiers: *id057
+  type: string
+OrkambiRx:
+  categories:
+  - biolink:ChemicalEntity
+  - biolink:ChemicalExposure
+  - biolink:Drug
+  identifiers: []
   type: string
 OvarianCancerDx:
   categories:
@@ -15315,7 +15520,7 @@ PM25_N_OBSVisit:
   type: integer
 Paroxetine:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:ChemicalEntity
   - biolink:ChemicalExposure
   - biolink:Drug
   identifiers: &id060
@@ -15341,7 +15546,7 @@ PatternLiverInjury_OnsetVisit:
   type: string
 Phenylephrine_gtt:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:ChemicalEntity
   - biolink:ChemicalExposure
   - biolink:Drug
   identifiers:
@@ -15569,7 +15774,7 @@ PneumoniaVisit:
   type: string
 Prasterone:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:ChemicalEntity
   - biolink:ChemicalExposure
   - biolink:Drug
   identifiers: &id062
@@ -15582,7 +15787,7 @@ PrasteroneVisit:
   type: string
 Prednisone:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:ChemicalEntity
   - biolink:ChemicalExposure
   - biolink:Drug
   identifiers: &id063
@@ -15653,7 +15858,7 @@ Prednisone:
   type: string
 PrednisoneOrCorticosteroids_Tx:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:ChemicalEntity
   - biolink:ChemicalExposure
   - biolink:Drug
   identifiers:
@@ -15722,7 +15927,7 @@ PrednisoneOrCorticosteroids_TxVisit:
   type: string
 PrednisoneOrMethylprednisone:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:ChemicalEntity
   - biolink:ChemicalExposure
   - biolink:Drug
   identifiers:
@@ -17564,9 +17769,15 @@ Procalcitonin_flag_lastVisit:
   - biolink:NamedThing
   identifiers: []
   type: string
+ProductiveCoughDx:
+  categories:
+  - biolink:Disease
+  - biolink:DiseaseOrPhenotypicFeature
+  identifiers: []
+  type: string
 Progesterone:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:ChemicalEntity
   - biolink:ChemicalExposure
   - biolink:Drug
   identifiers: &id065
@@ -17579,7 +17790,7 @@ ProgesteroneVisit:
   type: string
 Propranolol:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:ChemicalEntity
   - biolink:ChemicalExposure
   - biolink:Drug
   identifiers: &id066
@@ -17735,6 +17946,28 @@ PulmonaryDisease:
 PulmonaryDiseaseVisit:
   categories:
   - biolink:NamedThing
+  identifiers: []
+  type: string
+PulmozymeRx:
+  categories:
+  - biolink:ChemicalEntity
+  - biolink:ChemicalExposure
+  - biolink:Drug
+  identifiers: []
+  type: string
+PulseOximetry:
+  categories:
+  - biolink:PhenotypicFeature
+  identifiers: []
+  type: integer
+PulseOximetry_flag_first:
+  categories:
+  - biolink:PhenotypicFeature
+  identifiers: []
+  type: string
+PulseOximetry_flag_last:
+  categories:
+  - biolink:PhenotypicFeature
   identifiers: []
   type: string
 QXAGE:
@@ -18248,7 +18481,7 @@ ReactiveAirwayVisit:
   type: string
 Remdesivir:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:ChemicalEntity
   - biolink:ChemicalExposure
   - biolink:Drug
   identifiers:
@@ -18685,89 +18918,9 @@ RenalDiseaseVisit:
   - biolink:NamedThing
   identifiers: []
   type: string
-RespiratorySupportHFNC:
-  categories:
-  - biolink:ClinicalIntervention
-  - biolink:ChemicalExposure
-  identifiers:
-  - SCTID:426854004
-  - SCTID:701101003
-  - SCTID:336623009
-  - SCTID:466713001
-  - SCTID:468049003
-  - SCTID:467645007
-  - LOINC:LA11916-6
-  - LOINC:LA11915-8
-  - LOINC:LA11266-6
-  - LOINC:LA11913-3
-  - LOINC:LA11914-1
-  - LOINC:LP72976-1
-  - LOINC:19979-4
-  type: string
-RespiratorySupportHNO3orFlolan:
-  categories:
-  - biolink:ChemicalSubstance
-  - biolink:ChemicalExposure
-  - biolink:Drug
-  identifiers:
-  - NCIT:C47514
-  - UMLS:C0354594
-  - CHEBI:15552
-  - RxNorm:114221
-  - RxNorm:1169774
-  - RxNorm:362748
-  - RxNorm:211199
-  - RxNorm:211200
-  - RxNorm:1789861
-  - RxNorm:1789860
-  - RxNorm:1789872
-  - RxNorm:544927
-  - RxNorm:544926
-  - RxNorm:544929
-  - RxNorm:571655
-  - RxNorm:571656
-  - RxNorm:544928
-  - RxNorm:544930
-  - SCTID:9454801000001106
-  - SCTID:4627711000001106
-  - SCTID:33592511000001102
-  - SCTID:4627411000001100
-  - SCTID:33593311000001103
-  - SCTID:4627811000001103
-  - SCTID:33592611000001103
-  - SCTID:4627511000001101
-  - SCTID:33593511000001109
-  - PUBCHEM.COMPOUND:53394235
-  - PUBCHEM.COMPOUND:23695838
-  - PUBCHEM.COMPOUND:6364626
-  - PUBCHEM.COMPOUND:5282411
-  type: string
-RespiratorySupportInvasiveVentilator:
-  categories:
-  - biolink:ChemicalSubstance
-  - biolink:ChemicalExposure
-  - biolink:Drug
-  identifiers:
-  - LOINC:LA28889-6
-  - LOINC:LP263712-4
-  - LOINC:86851-3
-  - LOINC:LA30356-2
-  type: string
-RespiratorySupportNIPPV:
-  categories:
-  - biolink:ChemicalSubstance
-  - biolink:ChemicalExposure
-  - biolink:Drug
-  identifiers:
-  - SCTID:428311008
-  - SCTID:447837008
-  - SCTID:430191008
-  type: string
 RespiratorySupportSupplementalO2:
   categories:
-  - biolink:ChemicalSubstance
-  - biolink:ChemicalExposure
-  - biolink:Drug
+  - biolink:NamedThing
   identifiers:
   - LOINC:LA17976-4
   - LOINC:LA20142-8
@@ -18781,6 +18934,7 @@ RespiratorySupportSupplementalO2:
   - SCTID:1104411000000106
   - NCIT:C94624
   - UMLS:C0184633
+  - LOINC:LL737-8
   type: string
 RespiratorySupportSupplementalO2Visit:
   categories:
@@ -18789,7 +18943,7 @@ RespiratorySupportSupplementalO2Visit:
   type: string
 RoadwayAADT:
   categories:
-  - biolink:EnvironmentalExposure
+  - biolink:NamedThing
   identifiers: []
   type: integer
 RoadwayAADTVisit:
@@ -18819,7 +18973,7 @@ RoadwayDistanceExposureVisit:
   type: integer
 RoadwayLanes:
   categories:
-  - biolink:EnvironmentalExposure
+  - biolink:NamedThing
   identifiers: []
   type: integer
 RoadwayLanesVisit:
@@ -18829,7 +18983,7 @@ RoadwayLanesVisit:
   type: integer
 RoadwaySpeedLimit:
   categories:
-  - biolink:EnvironmentalExposure
+  - biolink:NamedThing
   identifiers: []
   type: integer
 RoadwaySpeedLimitVisit:
@@ -18919,7 +19073,7 @@ SPEEDVisit:
   type: integer
 Salmeterol:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:ChemicalEntity
   - biolink:ChemicalExposure
   - biolink:Drug
   identifiers: &id070
@@ -19022,7 +19176,7 @@ SalmeterolVisit:
   type: string
 Sertraline:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:ChemicalEntity
   - biolink:ChemicalExposure
   - biolink:Drug
   identifiers: &id071
@@ -19590,10 +19744,17 @@ SexVisit:
   - biolink:NamedThing
   identifiers: []
   type: string
+SitusInversusOrHeterotaxyDx:
+  categories:
+  - biolink:Disease
+  - biolink:DiseaseOrPhenotypicFeature
+  identifiers: []
+  type: string
 SmokingStatus:
   categories:
+  - biolink:PhenotypicFeature
+  - biolink:DiseaseOrPhenotypicFeature
   - biolink:ChemicalExposure
-  - biolink:ChemicalSubstance
   identifiers:
   - NCIT:C1519386
   - UMLS:C1519386
@@ -19644,6 +19805,12 @@ SpO2FiO2ratio_flag_lastVisit:
   - biolink:NamedThing
   identifiers: []
   type: string
+SputumCulture:
+  categories:
+  - biolink:PhenotypicFeature
+  - biolink:DiseaseOrPhenotypicFeature
+  identifiers: []
+  type: string
 StevensJohnsonSyndrome:
   categories:
   - biolink:Disease
@@ -19673,6 +19840,13 @@ StevensJohnsonSyndrome:
 StevensJohnsonSyndromeVisit:
   categories:
   - biolink:NamedThing
+  identifiers: []
+  type: string
+SupplementalOxygen:
+  categories:
+  - biolink:ChemicalSubstance
+  - biolink:ChemicalExposure
+  - biolink:Drug
   identifiers: []
   type: string
 SvO2:
@@ -19707,7 +19881,7 @@ SvO2_flag_lastVisit:
   type: string
 THROUGH_LANES:
   categories:
-  - biolink:EnvironmentalExposure
+  - biolink:NamedThing
   identifiers: []
   type: integer
 THROUGH_LANESVisit:
@@ -19797,7 +19971,7 @@ TLR4_DIST_3X_qcutVisit:
   type: integer
 Tamoxifen:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:ChemicalEntity
   - biolink:ChemicalExposure
   - biolink:Drug
   identifiers: &id073
@@ -19848,7 +20022,7 @@ TesticularDysfunctionVisit:
   type: string
 Testosterone:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:ChemicalEntity
   - biolink:ChemicalExposure
   - biolink:Drug
   identifiers: &id076
@@ -19863,7 +20037,7 @@ TestosteroneVisit:
   type: string
 Theophylline:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:ChemicalEntity
   - biolink:ChemicalExposure
   - biolink:Drug
   identifiers: &id077
@@ -20293,9 +20467,16 @@ ThrombocytopeniaVisit:
   - biolink:NamedThing
   identifiers: []
   type: string
+TobramycinRx:
+  categories:
+  - biolink:ChemicalEntity
+  - biolink:ChemicalExposure
+  - biolink:Drug
+  identifiers: []
+  type: string
 Tocilizumab:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:ChemicalEntity
   - biolink:ChemicalExposure
   - biolink:Drug
   identifiers:
@@ -20371,7 +20552,8 @@ TocilizumabVisit:
   type: string
 TotalEDInpatientVisits:
   categories:
-  - biolink:ActivityAndBehavior
+  - biolink:ClinicalIntervention
+  - biolink:Hospitalization
   identifiers:
   - NCIT:C53513
   - UMLS:C0562508
@@ -20382,7 +20564,7 @@ TotalEDInpatientVisits:
   type: string
 TotalEDVisits:
   categories:
-  - biolink:ActivityAndBehavior
+  - biolink:ClinicalIntervention
   identifiers:
   - NCIT:C53513
   - UMLS:C0562508
@@ -20393,7 +20575,7 @@ TotalEDVisits:
   type: string
 TotalInpatientVisits:
   categories:
-  - biolink:ActivityAndBehavior
+  - biolink:ClinicalIntervention
   identifiers:
   - NCIT:C53513
   - UMLS:C0562508
@@ -20404,7 +20586,7 @@ TotalInpatientVisits:
   type: string
 Trazodone:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:ChemicalEntity
   - biolink:ChemicalExposure
   - biolink:Drug
   identifiers: &id078
@@ -20416,9 +20598,16 @@ TrazodoneVisit:
   - biolink:NamedThing
   identifiers: *id078
   type: string
+TrikaftaRx:
+  categories:
+  - biolink:ChemicalEntity
+  - biolink:ChemicalExposure
+  - biolink:Drug
+  identifiers: []
+  type: string
 Triptorelin:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:ChemicalEntity
   - biolink:ChemicalExposure
   - biolink:Drug
   identifiers: &id079
@@ -20521,7 +20710,7 @@ UterineCancerVisit:
   type: string
 Vasopressin_gtt:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:ChemicalEntity
   - biolink:ChemicalExposure
   - biolink:Drug
   identifiers:
@@ -20595,7 +20784,7 @@ Vasopressin_gttVisit:
   type: string
 Venlafaxine:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:ChemicalEntity
   - biolink:ChemicalExposure
   - biolink:Drug
   identifiers: &id081
@@ -20609,9 +20798,7 @@ VenlafaxineVisit:
   type: string
 Ventilation:
   categories:
-  - biolink:ChemicalSubstance
-  - biolink:ChemicalExposure
-  - biolink:Drug
+  - biolink:ClinicalIntervention
   identifiers: []
   type: string
 VentilationVisit:
@@ -20621,7 +20808,7 @@ VentilationVisit:
   type: string
 Ventilator:
   categories:
-  - biolink:Device
+  - biolink:ClinicalIntervention
   identifiers:
   - NCIT:C38388
   - UMLS:C0087153
@@ -20648,6 +20835,27 @@ VisitType:
   - NCIT:C39564
   - UMLS:C1512346
   - SCTID:103324002
+  type: string
+VitaminA_Rx:
+  categories:
+  - biolink:ChemicalEntity
+  - biolink:ChemicalExposure
+  - biolink:Drug
+  identifiers: []
+  type: string
+VitaminB_Rx:
+  categories:
+  - biolink:ChemicalEntity
+  - biolink:ChemicalExposure
+  - biolink:Drug
+  identifiers: []
+  type: string
+VitaminK_Rx:
+  categories:
+  - biolink:ChemicalEntity
+  - biolink:ChemicalExposure
+  - biolink:Drug
+  identifiers: []
   type: string
 WBCcount:
   categories:
@@ -20700,7 +20908,7 @@ WBCcount_value_last:
   type: number
 WHONAME_Implicated_Drug1:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:ChemicalEntity
   - biolink:ChemicalExposure
   - biolink:Drug
   identifiers: []
@@ -20712,7 +20920,7 @@ WHONAME_Implicated_Drug1Visit:
   type: string
 WHONAME_Implicated_Drug2:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:ChemicalEntity
   - biolink:ChemicalExposure
   - biolink:Drug
   identifiers: []
@@ -20724,7 +20932,7 @@ WHONAME_Implicated_Drug2Visit:
   type: string
 WHONAME_Implicated_Drug3:
   categories:
-  - biolink:ChemicalSubstance
+  - biolink:ChemicalEntity
   - biolink:ChemicalExposure
   - biolink:Drug
   identifiers: []
@@ -21590,8 +21798,7 @@ ea_a059c_pet_otherVisit:
   type: string
 ea_a060_pest_regularly:
   categories:
-  - biolink:ChemicalSubstance
-  - biolink:ChemicalExposure
+  - biolink:EnvironmentalExposure
   identifiers: []
   type: string
 ea_a060_pest_regularlyVisit:
@@ -21601,8 +21808,7 @@ ea_a060_pest_regularlyVisit:
   type: string
 ea_a061a_pest_ants:
   categories:
-  - biolink:ChemicalSubstance
-  - biolink:ChemicalExposure
+  - biolink:EnvironmentalExposure
   identifiers:
   - ENVO:00005804
   type: string
@@ -21613,8 +21819,7 @@ ea_a061a_pest_antsVisit:
   type: string
 ea_a061b_pest_cockroaches:
   categories:
-  - biolink:ChemicalSubstance
-  - biolink:ChemicalExposure
+  - biolink:EnvironmentalExposure
   identifiers: []
   type: string
 ea_a061b_pest_cockroachesVisit:
@@ -21624,8 +21829,7 @@ ea_a061b_pest_cockroachesVisit:
   type: string
 ea_a061c_pest_bees_wasps:
   categories:
-  - biolink:ChemicalSubstance
-  - biolink:ChemicalExposure
+  - biolink:EnvironmentalExposure
   identifiers: []
   type: string
 ea_a061c_pest_bees_waspsVisit:
@@ -21635,8 +21839,7 @@ ea_a061c_pest_bees_waspsVisit:
   type: string
 ea_a061d_pest_flies:
   categories:
-  - biolink:ChemicalSubstance
-  - biolink:ChemicalExposure
+  - biolink:EnvironmentalExposure
   identifiers: []
   type: string
 ea_a061d_pest_fliesVisit:
@@ -21646,8 +21849,7 @@ ea_a061d_pest_fliesVisit:
   type: string
 ea_a061e_pest_spiders:
   categories:
-  - biolink:ChemicalSubstance
-  - biolink:ChemicalExposure
+  - biolink:EnvironmentalExposure
   identifiers: []
   type: string
 ea_a061e_pest_spidersVisit:
@@ -21657,8 +21859,7 @@ ea_a061e_pest_spidersVisit:
   type: string
 ea_a061f_pest_mosquitos:
   categories:
-  - biolink:ChemicalSubstance
-  - biolink:ChemicalExposure
+  - biolink:EnvironmentalExposure
   identifiers: []
   type: string
 ea_a061f_pest_mosquitosVisit:
@@ -21668,8 +21869,7 @@ ea_a061f_pest_mosquitosVisit:
   type: string
 ea_a061g_pest_flea_ticks:
   categories:
-  - biolink:ChemicalSubstance
-  - biolink:ChemicalExposure
+  - biolink:EnvironmentalExposure
   identifiers: []
   type: string
 ea_a061g_pest_flea_ticksVisit:
@@ -21679,8 +21879,7 @@ ea_a061g_pest_flea_ticksVisit:
   type: string
 ea_a061h_pest_termite:
   categories:
-  - biolink:ChemicalSubstance
-  - biolink:ChemicalExposure
+  - biolink:EnvironmentalExposure
   identifiers:
   - ENVO:2000006
   type: string
@@ -21691,8 +21890,7 @@ ea_a061h_pest_termiteVisit:
   type: string
 ea_a061i_pest_other:
   categories:
-  - biolink:ChemicalSubstance
-  - biolink:ChemicalExposure
+  - biolink:EnvironmentalExposure
   identifiers: []
   type: string
 ea_a061i_pest_otherVisit:
@@ -22932,8 +23130,7 @@ ea_b121a_alcohol_ongoing_dVisit:
   type: string
 ea_b122_pest_d:
   categories:
-  - biolink:ChemicalSubstance
-  - biolink:ChemicalExposure
+  - biolink:EnvironmentalExposure
   identifiers: []
   type: string
 ea_b122_pest_dVisit:
@@ -23030,8 +23227,7 @@ ea_b122g_rodenticidesVisit:
   type: string
 ea_b122h_pest_other:
   categories:
-  - biolink:ChemicalSubstance
-  - biolink:ChemicalExposure
+  - biolink:EnvironmentalExposure
   identifiers: []
   type: string
 ea_b122h_pest_otherVisit:
@@ -23041,8 +23237,7 @@ ea_b122h_pest_otherVisit:
   type: string
 ea_b127a_pest_ongoing_d:
   categories:
-  - biolink:ChemicalSubstance
-  - biolink:ChemicalExposure
+  - biolink:EnvironmentalExposure
   identifiers: []
   type: string
 ea_b127a_pest_ongoing_dVisit:
@@ -25875,7 +26070,8 @@ eb_m322_babies_delivered_nVisit:
   type: string
 he_a004a_birth_low_bw:
   categories:
-  - biolink:NamedThing
+  - biolink:PhenotypicFeature
+  - biolink:DiseaseOrPhenotypicFeature
   identifiers:
   - NCIT:C34724
   - UMLS:C0024032
@@ -25905,7 +26101,8 @@ he_a004a_birth_low_bwVisit:
   type: string
 he_a004b_birth_preterm:
   categories:
-  - biolink:NamedThing
+  - biolink:PhenotypicFeature
+  - biolink:DiseaseOrPhenotypicFeature
   identifiers:
   - NCIT:C159087
   - SCITD:367494004
@@ -25935,7 +26132,8 @@ he_a004b_birth_pretermVisit:
   type: string
 he_a004c_birth_multi:
   categories:
-  - biolink:NamedThing
+  - biolink:PhenotypicFeature
+  - biolink:DiseaseOrPhenotypicFeature
   identifiers:
   - NCIT:C81271
   - UMLS:C2015861

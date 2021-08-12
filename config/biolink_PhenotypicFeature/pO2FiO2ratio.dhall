@@ -5,7 +5,7 @@ in {
     name = "pO2FiO2ratio",
     identifiers = [
         "NCIT:C119293",
-        "UMLSCUI:C3897988",
+        "UMLS:C3897988",
         "SCTID:438173002",
         "LOINC:LP71271-8"
     ],

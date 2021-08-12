@@ -9,7 +9,7 @@ in {
         "MONDO:0017773",
         "MONDO:0007744",
         "NCIT:C37967",
-        "UMLSCUI:C1522133",
+        "UMLS:C1522133",
         "NCIT:C143368",
         "NCIT:C144030",
         "NCIT:C144578",

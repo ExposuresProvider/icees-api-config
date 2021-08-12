@@ -11,18 +11,18 @@ in {
         "SCITD:267370001",
         "SCITD:190235005",
         "NCIT:C26785",
-        "UMLSCUI:C0018021",
+        "UMLS:C0018021",
         "NCIT:C35271",
-        "UMLSCUI:C0221777",
+        "UMLS:C0221777",
         "NCIT:C131440",
         "NCIT:C131438",
-        "UMLSCUI:C0342208",
+        "UMLS:C0342208",
         "NCIT:C131072",
-        "UMLSCUI:C0342205",
+        "UMLS:C0342205",
         "NCIT:C131436",
-        "UMLSCUI:C0342114",
+        "UMLS:C0342114",
         "NCIT:C131437",
-        "UMLSCUI:C0018023"
+        "UMLS:C0018023"
     ],
     feature = {
         feature_type = enum [

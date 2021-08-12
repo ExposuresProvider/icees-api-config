@@ -4,7 +4,7 @@ in {
     name = "VisitType",
     identifiers = [
         "NCIT:C39564",
-        "UMLSCUI:C1512346",
+        "UMLS:C1512346",
         "SCTID:103324002"
     ],
     feature = {

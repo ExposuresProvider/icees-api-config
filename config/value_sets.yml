@@ -12,6 +12,19 @@ A1AT_Deficiency:
 A1AT_DeficiencyVisit:
 - 'No'
 - 'Yes'
+A1C:
+- '0'
+- '1'
+A1C_flag_first:
+- low
+- normal
+- high
+- abnormal
+A1C_flag_last:
+- low
+- normal
+- high
+- abnormal
 ALT:
 - '0'
 - '1'
@@ -327,6 +340,10 @@ Antibiotics:
 - '1'
 - '>1'
 AntibioticsVisit:
+- '0'
+- '1'
+- '>1'
+AntihistamineRx:
 - '0'
 - '1'
 - '>1'
@@ -878,6 +895,14 @@ AvgDailySO2Exposure_2_qcutVisit:
 - 3
 - 4
 - 5
+AztreonamRx:
+- '0'
+- '1'
+- '>1'
+AzythromycinRx:
+- '0'
+- '1'
+- '>1'
 BMI_CATEGORY:
 - Normal (18.5 to <25)
 - Over (25 to <30)
@@ -1074,6 +1099,15 @@ CK_flag_lastVisit:
 - low
 - normal
 - high
+CLARK_prediction:
+- 0
+- 1
+CLARK_prediction_NotPCD:
+- 0
+- 1
+CLARK_prediction_PCD:
+- 0
+- 1
 CRRT_HD:
 - '0'
 - '1'
@@ -1331,6 +1365,10 @@ ChronicObstructivePulmonaryDiseaseVisit:
 - '0'
 - '1'
 - '>1'
+ChronicSinusitisDx:
+- '0'
+- '1'
+- '>1'
 Ciclesonide:
 - '0'
 - '1'
@@ -1353,6 +1391,10 @@ CitalopramVisit:
 - '0'
 - '1'
 - '>1'
+ClarithromycinRx:
+- '0'
+- '1'
+- '>1'
 CodeBlueVisit:
 - '0'
 - '1'
@@ -1365,6 +1407,15 @@ ConcomitantDrugsVisit:
 - 0-2
 - 3-4
 - '>5'
+Confirmed_CF_Dx:
+- '0'
+- '1'
+Confirmed_IdiopathicBronchiectasisDx:
+- '0'
+- '1'
+Confirmed_PCD_Dx:
+- '0'
+- '1'
 CongestiveHeartFailure:
 - 'No'
 - 'Yes'
@@ -2018,6 +2069,9 @@ ExtracorporealVentilationORSystemicAssistanceVisit:
 - '0'
 - '1'
 - '>1'
+FEV:
+- '0'
+- '1'
 FEV1FVC_flag_first:
 - low
 - normal
@@ -2026,6 +2080,36 @@ FEV1FVC_flag_last:
 - low
 - normal
 - high
+FEV1_FVC:
+- '0'
+- '1'
+FEV1_FVC_flag_last:
+- low
+- normal
+- high
+FEV_flag_first:
+- low
+- normal
+- high
+FEV_flag_last:
+- low
+- normal
+- high
+FVC:
+- '0'
+- '1'
+FVC_flag_first:
+- low
+- normal
+- high
+FVC_flag_last:
+- low
+- normal
+- high
+FailureToThriveDx:
+- '0'
+- '1'
+- '>1'
 FamilyHistoryLiverDisease:
 - 'No'
 - 'Yes'
@@ -2148,6 +2232,19 @@ GilbertsSyndrome:
 GilbertsSyndromeVisit:
 - 'No'
 - 'Yes'
+GlucoseToleranceTest:
+- '0'
+- '1'
+GlucoseToleranceTest_flag_first:
+- low
+- normal
+- high
+- abnormal
+GlucoseToleranceTest_flag_last:
+- low
+- normal
+- high
+- abnormal
 Goserelin:
 - '0'
 - '1'
@@ -2258,18 +2355,22 @@ Hemoglobin_flag_first:
 - low
 - normal
 - high
+- abnormal
 Hemoglobin_flag_firstVisit:
 - low
 - normal
 - high
+- abnormal
 Hemoglobin_flag_last:
 - low
 - normal
 - high
+- abnormal
 Hemoglobin_flag_lastVisit:
 - low
 - normal
 - high
+- abnormal
 HepatitisA:
 - 'No'
 - 'Yes'
@@ -2395,6 +2496,23 @@ IN_ICEES:
 - '1'
 - '>1'
 IN_ICEESVisit:
+- '0'
+- '1'
+- '>1'
+IgE:
+- '0'
+- '1'
+IgE_flag_first:
+- low
+- normal
+- high
+- abnormal
+IgE_flag_last:
+- low
+- normal
+- high
+- abnormal
+ImatinibRx:
 - '0'
 - '1'
 - '>1'
@@ -2548,6 +2666,10 @@ Itching:
 ItchingVisit:
 - 'No'
 - 'Yes'
+IvacaftorRx:
+- '0'
+- '1'
+- '>1'
 Jaundice:
 - 'No'
 - 'Yes'
@@ -2686,6 +2808,9 @@ LiverTransplant:
 LiverTransplantVisit:
 - 'No'
 - 'Yes'
+LungTransplant:
+- 'No'
+- 'Yes'
 MEDIANHOUSEHOLDINCOME_cut:
 - 1
 - 2
@@ -2747,6 +2872,10 @@ MaleInfertilityDueToSpermDysfunctionDxVisit:
 - '1'
 - '>1'
 MaleInfertilityDueToSpermDysfunctionVisit:
+- '0'
+- '1'
+- '>1'
+MaleInfertilityDx:
 - '0'
 - '1'
 - '>1'
@@ -3100,6 +3229,10 @@ NitricOxideOrFolanVisit:
 - '0'
 - '1'
 - '>1'
+NitricOxideRx:
+- '0'
+- '1'
+- '>1'
 NonInvasivePositivePressureVentilation:
 - '0'
 - '1'
@@ -3171,6 +3304,10 @@ Omalizumab:
 - '1'
 - '>1'
 OmalizumabVisit:
+- '0'
+- '1'
+- '>1'
+OrkambiRx:
 - '0'
 - '1'
 - '>1'
@@ -3388,6 +3525,10 @@ Procalcitonin_flag_lastVisit:
 - low
 - normal
 - high
+ProductiveCoughDx:
+- '0'
+- '1'
+- '>1'
 Progesterone:
 - '0'
 - '1'
@@ -3422,6 +3563,21 @@ PulmonaryDisease:
 PulmonaryDiseaseVisit:
 - 'No'
 - 'Yes'
+PulmozymeRx:
+- '0'
+- '1'
+- '>1'
+PulseOximetry:
+- '0'
+- '1'
+PulseOximetry_flag_first:
+- low
+- normal
+- high
+PulseOximetry_flag_last:
+- low
+- normal
+- high
 QXAGE:
 - 0-2
 - 3-17
@@ -3542,22 +3698,6 @@ RenalDisease:
 RenalDiseaseVisit:
 - 'No'
 - 'Yes'
-RespiratorySupportHFNC:
-- '0'
-- '1'
-- '>1'
-RespiratorySupportHNO3orFlolan:
-- '0'
-- '1'
-- '>1'
-RespiratorySupportInvasiveVentilator:
-- '0'
-- '1'
-- '>1'
-RespiratorySupportNIPPV:
-- '0'
-- '1'
-- '>1'
 RespiratorySupportSupplementalO2:
 - '0'
 - '1'
@@ -3826,6 +3966,10 @@ SexVisit:
 - Female
 - Unknown
 - Other
+SitusInversusOrHeterotaxyDx:
+- '0'
+- '1'
+- '>1'
 SmokingStatus:
 - '0'
 - '1'
@@ -3856,12 +4000,19 @@ SpO2FiO2ratio_flag_lastVisit:
 - low
 - normal
 - high
+SputumCulture:
+- Negative
+- Positive
 StevensJohnsonSyndrome:
 - 'No'
 - 'Yes'
 StevensJohnsonSyndromeVisit:
 - 'No'
 - 'Yes'
+SupplementalOxygen:
+- '0'
+- '1'
+- '>1'
 SvO2:
 - '0'
 - '1'
@@ -4036,6 +4187,10 @@ Thrombocytopenia:
 ThrombocytopeniaVisit:
 - 'No'
 - 'Yes'
+TobramycinRx:
+- '0'
+- '1'
+- '>1'
 Tocilizumab:
 - '0'
 - '1'
@@ -4085,6 +4240,10 @@ Trazodone:
 - '1'
 - '>1'
 TrazodoneVisit:
+- '0'
+- '1'
+- '>1'
+TrikaftaRx:
 - '0'
 - '1'
 - '>1'
@@ -4165,6 +4324,18 @@ Ventilator:
 - '1'
 - '>1'
 VentilatorVisit:
+- '0'
+- '1'
+- '>1'
+VitaminA_Rx:
+- '0'
+- '1'
+- '>1'
+VitaminB_Rx:
+- '0'
+- '1'
+- '>1'
+VitaminK_Rx:
 - '0'
 - '1'
 - '>1'

@@ -5,9 +5,9 @@ in {
     name = "HgbA1C",
     identifiers = [
         "NCIT:C122507",
-        "UMLSCUI:C0239940",
+        "UMLS:C0239940",
         "NCIT:C64849",
-        "UMLSCUI:C0202054",
+        "UMLS:C0202054",
         "SCTID:733829007",
         "SCTID:143080000",
         "SCTID:702945004",

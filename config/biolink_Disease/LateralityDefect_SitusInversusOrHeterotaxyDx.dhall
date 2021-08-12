@@ -51,6 +51,6 @@ in {
         "SCITD:C0266642",
         "NCIT:C117273",
         "NCIT:C87121",
-        "UMLSCUI:C0037221"
+        "UMLS:C0037221"
     ]
 }

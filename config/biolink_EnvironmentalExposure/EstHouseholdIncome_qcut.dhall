@@ -7,7 +7,7 @@ in {
     name = "EstHouseholdIncome_qcut",
     identifiers = [
         "NCIT:C70811",
-        "UMLSCUI:C0557163",
+        "UMLS:C0557163",
         "SCTID:224168007",
         "SCTID:365553008"
     ],

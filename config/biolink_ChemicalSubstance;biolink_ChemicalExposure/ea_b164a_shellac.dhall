@@ -5,7 +5,7 @@ let max_cutoff = binning_strategies.max_cutoff
 in {
     name = "ea_b164a_shellac",
     identifiers = [
-        "UMLSCUI:C0074445",
+        "UMLS:C0074445",
         "NCIT:C66001"
     ],
     feature = {

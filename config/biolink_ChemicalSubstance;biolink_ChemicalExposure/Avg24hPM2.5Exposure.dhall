@@ -8,7 +8,7 @@ in {
     identifiers = [
         "MESH:D052638",
         "NCIT:C29886",
-        "UMLSCUI:C1510837",
+        "UMLS:C1510837",
         "SCTID:278694008",
         "ENVO:01000060"
     ],

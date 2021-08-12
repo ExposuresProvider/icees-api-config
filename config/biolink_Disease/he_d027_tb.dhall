@@ -6,7 +6,7 @@ in {
     name = "he_d027_tb",
     identifiers = [
         "NCIT:C3423",
-        "UMLSCUI:C0041296",
+        "UMLS:C0041296",
         "LOINC:LA10513-2",
         "LOINC:LP75796-0",
         "SCITD:56717001",

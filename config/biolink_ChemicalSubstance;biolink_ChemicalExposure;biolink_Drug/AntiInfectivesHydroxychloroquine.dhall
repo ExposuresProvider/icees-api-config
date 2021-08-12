@@ -113,9 +113,9 @@ in {
         "SCTID:12569911000001107",
         "SCTID:12570411000001102",
         "NCIT:C557",
-        "UMLSCUI:C0020336",
+        "UMLS:C0020336",
         "NCIT:C29101",
-        "UMLSCUI:C0596007",
+        "UMLS:C0596007",
         "CHEBI:5801",
         "PUBCHEM.COMPOUND:3652"
     ],

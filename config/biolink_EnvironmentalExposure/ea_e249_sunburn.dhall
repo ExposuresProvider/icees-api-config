@@ -5,7 +5,7 @@ let max_cutoff = binning_strategies.max_cutoff
 in {
     name = "ea_e249_sunburn",
     identifiers = [
-        "C3395",
+        "NCIT:C3395",
         "MESH:D013471",
         "SCTID:403194002",
         "MONDO:0005326"

@@ -17,19 +17,19 @@ in {
         "RxNorm:OMOP999413",
         "RxNorm:OMOP2800104",
         "NCIT:C61022",
-        "UMLSCUI:C0428301",
+        "UMLS:C0428301",
         "NCIT:C55114",
-        "UMLSCUI:C1557204",
+        "UMLS:C1557204",
         "NCIT:C55115",
-        "UMLSCUI:C1557205",
+        "UMLS:C1557205",
         "NCIT:C55113",
-        "UMLSCUI:C1557203",
+        "UMLS:C1557203",
         "NCIT:C55116",
-        "UMLSCUI:C1557206",
+        "UMLS:C1557206",
         "NCIT:C55117",
-        "UMLSCUI:C1557207",
+        "UMLS:C1557207",
         "NCIT:C78181",
-        "UMLSCUIC0541802"
+        "UMLS:C0541802"
     ],
     mapping = generic_fhir_mapping [
         {

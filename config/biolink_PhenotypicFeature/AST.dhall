@@ -19,17 +19,17 @@ in {
         "LOINC:LP43338-0",
         "LOINC:LP43340-6",
         "NCIT:C25202",
-        "UMLSCUI:C0242192",
+        "UMLS:C0242192",
         "NCIT:C64467",
-        "UMLSCUI:C0201899",
+        "UMLS:C0201899",
         "NCIT:C143301",
-        "UMLSCUI:CL541699",
+        "UMLS:CL541699",
         "NCIT:C38502",
-        "UMLSCUI:C0684153",
+        "UMLS:C0684153",
         "NCIT:C26947",
-        "UMLSCUI:C4076281",
+        "UMLS:C4076281",
         "NCIT:C38500",
-        "UMLSCUI:C0949643"
+        "UMLS:C0949643"
     ],
     mapping = generic_fhir_mapping [
         {

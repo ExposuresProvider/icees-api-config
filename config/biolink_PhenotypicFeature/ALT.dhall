@@ -15,19 +15,19 @@ in {
         "LOINC:LP89685-9",
         "SCTID:56935002",
         "NCIT:C25293",
-        "UMLSCUI:C0376147",
+        "UMLS:C0376147",
         "NCIT:C64433",
-        "UMLSCUI:C0201836",
+        "UMLS:C0201836",
         "NCIT:C38507",
-        "UMLSCUI:C0001899",
+        "UMLS:C0001899",
         "NCIT:C143267",
-        "UMLSCUI:CL541630",
+        "UMLS:CL541630",
         "NCIT:C145734",
-        "UMLSCUI:CL543823",
+        "UMLS:CL543823",
         "NCIT:C38509",
-        "UMLSCUI:C2364022",
+        "UMLS:C2364022",
         "NCIT:C26948",
-        "UMLSCUI:C0151905"
+        "UMLS:C0151905"
     ],
     mapping = generic_fhir_mapping [
         {

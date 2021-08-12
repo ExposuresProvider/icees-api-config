@@ -8,7 +8,7 @@ in {
         "PUBCHEM.COMPOUND:31369",
         "CHEBI:39481",
         "CHEBI:60505",
-        "UMLSCUI:C0008267",
+        "UMLS:C0008267",
         "NCIT:C44356"
     ],
     feature = {

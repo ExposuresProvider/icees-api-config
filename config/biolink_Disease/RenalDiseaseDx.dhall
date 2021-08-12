@@ -178,7 +178,7 @@ in {
         "LOINC:LP146090-8",
         "LOINC:LP134072-0",
         "NCIT:C80078",
-        "UMLSCUI:C1561643",
+        "UMLS:C1561643",
         "SCTID:38481006",
         "SCTID:57088004",
         "SCTID:38481006",

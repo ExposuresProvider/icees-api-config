@@ -6,7 +6,7 @@ in {
     name = "ChronicArteryDiseaseDx",
     identifiers = [
         "NCIT:C12372",
-        "UMLSCUI:C0003842",
+        "UMLS:C0003842",
         "MONDO:0000473",
         "SCTID:27624003"
     ],

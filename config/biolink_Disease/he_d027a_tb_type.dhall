@@ -94,13 +94,13 @@ in {
         "MESH:D055985",
         "MESH:D009169",
         "NCIT:C123020",
-        "UMLSCUI:C0041328",
+        "UMLS:C0041328",
         "NCIT:C171226",
-        "UMLSCUI:C0041332",
+        "UMLS:C0041332",
         "NCIT:C26897",
-        "UMLSCUI:C3203357",
+        "UMLS:C3203357",
         "NCIT:C26804",
-        "UMLSCUI:C0022415"
+        "UMLS:C0022415"
     ],
     feature = {
         feature_type = enum [

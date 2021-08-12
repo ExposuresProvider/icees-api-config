@@ -4,7 +4,7 @@ in {
     name = "ICU",
     identifiers = [
         "NCIT:C53511",
-        "UMLSCUI:C0021708",
+        "UMLS:C0021708",
         "NCIT:C171454",
         "LOINC:LP173045-8",
         "SCTID:309904001",

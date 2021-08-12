@@ -8,9 +8,9 @@ in {
         "LOINC:LP15765-8",
         "LOINC:LP71270-0",
         "NCIT:C71251",
-        "UMLSCUI:C0202155",
+        "UMLS:C0202155",
         "NCIT:C147417",
-        "UMLSCUI:CL545320"
+        "UMLS:CL545320"
     ],
     mapping = generic_fhir_mapping [
         {

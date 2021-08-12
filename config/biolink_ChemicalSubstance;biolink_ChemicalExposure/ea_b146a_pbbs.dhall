@@ -5,7 +5,7 @@ let max_cutoff = binning_strategies.max_cutoff
 in {
     name = "ea_b146a_pbbs",
     identifiers = [
-        "UMLSCUI:C0032441",
+        "UMLS:C0032441",
         "NCIT:C44436"
     ],
     feature = {

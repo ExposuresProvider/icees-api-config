@@ -7,7 +7,7 @@ in {
         "LOINC:20570-8",
         "LOINC:4544-3",
         "NCIT:C64796",
-        "UMLSCUI:C0018935",
+        "UMLS:C0018935",
         "SCTID:365616005"
     ],
     feature = {

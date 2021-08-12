@@ -10,9 +10,9 @@ in {
         "MONDO:0016788",
         "MONDO:0010952",
         "NCIT:C16577",
-        "UMLSCUI:C0015879",
+        "UMLS:C0015879",
         "NCIT:C74737",
-        "UMLSCUI:C0373607",
+        "UMLS:C0373607",
         "NCIT:C172522"
     ],
     mapping = generic_fhir_mapping [

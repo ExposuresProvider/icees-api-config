@@ -7,7 +7,7 @@ in {
     name = "EstProbabilityNoHealthIns_qcut",
     identifiers = [
         "NCIT:C70696",
-        "UMLSCUI:C2347682",
+        "UMLS:C2347682",
         "SCTID:419808006"
     ],
     mapping = geoid_mapping {

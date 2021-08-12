@@ -7,7 +7,7 @@ in {
     name = "EstProbabilityHouseholdNonHispWhite",
     identifiers = [
         "NCIT:C93992",
-        "UMLSCUI:C2986190",
+        "UMLS:C2986190",
         "SCTID:185984009"
     ],
     mapping = geoid_mapping {

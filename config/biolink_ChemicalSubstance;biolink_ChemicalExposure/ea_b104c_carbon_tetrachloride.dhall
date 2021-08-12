@@ -7,7 +7,7 @@ in {
     identifiers = [
         "CHEBI:27385",
         "NCIT:C63923",
-        "UMLSCUI:C0007022"
+        "UMLS:C0007022"
     ],
     feature = {
         feature_type = enum [
