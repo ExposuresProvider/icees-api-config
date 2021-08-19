@@ -17,7 +17,7 @@ system_links = {'LOINC' : 'http://loinc.org', 'ICD10CN' : 'ICD-10-CN', 'ICD10CM'
 
 def add_dict(target, d):
     for key in d:
-        target.setdefault(key, []).append(d[key])
+        target.setdefault(key, []).extend(d[key])
 
 with open(r'consistent_FHIR_mapping.yml') as file:
     consistent_identifier = yaml.full_load(file)
@@ -34,6 +34,7 @@ for key, value in consistent_identifier["dictitems"].items():
             code = item.rsplit(':', 1)[1]
             domain_ls.setdefault(domain,[]).append({'system': system_links[vocab], 'code': code})
     #print(key)
+    #print(domain_ls)
     test[key]=domain_ls
 
 
@@ -42,10 +43,11 @@ for key1 in FHIR_mappings["FHIR"]:
         d3={}
         add_dict(d3,FHIR_mappings["FHIR"][key1])
         add_dict(d3,test[key1])
+        #print(d3)
         FHIR_mappings["FHIR"][key1] =d3
 for key in test:
     if key not in FHIR_mappings["FHIR"]:
-        print(key)
+        #print(key)
         FHIR_mappings["FHIR"][key] = test[key]
 
 with open(r'updated_FHIR_mapping.yml', 'w') as file:
