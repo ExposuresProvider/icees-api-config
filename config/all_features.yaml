@@ -334,6 +334,9 @@ patient:
     maximum: 2021
     minimum: 2010
     type: integer
+  study_period:
+    categories: []
+    type: string
   A*02:01:
     categories:
     - biolink:SequenceVariant
