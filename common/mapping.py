@@ -87,7 +87,7 @@ for table in dataset:
             "categories": feature["feature"]["categories"]
         }
         for key in ["minimum", "maximum", "enum"]:
-            if key in feature["feature"]["feature_type"]["param"]:
+            if key in feature["feature"]["feature_type"].get("param", {}):
                 feature_out[key] = feature["feature"]["feature_type"]["param"][key]
         features[table_name][feature_name] = feature_out
         
