@@ -197,6 +197,7 @@ let variables = [
     v.A1C_flag_last,
     v.LungTransplant,
     v.year,
+    v.study_period,
     v.ALT_Onset_ULN,
     v.ALT_flag_first,
     v.ALT_flag_last,

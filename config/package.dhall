@@ -198,6 +198,7 @@ in {
     A1C_flag_last = FeatureVariable :: (./biolink_PhenotypicFeature/A1C_flag_last.dhall),
     LungTransplant = FeatureVariable :: (./biolink_ClinicalIntervention;biolink_PhenotypicFeature/LungTransplant.dhall),
     year = FeatureVariable :: (./Uncategorized/year.dhall),
+    study_period = FeatureVariable :: (./Uncategorized/study_period.dhall),
     ALT_Onset_ULN = FeatureVariable :: (./biolink_PhenotypicFeature/ALT_Onset_ULN.dhall),
     ALT_flag_first = FeatureVariable :: (./biolink_PhenotypicFeature/ALT_flag_first.dhall),
     ALT_flag_last = FeatureVariable :: (./biolink_PhenotypicFeature/ALT_flag_last.dhall),
