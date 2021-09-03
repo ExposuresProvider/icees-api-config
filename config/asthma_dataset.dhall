@@ -161,7 +161,7 @@ let variables = [
     v.DISTANCE2_qcut,
     v.DailyWetCoughDx,
     v.DepressionDx,
-    v.Dexamethasone,
+    v.DexamethasoneDx,
     v.DiabetesDx,
     v.Diphenhydramine,
     v.Dobutamine_gtt,
