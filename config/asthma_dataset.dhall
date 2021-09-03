@@ -95,7 +95,7 @@ let variables = [
     v.AlcoholDependenceDx,
     v.AlopeciaDx,
     v.Amiodarone_gttRx,
-    v.Anakinra,
+    v.AnakinraRx,
     v.Androstenedione,
     v.Antibiotics,
     v.AnxietyDx,
