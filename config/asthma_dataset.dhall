@@ -332,7 +332,7 @@ let variables = [
     v.Max24hOzoneExposure_2,
     v.Max24hOzoneExposure_2_qcut,
     v.`Max24hPM2.5Exposure`,
-    v.`Max24hPM2.5Exposure_qcut`,
+    v.`Max24hPM2.5Exposure_qcut`
 ]
 in [
     {
