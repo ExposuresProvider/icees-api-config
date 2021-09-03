@@ -2080,13 +2080,6 @@ FEV1FVC_flag_last:
 - low
 - normal
 - high
-FEV1_FVC:
-- '0'
-- '1'
-FEV1_FVC_flag_last:
-- low
-- normal
-- high
 FEV_flag_first:
 - low
 - normal
