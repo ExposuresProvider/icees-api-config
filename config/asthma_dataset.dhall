@@ -184,7 +184,7 @@ let variables = [
     v.ESTTOTALPOP25PLUS_cut,
     v.ESTTOTALPOP25PLUS_qcut,
     v.EndometriosisDx,
-    v.Epinephrine_gtt,
+    v.Epinephrine_gttRx,
     v.Escitalopram,
     v.Esmolol_gtt,
     v.EstHouseholdIncome,
