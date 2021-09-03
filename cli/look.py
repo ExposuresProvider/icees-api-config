@@ -28,7 +28,7 @@ df = pd.read_csv(input_file_path, dtype=str, na_filter=False)
 if grep_string is not None:
     df = df[df.apply(lambda r: r.str.contains(grep_string).any(), axis=1)]
 
-if len(select_columns) > 0:
+if select_columns is not None and len(select_columns) > 0:
     df = df[select_columns]
 
 if distinct:
