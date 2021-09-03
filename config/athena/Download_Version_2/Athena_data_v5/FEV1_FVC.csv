@@ -1,0 +1,37 @@
+﻿Id	Code	Name	Standard Class	Domain	Vocab	Validity	Concept
+4064741	165044007	FEV1/FVC ratio abnormal	Clinical Finding	Condition	SNOMED	Valid	Standard
+4065410	165043001	FEV1/FVC ratio normal	Clinical Finding	Condition	SNOMED	Valid	Standard
+4151447	314472003	FEV1/FVC < 70% of predicted	Clinical Finding	Condition	SNOMED	Valid	Standard
+4152057	314473008	FEV1/FVC > 70% of predicted	Clinical Finding	Condition	SNOMED	Valid	Standard
+40298383	142216003	FEV1/FVC ratio normal	Context-dependent	Condition	SNOMED	Invalid	Non-standard
+40298384	142217007	FEV1/FVC ratio abnormal	Context-dependent	Condition	SNOMED	Invalid	Non-standard
+40298831	142237006	FEV1/FVC > 70% of predicted	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40298832	142238001	FEV1/FVC < 70% of predicted	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40330597	165064002	FEV1/FVC > 70% of predicted	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40330598	165065001	FEV1/FVC < 70% of predicted	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3011505	19926-5	FEV1/FVC	Clinical Observation	Measurement	LOINC	Valid	Standard
+3024594	19925-7	FEV1/FVC Predicted	Clinical Observation	Measurement	LOINC	Valid	Standard
+40768348	65657-9	Deprecated FEV1/predicted	Clinical Observation	Measurement	LOINC	Invalid	Non-standard
+42868459	69970-2	FEV1/FVC --post bronchodilation	Clinical Observation	Measurement	LOINC	Valid	Standard
+42868473	69984-3	FEV1/FVC percent change	Clinical Observation	Measurement	LOINC	Valid	Standard
+3572517	100751000000105	FEV1/FVC ratio pre steroids	Observable Entity	Measurement	SNOMED	Invalid	Non-standard
+3572523	100761000000108	FEV1/FVC ratio post steroids	Observable Entity	Measurement	SNOMED	Invalid	Non-standard
+3574663	95871000000106	FEV1/FVC ratio pre steroids	Observable Entity	Measurement	SNOMED	Invalid	Non-standard
+3574664	95881000000108	FEV1/FVC ratio post steroids	Observable Entity	Measurement	SNOMED	Invalid	Non-standard
+3574665	95891000000105	FEV1/FVC ratio before bronchodilator	Observable Entity	Measurement	SNOMED	Invalid	Non-standard
+3574666	95901000000106	FEV1/FVC ratio after bronchodilator	Observable Entity	Measurement	SNOMED	Invalid	Non-standard
+3574667	100771000000101	FEV1/FVC ratio before bronchodilator	Observable Entity	Measurement	SNOMED	Invalid	Non-standard
+3574668	100781000000104	FEV1/FVC ratio after bronchodilator	Observable Entity	Measurement	SNOMED	Invalid	Non-standard
+4090331	251944000	Forced expired volume in one second/forced vital capacity ratio	Observable Entity	Measurement	SNOMED	Valid	Standard
+4150245	310360002	Expected FEV1/FVC ratio	Observable Entity	Measurement	SNOMED	Valid	Standard
+4196583	313222007	FEV1/FVC percent	Observable Entity	Measurement	SNOMED	Valid	Standard
+4233038	407602006	FEV1/FVC ratio before bronchodilator	Observable Entity	Measurement	SNOMED	Valid	Standard
+4236290	407599001	Forced expiratory volume in one second/Forced vital capacity ratio pre steroids	Observable Entity	Measurement	SNOMED	Valid	Standard
+4250004	407601004	Forced expiratory volume in one second/Forced vital capacity ratio post steroids	Observable Entity	Measurement	SNOMED	Valid	Standard
+4250005	407603001	Forced expiratory volume 1 (FEV1)/ forced vital capacity (FVC) ratio after bronchodilator	Observable Entity	Measurement	SNOMED	Valid	Standard
+40298400	142231007	Expected FEV1/FVC ratio	Observable Entity	Measurement	SNOMED	Invalid	Non-standard
+40298829	142235003	FEV1/FVC percent	Observable Entity	Measurement	SNOMED	Invalid	Non-standard
+40330590	165058009	Expected FEV1/FVC ratio	Clinical Finding	Measurement	SNOMED	Invalid	Non-standard
+40330595	165062003	FEV1/FVC percent	Clinical Finding	Measurement	SNOMED	Invalid	Non-standard
+"2106191	3025F	Spirometry test results demonstrate FEV1/FVC less than 70% with COPD symptoms (eg, dyspnea, cough/sputum, wheezing) (CAP, COPD)	CPT4	Observation	CPT4	Valid	Standard"
+2106212	3027F	Spirometry test results demonstrate FEV1/FVC greater than or equal to 70% or patient does not have COPD symptoms (COPD)	CPT4	Observation	CPT4	Valid	Standard

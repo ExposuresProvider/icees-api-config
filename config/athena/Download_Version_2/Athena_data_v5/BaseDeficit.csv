@@ -1,0 +1,30 @@
+﻿Id	Code	Name	Standard Class	Domain	Vocab	Validity	Concept
+4010484	102634007	Base deficit	Clinical Finding	Condition	SNOMED	Valid	Standard
+3004559	1924-0	Base deficit in Venous blood	Lab Test	Measurement	LOINC	Valid	Standard
+3018759	28637-7	Base deficit in Venous cord blood	Lab Test	Measurement	LOINC	Valid	Standard
+3019199	1923-2	Base deficit in Capillary blood	Lab Test	Measurement	LOINC	Valid	Standard
+3021800	30318-0	Base deficit in Blood	Lab Test	Measurement	LOINC	Valid	Standard
+3023548	1922-4	Base deficit in Arterial blood	Lab Test	Measurement	LOINC	Valid	Standard
+3033811	30317-2	Base deficit in Arterial cord blood	Lab Test	Measurement	LOINC	Valid	Standard
+3041682	53116-0	Base deficit in Mixed venous blood	Lab Test	Measurement	LOINC	Valid	Standard
+37023190	LP383297-1	Base deficit | Blood arterial | Chemistry - non-challenge	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37040297	LP383298-9	Base deficit | Blood capillary | Chemistry - non-challenge	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37044497	LP383301-1	Base deficit | Blood cord venous | Chemistry - non-challenge	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37050218	LP383300-3	Base deficit | Blood cord arterial | Chemistry - non-challenge	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37058106	LP383299-7	Base deficit | Blood cord | Chemistry - non-challenge	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37059450	LP383303-7	Base deficit | Blood venous | Chemistry - non-challenge	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37069682	LP383302-9	Base deficit | Blood mixed venous | Chemistry - non-challenge	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37069790	LP383296-3	Base deficit | Blood | Chemistry - non-challenge	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+40762247	59154-5	Base deficit in Cord blood	Lab Test	Measurement	LOINC	Valid	Standard
+40777074	LP46145-6	Base Deficit | Blood arterial	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40777396	LP49420-0	Base Deficit | Blood cord arterial	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40777397	LP49421-8	Base Deficit | Bld-Ser-Plas	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40787326	LP48932-5	Base Deficit | Blood cord venous	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40788746	LP99896-0	Base deficit | Blood cord	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40791682	LP70045-7	Base deficit | Blood mixed venous	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40793562	LP46153-0	Base Deficit | Blood capillary	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40793564	LP46159-7	Base Deficit | Blood venous	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+4095105	26154000	Base deficit measurement	Procedure	Measurement	SNOMED	Valid	Standard
+44806433	791961000000109	Cord venous blood base deficit	Observable Entity	Measurement	SNOMED	Valid	Standard
+40795794	LP15428-3	Base deficit	LOINC Component	Observation	LOINC	Valid	Non-standard
+36716957	723209009	Base deficit calculation technique	Qualifier Value	Observation	SNOMED	Valid	Standard

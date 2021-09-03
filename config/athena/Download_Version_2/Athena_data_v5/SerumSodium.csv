@@ -1,0 +1,14 @@
+﻿Id	Code	Name	Standard Class	Domain	Vocab	Validity	Concept
+4043089	166692000	Serum sodium level normal	Clinical Finding	Condition	SNOMED	Valid	Standard
+4043090	166693005	Serum sodium level abnormal	Clinical Finding	Condition	SNOMED	Valid	Standard
+4269836	365746001	Serum sodium valproate level - finding	Clinical Finding	Condition	SNOMED	Valid	Standard
+"2212571	84295	Sodium; serum, plasma or whole blood	CPT4	Measurement	CPT4	Valid	Standard"
+36031761	96293-6	Sodium nitrite IgE Ab [Units/volume] in Serum	Lab Test	Measurement	LOINC	Valid	Standard
+"4021154	104934005	Sodium measurement, serum	Procedure	Measurement	SNOMED	Valid	Standard"
+4155240	269868008	Serum sodium valproate measurement	Procedure	Measurement	SNOMED	Valid	Standard
+37392172	1000661000000107	Serum sodium level	Observable Entity	Measurement	SNOMED	Valid	Standard
+37394111	1026691000000107	Serum sodium valproate level	Observable Entity	Measurement	SNOMED	Valid	Standard
+40307198	143995000	Serum sodium (& level)	Procedure	Measurement	SNOMED	Invalid	Non-standard
+40307851	144210005	Valproate level: [blood (& epilim)] or [serum]	Procedure	Measurement	SNOMED	Invalid	Non-standard
+40328427	166691007	Serum sodium (& level)	Procedure	Measurement	SNOMED	Invalid	Non-standard
+40329616	166945002	Valproate level: [blood (& epilim)] or [serum]	Procedure	Measurement	SNOMED	Invalid	Non-standard

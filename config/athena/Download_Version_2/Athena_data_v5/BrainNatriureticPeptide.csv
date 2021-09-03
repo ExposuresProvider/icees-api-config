@@ -1,0 +1,16 @@
+﻿Id	Code	Name	Standard Class	Domain	Vocab	Validity	Concept
+3011960	30934-4	Natriuretic peptide B [Mass/volume] in Serum or Plasma	Lab Test	Measurement	LOINC	Valid	Standard
+3029187	33762-6	Natriuretic peptide.B prohormone N-Terminal [Mass/volume] in Serum or Plasma	Lab Test	Measurement	LOINC	Valid	Standard
+3029435	33763-4	Natriuretic peptide.B prohormone N-Terminal [Moles/volume] in Serum or Plasma	Lab Test	Measurement	LOINC	Valid	Standard
+3031569	42637-9	Natriuretic peptide B [Mass/volume] in Blood	Lab Test	Measurement	LOINC	Valid	Standard
+3031738	35257-5	Natriuretic peptide B [Mass or Moles/volume] in Serum or Plasma	Lab Test	Measurement	LOINC	Invalid	Non-standard
+3052295	47092-2	Natriuretic peptide B [Moles/volume] in Serum or Plasma	Lab Test	Measurement	LOINC	Valid	Standard
+42529224	83107-3	Natriuretic peptide.B prohormone N-Terminal [Mass/volume] in Serum or Plasma by Immunoassay	Lab Test	Measurement	LOINC	Valid	Standard
+42529225	83108-1	Natriuretic peptide.B prohormone N-Terminal [Moles/volume] in Serum or Plasma by Immunoassay	Lab Test	Measurement	LOINC	Valid	Standard
+42870364	71425-3	Natriuretic peptide.B prohormone N-Terminal [Mass/volume] in Blood by Immunoassay	Lab Test	Measurement	LOINC	Valid	Standard
+46236287	77621-1	Natriuretic peptide.B prohormone N-Terminal [Mass/volume] in Pleural fluid by Immunoassay	Lab Test	Measurement	LOINC	Valid	Standard
+46236288	77622-9	Natriuretic peptide.B prohormone N-Terminal [Mass/volume] in Peritoneal dialysis fluid by Immunoassay	Lab Test	Measurement	LOINC	Valid	Standard
+4307029	390917008	Brain natriuretic peptide measurement	Procedure	Measurement	SNOMED	Valid	Standard
+37398574	1012131000000106	Brain natriuretic peptide level	Observable Entity	Measurement	SNOMED	Valid	Standard
+40558424	390293004	Brain natriuretic peptide level	Procedure	Measurement	SNOMED	Invalid	Non-standard
+40563430	389561001	Brain natriuretic peptide level	Procedure	Measurement	SNOMED	Invalid	Non-standard

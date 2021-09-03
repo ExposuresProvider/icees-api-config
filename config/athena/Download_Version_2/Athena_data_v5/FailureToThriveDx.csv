@@ -1,0 +1,34 @@
+﻿Id	Code	Name	Standard Class	Domain	Vocab	Validity	Concept
+45563231	P92.6	Failure to thrive in newborn	4-char billing code	Condition	ICD10CM	Valid	Non-standard
+45573034	R62.51	Failure to thrive (child)	5-char billing code	Condition	ICD10CM	Valid	Non-standard
+45602035	R62.7	Adult failure to thrive	4-char billing code	Condition	ICD10CM	Valid	Non-standard
+44823440	779.34	Failure to thrive in newborn	5-dig billing code	Condition	ICD9CM	Valid	Non-standard
+44828150	783.41	Failure to thrive	5-dig billing code	Condition	ICD9CM	Valid	Non-standard
+44829297	783.7	Adult failure to thrive	4-dig billing code	Condition	ICD9CM	Valid	Non-standard
+45612981	D005183	Failure to Thrive	Main Heading	Condition	MeSH	Valid	Non-standard
+437986	54840006	Failure to thrive	Clinical Finding	Condition	SNOMED	Valid	Standard
+438567	129588001	Adult failure to thrive syndrome	Clinical Finding	Condition	SNOMED	Valid	Standard
+3565668	298121000000100	Organic failure to thrive	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+4048918	206927009	[D]Failure to thrive	Context-dependent	Condition	SNOMED	Invalid	Non-standard
+4060352	162845004	O/E - failure to thrive	Clinical Finding	Condition	SNOMED	Valid	Standard
+4200326	433476000	Failure to thrive in infant	Clinical Finding	Condition	SNOMED	Valid	Standard
+4228272	421660003	Failure to thrive in infant associated with AIDS	Clinical Finding	Condition	SNOMED	Valid	Standard
+4248273	73284007	Marshall-Smith syndrome	Clinical Finding	Condition	SNOMED	Valid	Standard
+"4295308	403526001	Infantile erythroderma, failure to thrive and diarrhea syndrome	Clinical Finding	Condition	SNOMED	Valid	Standard"
+4324055	428484005	Organic failure to thrive	Clinical Finding	Condition	SNOMED	Valid	Standard
+4334175	432788009	Pediatric failure to thrive	Clinical Finding	Condition	SNOMED	Valid	Standard
+"36676500	773400009	Severe feeding difficulties, failure to thrive, microcephaly due to ASXL3 deficiency syndrome	Clinical Finding	Condition	SNOMED	Valid	Standard"
+36717004	134251000119105	Failure to thrive in neonate	Clinical Finding	Condition	SNOMED	Valid	Standard
+37397141	717185008	Deficiency of leukotriene C4 synthase	Clinical Finding	Condition	SNOMED	Valid	Standard
+40298234	140061001	O/E - failure to thrive	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40319331	158280000	[D]Failure to thrive	Context-dependent	Condition	SNOMED	Invalid	Non-standard
+40595410	42028002	AIDS with failure to thrive syndrome (in infant)	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+44791707	298111000000106	[D]Non-organic failure to thrive	Context-dependent	Condition	SNOMED	Invalid	Non-standard
+44791712	298131000000103	Non organic failure to thrive	Clinical Finding	Condition	SNOMED	Valid	Standard
+44802845	496971000000104	[D]Failure to thrive	Context-dependent	Condition	SNOMED	Invalid	Non-standard
+45885310	LA17847-7	Following chronic failure to thrive	Answer	Meas Value	LOINC	Valid	Standard
+1027600	LP36298-5	Failure to thrive	LOINC Component	Observation	LOINC	Valid	Non-standard
+3037990	42819-3	Failure to thrive [CCC]	Survey	Observation	LOINC	Valid	Standard
+3579453	309591000000109	[D]Non-organic failure to thrive	Undefined	Observation	SNOMED	Invalid	Non-standard
+3569100	338971000000102	Dietary education for failure to thrive	Procedure	Procedure	SNOMED	Invalid	Non-standard
+4234041	440511004	Dietary education for failure to thrive	Procedure	Procedure	SNOMED	Valid	Standard

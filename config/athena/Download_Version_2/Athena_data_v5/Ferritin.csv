@@ -1,0 +1,47 @@
+﻿Id	Code	Name	Standard Class	Domain	Vocab	Validity	Concept
+4190893	390943009	Serum ferritin high	Clinical Finding	Condition	SNOMED	Valid	Standard
+4306405	165627009	Serum ferritin normal	Clinical Finding	Condition	SNOMED	Valid	Standard
+4306430	165626000	Ferritin level low	Clinical Finding	Condition	SNOMED	Valid	Standard
+37016158	126121000119104	Low serum ferritin	Clinical Finding	Condition	SNOMED	Valid	Standard
+40557865	390148001	Serum ferritin high	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+44783240	699299001	Neuroferritinopathy	Clinical Finding	Condition	SNOMED	Valid	Standard
+2212333	82728	Ferritin	CPT4	Measurement	CPT4	Valid	Standard
+3001122	2276-4	Ferritin [Mass/volume] in Serum or Plasma	Lab Test	Measurement	LOINC	Valid	Standard
+3010424	14723-1	Ferritin [Moles/volume] in Serum or Plasma	Lab Test	Measurement	LOINC	Invalid	Non-standard
+3011961	24373-3	Ferritin [Mass/volume] in Blood	Lab Test	Measurement	LOINC	Valid	Standard
+3014636	14724-9	Ferritin [Interpretation] in Blood	Lab Test	Measurement	LOINC	Valid	Standard
+3015242	20567-4	Ferritin [Mass/volume] in Serum or Plasma by Immunoassay	Lab Test	Measurement	LOINC	Valid	Standard
+3032099	35209-6	Ferritin [Mass or Moles/volume] in Serum or Plasma	Lab Test	Measurement	LOINC	Invalid	Non-standard
+3041404	53048-5	Ferritin [Mass/volume] in Body fluid	Lab Test	Measurement	LOINC	Valid	Standard
+3051365	48141-6	Ferritin [Entitic mass] in Red Blood Cells	Lab Test	Measurement	LOINC	Valid	Standard
+36305726	86914-9	Ferritin goal [Mass/volume] Serum or Plasma	Clinical Observation	Measurement	LOINC	Valid	Standard
+37046547	LP385081-7	Ferritin | Body fluid | Chemistry - non-challenge	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37047221	LP385080-9	Ferritin | Blood | Chemistry - non-challenge	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37053031	LP385082-5	Ferritin | Red Blood Cells | Chemistry - non-challenge	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37061508	LP384741-7	Transferrin receptor.soluble/log Ferritin index | Serum or Plasma | Chemistry - non-challenge	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37070654	LP385083-3	Ferritin | Serum or Plasma | Chemistry - non-challenge	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+40781776	LP70003-6	Ferritin | Body Fluid	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40784700	LP62244-6	Ferritin | Red Blood Cells	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40796615	LP43619-3	Ferritin | Bld-Ser-Plas	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+44816699	74807-9	Transferrin receptor.soluble/log Ferritin index [Mass Ratio] in Serum or Plasma	Lab Test	Measurement	LOINC	Valid	Standard
+3550567	39881000000100	Plasma ferritin level	Procedure	Measurement	SNOMED	Invalid	Non-standard
+3550658	42191000000104	Plasma ferritin level	Procedure	Measurement	SNOMED	Invalid	Non-standard
+3550754	44271000000101	Plasma ferritin level	Procedure	Measurement	SNOMED	Invalid	Non-standard
+3550998	79801000000108	Plasma ferritin level	Procedure	Measurement	SNOMED	Invalid	Non-standard
+4076928	275759006	Serum ferritin/TIBC measurement	Procedure	Measurement	SNOMED	Valid	Standard
+4148588	269821003	Serum ferritin measurement	Procedure	Measurement	SNOMED	Valid	Standard
+4176561	489004	Ferritin measurement	Procedure	Measurement	SNOMED	Valid	Standard
+4269044	401152007	Plasma ferritin measurement	Procedure	Measurement	SNOMED	Valid	Standard
+37208752	1108601000000104	Ferritin mass concentration in plasma	Observable Entity	Measurement	SNOMED	Valid	Standard
+37208753	1108611000000102	Ferritin mass concentration in serum	Observable Entity	Measurement	SNOMED	Valid	Standard
+37397877	992911000000107	Plasma ferritin level	Observable Entity	Measurement	SNOMED	Valid	Standard
+37397915	993381000000106	Serum ferritin level	Observable Entity	Measurement	SNOMED	Valid	Standard
+40302346	143032003	Serum ferritin level	Procedure	Measurement	SNOMED	Invalid	Non-standard
+40332996	165625001	Serum (& level): [ferritin] or [TIBC])	Procedure	Measurement	SNOMED	Invalid	Non-standard
+"43527958	81506	Endocrinology (type 2 diabetes), biochemical assays of seven analytes (glucose, HbA1c, insulin, hs-CRP, adiponectin, ferritin, interleukin 2-receptor alpha), utilizing serum or plasma, algorithm reporting a risk score	CPT4	Observation	CPT4	Valid	Standard"
+1017435	LP264995-4	Ferritin goal	LOINC Component	Observation	LOINC	Valid	Non-standard
+37027036	LP287262-2	Transferrin receptor.soluble/log Ferritin index	LOINC Component	Observation	LOINC	Valid	Non-standard
+40772593	LP15568-6	Ferritin	LOINC Component	Observation	LOINC	Valid	Non-standard
+3575769	46861000000101	Plasma ferritin level	Undefined	Observation	SNOMED	Invalid	Non-standard
+4102529	25475005	Intracellular ferritin	Body Structure	Spec Anatomic Site	SNOMED	Valid	Standard
+4291802	37725004	Secondary lysosome with ferritin content	Body Structure	Spec Anatomic Site	SNOMED	Valid	Standard

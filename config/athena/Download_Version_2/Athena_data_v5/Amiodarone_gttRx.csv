@@ -1,0 +1,145 @@
+Id	Code	Name	Standard Class	Domain	Vocab	Validity	Concept
+1309944	703	amiodarone	Ingredient	Drug	RxNorm	Valid	Standard
+1309945	197355	Amiodarone 200 MG Oral Tablet	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+1309946	199111	Amiodarone 50 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+1309947	199597	Amiodarone 100 MG Oral Tablet	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+1309948	329128	Amiodarone 200 MG	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+1309949	329129	Amiodarone 50 MG/ML	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+1309951	833527	amiodarone hydrochloride 200 MG	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+1309992	833528	amiodarone hydrochloride 200 MG Oral Tablet	Clinical Drug	Drug	RxNorm	Valid	Standard
+1309994	833531	amiodarone hydrochloride 50 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+1309995	833532	amiodarone hydrochloride 50 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+1309996	833535	amiodarone hydrochloride 50 MG/ML Injectable Solution [Cordarone]	Branded Drug	Drug	RxNorm	Valid	Standard
+1309997	834342	5 ML amiodarone hydrochloride 50 MG/ML Prefilled Syringe	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+1309998	834344	5 ML amiodarone hydrochloride 50 MG/ML Prefilled Syringe [Nexterone]	Quant Branded Drug	Drug	RxNorm	Valid	Standard
+1309999	834346	amiodarone hydrochloride 200 MG Oral Tablet [Pacerone]	Branded Drug	Drug	RxNorm	Valid	Standard
+1310000	834347	amiodarone hydrochloride 400 MG	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+1310001	834348	amiodarone hydrochloride 400 MG Oral Tablet	Clinical Drug	Drug	RxNorm	Valid	Standard
+1310033	834351	amiodarone hydrochloride 50 MG/ML Injectable Solution [Nexterone]	Branded Drug	Drug	RxNorm	Valid	Standard
+1310034	834357	3 ML amiodarone hydrochloride 50 MG/ML Prefilled Syringe	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+1310036	835955	amiodarone hydrochloride 100 MG	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+1310037	835956	amiodarone hydrochloride 100 MG Oral Tablet	Clinical Drug	Drug	RxNorm	Valid	Standard
+1310038	835958	amiodarone hydrochloride 100 MG Oral Tablet [Pacerone]	Branded Drug	Drug	RxNorm	Valid	Standard
+1310039	835959	amiodarone hydrochloride 300 MG	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+1310041	835962	amiodarone hydrochloride 300 MG Oral Tablet [Pacerone]	Branded Drug	Drug	RxNorm	Valid	Standard
+19011511	141875	amiodarone hydrochloride 100 MG Oral Tablet [Cordarone X]	Branded Drug	Drug	RxNorm	Valid	Standard
+19026512	203114	amiodarone hydrochloride	Precise Ingredient	Drug	RxNorm	Valid	Non-standard
+19045147	834343	amiodarone hydrochloride 50 MG/ML [Nexterone]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19047311	833529	amiodarone hydrochloride 200 MG [Cordarone]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19047312	833533	amiodarone hydrochloride 50 MG/ML [Cordarone]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19054215	226484	amiodarone hydrochloride 100 MG Oral Tablet [Amidox]	Branded Drug	Drug	RxNorm	Valid	Standard
+19054216	226486	amiodarone hydrochloride 200 MG Oral Tablet [Amidox]	Branded Drug	Drug	RxNorm	Valid	Standard
+19076397	834345	amiodarone hydrochloride 200 MG [Pacerone]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19076398	834349	amiodarone hydrochloride 400 MG [Pacerone]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19076399	835957	amiodarone hydrochloride 100 MG [Pacerone]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19076400	835961	amiodarone hydrochloride 300 MG [Pacerone]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19087004	331043	Amiodarone 100 MG	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19099842	360351	Geneva brand of amiodarone hydrochloride	Brand Name	Drug	RxNorm	Invalid	Non-standard
+19102923	404853	Amiodarone Hydrochloride Novaplus	Brand Name	Drug	RxNorm	Invalid	Non-standard
+19112715	484722	Sandoz brand of Amiodarone	Brand Name	Drug	RxNorm	Invalid	Non-standard
+19116675	564695	Amiodarone 100 MG [Cordarone X]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19120489	573992	Amiodarone 100 MG [Amidox]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19120490	573993	Amiodarone 200 MG [Amidox]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19125287	670596	Teva brand of Amiodarone	Brand Name	Drug	RxNorm	Invalid	Non-standard
+19129782	790892	Amiodarone Novaplus	Brand Name	Drug	RxNorm	Invalid	Non-standard
+19133832	833530	amiodarone hydrochloride 200 MG Oral Tablet [Cordarone]	Branded Drug	Drug	RxNorm	Valid	Standard
+19133981	834350	amiodarone hydrochloride 400 MG Oral Tablet [Pacerone]	Branded Drug	Drug	RxNorm	Valid	Standard
+19133982	834352	amiodarone hydrochloride 30 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+19133983	834353	10 ML amiodarone hydrochloride 30 MG/ML Prefilled Syringe	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+19133984	834354	20 ML Amiodarone hydrochloride 50 MG/ML Prefilled Syringe	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19134084	835910	18 ML amiodarone hydrochloride 50 MG/ML Prefilled Syringe	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+19134087	835960	amiodarone hydrochloride 300 MG Oral Tablet	Clinical Drug	Drug	RxNorm	Valid	Standard
+19135749	849873	amiodarone hydrochloride 1.2 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+19135750	849874	amiodarone hydrochloride 1.2 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+19135751	849875	amiodarone hydrochloride 1.8 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+19135752	849876	200 ML amiodarone hydrochloride 1.8 MG/ML Injection	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+36216955	1151981	amiodarone Injectable Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36216956	1151982	amiodarone Oral Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36216957	1151983	amiodarone Pill	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+40007669	437437	Amiodarone 1.2 MG/ML	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+40007670	415568	Amiodarone 1.2 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+40007671	437438	Amiodarone 1.8 MG/ML	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+40007672	415673	Amiodarone 1.8 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+40007680	204011	Amiodarone 200 MG Oral Tablet [Cordarone X]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+40007681	104269	Amiodarone 200 MG Oral Tablet [Cordarone]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+40007682	308127	Amiodarone 200 MG Oral Tablet [Geneva brand of amiodarone hydrochloride]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+40007683	211629	Amiodarone 200 MG Oral Tablet [Pacerone]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+40007684	476305	Amiodarone 300 MG	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+40007685	476304	Amiodarone 300 MG Oral Tablet	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+40007686	331556	Amiodarone 400 MG	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+40007687	283362	Amiodarone 400 MG Oral Tablet	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+40007688	284533	Amiodarone 400 MG Oral Tablet [Pacerone]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+40007691	404236	Amiodarone 50 MG/ML Injectable Solution [Amiodarone Hydrochloride Novaplus]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+40007692	211643	Amiodarone 50 MG/ML Injectable Solution [Cordarone I.V.]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+40007693	201284	Amiodarone 50 MG/ML Injectable Solution [Cordarone X]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+40007695	377132	amiodarone Injectable Solution	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40007696	405787	Amiodarone Injectable Solution [Amiodarone Hydrochloride Novaplus]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40007697	362922	Amiodarone Injectable Solution [Cordarone I.V.]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40007698	379717	Amiodarone Injectable Solution [Cordarone X]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40007699	370568	amiodarone Oral Tablet	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40007700	379721	amiodarone Oral Tablet [Amidox]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40007701	369528	amiodarone Oral Tablet [Cordarone X]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40007702	92253	amiodarone Oral Tablet [Cordarone]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40007703	368524	Amiodarone Oral Tablet [Geneva brand of amiodarone hydrochloride]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40007704	367679	amiodarone Oral Tablet [Pacerone]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40094056	484725	aminodarone 200 MG Oral Tablet [Sandoz brand of Amiodarone]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+40094057	484723	aminodarone 200 MG [Sandoz brand of Amiodarone]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+40094059	484724	aminodarone Oral Tablet [Sandoz brand of Amiodarone]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40104755	540543	Amiodarone 100 MG Oral Tablet [Pacerone]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+40104758	540542	Amiodarone 100 MG [Pacerone]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+40104809	566213	Amiodarone 200 MG [Cordarone X]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+40104810	563558	Amiodarone 200 MG [Cordarone]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+40104811	575094	Amiodarone 200 MG [Geneva brand of amiodarone hydrochloride]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+40104812	571986	Amiodarone 200 MG [Pacerone]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+40104813	540726	Amiodarone 300 MG Oral Tablet [Pacerone]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+40104814	540725	Amiodarone 300 MG [Pacerone]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+40104815	574961	Amiodarone 400 MG [Pacerone]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+40104816	544504	Amiodarone 50 MG/ML Injectable Solution [Aniodarone]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+40104817	576277	Amiodarone 50 MG/ML [Amiodarone Hydrochloride Novaplus]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+40104818	544502	Amiodarone 50 MG/ML [Aniodarone]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+40104819	571999	Amiodarone 50 MG/ML [Cordarone I.V.]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+40104820	565773	Amiodarone 50 MG/ML [Cordarone X]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+40104821	544503	Amiodarone Injectable Solution [Aniodarone]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40125087	577357	Amiodarone 1 MG/MG	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+40125088	577359	Amiodarone 1 MG/MG Powder	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+40125089	577358	Amiodarone Powder	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40133188	636350	Amiodarone 300 MG	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+40133189	636351	Amiodarone 300 MG Oral Tablet	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+40135218	646452	Amiodarone 300 MG Oral Tablet [Pacerone]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+40135219	646451	Amiodarone 300 MG [Pacerone]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+40136281	670599	Amiodarone 200 MG Oral Tablet [Teva brand of Amiodarone]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+40136282	670597	Amiodarone 200 MG [Teva brand of Amiodarone]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+40136283	670598	Amiodarone Oral Tablet [Teva brand of Amiodarone]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40141270	727388	20 ML Amiodarone 50 MG/ML Prefilled Syringe	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+40141286	727380	10 ML Amiodarone 30 MG/ML Prefilled Syringe	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+40141328	727387	3 ML Amiodarone 50 MG/ML Prefilled Syringe	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+40141357	727378	Amiodarone 30 MG/ML	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+40141358	727379	amiodarone Prefilled Syringe	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40149207	790895	Amiodarone 50 MG/ML Injectable Solution [Amiodarone Novaplus]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+40149208	790893	Amiodarone 50 MG/ML [Amiodarone Novaplus]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+40149209	790894	Amiodarone Injectable Solution [Amiodarone Novaplus]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40157263	833534	amiodarone Injectable Solution [Cordarone]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40157264	832845	amiodarone Injectable Solution [Nexterone]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40157266	832848	amiodarone Prefilled Syringe [Nexterone]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40166849	876015	amiodarone hydrochloride 100 MG [Amidox]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+40166850	875937	amiodarone hydrochloride 100 MG [Cordarone X]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+40166851	876016	amiodarone hydrochloride 200 MG [Amidox]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+40229186	1046405	amiodarone hydrochloride 1.5 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+40229189	1046406	100 ML amiodarone hydrochloride 1.5 MG/ML Injection	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+40229190	1046408	100 ML amiodarone hydrochloride 1.5 MG/ML Injection [Nexterone]	Quant Branded Drug	Drug	RxNorm	Valid	Standard
+40229191	1046407	amiodarone hydrochloride 1.5 MG/ML [Nexterone]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+40229192	1046410	200 ML amiodarone hydrochloride 1.8 MG/ML Injection [Nexterone]	Quant Branded Drug	Drug	RxNorm	Valid	Standard
+40229193	1046409	amiodarone hydrochloride 1.8 MG/ML [Nexterone]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+42902565	1359678	amiodarone hydrochloride 30 MG/ML Prefilled Syringe	Clinical Drug	Drug	RxNorm	Valid	Standard
+42902788	1359901	amiodarone hydrochloride 50 MG/ML Prefilled Syringe	Clinical Drug	Drug	RxNorm	Valid	Standard
+42903386	1360499	amiodarone hydrochloride 50 MG/ML Prefilled Syringe [Nexterone]	Branded Drug	Drug	RxNorm	Valid	Standard
+46276332	1663223	amiodarone Injection	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+46276333	1663224	3 ML amiodarone hydrochloride 50 MG/ML Injection	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+46276334	1663225	amiodarone hydrochloride 50 MG/ML Injection	Clinical Drug	Drug	RxNorm	Valid	Standard
+46276335	1663244	9 ML amiodarone hydrochloride 50 MG/ML Injection	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+46276336	1663248	18 ML amiodarone hydrochloride 50 MG/ML Injection	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+46276339	1663270	amiodarone Injection [Nexterone]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+46276340	1663272	amiodarone hydrochloride 1.5 MG/ML Injection	Clinical Drug	Drug	RxNorm	Valid	Standard
+46276341	1663273	amiodarone hydrochloride 1.5 MG/ML Injection [Nexterone]	Branded Drug	Drug	RxNorm	Valid	Standard
+46276342	1663276	amiodarone hydrochloride 1.8 MG/ML Injection	Clinical Drug	Drug	RxNorm	Valid	Standard
+46276343	1663277	amiodarone hydrochloride 1.8 MG/ML Injection [Nexterone]	Branded Drug	Drug	RxNorm	Valid	Standard

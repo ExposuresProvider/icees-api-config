@@ -1,0 +1,23 @@
+﻿Id	Code	Name	Standard Class	Domain	Vocab	Validity	Concept
+45557516	H74.1	Adhesive middle ear disease	ICD10 code	Condition	ICD10	Valid	Non-standard
+1569034	H74.1	Adhesive middle ear disease	4-char nonbill code	Condition	ICD10CM	Valid	Non-standard
+45533411	H74.12	Adhesive left middle ear disease	5-char billing code	Condition	ICD10CM	Valid	Non-standard
+"45543135	H74.19	Adhesive middle ear disease, unspecified ear	5-char billing code	Condition	ICD10CM	Valid	Non-standard"
+"45547981	H74.13	Adhesive middle ear disease, bilateral	5-char billing code	Condition	ICD10CM	Valid	Non-standard"
+45552753	H74.11	Adhesive right middle ear disease	5-char billing code	Condition	ICD10CM	Valid	Non-standard
+1413462	H74.1	Adhesive middle ear disease	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+1413463	H74.100	Adhesive middle ear disease	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+37084276	H74.1	Adhesive middle ear disease	ICD10 code	Condition	ICD10GM	Valid	Non-standard
+44830065	385.1	Adhesive middle ear disease	4-dig nonbill code	Condition	ICD9CM	Valid	Non-standard
+"44833543	385.10	Adhesive middle ear disease, unspecified as to involvement	5-dig billing code	Condition	ICD9CM	Valid	Non-standard"
+375820	7699004	Adhesive middle ear disease	Clinical Finding	Condition	SNOMED	Valid	Standard
+377569	20916007	Adhesive middle ear disease with adhesions of drum head to stapes	Clinical Finding	Condition	SNOMED	Valid	Standard
+377887	39222009	Adhesive middle ear disease with adhesions of drum head to promontorium	Clinical Finding	Condition	SNOMED	Valid	Standard
+379829	31700001	Adhesive middle ear disease with adhesions of drum head to incus	Clinical Finding	Condition	SNOMED	Valid	Standard
+3533564	575891000000103	Adhesive middle ear disease NOS	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3567484	629241000000102	Unspecified adhesive middle ear disease	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3573605	686291000000109	Middle ear disease - other	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+4111247	194330006	Unspecified adhesive middle ear disease	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+4111248	194331005	Adhesive middle ear disease NOS	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+4335333	232250008	Middle ear disease - other	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40388469	194327004	Other disorders of middle ear and mastoid &/or other middle ear disease	Clinical Finding	Condition	SNOMED	Invalid	Non-standard

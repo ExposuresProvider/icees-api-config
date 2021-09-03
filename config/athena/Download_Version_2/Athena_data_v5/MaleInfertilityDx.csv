@@ -1,0 +1,11 @@
+Id	Code	Name	Standard Class	Domain	Vocab	Validity	Concept
+1422025	N46	Male infertility	ICD10 Hierarchy	Condition	ICD10CN	Valid	Non-standard
+1422026	N46.x00	Male infertility	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+1571528	N46	Male infertility	3-char nonbill code	Condition	ICD10CM	Valid	Non-standard
+37091317	N46	Male infertility	ICD10 Hierarchy	Condition	ICD10GM	Valid	Non-standard
+44824355	606.8	Infertility due to extratesticular causes	4-dig billing code	Condition	ICD9CM	Valid	Non-standard
+44834845	606.9	Male infertility, unspecified	4-dig billing code	Condition	ICD9CM	Valid	Non-standard
+45542417	Z31.81	Encounter for male factor infertility in female patient	5-char billing code	Observation	ICD10CM	Valid	Non-standard
+45567847	N46.9	Male infertility, unspecified	4-char billing code	Condition	ICD10CM	Valid	Non-standard
+45592140	N46.8	Other male infertility	4-char billing code	Condition	ICD10CM	Valid	Non-standard
+45596868	N46	Male infertility	ICD10 Hierarchy	Condition	ICD10	Valid	Non-standard

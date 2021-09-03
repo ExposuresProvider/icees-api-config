@@ -1,0 +1,41 @@
+Id	Code	Name	Standard Class	Domain	Vocab	Validity	Concept
+793740	1939322	5 ML milrinone lactate 1 MG/ML Injection	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+1368671	52769	milrinone	Ingredient	Drug	RxNorm	Valid	Standard
+1368673	329186	Milrinone 0.2 MG/ML	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+1368674	345853	Milrinone 1 MG/ML	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+1368676	545299	Milrinone 0.2 MG/ML Injectable Solution [Primacor]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+19018257	155120	milrinone lactate	Precise Ingredient	Drug	RxNorm	Valid	Non-standard
+19042332	545297	Milrinone 0.2 MG/ML [Primacor]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19078928	311705	Milrinone 0.2 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19096336	347930	Milrinone 1 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19102985	405198	Milrinone Novaplus	Brand Name	Drug	RxNorm	Invalid	Non-standard
+19115204	562540	Glucose 50 MG/ML / Milrinone 0.2 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19126054	702030	Milrinone 5 MG/ML	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19126055	702031	Milrinone 5 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19132295	807269	Milrinone 1 MG/ML [Primacor]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19132296	807270	Milrinone 1 MG/ML Injectable Solution [Primacor]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+36029073	1009017	Glucose / Milrinone	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36221162	1164730	milrinone Injectable Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+40045199	212030	Glucose 50 MG/ML / Milrinone 0.2 MG/ML Injectable Solution [Primacor]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+40064605	404093	Milrinone 1 MG/ML Injectable Solution [Milrinone Novaplus]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+40064606	207344	Milrinone 1 MG/ML Injectable Solution [Primacor I.V.]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+40064607	377131	Milrinone Injectable Solution	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40064608	406097	Milrinone Injectable Solution [Milrinone Novaplus]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40064609	362967	Milrinone Injectable Solution [Primacor I.V.]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40073905	362917	Milrinone Injectable Solution [Primacor]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40113861	562539	Glucose / Milrinone Injectable Solution	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40113941	572343	Glucose 50 MG/ML / Milrinone 0.2 MG/ML [Primacor]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+40117287	576175	Milrinone 1 MG/ML [Milrinone Novaplus]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+40117288	568120	Milrinone 1 MG/ML [Primacor I.V.]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+40117289	545298	Milrinone Injectable Solution [Primacor]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40140242	705995	Glucose / Milrinone Injectable Solution [Primacor]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+42628987	1791838	milrinone lactate 0.2 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+42628988	1791839	milrinone Injection	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+42628989	1791840	100 ML milrinone lactate 0.2 MG/ML Injection	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+42628990	1791841	milrinone lactate 0.2 MG/ML Injection	Clinical Drug	Drug	RxNorm	Valid	Standard
+42628991	1791842	200 ML milrinone lactate 0.2 MG/ML Injection	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+42628992	1791853	milrinone lactate 1 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+42628993	1791854	10 ML milrinone lactate 1 MG/ML Injection	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+42628994	1791855	milrinone lactate 1 MG/ML Injection	Clinical Drug	Drug	RxNorm	Valid	Standard
+42628995	1791859	20 ML milrinone lactate 1 MG/ML Injection	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+42628996	1791861	50 ML milrinone lactate 1 MG/ML Injection	Quant Clinical Drug	Drug	RxNorm	Valid	Standard

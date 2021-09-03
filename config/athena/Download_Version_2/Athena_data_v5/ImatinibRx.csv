@@ -1,0 +1,25 @@
+Id	Code	Name	Standard Class	Domain	Vocab	Validity	Concept
+1304107	282388	imatinib	Ingredient	Drug	RxNorm	Valid	Standard
+19004115	576514	imatinib 400 MG [Gleevec]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19071340	284206	imatinib 100 MG Oral Capsule	Clinical Drug	Drug	RxNorm	Valid	Standard
+19071511	284590	imatinib 100 MG Oral Capsule [Gleevec]	Branded Drug	Drug	RxNorm	Valid	Standard
+19071677	284924	imatinib mesylate	Precise Ingredient	Drug	RxNorm	Valid	Non-standard
+19087449	331600	imatinib 100 MG	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+19102501	403878	imatinib 100 MG Oral Tablet	Clinical Drug	Drug	RxNorm	Valid	Standard
+19102502	403879	imatinib 400 MG Oral Tablet	Clinical Drug	Drug	RxNorm	Valid	Standard
+19102832	404588	imatinib 100 MG Oral Tablet [Gleevec]	Branded Drug	Drug	RxNorm	Valid	Standard
+19102833	404589	imatinib 400 MG Oral Tablet [Gleevec]	Branded Drug	Drug	RxNorm	Valid	Standard
+19103075	406051	imatinib 400 MG	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+19103655	411240	imatinib 50 MG Oral Capsule	Clinical Drug	Drug	RxNorm	Valid	Standard
+19110304	440549	imatinib 50 MG	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+19112669	483431	imatinib 400 MG Oral Capsule	Clinical Drug	Drug	RxNorm	Valid	Standard
+19120748	575017	imatinib 100 MG [Gleevec]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+36224212	1160679	imatinib Oral Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36224213	1160680	imatinib Pill	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+40056567	376335	imatinib Oral Capsule	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40056568	366602	imatinib Oral Capsule [Gleevec]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40056569	406050	imatinib Oral Tablet	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40056570	406060	imatinib Oral Tablet [Gleevec]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40134787	644611	imatinib 400 MG Oral Tablet [Cleevec]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+40134788	644609	imatinib 400 MG [Cleevec]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+40134789	644610	imatinib Oral Tablet [Cleevec]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard

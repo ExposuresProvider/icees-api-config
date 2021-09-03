@@ -1,0 +1,64 @@
+﻿Id	Code	Name	Standard Class	Domain	Vocab	Validity	Concept
+4064481	165039000	FVC - forced vital capacity normal	Clinical Finding	Condition	SNOMED	Valid	Standard
+4064741	165044007	FEV1/FVC ratio abnormal	Clinical Finding	Condition	SNOMED	Valid	Standard
+4065408	165040003	FVC - forced vital capacity abnormal	Clinical Finding	Condition	SNOMED	Valid	Standard
+4065410	165043001	FEV1/FVC ratio normal	Clinical Finding	Condition	SNOMED	Valid	Standard
+4151447	314472003	FEV1/FVC < 70% of predicted	Clinical Finding	Condition	SNOMED	Valid	Standard
+4152057	314473008	FEV1/FVC > 70% of predicted	Clinical Finding	Condition	SNOMED	Valid	Standard
+4271507	366151006	Forced vital capacity - finding	Clinical Finding	Condition	SNOMED	Valid	Standard
+3000645	19876-2	Forced vital capacity [Volume] Respiratory system by Spirometry --pre bronchodilation	Clinical Observation	Measurement	LOINC	Valid	Standard
+3001668	19875-4	Forced vital capacity [Volume] Respiratory system --post bronchodilation	Clinical Observation	Measurement	LOINC	Valid	Standard
+3002094	19869-7	Forced vital capacity [Volume] Respiratory system Predicted	Clinical Observation	Measurement	LOINC	Valid	Standard
+3002777	19874-7	Forced vital capacity [Volume] Respiratory system by Spirometry --post bronchodilation	Clinical Observation	Measurement	LOINC	Valid	Standard
+3003197	19868-9	Forced vital capacity [Volume] Respiratory system by Spirometry	Clinical Observation	Measurement	LOINC	Valid	Standard
+3020158	19870-5	Forced vital capacity [Volume] Respiratory system	Clinical Observation	Measurement	LOINC	Valid	Standard
+3037879	19877-0	Forced vital capacity [Volume] Respiratory system --pre bronchodilation	Clinical Observation	Measurement	LOINC	Valid	Standard
+37027750	LP408945-6	Forced vital capacity | Respiratory system | Respiratory measures and Ventilator management	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37038779	LP404754-6	Volume expired during 1.0 s of forced expiration/Forced vital capacity | Respiratory system | Respiratory measures and Ventilator management	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37053401	LP404755-3	Volume expired during 1.0 s of forced expiration/Forced vital capacity percent change | Respiratory system | Respiratory measures and Ventilator management	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37071922	LP408947-2	Forced vital capacity/Forced vital capacity.predicted | Respiratory system | Respiratory measures and Ventilator management	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+958683	D005541	Forced Expiratory Volume	Main Heading	Measurement	MeSH	Valid	Non-standard
+45613384	D014797	Vital Capacity	Main Heading	Measurement	MeSH	Valid	Non-standard
+3574699	377361000000105	Forced vital capacity before bronchodilation	Observable Entity	Measurement	SNOMED	Invalid	Non-standard
+3574700	377371000000103	Forced vital capacity before bronchodilation	Observable Entity	Measurement	SNOMED	Invalid	Non-standard
+3574701	377381000000101	Forced vital capacity before bronchodilation	Observable Entity	Measurement	SNOMED	Invalid	Non-standard
+3574717	513511000000102	Percentage of predicted forced vital capacity	Observable Entity	Measurement	SNOMED	Invalid	Non-standard
+3574746	875361000000103	FVC (forced vital capacity) post bronchodilator percentage change	Observable Entity	Measurement	SNOMED	Invalid	Non-standard
+3574747	875371000000105	FVC (forced vital capacity) after change of bronchodilator	Observable Entity	Measurement	SNOMED	Invalid	Non-standard
+3574748	903611000000109	Percentage of predicted forced vital capacity after bronchodilation	Observable Entity	Measurement	SNOMED	Invalid	Non-standard
+4090331	251944000	Forced expired volume in one second/forced vital capacity ratio	Observable Entity	Measurement	SNOMED	Valid	Standard
+4150245	310360002	Expected FEV1/FVC ratio	Observable Entity	Measurement	SNOMED	Valid	Standard
+4150403	310521000	Expected forced vital capacity	Observable Entity	Measurement	SNOMED	Valid	Standard
+4176265	50834005	Forced vital capacity	Observable Entity	Measurement	SNOMED	Valid	Standard
+4196583	313222007	FEV1/FVC percent	Observable Entity	Measurement	SNOMED	Valid	Standard
+4233038	407602006	FEV1/FVC ratio before bronchodilator	Observable Entity	Measurement	SNOMED	Valid	Standard
+4236290	407599001	Forced expiratory volume in one second/Forced vital capacity ratio pre steroids	Observable Entity	Measurement	SNOMED	Valid	Standard
+4248526	407561008	Forced vital capacity (FVC) after bronchodilation	Observable Entity	Measurement	SNOMED	Valid	Standard
+4250004	407601004	Forced expiratory volume in one second/Forced vital capacity ratio post steroids	Observable Entity	Measurement	SNOMED	Valid	Standard
+4250005	407603001	Forced expiratory volume 1 (FEV1)/ forced vital capacity (FVC) ratio after bronchodilator	Observable Entity	Measurement	SNOMED	Valid	Standard
+4253179	407576000	Forced vital capacity (FVC)/expected Forced vital capacity (FVC) percent	Observable Entity	Measurement	SNOMED	Valid	Standard
+40298381	142214000	Forced vital capacity	Observable Entity	Measurement	SNOMED	Invalid	Non-standard
+40298398	142230008	Forced expired volume in one second/forced vital capacity ratio	Observable Entity	Measurement	SNOMED	Invalid	Non-standard
+40330589	165057004	Forced expired volume in one second/forced vital capacity ratio	Clinical Finding	Measurement	SNOMED	Invalid	Non-standard
+40480905	441857000	Forced vital capacity before bronchodilation	Observable Entity	Measurement	SNOMED	Valid	Standard
+40482503	445210000	Percentage of predicted forced vital capacity	Observable Entity	Measurement	SNOMED	Valid	Standard
+44809315	852711000000105	Target forced vital capacity	Observable Entity	Measurement	SNOMED	Valid	Standard
+44809317	852731000000102	Maximum forced vital capacity	Observable Entity	Measurement	SNOMED	Valid	Standard
+44809318	852741000000106	Minimum forced vital capacity	Observable Entity	Measurement	SNOMED	Valid	Standard
+44811086	862831000000104	FVC (forced vital capacity) after change of bronchodilator	Observable Entity	Measurement	SNOMED	Valid	Standard
+44811087	862851000000106	FVC (forced vital capacity) post bronchodilator percentage change	Observable Entity	Measurement	SNOMED	Valid	Standard
+44811460	903601000000107	Percentage of predicted forced vital capacity after bronchodilation	Observable Entity	Measurement	SNOMED	Valid	Standard
+1006338	LP115581-3	Pre-bronchodilator forced vital capacity (FVC) attempt	LOINC Component	Observation	LOINC	Valid	Non-standard
+1006340	LP115583-9	Post-bronchodilator forced vital capacity (FVC) attempt	LOINC Component	Observation	LOINC	Valid	Non-standard
+1024444	LP308829-3	Forced vital capacity/Forced vital capacity.predicted^post bronchodilation	LOINC Component	Observation	LOINC	Valid	Non-standard
+1024445	LP308830-1	Forced vital capacity/Forced vital capacity.predicted^pre bronchodilation	LOINC Component	Observation	LOINC	Valid	Non-standard
+37027041	LP309006-7	Volume expired during 1.0 s of forced expiration/Forced vital capacity	LOINC Component	Observation	LOINC	Valid	Non-standard
+37031697	LP286043-7	Forced vital capacity/Forced vital capacity.predicted	LOINC Component	Observation	LOINC	Valid	Non-standard
+37041553	LP72220-4	Forced vital capacity	LOINC Component	Observation	LOINC	Valid	Non-standard
+37056447	LP145617-9	FVC percent change	LOINC Component	Observation	LOINC	Valid	Non-standard
+37062609	LP287377-8	Volume expired during 1.0 s of forced expiration/Forced vital capacity percent change	LOINC Component	Observation	LOINC	Valid	Non-standard
+40766744	64027-6	Pre-bronchodilator forced vital capacity (FVC) attempt [PhenX]	Clinical Observation	Observation	LOINC	Valid	Standard
+40766746	64029-2	Post-bronchodilator forced vital capacity (FVC) attempt [PhenX]	Clinical Observation	Observation	LOINC	Valid	Standard
+3581795	513521000000108	Percentage of predicted forced vital capacity	Undefined	Observation	SNOMED	Invalid	Non-standard
+4207356	54014004	Forced expiratory vital capacity	Observable Entity	Observation	SNOMED	Valid	Standard
+"40756869	94013	Measurement of lung volumes (ie, functional residual capacity [FRC], forced vital capacity [FVC], and expiratory reserve volume [ERV]) in an infant or child through 2 years of age	CPT4	Procedure	CPT4	Valid	Standard"

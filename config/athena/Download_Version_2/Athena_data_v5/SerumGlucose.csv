@@ -1,0 +1,39 @@
+﻿Id	Code	Name	Standard Class	Domain	Vocab	Validity	Concept
+4310708	424167000	At risk for unstable blood glucose level	Clinical Finding	Condition	SNOMED	Valid	Standard
+43055482	72648-9	Glucose in serum - glucose in synovial fluid [Molar concentration difference]	Lab Test	Measurement	LOINC	Valid	Standard
+43055483	72649-7	Glucose in serum - glucose in peritoneal fluid [Molar concentration difference]	Lab Test	Measurement	LOINC	Valid	Standard
+43055484	72650-5	Glucose in serum - glucose in pericard fld [Molar concentration difference]	Lab Test	Measurement	LOINC	Valid	Standard
+43055485	72651-3	Glucose in serum - glucose in pleural fluid [Molar concentration difference]	Lab Test	Measurement	LOINC	Valid	Standard
+4041723	167087006	Serum fasting glucose measurement	Procedure	Measurement	SNOMED	Valid	Standard
+4042759	167086002	Serum random glucose measurement	Procedure	Measurement	SNOMED	Valid	Standard
+4193855	313630000	60 minute serum glucose measurement	Procedure	Measurement	SNOMED	Valid	Standard
+4195213	313810002	150 minute serum glucose measurement	Procedure	Measurement	SNOMED	Valid	Standard
+4197835	313631001	120 minute serum glucose measurement	Procedure	Measurement	SNOMED	Valid	Standard
+4198732	313629005	30 minute serum glucose measurement	Procedure	Measurement	SNOMED	Valid	Standard
+4198743	313698005	90 minute serum glucose measurement	Procedure	Measurement	SNOMED	Valid	Standard
+"4331286	22569008	Glucose measurement, serum	Procedure	Measurement	SNOMED	Valid	Standard"
+37392363	1003131000000101	Serum fasting glucose level	Observable Entity	Measurement	SNOMED	Valid	Standard
+37392940	1010611000000107	Serum glucose level	Observable Entity	Measurement	SNOMED	Valid	Standard
+37392941	1010621000000101	30 minute serum glucose level	Observable Entity	Measurement	SNOMED	Valid	Standard
+37392942	1010631000000104	60 minute serum glucose level	Observable Entity	Measurement	SNOMED	Valid	Standard
+37392943	1010651000000106	120 minute serum glucose level	Observable Entity	Measurement	SNOMED	Valid	Standard
+37392944	1010661000000109	150 minute serum glucose level	Observable Entity	Measurement	SNOMED	Valid	Standard
+37394234	1028881000000105	Serum random glucose level	Observable Entity	Measurement	SNOMED	Valid	Standard
+37398564	1010641000000108	90 minute serum glucose level	Observable Entity	Measurement	SNOMED	Valid	Standard
+40308384	144323001	Serum glucose level	Procedure	Measurement	SNOMED	Invalid	Non-standard
+40308385	144324007	Serum random glucose level	Procedure	Measurement	SNOMED	Invalid	Non-standard
+40308386	144325008	Serum fasting glucose level	Procedure	Measurement	SNOMED	Invalid	Non-standard
+40308388	144327000	30 minute serum glucose level	Procedure	Measurement	SNOMED	Invalid	Non-standard
+40308389	144328005	60 minute serum glucose level	Procedure	Measurement	SNOMED	Invalid	Non-standard
+40308392	144330007	90 minute serum glucose level	Procedure	Measurement	SNOMED	Invalid	Non-standard
+40308393	144331006	120 minute serum glucose level	Procedure	Measurement	SNOMED	Invalid	Non-standard
+40308394	144332004	150 minute serum glucose level	Procedure	Measurement	SNOMED	Invalid	Non-standard
+40330209	167089009	30 minute serum glucose level	Procedure	Measurement	SNOMED	Invalid	Non-standard
+40330210	167090000	60 minute serum glucose level	Procedure	Measurement	SNOMED	Invalid	Non-standard
+40330212	167091001	90 minute serum glucose level	Procedure	Measurement	SNOMED	Invalid	Non-standard
+40330213	167092008	120 minute serum glucose level	Procedure	Measurement	SNOMED	Invalid	Non-standard
+40330214	167093003	150 minute serum glucose level	Procedure	Measurement	SNOMED	Invalid	Non-standard
+43055730	LP157154-8	Glucose in serum - glucose in pleural fluid	LOINC Component	Observation	LOINC	Valid	Non-standard
+43055731	LP157155-5	Glucose in serum - glucose in peritoneal fluid	LOINC Component	Observation	LOINC	Valid	Non-standard
+43055732	LP157156-3	Glucose in serum - glucose in synovial fluid	LOINC Component	Observation	LOINC	Valid	Non-standard
+43055733	LP157157-1	Glucose in serum - glucose in pericard fld	LOINC Component	Observation	LOINC	Valid	Non-standard

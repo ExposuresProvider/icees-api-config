@@ -1,0 +1,74 @@
+Id	Code	Name	Standard Class	Domain	Vocab	Validity	Concept
+1750500	21212	clarithromycin	Ingredient	Drug	RxNorm	Valid	Standard
+1750501	197516	clarithromycin 250 MG Oral Tablet	Clinical Drug	Drug	RxNorm	Valid	Standard
+1750562	197517	clarithromycin 500 MG Oral Tablet	Clinical Drug	Drug	RxNorm	Valid	Standard
+1750568	251854	clarithromycin 50 MG/ML Injectable Suspension	Clinical Drug	Drug	RxNorm	Valid	Standard
+1750569	259543	clarithromycin 500 MG Extended Release Oral Tablet	Clinical Drug	Drug	RxNorm	Valid	Standard
+1750722	315693	clarithromycin 25 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+1750723	315694	clarithromycin 250 MG	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+1750724	315695	clarithromycin 500 MG	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+1750725	317626	clarithromycin 50 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+1750727	346618	clarithromycin 250 MG Extended Release Oral Tablet	Clinical Drug	Drug	RxNorm	Valid	Standard
+1750728	359385	24 HR clarithromycin 500 MG Extended Release Oral Tablet	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+1750729	597454	clarithromycin 1000 MG	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+1750730	597455	clarithromycin 1000 MG Extended Release Oral Tablet	Clinical Drug	Drug	RxNorm	Valid	Standard
+1750731	685543	24 HR clarithromycin 500 MG Extended Release Oral Tablet [Biaxin]	Quant Branded Drug	Drug	RxNorm	Valid	Standard
+19002937	103870	clarithromycin 50 MG/ML Injectable Suspension [Klaricid IV]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+19016927	153151	clarithromycin 500 MG Extended Release Oral Tablet [Klaricid XL]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+19017828	153713	clarithromycin 250 MG Oral Suspension [Klaricid Adult]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+19022244	199710	clarithromycin 500 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+19030507	205857	clarithromycin 25 MG/ML Oral Suspension [Biaxin]	Branded Drug	Drug	RxNorm	Valid	Standard
+19030510	205860	clarithromycin 50 MG/ML Oral Suspension [Biaxin]	Branded Drug	Drug	RxNorm	Valid	Standard
+19030533	205863	clarithromycin 250 MG Oral Tablet [Biaxin]	Branded Drug	Drug	RxNorm	Valid	Standard
+19030536	205866	clarithromycin 500 MG Oral Tablet [Biaxin]	Branded Drug	Drug	RxNorm	Valid	Standard
+19047892	541947	clarithromycin 250 MG [Biaxin]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19047893	566746	clarithromycin 25 MG/ML [Biaxin]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19047894	566749	clarithromycin 50 MG/ML [Biaxin]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19047895	566754	clarithromycin 500 MG [Biaxin]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19058072	240741	clarithromycin 25 MG/ML Oral Suspension	Clinical Drug	Drug	RxNorm	Valid	Standard
+19075421	309321	clarithromycin 37.5 MG/ML Oral Suspension	Clinical Drug	Drug	RxNorm	Valid	Standard
+19075422	309322	clarithromycin 50 MG/ML Oral Suspension	Clinical Drug	Drug	RxNorm	Valid	Standard
+19084880	330310	clarithromycin 37.5 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+19087662	331725	clarithromycin 500 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+19113827	541949	clarithromycin 250 MG Extended Release Oral Tablet [Biaxin]	Branded Drug	Drug	RxNorm	Valid	Standard
+19115140	562169	clarithromycin 250 MG Oral Suspension	Clinical Drug	Drug	RxNorm	Valid	Standard
+19115705	563429	clarithromycin 50 MG/ML [Klaricid IV]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19117037	565188	clarithromycin 500 MG [Klaricid XL]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19117165	565362	clarithromycin 250 MG [Klaricid Adult]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19129191	757968	{4 (amoxicillin 500 MG Oral Capsule) / 2 (clarithromycin 500 MG Oral Tablet) / 2 (lansoprazole 30 MG Delayed Release Oral Capsule) } Pack	Clinical Pack	Drug	RxNorm	Valid	Standard
+19129192	757969	{4 (amoxicillin 500 MG Oral Capsule [Trimox]) / 2 (clarithromycin 500 MG Oral Tablet [Biaxin]) / 2 (lansoprazole 30 MG Delayed Release Oral Capsule [Prevacid]) } Pack [Prevpac]	Branded Pack	Drug	RxNorm	Valid	Standard
+19133856	834036	{56 (24 HR clarithromycin 500 MG Extended Release Oral Tablet) } Pack	Clinical Pack	Drug	RxNorm	Valid	Standard
+19133857	834037	{56 (24 HR Clarithromycin 500 MG Extended Release Tablet [Biaxin]) } Pack [Biaxin XL Pac]	Branded Pack	Drug	RxNorm	Invalid	Non-standard
+19133949	834228	{10 (clarithromycin 500 MG Extended Release Oral Tablet) } Pack	Clinical Pack	Drug	RxNorm	Valid	Standard
+19133950	834229	clarithromycin 500 MG Extended Release Oral Tablet [Biaxin]	Branded Drug	Drug	RxNorm	Valid	Standard
+19133951	834230	{10 (Clarithromycin 500 MG Extended Release Tablet [Biaxin]) } Pack [Biaxin 10 Tablet Blister Pack]	Branded Pack	Drug	RxNorm	Invalid	Non-standard
+19133953	834244	{4 (clarithromycin 500 MG Extended Release Oral Tablet) } Pack	Clinical Pack	Drug	RxNorm	Valid	Standard
+19133954	834245	{4 (clarithromycin 500 MG Extended Release Oral Tablet [Biaxin]) } Pack [Biaxin 4 Tablet Blister Pack]	Branded Pack	Drug	RxNorm	Valid	Standard
+19134005	835332	{10 (24 HR clarithromycin 500 MG Extended Release Oral Tablet) } Pack	Clinical Pack	Drug	RxNorm	Valid	Standard
+19134006	835333	{10 (24 HR Clarithromycin 500 MG Extended Release Tablet [Biaxin]) } Pack [ABBO-PAC 10 Tablet Pack]	Branded Pack	Drug	RxNorm	Invalid	Non-standard
+19134007	835341	{14 (24 HR clarithromycin 500 MG Extended Release Oral Tablet) } Pack	Clinical Pack	Drug	RxNorm	Valid	Standard
+19134008	835342	{14 (24 HR clarithromycin 500 MG Extended Release Oral Tablet [Biaxin]) } Pack [BIAXIN XL PAC 14 Tablet Pack]	Branded Pack	Drug	RxNorm	Valid	Standard
+36216337	1152760	clarithromycin Injectable Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36216338	1152761	clarithromycin Oral Liquid Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36216339	1152762	clarithromycin Oral Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36216340	1152763	clarithromycin Pill	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+40029769	379155	Clarithromycin 24 Hour Extended Release Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40029788	261368	Clarithromycin 500 MG Extended Release Tablet [Biaxin XL]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+40029794	371541	clarithromycin Extended Release Oral Tablet	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40029795	369998	Clarithromycin Extended Release Tablet [Biaxin XL]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40029796	386042	clarithromycin Extended Release Oral Tablet [Klaricid XL]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40029797	377139	clarithromycin Injectable Solution	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40029798	379375	clarithromycin Injectable Suspension	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40029799	365581	clarithromycin Injectable Suspension [Klaricid IV]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40029800	371539	clarithromycin Oral Suspension	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40029801	365890	clarithromycin Oral Suspension [Biaxin]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40029802	371540	clarithromycin Oral Tablet	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40029803	369494	clarithromycin Oral Tablet [Biaxin]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40049202	386107	clarithromycin Oral Suspension [Klaricid Adult]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40108709	574584	Clarithromycin 500 MG [Biaxin XL]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+40108712	541948	clarithromycin Extended Release Oral Tablet [Biaxin]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40137457	685542	Clarithromycin 24 Hour Extended Release Tablet [Biaxin]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40240310	1113013	{100 (24 HR Clarithromycin 500 MG Extended Release Tablet [Biaxin]) } Pack [ABBO-PAC 100 Tablet Pack]	Branded Pack	Drug	RxNorm	Invalid	Non-standard
+40240311	1113012	{100 (24 HR Clarithromycin 500 MG Extended Release Tablet) } Pack	Clinical Pack	Drug	RxNorm	Invalid	Non-standard
+42800262	1291986	{4 (amoxicillin 500 MG Oral Capsule) / 2 (clarithromycin 500 MG Oral Tablet) / 2 (omeprazole 20 MG Delayed Release Oral Capsule) } Pack	Clinical Pack	Drug	RxNorm	Valid	Standard
+42800263	1291987	{4 (amoxicillin 500 MG Oral Capsule) / 2 (clarithromycin 500 MG Oral Tablet) / 2 (omeprazole 20 MG Delayed Release Oral Capsule) } Pack [Omeclamox]	Branded Pack	Drug	RxNorm	Valid	Standard

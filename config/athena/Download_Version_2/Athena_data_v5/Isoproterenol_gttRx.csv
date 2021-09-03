@@ -1,0 +1,212 @@
+Id	Code	Name	Standard Class	Domain	Vocab	Validity	Concept
+1183554	6054	isoproterenol	Ingredient	Drug	RxNorm	Valid	Standard
+1183560	245918	cyclopentamine 5 MG/ML / Isoproterenol 2.5 MG/ML Inhalant Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+1183561	246452	Isoproterenol 4 MG/ML / Phenylephrine 6 MG/ML Inhalant Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+1183582	251249	isoproterenol 30 MG Oral Tablet	Clinical Drug	Drug	RxNorm	Valid	Standard
+1183584	282455	Isoproterenol 0.2 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+1183586	311181	Isoproterenol 0.62 MG/ML Inhalant Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+1183587	311182	Isoproterenol 0.125 MG/ACTUAT Inhalant Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+1183588	311183	Isoproterenol 0.16 MG/ACTUAT / Phenylephrine 0.24 MG/ACTUAT Nasal Spray	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+1183589	311184	Isoproterenol 5 MG/ML Inhalant Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+1183590	311185	Isoproterenol 10 MG/ML Inhalant Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+1183591	311186	Isoproterenol 10 MG Sublingual Tablet	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+1183602	311187	Isoproterenol 0.13 MG/ACTUAT Inhalant Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+1183603	311188	Isoproterenol 15 MG Sublingual Tablet	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+1183606	329884	Isoproterenol 0.125 MG/ACTUAT	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+1183607	329885	Isoproterenol 0.16 MG/ACTUAT	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+1183608	329887	Isoproterenol 0.2 MG/ML	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+1183609	329888	Isoproterenol 10 MG	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+1183610	329889	Isoproterenol 0.13 MG/ACTUAT	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+1183634	336723	Isoproterenol 1 MG/ML	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+1183635	345844	Isoproterenol 5 MG/ML	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+1183636	345845	Isoproterenol 10 MG/ML	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+1183637	358464	Isoproterenol 0.31 MG/ML	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+1183638	358465	Isoproterenol 0.62 MG/ML	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+1183639	358466	Isoproterenol 2.5 MG/ML	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+1183640	358617	Isoproterenol 4 MG/ML	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+1183665	755299	anhydrous calcium iodide 30 MG/ML / Isoproterenol 0.6 MG/ML Oral Solution [Norisodrine with Calcium Iodine]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+1183667	755911	anhydrous calcium iodide 30 MG/ML / Isoproterenol 0.6 MG/ML Oral Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+1183668	847564	10 ML Isoproterenol 0.2 MG/ML Prefilled Syringe	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+1183669	848168	300 ACTUAT Isoproterenol 0.16 MG/ACTUAT / Phenylephrine 0.24 MG/ACTUAT Metered Dose Inhaler	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+1356101	2108199	isoproterenol Inhalation Solution	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+1356102	2108205	isoproterenol Inhalation Solution [Isuprel]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+19000900	102361	Isoproterenol 0.2 MG/ML Injectable Solution [Isuprel HCl]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+19000901	102362	Isoproterenol 30 MG Extended Release Tablet [Saventrine]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+19000920	102399	Isoproterenol 20 MG Oral Tablet [Aleudrin]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+19000922	102400	Isoproterenol 10 MG/ML Inhalant Solution [Aleudrin]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+19004201	104541	Isoproterenol 0.4 MG/ACTUAT Inhalant Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19011444	141835	Isoproterenol 30 MG Extended Release Tablet	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19011550	141904	Isoproterenol 30 MG Oral Tablet [Saventrine]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+19012226	150638	Isoproterenol 0.2 MG/ML Injectable Solution [Min-I-Jet Isoprenaline IC]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+19012264	150651	Isoproterenol 20 MG Oral Tablet	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19012450	150805	Isoproterenol 0.4 MG/ACTUAT Inhalant Solution [Medihaler-Iso Forte]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+19022185	567562	Isoproterenol 0.08 MG/ACTUAT [Medihaler-Iso]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19027469	204436	Isoproterenol 0.16 MG/ACTUAT / Phenylephrine 0.24 MG/ACTUAT Inhalant Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19033311	206720	Isoproterenol 0.13 MG/ACTUAT Inhalant Solution [Isuprel Mistometer]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+19033372	206746	Isoproterenol 5 MG/ML Inhalant Solution [Isuprel HCl]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+19033374	206748	Isoproterenol 10 MG/ML Inhalant Solution [Isuprel HCl]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+19033605	206830	Isoproterenol 0.16 MG/ACTUAT / Phenylephrine 0.24 MG/ACTUAT Inhalant Solution [Duo-Medihaler]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+19063186	567638	Isoproterenol 0.16 MG/ACTUAT / Phenylephrine 0.24 MG/ACTUAT [Duo-Medihaler]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19064409	251250	Isoproterenol 1 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19070355	562989	Isoproterenol 0.2 MG/ML [Isuprel HCl]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19070356	567557	Isoproterenol 5 MG/ML [Isuprel HCl]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19070357	567559	Isoproterenol 10 MG/ML [Isuprel HCl]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19070359	567532	Isoproterenol 0.13 MG/ACTUAT [Isuprel Mistometer]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19075283	571325	anhydrous calcium iodide 30 MG/ML / Isoproterenol 0.6 MG/ML [Norisodrine with Calcium Iodine]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19078724	311180	Isoproterenol 0.31 MG/ML Inhalant Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19080070	314044	Isoproterenol 0.08 MG/ACTUAT Inhalant Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19083334	329014	Isoproterenol 0.6 MG/ML	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19084092	329890	Isoproterenol 15 MG	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19085967	330709	Isoproterenol 0.08 MG/ACTUAT	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19091382	335068	isoproterenol 30 MG	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+19098817	353572	Isoproterenol 20 MG	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19101379	385812	Isoproterenol 0.4 MG/ACTUAT	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19103240	409303	Isoproterenol 2.5 MG/ML Inhalant Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19104646	415874	Isoproterenol 0.004 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19104660	415915	Isoproterenol 0.002 MG/MG Topical Gel	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19110477	440847	Isoproterenol 0.004 MG/ML	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19110478	440848	Isoproterenol 0.002 MG/MG	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19112766	485047	Isoproterenol 2 MG/ML	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19115317	562990	Isoproterenol 30 MG [Saventrine]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19115331	563005	Isoproterenol 20 MG [Aleudrin]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19115332	563006	Isoproterenol 10 MG/ML [Aleudrin]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19116716	564755	Isoproterenol 0.2 MG/ML [Min-I-Jet Isoprenaline IC]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19116746	564801	Isoproterenol 0.4 MG/ACTUAT [Medihaler-Iso Forte]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19126568	706456	Isoproterenol 0.08 MG/ACTUAT Inhalant Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19126569	706457	Isoproterenol 0.08 MG/ACTUAT Inhalant Solution [Medihaler-Iso]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+19128737	755600	Calcium iodide 30 MG/ML / Isoproterenol 0.6 MG/ML Oral Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19132933	82030	isoproterenol hydrochloride	Precise Ingredient	Drug	RxNorm	Valid	Non-standard
+19132935	82031	isoproterenol sulfate	Precise Ingredient	Drug	RxNorm	Valid	Non-standard
+19135443	848170	300 ACTUAT Isoproterenol 0.16 MG/ACTUAT / Phenylephrine 0.24 MG/ACTUAT Metered Dose Inhaler [Duo-Medihaler]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+19135491	849066	5 ML Isoproterenol 0.2 MG/ML Prefilled Syringe	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+35603334	1667908	isoproterenol Injection	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+35603335	1667909	1 ML isoproterenol hydrochloride 0.2 MG/ML Injection	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+35603336	1667910	isoproterenol Injection [Isuprel]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+35603337	1667911	1 ML isoproterenol hydrochloride 0.2 MG/ML Injection [Isuprel]	Quant Branded Drug	Drug	RxNorm	Valid	Standard
+35603338	1667912	isoproterenol hydrochloride 0.2 MG/ML Injection	Clinical Drug	Drug	RxNorm	Valid	Standard
+35603339	1667913	isoproterenol hydrochloride 0.2 MG/ML Injection [Isuprel]	Branded Drug	Drug	RxNorm	Valid	Standard
+35603340	1667915	5 ML isoproterenol hydrochloride 0.2 MG/ML Injection	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+35603341	1667916	5 ML isoproterenol hydrochloride 0.2 MG/ML Injection [Isuprel]	Quant Branded Drug	Drug	RxNorm	Valid	Standard
+36029504	1300551	cyclopentamine hydrochloride / Isoproterenol Hydrochloride	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36029540	1355936	cyclopentamine / Isoproterenol	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36029891	214238	anhydrous calcium iodide / Isoproterenol	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36030017	214664	Isoproterenol / Phenylephrine	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36030679	691033	Calcium iodide / Isoproterenol	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36031023	819005	cyclopentamine / Isoproterenol	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36213212	1155076	calcium iodide / isoproterenol Oral Liquid Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36213213	1155077	calcium iodide / isoproterenol Oral Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36224713	1159745	isoproterenol / phenylephrine Inhalant Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36224714	1159746	isoproterenol Inhalant Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36224715	1159747	isoproterenol Injectable Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36224716	1159748	isoproterenol Oral Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36224717	1159749	isoproterenol Pill	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36224718	1159750	isoproterenol Topical Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36245273	1295266	isoproterenol Sublingual Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36246697	1355934	cyclopentamine / Isoproterenol Inhalant Product	Clinical Dose Group	Drug	RxNorm	Invalid	Non-standard
+40018752	376247	Calcium iodide / Isoproterenol Syrup	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40018754	313885	Calcium iodide 30 MG/ML / Isoproterenol 0.6 MG/ML Syrup	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+40050720	377298	Isoproterenol / Phenylephrine Inhalant Solution	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40051017	361877	Isoproterenol / Phenylephrine Inhalant Solution [Duo-Medihaler]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40051018	375854	Isoproterenol / Phenylephrine Nasal Spray	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40051023	329883	Isoproterenol 0.02 MG/ML	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+40051024	197833	Isoproterenol 0.02 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+40051025	206732	Isoproterenol 0.02 MG/ML Injectable Solution [Isuprel HCl]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+40051028	206751	Isoproterenol 0.08 MG/ACTUAT Inhalant Solution [Medihaler-Iso]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+40051034	333047	Isoproterenol 0.131 MG/ACTUAT	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+40051035	311189	Isoproterenol 0.131 MG/ACTUAT Inhalant Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+40051063	485048	Isoproterenol 2 MG/ML Inhalant Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+40051079	378805	Isoproterenol Extended Release Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40051080	386175	Isoproterenol Extended Release Tablet [Saventrine]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40051082	377288	Isoproterenol Inhalant Solution	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40051083	361883	Isoproterenol Inhalant Solution [Aleudrin]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40051084	361879	Isoproterenol Inhalant Solution [Isuprel HCl]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40051085	361880	Isoproterenol Inhalant Solution [Isuprel Mistometer]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40051086	385837	Isoproterenol Inhalant Solution [Medihaler-Iso Forte]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40051087	361878	Isoproterenol Inhalant Solution [Medihaler-Iso]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40051088	370718	isoproterenol Injectable Solution	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40051089	362843	Isoproterenol Injectable Solution [Isuprel HCl]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40051090	385911	Isoproterenol Injectable Solution [Min-I-Jet Isoprenaline IC]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40051091	372518	isoproterenol Oral Tablet	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40051092	369374	Isoproterenol Oral Tablet [Aleudrin]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40051093	385739	Isoproterenol Oral Tablet [Saventrine]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40051094	372517	isoproterenol Sublingual Tablet	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40051096	440849	isoproterenol Topical Gel	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40060221	379458	cyclopentamine / Isoproterenol Inhalant Solution	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40094457	374496	anhydrous calcium iodide / Isoproterenol Syrup	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40094458	365003	anhydrous calcium iodide / Isoproterenol Syrup [Norisodrine with Calcium Iodine]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40094460	204742	anhydrous calcium iodide 30 MG/ML / Isoproterenol 0.6 MG/ML Syrup	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+40094461	210845	anhydrous calcium iodide 30 MG/ML / Isoproterenol 0.6 MG/ML Syrup [Norisodrine with Calcium Iodine]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+40116094	567543	Isoproterenol 0.02 MG/ML [Isuprel HCl]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+40140290	706135	Isoproterenol 2 MG/ML [Medihaler-Iso]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+40145782	757185	calcium iodide / isoproterenol Oral Solution	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40147476	756807	anhydrous calcium iodide / Isoproterenol Oral Solution	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40147477	756808	anhydrous calcium iodide / Isoproterenol Oral Solution [Norisodrine with Calcium Iodine]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40159316	847563	isoproterenol Prefilled Syringe	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40160589	848167	isoproterenol / phenylephrine Metered Dose Inhaler	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40160590	848169	isoproterenol / phenylephrine Metered Dose Inhaler [Duo-Medihaler]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+42800275	1299716	10 ML isoproterenol hydrochloride 0.02 MG/ML Prefilled Syringe	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+42800276	1299717	10 ML isoproterenol hydrochloride 0.2 MG/ML Prefilled Syringe	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+42800317	1299774	5 ML isoproterenol hydrochloride 0.2 MG/ML Prefilled Syringe	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+42800321	1299682	300 ACTUAT isoproterenol hydrochloride 0.131 MG/ACTUAT Metered Dose Inhaler	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+42800322	1299687	300 ACTUAT isoproterenol hydrochloride 0.131 MG/ACTUAT Metered Dose Inhaler [Isuprel]	Quant Branded Drug	Drug	RxNorm	Valid	Standard
+42800323	1299667	300 ACTUAT isoproterenol hydrochloride 0.16 MG/ACTUAT / phenylephrine bitartrate 0.24 MG/ACTUAT Metered Dose Inhaler	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+42800324	1299669	300 ACTUAT isoproterenol hydrochloride 0.16 MG/ACTUAT / phenylephrine bitartrate 0.24 MG/ACTUAT Metered Dose Inhaler [Duo-Medihaler]	Quant Branded Drug	Drug	RxNorm	Valid	Standard
+42800325	1299672	300 ACTUAT isoproterenol sulfate 0.08 MG/ACTUAT Metered Dose Inhaler	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+42800326	1299675	300 ACTUAT isoproterenol sulfate 0.08 MG/ACTUAT Metered Dose Inhaler [Medihaler-Iso]	Quant Branded Drug	Drug	RxNorm	Valid	Standard
+42800565	1299710	calcium iodide / isoproterenol Oral Solution [Norisodrine]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+42800566	1299707	calcium iodide 30 MG/ML / isoproterenol sulfate 0.6 MG/ML Oral Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+42800567	1299713	calcium iodide 30 MG/ML / isoproterenol sulfate 0.6 MG/ML Oral Solution [Norisodrine]	Branded Drug	Drug	RxNorm	Valid	Standard
+42800568	1299709	calcium iodide 30 MG/ML / isoproterenol sulfate 0.6 MG/ML [Norisodrine]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+42800878	1299795	isoproterenol hydrochloride 0.004 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+42800879	1299796	isoproterenol hydrochloride 0.004 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+42800880	1299715	isoproterenol hydrochloride 0.02 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+42800881	1299760	isoproterenol hydrochloride 0.02 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+42800882	1299681	isoproterenol hydrochloride 0.131 MG/ACTUAT	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+42800883	1299684	isoproterenol hydrochloride 0.131 MG/ACTUAT [Isuprel]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+42800884	1299665	isoproterenol hydrochloride 0.16 MG/ACTUAT	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+42800885	1299668	isoproterenol hydrochloride 0.16 MG/ACTUAT / phenylephrine bitartrate 0.24 MG/ACTUAT [Duo-Medihaler]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+42800886	1299688	isoproterenol hydrochloride 0.2 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+42800887	1299689	Isoproterenol Hydrochloride 0.2 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+42800888	1299693	Isoproterenol Hydrochloride 0.2 MG/ML Injectable Solution [Isuprel]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+42800889	1299690	isoproterenol hydrochloride 0.2 MG/ML [Isuprel]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+42800890	1299763	isoproterenol hydrochloride 0.31 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+42800891	1299764	isoproterenol hydrochloride 0.31 MG/ML Inhalation Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+42800892	1299765	isoproterenol hydrochloride 0.62 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+42800893	1299766	isoproterenol hydrochloride 0.62 MG/ML Inhalation Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+42800894	1299767	isoproterenol hydrochloride 1 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+42800895	1299768	isoproterenol hydrochloride 1 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+42800896	1299769	isoproterenol hydrochloride 10 MG	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+42800897	1299770	isoproterenol hydrochloride 10 MG Sublingual Tablet	Clinical Drug	Drug	RxNorm	Valid	Standard
+42800898	1299694	isoproterenol hydrochloride 10 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+42800899	1299695	isoproterenol hydrochloride 10 MG/ML Inhalation Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+42800900	1299698	isoproterenol hydrochloride 10 MG/ML Inhalation Solution [Isuprel]	Branded Drug	Drug	RxNorm	Valid	Standard
+42800901	1299696	isoproterenol hydrochloride 10 MG/ML [Isuprel]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+42800902	1299772	isoproterenol hydrochloride 15 MG	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+42800903	1299773	isoproterenol hydrochloride 15 MG Sublingual Tablet	Clinical Drug	Drug	RxNorm	Valid	Standard
+42800904	1299806	Isoproterenol Hydrochloride 2.5 MG/ML	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+42800905	1299797	isoproterenol hydrochloride 30 MG	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+42800906	1299798	isoproterenol hydrochloride 30 MG Oral Tablet	Clinical Drug	Drug	RxNorm	Valid	Standard
+42800907	1299699	isoproterenol hydrochloride 5 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+42800908	1299700	isoproterenol hydrochloride 5 MG/ML Inhalation Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+42800909	1299702	isoproterenol hydrochloride 5 MG/ML Inhalation Solution [Isuprel]	Branded Drug	Drug	RxNorm	Valid	Standard
+42800910	1299701	isoproterenol hydrochloride 5 MG/ML [Isuprel]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+42800911	1299697	Isoproterenol Inhalant Solution [Isuprel]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+42800912	1299691	Isoproterenol Injectable Solution [Isuprel]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+42800913	1299671	isoproterenol Metered Dose Inhaler	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+42800914	1299685	isoproterenol Metered Dose Inhaler [Isuprel]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+42800915	1299674	isoproterenol Metered Dose Inhaler [Medihaler-Iso]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+42800916	1299793	isoproterenol sulfate 0.002 MG/MG	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+42800917	1299794	isoproterenol sulfate 0.002 MG/MG Topical Gel	Clinical Drug	Drug	RxNorm	Valid	Standard
+42800918	1299670	isoproterenol sulfate 0.08 MG/ACTUAT	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+42800919	1299673	isoproterenol sulfate 0.08 MG/ACTUAT [Medihaler-Iso]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+42800920	1299706	isoproterenol sulfate 0.6 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+42801279	1300306	cyclopentamine hydrochloride 5 MG/ML / Isoproterenol Hydrochloride 2.5 MG/ML Inhalant Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+42901147	1355933	cyclopentamine / Isoproterenol Inhalant Solution	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+42902389	1359502	isoproterenol sulfate 0.08 MG/ACTUAT Metered Dose Inhaler [Medihaler-Iso]	Branded Drug	Drug	RxNorm	Valid	Standard
+42902434	1359547	isoproterenol hydrochloride 0.131 MG/ACTUAT Metered Dose Inhaler [Isuprel]	Branded Drug	Drug	RxNorm	Valid	Standard
+42902810	1359923	isoproterenol hydrochloride 0.16 MG/ACTUAT / phenylephrine bitartrate 0.24 MG/ACTUAT Metered Dose Inhaler	Clinical Drug	Drug	RxNorm	Valid	Standard
+42902826	1359939	isoproterenol hydrochloride 0.16 MG/ACTUAT / phenylephrine bitartrate 0.24 MG/ACTUAT Metered Dose Inhaler [Duo-Medihaler]	Branded Drug	Drug	RxNorm	Valid	Standard
+42902881	1359994	isoproterenol sulfate 0.08 MG/ACTUAT Metered Dose Inhaler	Clinical Drug	Drug	RxNorm	Valid	Standard
+42903100	1360213	isoproterenol hydrochloride 0.02 MG/ML Prefilled Syringe	Clinical Drug	Drug	RxNorm	Valid	Standard
+42903281	1360394	isoproterenol hydrochloride 0.131 MG/ACTUAT Metered Dose Inhaler	Clinical Drug	Drug	RxNorm	Valid	Standard
+42903373	1360486	isoproterenol hydrochloride 0.2 MG/ML Prefilled Syringe	Clinical Drug	Drug	RxNorm	Valid	Standard

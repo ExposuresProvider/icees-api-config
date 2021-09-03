@@ -1,0 +1,38 @@
+﻿Id	Code	Name	Standard Class	Domain	Vocab	Validity	Concept
+4306259	165530009	Lymphocyte count normal	Clinical Finding	Condition	SNOMED	Valid	Standard
+4306413	165534000	Lymphocyte count abnormal	Clinical Finding	Condition	SNOMED	Valid	Standard
+40301811	142943002	Lymphocyte count normal	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40301815	142947001	Lymphocyte count abnormal	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+45613489	D018655	Lymphocyte Count	Main Heading	Measurement	MeSH	Valid	Non-standard
+506609	1052251000000101	Abnormal lymphocyte count	Observable Entity	Measurement	SNOMED	Valid	Standard
+3550893	75461000000107	Total B lymphocyte count	Procedure	Measurement	SNOMED	Invalid	Non-standard
+3551098	83761000000108	Total B lymphocyte count	Procedure	Measurement	SNOMED	Invalid	Non-standard
+3551591	100951000000107	Reactive lymphocyte count	Procedure	Measurement	SNOMED	Invalid	Non-standard
+3557383	546061000000108	Lymphocyte count NOS	Procedure	Measurement	SNOMED	Invalid	Non-standard
+4035727	117620005	Lymphocyte count by cell surface antigen phenotype	Procedure	Measurement	SNOMED	Valid	Standard
+4039856	118136006	T lymphocyte count	Procedure	Measurement	SNOMED	Valid	Standard
+4040034	117619004	Lymphocyte count by CD antigen phenotype	Procedure	Measurement	SNOMED	Valid	Standard
+4041971	118135005	B lymphocyte count	Procedure	Measurement	SNOMED	Valid	Standard
+4156652	271036002	Lymphocyte percent differential count	Procedure	Measurement	SNOMED	Valid	Standard
+4193954	391575009	Total T lymphocyte count	Procedure	Measurement	SNOMED	Valid	Standard
+4254663	74765001	Lymphocyte count	Procedure	Measurement	SNOMED	Valid	Standard
+4268302	401074004	Total B lymphocyte count	Procedure	Measurement	SNOMED	Valid	Standard
+4306414	165535004	Lymphocyte count NOS	Procedure	Measurement	SNOMED	Invalid	Non-standard
+4310465	391504007	Total lymphocyte count (IMM)	Procedure	Measurement	SNOMED	Invalid	Non-standard
+4313853	86528005	Reactive lymphocyte count	Procedure	Measurement	SNOMED	Valid	Standard
+35609607	1083881000000106	Urine percentage lymphocyte count	Observable Entity	Measurement	SNOMED	Valid	Standard
+37208689	1107961000000106	Lymphocyte count in blood	Procedure	Measurement	SNOMED	Valid	Standard
+37208690	1107971000000104	Lymphocyte percent count in blood	Procedure	Measurement	SNOMED	Valid	Standard
+37393858	1022581000000105	Lymphocyte count	Observable Entity	Measurement	SNOMED	Valid	Standard
+37398166	996661000000101	Total B lymphocyte count	Observable Entity	Measurement	SNOMED	Valid	Standard
+37398412	999561000000106	Reactive lymphocyte count	Observable Entity	Measurement	SNOMED	Valid	Standard
+37398469	1001391000000101	Total T lymphocyte count	Observable Entity	Measurement	SNOMED	Valid	Standard
+40301810	142942007	Lymphocyte count	Procedure	Measurement	SNOMED	Invalid	Non-standard
+40301816	142948006	Lymphocyte count NOS	Procedure	Measurement	SNOMED	Invalid	Non-standard
+40487382	446325007	Total lymphocyte count	Procedure	Measurement	SNOMED	Valid	Standard
+40557853	390137008	Total T lymphocyte count	Procedure	Measurement	SNOMED	Invalid	Non-standard
+40560672	390740004	Reactive lymphocyte count	Procedure	Measurement	SNOMED	Invalid	Non-standard
+40562853	389406006	Total T lymphocyte count	Procedure	Measurement	SNOMED	Invalid	Non-standard
+40562855	389408007	Total lymphocyte count (IMM)	Procedure	Measurement	SNOMED	Invalid	Non-standard
+3576406	96091000000107	Reactive lymphocyte count	Undefined	Observation	SNOMED	Invalid	Non-standard
+40557855	390139006	Total lymphocyte count (IMM)	Procedure	Procedure	SNOMED	Invalid	Non-standard

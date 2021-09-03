@@ -1,0 +1,33 @@
+Id	Code	Name	Standard Class	Domain	Vocab	Validity	Concept
+1355864	2106072	tocilizumab Auto-Injector	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+1355865	2106074	tocilizumab Auto-Injector [Actemra]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+1355866	2106076	tocilizumab 180 MG/ML Auto-Injector	Clinical Drug	Drug	RxNorm	Valid	Standard
+1355867	2106077	tocilizumab 180 MG/ML Auto-Injector [Actemra]	Branded Drug	Drug	RxNorm	Valid	Standard
+1356447	2106073	0.9 ML tocilizumab 180 MG/ML Auto-Injector	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+1356448	2106075	0.9 ML tocilizumab 180 MG/ML Auto-Injector [Actemra]	Quant Branded Drug	Drug	RxNorm	Valid	Standard
+36225461	1162729	tocilizumab Injectable Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+40171288	612865	tocilizumab	Ingredient	Drug	RxNorm	Valid	Standard
+40171289	895758	tocilizumab 20 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+40171290	895760	tocilizumab 20 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+40171291	895764	tocilizumab 20 MG/ML Injectable Solution [Actemra]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+40171292	895762	tocilizumab 20 MG/ML [Actemra]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+40171293	895759	tocilizumab Injectable Solution	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40171294	895763	tocilizumab Injectable Solution [Actemra]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+44507562	1441530	0.9 ML tocilizumab 180 MG/ML Prefilled Syringe [Actemra]	Quant Branded Drug	Drug	RxNorm	Valid	Standard
+44507566	1441527	0.9 ML tocilizumab 180 MG/ML Prefilled Syringe	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+44507701	1441525	tocilizumab 180 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+44507702	1441531	tocilizumab 180 MG/ML Prefilled Syringe	Clinical Drug	Drug	RxNorm	Valid	Standard
+44507703	1441532	tocilizumab 180 MG/ML Prefilled Syringe [Actemra]	Branded Drug	Drug	RxNorm	Valid	Standard
+44507704	1441528	tocilizumab 180 MG/ML [Actemra]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+44507705	1441526	tocilizumab Prefilled Syringe	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+44507706	1441529	tocilizumab Prefilled Syringe [Actemra]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+46275115	1657973	tocilizumab Injection	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+46275116	1657974	4 ML tocilizumab 20 MG/ML Injection	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+46275117	1657975	tocilizumab Injection [Actemra]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+46275118	1657976	4 ML tocilizumab 20 MG/ML Injection [Actemra]	Quant Branded Drug	Drug	RxNorm	Valid	Standard
+46275119	1657977	tocilizumab 20 MG/ML Injection	Clinical Drug	Drug	RxNorm	Valid	Standard
+46275120	1657978	tocilizumab 20 MG/ML Injection [Actemra]	Branded Drug	Drug	RxNorm	Valid	Standard
+46275121	1657979	10 ML tocilizumab 20 MG/ML Injection	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+46275122	1657980	10 ML tocilizumab 20 MG/ML Injection [Actemra]	Quant Branded Drug	Drug	RxNorm	Valid	Standard
+46275123	1657981	20 ML tocilizumab 20 MG/ML Injection	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+46275124	1657982	20 ML tocilizumab 20 MG/ML Injection [Actemra]	Quant Branded Drug	Drug	RxNorm	Valid	Standard

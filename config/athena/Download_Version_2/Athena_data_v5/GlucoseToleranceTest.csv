@@ -1,0 +1,61 @@
+﻿Id	Code	Name	Standard Class	Domain	Vocab	Validity	Concept
+45597198	R73.0	Abnormal glucose tolerance test	ICD10 code	Condition	ICD10	Valid	Non-standard
+1427852	R73.0	Abnormal glucose tolerance test	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+1427853	R73.000	Abnormal glucose tolerance test	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+37094072	R73.0	Abnormal glucose tolerance test	ICD10 code	Condition	ICD10GM	Valid	Non-standard
+44831602	790.22	Impaired glucose tolerance test (oral)	5-dig billing code	Condition	ICD9CM	Valid	Non-standard
+439402	372055003	Abnormal glucose tolerance test during pregnancy - baby delivered	Clinical Finding	Condition	SNOMED	Valid	Standard
+439403	372054004	Abnormal glucose tolerance test during pregnancy - baby not yet delivered	Clinical Finding	Condition	SNOMED	Valid	Standard
+440216	274858002	Abnormal glucose tolerance test	Clinical Finding	Condition	SNOMED	Valid	Standard
+"3558203	704581000000105	Abnormal glucose tolerance test during pregnancy, childbirth or the puerperium NOS	Clinical Finding	Condition	SNOMED	Invalid	Non-standard"
+3558205	704671000000109	Abnormal glucose tolerance test - unspecified whether during pregnancy or the puerperium	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+4007106	207272004	[D]Glucose tolerance test abnormal	Context-dependent	Condition	SNOMED	Invalid	Non-standard
+4042067	166927002	Impaired glucose tolerance test	Clinical Finding	Condition	SNOMED	Valid	Standard
+4042068	166929004	GTT = renal glycosuria	Clinical Finding	Condition	SNOMED	Valid	Standard
+4055678	166926006	Glucose tolerance test normal	Clinical Finding	Condition	SNOMED	Valid	Standard
+4055679	166928007	Glucose tolerance test indicates diabetes mellitus	Clinical Finding	Condition	SNOMED	Valid	Standard
+4155282	372051007	Abnormal glucose tolerance test in the puerperium - baby delivered during current episode of care	Clinical Finding	Condition	SNOMED	Valid	Standard
+4157329	372048000	Pregnancy with abnormal glucose tolerance test	Clinical Finding	Condition	SNOMED	Valid	Standard
+4162127	372056002	Abnormal glucose tolerance test - unspecified whether during pregnancy or the puerperium	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+"4162865	372046001	Abnormal glucose tolerance test during pregnancy, childbirth and the puerperium	Clinical Finding	Condition	SNOMED	Valid	Standard"
+4162866	372050008	Abnormal glucose tolerance test in the puerperium - baby delivered during previous episode of care	Clinical Finding	Condition	SNOMED	Valid	Standard
+"4162867	372052000	Abnormal glucose tolerance test during pregnancy, childbirth or the puerperium NOS	Clinical Finding	Condition	SNOMED	Invalid	Non-standard"
+40307839	144200001	Glucose tolerance test normal	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40318697	156144001	Pregnancy with abnormal glucose tolerance test	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40358563	267323002	Pregnancy with abnormal glucose tolerance test	Procedure	Condition	SNOMED	Invalid	Non-standard
+"40395711	199286006	Abnormal glucose tolerance test during pregnancy, childbirth and the puerperium	Procedure	Condition	SNOMED	Invalid	Non-standard"
+40395712	199287002	Abnormal glucose tolerance test - unspecified whether during pregnancy or the puerperium	Procedure	Condition	SNOMED	Invalid	Non-standard
+40395713	199288007	Abnormal glucose tolerance test during pregnancy - baby delivered	Procedure	Condition	SNOMED	Invalid	Non-standard
+40395714	199289004	Abnormal glucose tolerance test in the puerperium - baby delivered during current episode of care	Procedure	Condition	SNOMED	Invalid	Non-standard
+40395715	199290008	Abnormal glucose tolerance test during pregnancy - baby not yet delivered	Procedure	Condition	SNOMED	Invalid	Non-standard
+40395717	199291007	Abnormal glucose tolerance test in the puerperium - baby delivered during previous episode of care	Procedure	Condition	SNOMED	Invalid	Non-standard
+"40395718	199292000	Abnormal glucose tolerance test during pregnancy, childbirth or the puerperium NOS	Procedure	Condition	SNOMED	Invalid	Non-standard"
+44801936	499601000000109	[D]Glucose tolerance test abnormal	Context-dependent	Condition	SNOMED	Invalid	Non-standard
+2212358	82946	Glucagon tolerance test	CPT4	Measurement	CPT4	Valid	Standard
+"2212362	82951	Glucose; tolerance test (GTT), 3 specimens (includes glucose)	CPT4	Measurement	CPT4	Valid	Standard"
+"2212363	82952	Glucose; tolerance test, each additional beyond 3 specimens (List separately in addition to code for primary procedure)	CPT4	Measurement	CPT4	Valid	Standard"
+2212364	82953	Glucose (sugar) tolerance test (Deprecated)	CPT4	Measurement	CPT4	Valid	Standard
+40765587	62855-2	Deprecated PhenX measure - oral glucose tolerance test	Clinical Observation	Measurement	LOINC	Invalid	Non-standard
+40765588	62856-0	PhenX - oral glucose tolerance test protocol 141001	Clinical Observation	Measurement	LOINC	Valid	Standard
+45610585	D005951	Glucose Tolerance Test	Main Heading	Measurement	MeSH	Valid	Non-standard
+3554353	249971000000100	Extended glucose tolerance test	Procedure	Measurement	SNOMED	Invalid	Non-standard
+3554517	252601000000107	Extended glucose tolerance test	Procedure	Measurement	SNOMED	Invalid	Non-standard
+3554620	272221000000104	Glucose tolerance test	Procedure	Measurement	SNOMED	Invalid	Non-standard
+3557345	541621000000100	Glucose tolerance test NOS	Procedure	Measurement	SNOMED	Invalid	Non-standard
+4012477	113076002	Glucose tolerance test	Procedure	Measurement	SNOMED	Valid	Standard
+4027514	13165004	Measurement of glucose 3 hours after glucose challenge for glucose tolerance test	Procedure	Measurement	SNOMED	Valid	Standard
+4042730	166931008	Glucose tolerance test NOS	Procedure	Measurement	SNOMED	Invalid	Non-standard
+4143633	34259007	Measurement of glucose 5 hours after glucose challenge for glucose tolerance test	Procedure	Measurement	SNOMED	Valid	Standard
+4176733	49167009	Measurement of glucose 2 hours after glucose challenge for glucose tolerance test	Procedure	Measurement	SNOMED	Valid	Standard
+37392565	1005711000000106	Glucose tolerance test	Observable Entity	Measurement	SNOMED	Valid	Standard
+37398137	996311000000105	Extended glucose tolerance test	Observable Entity	Measurement	SNOMED	Valid	Standard
+40307838	144199004	Glucose tolerance (& blood (& test)	Procedure	Measurement	SNOMED	Invalid	Non-standard
+40307846	144205006	Glucose tolerance test NOS	Procedure	Measurement	SNOMED	Invalid	Non-standard
+40482666	442250009	Measurement of glucose 4 hours after glucose challenge for glucose tolerance test	Procedure	Measurement	SNOMED	Valid	Standard
+40482677	442260000	Measurement of glucose 1 hour after glucose challenge for glucose tolerance test	Procedure	Measurement	SNOMED	Valid	Standard
+"44783612	699731004	Glucose tolerance test, antenatal	Procedure	Measurement	SNOMED	Valid	Standard"
+44790867	244911000000109	Extended glucose tolerance test	Procedure	Measurement	SNOMED	Valid	Standard
+1005672	LP112418-1	PhenX measure - oral glucose tolerance test	LOINC Component	Observation	LOINC	Invalid	Non-standard
+1005673	LP112419-9	PhenX - oral glucose tolerance test protocol 141001	LOINC Component	Observation	LOINC	Valid	Non-standard
+40320435	158543005	[D]Glucose tolerance test abnormal	Context-dependent	Observation	SNOMED	Invalid	Non-standard
+40329594	166925005	Glucose tolerance (& blood (& test)	Procedure	Procedure	SNOMED	Invalid	Non-standard

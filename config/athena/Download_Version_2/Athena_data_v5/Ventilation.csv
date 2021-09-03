@@ -1,0 +1,507 @@
+﻿Id	Code	Name	Standard Class	Domain	Vocab	Validity	Concept
+434670	48347002	Humidifier lung	Clinical Finding	Condition	SNOMED	Valid	Standard
+3541704	697271000000109	Ventilation therapy complication NEC	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+4007396	207454008	[D]Ventilation capacity reduced	Context-dependent	Condition	SNOMED	Invalid	Non-standard
+4027549	128258000	Ventilation finding	Clinical Finding	Condition	SNOMED	Valid	Standard
+4031379	129896002	Artificial ventilation finding	Clinical Finding	Condition	SNOMED	Valid	Standard
+4031891	129895003	Impaired spontaneous ventilation	Clinical Finding	Condition	SNOMED	Valid	Standard
+4034714	15128004	Regional ventilation differences due to unequal bronchial pathway lengths	Clinical Finding	Condition	SNOMED	Valid	Standard
+4038399	16328001	Regional ventilation differences due to unequal stress	Clinical Finding	Condition	SNOMED	Valid	Standard
+4082419	247253001	Ventilation tube in tympanic membrane	Clinical Finding	Condition	SNOMED	Valid	Standard
+4084312	241700002	Spontaneous respiration	Clinical Finding	Condition	SNOMED	Valid	Standard
+4090402	247252006	Tympanic ventilation tube in external ear canal	Clinical Finding	Condition	SNOMED	Valid	Standard
+4101078	300161000	Ventilation tube not present	Clinical Finding	Condition	SNOMED	Valid	Standard
+4102891	300160004	Ventilation tube finding	Clinical Finding	Condition	SNOMED	Valid	Standard
+4106382	29804008	Regional ventilation differences due to pleural pressure	Clinical Finding	Condition	SNOMED	Valid	Standard
+4142305	306938008	Ventilation tube obscured by wax	Clinical Finding	Condition	SNOMED	Valid	Standard
+4144767	306937003	Ventilation tube patent	Clinical Finding	Condition	SNOMED	Valid	Standard
+4144970	33950005	Regional ventilation differences due to gravity	Clinical Finding	Condition	SNOMED	Valid	Standard
+4172524	277173008	Ventilation tube blocked	Clinical Finding	Condition	SNOMED	Valid	Standard
+4175336	42676002	Regional ventilation differences due to local airway resistance	Clinical Finding	Condition	SNOMED	Valid	Standard
+4180290	429487005	Dependence on continuous positive airway pressure ventilation	Clinical Finding	Condition	SNOMED	Valid	Standard
+4182570	429767005	Chronic otitis media after insertion of tympanic ventilation tube	Clinical Finding	Condition	SNOMED	Valid	Standard
+4198216	80249004	Normal distribution of ventilation	Clinical Finding	Condition	SNOMED	Valid	Standard
+4218677	39688001	Unequal ventilation	Clinical Finding	Condition	SNOMED	Valid	Standard
+4219586	397852001	V/Q - Ventilation/perfusion ratio	Clinical Finding	Condition	SNOMED	Valid	Standard
+4243929	38212005	Decreased maximal voluntary ventilation	Clinical Finding	Condition	SNOMED	Valid	Standard
+4247017	61335007	Regional ventilation differences	Clinical Finding	Condition	SNOMED	Valid	Standard
+4258126	440368003	Complication of retained tympanic ventilation tube	Clinical Finding	Condition	SNOMED	Valid	Standard
+4262306	397802005	Minute ventilation	Clinical Finding	Condition	SNOMED	Valid	Standard
+4271938	36491007	Abnormal distribution of ventilation	Clinical Finding	Condition	SNOMED	Valid	Standard
+4277183	36880005	Increased maximal voluntary ventilation	Clinical Finding	Condition	SNOMED	Valid	Standard
+4281387	66244005	Regional ventilation differences due to unequal compliance	Clinical Finding	Condition	SNOMED	Valid	Standard
+4308846	213336001	Ventilation therapy complication NEC	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+4325601	71695001	Complication of ventilation therapy	Clinical Finding	Condition	SNOMED	Valid	Standard
+4327886	429091008	Dependence on biphasic positive airway pressure ventilation	Clinical Finding	Condition	SNOMED	Valid	Standard
+4337687	87377007	Normal maximal voluntary ventilation	Clinical Finding	Condition	SNOMED	Valid	Standard
+35622017	763326004	Difficult mask ventilation	Clinical Finding	Condition	SNOMED	Valid	Standard
+35624174	766781004	Difficult supraglottic airway ventilation	Clinical Finding	Condition	SNOMED	Valid	Standard
+36685082	1083401000119107	Bilateral chronic otitis media of ears following insertion of tympanic ventilation tube	Clinical Finding	Condition	SNOMED	Valid	Standard
+36685146	1088531000119109	Chronic otitis media of left ear following insertion of tympanic ventilation tube	Clinical Finding	Condition	SNOMED	Valid	Standard
+36685217	1091141000119103	Chronic otitis media of right ear following insertion of tympanic ventilation tube	Clinical Finding	Condition	SNOMED	Valid	Standard
+37017389	713655003	Dependence on non-invasive ventilation	Clinical Finding	Condition	SNOMED	Valid	Standard
+37397717	718446005	Unexpected difficult airway	Clinical Finding	Condition	SNOMED	Valid	Standard
+40289171	128257005	Ventilation-perfusion finding	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40320917	158644009	[D]Ventilation capacity reduced	Context-dependent	Condition	SNOMED	Invalid	Non-standard
+40462586	250809008	Ventilation finding	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40481308	441918007	Maximal voluntary ventilation capacity below reference range	Clinical Finding	Condition	SNOMED	Valid	Standard
+42535241	16419651000119103	Dependence on biphasic positive airway pressure ventilation due to central sleep apnea syndrome	Clinical Finding	Condition	SNOMED	Valid	Standard
+44790840	240591000000102	Problem with artificial ventilation	Clinical Finding	Condition	SNOMED	Valid	Standard
+44797381	431411000000104	[V]Respirator dependence	Context-dependent	Condition	SNOMED	Invalid	Non-standard
+44802203	501141000000106	[D]Ventilation capacity reduced	Context-dependent	Condition	SNOMED	Invalid	Non-standard
+45770587	931611000000103	Dependence on non-invasive ventilation	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+46273524	60631000119109	Dependence on home ventilator	Clinical Finding	Condition	SNOMED	Valid	Standard
+4218005	416735007	Tympanic ventilation tube	Physical Object	Device	SNOMED	Valid	Standard
+37018243	714691004	Jet ventilation device	Physical Object	Device	SNOMED	Valid	Standard
+37018244	714692006	Variable pressure jet ventilation device	Physical Object	Device	SNOMED	Valid	Standard
+37018287	714742004	Bronchoscope intubation catheter with ventilation connector	Physical Object	Device	SNOMED	Valid	Standard
+37018820	714693001	Fixed pressure jet ventilation device	Physical Object	Device	SNOMED	Valid	Standard
+37396498	716332000	Manual jet ventilation device	Physical Object	Device	SNOMED	Valid	Standard
+40486648	449301000	Endotracheal ventilation catheter	Physical Object	Device	SNOMED	Valid	Standard
+"45760156	465749007	Ventilator IMV supplemental circuit, single-use	Physical Object	Device	SNOMED	Valid	Standard"
+45760274	465921009	Ventilation rocking bed	Physical Object	Device	SNOMED	Valid	Standard
+"45760386	466084007	Ventilator IMV supplemental circuit, reusable	Physical Object	Device	SNOMED	Valid	Standard"
+45771725	465359005	Ventilator IMV controller	Physical Object	Device	SNOMED	Valid	Standard
+45773232	700604003	High-frequency ventilation endotracheal tube	Physical Object	Device	SNOMED	Valid	Standard
+"1035133	LA30353-9	Yes, on invasive mechanical ventilation support upon admission	Answer	Meas Value	LOINC	Valid	Standard"
+36308106	LA29247-6	Assist-control ventilation	Answer	Meas Value	LOINC	Valid	Standard
+"36308277	LA28333-5	Fully liberated at discharge (i.e., patient did not require any invasive mechanical ventilation support for at least 2 consecutive calendar days immediately prior to discharge)	Answer	Meas Value	LOINC	Valid	Standard"
+36308445	LA29246-8	Controlled ventilation	Answer	Meas Value	LOINC	Valid	Standard
+"36308558	LA28329-3	No, not on invasive mechanical ventilation support	Answer	Meas Value	LOINC	Valid	Standard"
+"36308727	LA28332-7	Not fully liberated at discharge (i.e., patient required partial or full invasive mechanical ventilation support within 2 calendar days prior to discharge)	Answer	Meas Value	LOINC	Valid	Standard"
+36308817	LA9366-1	Respiratory assistance with manual or mechanical ventilation	Answer	Meas Value	LOINC	Valid	Standard
+36309327	LA28954-8	Positioning: Positioning to maximize ventilation	Answer	Meas Value	LOINC	Valid	Standard
+"36309737	LA28956-3	Supplemental oxygen therapy: Techniques to maximize ventilation (e.g., inspiratory hold maneuver, staircase breathing, manual hyperinflation, incentive spirometry)	Answer	Meas Value	LOINC	Valid	Standard"
+36310227	LA29245-0	Mandatory minute ventilation	Answer	Meas Value	LOINC	Valid	Standard
+36662288	LA30819-9	Assisted bag-mask ventilation	Answer	Meas Value	LOINC	Valid	Standard
+36662353	LA30820-7	Bag-mask ventilation not possible	Answer	Meas Value	LOINC	Valid	Standard
+36662365	LA30817-3	Ventilation	Answer	Meas Value	LOINC	Valid	Standard
+36662585	LA30818-1	Controlled bag-mask ventilation	Answer	Meas Value	LOINC	Valid	Standard
+42530690	LA26607-4	Invasive mechanical ventilation by intubation or tracheostomy	Answer	Meas Value	LOINC	Valid	Standard
+45877791	LA10033-1	Non-invasive ventilation (CPAP)	Answer	Meas Value	LOINC	Valid	Standard
+45878975	LA17061-5	Attempted ventilation	Answer	Meas Value	LOINC	Valid	Standard
+45879074	LA20015-6	Assisted ventilation required immediately following delivery	Answer	Meas Value	LOINC	Valid	Standard
+45879685	LA20016-4	Assisted ventilation required for more than six hours	Answer	Meas Value	LOINC	Valid	Standard
+45880365	LA12671-6	Assisted ventilation	Answer	Meas Value	LOINC	Valid	Standard
+"45880889	LA21146-8	Respiratory support (e.g., ventilation, tracheotomy)	Answer	Meas Value	LOINC	Valid	Standard"
+45884779	LA17753-7	Compressions-intermittent with ventilation	Answer	Meas Value	LOINC	Valid	Standard
+1001813	94119-5	Expired minute volume/Carbon dioxide production during exercise	Clinical Observation	Measurement	LOINC	Valid	Standard
+3003127	20159-0	Maximum voluntary ventilation	Clinical Observation	Measurement	LOINC	Valid	Standard
+3003394	20158-2	Maximum voluntary ventilation Predicted	Clinical Observation	Measurement	LOINC	Valid	Standard
+3004364	20164-0	Maximum voluntary ventilation [Flow] --pre bronchodilator/Voluntary ventilation.maximum predicted	Clinical Observation	Measurement	LOINC	Valid	Standard
+3004921	20124-4	Ventilation mode Ventilator	Clinical Observation	Measurement	LOINC	Valid	Standard
+3005522	20163-2	Maximum voluntary ventilation --pre bronchodilator	Clinical Observation	Measurement	LOINC	Valid	Standard
+3006396	19841-6	Respiratory rate by Spirometry --at maximum voluntary ventilation	Clinical Observation	Measurement	LOINC	Valid	Standard
+3009603	20139-2	Volume expired 1 minute	Clinical Observation	Measurement	LOINC	Valid	Standard
+3019858	20161-6	Maximum voluntary ventilation [Flow] --post bronchodilator/Voluntary ventilation.maximum predicted	Clinical Observation	Measurement	LOINC	Valid	Standard
+3020448	20162-4	Maximum voluntary ventilation Measured --pre bronchodilator	Clinical Observation	Measurement	LOINC	Valid	Standard
+3022705	19842-4	Respiratory rate --at maximum voluntary ventilation	Clinical Observation	Measurement	LOINC	Valid	Standard
+3023611	20160-8	Maximum voluntary ventilation --post bronchodilator	Clinical Observation	Measurement	LOINC	Valid	Standard
+3027288	20141-8	Volume expired per minute/Body weight --on ventilator	Clinical Observation	Measurement	LOINC	Valid	Standard
+3029166	33448-2	Tubing compliance Ventilation tube	Clinical Observation	Measurement	LOINC	Valid	Standard
+3035871	30697-7	NM Pulmonary system Ventilation and Perfusion	Clinical Observation	Measurement	LOINC	Valid	Standard
+3037092	24888-0	NM Pulmonary system Ventilation and Perfusion W Xe-133 IH and W Tc-99m MAA IV	Clinical Observation	Measurement	LOINC	Valid	Standard
+3038661	39946-9	NM Lung Ventilation and Perfusion and Differential	Clinical Observation	Measurement	LOINC	Valid	Standard
+3038801	39947-7	NM Lung Ventilation and Equilibrium	Clinical Observation	Measurement	LOINC	Valid	Standard
+3038858	39942-8	NM Lung Ventilation and Perfusion	Clinical Observation	Measurement	LOINC	Valid	Standard
+3039008	39943-6	Deprecated Lung NM ventilation and perfusion W radionuclide IH and W particulate radionuclide IV	Clinical Observation	Measurement	LOINC	Invalid	Non-standard
+3039016	39945-1	Deprecated Lung NM ventilation W radionuclide gaseous IH single breath	Clinical Observation	Measurement	LOINC	Invalid	Non-standard
+3039236	39837-0	NM Lung Ventilation	Clinical Observation	Measurement	LOINC	Valid	Standard
+3040118	39835-4	Deprecated Lung NM ventilation W radionuclide aerosol IH	Clinical Observation	Measurement	LOINC	Invalid	Non-standard
+3040857	39838-8	SPECT Lung ventilation and perfusion	Clinical Observation	Measurement	LOINC	Valid	Standard
+3041018	39948-5	Deprecated Lung NM ventilation and equilibrium and washout W radionuclide IH single breath	Clinical Observation	Measurement	LOINC	Invalid	Non-standard
+3041442	39834-7	NM Lung Ventilation W Tc-99m DTPA aerosol IH	Clinical Observation	Measurement	LOINC	Valid	Standard
+3041759	39898-2	SPECT Lung ventilation	Clinical Observation	Measurement	LOINC	Valid	Standard
+3042335	39836-2	Deprecated Lung NM ventilation W radionuclide gaseous IH	Clinical Observation	Measurement	LOINC	Invalid	Non-standard
+3042346	39944-4	NM Lung Ventilation and Equilibrium and Washout	Clinical Observation	Measurement	LOINC	Valid	Standard
+3053147	46361-2	NM Lung Ventilation W Xe-133 IH	Clinical Observation	Measurement	LOINC	Valid	Standard
+21490753	75959-7	Volume expired per minute Respiratory system	Clinical Observation	Measurement	LOINC	Valid	Standard
+21490844	76165-0	Alveolar ventilation [Volume] Respiratory system --on ventilator	Clinical Observation	Measurement	LOINC	Valid	Standard
+21492234	76526-3	Ventilation rate by Carbon dioxide measurement	Clinical Observation	Measurement	LOINC	Valid	Standard
+21493767	81596-9	NM Lung Quantitative Views Ventilation and Perfusion	Clinical Observation	Measurement	LOINC	Valid	Standard
+36033371	LP421595-2	Whether the patient received mechanical ventilation for condition of interest | Patient | History	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37038748	LP409242-7	Voluntary ventilation maximum | Respiratory system | Respiratory measures and Ventilator management	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37041475	LP409231-0	Ventilation mode | Ventilator | Respiratory measures and Ventilator management	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37053105	LP409227-8	Tubing compliance | Ventilation tube | Respiratory measures and Ventilator management	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+42527120	76008-2	Expired minute Volume during Mechanical ventilation	Clinical Observation	Measurement	LOINC	Valid	Standard
+42527121	76009-0	Inspired minute Volume during Mechanical ventilation	Clinical Observation	Measurement	LOINC	Valid	Standard
+958726	D008451	Maximal Voluntary Ventilation	Main Heading	Measurement	MeSH	Valid	Non-standard
+958817	D014692	Ventilation-Perfusion Ratio	Main Heading	Measurement	MeSH	Valid	Non-standard
+3554566	255891000000108	Nitrogen washout test	Procedure	Measurement	SNOMED	Invalid	Non-standard
+4028871	128970009	Held ventilation	Procedure	Measurement	SNOMED	Valid	Standard
+4089932	251901004	Maximum voluntary ventilation	Observable Entity	Measurement	SNOMED	Valid	Standard
+4108449	250818005	Ventilation cycle time	Observable Entity	Measurement	SNOMED	Valid	Standard
+4169429	48806009	Maximal voluntary ventilation measurement	Procedure	Measurement	SNOMED	Valid	Standard
+"4204979	53837002	Spirometry, differential ventilation, oxygen consumption	Procedure	Measurement	SNOMED	Invalid	Non-standard"
+4208186	440031006	Adequacy of ventilation and alveolar gas exchange	Observable Entity	Measurement	SNOMED	Valid	Standard
+4228814	88345006	CO>2< response curve measurement	Observable Entity	Measurement	SNOMED	Valid	Standard
+4239222	91225006	Hypoxia response curve measurement	Procedure	Measurement	SNOMED	Valid	Standard
+4266619	364677001	Ventilation detail	Observable Entity	Measurement	SNOMED	Invalid	Non-standard
+"2108681	4168F	Patient receiving care in the intensive care unit (ICU) and receiving mechanical ventilation, 24 hours or less (CRIT)	CPT4	Observation	CPT4	Valid	Standard"
+2108682	4169F	Patient either not receiving care in the intensive care unit (ICU) OR not receiving mechanical ventilation OR receiving mechanical ventilation greater than 24 hours (CRIT)	CPT4	Observation	CPT4	Valid	Standard
+1006334	LP115577-1	Mode of supported ventilation	LOINC Component	Observation	LOINC	Valid	Non-standard
+1013010	LP188562-5	Alveolar ventilation	LOINC Component	Observation	LOINC	Valid	Non-standard
+1015140	LP212490-9	Views ventilation and perfusion quantitative	LOINC Component	Observation	LOINC	Valid	Non-standard
+1015287	LP221400-7	Views ventilation and equilibrium and washout	LOINC Component	Observation	LOINC	Valid	Non-standard
+1015288	LP221401-5	Views ventilation and perfusion	LOINC Component	Observation	LOINC	Valid	Non-standard
+1017310	LP263646-4	Invasive mechanical ventilation support upon admission	LOINC Component	Observation	LOINC	Valid	Non-standard
+1024407	LP308779-0	Breaths^at maximum voluntary ventilation	LOINC Component	Observation	LOINC	Valid	Non-standard
+1025201	LP309634-6	Views ventilation & equilibrium & washout^W radionuclide IH single breath	LOINC Component	Observation	LOINC	Valid	Non-standard
+1025202	LP309635-3	Views ventilation & perfusion^W radionuclide IH & W particulate radionuclide IV	LOINC Component	Observation	LOINC	Valid	Non-standard
+1026399	LP33646-8	Views ventilation and perfusion	LOINC Component	Observation	LOINC	Valid	Non-standard
+1027397	LP35401-6	Views ventilation	LOINC Component	Observation	LOINC	Valid	Non-standard
+1027398	LP35405-7	Multisection ventilation and perfusion	LOINC Component	Observation	LOINC	Valid	Non-standard
+1027416	LP35433-9	Multisection ventilation	LOINC Component	Observation	LOINC	Valid	Non-standard
+1027438	LP35463-6	Views ventilation and perfusion and differential	LOINC Component	Observation	LOINC	Valid	Non-standard
+1027439	LP35464-4	Views ventilation and equilibrium	LOINC Component	Observation	LOINC	Valid	Non-standard
+1027440	LP35466-9	Views ventilation and equilibrium and washout	LOINC Component	Observation	LOINC	Valid	Non-standard
+1031285	LP73709-5	Voluntary ventilation	LOINC Component	Observation	LOINC	Valid	Non-standard
+"1032371	LP74874-6	Fumes, odors, dusts, gases, poor ventilation, etc	LOINC Component	Observation	LOINC	Valid	Non-standard"
+1033533	LP76082-4	Ventilation tube	LOINC System	Observation	LOINC	Valid	Non-standard
+"3050327	46688-8	Fumes, odors, dusts, gases, poor ventilation, etc [RFC]	Survey	Observation	LOINC	Valid	Standard"
+36031207	96539-2	Whether the patient received mechanical ventilation for condition of interest	Clinical Observation	Observation	LOINC	Valid	Standard
+36034360	LP421154-8	Whether the patient received mechanical ventilation for condition of interest	LOINC Component	Observation	LOINC	Valid	Non-standard
+36305051	87539-3	Invasive mechanical ventilation support upon admission [CMS Assessment]	Survey	Observation	LOINC	Valid	Standard
+36660679	95049-3	Type of bag-mask ventilation used	Clinical Observation	Observation	LOINC	Valid	Standard
+36661393	LP417899-4	Type of bag-mask ventilation used	LOINC Component	Observation	LOINC	Valid	Non-standard
+37042784	LP73667-5	Ventilation mode	LOINC Component	Observation	LOINC	Valid	Non-standard
+37065053	LP75978-4	Voluntary ventilation maximum	LOINC Component	Observation	LOINC	Valid	Non-standard
+40766740	64023-5	Mode of supported ventilation [PhenX]	Clinical Observation	Observation	LOINC	Valid	Standard
+764607	457341000124105	Uses home bilevel positive airway pressure ventilation	Clinical Finding	Observation	SNOMED	Valid	Standard
+3558850	784831000000107	Non invasive ventilation therapy review	Procedure	Observation	SNOMED	Invalid	Non-standard
+3559071	808861000000105	Dual pressure spontaneous ventilation support	Procedure	Observation	SNOMED	Invalid	Non-standard
+3578145	255721000000103	Other specified ventilation support	Undefined	Observation	SNOMED	Invalid	Non-standard
+3579237	292041000000108	Lung ventilation scanning NEC	Undefined	Observation	SNOMED	Invalid	Non-standard
+3657510	1322151000000107	Recently performed administration of NIV (non-invasive ventilation)	Event	Observation	SNOMED	Valid	Standard
+3657511	1322181000000101	Recently performed administration of BiPAP (bi-level positive airway pressure) ventilation	Event	Observation	SNOMED	Valid	Standard
+3657518	1322251000000101	Recently performed administration of CPAP (continuous positive airway pressure) ventilation	Event	Observation	SNOMED	Valid	Standard
+3657519	1322261000000103	Recently performed administration of HFOV (high frequency oscillatory ventilation)	Event	Observation	SNOMED	Valid	Standard
+3661883	34291000175108	Nocturnal dual pressure spontaneous ventilation support	Procedure	Observation	SNOMED	Valid	Standard
+4019439	10448000	Distribution of ventilation	Observable Entity	Observation	SNOMED	Valid	Standard
+4039924	229312009	Nasal ventilation therapy	Procedure	Observation	SNOMED	Valid	Standard
+4055262	243142003	Dual pressure spontaneous ventilation support	Procedure	Observation	SNOMED	Valid	Standard
+4055380	243175006	Weaning from mechanically assisted ventilation completed	Procedure	Observation	SNOMED	Valid	Standard
+4084281	281418001	Left lung ventilation	Qualifier Value	Observation	SNOMED	Valid	Standard
+4084282	281420003	Bilateral lung ventilation	Qualifier Value	Observation	SNOMED	Valid	Standard
+4084920	281419009	Right lung ventilation	Qualifier Value	Observation	SNOMED	Valid	Standard
+4105094	281410008	Differential lung ventilation	Qualifier Value	Observation	SNOMED	Valid	Standard
+4105098	281417006	One lung ventilation	Qualifier Value	Observation	SNOMED	Valid	Standard
+4121017	258040003	Isocapnic ventilation	Qualifier Value	Observation	SNOMED	Valid	Standard
+4139770	3309000	Maximum breathing capacity	Observable Entity	Observation	SNOMED	Valid	Standard
+4155628	28400003	Passive ventilation	Observable Entity	Observation	SNOMED	Valid	Standard
+4163858	45444009	Ventilation	Observable Entity	Observation	SNOMED	Valid	Standard
+4165535	47545007	Continuous positive airway pressure ventilation treatment	Procedure	Observation	SNOMED	Valid	Standard
+4195017	44284008	Alveolar ventilation (V)	Observable Entity	Observation	SNOMED	Valid	Standard
+"4216523	81047002	Heating, ventilation and refrigeration engineer	Social Context	Observation	SNOMED	Valid	Standard"
+4224130	404989005	Ventilation status	Observable Entity	Observation	SNOMED	Valid	Standard
+4226693	405260009	Mode of ventilation monitoring features	Observable Entity	Observation	SNOMED	Valid	Standard
+4229714	404998008	Mechanical ventilation weaning response	Observable Entity	Observation	SNOMED	Valid	Standard
+4232550	439887005	Home visit for mechanical ventilation care	Procedure	Observation	SNOMED	Valid	Standard
+4232891	404997003	Mechanical ventilation response	Observable Entity	Observation	SNOMED	Valid	Standard
+4265601	397834001	Weaning from mechanically assisted ventilation not achieved	Procedure	Observation	SNOMED	Valid	Standard
+4266022	397781009	Mode of ventilation monitoring	Procedure	Observation	SNOMED	Valid	Standard
+4266030	397814002	Mode of ventilation monitoring	Observable Entity	Observation	SNOMED	Valid	Standard
+"4272800	63367003	Heating, ventilation and refrigeration engineering Technician	Social Context	Observation	SNOMED	Valid	Standard"
+4280494	65552001	Active ventilation	Observable Entity	Observation	SNOMED	Valid	Standard
+4300526	78126002	Heating and ventilation equipment operator	Social Context	Observation	SNOMED	Valid	Standard
+4330711	224758005	Natural ventilation	Physical Object	Observation	SNOMED	Valid	Standard
+35609516	1082891000000100	Treatment Escalation Plan decision - appropriate for ward non-invasive ventilation	Clinical Finding	Observation	SNOMED	Valid	Standard
+35609517	1082901000000104	Treatment Escalation Plan decision - not appropriate for ward non-invasive ventilation	Clinical Finding	Observation	SNOMED	Valid	Standard
+35622018	763327008	Failed mask ventilation	Context-dependent	Observation	SNOMED	Valid	Standard
+35624173	766780003	Failed supraglottic airway ventilation	Context-dependent	Observation	SNOMED	Valid	Standard
+35626961	8771000175103	Uses home continuous positive airway pressure ventilation supply	Clinical Finding	Observation	SNOMED	Valid	Standard
+36716673	722816006	Entire ventilation cycle process	Qualifier Value	Observation	SNOMED	Valid	Standard
+36716674	722817002	Entire spontaneous ventilation cycle process	Qualifier Value	Observation	SNOMED	Valid	Standard
+37016138	10998491000119106	History of removal of tympanic ventilation tube from tympanic membrane	Context-dependent	Observation	SNOMED	Valid	Standard
+37018983	712828004	Continuous positive airway pressure ventilation treatment not tolerated	Context-dependent	Observation	SNOMED	Valid	Standard
+40432083	229311002	Dual pressure spontaneous ventilation support	Procedure	Observation	SNOMED	Invalid	Non-standard
+"40512205	311057006	Heating, ventilation and air conditioning fitter - Royal Engineers	Social Context	Observation	SNOMED	Invalid	Non-standard"
+40525764	316113009	[V]Respirator dependence	Context-dependent	Observation	SNOMED	Invalid	Non-standard
+"44796836	420201000000107	Heating, ventilation and air conditioning fitter - Royal Engineers	Social Context	Observation	SNOMED	Valid	Standard"
+44813447	784821000000105	Non-invasive ventilation therapy review	Procedure	Observation	SNOMED	Valid	Standard
+2100820	00528	Anesthesia for closed chest procedures; mediastinoscopy and diagnostic thoracoscopy not utilizing 1 lung ventilation	CPT4	Procedure	CPT4	Valid	Standard
+2100821	00529	Anesthesia for closed chest procedures; mediastinoscopy and diagnostic thoracoscopy utilizing 1 lung ventilation	CPT4	Procedure	CPT4	Valid	Standard
+"2100830	00541	Anesthesia for thoracotomy procedures involving lungs, pleura, diaphragm, and mediastinum (including surgical thoracoscopy); utilizing 1 lung ventilation	CPT4	Procedure	CPT4	Valid	Standard"
+"2100895	00625	Anesthesia for procedures on the thoracic spine and cord, via an anterior transthoracic approach; not utilizing 1 lung ventilation	CPT4	Procedure	CPT4	Valid	Standard"
+"2100896	00626	Anesthesia for procedures on the thoracic spine and cord, via an anterior transthoracic approach; utilizing 1 lung ventilation	CPT4	Procedure	CPT4	Valid	Standard"
+"2212003	78584	Pulmonary perfusion imaging, particulate, with ventilation; single breath (Deprecated)	CPT4	Procedure	CPT4	Valid	Standard"
+"2212004	78585	Pulmonary perfusion imaging, particulate, with ventilation; rebreathing and washout, with or without single breath (Deprecated)	CPT4	Procedure	CPT4	Valid	Standard"
+"2212005	78586	Pulmonary ventilation imaging, aerosol; single projection (Deprecated)	CPT4	Procedure	CPT4	Valid	Standard"
+"2212006	78587	Pulmonary ventilation imaging, aerosol; multiple projections (eg, anterior, posterior, lateral views) (Deprecated)	CPT4	Procedure	CPT4	Valid	Standard"
+"2212007	78588	Pulmonary perfusion imaging, particulate, with ventilation imaging, aerosol, one or multiple projections (Deprecated)	CPT4	Procedure	CPT4	Valid	Standard"
+"2212008	78591	Pulmonary ventilation imaging, gaseous, single breath, single projection (Deprecated)	CPT4	Procedure	CPT4	Valid	Standard"
+"2212009	78593	Pulmonary ventilation imaging, gaseous, with rebreathing and washout with or without single breath; single projection (Deprecated)	CPT4	Procedure	CPT4	Valid	Standard"
+"2212010	78594	Pulmonary ventilation imaging, gaseous, with rebreathing and washout with or without single breath; multiple projections (eg, anterior, posterior, lateral views) (Deprecated)	CPT4	Procedure	CPT4	Valid	Standard"
+2212011	78596	Pulmonary quantitative differential function (ventilation/perfusion) study (Deprecated)	CPT4	Procedure	CPT4	Valid	Standard
+"2314000	94002	Ventilation assist and management, initiation of pressure or volume preset ventilators for assisted or controlled breathing; hospital inpatient/observation, initial day	CPT4	Procedure	CPT4	Valid	Standard"
+"2314001	94003	Ventilation assist and management, initiation of pressure or volume preset ventilators for assisted or controlled breathing; hospital inpatient/observation, each subsequent day	CPT4	Procedure	CPT4	Valid	Standard"
+"2314002	94004	Ventilation assist and management, initiation of pressure or volume preset ventilators for assisted or controlled breathing; nursing facility, per day	CPT4	Procedure	CPT4	Valid	Standard"
+"2314004	94010	Spirometry, including graphic record, total and timed vital capacity, expiratory flow rate measurement(s), with or without maximal voluntary ventilation	CPT4	Procedure	CPT4	Valid	Standard"
+"2314011	94200	Maximum breathing capacity, maximal voluntary ventilation	CPT4	Procedure	CPT4	Valid	Standard"
+"2314025	94621	Cardiopulmonary exercise testing, including measurements of minute ventilation, CO2 production, O2 uptake, and electrocardiographic recordings	CPT4	Procedure	CPT4	Valid	Standard"
+"2314035	94660	Continuous positive airway pressure ventilation (CPAP), initiation and management	CPT4	Procedure	CPT4	Valid	Standard"
+"2314036	94662	Continuous negative pressure ventilation (CNP), initiation and management	CPT4	Procedure	CPT4	Valid	Standard"
+"2314097	95807	Sleep study, simultaneous recording of ventilation, respiratory effort, ECG or heart rate, and oxygen saturation, attended by a technologist	CPT4	Procedure	CPT4	Valid	Standard"
+"2314100	95811	Polysomnography; age 6 years or older, sleep staging with 4 or more additional parameters of sleep, with initiation of continuous positive airway pressure therapy or bilevel ventilation, attended by a technologist	CPT4	Procedure	CPT4	Valid	Standard"
+"2514560	99465	Delivery/birthing room resuscitation, provision of positive pressure ventilation and/or chest compressions in the presence of acute inadequate ventilation and/or cardiac output	CPT4	Procedure	CPT4	Valid	Standard"
+2514578	99504	Home visit for mechanical ventilation care	CPT4	Procedure	CPT4	Valid	Standard
+"42738852	94656	Ventilation assist and management, initiation of pressure or volume preset ventilators for assisted or controlled breathing; first day (Deprecated)	CPT4	Procedure	CPT4	Valid	Standard"
+"42738853	94657	Ventilation assist and management, initiation of pressure or volume preset ventilators for assisted or controlled breathing; subsequent days (Deprecated)	CPT4	Procedure	CPT4	Valid	Standard"
+42739015	99440	Newborn resuscitation: provision of positive pressure ventilation and/or chest compressions in the presence of acute inadequate ventilation and/or cardiac output (Deprecated)	CPT4	Procedure	CPT4	Valid	Standard
+"42742388	94727	Gas dilution or washout for determination of lung volumes and, when performed, distribution of ventilation and closing volumes	CPT4	Procedure	CPT4	Valid	Standard"
+"42742554	78579	Pulmonary ventilation imaging (eg, aerosol or gas)	CPT4	Procedure	CPT4	Valid	Standard"
+"42742555	78582	Pulmonary ventilation (eg, aerosol or gas) and perfusion imaging	CPT4	Procedure	CPT4	Valid	Standard"
+"42742557	78598	Quantitative differential pulmonary perfusion and ventilation (eg, aerosol or gas), including imaging when performed	CPT4	Procedure	CPT4	Valid	Standard"
+"43528015	95783	Polysomnography; younger than 6 years, sleep staging with 4 or more additional parameters of sleep, with initiation of continuous positive airway pressure therapy or bi-level ventilation, attended by a technologist	CPT4	Procedure	CPT4	Valid	Standard"
+"45887795	1014859	Ventilation assist and management, initiation of pressure or volume preset ventilators for assisted or controlled breathing	CPT4 Hierarchy	Procedure	CPT4	Valid	Classification"
+"1781160	5A0935A	Assistance with Respiratory Ventilation, Less than 24 Consecutive Hours, High Nasal Flow/Velocity	ICD10PCS	Procedure	ICD10PCS	Valid	Standard"
+"1781161	5A0945A	Assistance with Respiratory Ventilation, 24-96 Consecutive Hours, High Nasal Flow/Velocity	ICD10PCS	Procedure	ICD10PCS	Valid	Standard"
+"1781162	5A0955A	Assistance with Respiratory Ventilation, Greater than 96 Consecutive Hours, High Nasal Flow/Velocity	ICD10PCS	Procedure	ICD10PCS	Valid	Standard"
+"2787823	5A09357	Assistance with Respiratory Ventilation, Less than 24 Consecutive Hours, Continuous Positive Airway Pressure	ICD10PCS	Procedure	ICD10PCS	Valid	Standard"
+"2787824	5A09358	Assistance with Respiratory Ventilation, Less than 24 Consecutive Hours, Intermittent Positive Airway Pressure	ICD10PCS	Procedure	ICD10PCS	Valid	Standard"
+"2788016	5A09359	Assistance with Respiratory Ventilation, Less than 24 Consecutive Hours, Continuous Negative Airway Pressure	ICD10PCS	Procedure	ICD10PCS	Valid	Standard"
+"2788017	5A0935B	Assistance with Respiratory Ventilation, Less than 24 Consecutive Hours, Intermittent Negative Airway Pressure	ICD10PCS	Procedure	ICD10PCS	Valid	Standard"
+"2788018	5A0935Z	Assistance with Respiratory Ventilation, Less than 24 Consecutive Hours	ICD10PCS	Procedure	ICD10PCS	Valid	Standard"
+"2788019	5A09457	Assistance with Respiratory Ventilation, 24-96 Consecutive Hours, Continuous Positive Airway Pressure	ICD10PCS	Procedure	ICD10PCS	Valid	Standard"
+"2788020	5A09458	Assistance with Respiratory Ventilation, 24-96 Consecutive Hours, Intermittent Positive Airway Pressure	ICD10PCS	Procedure	ICD10PCS	Valid	Standard"
+"2788021	5A09459	Assistance with Respiratory Ventilation, 24-96 Consecutive Hours, Continuous Negative Airway Pressure	ICD10PCS	Procedure	ICD10PCS	Valid	Standard"
+"2788022	5A0945B	Assistance with Respiratory Ventilation, 24-96 Consecutive Hours, Intermittent Negative Airway Pressure	ICD10PCS	Procedure	ICD10PCS	Valid	Standard"
+"2788023	5A0945Z	Assistance with Respiratory Ventilation, 24-96 Consecutive Hours	ICD10PCS	Procedure	ICD10PCS	Valid	Standard"
+"2788024	5A09557	Assistance with Respiratory Ventilation, Greater than 96 Consecutive Hours, Continuous Positive Airway Pressure	ICD10PCS	Procedure	ICD10PCS	Valid	Standard"
+"2788025	5A09558	Assistance with Respiratory Ventilation, Greater than 96 Consecutive Hours, Intermittent Positive Airway Pressure	ICD10PCS	Procedure	ICD10PCS	Valid	Standard"
+"2788026	5A09559	Assistance with Respiratory Ventilation, Greater than 96 Consecutive Hours, Continuous Negative Airway Pressure	ICD10PCS	Procedure	ICD10PCS	Valid	Standard"
+"2788027	5A0955B	Assistance with Respiratory Ventilation, Greater than 96 Consecutive Hours, Intermittent Negative Airway Pressure	ICD10PCS	Procedure	ICD10PCS	Valid	Standard"
+"2788028	5A0955Z	Assistance with Respiratory Ventilation, Greater than 96 Consecutive Hours	ICD10PCS	Procedure	ICD10PCS	Valid	Standard"
+"2788035	5A19054	Respiratory Ventilation, Single, Nonmechanical	ICD10PCS	Procedure	ICD10PCS	Valid	Standard"
+"2788036	5A1935Z	Respiratory Ventilation, Less than 24 Consecutive Hours	ICD10PCS	Procedure	ICD10PCS	Valid	Standard"
+"2788037	5A1945Z	Respiratory Ventilation, 24-96 Consecutive Hours	ICD10PCS	Procedure	ICD10PCS	Valid	Standard"
+"2788038	5A1955Z	Respiratory Ventilation, Greater than 96 Consecutive Hours	ICD10PCS	Procedure	ICD10PCS	Valid	Standard"
+"2791402	F025GGZ	Ventilation, Respiration and Circulation Assessment of Circulatory System - Upper Back / Upper Extremity using Aerobic Endurance and Conditioning Equipment	ICD10PCS	Procedure	ICD10PCS	Valid	Standard"
+"2791403	F025GYZ	Ventilation, Respiration and Circulation Assessment of Circulatory System - Upper Back / Upper Extremity using Other Equipment	ICD10PCS	Procedure	ICD10PCS	Valid	Standard"
+"2791404	F025GZZ	Ventilation, Respiration and Circulation Assessment of Circulatory System - Upper Back / Upper Extremity	ICD10PCS	Procedure	ICD10PCS	Valid	Standard"
+"2791405	F026GCZ	Ventilation, Respiration and Circulation Assessment of Circulatory System - Lower Back / Lower Extremity using Mechanical Equipment	ICD10PCS	Procedure	ICD10PCS	Valid	Standard"
+"2791406	F026GGZ	Ventilation, Respiration and Circulation Assessment of Circulatory System - Lower Back / Lower Extremity using Aerobic Endurance and Conditioning Equipment	ICD10PCS	Procedure	ICD10PCS	Valid	Standard"
+"2791407	F026GYZ	Ventilation, Respiration and Circulation Assessment of Circulatory System - Lower Back / Lower Extremity using Other Equipment	ICD10PCS	Procedure	ICD10PCS	Valid	Standard"
+"2791408	F026GZZ	Ventilation, Respiration and Circulation Assessment of Circulatory System - Lower Back / Lower Extremity	ICD10PCS	Procedure	ICD10PCS	Valid	Standard"
+"2791414	F027GCZ	Ventilation, Respiration and Circulation Assessment of Circulatory System - Whole Body using Mechanical Equipment	ICD10PCS	Procedure	ICD10PCS	Valid	Standard"
+"2791415	F027GGZ	Ventilation, Respiration and Circulation Assessment of Circulatory System - Whole Body using Aerobic Endurance and Conditioning Equipment	ICD10PCS	Procedure	ICD10PCS	Valid	Standard"
+"2791416	F027GYZ	Ventilation, Respiration and Circulation Assessment of Circulatory System - Whole Body using Other Equipment	ICD10PCS	Procedure	ICD10PCS	Valid	Standard"
+"2791417	F027GZZ	Ventilation, Respiration and Circulation Assessment of Circulatory System - Whole Body	ICD10PCS	Procedure	ICD10PCS	Valid	Standard"
+"2791418	F028GCZ	Ventilation, Respiration and Circulation Assessment of Respiratory System - Head and Neck using Mechanical Equipment	ICD10PCS	Procedure	ICD10PCS	Valid	Standard"
+"2791419	F028GGZ	Ventilation, Respiration and Circulation Assessment of Respiratory System - Head and Neck using Aerobic Endurance and Conditioning Equipment	ICD10PCS	Procedure	ICD10PCS	Valid	Standard"
+"2791420	F028GYZ	Ventilation, Respiration and Circulation Assessment of Respiratory System - Head and Neck using Other Equipment	ICD10PCS	Procedure	ICD10PCS	Valid	Standard"
+"2791421	F028GZZ	Ventilation, Respiration and Circulation Assessment of Respiratory System - Head and Neck	ICD10PCS	Procedure	ICD10PCS	Valid	Standard"
+"2791422	F029GCZ	Ventilation, Respiration and Circulation Assessment of Respiratory System - Upper Back / Upper Extremity using Mechanical Equipment	ICD10PCS	Procedure	ICD10PCS	Valid	Standard"
+"2791423	F029GGZ	Ventilation, Respiration and Circulation Assessment of Respiratory System - Upper Back / Upper Extremity using Aerobic Endurance and Conditioning Equipment	ICD10PCS	Procedure	ICD10PCS	Valid	Standard"
+"2791424	F029GYZ	Ventilation, Respiration and Circulation Assessment of Respiratory System - Upper Back / Upper Extremity using Other Equipment	ICD10PCS	Procedure	ICD10PCS	Valid	Standard"
+"2791425	F029GZZ	Ventilation, Respiration and Circulation Assessment of Respiratory System - Upper Back / Upper Extremity	ICD10PCS	Procedure	ICD10PCS	Valid	Standard"
+"2791426	F02BGCZ	Ventilation, Respiration and Circulation Assessment of Respiratory System - Lower Back / Lower Extremity using Mechanical Equipment	ICD10PCS	Procedure	ICD10PCS	Valid	Standard"
+"2791427	F02BGGZ	Ventilation, Respiration and Circulation Assessment of Respiratory System - Lower Back / Lower Extremity using Aerobic Endurance and Conditioning Equipment	ICD10PCS	Procedure	ICD10PCS	Valid	Standard"
+"2791428	F02BGYZ	Ventilation, Respiration and Circulation Assessment of Respiratory System - Lower Back / Lower Extremity using Other Equipment	ICD10PCS	Procedure	ICD10PCS	Valid	Standard"
+"2791429	F02BGZZ	Ventilation, Respiration and Circulation Assessment of Respiratory System - Lower Back / Lower Extremity	ICD10PCS	Procedure	ICD10PCS	Valid	Standard"
+"2791435	F02CGCZ	Ventilation, Respiration and Circulation Assessment of Respiratory System - Whole Body using Mechanical Equipment	ICD10PCS	Procedure	ICD10PCS	Valid	Standard"
+"2791436	F02CGGZ	Ventilation, Respiration and Circulation Assessment of Respiratory System - Whole Body using Aerobic Endurance and Conditioning Equipment	ICD10PCS	Procedure	ICD10PCS	Valid	Standard"
+"2791437	F02CGYZ	Ventilation, Respiration and Circulation Assessment of Respiratory System - Whole Body using Other Equipment	ICD10PCS	Procedure	ICD10PCS	Valid	Standard"
+"2791438	F02CGZZ	Ventilation, Respiration and Circulation Assessment of Respiratory System - Whole Body	ICD10PCS	Procedure	ICD10PCS	Valid	Standard"
+"2791983	F024GCZ	Ventilation, Respiration and Circulation Assessment of Circulatory System - Head and Neck using Mechanical Equipment	ICD10PCS	Procedure	ICD10PCS	Valid	Standard"
+"2791984	F024GGZ	Ventilation, Respiration and Circulation Assessment of Circulatory System - Head and Neck using Aerobic Endurance and Conditioning Equipment	ICD10PCS	Procedure	ICD10PCS	Valid	Standard"
+"2791985	F024GYZ	Ventilation, Respiration and Circulation Assessment of Circulatory System - Head and Neck using Other Equipment	ICD10PCS	Procedure	ICD10PCS	Valid	Standard"
+"2791986	F024GZZ	Ventilation, Respiration and Circulation Assessment of Circulatory System - Head and Neck	ICD10PCS	Procedure	ICD10PCS	Valid	Standard"
+"2791987	F025GCZ	Ventilation, Respiration and Circulation Assessment of Circulatory System - Upper Back / Upper Extremity using Mechanical Equipment	ICD10PCS	Procedure	ICD10PCS	Valid	Standard"
+2800859	5A1945	Extracorporeal or Systemic Assistance and Performance @ Physiological Systems @ Performance @ Respiratory @ 24-96 Consecutive Hours @ Ventilation	ICD10PCS Hierarchy	Procedure	ICD10PCS	Valid	Standard
+"2801027	F025G	Physical Rehabilitation and Diagnostic Audiology @ Rehabilitation @ Activities of Daily Living Assessment @ Circulatory System - Upper Back / Upper Extremity @ Ventilation, Respiration and Circulation	ICD10PCS Hierarchy	Procedure	ICD10PCS	Valid	Standard"
+"2801028	F025GZ	Physical Rehabilitation and Diagnostic Audiology @ Rehabilitation @ Activities of Daily Living Assessment @ Circulatory System - Upper Back / Upper Extremity @ Ventilation, Respiration and Circulation @ None	ICD10PCS Hierarchy	Procedure	ICD10PCS	Valid	Standard"
+"2801029	F027GZ	Physical Rehabilitation and Diagnostic Audiology @ Rehabilitation @ Activities of Daily Living Assessment @ Circulatory System - Whole Body @ Ventilation, Respiration and Circulation @ None	ICD10PCS Hierarchy	Procedure	ICD10PCS	Valid	Standard"
+"2801030	F028GG	Physical Rehabilitation and Diagnostic Audiology @ Rehabilitation @ Activities of Daily Living Assessment @ Respiratory System - Head and Neck @ Ventilation, Respiration and Circulation @ Aerobic Endurance and Conditioning	ICD10PCS Hierarchy	Procedure	ICD10PCS	Valid	Standard"
+"2801031	F029GG	Physical Rehabilitation and Diagnostic Audiology @ Rehabilitation @ Activities of Daily Living Assessment @ Respiratory System - Upper Back / Upper Extremity @ Ventilation, Respiration and Circulation @ Aerobic Endurance and Conditioning	ICD10PCS Hierarchy	Procedure	ICD10PCS	Valid	Standard"
+2805870	5A0935	Extracorporeal or Systemic Assistance and Performance @ Physiological Systems @ Assistance @ Respiratory @ Less than 24 Consecutive Hours @ Ventilation	ICD10PCS Hierarchy	Procedure	ICD10PCS	Valid	Standard
+2813710	5A0955	Extracorporeal or Systemic Assistance and Performance @ Physiological Systems @ Assistance @ Respiratory @ Greater than 96 Consecutive Hours @ Ventilation	ICD10PCS Hierarchy	Procedure	ICD10PCS	Valid	Standard
+"2813754	F027G	Physical Rehabilitation and Diagnostic Audiology @ Rehabilitation @ Activities of Daily Living Assessment @ Circulatory System - Whole Body @ Ventilation, Respiration and Circulation	ICD10PCS Hierarchy	Procedure	ICD10PCS	Valid	Standard"
+"2813755	F029GC	Physical Rehabilitation and Diagnostic Audiology @ Rehabilitation @ Activities of Daily Living Assessment @ Respiratory System - Upper Back / Upper Extremity @ Ventilation, Respiration and Circulation @ Mechanical	ICD10PCS Hierarchy	Procedure	ICD10PCS	Valid	Standard"
+"2821125	F025GY	Physical Rehabilitation and Diagnostic Audiology @ Rehabilitation @ Activities of Daily Living Assessment @ Circulatory System - Upper Back / Upper Extremity @ Ventilation, Respiration and Circulation @ Other Equipment	ICD10PCS Hierarchy	Procedure	ICD10PCS	Valid	Standard"
+"2821126	F028GZ	Physical Rehabilitation and Diagnostic Audiology @ Rehabilitation @ Activities of Daily Living Assessment @ Respiratory System - Head and Neck @ Ventilation, Respiration and Circulation @ None	ICD10PCS Hierarchy	Procedure	ICD10PCS	Valid	Standard"
+"2826361	F024GZ	Physical Rehabilitation and Diagnostic Audiology @ Rehabilitation @ Activities of Daily Living Assessment @ Circulatory System - Head and Neck @ Ventilation, Respiration and Circulation @ None	ICD10PCS Hierarchy	Procedure	ICD10PCS	Valid	Standard"
+2834015	5A1955	Extracorporeal or Systemic Assistance and Performance @ Physiological Systems @ Performance @ Respiratory @ Greater than 96 Consecutive Hours @ Ventilation	ICD10PCS Hierarchy	Procedure	ICD10PCS	Valid	Standard
+"2834344	F025GG	Physical Rehabilitation and Diagnostic Audiology @ Rehabilitation @ Activities of Daily Living Assessment @ Circulatory System - Upper Back / Upper Extremity @ Ventilation, Respiration and Circulation @ Aerobic Endurance and Conditioning	ICD10PCS Hierarchy	Procedure	ICD10PCS	Valid	Standard"
+"2834345	F027GY	Physical Rehabilitation and Diagnostic Audiology @ Rehabilitation @ Activities of Daily Living Assessment @ Circulatory System - Whole Body @ Ventilation, Respiration and Circulation @ Other Equipment	ICD10PCS Hierarchy	Procedure	ICD10PCS	Valid	Standard"
+"2834346	F028GC	Physical Rehabilitation and Diagnostic Audiology @ Rehabilitation @ Activities of Daily Living Assessment @ Respiratory System - Head and Neck @ Ventilation, Respiration and Circulation @ Mechanical	ICD10PCS Hierarchy	Procedure	ICD10PCS	Valid	Standard"
+"2841542	F024G	Physical Rehabilitation and Diagnostic Audiology @ Rehabilitation @ Activities of Daily Living Assessment @ Circulatory System - Head and Neck @ Ventilation, Respiration and Circulation	ICD10PCS Hierarchy	Procedure	ICD10PCS	Valid	Standard"
+"2841543	F027GC	Physical Rehabilitation and Diagnostic Audiology @ Rehabilitation @ Activities of Daily Living Assessment @ Circulatory System - Whole Body @ Ventilation, Respiration and Circulation @ Mechanical	ICD10PCS Hierarchy	Procedure	ICD10PCS	Valid	Standard"
+"2841545	F02CG	Physical Rehabilitation and Diagnostic Audiology @ Rehabilitation @ Activities of Daily Living Assessment @ Respiratory System - Whole Body @ Ventilation, Respiration and Circulation	ICD10PCS Hierarchy	Procedure	ICD10PCS	Valid	Standard"
+"2848956	F024GC	Physical Rehabilitation and Diagnostic Audiology @ Rehabilitation @ Activities of Daily Living Assessment @ Circulatory System - Head and Neck @ Ventilation, Respiration and Circulation @ Mechanical	ICD10PCS Hierarchy	Procedure	ICD10PCS	Valid	Standard"
+"2848957	F026GC	Physical Rehabilitation and Diagnostic Audiology @ Rehabilitation @ Activities of Daily Living Assessment @ Circulatory System - Lower Back / Lower Extremity @ Ventilation, Respiration and Circulation @ Mechanical	ICD10PCS Hierarchy	Procedure	ICD10PCS	Valid	Standard"
+"2848958	F026GZ	Physical Rehabilitation and Diagnostic Audiology @ Rehabilitation @ Activities of Daily Living Assessment @ Circulatory System - Lower Back / Lower Extremity @ Ventilation, Respiration and Circulation @ None	ICD10PCS Hierarchy	Procedure	ICD10PCS	Valid	Standard"
+"2849085	F028GY	Physical Rehabilitation and Diagnostic Audiology @ Rehabilitation @ Activities of Daily Living Assessment @ Respiratory System - Head and Neck @ Ventilation, Respiration and Circulation @ Other Equipment	ICD10PCS Hierarchy	Procedure	ICD10PCS	Valid	Standard"
+"2849086	F02BG	Physical Rehabilitation and Diagnostic Audiology @ Rehabilitation @ Activities of Daily Living Assessment @ Respiratory System - Lower Back / Lower Extremity @ Ventilation, Respiration and Circulation	ICD10PCS Hierarchy	Procedure	ICD10PCS	Valid	Standard"
+"2849087	F02BGC	Physical Rehabilitation and Diagnostic Audiology @ Rehabilitation @ Activities of Daily Living Assessment @ Respiratory System - Lower Back / Lower Extremity @ Ventilation, Respiration and Circulation @ Mechanical	ICD10PCS Hierarchy	Procedure	ICD10PCS	Valid	Standard"
+"2853967	F024GY	Physical Rehabilitation and Diagnostic Audiology @ Rehabilitation @ Activities of Daily Living Assessment @ Circulatory System - Head and Neck @ Ventilation, Respiration and Circulation @ Other Equipment	ICD10PCS Hierarchy	Procedure	ICD10PCS	Valid	Standard"
+"2853968	F026G	Physical Rehabilitation and Diagnostic Audiology @ Rehabilitation @ Activities of Daily Living Assessment @ Circulatory System - Lower Back / Lower Extremity @ Ventilation, Respiration and Circulation	ICD10PCS Hierarchy	Procedure	ICD10PCS	Valid	Standard"
+"2853969	F029G	Physical Rehabilitation and Diagnostic Audiology @ Rehabilitation @ Activities of Daily Living Assessment @ Respiratory System - Upper Back / Upper Extremity @ Ventilation, Respiration and Circulation	ICD10PCS Hierarchy	Procedure	ICD10PCS	Valid	Standard"
+"2853970	F02CGY	Physical Rehabilitation and Diagnostic Audiology @ Rehabilitation @ Activities of Daily Living Assessment @ Respiratory System - Whole Body @ Ventilation, Respiration and Circulation @ Other Equipment	ICD10PCS Hierarchy	Procedure	ICD10PCS	Valid	Standard"
+"2862617	F024GG	Physical Rehabilitation and Diagnostic Audiology @ Rehabilitation @ Activities of Daily Living Assessment @ Circulatory System - Head and Neck @ Ventilation, Respiration and Circulation @ Aerobic Endurance and Conditioning	ICD10PCS Hierarchy	Procedure	ICD10PCS	Valid	Standard"
+"2862618	F025GC	Physical Rehabilitation and Diagnostic Audiology @ Rehabilitation @ Activities of Daily Living Assessment @ Circulatory System - Upper Back / Upper Extremity @ Ventilation, Respiration and Circulation @ Mechanical	ICD10PCS Hierarchy	Procedure	ICD10PCS	Valid	Standard"
+"2862620	F02BGY	Physical Rehabilitation and Diagnostic Audiology @ Rehabilitation @ Activities of Daily Living Assessment @ Respiratory System - Lower Back / Lower Extremity @ Ventilation, Respiration and Circulation @ Other Equipment	ICD10PCS Hierarchy	Procedure	ICD10PCS	Valid	Standard"
+"2867674	F02CGC	Physical Rehabilitation and Diagnostic Audiology @ Rehabilitation @ Activities of Daily Living Assessment @ Respiratory System - Whole Body @ Ventilation, Respiration and Circulation @ Mechanical	ICD10PCS Hierarchy	Procedure	ICD10PCS	Valid	Standard"
+2867784	5A0945	Extracorporeal or Systemic Assistance and Performance @ Physiological Systems @ Assistance @ Respiratory @ 24-96 Consecutive Hours @ Ventilation	ICD10PCS Hierarchy	Procedure	ICD10PCS	Valid	Standard
+"2875518	F02BGZ	Physical Rehabilitation and Diagnostic Audiology @ Rehabilitation @ Activities of Daily Living Assessment @ Respiratory System - Lower Back / Lower Extremity @ Ventilation, Respiration and Circulation @ None	ICD10PCS Hierarchy	Procedure	ICD10PCS	Valid	Standard"
+"2875519	F02CGG	Physical Rehabilitation and Diagnostic Audiology @ Rehabilitation @ Activities of Daily Living Assessment @ Respiratory System - Whole Body @ Ventilation, Respiration and Circulation @ Aerobic Endurance and Conditioning	ICD10PCS Hierarchy	Procedure	ICD10PCS	Valid	Standard"
+"2881068	F026GY	Physical Rehabilitation and Diagnostic Audiology @ Rehabilitation @ Activities of Daily Living Assessment @ Circulatory System - Lower Back / Lower Extremity @ Ventilation, Respiration and Circulation @ Other Equipment	ICD10PCS Hierarchy	Procedure	ICD10PCS	Valid	Standard"
+"2881070	F028G	Physical Rehabilitation and Diagnostic Audiology @ Rehabilitation @ Activities of Daily Living Assessment @ Respiratory System - Head and Neck @ Ventilation, Respiration and Circulation	ICD10PCS Hierarchy	Procedure	ICD10PCS	Valid	Standard"
+2886050	5A1905	Extracorporeal or Systemic Assistance and Performance @ Physiological Systems @ Performance @ Respiratory @ Single @ Ventilation	ICD10PCS Hierarchy	Procedure	ICD10PCS	Valid	Standard
+"2888916	F027GG	Physical Rehabilitation and Diagnostic Audiology @ Rehabilitation @ Activities of Daily Living Assessment @ Circulatory System - Whole Body @ Ventilation, Respiration and Circulation @ Aerobic Endurance and Conditioning	ICD10PCS Hierarchy	Procedure	ICD10PCS	Valid	Standard"
+2893766	5A1935	Extracorporeal or Systemic Assistance and Performance @ Physiological Systems @ Performance @ Respiratory @ Less than 24 Consecutive Hours @ Ventilation	ICD10PCS Hierarchy	Procedure	ICD10PCS	Valid	Standard
+"2893941	F029GY	Physical Rehabilitation and Diagnostic Audiology @ Rehabilitation @ Activities of Daily Living Assessment @ Respiratory System - Upper Back / Upper Extremity @ Ventilation, Respiration and Circulation @ Other Equipment	ICD10PCS Hierarchy	Procedure	ICD10PCS	Valid	Standard"
+"2893942	F029GZ	Physical Rehabilitation and Diagnostic Audiology @ Rehabilitation @ Activities of Daily Living Assessment @ Respiratory System - Upper Back / Upper Extremity @ Ventilation, Respiration and Circulation @ None	ICD10PCS Hierarchy	Procedure	ICD10PCS	Valid	Standard"
+"2893943	F02BGG	Physical Rehabilitation and Diagnostic Audiology @ Rehabilitation @ Activities of Daily Living Assessment @ Respiratory System - Lower Back / Lower Extremity @ Ventilation, Respiration and Circulation @ Aerobic Endurance and Conditioning	ICD10PCS Hierarchy	Procedure	ICD10PCS	Valid	Standard"
+"2900445	F026GG	Physical Rehabilitation and Diagnostic Audiology @ Rehabilitation @ Activities of Daily Living Assessment @ Circulatory System - Lower Back / Lower Extremity @ Ventilation, Respiration and Circulation @ Aerobic Endurance and Conditioning	ICD10PCS Hierarchy	Procedure	ICD10PCS	Valid	Standard"
+"2900448	F02CGZ	Physical Rehabilitation and Diagnostic Audiology @ Rehabilitation @ Activities of Daily Living Assessment @ Respiratory System - Whole Body @ Ventilation, Respiration and Circulation @ None	ICD10PCS Hierarchy	Procedure	ICD10PCS	Valid	Standard"
+2007680	93.90	Non-invasive mechanical ventilation	4-dig billing code	Procedure	ICD9Proc	Valid	Non-standard
+2008006	96.7	Other continuous invasive mechanical ventilation	3-dig nonbill code	Procedure	ICD9Proc	Valid	Standard
+2008007	96.70	Continuous invasive mechanical ventilation of unspecified duration	4-dig billing code	Procedure	ICD9Proc	Valid	Standard
+2008008	96.71	Continuous invasive mechanical ventilation for less than 96 consecutive hours	4-dig billing code	Procedure	ICD9Proc	Valid	Standard
+2008009	96.72	Continuous invasive mechanical ventilation for 96 consecutive hours or more	4-dig billing code	Procedure	ICD9Proc	Valid	Standard
+36907516	93.9000	Non-invasive mechanical ventilation	6-dig billing code	Procedure	ICD9ProcCN	Valid	Non-standard
+36907713	20.8x01	Eustachian tube ventilation technique (machine translation)	6-dig billing code	Procedure	ICD9ProcCN	Valid	Non-standard
+36908221	96.7100	Continuous invasive mechanical ventilation for less than 96 consecutive hours	6-dig billing code	Procedure	ICD9ProcCN	Valid	Non-standard
+36909703	93.90	Non-invasive mechanical ventilation	4-dig nonbill code	Procedure	ICD9ProcCN	Valid	Non-standard
+36911998	96.71	Continuous invasive mechanical ventilation for less than 96 consecutive hours	4-dig nonbill code	Procedure	ICD9ProcCN	Valid	Non-standard
+36912523	96.70	Continuous invasive mechanical ventilation of unspecified duration	4-dig nonbill code	Procedure	ICD9ProcCN	Valid	Non-standard
+36912543	96.7000	Continuous invasive mechanical ventilation of unspecified duration	6-dig billing code	Procedure	ICD9ProcCN	Valid	Non-standard
+36913171	96.72	Continuous invasive mechanical ventilation for 96 consecutive hours or more	4-dig nonbill code	Procedure	ICD9ProcCN	Valid	Non-standard
+36914514	96.7200	Continuous invasive mechanical ventilation for 96 consecutive hours or more	6-dig billing code	Procedure	ICD9ProcCN	Valid	Non-standard
+36915726	96.7	Other continuous invasive mechanical ventilation	3-dig nonbill code	Procedure	ICD9ProcCN	Valid	Non-standard
+45611147	D045422	Continuous Positive Airway Pressure	Main Heading	Procedure	MeSH	Invalid	Non-standard
+45614279	D006611	High-Frequency Jet Ventilation	Main Heading	Procedure	MeSH	Valid	Non-standard
+45615531	D007385	Intermittent Positive-Pressure Ventilation	Main Heading	Procedure	MeSH	Valid	Non-standard
+45616651	D006612	High-Frequency Positive Pressure Ventilation	Procedure	Procedure	MeSH	Invalid	Non-standard
+45617186	D021061	Liquid Ventilation	Main Heading	Procedure	MeSH	Valid	Non-standard
+"45618122	D012121	Respiration, Artificial	Main Heading	Procedure	MeSH	Valid	Non-standard"
+45619676	D063087	Noninvasive Ventilation	Main Heading	Procedure	MeSH	Valid	Non-standard
+3524568	226101000000101	Non-invasive ventilation	Procedure	Procedure	SNOMED	Invalid	Non-standard
+3524664	233361000000107	Bag valve mask ventilation	Procedure	Procedure	SNOMED	Invalid	Non-standard
+3525059	255671000000108	Invasive ventilation	Procedure	Procedure	SNOMED	Invalid	Non-standard
+3525060	255681000000105	Non-invasive ventilation	Procedure	Procedure	SNOMED	Invalid	Non-standard
+3525061	255691000000107	Improving efficiency of ventilation	Procedure	Procedure	SNOMED	Invalid	Non-standard
+3525062	255701000000107	Bag valve mask ventilation	Procedure	Procedure	SNOMED	Invalid	Non-standard
+3525063	255711000000109	Nebuliser ventilation	Procedure	Procedure	SNOMED	Invalid	Non-standard
+3525064	255731000000101	Ventilation support NOS	Procedure	Procedure	SNOMED	Invalid	Non-standard
+3525944	271141000000105	Radionuclide lung ventilation study	Procedure	Procedure	SNOMED	Invalid	Non-standard
+3526630	292051000000106	Ventilation perfusion quotient scan	Procedure	Procedure	SNOMED	Invalid	Non-standard
+3529915	507901000000100	Single photon emission computed tomography of ventilation and perfusion of lung	Procedure	Procedure	SNOMED	Invalid	Non-standard
+3529916	507911000000103	Single photon emission computed tomography with computed tomography of ventilation of lung	Procedure	Procedure	SNOMED	Invalid	Non-standard
+3564069	281571000000101	Lung ventilation scanning NEC	Procedure	Procedure	SNOMED	Invalid	Non-standard
+3564358	226501000000108	Ventilation support NOS	Procedure	Procedure	SNOMED	Invalid	Non-standard
+3570834	378101000000105	Single photon emission computed tomography of ventilation of lung	Procedure	Procedure	SNOMED	Invalid	Non-standard
+3570961	226491000000102	Other specified ventilation support	Procedure	Procedure	SNOMED	Invalid	Non-standard
+3572492	255661000000101	Ventilatory assistance	Procedure	Procedure	SNOMED	Invalid	Non-standard
+3655901	870391004	Assisted ventilation in prone position	Procedure	Procedure	SNOMED	Valid	Standard
+3655902	870392006	Weaning from noninvasive ventilation	Procedure	Procedure	SNOMED	Valid	Standard
+"4006318	11140008	Respiratory assist, manual	Procedure	Procedure	SNOMED	Valid	Standard"
+4055261	243141005	Mechanically assisted spontaneous ventilation	Procedure	Procedure	SNOMED	Valid	Standard
+4055375	243150007	Assisted controlled mandatory ventilation	Procedure	Procedure	SNOMED	Valid	Standard
+4055376	243153009	High frequency positive pressure ventilation	Procedure	Procedure	SNOMED	Valid	Standard
+4055377	243154003	High frequency jet ventilation	Procedure	Procedure	SNOMED	Valid	Standard
+4055378	243157005	Liquid ventilation	Procedure	Procedure	SNOMED	Valid	Standard
+4057263	182687005	Intermittent positive pressure ventilation	Procedure	Procedure	SNOMED	Valid	Standard
+4066062	172676009	Myringotomy and insertion of short-term tympanic ventilation tube	Procedure	Procedure	SNOMED	Valid	Standard
+4069368	172711001	Unblocking of ventilation tube through tympanic membrane	Procedure	Procedure	SNOMED	Valid	Standard
+4072503	243148004	Controlled mandatory ventilation	Procedure	Procedure	SNOMED	Valid	Standard
+4072504	243149007	Controlled mandatory ventilation with sigh	Procedure	Procedure	SNOMED	Valid	Standard
+4072505	243151006	Mandatory minute volume ventilation	Procedure	Procedure	SNOMED	Valid	Standard
+4072506	243159008	Intermittent negative pressure ventilation	Procedure	Procedure	SNOMED	Valid	Standard
+4072515	243143008	Airway pressure release ventilation	Procedure	Procedure	SNOMED	Valid	Standard
+4072516	243152004	Extended mandatory minute volume ventilation	Procedure	Procedure	SNOMED	Valid	Standard
+4072517	243156001	Continuous flow ventilation	Procedure	Procedure	SNOMED	Valid	Standard
+4072633	243174005	Weaning from mechanically assisted ventilation	Procedure	Procedure	SNOMED	Valid	Standard
+4074665	243147009	Controlled ventilation	Procedure	Procedure	SNOMED	Valid	Standard
+4074666	243155002	High frequency oscillatory ventilation	Procedure	Procedure	SNOMED	Valid	Standard
+4074667	243158000	Fluorocarbon ventilation	Procedure	Procedure	SNOMED	Valid	Standard
+4080896	276737004	Domiciliary ventilation	Procedure	Procedure	SNOMED	Valid	Standard
+4085542	281508008	Cuirasse ventilation	Procedure	Procedure	SNOMED	Valid	Standard
+"4097246	26763009	Controlled ventilation procedure and therapy, initiation and management	Procedure	Procedure	SNOMED	Valid	Standard"
+4107670	284532000	Myringotomy and insertion of tympanic ventilation tube	Procedure	Procedure	SNOMED	Valid	Standard
+4113618	286813003	Pressure controlled SIMV	Procedure	Procedure	SNOMED	Valid	Standard
+4120570	286812008	Pressure controlled ventilation	Procedure	Procedure	SNOMED	Valid	Standard
+4134853	397998001	Weaning from mechanically assisted ventilation continued	Procedure	Procedure	SNOMED	Valid	Standard
+4139016	265314004	Maintenance of ventilation tube through tympanic membrane	Procedure	Procedure	SNOMED	Valid	Standard
+4139542	425447009	Bag valve mask ventilation	Procedure	Procedure	SNOMED	Valid	Standard
+4145646	266690007	Closed cardiac massage with ventilation	Procedure	Procedure	SNOMED	Valid	Standard
+4145647	266700009	Assisted breathing	Procedure	Procedure	SNOMED	Valid	Standard
+"4164571	45851008	Positive end expiratory pressure ventilation therapy, initiation and management	Procedure	Procedure	SNOMED	Valid	Standard"
+4168475	4764004	Jet ventilation procedure	Procedure	Procedure	SNOMED	Valid	Standard
+4168528	275002001	Removal of grommet from tympanic membrane	Procedure	Procedure	SNOMED	Valid	Standard
+4168987	275001008	Myringotomy and insertion of long-term ventilation tube	Procedure	Procedure	SNOMED	Valid	Standard
+4174085	424172009	Dual pressure spontaneous ventilation support weaning protocol	Procedure	Procedure	SNOMED	Valid	Standard
+4174555	423574009	Continuous positive airway pressure ventilation weaning protocol	Procedure	Procedure	SNOMED	Valid	Standard
+4175357	276020003	VQ - Ventilation perfusion scan	Procedure	Procedure	SNOMED	Invalid	Non-standard
+4177224	428311008	Noninvasive ventilation	Procedure	Procedure	SNOMED	Valid	Standard
+4180279	429440003	Insertion of tympanic ventilation tube in tympanic membrane	Procedure	Procedure	SNOMED	Valid	Standard
+4202819	52729008	Treatment by iron lung	Procedure	Procedure	SNOMED	Valid	Standard
+4207918	311772003	Replacement of grommet in tympanic membrane	Procedure	Procedure	SNOMED	Valid	Standard
+"4208272	55089006	Inspiration mandatory ventilation therapy, initiation and management	Procedure	Procedure	SNOMED	Valid	Standard"
+4219515	72683003	Removal of catheter from middle ear	Procedure	Procedure	SNOMED	Invalid	Non-standard
+4219631	82433009	Continuous negative pressure ventilation treatment	Procedure	Procedure	SNOMED	Valid	Standard
+"4227286	87674005	Pulmonary ventilation study, total	Procedure	Procedure	SNOMED	Valid	Standard"
+"4229907	8948006	Assisted ventilation therapy, pressure or volume preset, initiation and management	Procedure	Procedure	SNOMED	Valid	Standard"
+4230167	40617009	Artificial respiration	Procedure	Procedure	SNOMED	Valid	Standard
+4236738	405609003	Volume controlled ventilation	Procedure	Procedure	SNOMED	Valid	Standard
+4237298	57113004	Pulmonary ventilation study	Procedure	Procedure	SNOMED	Valid	Standard
+4237460	408853006	Intermittent positive pressure ventilation via endotracheal tube	Procedure	Procedure	SNOMED	Valid	Standard
+4242700	37859006	Pulmonary ventilation perfusion study	Procedure	Procedure	SNOMED	Valid	Standard
+4245036	59427005	Synchronized intermittent mandatory ventilation	Procedure	Procedure	SNOMED	Valid	Standard
+"4253218	74219000	Pulmonary perfusion imaging, gaseous, with ventilation, rebreathing and washout	Procedure	Procedure	SNOMED	Valid	Standard"
+4254209	408852001	Intermittent positive pressure ventilation via bag and mask	Procedure	Procedure	SNOMED	Valid	Standard
+"4283075	66852000	Flow and timed ventilation procedure, initiation and management	Procedure	Procedure	SNOMED	Valid	Standard"
+4285807	37113006	Mouth-to-mouth resuscitation	Procedure	Procedure	SNOMED	Valid	Standard
+4287922	397899008	Weaning from mechanically assisted ventilation commenced	Procedure	Procedure	SNOMED	Valid	Standard
+"4294686	75766009	Pulmonary ventilation study, gaseous	Procedure	Procedure	SNOMED	Valid	Standard"
+4312631	424282004	Trial for daily interruption of sedation during mechanically assisted ventilation	Procedure	Procedure	SNOMED	Valid	Standard
+4332501	430191008	Management of noninvasive mechanical ventilation	Procedure	Procedure	SNOMED	Valid	Standard
+4335619	232195005	Repositioning of ventilation tube through tympanic membrane	Procedure	Procedure	SNOMED	Valid	Standard
+"4336092	86811003	Pulmonary ventilation study, aerosol	Procedure	Procedure	SNOMED	Valid	Standard"
+4336152	232192008	Attention to middle ear ventilation tube	Procedure	Procedure	SNOMED	Valid	Standard
+4339043	232164003	Removal of ventilation tube from external auditory canal	Procedure	Procedure	SNOMED	Valid	Standard
+4339464	232194009	Replacement of ventilation tube through tympanic membrane	Procedure	Procedure	SNOMED	Invalid	Non-standard
+4346517	241299007	Xenon-127 ventilation study	Procedure	Procedure	SNOMED	Valid	Standard
+4346640	241297009	Xenon ventilation study	Procedure	Procedure	SNOMED	Valid	Standard
+4346641	241302007	DTPA aerosol ventilation study	Procedure	Procedure	SNOMED	Valid	Standard
+4346854	241300004	Radionuclide particle ventilation study	Procedure	Procedure	SNOMED	Invalid	Non-standard
+4346855	241301000	Technegas ventilation study	Procedure	Procedure	SNOMED	Invalid	Non-standard
+4347666	243181003	Expired air ventilation with airway aid	Procedure	Procedure	SNOMED	Valid	Standard
+4347667	243182005	Mouth to mouth expired air ventilation with airway	Procedure	Procedure	SNOMED	Valid	Standard
+4347801	241296000	Krypton ventilation study	Procedure	Procedure	SNOMED	Invalid	Non-standard
+4347802	241298004	Xenon-133 ventilation study	Procedure	Procedure	SNOMED	Valid	Standard
+4347913	243184006	Ventilation with self-inflating bag	Procedure	Procedure	SNOMED	Valid	Standard
+4348300	243180002	Expired air ventilation	Procedure	Procedure	SNOMED	Valid	Standard
+4352509	243183000	Mouth to nose expired air ventilation	Procedure	Procedure	SNOMED	Valid	Standard
+35622705	764864002	Radionuclide imaging of lung ventilation using technetium (99m-Tc) technegas	Procedure	Procedure	SNOMED	Valid	Standard
+37116689	733496000	Insertion of endotracheal ventilation catheter	Procedure	Procedure	SNOMED	Valid	Standard
+40308569	146384007	VQ - Ventilation perfusion scan	Procedure	Procedure	SNOMED	Invalid	Non-standard
+40311988	148935001	Removal of ventilation tube from ear	Procedure	Procedure	SNOMED	Invalid	Non-standard
+40312040	150819003	Cardiopulmonary resuscitation (& closed cardiac massage & ventilation)	Procedure	Procedure	SNOMED	Invalid	Non-standard
+40312603	150946007	Mechanical ventilation (& intermittent positive pressure ventilation)	Procedure	Procedure	SNOMED	Invalid	Non-standard
+40312606	150949000	Intermittent positive pressure ventilation	Procedure	Procedure	SNOMED	Invalid	Non-standard
+40312611	150953003	Mouth to mouth expired air ventilation	Procedure	Procedure	SNOMED	Invalid	Non-standard
+40338318	172706003	Removal of ventilation tube: [from tympanic membrane] or [grommet from middle ear]	Procedure	Procedure	SNOMED	Invalid	Non-standard
+40338322	172710000	Maintenance tympanic membrane ventilation tube (& grommet)	Procedure	Procedure	SNOMED	Invalid	Non-standard
+40338326	172713003	Replacement of ventilation tube through tympanic membrane	Procedure	Procedure	SNOMED	Invalid	Non-standard
+40338992	169168006	VQ - Ventilation perfusion scan	Procedure	Procedure	SNOMED	Invalid	Non-standard
+40349098	265309003	Myringotomy and ventilation tube operation	Procedure	Procedure	SNOMED	Invalid	Non-standard
+40349599	265313005	Removal of ventilation tube from tympanic membrane	Procedure	Procedure	SNOMED	Invalid	Non-standard
+40377931	182610000	Cardiopulmonary resuscitation (& closed cardiac massage & ventilation)	Procedure	Procedure	SNOMED	Invalid	Non-standard
+40378385	182685002	Mechanical ventilation (& intermittent positive pressure ventilation)	Procedure	Procedure	SNOMED	Invalid	Non-standard
+40436790	232193003	Removal of ventilation tube from middle ear	Procedure	Procedure	SNOMED	Invalid	Non-standard
+40461915	25638009	Mechanical ventilation	Procedure	Procedure	SNOMED	Invalid	Non-standard
+40479303	442981009	Diagnostic mediastinoscopy and thoracoscopy with ventilation of lung	Procedure	Procedure	SNOMED	Valid	Standard
+40479996	441624004	Single photon emission computed tomography of ventilation of lung	Procedure	Procedure	SNOMED	Valid	Standard
+40480616	443266003	Single photon emission computed tomography of ventilation and perfusion of lung	Procedure	Procedure	SNOMED	Valid	Standard
+40481440	443386001	Single photon emission computed tomography with computed tomography of ventilation of lung	Procedure	Procedure	SNOMED	Valid	Standard
+40486624	447837008	Noninvasive positive pressure ventilation	Procedure	Procedure	SNOMED	Valid	Standard
+40489935	448442005	Transtracheal jet ventilation	Procedure	Procedure	SNOMED	Valid	Standard
+40502776	302803009	Ventilatory assistance	Procedure	Procedure	SNOMED	Invalid	Non-standard
+44790095	226471000000101	Invasive ventilation	Procedure	Procedure	SNOMED	Valid	Standard
+44790096	226481000000104	Improving efficiency of ventilation	Procedure	Procedure	SNOMED	Valid	Standard
+44790388	233351000000109	Nebuliser ventilation	Procedure	Procedure	SNOMED	Valid	Standard
+44791512	281581000000104	Ventilation perfusion quotient scan	Procedure	Procedure	SNOMED	Valid	Standard
+44798684	323251000000107	Radionuclide pulmonary ventilation and perfusion study	Procedure	Procedure	SNOMED	Valid	Standard
+46273920	710976005	Maintaining ventilation	Procedure	Procedure	SNOMED	Valid	Standard

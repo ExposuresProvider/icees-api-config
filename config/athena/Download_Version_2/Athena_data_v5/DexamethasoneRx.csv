@@ -1,0 +1,781 @@
+Id	Code	Name	Standard Class	Domain	Vocab	Validity	Concept
+749964	251647	carisoprodol 300 MG / dexamethasone 0.25 MG / tenoxicam 10 MG Oral Tablet	Clinical Drug	Drug	RxNorm	Valid	Standard
+792331	1943550	{49 (dexamethasone 1.5 MG Oral Tablet) } Pack	Clinical Pack	Drug	RxNorm	Valid	Standard
+793636	1943549	{21 (dexamethasone 1.5 MG Oral Tablet) } Pack [ZoDex 6 Day Taper]	Branded Pack	Drug	RxNorm	Valid	Standard
+793637	1943551	{49 (dexamethasone 1.5 MG Oral Tablet) } Pack [Zodex 12 Day Taper]	Branded Pack	Drug	RxNorm	Valid	Standard
+793639	1945071	{21 (dexamethasone 1.5 MG Oral Tablet [Decadron]) } Pack [Decadron DP 6 Day]	Branded Pack	Drug	RxNorm	Valid	Standard
+793640	1945072	{49 (dexamethasone 1.5 MG Oral Tablet [Decadron]) } Pack [Decadron DP 12 Day]	Branded Pack	Drug	RxNorm	Valid	Standard
+916178	244267	dexamethasone 1 MG/ML / neomycin 5 MG/ML Ophthalmic Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+916179	244268	dexamethasone 0.0005 MG/MG / neomycin 0.005 MG/MG Ophthalmic Ointment	Clinical Drug	Drug	RxNorm	Valid	Standard
+916180	244398	dexamethasone 1 MG/ML / neomycin 5 MG/ML Topical Cream	Clinical Drug	Drug	RxNorm	Valid	Standard
+916209	249426	dexamethasone 0.25 MG/ML / neomycin 5 MG/ML Otic Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+916272	262191	dexamethasone 1 MG/ML / neomycin 3.5 MG/ML Ophthalmic Solution [Neo-Dexair]	Branded Drug	Drug	RxNorm	Valid	Standard
+916468	351492	dexamethasone 0.001 MG/MG / neomycin 0.0035 MG/MG / polymyxin B 10 UNT/MG Ophthalmic Ointment [AK-Trol]	Branded Drug	Drug	RxNorm	Valid	Standard
+916469	351493	dexamethasone 0.001 MG/MG / neomycin 0.0035 MG/MG / polymyxin B 10 UNT/MG Ophthalmic Ointment [Ocu-Trol]	Branded Drug	Drug	RxNorm	Valid	Standard
+948693	313943	dexamethasone 1 MG/ML / neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML Ophthalmic Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+948694	313947	dexamethasone 0.001 MG/MG / neomycin 0.005 MG/MG / polymyxin B 10 UNT/MG Ophthalmic Ointment	Clinical Drug	Drug	RxNorm	Valid	Standard
+964311	1998481	{49 (dexamethasone 1.5 MG Oral Tablet) } Pack [TaperDex 12 Day Taper]	Branded Pack	Drug	RxNorm	Valid	Standard
+964312	1998482	{21 (dexamethasone 1.5 MG Oral Tablet) } Pack [TaperDex 6 Day Taper]	Branded Pack	Drug	RxNorm	Valid	Standard
+990094	246726	chloramphenicol 5 MG/ML / dexamethasone 1 MG/ML Ophthalmic Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+990187	251223	calcium dobesilate 0.04 MG/MG / dexamethasone 0.00025 MG/MG / lidocaine 0.02 MG/MG Topical Ointment	Clinical Drug	Drug	RxNorm	Valid	Standard
+1000641	246752	clotrimazole 10 MG/ML / dexamethasone 0.4 MG/ML Topical Cream	Clinical Drug	Drug	RxNorm	Valid	Standard
+1000654	249546	clotrimazole 10 MG/ML / dexamethasone 0.443 MG/ML Topical Cream	Clinical Drug	Drug	RxNorm	Valid	Standard
+1146347	2378841	dexamethasone acetate anhydrous	Precise Ingredient	Drug	RxNorm	Valid	Non-standard
+1150806	251598	astemizole 2 MG/ML / dexamethasone 0.3 MG/ML Oral Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+1150807	251978	astemizole 10 MG / dexamethasone 0.25 MG Oral Tablet	Clinical Drug	Drug	RxNorm	Valid	Standard
+1150862	249731	dexamethasone 0.5 MG / terfenadine 60 MG Oral Tablet	Clinical Drug	Drug	RxNorm	Valid	Standard
+1150865	252621	dexamethasone 1 MG / terfenadine 120 MG Extended Release Oral Tablet	Clinical Drug	Drug	RxNorm	Valid	Standard
+1178729	251976	dexamethasone 0.15 MG / indomethacin 20 MG Oral Tablet	Clinical Drug	Drug	RxNorm	Valid	Standard
+1193333	248913	Chlorpheniramine 2 MG / Dexamethasone 0.25 MG Oral Tablet	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+1193340	249439	Chlorpheniramine 2 MG / Dexamethasone 0.5 MG Oral Tablet	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+1193369	251199	Chlorpheniramine 4 MG / Dexamethasone 0.4 MG Extended Release Oral Capsule	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+1194734	755548	Chlorpheniramine 0.4 MG/ML / Dexamethasone 0.025 MG/ML Oral Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+1356080	2108015	dexamethasone 0.4 MG Drug Implant	Clinical Drug	Drug	RxNorm	Valid	Standard
+1356082	2108017	dexamethasone 0.4 MG [Dextenza]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+1356083	2108018	dexamethasone Drug Implant [Dextenza]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+1356085	2108020	dexamethasone 0.4 MG Drug Implant [Dextenza]	Branded Drug	Drug	RxNorm	Valid	Standard
+1356098	2108345	dexamethasone Metered Dose Inhaler	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+1356164	2108348	dexamethasone Metered Dose Inhaler [Dexacort Phosphate in Respihaler]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+1366731	2118829	{21 (dexamethasone 1.5 MG Oral Tablet) } Pack [HiDex 6-Day Taper]	Branded Pack	Drug	RxNorm	Valid	Standard
+1366732	2118835	{27 (dexamethasone 1.5 MG Oral Tablet) } Pack [TaperDex 7-Day Taper]	Branded Pack	Drug	RxNorm	Valid	Standard
+1510432	2045403	dexamethasone 103.4 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+1510434	2045406	dexamethasone 103.4 MG/ML [Dexycu]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+1510435	2045407	dexamethasone Injection [Dexycu]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+1510437	2045410	dexamethasone 103.4 MG/ML Injection	Clinical Drug	Drug	RxNorm	Valid	Standard
+1510438	2045411	dexamethasone 103.4 MG/ML Injection [Dexycu]	Branded Drug	Drug	RxNorm	Valid	Standard
+1510781	2045404	0.005 ML dexamethasone 103.4 MG/ML Injection	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+1510782	2045409	0.005 ML dexamethasone 103.4 MG/ML Injection [Dexycu]	Quant Branded Drug	Drug	RxNorm	Valid	Standard
+1511403	2121587	{39 (dexamethasone 1.5 MG Oral Tablet) } Pack	Clinical Pack	Drug	RxNorm	Valid	Standard
+1511404	2121735	{39 (dexamethasone 1.5 MG Oral Tablet) } Pack [Dxevo 11 Day Taper]	Branded Pack	Drug	RxNorm	Valid	Standard
+1518254	3264	dexamethasone	Ingredient	Drug	RxNorm	Valid	Standard
+1518257	197576	dexamethasone 0.25 MG Oral Tablet	Clinical Drug	Drug	RxNorm	Valid	Standard
+1518258	197577	dexamethasone 0.5 MG Oral Tablet	Clinical Drug	Drug	RxNorm	Valid	Standard
+1518259	197579	dexamethasone 1 MG Oral Tablet	Clinical Drug	Drug	RxNorm	Valid	Standard
+1518261	197581	dexamethasone 2 MG Oral Tablet	Clinical Drug	Drug	RxNorm	Valid	Standard
+1518292	197582	dexamethasone 4 MG Oral Tablet	Clinical Drug	Drug	RxNorm	Valid	Standard
+1518293	197583	dexamethasone 6 MG Oral Tablet	Clinical Drug	Drug	RxNorm	Valid	Standard
+1518294	197584	Dexamethasone 24 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+1518490	226343	dexamethasone phosphate 1 MG/ML Ophthalmic Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+1518491	242882	dexamethasone 0.2 MG/ML Oral Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+1518523	244295	dexamethasone 10 MG/ML Otic Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+1518524	244488	dexamethasone 0.1 MG/ML Topical Spray	Clinical Drug	Drug	RxNorm	Valid	Standard
+1518525	247293	dexamethasone 3.2 MG/ML Injectable Suspension	Clinical Drug	Drug	RxNorm	Valid	Standard
+1518526	247484	dexamethasone 0.001 MG/MG Ophthalmic Ointment	Clinical Drug	Drug	RxNorm	Valid	Standard
+1518527	248175	dexamethasone 0.02 MG/ACTUAT / tramazoline 0.12 MG/ACTUAT Nasal Spray	Clinical Drug	Drug	RxNorm	Valid	Standard
+1518603	315773	dexamethasone 0.1 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+1518604	315774	dexamethasone 0.25 MG	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+1518605	315775	dexamethasone 0.5 MG	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+1518606	315776	dexamethasone 1 MG	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+1518607	315777	dexamethasone 1.5 MG	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+1518608	315778	dexamethasone 4 MG	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+1518609	315779	dexamethasone 6 MG	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+1518610	317346	dexamethasone 2 MG	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+1518611	317629	dexamethasone 1 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+1518642	323884	dexamethasone 8 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+1518643	328266	dexamethasone 0.0005 MG/MG	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+1518644	328743	dexamethasone 0.4 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+1518645	328765	dexamethasone 0.1 MG/ACTUAT	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+1518646	329678	dexamethasone 20 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+1518647	329679	dexamethasone 0.084 MG/ACTUAT	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+1518651	331791	dexamethasone 5 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+1518682	332982	dexamethasone 3.2 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+1518683	332983	dexamethasone 0.3 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+1518684	332984	dexamethasone 0.4 MG	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+1518685	332985	Dexamethasone 0.025 MG/ML	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+1518686	333672	dexamethasone 0.05 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+1518687	333673	dexamethasone 0.2 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+1518689	335274	dexamethasone 0.25 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+1518690	335766	dexamethasone 0.02 MG/ACTUAT	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+1518691	339981	dexamethasone 0.001 MG/MG	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+1518714	343643	dexamethasone 16 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+1518715	345816	dexamethasone 0.75 MG	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+1518719	351311	Dexamethasone 4 MG/ML Injectable Solution [Decadron]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+1518720	351314	dexamethasone phosphate 1 MG/ML Ophthalmic Solution [Ocu-Dex]	Branded Drug	Drug	RxNorm	Valid	Standard
+1518721	351315	dexamethasone phosphate 0.0005 MG/MG Ophthalmic Ointment [Ocu-Dex]	Branded Drug	Drug	RxNorm	Valid	Standard
+1518742	358548	dexamethasone 0.443 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+1518745	435681	dexamethasone 2 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+1518746	438141	dexamethasone 0.00025 MG/MG	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+1518747	451789	dexamethasone 2 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+1518748	541463	Dexamethasone 8 MG/ML Injectable Suspension [Deca]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+1518749	541467	Dexamethasone 8 MG/ML Injectable Suspension [Metazone]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+1518751	541474	dexamethasone acetate 8 MG/ML Injectable Suspension [Robadex]	Branded Drug	Drug	RxNorm	Valid	Standard
+1518842	541478	Dexamethasone 8 MG/ML Injectable Suspension [Cortidex]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+1518843	541481	Dexamethasone 4 MG/ML Injectable Solution [Cortidex]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+1518844	541484	Dexamethasone 4 MG/ML Injectable Solution [Deca]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+1518845	541487	Dexamethasone 4 MG/ML Injectable Solution [Metazone]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+1518846	542546	Dexamethasone 1 MG/ML Ophthalmic Solution [Adrenocot]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+1518847	542549	Dexamethasone 1 MG/ML Ophthalmic Solution [Decadron phosphate]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+1518848	542553	Dexamethasone 1 MG/ML Ophthalmic Solution [Dexair]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+1518849	542939	Dexamethasone 2 MG/ML Injectable Solution [Dexium]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+1518850	688245	dexamethasone phosphate 0.0005 MG/MG Ophthalmic Ointment [Maxidex]	Branded Drug	Drug	RxNorm	Valid	Standard
+1518851	755976	dexamethasone 0.1 MG/ML Oral Solution [Decadron]	Branded Drug	Drug	RxNorm	Valid	Standard
+1518872	755977	dexamethasone 0.1 MG/ML Oral Solution [Hexadrol]	Branded Drug	Drug	RxNorm	Valid	Standard
+1592182	1869595	{27 (dexamethasone 1.5 MG Oral Tablet) } Pack	Clinical Pack	Drug	RxNorm	Valid	Standard
+1592183	1869605	{41 (dexamethasone 1.5 MG Oral Tablet) } Pack	Clinical Pack	Drug	RxNorm	Valid	Standard
+1719010	1812073	dexamethasone Injection	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+1719011	1812078	dexamethasone phosphate 10 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+1719012	1812079	1 ML dexamethasone phosphate 10 MG/ML Injection	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+1719013	1812080	dexamethasone phosphate 10 MG/ML Injection	Clinical Drug	Drug	RxNorm	Valid	Standard
+1719021	1812094	dexamethasone Prefilled Syringe	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+1719022	1812095	1 ML dexamethasone phosphate 4 MG/ML Prefilled Syringe	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+1719023	1812096	dexamethasone phosphate 4 MG/ML Prefilled Syringe	Clinical Drug	Drug	RxNorm	Valid	Standard
+1719045	1812192	dexamethasone phosphate 4 MG/ML Injection	Clinical Drug	Drug	RxNorm	Valid	Standard
+1719046	1812194	1 ML dexamethasone phosphate 4 MG/ML Injection	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+19002012	103163	Dexamethasone 4 MG/ML Injectable Solution [Oradexon]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+19006962	105392	dexamethasone 0.5 MG Oral Tablet [Decadron]	Branded Drug	Drug	RxNorm	Valid	Standard
+19006963	105394	dexamethasone 5 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+19010639	108882	dexamethasone 0.4 MG/ML Oral Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+19015780	569262	dexamethasone 1 MG/ML / neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML [Maxitrol]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19015801	569272	dexamethasone 0.001 MG/MG / neomycin 0.0035 MG/MG / polymyxin B 10 UNT/MG [Maxitrol]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19018906	197580	dexamethasone 1.5 MG Oral Tablet	Clinical Drug	Drug	RxNorm	Valid	Standard
+19018907	197585	dexamethasone 0.1 MG/ACTUAT Metered Dose Inhaler	Clinical Drug	Drug	RxNorm	Valid	Standard
+19019278	198021	dexamethasone 0.0005 MG/MG / neomycin 0.0035 MG/MG Ophthalmic Ointment	Clinical Drug	Drug	RxNorm	Valid	Standard
+19024531	201072	Dexamethasone 2 MG Oral Tablet [Oradexon]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+19024532	201073	Dexamethasone 5 MG/ML Injectable Solution [Oradexon]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+19027194	203976	Dexamethasone 0.5 MG Oral Tablet [Oradexon]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+19027626	204510	dexamethasone 0.4 MG/ML Topical Spray	Clinical Drug	Drug	RxNorm	Valid	Standard
+19027628	204512	dexamethasone 0.1 MG/ACTUAT Nasal Inhalant	Clinical Drug	Drug	RxNorm	Valid	Standard
+19029654	205593	Dexamethasone 8 MG/ML Injectable Suspension [Adrenocot L.A.]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+19029655	205594	Dexamethasone 8 MG/ML Injectable Suspension [Dalalone L.A.]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+19029656	205595	dexamethasone acetate 8 MG/ML Injectable Suspension [De-Sone LA]	Branded Drug	Drug	RxNorm	Valid	Standard
+19029657	205596	dexamethasone acetate 8 MG/ML Injectable Suspension [Decadron-LA]	Branded Drug	Drug	RxNorm	Valid	Standard
+19029658	205597	Dexamethasone 8 MG/ML Injectable Suspension [Decaject L.A.]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+19029659	205598	dexamethasone acetate 8 MG/ML Injectable Suspension [Dexacort-LA]	Branded Drug	Drug	RxNorm	Valid	Standard
+19029660	205599	Dexamethasone 8 MG/ML Injectable Suspension [Dexasone LA]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+19029681	205600	Dexamethasone 8 MG/ML Injectable Suspension [Dexone LA]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+19029682	205601	Dexamethasone 8 MG/ML Injectable Suspension [Medidex LA]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+19029683	205602	Dexamethasone 8 MG/ML Injectable Suspension [Solurex LA]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+19029688	205607	Dexamethasone 16 MG/ML Injectable Suspension [Dalalone D.P.]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+19029719	205620	Dexamethasone 10 MG/ML Injectable Solution [Hexadrol Phosphate]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+19029741	205622	Dexamethasone 24 MG/ML Injectable Solution [Decadron phosphate]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+19029746	205627	Dexamethasone 4 MG/ML Injectable Solution [Adrenocot]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+19029747	205628	Dexamethasone 4 MG/ML Injectable Solution [Dalalone]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+19029748	205629	Dexamethasone 4 MG/ML Injectable Solution [Decadron phosphate]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+19029749	205630	Dexamethasone 4 MG/ML Injectable Solution [Decaject]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+19029750	205631	Dexamethasone 4 MG/ML Injectable Solution [Dexacen-4]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+19029771	205632	Dexamethasone 4 MG/ML Injectable Solution [Dexacorten]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+19029772	205633	Dexamethasone 4 MG/ML Injectable Solution [Dexasone]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+19029773	205634	Dexamethasone 4 MG/ML Injectable Solution [Dexone]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+19029774	205635	Dexamethasone 4 MG/ML Injectable Solution [Hexadrol Phosphate]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+19029775	205636	Dexamethasone 4 MG/ML Injectable Solution [Medidex]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+19029776	205637	Dexamethasone 4 MG/ML Injectable Solution [Primethasone]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+19029777	205638	Dexamethasone 4 MG/ML Injectable Solution [Solurex LA]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+19029778	205639	Dexamethasone 4 MG/ML Injectable Solution [Solurex]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+19029876	205669	dexamethasone 1 MG/ML Ophthalmic Suspension [Maxidex]	Branded Drug	Drug	RxNorm	Valid	Standard
+19029878	205671	dexamethasone phosphate 1 MG/ML Ophthalmic Solution [AK-Dex]	Branded Drug	Drug	RxNorm	Valid	Standard
+19029879	205673	dexamethasone phosphate 1 MG/ML Ophthalmic Solution [Dexasol]	Branded Drug	Drug	RxNorm	Valid	Standard
+19029901	205675	dexamethasone phosphate 0.0005 MG/MG Ophthalmic Ointment [AK-Dex]	Branded Drug	Drug	RxNorm	Valid	Standard
+19029902	205676	Dexamethasone 0.0005 MG/MG Ophthalmic Ointment [Decadron phosphate]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+19029903	205677	dexamethasone phosphate 0.0005 MG/MG Ophthalmic Ointment [Dexasol]	Branded Drug	Drug	RxNorm	Valid	Standard
+19029909	205683	dexamethasone 0.25 MG Oral Tablet [Decadron]	Branded Drug	Drug	RxNorm	Valid	Standard
+19029910	205684	Dexamethasone 0.5 MG Oral Tablet [Dexone]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+19029946	205692	Dexamethasone 0.75 MG Oral Tablet [Dexone]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+19029973	205702	dexamethasone 1 MG/ML Oral Solution [Dexamethasone Intensol]	Branded Drug	Drug	RxNorm	Valid	Standard
+19030001	205710	dexamethasone 1.5 MG Oral Tablet [Decadron]	Branded Drug	Drug	RxNorm	Valid	Standard
+19030002	205711	Dexamethasone 1.5 MG Oral Tablet [Dexone]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+19030003	205712	dexamethasone 4 MG Oral Tablet [Decadron]	Branded Drug	Drug	RxNorm	Valid	Standard
+19030004	205713	Dexamethasone 4 MG Oral Tablet [Dexone]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+19030005	205714	dexamethasone 4 MG Oral Tablet [Hexadrol]	Branded Drug	Drug	RxNorm	Valid	Standard
+19030008	205717	dexamethasone 6 MG Oral Tablet [Decadron]	Branded Drug	Drug	RxNorm	Valid	Standard
+19032380	575255	Dexamethasone 4 MG/ML [Cortastat]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19032412	575254	Dexamethasone 10 MG/ML [Cortastat 10]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19032414	575253	Dexamethasone 8 MG/ML [Cortastat LA]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19033788	575259	Dexamethasone 1 MG/ML [Ocu-Dex]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19035282	575413	dexamethasone 0.001 MG/MG / neomycin 0.0035 MG/MG / polymyxin B 10 UNT/MG [Ocu-Trol]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19038902	208559	dexamethasone 0.1 MG/ML Topical Spray [Aeroseb-Dex]	Branded Drug	Drug	RxNorm	Valid	Standard
+19038905	208562	dexamethasone 0.4 MG/ML Topical Spray [Decaspray]	Branded Drug	Drug	RxNorm	Valid	Standard
+19038908	208577	Dexamethasone 1 MG/ML Topical Cream [Decadron phosphate]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+19038937	208588	dexamethasone 1 MG/ML / neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML Ophthalmic Suspension [AK-Trol]	Branded Drug	Drug	RxNorm	Valid	Standard
+19038938	208589	dexamethasone 1 MG/ML / neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML Ophthalmic Suspension [Dexacidin]	Branded Drug	Drug	RxNorm	Valid	Standard
+19038939	208590	dexamethasone 1 MG/ML / neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML Ophthalmic Suspension [Dexasporin]	Branded Drug	Drug	RxNorm	Valid	Standard
+19038940	208591	dexamethasone 1 MG/ML / neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML Ophthalmic Suspension [Maxitrol]	Branded Drug	Drug	RxNorm	Valid	Standard
+19038941	208592	dexamethasone 1 MG/ML / neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML Ophthalmic Suspension [Methadex]	Branded Drug	Drug	RxNorm	Valid	Standard
+19038942	208593	dexamethasone 1 MG/ML / neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML Ophthalmic Suspension [Poly-Dex]	Branded Drug	Drug	RxNorm	Valid	Standard
+19038947	208598	dexamethasone 0.001 MG/MG / neomycin 0.0035 MG/MG / polymyxin B 10 UNT/MG Ophthalmic Ointment [Dexacidin]	Branded Drug	Drug	RxNorm	Valid	Standard
+19038948	208599	dexamethasone 0.001 MG/MG / neomycin 0.0035 MG/MG / polymyxin B 10 UNT/MG Ophthalmic Ointment [Dexacine]	Branded Drug	Drug	RxNorm	Valid	Standard
+19038949	208600	dexamethasone 0.001 MG/MG / neomycin 0.0035 MG/MG / polymyxin B 10 UNT/MG Ophthalmic Ointment [Dexasporin]	Branded Drug	Drug	RxNorm	Valid	Standard
+19038950	208601	dexamethasone 0.001 MG/MG / neomycin 0.0035 MG/MG / polymyxin B 10 UNT/MG Ophthalmic Ointment [Maxitrol]	Branded Drug	Drug	RxNorm	Valid	Standard
+19038981	208602	dexamethasone 0.001 MG/MG / neomycin 0.0035 MG/MG / polymyxin B 10 UNT/MG Ophthalmic Ointment [Poly-Dex]	Branded Drug	Drug	RxNorm	Valid	Standard
+19039156	208647	dexamethasone 0.1 MG/ACTUAT Metered Dose Inhaler [Dexacort Phosphate in Respihaler]	Branded Drug	Drug	RxNorm	Valid	Standard
+19039158	208649	dexamethasone 0.1 MG/ACTUAT Nasal Inhalant [Dexacort Phosphate in Turbinaire]	Branded Drug	Drug	RxNorm	Valid	Standard
+19039283	208677	dexamethasone 0.0005 MG/MG / neomycin 0.0035 MG/MG Ophthalmic Ointment [Neo-Decadron]	Branded Drug	Drug	RxNorm	Valid	Standard
+19039288	208683	dexamethasone 1 MG/ML / neomycin 3.5 MG/ML Topical Cream [Neo-Decadron]	Branded Drug	Drug	RxNorm	Valid	Standard
+19039720	208813	dexamethasone 1 MG/ML / tobramycin 3 MG/ML Ophthalmic Suspension [Tobradex]	Branded Drug	Drug	RxNorm	Valid	Standard
+19039745	208821	dexamethasone 0.001 MG/MG / tobramycin 0.003 MG/MG Ophthalmic Ointment [Tobradex]	Branded Drug	Drug	RxNorm	Valid	Standard
+19045957	545158	ciprofloxacin 3 MG/ML / dexamethasone 1 MG/ML [Ciprodex]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19046716	212023	Dexamethasone 4 MG/ML / Lidocaine 10 MG/ML Injectable Solution [Decadron with Xylocaine]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+19047760	566582	dexamethasone 0.1 MG/ML [Hexadrol]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19047793	566525	Dexamethasone 4 MG/ML [Dexasone]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19047795	566561	dexamethasone 1 MG/ML [Maxidex]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19047796	688243	Dexamethasone 0.0005 MG/MG [Maxidex]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19047798	566526	Dexamethasone 4 MG/ML [Dexone]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19047799	566575	Dexamethasone 0.5 MG [Dexone]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19047800	566583	Dexamethasone 0.75 MG [Dexone]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19047824	569239	dexamethasone 0.4 MG/ML [Decaspray]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19047826	569236	dexamethasone 0.1 MG/ML [Aeroseb-Dex]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19049821	216523	Dexamethasone Intensol	Brand Name	Drug	RxNorm	Valid	Non-standard
+19052207	566563	Dexamethasone 1 MG/ML [AK-Dex]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19052208	566566	Dexamethasone 0.0005 MG/MG [AK-Dex]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19052278	569259	dexamethasone 1 MG/ML / neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML [AK-Trol]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19052279	575412	dexamethasone 0.001 MG/MG / neomycin 0.0035 MG/MG / polymyxin B 10 UNT/MG [AK-Trol]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19052802	542544	Dexamethasone 1 MG/ML [Adrenocot]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19052803	566519	Dexamethasone 4 MG/ML [Adrenocot]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19052805	566491	Dexamethasone 8 MG/ML [Adrenocot L.A.]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19054410	22690	dexamethasone acetate	Precise Ingredient	Drug	RxNorm	Valid	Non-standard
+19054482	22694	dexamethasone trimethyl acetate	Precise Ingredient	Drug	RxNorm	Valid	Non-standard
+19054651	227142	dexamethasone 1 MG/ML / hypromellose 5 MG/ML Ophthalmic Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+19055211	235486	dexamethasone phosphate	Precise Ingredient	Drug	RxNorm	Valid	Non-standard
+19058719	242990	dexamethasone 0.084 MG/ACTUAT Nasal Spray	Clinical Drug	Drug	RxNorm	Valid	Standard
+19060333	566492	Dexamethasone 8 MG/ML [Dalalone L.A.]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19060510	566493	Dexamethasone 8 MG/ML [De-Sone LA]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19060544	572337	Dexamethasone 4 MG/ML / Lidocaine 10 MG/ML [Decadron with Xylocaine]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19060546	566494	Dexamethasone 8 MG/ML [Decadron-LA]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19060548	566522	Dexamethasone 4 MG/ML [Decaject]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19060550	566495	Dexamethasone 8 MG/ML [Decaject L.A.]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19060560	246730	dexamethasone 1 MG/ML / phenylephrine 1.5 MG/ML Ophthalmic Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+19060981	542547	Dexamethasone 1 MG/ML [Decadron phosphate]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19060982	566514	Dexamethasone 24 MG/ML [Decadron phosphate]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19060983	566521	Dexamethasone 4 MG/ML [Decadron phosphate]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19060984	566567	Dexamethasone 0.0005 MG/MG [Decadron phosphate]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19061549	249034	astemizole 10 MG / dexamethasone 2 MG Oral Tablet	Clinical Drug	Drug	RxNorm	Valid	Standard
+19061575	566523	Dexamethasone 4 MG/ML [Dexacen-4]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19061578	569269	dexamethasone 0.001 MG/MG / neomycin 0.0035 MG/MG / polymyxin B 10 UNT/MG [Dexacidin]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19061580	569314	dexamethasone 0.1 MG/ACTUAT [Dexacort Phosphate in Turbinaire]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19061612	566496	Dexamethasone 8 MG/ML [Dexacort-LA]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19061614	566524	Dexamethasone 4 MG/ML [Dexacorten]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19061618	566564	Dexamethasone 1 MG/ML [Dexasol]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19061619	566568	Dexamethasone 0.0005 MG/MG [Dexasol]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19061651	566497	Dexamethasone 8 MG/ML [Dexasone LA]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19061653	569261	dexamethasone 1 MG/ML / neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML [Dexasporin]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19061654	569271	dexamethasone 0.001 MG/MG / neomycin 0.0035 MG/MG / polymyxin B 10 UNT/MG [Dexasporin]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19061658	566498	Dexamethasone 8 MG/ML [Dexone LA]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19061691	249225	dexamethasone 8 MG/ML / sodium phosphate 2 MG/ML Injectable Suspension	Clinical Drug	Drug	RxNorm	Valid	Standard
+19063762	250818	cyproheptadine 0.5 MG/ML / dexamethasone 4 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+19063770	250828	dexamethasone 1 MG / terfenadine 120 MG Oral Tablet	Clinical Drug	Drug	RxNorm	Valid	Standard
+19064244	251058	dexamethasone 0.05 MG/ML Ophthalmic Suspension	Clinical Drug	Drug	RxNorm	Valid	Standard
+19064249	251066	Chlorpheniramine 4 MG / Dexamethasone 0.4 MG Oral Capsule	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19064799	252035	carisoprodol 200 MG / dexamethasone 0.5 MG / ibuprofen 400 MG Oral Tablet	Clinical Drug	Drug	RxNorm	Valid	Standard
+19065036	252361	dexamethasone 3 MG/ML / sodium phosphate 3 MG/ML Injectable Suspension	Clinical Drug	Drug	RxNorm	Valid	Standard
+19067722	260384	dexamethasone 1 MG/ML / neomycin 3.5 MG/ML Ophthalmic Solution [AK-Neo-Dex]	Branded Drug	Drug	RxNorm	Valid	Standard
+19068321	566512	Dexamethasone 10 MG/ML [Hexadrol Phosphate]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19068322	566527	Dexamethasone 4 MG/ML [Hexadrol Phosphate]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19068627	261990	dexamethasone 1 MG/ML / neomycin 3.5 MG/ML Ophthalmic Solution [Neo-Dex]	Branded Drug	Drug	RxNorm	Valid	Standard
+19070852	541461	Dexamethasone 8 MG/ML [Deca]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19070853	541482	Dexamethasone 4 MG/ML [Deca]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19070855	541465	Dexamethasone 8 MG/ML [Metazone]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19070856	541485	Dexamethasone 4 MG/ML [Metazone]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19070858	541472	Dexamethasone 8 MG/ML [Robadex]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19070860	541476	Dexamethasone 8 MG/ML [Cortidex]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19070881	541479	Dexamethasone 4 MG/ML [Cortidex]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19071438	542551	Dexamethasone 1 MG/ML [Dexair]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19072793	566528	Dexamethasone 4 MG/ML [Medidex]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19072795	566499	Dexamethasone 8 MG/ML [Medidex LA]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19073069	569263	dexamethasone 1 MG/ML / neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML [Methadex]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19074768	569346	Dexamethasone 1 MG/ML / Neomycin 3.5 MG/ML [Neo-Decadron Cream]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19074770	574624	dexamethasone 1 MG/ML / neomycin 3.5 MG/ML [Neo-Dex]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19074792	574679	dexamethasone 1 MG/ML / neomycin 3.5 MG/ML [Neo-Dexair]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19076108	309677	dexamethasone 0.12 MG/ML Topical Spray	Clinical Drug	Drug	RxNorm	Valid	Standard
+19076109	309678	dexamethasone 0.001 MG/MG Topical Gel	Clinical Drug	Drug	RxNorm	Valid	Standard
+19076110	309679	dexamethasone 0.001 MG/MG / neomycin 0.0035 MG/MG / polymyxin B 10 UNT/MG Ophthalmic Ointment	Clinical Drug	Drug	RxNorm	Valid	Standard
+19076131	309680	dexamethasone 1 MG/ML / neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML Ophthalmic Suspension	Clinical Drug	Drug	RxNorm	Valid	Standard
+19076132	309681	dexamethasone 1 MG/ML / neomycin 5 MG/ML / polymyxin B 10000 UNT/ML Ophthalmic Suspension	Clinical Drug	Drug	RxNorm	Valid	Standard
+19076133	309682	dexamethasone 0.001 MG/MG / tobramycin 0.003 MG/MG Ophthalmic Ointment	Clinical Drug	Drug	RxNorm	Valid	Standard
+19076134	309683	dexamethasone 1 MG/ML / tobramycin 3 MG/ML Ophthalmic Suspension	Clinical Drug	Drug	RxNorm	Valid	Standard
+19076135	309684	dexamethasone 1 MG/ML Oral Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+19076136	309686	dexamethasone 0.1 MG/ML Oral Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+19076137	309687	Dexamethasone 16 MG/ML Injectable Suspension	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19076138	309688	Dexamethasone 8 MG/ML Injectable Suspension	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19076139	309690	dexamethasone phosphate 0.0005 MG/MG Ophthalmic Ointment	Clinical Drug	Drug	RxNorm	Valid	Standard
+19076140	309691	Dexamethasone 1 MG/ML Topical Cream	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19076141	309692	dexamethasone 1 MG/ML Ophthalmic Suspension	Clinical Drug	Drug	RxNorm	Valid	Standard
+19076142	309693	Dexamethasone 1 MG/ML Otic Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19076143	309694	dexamethasone 1 MG/ML / neomycin 3.5 MG/ML Topical Cream	Clinical Drug	Drug	RxNorm	Valid	Standard
+19076144	309695	dexamethasone 1 MG/ML / neomycin 3.5 MG/ML Ophthalmic Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+19076145	309696	dexamethasone phosphate 10 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+19076146	309697	Dexamethasone 4 MG/ML / Lidocaine 10 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19076147	309698	Dexamethasone 4 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19076148	309699	dexamethasone 0.084 MG/ACTUAT Metered Dose Inhaler	Clinical Drug	Drug	RxNorm	Valid	Standard
+19076149	309700	dexamethasone 0.084 MG/ACTUAT Nasal Inhalant	Clinical Drug	Drug	RxNorm	Valid	Standard
+19077782	569273	dexamethasone 0.001 MG/MG / neomycin 0.0035 MG/MG / polymyxin B 10 UNT/MG [Poly-Dex]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19078323	541468	Dexamethasone 8 MG/ML [Primethasone]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19078324	566529	Dexamethasone 4 MG/ML [Primethasone]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19080702	315061	dexamethasone 20 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+19082890	569462	dexamethasone 1 MG/ML / tobramycin 3 MG/ML [Tobradex]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19082892	3265	dexamethasone isonicotinate	Precise Ingredient	Drug	RxNorm	Valid	Non-standard
+19083989	329677	dexamethasone 0.12 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+19085227	330437	dexamethasone 4 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+19085894	330680	Dexamethasone 24 MG/ML	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19086197	330802	dexamethasone 10 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+19088901	332981	dexamethasone 3 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+19088971	566574	dexamethasone 0.25 MG [Decadron]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19088972	566581	dexamethasone 0.1 MG/ML [Decadron]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19088976	575233	dexamethasone 0.75 MG [Decadron]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19088977	575256	Dexamethasone 4 MG/ML [Decadron]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19091242	335018	dexamethasone 0.15 MG	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+19095136	343033	dexamethasone 0.75 MG Oral Tablet	Clinical Drug	Drug	RxNorm	Valid	Standard
+19095151	343040	dexamethasone 0.75 MG Oral Tablet [Decadron]	Branded Drug	Drug	RxNorm	Valid	Standard
+19096296	347785	dexamethasone 10 MG Topical Spray	Clinical Drug	Drug	RxNorm	Valid	Standard
+19096433	348336	dexamethasone 0.001 MG/MG / neomycin 0.0035 MG/MG Topical Ointment	Clinical Drug	Drug	RxNorm	Valid	Standard
+19097275	350217	dexamethasone 10 MG	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+19098176	351308	Dexamethasone 8 MG/ML Injectable Suspension [Cortastat LA]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+19098177	351309	Dexamethasone 10 MG/ML Injectable Solution [Cortastat 10]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+19098178	351310	Dexamethasone 4 MG/ML Injectable Solution [Cortastat]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+19098217	351491	dexamethasone 0.2 MG/ML / neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML Ophthalmic Suspension [Ocu-Trol]	Branded Drug	Drug	RxNorm	Valid	Standard
+19100769	262356	Dexium brand of Dexamethasone	Brand Name	Drug	RxNorm	Invalid	Non-standard
+19100770	542937	Dexamethasone 2 MG/ML [Dexium]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19101595	387080	dexamethasone 8 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+19101700	388755	dexamethasone 1 MG/ML Topical Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+19101991	393267	dexamethasone 16 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+19102510	403908	ciprofloxacin 3 MG/ML / dexamethasone 1 MG/ML Otic Suspension	Clinical Drug	Drug	RxNorm	Valid	Standard
+19102846	404630	ciprofloxacin 3 MG/ML / dexamethasone 1 MG/ML Otic Suspension [Ciprodex]	Branded Drug	Drug	RxNorm	Valid	Standard
+19103250	409356	dexamethasone 1 MG/ML / neomycin 3.5 MG/ML Topical Spray	Clinical Drug	Drug	RxNorm	Valid	Standard
+19103651	411225	dexamethasone 0.4 MG Oral Capsule	Clinical Drug	Drug	RxNorm	Valid	Standard
+19103718	411549	dexamethasone 0.5 MG / indomethacin 25 MG Oral Capsule	Clinical Drug	Drug	RxNorm	Valid	Standard
+19104491	415363	dexamethasone 25 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+19105218	418759	clioquinol 0.02 MG/MG / dexamethasone 0.0002 MG/MG Topical Ointment	Clinical Drug	Drug	RxNorm	Valid	Standard
+19105233	418861	dexamethasone 0.00029 MG/MG / oxytetracycline 0.00576 MG/MG Topical Ointment	Clinical Drug	Drug	RxNorm	Valid	Standard
+19105273	419048	dexamethasone 0.002 MG/MG / neomycin 0.0035 MG/MG Topical Ointment	Clinical Drug	Drug	RxNorm	Valid	Standard
+19105407	420634	dexamethasone 0.25 MG / indomethacin 75 MG Rectal Suppository	Clinical Drug	Drug	RxNorm	Valid	Standard
+19105430	420697	dexamethasone 2.2 MG Rectal Suppository	Clinical Drug	Drug	RxNorm	Valid	Standard
+19105671	422009	dexamethasone 0.5 MG/ML Oral Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+19106649	429196	dexamethasone 8 MG Oral Tablet	Clinical Drug	Drug	RxNorm	Valid	Standard
+19107327	431720	Dexamethasone 1 MG / Theophylline 300 MG 12 hour Extended Release Tablet	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19107654	432822	clemastine 1 MG / dexamethasone 0.5 MG Oral Tablet	Clinical Drug	Drug	RxNorm	Valid	Standard
+19107858	433622	cyproheptadine 3 MG / dexamethasone 0.75 MG Oral Tablet	Clinical Drug	Drug	RxNorm	Valid	Standard
+19108508	436510	dexamethasone 0.133 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+19109391	438701	dexamethasone 0.0002 MG/MG	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+19109489	438883	dexamethasone 2.2 MG	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+19109490	438885	dexamethasone 8 MG	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+19109493	438889	dexamethasone 0.5 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+19110973	446662	dexamethasone 0.002 MG/MG	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+19111173	447036	dexamethasone 0.00029 MG/MG	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+19111975	451790	dexamethasone 25 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+19112080	451974	dexamethasone 0.06 MG/ML / terfenadine 6 MG/ML Oral Suspension	Clinical Drug	Drug	RxNorm	Valid	Standard
+19112198	452194	dexamethasone 0.06 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+19112486	452787	dexamethasone 0.133 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+19112971	48933	dexamethasone sodium phosphate	Precise Ingredient	Drug	RxNorm	Valid	Non-standard
+19113705	541470	Dexamethasone 8 MG/ML Injectable Suspension [Primethasone]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+19115248	562770	dexamethasone 0.2 MG/ML / neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML Ophthalmic Suspension	Clinical Drug	Drug	RxNorm	Valid	Standard
+19115542	563253	Dexamethasone 4 MG/ML [Oradexon]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19116154	564044	dexamethasone 0.5 MG [Decadron]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19117425	565676	Dexamethasone 2 MG [Oradexon]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19117426	565677	Dexamethasone 5 MG/ML [Oradexon]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19117812	566207	Dexamethasone 0.5 MG [Oradexon]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19117886	566500	Dexamethasone 8 MG/ML [Solurex LA]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19117890	566504	Dexamethasone 16 MG/ML [Dalalone D.P.]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19117897	566520	Dexamethasone 4 MG/ML [Dalalone]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19117898	566530	Dexamethasone 4 MG/ML [Solurex LA]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19117899	566531	Dexamethasone 4 MG/ML [Solurex]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19117911	566593	dexamethasone 1 MG/ML [Dexamethasone Intensol]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19117914	566601	dexamethasone 1.5 MG [Decadron]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19117915	566602	Dexamethasone 1.5 MG [Dexone]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19117916	566603	dexamethasone 4 MG [Decadron]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19117917	566604	Dexamethasone 4 MG [Dexone]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19117918	566605	dexamethasone 4 MG [Hexadrol]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19117921	566608	dexamethasone 6 MG [Decadron]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19118695	569260	dexamethasone 1 MG/ML / neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML [Dexacidin]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19118696	569264	dexamethasone 1 MG/ML / neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML [Poly-Dex]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19118697	569270	dexamethasone 0.001 MG/MG / neomycin 0.0035 MG/MG / polymyxin B 10 UNT/MG [Dexacine]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19118711	569312	dexamethasone 0.1 MG/ACTUAT [Dexacort Phosphate in Respihaler]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19118716	569340	dexamethasone 0.0005 MG/MG / neomycin 0.0035 MG/MG [Neo-Decadron]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19118736	569470	dexamethasone 0.001 MG/MG / tobramycin 0.003 MG/MG [Tobradex]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19120583	574173	dexamethasone 1 MG/ML / neomycin 3.5 MG/ML [AK-Neo-Dex]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19120837	575260	Dexamethasone 0.0005 MG/MG [Ocu-Dex]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19120885	575411	dexamethasone 0.2 MG/ML / neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML [Ocu-Trol]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19122159	597006	dexamethasone 1 MG/ML / neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML [Eyetrol]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19122161	597008	dexamethasone 1 MG/ML / neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML Ophthalmic Suspension [Eyetrol]	Branded Drug	Drug	RxNorm	Valid	Standard
+19122734	604028	dexamethasone 1 MG/ML / neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML [Ocu-Trol]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19122735	604029	dexamethasone 1 MG/ML / neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML Ophthalmic Suspension [Ocu-Trol]	Branded Drug	Drug	RxNorm	Valid	Standard
+19123249	608583	dexamethasone 0.5 MG/ML Ophthalmic Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+19127835	748083	dexamethasone 0.0001 MG/MG	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+19127837	748085	dexamethasone 0.0001 MG/MG / tobramycin 0.0003 MG/MG Ophthalmic Ointment	Clinical Drug	Drug	RxNorm	Valid	Standard
+19129254	759481	{51 (dexamethasone 1.5 MG Oral Tablet) } Pack	Clinical Pack	Drug	RxNorm	Valid	Standard
+19129289	759696	{12 (dexamethasone 0.75 MG Oral Tablet) } Pack	Clinical Pack	Drug	RxNorm	Valid	Standard
+19129290	759697	{35 (dexamethasone 1.5 MG Oral Tablet) } Pack	Clinical Pack	Drug	RxNorm	Valid	Standard
+19129772	790877	dexamethasone 1 MG/ML / neomycin 3.5 MG/ML [Neo-Decadron]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19129773	790879	dexamethasone 1 MG/ML / neomycin 3.5 MG/ML Ophthalmic Solution [Neo-Decadron]	Branded Drug	Drug	RxNorm	Valid	Standard
+19130122	795716	{12 (dexamethasone 0.75 MG Oral Tablet [Decadron]) } Pack [Decadron 5-12]	Branded Pack	Drug	RxNorm	Valid	Standard
+19130269	797022	{35 (dexamethasone 1.5 MG Oral Tablet) } Pack [DexPak TaperPak Junior 10 Day]	Branded Pack	Drug	RxNorm	Valid	Standard
+19130270	797023	{51 (dexamethasone 1.5 MG Oral Tablet) } Pack [DexPak TaperPak 13 Day]	Branded Pack	Drug	RxNorm	Valid	Standard
+19133284	828344	dexamethasone 1 MG/ML / neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML [Neopolydex]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19133285	828346	dexamethasone 1 MG/ML / neomycin 3.5 MG/ML / polymyxin B 10000 UNT/ML Ophthalmic Suspension [Neopolydex]	Branded Drug	Drug	RxNorm	Valid	Standard
+19134690	844882	dexamethasone 1 MG / theophylline 300 MG Extended Release Oral Tablet	Clinical Drug	Drug	RxNorm	Valid	Standard
+19135172	846192	{21 (dexamethasone 1.5 MG Oral Tablet) } Pack	Clinical Pack	Drug	RxNorm	Valid	Standard
+19135275	847225	{21 (dexamethasone 1.5 MG Oral Tablet) } Pack [DexPak TaperPak 6 Day]	Branded Pack	Drug	RxNorm	Valid	Standard
+19135508	849115	dexamethasone 0.5 MG/ML / tobramycin 3 MG/ML Ophthalmic Suspension	Clinical Drug	Drug	RxNorm	Valid	Standard
+35201066	2099701	dexamethasone phosphate 10 MG/ML Prefilled Syringe	Clinical Drug	Drug	RxNorm	Valid	Standard
+35202020	2099700	1 ML dexamethasone phosphate 10 MG/ML Prefilled Syringe	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+36027236	1007105	Astemizole / Dexamethasone	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36027382	1007256	Clioquinol / Dexamethasone	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36027546	1007423	Dexamethasone / Oxytetracycline	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36027604	1007483	Dexamethasone / hypromellose	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36027747	1007628	Dexamethasone / DOBESILIC ACID / Lidocaine	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36027968	1007854	Clotrimazole / Dexamethasone	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36028311	1008217	Clemastine / Dexamethasone	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36028991	1008930	Dexamethasone / Phenylephrine	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36029197	1009150	Dexamethasone / sodium phosphate	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36029204	1009387	Dexamethasone / Neomycin / Thiabendazole	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36029959	214478	Dexamethasone / Lidocaine	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36030055	216524	Dexamethasone / Neomycin	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36030056	216525	Dexamethasone / Neomycin / Polymyxin B	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36030192	465397	Ciprofloxacin / Dexamethasone	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36030363	687304	Dexamethasone / tramazoline	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36030842	813683	Dexamethasone / Theophylline	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36030869	814504	Dexamethasone / Indomethacin	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36030907	815833	Chloramphenicol / Dexamethasone	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36030990	818139	Dexamethasone / Terfenadine	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36031057	820465	Carisoprodol / Dexamethasone / Ibuprofen	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36031080	821542	Cyproheptadine / Dexamethasone	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36031085	822000	Carisoprodol / Dexamethasone / tenoxicam	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36031094	823322	Chlorpheniramine / Dexamethasone	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36031113	883815	Dexamethasone / Tobramycin	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36212429	1153892	Chlorpheniramine / Dexamethasone Oral Liquid Product	Clinical Dose Group	Drug	RxNorm	Invalid	Non-standard
+36212430	1153893	Chlorpheniramine / Dexamethasone Oral Product	Clinical Dose Group	Drug	RxNorm	Invalid	Non-standard
+36212431	1153894	Chlorpheniramine / Dexamethasone Pill	Clinical Dose Group	Drug	RxNorm	Invalid	Non-standard
+36212638	1153910	clotrimazole / dexamethasone Topical Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36213171	1154073	astemizole / dexamethasone Oral Liquid Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36213172	1154074	astemizole / dexamethasone Oral Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36213173	1154075	astemizole / dexamethasone Pill	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36213833	1156193	cyproheptadine / dexamethasone Injectable Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36213834	1156194	cyproheptadine / dexamethasone Oral Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36213835	1156195	cyproheptadine / dexamethasone Pill	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36213935	1154240	dexamethasone / dobesilic acid / lidocaine Topical Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36213936	1154241	dexamethasone / indomethacin Oral Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36213937	1154242	dexamethasone / indomethacin Pill	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36213938	1154243	dexamethasone / indomethacin Rectal Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36213939	1154244	dexamethasone / lidocaine Injectable Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36213940	1154245	dexamethasone / neomycin / polymyxin B Ophthalmic Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36213941	1154246	dexamethasone / neomycin / thiabendazole Topical Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36213942	1154247	dexamethasone / neomycin Ophthalmic Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36213943	1154248	dexamethasone / neomycin Otic Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36213944	1154249	dexamethasone / neomycin Topical Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36213945	1154250	dexamethasone / oxytetracycline Topical Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36213946	1154251	dexamethasone / phenylephrine Ophthalmic Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36213947	1154252	dexamethasone / terfenadine Oral Liquid Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36213948	1154253	dexamethasone / terfenadine Oral Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36213949	1154254	dexamethasone / terfenadine Pill	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36213950	1154255	dexamethasone / theophylline Oral Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36213951	1154256	dexamethasone / theophylline Pill	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36215046	1154524	dexamethasone / tobramycin Ophthalmic Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36215047	1154525	dexamethasone / hypromellose Ophthalmic Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36215048	1154526	dexamethasone / sodium phosphate Injectable Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36215049	1154527	dexamethasone / tramazoline Inhalant Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36215050	1154528	dexamethasone / tramazoline Nasal Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36215051	1154529	dexamethasone Drug Implant Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36215256	1154530	dexamethasone Inhalant Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36215257	1154531	dexamethasone Injectable Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36215258	1154532	dexamethasone Nasal Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36215259	1154533	dexamethasone Ophthalmic Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36215260	1154534	dexamethasone Oral Liquid Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36215261	1154535	dexamethasone Oral Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36215262	1154536	dexamethasone Otic Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36215263	1154537	dexamethasone Pill	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36215264	1154538	dexamethasone Rectal Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36215265	1154539	dexamethasone Topical Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36216343	1152767	clemastine / dexamethasone Oral Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36216344	1152768	clemastine / dexamethasone Pill	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36216366	1152791	clioquinol / dexamethasone Topical Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36217286	1152113	ciprofloxacin / dexamethasone Otic Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36218027	1151399	carisoprodol / dexamethasone / ibuprofen Oral Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36218028	1151400	carisoprodol / dexamethasone / ibuprofen Pill	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36218029	1151401	carisoprodol / dexamethasone / tenoxicam Oral Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36218030	1151402	carisoprodol / dexamethasone / tenoxicam Pill	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36218218	1153042	chloramphenicol / dexamethasone Ophthalmic Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36228080	1175245	Dexamethasone Intensol Oral Liquid Product	Branded Dose Group	Drug	RxNorm	Valid	Classification
+36228081	1175246	Dexamethasone Intensol Oral Product	Branded Dose Group	Drug	RxNorm	Valid	Classification
+37003556	2387355	{25 (dexamethasone 1.5 MG Oral Tablet) } Pack	Clinical Pack	Drug	RxNorm	Valid	Standard
+37003557	2387356	{25 (dexamethasone 1.5 MG Oral Tablet) } Pack [Zcort 7 Day Taper]	Branded Pack	Drug	RxNorm	Valid	Standard
+37497611	2261801	dexamethasone 20 MG	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+37497612	2261802	dexamethasone 20 MG Oral Tablet	Clinical Drug	Drug	RxNorm	Valid	Standard
+37497967	2265528	dexamethasone phosphate 0.0005 MG/MG	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+37497968	2265530	dexamethasone phosphate 0.0005 MG/MG [Maxidex]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+37497969	2265532	dexamethasone phosphate 0.0005 MG/MG [AK-Dex]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+37497970	2265534	dexamethasone phosphate 0.0005 MG/MG [Dexasol]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+37497971	2265536	dexamethasone phosphate 0.0005 MG/MG [Ocu-Dex]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+37497972	2265538	dexamethasone phosphate 1 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+37497973	2265540	dexamethasone phosphate 1 MG/ML [AK-Dex]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+37497974	2265542	dexamethasone phosphate 1 MG/ML [Dexasol]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+37497975	2265544	dexamethasone phosphate 1 MG/ML [Ocu-Dex]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+37499308	2286257	dexamethasone 20 MG [Hemady]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+37499309	2286258	dexamethasone Oral Tablet [Hemady]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+37499312	2286261	dexamethasone 20 MG Oral Tablet [Hemady]	Branded Drug	Drug	RxNorm	Valid	Standard
+40010223	376210	astemizole / dexamethasone Oral Solution	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40010224	371730	astemizole / dexamethasone Oral Tablet	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40018040	438142	Calcium Dobesilate / Dexamethasone / Lidocaine Topical Ointment	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40018646	371731	Calcium / Dexamethasone Oral Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40019614	252867	Calcium 500 MG / Dexamethasone 0.5 MG Oral Tablet	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+40020791	376211	Chlorpheniramine / Dexamethasone Extended Release Oral Capsule	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40020792	371732	Chlorpheniramine / Dexamethasone Oral Capsule	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40020793	371734	Chlorpheniramine / Dexamethasone Oral Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40020794	371733	Chlorpheniramine / Dexamethasone Syrup	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40022479	440457	carisoprodol / dexamethasone / ibuprofen Oral Tablet	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40022480	451961	carisoprodol / dexamethasone / tenoxicam Oral Tablet	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40022927	376196	chloramphenicol / dexamethasone Ophthalmic Solution	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40024538	249729	Chlorpheniramine 0.4 MG/ML / Dexamethasone 0.025 MG/ML Syrup	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+40026551	379385	clotrimazole / dexamethasone Topical Cream	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40027147	372475	Dexamethasone / Indomethacin Injectable Solution	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40027148	440625	dexamethasone / indomethacin Oral Capsule	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40027149	372476	dexamethasone / indomethacin Oral Tablet	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40027150	440626	dexamethasone / indomethacin Rectal Suppository	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40027151	371724	dexamethasone / lidocaine Injectable Solution	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40027152	363170	dexamethasone / lidocaine Injectable Solution [Decadron with Xylocaine]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40027153	374699	dexamethasone / neomycin / polymyxin B Ophthalmic Ointment	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40027154	367251	dexamethasone / neomycin / polymyxin B Ophthalmic Ointment [AK-Trol]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40027155	367279	dexamethasone / neomycin / polymyxin B Ophthalmic Ointment [Dexacidin]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40027156	367255	dexamethasone / neomycin / polymyxin B Ophthalmic Ointment [Dexacine]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40027157	367254	dexamethasone / neomycin / polymyxin B Ophthalmic Ointment [Dexasporin]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40027158	93249	dexamethasone / neomycin / polymyxin B Ophthalmic Ointment [Maxitrol]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40027159	367280	dexamethasone / neomycin / polymyxin B Ophthalmic Ointment [Ocu-Trol]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40027160	367266	dexamethasone / neomycin / polymyxin B Ophthalmic Ointment [Poly-Dex]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40027161	377469	dexamethasone / neomycin / polymyxin B Ophthalmic Solution	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40027162	374698	dexamethasone / neomycin / polymyxin B Ophthalmic Suspension	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40027163	365817	dexamethasone / neomycin / polymyxin B Ophthalmic Suspension [Dexacidin]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40027164	365820	dexamethasone / neomycin / polymyxin B Ophthalmic Suspension [Dexasporin]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40027165	93250	dexamethasone / neomycin / polymyxin B Ophthalmic Suspension [Maxitrol]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40027166	365819	dexamethasone / neomycin / polymyxin B Ophthalmic Suspension [Methadex]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40027167	365818	dexamethasone / neomycin / polymyxin B Ophthalmic Suspension [Poly-Dex]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40027168	373028	dexamethasone / neomycin Ophthalmic Ointment	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40027169	367264	dexamethasone / neomycin Ophthalmic Ointment [Neo-Decadron]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40027170	376267	dexamethasone / neomycin Ophthalmic Solution	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40027171	363850	dexamethasone / neomycin Ophthalmic Solution [AK-Neo-Dex]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40027172	363849	dexamethasone / neomycin Ophthalmic Solution [Neo-Dex]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40027173	363848	dexamethasone / neomycin Ophthalmic Solution [Neo-Dexair]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40027174	373027	dexamethasone / neomycin Otic Solution	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40027175	377671	dexamethasone / neomycin Topical Cream	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40027447	362345	dexamethasone / neomycin Topical Cream [Neo-Decadron]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40027448	378593	dexamethasone / neomycin Topical Ointment	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40027449	446661	dexamethasone / neomycin Topical Spray	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40027450	447038	dexamethasone / oxytetracycline Topical Ointment	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40027451	373387	dexamethasone / phenylephrine Ophthalmic Solution	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40027452	371737	dexamethasone / terfenadine Extended Release Oral Tablet	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40027453	452195	dexamethasone / terfenadine Oral Suspension	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40027454	371736	dexamethasone / terfenadine Oral Tablet	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40027455	452064	dexamethasone / theophylline Extended Release Oral Tablet	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40027456	374438	dexamethasone / tobramycin Ophthalmic Ointment	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40027457	94335	dexamethasone / tobramycin Ophthalmic Ointment [Tobradex]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40027458	378984	dexamethasone / tobramycin Ophthalmic Suspension	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40027459	94334	dexamethasone / tobramycin Ophthalmic Suspension [Tobradex]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40027460	377456	dexamethasone / hypromellose Ophthalmic Solution	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40027461	371720	dexamethasone / sodium phosphate Injectable Suspension	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40027462	393542	dexamethasone / tramazoline Nasal Spray	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40027510	309685	Dexamethasone 0.1 MG/ML Elixir	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+40027511	205690	Dexamethasone 0.1 MG/ML Elixir [Decadron]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+40027512	205691	Dexamethasone 0.1 MG/ML Elixir [Hexadrol]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+40027846	350226	Dexamethasone 0.546 MG	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+40027847	347842	Dexamethasone 0.546 MG Ophthalmic Ointment	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+40027897	406447	Dexamethasone 10 MG Injectable Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+40028187	251977	Dexamethasone 2 MG / Indomethacin 50 MG Injectable Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+40028230	349879	Dexamethasone 4.37 MG	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+40028231	346938	Dexamethasone 4.37 MG Injectable Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+40028255	371722	Dexamethasone Elixir	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40028256	92335	Dexamethasone Elixir [Decadron]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40028257	364966	Dexamethasone Elixir [Hexadrol]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40028258	377280	Dexamethasone Inhalant Solution	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40028259	361870	Dexamethasone Inhalant Solution [Dexacort Phosphate in Respihaler]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40028260	371725	dexamethasone Injectable Solution	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40028261	363487	Dexamethasone Injectable Solution [Adrenocot]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40028262	363213	Dexamethasone Injectable Solution [Cortastat 10]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40028263	363214	Dexamethasone Injectable Solution [Cortastat]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40028264	363486	dexamethasone Injectable Solution [Dalalone]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40028265	363003	Dexamethasone Injectable Solution [Decadron phosphate]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40028266	363216	dexamethasone Injectable Solution [Decadron]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40028267	363485	Dexamethasone Injectable Solution [Decaject]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40028359	405942	ciprofloxacin / dexamethasone Otic Suspension	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40028360	405941	ciprofloxacin / dexamethasone Otic Suspension [Ciprodex]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40028559	363484	Dexamethasone Injectable Solution [Dexacen-4]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40028560	363483	Dexamethasone Injectable Solution [Dexacorten]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40028561	363482	dexamethasone Injectable Solution [Dexasone]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40028562	363481	Dexamethasone Injectable Solution [Dexone]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40028563	363480	Dexamethasone Injectable Solution [Hexadrol Phosphate]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40028564	363479	Dexamethasone Injectable Solution [Medidex]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40028565	363584	Dexamethasone Injectable Solution [Oradexon]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40028566	363478	Dexamethasone Injectable Solution [Primethasone]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40028567	363477	Dexamethasone Injectable Solution [Solurex LA]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40028568	363476	Dexamethasone Injectable Solution [Solurex]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40028569	371721	dexamethasone Injectable Suspension	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40028570	365676	Dexamethasone Injectable Suspension [Adrenocot L.A.]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40028571	365611	Dexamethasone Injectable Suspension [Cortastat LA]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40028572	365667	Dexamethasone Injectable Suspension [Dalalone D.P.]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40028573	365693	Dexamethasone Injectable Suspension [Dalalone L.A.]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40028574	365692	dexamethasone Injectable Suspension [De-Sone LA]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40028575	365691	dexamethasone Injectable Suspension [Decadron-LA]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40028576	365690	Dexamethasone Injectable Suspension [Decaject L.A.]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40028577	365689	dexamethasone Injectable Suspension [Dexacort-LA]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40028578	365688	Dexamethasone Injectable Suspension [Dexasone LA]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40028579	365687	Dexamethasone Injectable Suspension [Dexone LA]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40028580	365686	Dexamethasone Injectable Suspension [Medidex LA]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40028581	365685	Dexamethasone Injectable Suspension [Solurex LA]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40028584	375798	dexamethasone Nasal Inhalant	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40028585	361916	dexamethasone Nasal Inhalant [Dexacort Phosphate in Turbinaire]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40028586	371726	dexamethasone Nasal Spray	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40028587	103217	dexamethasone Ophthalmic Ointment	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40028588	367274	dexamethasone Ophthalmic Ointment [AK-Dex]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40028589	367273	Dexamethasone Ophthalmic Ointment [Decadron phosphate]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40028590	367272	dexamethasone Ophthalmic Ointment [Dexasol]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40028591	367263	dexamethasone Ophthalmic Ointment [Ocu-Dex]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40028592	377418	dexamethasone Ophthalmic Solution	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40028593	363679	dexamethasone Ophthalmic Solution [AK-Dex]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40028594	363678	dexamethasone Ophthalmic Solution [Dexasol]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40028595	363845	dexamethasone Ophthalmic Solution [Ocu-Dex]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40028596	371723	dexamethasone Ophthalmic Suspension	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40028597	365842	dexamethasone Ophthalmic Suspension [Maxidex]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40028598	438882	dexamethasone Oral Capsule	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40028599	371728	dexamethasone Oral Solution	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40028600	364896	dexamethasone Oral Solution [Dexamethasone Intensol]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40028601	371729	dexamethasone Oral Tablet	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40028602	369461	dexamethasone Oral Tablet [Decadron]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40028603	369460	Dexamethasone Oral Tablet [Dexone]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40028604	369516	dexamethasone Oral Tablet [Hexadrol]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40028605	369569	Dexamethasone Oral Tablet [Oradexon]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40028606	371727	dexamethasone Otic Solution	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40028607	438884	dexamethasone Rectal Suppository	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40028608	377672	dexamethasone Topical Cream	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40028609	92340	Dexamethasone Topical Cream [Decadron phosphate]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40028610	378023	dexamethasone Topical Gel	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40028611	393151	dexamethasone Topical Solution	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40028612	377316	dexamethasone Topical Spray	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40028613	361991	dexamethasone Topical Spray [Aeroseb-Dex]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40028614	362045	dexamethasone Topical Spray [Decaspray]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40028865	371735	cyproheptadine / dexamethasone Injectable Solution	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40028866	438872	cyproheptadine / dexamethasone Oral Tablet	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40030154	438688	clemastine / dexamethasone Oral Tablet	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40030911	438702	clioquinol / dexamethasone Topical Ointment	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40069330	365810	dexamethasone / neomycin / polymyxin B Ophthalmic Suspension [Ocu-Trol]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40110144	562361	Dexamethasone / Neomycin / Polymyxins Ophthalmic Suspension	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40110145	544981	Dexamethasone / Neomycin Topical Ointment [AK-Trol]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40110205	544982	Dexamethasone 0.001 MG/MG / Neomycin 0.0035 MG/MG Topical Ointment [AK-Trol]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+40110206	544980	Dexamethasone 0.001 MG/MG / Neomycin 0.0035 MG/MG [AK-Trol]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+40110284	562362	Dexamethasone 1 MG/ML / Neomycin 3.5 MG/ML / Polymyxins 10000 UNT/ML Ophthalmic Suspension	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+40110494	541491	Dexamethasone 4 MG/ML Injectable Solution [Dexmethasone]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+40110507	541489	Dexamethasone 4 MG/ML [Dexmethasone]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+40110582	541480	Dexamethasone Injectable Solution [Cortidex]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40110583	541483	Dexamethasone Injectable Solution [Deca]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40110584	542938	Dexamethasone Injectable Solution [Dexium]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40110585	541490	Dexamethasone Injectable Solution [Dexmethasone]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40110586	541486	Dexamethasone Injectable Solution [Metazone]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40110587	541477	Dexamethasone Injectable Suspension [Cortidex]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40110588	541462	Dexamethasone Injectable Suspension [Deca]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40110589	541466	Dexamethasone Injectable Suspension [Metazone]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40110590	541469	Dexamethasone Injectable Suspension [Primethasone]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40110591	541473	dexamethasone Injectable Suspension [Robadex]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40110592	542545	Dexamethasone Ophthalmic Solution [Adrenocot]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40110593	542548	Dexamethasone Ophthalmic Solution [Decadron phosphate]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40110594	542552	Dexamethasone Ophthalmic Solution [Dexair]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40127792	597007	dexamethasone / neomycin / polymyxin B Ophthalmic Suspension [Eyetrol]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40133446	637664	dexamethasone / dobesilic acid / lidocaine Topical Ointment	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40133447	632295	dexamethasone / neomycin / polymyxin B Ophthalmic Suspension [AK-Trol]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40137638	688244	dexamethasone Ophthalmic Ointment [Maxidex]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40143114	748087	Dexamethasone 0.0001 MG/MG / Tobramycin 0.0003 MG/MG Ophthalmic Ointment [Tobradex]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+40143115	748086	Dexamethasone 0.0001 MG/MG / Tobramycin 0.0003 MG/MG [Tobradex]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+40146099	757171	Chlorpheniramine / Dexamethasone Oral Solution	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40146415	757087	dexamethasone Oral Solution [Decadron]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40146416	757088	dexamethasone Oral Solution [Hexadrol]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40148182	759482	{35 (Dexamethasone 1.5 MG Oral Tablet) } Pack [DexPak Jr TaperPak]	Branded Pack	Drug	RxNorm	Invalid	Non-standard
+40148189	759483	{51 (Dexamethasone 1.5 MG Oral Tablet) } Pack [DexPak TaperPak]	Branded Pack	Drug	RxNorm	Invalid	Non-standard
+40149337	790878	dexamethasone / neomycin Ophthalmic Solution [Neo-Decadron]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40149678	790462	{12 (Dexamethasone 0.75 MG Oral Tablet) } Pack [Decadron 5-12 ]	Branded Pack	Drug	RxNorm	Invalid	Non-standard
+40155898	828345	dexamethasone / neomycin / polymyxin B Ophthalmic Suspension [Neopolydex]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40160929	854175	dexamethasone 0.7 MG	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+40160930	854177	dexamethasone 0.7 MG Drug Implant	Clinical Drug	Drug	RxNorm	Valid	Standard
+40160931	854181	dexamethasone 0.7 MG Drug Implant [Ozurdex]	Branded Drug	Drug	RxNorm	Valid	Standard
+40160932	854179	dexamethasone 0.7 MG [Ozurdex]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+40160933	854176	dexamethasone Drug Implant	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40160934	854180	dexamethasone Drug Implant [Ozurdex]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40167743	881354	dexamethasone 0.02 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+40167744	881355	dexamethasone 0.02 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+40167745	880649	dexamethasone 3 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+40167746	880657	dexamethasone 3 MG/ML Injectable Solution [DexaJect]	Branded Drug	Drug	RxNorm	Valid	Standard
+40167747	880655	dexamethasone 3 MG/ML [DexaJect]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+40167748	880656	dexamethasone Injectable Solution [DexaJect]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40171334	895526	{21 (dexamethasone 1.5 MG Oral Tablet) } Pack [Zema Pak 6 Day]	Branded Pack	Drug	RxNorm	Valid	Standard
+40171336	895521	{35 (dexamethasone 1.5 MG Oral Tablet) } Pack [Zema Pak 10 Day]	Branded Pack	Drug	RxNorm	Valid	Standard
+40171343	895525	{51 (dexamethasone 1.5 MG Oral Tablet) } Pack [Zema Pak 13 Day]	Branded Pack	Drug	RxNorm	Valid	Standard
+40173363	901648	dexamethasone Oral Solution [Baycadron]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40173366	901649	dexamethasone 0.1 MG/ML Oral Solution [Baycadron]	Branded Drug	Drug	RxNorm	Valid	Standard
+40173367	901647	dexamethasone 0.1 MG/ML [Baycadron]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+40224101	1006791	dexamethasone 4 MG/ML Injectable Suspension	Clinical Drug	Drug	RxNorm	Valid	Standard
+40225755	1009386	dexamethasone / neomycin / thiabendazole Topical Solution	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40225756	1009391	dexamethasone / neomycin / thiabendazole Topical Solution [Tresaderm]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40225765	1011080	dexamethasone 0.5 MG/ML / tobramycin 3 MG/ML Ophthalmic Suspension [Tobradex]	Branded Drug	Drug	RxNorm	Valid	Standard
+40225766	1011079	dexamethasone 0.5 MG/ML / tobramycin 3 MG/ML [Tobradex]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+40225767	1009388	dexamethasone 1 MG/ML / neomycin 3.2 MG/ML / thiabendazole 40 MG/ML Topical Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+40225768	1009392	dexamethasone 1 MG/ML / neomycin 3.2 MG/ML / thiabendazole 40 MG/ML Topical Solution [Tresaderm]	Branded Drug	Drug	RxNorm	Valid	Standard
+40225769	1009390	dexamethasone 1 MG/ML / neomycin 3.2 MG/ML / thiabendazole 40 MG/ML [Tresaderm]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+40225770	1012133	dexamethasone 4 MG/ML / lidocaine hydrochloride 10 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+40225771	1012257	dexamethasone 4 MG/ML / lidocaine hydrochloride 10 MG/ML Injectable Solution [Decadron with Xylocaine]	Branded Drug	Drug	RxNorm	Valid	Standard
+40225772	1012256	dexamethasone 4 MG/ML / lidocaine hydrochloride 10 MG/ML [Decadron with Xylocaine]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+40231769	1049549	dexamethasone 2 MG/ML Injectable Solution [DexaJect]	Branded Drug	Drug	RxNorm	Valid	Standard
+40231770	1049386	dexamethasone 2 MG/ML Injectable Solution [Dexium]	Branded Drug	Drug	RxNorm	Valid	Standard
+40231771	1049548	dexamethasone 2 MG/ML [DexaJect]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+40231772	1049384	dexamethasone 2 MG/ML [Dexium]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+40231783	1049385	dexamethasone Injectable Solution [Dexium]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40231784	1049399	dexamethasone sodium phosphate 4 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+40231785	1049400	dexamethasone sodium phosphate 4 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+40233165	1086700	dexamethasone Oral Tablet [Dexium]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40233170	1086701	dexamethasone 0.25 MG Oral Tablet [Dexium]	Branded Drug	Drug	RxNorm	Valid	Standard
+40233171	1086699	dexamethasone 0.25 MG [Dexium]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+40233172	1087757	dexamethasone 2 MG/ML Injectable Solution [Dexasone]	Branded Drug	Drug	RxNorm	Valid	Standard
+40233173	1087756	dexamethasone 2 MG/ML [Dexasone]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+40235163	1087919	dexamethasone 3 MG/ML Injectable Solution [Dexium]	Branded Drug	Drug	RxNorm	Valid	Standard
+40235164	1087918	dexamethasone 3 MG/ML [Dexium]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+40235165	1089820	Dexamethasone 8 MG/ML Injectable Suspension [Dexasone]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+40235166	1089818	Dexamethasone 8 MG/ML [Dexasone]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+40235167	1089819	dexamethasone Injectable Suspension [Dexasone]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40241503	1116926	dexamethasone phosphate 4 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+40241504	1116927	dexamethasone phosphate 4 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+40241505	1145623	dexamethasone sodium phosphate 1 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+40241506	1145624	dexamethasone sodium phosphate 1 MG/ML Otic Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+42706771	1249709	dexamethasone sodium phosphate 0.2 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+42706772	1249711	dexamethasone sodium phosphate 0.4 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+42708926	1249710	dexamethasone sodium phosphate 0.2 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+42708927	1249712	dexamethasone sodium phosphate 0.4 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+43526117	1375105	dexamethasone Injectable Solution [Hexadrol]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+43526118	1374391	dexamethasone Injectable Suspension [Dalalone]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+43526119	1376057	dexamethasone Ophthalmic Ointment [Decadron]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+43526120	1376061	dexamethasone Ophthalmic Solution [Decadron]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+43526121	1376064	dexamethasone Topical Cream [Decadron]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+43526122	1376054	dexamethasone sodium phosphate 0.0005 MG/MG	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+43526123	1376055	dexamethasone sodium phosphate 0.0005 MG/MG Ophthalmic Ointment	Clinical Drug	Drug	RxNorm	Valid	Standard
+43526124	1376059	dexamethasone sodium phosphate 0.0005 MG/MG Ophthalmic Ointment [Decadron]	Branded Drug	Drug	RxNorm	Valid	Standard
+43526125	1376056	dexamethasone sodium phosphate 0.0005 MG/MG [Decadron]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+43526126	1374378	dexamethasone sodium phosphate 1 MG/ML Ophthalmic Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+43526127	1376062	dexamethasone sodium phosphate 1 MG/ML Ophthalmic Solution [Decadron]	Branded Drug	Drug	RxNorm	Valid	Standard
+43526128	1376063	dexamethasone sodium phosphate 1 MG/ML Topical Cream	Clinical Drug	Drug	RxNorm	Valid	Standard
+43526129	1376066	dexamethasone sodium phosphate 1 MG/ML Topical Cream [Decadron]	Branded Drug	Drug	RxNorm	Valid	Standard
+43526130	1376060	dexamethasone sodium phosphate 1 MG/ML [Decadron]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+43526131	1374376	Dexamethasone sodium phosphate 10 MG/ML	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+43526132	1374377	Dexamethasone sodium phosphate 10 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+43526133	1375109	Dexamethasone sodium phosphate 10 MG/ML Injectable Solution [Hexadrol]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+43526134	1375108	Dexamethasone sodium phosphate 10 MG/ML [Hexadrol]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+43526135	1376067	dexamethasone sodium phosphate 24 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+43526136	1376068	dexamethasone sodium phosphate 24 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+43526137	1376070	dexamethasone sodium phosphate 24 MG/ML Injectable Solution [Decadron]	Branded Drug	Drug	RxNorm	Valid	Standard
+43526138	1376069	dexamethasone sodium phosphate 24 MG/ML [Decadron]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+43526139	1374408	dexamethasone sodium phosphate 4 MG/ML Injectable Solution [Dalalone]	Branded Drug	Drug	RxNorm	Valid	Standard
+43526140	1375115	dexamethasone sodium phosphate 4 MG/ML Injectable Solution [Decadron]	Branded Drug	Drug	RxNorm	Valid	Standard
+43526141	1374385	dexamethasone sodium phosphate 4 MG/ML Injectable Solution [Dexasone]	Branded Drug	Drug	RxNorm	Valid	Standard
+43526142	1375107	dexamethasone sodium phosphate 4 MG/ML Injectable Solution [Hexadrol]	Branded Drug	Drug	RxNorm	Valid	Standard
+43526143	1374407	dexamethasone sodium phosphate 4 MG/ML [Dalalone]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+43526144	1375114	dexamethasone sodium phosphate 4 MG/ML [Decadron]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+43526145	1374384	dexamethasone sodium phosphate 4 MG/ML [Dexasone]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+43526146	1375104	dexamethasone sodium phosphate 4 MG/ML [Hexadrol]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+43526414	1374388	dexamethasone acetate 16 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+43526415	1374389	dexamethasone acetate 16 MG/ML Injectable Suspension	Clinical Drug	Drug	RxNorm	Valid	Standard
+43526416	1374392	dexamethasone acetate 16 MG/ML Injectable Suspension [Dalalone]	Branded Drug	Drug	RxNorm	Valid	Standard
+43526417	1374390	dexamethasone acetate 16 MG/ML [Dalalone]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+43526418	1374371	dexamethasone acetate 8 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+43526419	1374372	dexamethasone acetate 8 MG/ML Injectable Suspension	Clinical Drug	Drug	RxNorm	Valid	Standard
+43526420	1374410	dexamethasone acetate 8 MG/ML Injectable Suspension [Dalalone]	Branded Drug	Drug	RxNorm	Valid	Standard
+43526421	1374387	dexamethasone acetate 8 MG/ML Injectable Suspension [Dexasone]	Branded Drug	Drug	RxNorm	Valid	Standard
+43526422	1374409	dexamethasone acetate 8 MG/ML [Dalalone]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+43526423	1374386	dexamethasone acetate 8 MG/ML [Dexasone]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+44815940	1534288	dexamethasone acetate 8 MG/ML [Decadron-LA]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+44815941	1534289	dexamethasone acetate 8 MG/ML [Robadex]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+44815983	1534331	dexamethasone acetate 8 MG/ML [Dexacort-LA]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+44816050	1534398	dexamethasone acetate 8 MG/ML [De-Sone LA]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+45777034	1545693	{1 (1 ML) (Dexamethasone 10 MG/ML Injectable Solution) / 2 (Isopropyl Alcohol 0.7 ML/ML Medicated Pad) / 1 (2 ML) (Lidocaine Hydrochloride 10 MG/ML Injectable Solution) / 3 (Povidone-Iodine 100 MG/ML Medicated Pad) } Pack	Clinical Pack	Drug	RxNorm	Invalid	Non-standard
+45777035	1545694	{1 (1 ML) (Dexamethasone 10 MG/ML Injectable Solution) / 2 (Isopropyl Alcohol 0.7 ML/ML Medicated Pad) / 1 (2 ML) (Lidocaine Hydrochloride 10 MG/ML Injectable Solution) / 3 (Povidone-Iodine 100 MG/ML Medicated Pad) } Pack [Enovachem Dexlido Kit]	Branded Pack	Drug	RxNorm	Invalid	Non-standard
+45777036	1545695	{2 (1 ML) (Dexamethasone 10 MG/ML Injectable Solution) / 3 (Isopropyl Alcohol 0.7 ML/ML Medicated Pad) / 3 (Povidone-Iodine 100 MG/ML Medicated Pad) } Pack	Clinical Pack	Drug	RxNorm	Invalid	Non-standard
+45777037	1545696	{2 (1 ML) (Dexamethasone 10 MG/ML Injectable Solution) / 3 (Isopropyl Alcohol 0.7 ML/ML Medicated Pad) / 3 (Povidone-Iodine 100 MG/ML Medicated Pad) } Pack [Enovachem Doubledex Kit]	Branded Pack	Drug	RxNorm	Invalid	Non-standard
+45777051	1546227	{1 (10 ML) (Bupivacaine Hydrochloride 2.5 MG/ML Injectable Solution) / 1 (1 ML) (Dexamethasone 10 MG/ML Injectable Solution) / 3 (Isopropyl Alcohol 0.7 ML/ML Medicated Pad) / 3 (Povidone-Iodine 100 MG/ML Medicated Pad) } Pack	Clinical Pack	Drug	RxNorm	Invalid	Non-standard
+45777052	1546228	{1 (10 ML) (Bupivacaine Hydrochloride 2.5 MG/ML Injectable Solution [Marcaine]) / 1 (1 ML) (Dexamethasone 10 MG/ML Injectable Solution) / 3 (Isopropyl Alcohol 0.7 ML/ML Medicated Pad) / 3 (Povidone-Iodine 100 MG/ML Medicated Pad) } Pack [Enovachem Mardex-	Branded Pack	Drug	RxNorm	Invalid	Non-standard

@@ -1,0 +1,1014 @@
+﻿Id	Code	Name	Standard Class	Domain	Vocab	Validity	Concept
+"45539088	O10.4	Pre-existing secondary hypertension complicating pregnancy, childbirth and the puerperium	ICD10 code	Condition	ICD10	Valid	Non-standard"
+45539091	O13	Gestational [pregnancy-induced] hypertension	ICD10 Hierarchy	Condition	ICD10	Valid	Non-standard
+45548008	I15.8	Other secondary hypertension	ICD10 code	Condition	ICD10	Valid	Non-standard
+"45548700	O10.9	Unspecified pre-existing hypertension complicating pregnancy, childbirth and the puerperium	ICD10 code	Condition	ICD10	Valid	Non-standard"
+45552787	I27.0	Primary pulmonary hypertension	ICD10 code	Condition	ICD10	Valid	Non-standard
+45557535	I15.1	Hypertension secondary to other renal disorders	ICD10 code	Condition	ICD10	Valid	Non-standard
+45562338	I15	Secondary hypertension	ICD10 Hierarchy	Condition	ICD10	Valid	Non-standard
+45563054	O16	Unspecified maternal hypertension	ICD10 Hierarchy	Condition	ICD10	Valid	Non-standard
+"45567163	I15.9	Secondary hypertension, unspecified	ICD10 code	Condition	ICD10	Valid	Non-standard"
+45572077	I15.0	Renovascular hypertension	ICD10 code	Condition	ICD10	Valid	Non-standard
+45572762	O11	Pre-eclampsia superimposed on chronic hypertension	ICD10 Hierarchy	Condition	ICD10	Valid	Non-standard
+45577702	P29.2	Neonatal hypertension	ICD10 code	Condition	ICD10	Valid	Non-standard
+45581768	I27.2	Other secondary pulmonary hypertension	ICD10 code	Condition	ICD10	Valid	Non-standard
+45586321	G93.2	Benign intracranial hypertension	ICD10 code	Condition	ICD10	Valid	Non-standard
+45591453	I10	Essential (primary) hypertension	ICD10 Hierarchy	Condition	ICD10	Valid	Non-standard
+45591608	K76.6	Portal hypertension	ICD10 code	Condition	ICD10	Valid	Non-standard
+45596189	I15.2	Hypertension secondary to endocrine disorders	ICD10 code	Condition	ICD10	Valid	Non-standard
+"45601777	O10.0	Pre-existing essential hypertension complicating pregnancy, childbirth and the puerperium	ICD10 code	Condition	ICD10	Valid	Non-standard"
+"45755599	O10	Pre-existing hypertension complicating pregnancy, childbirth and the puerperium	ICD10 Hierarchy	Condition	ICD10	Valid	Non-standard"
+45755600	O12	Gestational [pregnancy-induced] oedema and proteinuria without hypertension	ICD10 Hierarchy	Condition	ICD10	Valid	Non-standard
+"1326592	I27.20	Pulmonary hypertension, unspecified	5-char billing code	Condition	ICD10CM	Valid	Non-standard"
+1326593	I27.21	Secondary pulmonary arterial hypertension	5-char billing code	Condition	ICD10CM	Valid	Non-standard
+1326594	I27.22	Pulmonary hypertension due to left heart disease	5-char billing code	Condition	ICD10CM	Valid	Non-standard
+1326595	I27.23	Pulmonary hypertension due to lung diseases and hypoxia	5-char billing code	Condition	ICD10CM	Valid	Non-standard
+1326596	I27.24	Chronic thromboembolic pulmonary hypertension	5-char billing code	Condition	ICD10CM	Valid	Non-standard
+1326597	I27.29	Other secondary pulmonary hypertension	5-char billing code	Condition	ICD10CM	Valid	Non-standard
+1326773	P29.30	Pulmonary hypertension of newborn	5-char billing code	Condition	ICD10CM	Valid	Non-standard
+1569124	I15	Secondary hypertension	3-char nonbill code	Condition	ICD10CM	Valid	Non-standard
+1569411	I87.3	Chronic venous hypertension (idiopathic)	4-char nonbill code	Condition	ICD10CM	Valid	Non-standard
+1569412	I87.30	Chronic venous hypertension (idiopathic) without complications	5-char nonbill code	Condition	ICD10CM	Valid	Non-standard
+1569413	I87.31	Chronic venous hypertension (idiopathic) with ulcer	5-char nonbill code	Condition	ICD10CM	Valid	Non-standard
+1569414	I87.32	Chronic venous hypertension (idiopathic) with inflammation	5-char nonbill code	Condition	ICD10CM	Valid	Non-standard
+1569415	I87.33	Chronic venous hypertension (idiopathic) with ulcer and inflammation	5-char nonbill code	Condition	ICD10CM	Valid	Non-standard
+1569416	I87.39	Chronic venous hypertension (idiopathic) with other complications	5-char nonbill code	Condition	ICD10CM	Valid	Non-standard
+"1571634	O10	Pre-existing hypertension complicating pregnancy, childbirth and the puerperium	3-char nonbill code	Condition	ICD10CM	Valid	Non-standard"
+"1571635	O10.0	Pre-existing essential hypertension complicating pregnancy, childbirth and the puerperium	4-char nonbill code	Condition	ICD10CM	Valid	Non-standard"
+"1571636	O10.01	Pre-existing essential hypertension complicating pregnancy,	5-char nonbill code	Condition	ICD10CM	Valid	Non-standard"
+"1571643	O10.4	Pre-existing secondary hypertension complicating pregnancy, childbirth and the puerperium	4-char nonbill code	Condition	ICD10CM	Valid	Non-standard"
+1571644	O10.41	Pre-existing secondary hypertension complicating pregnancy	5-char nonbill code	Condition	ICD10CM	Valid	Non-standard
+"1571645	O10.9	Unspecified pre-existing hypertension complicating pregnancy, childbirth and the puerperium	4-char nonbill code	Condition	ICD10CM	Valid	Non-standard"
+1571646	O10.91	Unspecified pre-existing hypertension complicating pregnancy	5-char nonbill code	Condition	ICD10CM	Valid	Non-standard
+1571647	O11	Pre-existing hypertension with pre-eclampsia	3-char nonbill code	Condition	ICD10CM	Valid	Non-standard
+1571648	O12	Gestational [pregnancy-induced] edema and proteinuria without hypertension	3-char nonbill code	Condition	ICD10CM	Valid	Non-standard
+1571652	O13	Gestational [pregnancy-induced] hypertension without significant proteinuria	3-char nonbill code	Condition	ICD10CM	Valid	Non-standard
+1571659	O16	Unspecified maternal hypertension	3-char nonbill code	Condition	ICD10CM	Valid	Non-standard
+35207504	G93.2	Benign intracranial hypertension	4-char billing code	Condition	ICD10CM	Valid	Non-standard
+35207668	I10	Essential (primary) hypertension	3-char billing code	Condition	ICD10CM	Valid	Non-standard
+35207675	I15.0	Renovascular hypertension	4-char billing code	Condition	ICD10CM	Valid	Non-standard
+35207676	I15.1	Hypertension secondary to other renal disorders	4-char billing code	Condition	ICD10CM	Valid	Non-standard
+35207677	I15.2	Hypertension secondary to endocrine disorders	4-char billing code	Condition	ICD10CM	Valid	Non-standard
+35207678	I15.8	Other secondary hypertension	4-char billing code	Condition	ICD10CM	Valid	Non-standard
+"35207679	I15.9	Secondary hypertension, unspecified	4-char billing code	Condition	ICD10CM	Valid	Non-standard"
+35207707	I27.0	Primary pulmonary hypertension	4-char billing code	Condition	ICD10CM	Valid	Non-standard
+35207709	I27.2	Other secondary pulmonary hypertension	4-char nonbill code	Condition	ICD10CM	Valid	Non-standard
+35208365	K76.6	Portal hypertension	4-char billing code	Condition	ICD10CM	Valid	Non-standard
+35210518	P29.2	Neonatal hypertension	4-char billing code	Condition	ICD10CM	Valid	Non-standard
+"37200957	O11.4	Pre-existing hypertension with pre-eclampsia, complicating childbirth	4-char billing code	Condition	ICD10CM	Valid	Non-standard"
+"37200958	O11.5	Pre-existing hypertension with pre-eclampsia, complicating the puerperium	4-char billing code	Condition	ICD10CM	Valid	Non-standard"
+"37200965	O13.4	Gestational [pregnancy-induced] hypertension without significant proteinuria, complicating childbirth	4-char billing code	Condition	ICD10CM	Valid	Non-standard"
+"37200966	O13.5	Gestational [pregnancy-induced] hypertension without significant proteinuria, complicating the puerperium	4-char billing code	Condition	ICD10CM	Valid	Non-standard"
+"37200975	O16.4	Unspecified maternal hypertension, complicating childbirth	4-char billing code	Condition	ICD10CM	Valid	Non-standard"
+"37200976	O16.5	Unspecified maternal hypertension, complicating the puerperium	4-char billing code	Condition	ICD10CM	Valid	Non-standard"
+45533529	I87.322	Chronic venous hypertension (idiopathic) with inflammation of left lower extremity	6-char billing code	Condition	ICD10CM	Valid	Non-standard
+45533530	I87.339	Chronic venous hypertension (idiopathic) with ulcer and inflammation of unspecified lower extremity	6-char billing code	Condition	ICD10CM	Valid	Non-standard
+45534173	O10.42	Pre-existing secondary hypertension complicating childbirth	5-char billing code	Condition	ICD10CM	Valid	Non-standard
+"45534174	O11.2	Pre-existing hypertension with pre-eclampsia, second trimester	4-char billing code	Condition	ICD10CM	Valid	Non-standard"
+"45539089	O10.913	Unspecified pre-existing hypertension complicating pregnancy, third trimester	6-char billing code	Condition	ICD10CM	Valid	Non-standard"
+45539090	O10.92	Unspecified pre-existing hypertension complicating childbirth	5-char billing code	Condition	ICD10CM	Valid	Non-standard
+"45543044	H40.053	Ocular hypertension, bilateral	6-char billing code	Condition	ICD10CM	Valid	Non-standard"
+45543245	I87.329	Chronic venous hypertension (idiopathic) with inflammation of unspecified lower extremity	6-char billing code	Condition	ICD10CM	Valid	Non-standard
+45543246	I87.331	Chronic venous hypertension (idiopathic) with ulcer and inflammation of right lower extremity	6-char billing code	Condition	ICD10CM	Valid	Non-standard
+"45543913	O10.013	Pre-existing essential hypertension complicating pregnancy, third trimester	6-char billing code	Condition	ICD10CM	Valid	Non-standard"
+45547881	H40.05	Ocular hypertension	5-char nonbill code	Condition	ICD10CM	Valid	Non-standard
+45548095	I87.392	Chronic venous hypertension (idiopathic) with other complications of left lower extremity	6-char billing code	Condition	ICD10CM	Valid	Non-standard
+45548096	I87.399	Chronic venous hypertension (idiopathic) with other complications of unspecified lower extremity	6-char billing code	Condition	ICD10CM	Valid	Non-standard
+"45548699	O10.419	Pre-existing secondary hypertension complicating pregnancy, unspecified trimester	6-char billing code	Condition	ICD10CM	Valid	Non-standard"
+"45548703	O13.2	Gestational [pregnancy-induced] hypertension without significant proteinuria, second trimester	4-char billing code	Condition	ICD10CM	Valid	Non-standard"
+"45548704	O13.9	Gestational [pregnancy-induced] hypertension without significant proteinuria, unspecified trimester	4-char billing code	Condition	ICD10CM	Valid	Non-standard"
+"45548707	O16.3	Unspecified maternal hypertension, third trimester	4-char billing code	Condition	ICD10CM	Valid	Non-standard"
+45552868	I87.303	Chronic venous hypertension (idiopathic) without complications of bilateral lower extremity	6-char billing code	Condition	ICD10CM	Valid	Non-standard
+45552869	I87.319	Chronic venous hypertension (idiopathic) with ulcer of unspecified lower extremity	6-char billing code	Condition	ICD10CM	Valid	Non-standard
+"45557414	H40.059	Ocular hypertension, unspecified eye	6-char billing code	Condition	ICD10CM	Valid	Non-standard"
+"45558203	O10.411	Pre-existing secondary hypertension complicating pregnancy, first trimester	6-char billing code	Condition	ICD10CM	Valid	Non-standard"
+45562423	I87.302	Chronic venous hypertension (idiopathic) without complications of left lower extremity	6-char billing code	Condition	ICD10CM	Valid	Non-standard
+45563048	O10.43	Pre-existing secondary hypertension complicating the puerperium	5-char billing code	Condition	ICD10CM	Valid	Non-standard
+"45563051	O13.1	Gestational [pregnancy-induced] hypertension without significant proteinuria, first trimester	4-char billing code	Condition	ICD10CM	Valid	Non-standard"
+"45563052	O13.3	Gestational [pregnancy-induced] hypertension without significant proteinuria, third trimester	4-char billing code	Condition	ICD10CM	Valid	Non-standard"
+45567252	I87.301	Chronic venous hypertension (idiopathic) without complications of right lower extremity	6-char billing code	Condition	ICD10CM	Valid	Non-standard
+45567253	I87.313	Chronic venous hypertension (idiopathic) with ulcer of bilateral lower extremity	6-char billing code	Condition	ICD10CM	Valid	Non-standard
+45567254	I87.332	Chronic venous hypertension (idiopathic) with ulcer and inflammation of left lower extremity	6-char billing code	Condition	ICD10CM	Valid	Non-standard
+45567885	O10.02	Pre-existing essential hypertension complicating childbirth	5-char billing code	Condition	ICD10CM	Valid	Non-standard
+45567887	O10.93	Unspecified pre-existing hypertension complicating the puerperium	5-char billing code	Condition	ICD10CM	Valid	Non-standard
+"45572765	O16.1	Unspecified maternal hypertension, first trimester	4-char billing code	Condition	ICD10CM	Valid	Non-standard"
+"45576740	H40.051	Ocular hypertension, right eye	6-char billing code	Condition	ICD10CM	Valid	Non-standard"
+45576935	I87.311	Chronic venous hypertension (idiopathic) with ulcer of right lower extremity	6-char billing code	Condition	ICD10CM	Valid	Non-standard
+45576936	I87.333	Chronic venous hypertension (idiopathic) with ulcer and inflammation of bilateral lower extremity	6-char billing code	Condition	ICD10CM	Valid	Non-standard
+"45577558	O10.919	Unspecified pre-existing hypertension complicating pregnancy, unspecified trimester	6-char billing code	Condition	ICD10CM	Valid	Non-standard"
+"45577559	O11.3	Pre-existing hypertension with pre-eclampsia, third trimester	4-char billing code	Condition	ICD10CM	Valid	Non-standard"
+45581837	I87.312	Chronic venous hypertension (idiopathic) with ulcer of left lower extremity	6-char billing code	Condition	ICD10CM	Valid	Non-standard
+"45582442	O10.011	Pre-existing essential hypertension complicating pregnancy, first trimester	6-char billing code	Condition	ICD10CM	Valid	Non-standard"
+"45582445	O10.412	Pre-existing secondary hypertension complicating pregnancy, second trimester	6-char billing code	Condition	ICD10CM	Valid	Non-standard"
+"45582446	O10.911	Unspecified pre-existing hypertension complicating pregnancy, first trimester	6-char billing code	Condition	ICD10CM	Valid	Non-standard"
+"45591333	H40.052	Ocular hypertension, left eye	6-char billing code	Condition	ICD10CM	Valid	Non-standard"
+45592183	O10.03	Pre-existing essential hypertension complicating the puerperium	5-char billing code	Condition	ICD10CM	Valid	Non-standard
+"45592185	O10.413	Pre-existing secondary hypertension complicating pregnancy, third trimester	6-char billing code	Condition	ICD10CM	Valid	Non-standard"
+"45592191	O16.2	Unspecified maternal hypertension, second trimester	4-char billing code	Condition	ICD10CM	Valid	Non-standard"
+45596270	I87.321	Chronic venous hypertension (idiopathic) with inflammation of right lower extremity	6-char billing code	Condition	ICD10CM	Valid	Non-standard
+45596271	I87.393	Chronic venous hypertension (idiopathic) with other complications of bilateral lower extremity	6-char billing code	Condition	ICD10CM	Valid	Non-standard
+"45596915	O10.019	Pre-existing essential hypertension complicating pregnancy, unspecified trimester	6-char billing code	Condition	ICD10CM	Valid	Non-standard"
+"45596916	O11.1	Pre-existing hypertension with pre-eclampsia, first trimester	4-char billing code	Condition	ICD10CM	Valid	Non-standard"
+"45596917	O11.9	Pre-existing hypertension with pre-eclampsia, unspecified trimester	4-char billing code	Condition	ICD10CM	Valid	Non-standard"
+"45596923	O16.9	Unspecified maternal hypertension, unspecified trimester	4-char billing code	Condition	ICD10CM	Valid	Non-standard"
+45601107	I87.323	Chronic venous hypertension (idiopathic) with inflammation of bilateral lower extremity	6-char billing code	Condition	ICD10CM	Valid	Non-standard
+45601108	I87.391	Chronic venous hypertension (idiopathic) with other complications of right lower extremity	6-char billing code	Condition	ICD10CM	Valid	Non-standard
+"45601778	O10.012	Pre-existing essential hypertension complicating pregnancy, second trimester	6-char billing code	Condition	ICD10CM	Valid	Non-standard"
+45605870	I87.309	Chronic venous hypertension (idiopathic) without complications of unspecified lower extremity	6-char billing code	Condition	ICD10CM	Valid	Non-standard
+45605875	I97.3	Postprocedural hypertension	4-char billing code	Condition	ICD10CM	Valid	Non-standard
+"45606537	O10.912	Unspecified pre-existing hypertension complicating pregnancy, second trimester	6-char billing code	Condition	ICD10CM	Valid	Non-standard"
+1412211	G93.2	Benign intracranial hypertension	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+1412212	G93.200	Benign intracranial hypertension	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+1412213	G93.201	Benign intracranial hypertension syndrome (machine translation)	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+1412957	H40.001	Ocular hypertension (machine translation)	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+1413708	I10	Essential (primary) hypertension	ICD10 Hierarchy	Condition	ICD10CN	Valid	Non-standard
+1413709	I10.x00	Essential (primary) hypertension	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+1413710	I10.x01	Hypertensive Crisis	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+1413711	I10.x02	Malignant hypertension (machine translation)	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+1413712	I10.x03	Level 1 hypertension (machine translation)	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+1413713	I10.x04	Level 2 hypertension (machine translation)	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+1413714	I10.x05	Grade 3 hypertension (machine translation)	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+1413716	I10.x07	Benign Hypertension (machine translation)	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+1413718	I10.x09	Essential hypertension (machine translation)	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+1413720	I10.x11	Isolated Systolic Hypertension (machine translation)	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+1413721	I10.x12	Refractory hypertension (machine translation)	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+1413722	I10.x13	Low renin hypertension (machine translation)	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+1413723	I10.x14	Sub-acute hypertension (machine translation)	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+1413748	I15	Secondary hypertension	ICD10 Hierarchy	Condition	ICD10CN	Valid	Non-standard
+1413749	I15.0	Renovascular hypertension	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+1413750	I15.000	Renovascular hypertension	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+1413751	I15.1	Hypertension secondary to other renal disorders	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+1413752	I15.100	Hypertension secondary to other renal disorders	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+1413754	I15.102	Renal hypertension (machine translation)	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+1413755	I15.103	Renal atrophy associated with hypertension (machine translation)	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+1413756	I15.2	Hypertension secondary to endocrine disorders	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+1413757	I15.200	Hypertension secondary to endocrine disorders	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+1413758	I15.8	Other secondary hypertension	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+1413759	I15.800	Other secondary hypertension	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+"1413760	I15.9	Secondary hypertension, unspecified	ICD10 code	Condition	ICD10CN	Valid	Non-standard"
+"1413761	I15.900	Secondary hypertension, unspecified	ICD10 code	Condition	ICD10CN	Valid	Non-standard"
+1413909	I27.0	Primary pulmonary hypertension	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+1413910	I27.000	Primary pulmonary hypertension	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+1413911	I27.002	Moderate pulmonary hypertension (machine translation)	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+1413912	I27.003	Severe pulmonary hypertension (machine translation)	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+1413915	I27.2	Other secondary pulmonary hypertension	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+1413916	I27.200	Other secondary pulmonary hypertension	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+1413917	I27.201	Secondary pulmonary hypertension (machine translation)	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+1413918	I27.202	Chronic thromboembolic pulmonary hypertension (machine translation)	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+1417629	K76.6	Portal hypertension	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+1417630	K76.600	Portal hypertension	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+1417631	K76.601	Pancreatic portal hypertension (machine translation)	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+1417632	K76.602	Idiopathic portal hypertension (machine translation)	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+1418027	K92.801	Portal hypertension Gastroenterology (machine translation)	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+"1423064	O10	Pre-existing hypertension complicating pregnancy, childbirth and the puerperium	ICD10 Hierarchy	Condition	ICD10CN	Valid	Non-standard"
+"1423065	O10.0	Pre-existing essential hypertension complicating pregnancy, childbirth and the puerperium	ICD10 code	Condition	ICD10CN	Valid	Non-standard"
+"1423066	O10.000	Pre-existing essential hypertension complicating pregnancy, childbirth and the puerperium	ICD10 code	Condition	ICD10CN	Valid	Non-standard"
+1423067	O10.001	Pregnant women with hypertension (machine translation)	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+"1423077	O10.4	Pre-existing secondary hypertension complicating pregnancy, childbirth and the puerperium	ICD10 code	Condition	ICD10CN	Valid	Non-standard"
+"1423078	O10.400	Pre-existing secondary hypertension complicating pregnancy, childbirth and the puerperium	ICD10 code	Condition	ICD10CN	Valid	Non-standard"
+1423079	O10.401	Pregnant women with secondary hypertension (machine translation)	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+"1423080	O10.9	Unspecified pre-existing hypertension complicating pregnancy, childbirth and the puerperium	ICD10 code	Condition	ICD10CN	Valid	Non-standard"
+"1423081	O10.900	Unspecified pre-existing hypertension complicating pregnancy, childbirth and the puerperium	ICD10 code	Condition	ICD10CN	Valid	Non-standard"
+1423082	O11	Pre-eclampsia superimposed on chronic hypertension	ICD10 Hierarchy	Condition	ICD10CN	Valid	Non-standard
+1423083	O11.x00	Pre-eclampsia superimposed on chronic hypertension	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+1423084	O11.x01	Pregnancy with essential hypertension with proteinuria (machine translation)	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+1423085	O12	Gestational [pregnancy-induced] oedema and proteinuria without hypertension	ICD10 Hierarchy	Condition	ICD10CN	Valid	Non-standard
+1423092	O13	Gestational [pregnancy-induced] hypertension	ICD10 Hierarchy	Condition	ICD10CN	Valid	Non-standard
+1423093	O13.x00	Gestational [pregnancy-induced] hypertension	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+1423094	O13.x01	Transient hypertension during pregnancy (machine translation)	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+1423116	O16	Unspecified maternal hypertension	ICD10 Hierarchy	Condition	ICD10CN	Valid	Non-standard
+1423117	O16.x00	Unspecified maternal hypertension	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+1424241	O99.428	Pregnancy primary pulmonary hypertension (machine translation)	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+1424274	O99.614	Pregnancy with portal hypertension (machine translation)	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+1424317	P00.001	Maternal pregnancy-induced hypertension in neonates (machine translation)	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+1424719	P29.2	Neonatal hypertension	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+1424720	P29.200	Neonatal hypertension	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+1424723	P29.301	Persistent pulmonary hypertension of the newborn (machine translation)	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+1431496	T70.202	High altitude hypertension	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+"1435932	O10-O16	Pregnancy, childbirth and puerperium edema, proteinuria and hypertension disorders (machine translation)	ICD10 SubChapter	Condition	ICD10CN	Valid	Non-standard"
+37083768	G93.2	Benign intracranial hypertension	ICD10 code	Condition	ICD10GM	Valid	Non-standard
+37084419	I10	Essential (primary) hypertension	ICD10 Hierarchy	Condition	ICD10GM	Valid	Non-standard
+37084420	I10.0	Benign essential hypertension	ICD10 code	Condition	ICD10GM	Valid	Non-standard
+37084423	I10.1	Malignant essential hypertension	ICD10 code	Condition	ICD10GM	Valid	Non-standard
+"37084426	I10.9	Essential hypertension, unspecified	ICD10 code	Condition	ICD10GM	Valid	Non-standard"
+"37084427	I10.90	Essential hypertension, unspecified: No indication of a hypertensive crisis	ICD10 code	Condition	ICD10GM	Valid	Non-standard"
+"37084428	I10.91	Essential hypertension, unspecified: with indication of a hypertensive crisis	ICD10 code	Condition	ICD10GM	Valid	Non-standard"
+37084455	I15	Secondary hypertension	ICD10 Hierarchy	Condition	ICD10GM	Valid	Non-standard
+37084456	I15.0	Renovascular hypertension	ICD10 code	Condition	ICD10GM	Valid	Non-standard
+37084459	I15.1	Hypertension secondary to other renal disorders	ICD10 code	Condition	ICD10GM	Valid	Non-standard
+37084460	I15.10	Hypertension as a consequence of other kidney diseases: No indication of a hypertensive crisis	ICD10 code	Condition	ICD10GM	Valid	Non-standard
+37084461	I15.11	Hypertension as a consequence of other kidney diseases: with indication of a hypertensive crisis	ICD10 code	Condition	ICD10GM	Valid	Non-standard
+37084462	I15.2	Hypertension secondary to endocrine disorders	ICD10 code	Condition	ICD10GM	Valid	Non-standard
+37084463	I15.20	Hypertension as a result of endocrine diseases: Without indication of a hypertensive crisis	ICD10 code	Condition	ICD10GM	Valid	Non-standard
+37084464	I15.21	Hypertension as a result of endocrine diseases: with indication of a hypertensive crisis	ICD10 code	Condition	ICD10GM	Valid	Non-standard
+37084465	I15.8	Other secondary hypertension	ICD10 code	Condition	ICD10GM	Valid	Non-standard
+"37084468	I15.9	Secondary hypertension, unspecified	ICD10 code	Condition	ICD10GM	Valid	Non-standard"
+"37084469	I15.90	Secondary hypertension, unspecified: No indication of a hypertensive crisis	ICD10 code	Condition	ICD10GM	Valid	Non-standard"
+"37084470	I15.91	Secondary hypertension, unspecified: with indication of a hypertensive crisis	ICD10 code	Condition	ICD10GM	Valid	Non-standard"
+37084530	I27.0	Primary pulmonary hypertension	ICD10 code	Condition	ICD10GM	Valid	Non-standard
+37084532	I27.2	Other secondary pulmonary hypertension	ICD10 code	Condition	ICD10GM	Valid	Non-standard
+37084533	I27.20	Pulmonary hypertension in chronic thromboembolism	ICD10 code	Condition	ICD10GM	Valid	Non-standard
+37084534	I27.28	Other specified secondary pulmonary hypertension	ICD10 code	Condition	ICD10GM	Valid	Non-standard
+37086032	K76.6	Portal hypertension	ICD10 code	Condition	ICD10GM	Valid	Non-standard
+"37091688	O10	Pre-existing hypertension complicating pregnancy, childbirth and the puerperium	ICD10 Hierarchy	Condition	ICD10GM	Valid	Non-standard"
+"37091689	O10.0	Pre-existing essential hypertension complicating pregnancy, childbirth and the puerperium	ICD10 code	Condition	ICD10GM	Valid	Non-standard"
+"37091693	O10.4	Pre-existing secondary hypertension complicating pregnancy, childbirth and the puerperium	ICD10 code	Condition	ICD10GM	Valid	Non-standard"
+"37091694	O10.9	Unspecified pre-existing hypertension complicating pregnancy, childbirth and the puerperium	ICD10 code	Condition	ICD10GM	Valid	Non-standard"
+37091695	O11	Pre-eclampsia superimposed on chronic hypertension	ICD10 Hierarchy	Condition	ICD10GM	Valid	Non-standard
+37091696	O12	Gestational [pregnancy-induced] oedema and proteinuria without hypertension	ICD10 Hierarchy	Condition	ICD10GM	Valid	Non-standard
+37091700	O13	Gestational [pregnancy-induced] hypertension	ICD10 Hierarchy	Condition	ICD10GM	Valid	Non-standard
+37091710	O16	Unspecified maternal hypertension	ICD10 Hierarchy	Condition	ICD10GM	Valid	Non-standard
+37092579	P29.2	Neonatal hypertension	ICD10 code	Condition	ICD10GM	Valid	Non-standard
+"44819849	642.10	Hypertension secondary to renal disease, complicating pregnancy, childbirth, and the puerperium, unspecified as to episode of care or not applicable	5-dig billing code	Condition	ICD9CM	Valid	Non-standard"
+"44819850	642.13	Hypertension secondary to renal disease, complicating pregnancy, childbirth, and the puerperium, antepartum condition or complication	5-dig billing code	Condition	ICD9CM	Valid	Non-standard"
+"44819858	646.11	Edema or excessive weight gain in pregnancy, without mention of hypertension, delivered, with or without mention of antepartum complication	5-dig billing code	Condition	ICD9CM	Valid	Non-standard"
+44820879	459.30	Chronic venous hypertension without complications	5-dig billing code	Condition	ICD9CM	Valid	Non-standard
+"44821019	642.34	Transient hypertension of pregnancy, postpartum condition or complication	5-dig billing code	Condition	ICD9CM	Valid	Non-standard"
+"44821023	646.21	Unspecified renal disease in pregnancy, without mention of hypertension, delivered, with or without mention of antepartum condition	5-dig billing code	Condition	ICD9CM	Valid	Non-standard"
+44821949	401.9	Unspecified essential hypertension	4-dig billing code	Condition	ICD9CM	Valid	Non-standard
+44822040	572.3	Portal hypertension	4-dig billing code	Condition	ICD9CM	Valid	Non-standard
+"44822083	642.92	Unspecified hypertension complicating pregnancy, childbirth, or the puerperium, delivered, with mention of postpartum complication	5-dig billing code	Condition	ICD9CM	Valid	Non-standard"
+"44822084	642.93	Unspecified hypertension complicating pregnancy, childbirth, or the puerperium, antepartum condition or complication	5-dig billing code	Condition	ICD9CM	Valid	Non-standard"
+"44822086	646.2	Unspecified renal disease in pregnancy, without mention of hypertension	4-dig nonbill code	Condition	ICD9CM	Valid	Non-standard"
+44823109	401.0	Malignant essential hypertension	4-dig billing code	Condition	ICD9CM	Valid	Non-standard
+44823113	416.0	Primary pulmonary hypertension	4-dig billing code	Condition	ICD9CM	Valid	Non-standard
+"44823229	642.01	Benign essential hypertension complicating pregnancy, childbirth, and the puerperium, delivered, with or without mention of antepartum condition	5-dig billing code	Condition	ICD9CM	Valid	Non-standard"
+"44823230	642.72	Pre-eclampsia or eclampsia superimposed on pre-existing hypertension, delivered, with mention of postpartum complication	5-dig billing code	Condition	ICD9CM	Valid	Non-standard"
+"44823231	642.9	Unspecified hypertension complicating pregnancy, childbirth, or the puerperium	4-dig nonbill code	Condition	ICD9CM	Valid	Non-standard"
+"44823236	646.1	Edema or excessive weight gain in pregnancy, without mention of hypertension	4-dig nonbill code	Condition	ICD9CM	Valid	Non-standard"
+44824236	405.09	Other malignant secondary hypertension	5-dig billing code	Condition	ICD9CM	Valid	Non-standard
+"44824389	642.00	Benign essential hypertension complicating pregnancy, childbirth, and the puerperium, unspecified as to episode of care or not applicable	5-dig billing code	Condition	ICD9CM	Valid	Non-standard"
+"44824390	642.03	Benign essential hypertension complicating pregnancy, childbirth, and the puerperium, antepartum condition or complication	5-dig billing code	Condition	ICD9CM	Valid	Non-standard"
+"44824391	642.1	Hypertension secondary to renal disease, complicating pregnancy, childbirth, and the puerperium	4-dig nonbill code	Condition	ICD9CM	Valid	Non-standard"
+"44824392	642.12	Hypertension secondary to renal disease, complicating pregnancy, childbirth, and the puerperium, delivered, with mention of postpartum complication	5-dig billing code	Condition	ICD9CM	Valid	Non-standard"
+44824394	642.7	Pre-eclampsia or eclampsia superimposed on pre-existing hypertension	4-dig nonbill code	Condition	ICD9CM	Valid	Non-standard
+"44824395	642.91	Unspecified hypertension complicating pregnancy, childbirth, or the puerperium, delivered, with or without mention of antepartum condition	5-dig billing code	Condition	ICD9CM	Valid	Non-standard"
+44825456	459.39	Chronic venous hypertension with other complication	5-dig billing code	Condition	ICD9CM	Valid	Non-standard
+"44825591	642.73	Pre-eclampsia or eclampsia superimposed on pre-existing hypertension, antepartum condition or complication	5-dig billing code	Condition	ICD9CM	Valid	Non-standard"
+"44825592	642.94	Unspecified hypertension complicating pregnancy, childbirth, or the puerperium, postpartum condition or complication	5-dig billing code	Condition	ICD9CM	Valid	Non-standard"
+"44825597	646.22	Unspecified renal disease in pregnancy, without mention of hypertension, delivered, with mention of postpartum complication	5-dig billing code	Condition	ICD9CM	Valid	Non-standard"
+44826774	642.3	Transient hypertension of pregnancy	4-dig nonbill code	Condition	ICD9CM	Valid	Non-standard
+"44826776	642.70	Pre-eclampsia or eclampsia superimposed on pre-existing hypertension, unspecified as to episode of care or not applicable	5-dig billing code	Condition	ICD9CM	Valid	Non-standard"
+44827781	405.19	Other benign secondary hypertension	5-dig billing code	Condition	ICD9CM	Valid	Non-standard
+44827815	459.3	Chronic venous hypertension (idiopathic)	4-dig nonbill code	Condition	ICD9CM	Valid	Non-standard
+"44827929	642.02	Benign essential hypertension, complicating pregnancy, childbirth, and the puerperium, delivered, with mention of postpartum complication	5-dig billing code	Condition	ICD9CM	Valid	Non-standard"
+"44827930	642.11	Hypertension secondary to renal disease, complicating pregnancy, childbirth, and the puerperium, delivered, with or without mention of antepartum condition	5-dig billing code	Condition	ICD9CM	Valid	Non-standard"
+"44827931	642.2	Other pre-existing hypertension complicating pregnancy, childbirth, and the puerperium	4-dig nonbill code	Condition	ICD9CM	Valid	Non-standard"
+"44827932	642.22	Other pre-existing hypertension, complicating pregnancy, childbirth, and the puerperium, delivered, with mention of postpartum complication	5-dig billing code	Condition	ICD9CM	Valid	Non-standard"
+"44827941	646.12	Edema or excessive weight gain in pregnancy, without mention of hypertension, delivered, with mention of postpartum complication	5-dig billing code	Condition	ICD9CM	Valid	Non-standard"
+"44829108	646.13	Edema or excessive weight gain in pregnancy, without mention of hypertension, antepartum condition or complication	5-dig billing code	Condition	ICD9CM	Valid	Non-standard"
+"44829109	646.24	Unspecified renal disease in pregnancy, without mention of hypertension, postpartum condition or complication	5-dig billing code	Condition	ICD9CM	Valid	Non-standard"
+44830078	405.91	Unspecified renovascular hypertension	5-dig billing code	Condition	ICD9CM	Valid	Non-standard
+"44830210	642.04	Benign essential hypertension complicating pregnancy, childbirth, and the puerperium, postpartum condition or complication	5-dig billing code	Condition	ICD9CM	Valid	Non-standard"
+"44830211	642.23	Other pre-existing hypertension, complicating pregnancy, childbirth, and the puerperium, antepartum condition or complication	5-dig billing code	Condition	ICD9CM	Valid	Non-standard"
+"44830215	646.14	Edema or excessive weight gain in pregnancy, without mention of hypertension, postpartum condition or complication	5-dig billing code	Condition	ICD9CM	Valid	Non-standard"
+"44830637	997.91	Complications affecting other specified body systems, not elsewhere classified, hypertension	5-dig billing code	Condition	ICD9CM	Valid	Non-standard"
+44831233	405.0	Malignant secondary hypertension	4-dig nonbill code	Condition	ICD9CM	Valid	Non-standard
+44831234	405.01	Malignant renovascular hypertension	5-dig billing code	Condition	ICD9CM	Valid	Non-standard
+44831235	405.1	Benign secondary hypertension	4-dig nonbill code	Condition	ICD9CM	Valid	Non-standard
+"44831376	642.0	Benign essential hypertension complicating pregnancy, childbirth, and the puerperium	4-dig nonbill code	Condition	ICD9CM	Valid	Non-standard"
+"44831381	646.10	Edema or excessive weight gain in pregnancy, without mention of hypertension, unspecified as to episode of care or not applicable	5-dig billing code	Condition	ICD9CM	Valid	Non-standard"
+44832370	405	Secondary hypertension	3-dig nonbill code	Condition	ICD9CM	Valid	Non-standard
+44832371	405.11	Benign renovascular hypertension	5-dig billing code	Condition	ICD9CM	Valid	Non-standard
+"44832523	642.71	Pre-eclampsia or eclampsia superimposed on pre-existing hypertension, delivered, with or without mention of antepartum condition	5-dig billing code	Condition	ICD9CM	Valid	Non-standard"
+"44832524	642.74	Pre-eclampsia or eclampsia superimposed on pre-existing hypertension, postpartum condition or complication	5-dig billing code	Condition	ICD9CM	Valid	Non-standard"
+44833447	348.2	Benign intracranial hypertension	4-dig billing code	Condition	ICD9CM	Valid	Non-standard
+44833556	401	Essential hypertension	3-dig nonbill code	Condition	ICD9CM	Valid	Non-standard
+44833595	459.32	Chronic venous hypertension with inflammation	5-dig billing code	Condition	ICD9CM	Valid	Non-standard
+"44833713	642	Hypertension complicating pregnancy, childbirth, and the puerperium	3-dig nonbill code	Condition	ICD9CM	Valid	Non-standard"
+"44833714	642.14	Hypertension secondary to renal disease, complicating pregnancy, childbirth, and the puerperium, postpartum condition or complication	5-dig billing code	Condition	ICD9CM	Valid	Non-standard"
+"44833715	642.33	Transient hypertension of pregnancy, antepartum condition or complication	5-dig billing code	Condition	ICD9CM	Valid	Non-standard"
+44834715	401.1	Benign essential hypertension	4-dig billing code	Condition	ICD9CM	Valid	Non-standard
+44834763	459.31	Chronic venous hypertension with ulcer	5-dig billing code	Condition	ICD9CM	Valid	Non-standard
+"44834876	642.32	Transient hypertension of pregnancy, delivered, with mention of postpartum complication	5-dig billing code	Condition	ICD9CM	Valid	Non-standard"
+44835925	405.99	Other unspecified secondary hypertension	5-dig billing code	Condition	ICD9CM	Valid	Non-standard
+"44836074	642.21	Other pre-existing hypertension, complicating pregnancy, childbirth, and the puerperium, delivered, with or without mention of antepartum condition	5-dig billing code	Condition	ICD9CM	Valid	Non-standard"
+"44836075	642.24	Other pre-existing hypertension,complicating pregnancy, childbirth, and the puerperium, , postpartum condition or complication	5-dig billing code	Condition	ICD9CM	Valid	Non-standard"
+"44836076	642.30	Transient hypertension of pregnancy, unspecified as to episode of care or not applicable	5-dig billing code	Condition	ICD9CM	Valid	Non-standard"
+"44836077	642.31	Transient hypertension of pregnancy, delivered , with or without mention of antepartum condition	5-dig billing code	Condition	ICD9CM	Valid	Non-standard"
+"44836078	646.23	Unspecified renal disease in pregnancy, without mention of hypertension, antepartum condition or complication	5-dig billing code	Condition	ICD9CM	Valid	Non-standard"
+44837038	365.04	Ocular hypertension	5-dig billing code	Condition	ICD9CM	Valid	Non-standard
+44837098	405.9	Unspecified secondary hypertension	4-dig nonbill code	Condition	ICD9CM	Valid	Non-standard
+44837126	459.33	Chronic venous hypertension with ulcer and inflammation	5-dig billing code	Condition	ICD9CM	Valid	Non-standard
+"44837233	642.20	Other pre-existing hypertension complicating pregnancy, childbirth, and the puerperium, unspecified as to episode of care or not applicable	5-dig billing code	Condition	ICD9CM	Valid	Non-standard"
+"44837235	642.90	Unspecified hypertension complicating pregnancy, childbirth, or the puerperium, unspecified as to episode of care or not applicable	5-dig billing code	Condition	ICD9CM	Valid	Non-standard"
+"44837238	646.20	Unspecified renal disease in pregnancy, without mention of hypertension, unspecified as to episode of care or not applicable	5-dig billing code	Condition	ICD9CM	Valid	Non-standard"
+908254	D000081029	Pulmonary Arterial Hypertension	Main Heading	Condition	MeSH	Valid	Non-standard
+979260	D000075222	Essential Hypertension	Main Heading	Condition	MeSH	Valid	Non-standard
+"979468	C566529	Arterial Occlusive Disease, Progressive, with Hypertension, Heart Defects, Bone Fragility, and Brachysyndactyly	Suppl Concept	Condition	MeSH	Valid	Non-standard"
+979523	C537095	Brachydactyly with hypertension	Suppl Concept	Condition	MeSH	Valid	Non-standard
+45612295	D019586	Intracranial Hypertension	Main Heading	Condition	MeSH	Valid	Non-standard
+"45612356	D046110	Hypertension, Pregnancy-Induced	Main Heading	Condition	MeSH	Valid	Non-standard"
+45612651	C535833	Pulmonary edema of mountaineers	Suppl Concept	Condition	MeSH	Valid	Non-standard
+"45612740	C562386	Hypertension, Essential	Suppl Concept	Condition	MeSH	Invalid	Non-standard"
+"45612747	C562580	Cirrhosis, Familial, with Pulmonary Hypertension	Suppl Concept	Condition	MeSH	Valid	Non-standard"
+45614297	D006973	Hypertension	Main Heading	Condition	MeSH	Valid	Non-standard
+45615155	C537903	Banti's syndrome	Suppl Concept	Condition	MeSH	Valid	Non-standard
+"45615217	C562889	Renal Failure, Progressive, with Hypertension	Suppl Concept	Condition	MeSH	Valid	Non-standard"
+"45615516	D006974	Hypertension, Malignant	Main Heading	Condition	MeSH	Valid	Non-standard"
+"45615517	D006975	Hypertension, Portal	Main Heading	Condition	MeSH	Valid	Non-standard"
+45615686	D011546	Pseudohypoaldosteronism	Main Heading	Condition	MeSH	Valid	Non-standard
+45616065	D059466	White Coat Hypertension	Main Heading	Condition	MeSH	Valid	Non-standard
+45616292	C536282	Familial primary pulmonary hypertension	Condition	Condition	MeSH	Invalid	Non-standard
+"45616663	D006978	Hypertension, Renovascular	Main Heading	Condition	MeSH	Valid	Non-standard"
+45616863	D011225	Pre-Eclampsia	Main Heading	Condition	MeSH	Valid	Non-standard
+45617008	D014647	Varicose Ulcer	Main Heading	Condition	MeSH	Invalid	Non-standard
+45618035	D009798	Ocular Hypertension	Main Heading	Condition	MeSH	Valid	Non-standard
+45618069	D010547	Persistent Fetal Circulation Syndrome	Main Heading	Condition	MeSH	Valid	Non-standard
+45618109	D011559	Pseudotumor Cerebri	Main Heading	Condition	MeSH	Valid	Non-standard
+45618684	C535874	Rowley-Rosenberg syndrome	Suppl Concept	Condition	MeSH	Valid	Non-standard
+"45619094	D006976	Hypertension, Pulmonary	Main Heading	Condition	MeSH	Valid	Non-standard"
+"45619095	D006977	Hypertension, Renal	Main Heading	Condition	MeSH	Valid	Non-standard"
+46256074	D058246	Prehypertension	Main Heading	Condition	MeSH	Valid	Non-standard
+46256128	D065627	Familial Primary Pulmonary Hypertension	Main Heading	Condition	MeSH	Valid	Non-standard
+46256770	C563990	Cerebral Autosomal Recessive Arteriopathy with Subcortical Infarcts and Leukoencephalopathy	Suppl Concept	Condition	MeSH	Valid	Non-standard
+134414	199000005	Pre-eclampsia or eclampsia with pre-existing hypertension - delivered with postnatal complication	Clinical Finding	Condition	SNOMED	Valid	Standard
+135601	198999008	Pre-eclampsia or eclampsia with pre-existing hypertension - delivered	Clinical Finding	Condition	SNOMED	Valid	Standard
+136743	199002002	Pre-eclampsia or eclampsia with pre-existing hypertension - not delivered	Clinical Finding	Condition	SNOMED	Valid	Standard
+136760	198967002	Transient hypertension of pregnancy - not delivered	Clinical Finding	Condition	SNOMED	Valid	Standard
+137940	198965005	Transient hypertension of pregnancy - delivered	Clinical Finding	Condition	SNOMED	Valid	Standard
+141084	198997005	Pre-eclampsia or eclampsia with pre-existing hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+141639	198966006	Transient hypertension of pregnancy - delivered with postnatal complication	Clinical Finding	Condition	SNOMED	Valid	Standard
+192679	75150001	Renal disease in pregnancy AND/OR puerperium without hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+192680	34742003	Portal hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+"192684	198953006	Renal hypertension complicating pregnancy, childbirth and the puerperium - not delivered	Clinical Finding	Condition	SNOMED	Valid	Standard"
+"197930	198949009	Renal hypertension complicating pregnancy, childbirth and the puerperium	Clinical Finding	Condition	SNOMED	Valid	Standard"
+"198215	198954000	Renal hypertension complicating pregnancy, childbirth and the puerperium with postnatal complication	Clinical Finding	Condition	SNOMED	Invalid	Non-standard"
+"200157	198951008	Renal hypertension complicating pregnancy, childbirth and the puerperium - delivered	Clinical Finding	Condition	SNOMED	Valid	Standard"
+201313	38481006	Hypertensive renal disease	Clinical Finding	Condition	SNOMED	Valid	Standard
+"201912	198952001	Renal hypertension complicating pregnancy, childbirth and the puerperium - delivered with postnatal complication	Clinical Finding	Condition	SNOMED	Valid	Standard"
+312648	1201005	Benign essential hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+312902	68267002	Benign intracranial hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+312935	234072000	Venous hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+314090	41114007	Mild pre-eclampsia	Clinical Finding	Condition	SNOMED	Valid	Standard
+"314103	198944004	Benign essential hypertension complicating pregnancy, childbirth and the puerperium - delivered	Clinical Finding	Condition	SNOMED	Valid	Standard"
+"314423	198946002	Benign essential hypertension complicating pregnancy, childbirth and the puerperium - not delivered	Clinical Finding	Condition	SNOMED	Valid	Standard"
+314958	194785008	Benign secondary hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+316866	38341003	Hypertensive disorder	Clinical Finding	Condition	SNOMED	Valid	Standard
+317895	123799005	Renovascular hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+317898	78975002	Malignant essential hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+318437	89242004	Malignant secondary hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+319826	31992008	Secondary hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+320128	59621000	Essential hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+"320456	198945003	Benign essential hypertension complicating pregnancy, childbirth and the puerperium - delivered with postnatal complication	Clinical Finding	Condition	SNOMED	Valid	Standard"
+"321074	199005000	Pre-existing hypertension complicating pregnancy, childbirth and puerperium	Clinical Finding	Condition	SNOMED	Valid	Standard"
+"321080	198941007	Hypertension complicating pregnancy, childbirth and the puerperium	Clinical Finding	Condition	SNOMED	Valid	Standard"
+"321638	198942000	Benign essential hypertension complicating pregnancy, childbirth and the puerperium	Clinical Finding	Condition	SNOMED	Valid	Standard"
+381290	4210003	Ocular hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+433536	46764007	Severe pre-eclampsia	Clinical Finding	Condition	SNOMED	Valid	Standard
+437891	26174007	Primary pulmonary hypertension	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+438204	267202005	Edema or excessive weight gain in pregnancy without mention of hypertension	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+439393	398254007	Pre-eclampsia	Clinical Finding	Condition	SNOMED	Valid	Standard
+439893	44772007	Maternal obesity syndrome	Clinical Finding	Condition	SNOMED	Valid	Standard
+441922	237279007	Transient hypertension of pregnancy	Clinical Finding	Condition	SNOMED	Valid	Standard
+442565	77376005	Gestational edema without hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+"443321	199075004	Edema or excessive weight gain in pregnancy without mention of hypertension, delivered with mention of postpartum complication	Clinical Finding	Condition	SNOMED	Invalid	Non-standard"
+"443322	199074000	Edema or excessive weight gain in pregnancy without mention of hypertension, delivered, with or without mention of antepartum condition	Clinical Finding	Condition	SNOMED	Invalid	Non-standard"
+443771	28119000	Renal hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+762037	286131000119107	Stasis dermatitis of left lower extremity due to peripheral venous hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+762038	286141000119103	Stasis dermatitis of right lower extremity due to peripheral venous hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+762039	286161000119104	Stasis dermatitis and venous ulcer of left lower extremity due to chronic peripheral venous hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+762040	286171000119105	Stasis dermatitis and venous ulcer of right lower extremity due to chronic peripheral venous hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+762973	434431000124103	Hypertensive end stage renal disease	Clinical Finding	Condition	SNOMED	Valid	Standard
+762994	434711000124103	Perioperative hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+3523413	167031000000101	Hypertension resolved	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3523537	171791000000104	Hypertension resolved	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3524343	215281000000101	Chronic peripheral venous hypertension	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3524798	247111000000104	Diastolic hypertension	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3526658	292601000000100	Diastolic hypertension	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3529216	465101000000102	Renal vascular disease due to malignant hypertension (no primary renal disease) associated with renal failure - EDTA (European Dialysis and Transplant Association)	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3531687	544571000000104	Nephropathy NOS in pregnancy without hypertension	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+"3533788	579611000000106	Unspecified hypertension complicating pregnancy, childbirth and the puerperium NOS	Clinical Finding	Condition	SNOMED	Invalid	Non-standard"
+3534305	587111000000100	Pre-eclampsia or eclampsia with pre-existing hypertension unspecified	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3534306	587121000000106	Pre-eclampsia or eclampsia with pre-existing hypertension NOS	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3535048	599291000000108	Secondary malignant hypertension NOS	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3535049	599311000000109	Secondary renovascular hypertension NOS	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+"3535480	606201000000101	Renal hypertension complicating pregnancy, childbirth and the puerperium NOS	Clinical Finding	Condition	SNOMED	Invalid	Non-standard"
+"3535481	606211000000104	Other pre-existing hypertension complicating pregnancy, childbirth and the puerperium	Clinical Finding	Condition	SNOMED	Invalid	Non-standard"
+"3535482	606231000000107	Other pre-existing hypertension complicating pregnancy, childbirth and the puerperium - not delivered	Clinical Finding	Condition	SNOMED	Invalid	Non-standard"
+"3535642	608991000000100	Renal hypertension complicating pregnancy, childbirth and the puerperium unspecified	Clinical Finding	Condition	SNOMED	Invalid	Non-standard"
+"3535645	609011000000103	Other pre-existing hypertension complicating pregnancy, childbirth and the puerperium - delivered	Clinical Finding	Condition	SNOMED	Invalid	Non-standard"
+"3536733	624641000000104	Unspecified hypertension complicating pregnancy, childbirth and the puerperium - delivered with postnatal complication	Clinical Finding	Condition	SNOMED	Invalid	Non-standard"
+"3536734	624651000000101	Unspecified hypertension complicating pregnancy, childbirth and the puerperium - not delivered	Clinical Finding	Condition	SNOMED	Invalid	Non-standard"
+"3536931	627801000000105	Other pre-existing hypertension complicating pregnancy, childbirth and the puerperium NOS	Clinical Finding	Condition	SNOMED	Invalid	Non-standard"
+"3537162	631561000000101	Unspecified hypertension complicating pregnancy, childbirth and the puerperium - delivered	Clinical Finding	Condition	SNOMED	Invalid	Non-standard"
+"3539077	659061000000108	Unspecified hypertension complicating pregnancy, childbirth and the puerperium	Clinical Finding	Condition	SNOMED	Invalid	Non-standard"
+3540081	674201000000103	Hypertension of pregnancy NOS	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3540800	684211000000107	Essential hypertension NOS	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+"3541386	692791000000102	Benign essential hypertension complicating pregnancy, childbirth and the puerperium unspecified	Clinical Finding	Condition	SNOMED	Invalid	Non-standard"
+3541588	695701000000102	Transient hypertension of pregnancy unspecified	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3541589	695711000000100	Transient hypertension of pregnancy NOS	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3544155	778191000000102	Thromboembolic pulmonary hypertension	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3545642	843831000000100	Stage 1 hypertension	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3545643	843851000000107	Severe hypertension	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3545660	845901000000102	Hypertension resistant to drug therapy	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3545667	846381000000101	Stage 2 hypertension (NICE - National Institute for Health and Clinical Excellence 2011)	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3546634	908641000000104	Stage 1 hypertension (NICE - National Institute for Health and Clinical Excellence 2011) without evidence of end organ damage	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3546635	908661000000103	Stage 1 hypertension (NICE - National Institute for Health and Clinical Excellence 2011) with evidence of end organ damage	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3556614	434421000124101	Hypertensive chronic kidney disease	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3563470	599301000000107	Secondary hypertension NOS	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3564926	444371000000102	Renal vascular disease due to hypertension (no primary renal disease) associated with renal failure - EDTA (European Dialysis and Transplant Association)	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3567342	199541000000107	Chronic peripheral venous hypertension	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3568105	586581000000102	Secondary benign hypertension NOS	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3570693	445011000124101	Stasis dermatitis of lower extremity due to chronic peripheral vascular hypertension	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+"3573654	692801000000103	Benign essential hypertension complicating pregnancy, childbirth and the puerperium NOS	Clinical Finding	Condition	SNOMED	Invalid	Non-standard"
+"3574573	529011000000101	Oedema or excessive weight gain in pregnancy without mention of hypertension, delivered, with or without mention of antepartum condition	Clinical Finding	Condition	SNOMED	Invalid	Non-standard"
+"3574574	529021000000107	Oedema or excessive weight gain in pregnancy without mention of hypertension, delivered with mention of postpartum complication	Clinical Finding	Condition	SNOMED	Invalid	Non-standard"
+3574575	529411000000107	Oedema or excessive weight gain in pregnancy without mention of hypertension with postnatal complication	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3574576	530951000000107	Oedema or excessive weight gain in pregnancy without mention of hypertension	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+"3574577	531121000000108	Oedema or excessive weight gain in pregnancy without mention of hypertension, not delivered during current episode of care	Clinical Finding	Condition	SNOMED	Invalid	Non-standard"
+"3574582	606811000000103	Oedema or excessive weight gain in pregnancy without mention of hypertension, unspecified as to episode of care	Clinical Finding	Condition	SNOMED	Invalid	Non-standard"
+"3583122	606221000000105	Other pre-existing hypertension complicating pregnancy, childbirth and the puerperium unspecified	Clinical Finding	Condition	SNOMED	Invalid	Non-standard"
+"3583171	609021000000109	Other pre-existing hypertension complicating pregnancy, childbirth and the puerperium - delivered with postnatal complication	Clinical Finding	Condition	SNOMED	Invalid	Non-standard"
+"3583421	627791000000106	Other pre-existing hypertension complicating pregnancy, childbirth and the puerperium with postnatal complication	Clinical Finding	Condition	SNOMED	Invalid	Non-standard"
+"3583483	631591000000107	Unspecified hypertension complicating pregnancy, childbirth and the puerperium with postnatal complication	Clinical Finding	Condition	SNOMED	Invalid	Non-standard"
+"3583760	650751000000100	Unspecified hypertension complicating pregnancy, childbirth and the puerperium unspecified	Clinical Finding	Condition	SNOMED	Invalid	Non-standard"
+3654816	840306007	Mild pulmonary hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+3654817	840307003	Moderate pulmonary hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+3654818	840308008	Severe pulmonary hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+3655849	870324000	Ocular hypertension due to birth injury	Clinical Finding	Condition	SNOMED	Valid	Standard
+3656115	871642009	Hypertension due to aortic arch obstruction	Clinical Finding	Condition	SNOMED	Valid	Standard
+4006325	111438007	Hypertension secondary to renal disease in obstetric context	Clinical Finding	Condition	SNOMED	Valid	Standard
+4009719	102932008	Fear of hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+4013643	11399002	Pulmonary arterial hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+4023318	10562009	Malignant hypertension complicating AND/OR reason for care during childbirth	Clinical Finding	Condition	SNOMED	Valid	Standard
+4024560	106005003	Hypertension AND/OR vomiting complicating pregnancy childbirth AND/OR puerperium	Clinical Finding	Condition	SNOMED	Valid	Standard
+4028741	10725009	Benign hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+4028951	23786008	Malignant hypertension complicating AND/OR reason for care during puerperium	Clinical Finding	Condition	SNOMED	Valid	Standard
+4032952	14973001	Renal sclerosis with hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+4033160	10964002	Progressive pulmonary hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+4034031	23717007	Benign essential hypertension complicating AND/OR reason for care during pregnancy	Clinical Finding	Condition	SNOMED	Valid	Standard
+4034083	237231000	Nephropathy NOS in pregnancy without hypertension	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+4034094	237281009	Moderate proteinuric hypertension of pregnancy	Clinical Finding	Condition	SNOMED	Valid	Standard
+4038245	162659009	Hypertension resolved	Clinical Finding	Condition	SNOMED	Valid	Standard
+4048212	123800009	Goldblatt hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+4049389	23130000	Paroxysmal hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+4055971	16756008	Albuminuria in pregnancy without hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+"4057971	198943005	Benign essential hypertension complicating pregnancy, childbirth and the puerperium unspecified	Clinical Finding	Condition	SNOMED	Invalid	Non-standard"
+"4057972	198948001	Benign essential hypertension complicating pregnancy, childbirth and the puerperium NOS	Clinical Finding	Condition	SNOMED	Invalid	Non-standard"
+4057973	198964009	Transient hypertension of pregnancy unspecified	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+"4057979	199008003	Pre-existing secondary hypertension complicating pregnancy, childbirth and puerperium	Clinical Finding	Condition	SNOMED	Valid	Standard"
+"4058088	199012009	Unspecified hypertension complicating pregnancy, childbirth and the puerperium	Clinical Finding	Condition	SNOMED	Invalid	Non-standard"
+4058530	198956003	Other pre-existing hypertension in preg/childbirth/puerp	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+"4058531	198957007	Other pre-existing hypertension complicating pregnancy, childbirth and the puerperium unspecified	Clinical Finding	Condition	SNOMED	Invalid	Non-standard"
+"4058532	198959005	Other pre-existing hypertension complicating pregnancy, childbirth and the puerperium - delivered with postnatal complication	Clinical Finding	Condition	SNOMED	Invalid	Non-standard"
+4058533	198971004	Transient hypertension of pregnancy NOS	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+4058539	199004001	Pre-eclampsia or eclampsia with pre-existing hypertension NOS	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+"4058540	199013004	Unspecified hypertension complicating pregnancy, childbirth and the puerperium unspecified	Clinical Finding	Condition	SNOMED	Invalid	Non-standard"
+"4058542	199018008	Unspecified hypertension complicating pregnancy, childbirth and the puerperium with postnatal complication	Clinical Finding	Condition	SNOMED	Invalid	Non-standard"
+4058987	19769006	High-renin essential hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+"4060288	199073006	Edema or excessive weight gain in pregnancy without mention of hypertension, unspecified as to episode of care	Clinical Finding	Condition	SNOMED	Invalid	Non-standard"
+4060289	199077007	Edema or excessive weight gain in pregnancy without mention of hypertension with postnatal complication	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+4061667	169465000	Hypertension induced by oral contraceptive pill	Clinical Finding	Condition	SNOMED	Valid	Standard
+"4062424	198950009	Renal hypertension complicating pregnancy, childbirth and the puerperium unspecified	Clinical Finding	Condition	SNOMED	Invalid	Non-standard"
+"4062425	198955004	Renal hypertension complicating pregnancy, childbirth and the puerperium NOS	Clinical Finding	Condition	SNOMED	Invalid	Non-standard"
+4062549	198998000	Pre-eclampsia or eclampsia with pre-existing hypertension unspecified	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+4062550	199003007	Pre-eclampsia or eclampsia with pre-existing hypertension with postnatal complication	Clinical Finding	Condition	SNOMED	Valid	Standard
+"4062554	199017003	Unspecified hypertension complicating pregnancy, childbirth and the puerperium - not delivered	Clinical Finding	Condition	SNOMED	Invalid	Non-standard"
+"4062555	199019000	Unspecified hypertension complicating pregnancy, childbirth and the puerperium NOS	Clinical Finding	Condition	SNOMED	Invalid	Non-standard"
+4062671	199139003	Pregnancy-induced edema and proteinuria without hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+"4062811	198947006	Benign essential hypertension complicating pregnancy, childbirth and the puerperium with postnatal complication	Clinical Finding	Condition	SNOMED	Valid	Standard"
+"4062812	198958002	Other pre-existing hypertension complicating pregnancy, childbirth and the puerperium - delivered	Clinical Finding	Condition	SNOMED	Invalid	Non-standard"
+"4062902	198960000	Other pre-existing hypertension complicating pregnancy, childbirth and the puerperium - not delivered	Clinical Finding	Condition	SNOMED	Invalid	Non-standard"
+"4062904	198961001	Other pre-existing hypertension complicating pregnancy, childbirth and the puerperium with postnatal complication	Clinical Finding	Condition	SNOMED	Invalid	Non-standard"
+"4062905	198962008	Other pre-existing hypertension complicating pregnancy, childbirth and the puerperium NOS	Clinical Finding	Condition	SNOMED	Invalid	Non-standard"
+4062906	198968007	Transient hypertension of pregnancy with postnatal complication	Clinical Finding	Condition	SNOMED	Valid	Standard
+"4062908	199014005	Unspecified hypertension complicating pregnancy, childbirth and the puerperium - delivered	Clinical Finding	Condition	SNOMED	Invalid	Non-standard"
+"4062909	199015006	Unspecified hypertension complicating pregnancy, childbirth and the puerperium - delivered with postnatal complication	Clinical Finding	Condition	SNOMED	Invalid	Non-standard"
+"4062918	199076003	Edema or excessive weight gain in pregnancy without mention of hypertension, not delivered during current episode of care	Clinical Finding	Condition	SNOMED	Invalid	Non-standard"
+4071202	206596003	Neonatal hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+4080325	24042004	Chronic hypertension complicating AND/OR reason for care during puerperium	Clinical Finding	Condition	SNOMED	Valid	Standard
+4081038	276792008	Pulmonary hypertension with extreme obesity	Clinical Finding	Condition	SNOMED	Valid	Standard
+4081039	276793003	Pulmonary hypertension with occult mitral stenosis	Clinical Finding	Condition	SNOMED	Valid	Standard
+4081040	276794009	Facultative pulmonary hypertension with shunt at atrial level	Clinical Finding	Condition	SNOMED	Valid	Standard
+4083723	18416000	Essential hypertension complicating AND/OR reason for care during childbirth	Clinical Finding	Condition	SNOMED	Valid	Standard
+4094374	26078007	Hypertension secondary to renal disease complicating AND/OR reason for care during childbirth	Clinical Finding	Condition	SNOMED	Valid	Standard
+4108213	194791005	Hypertension secondary to drug	Clinical Finding	Condition	SNOMED	Valid	Standard
+4108666	194787000	Secondary benign hypertension NOS	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+4108667	194790006	Secondary renovascular hypertension NOS	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+4110947	194783001	Malignant secondary renovascular hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+4110948	194788005	Hypertension secondary to endocrine disorder	Clinical Finding	Condition	SNOMED	Valid	Standard
+4110949	194789002	Secondary hypertension NOS	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+4111387	194784007	Secondary malignant hypertension NOS	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+4118910	288250001	Maternal hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+4119611	233944003	Familial primary pulmonary hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+4120092	233941006	Solitary pulmonary hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+4120093	233946001	Large vessel pulmonary hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+4120094	233947005	Chronic thromboembolic pulmonary hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+4120095	233948000	Post-arteritic pulmonary hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+4120257	234075003	Venous hypertension of lower limb	Clinical Finding	Condition	SNOMED	Valid	Standard
+4121462	233815004	Persistent pulmonary hypertension of the newborn	Clinical Finding	Condition	SNOMED	Valid	Standard
+4121619	233942004	Small vessel pulmonary hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+4121620	233945002	Pulmonary arterial hypertension induced by drug	Clinical Finding	Condition	SNOMED	Valid	Standard
+4121622	233951007	Pulmonary hypertension associated with septal defect / shunt	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+4124831	233943009	Sporadic primary pulmonary hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+4124832	233950008	Pulmonary hypertension associated with chronic underventilation	Clinical Finding	Condition	SNOMED	Valid	Standard
+4124833	233954004	Pulmonary hypertension due to chronic exposure to high altitude	Clinical Finding	Condition	SNOMED	Valid	Standard
+4124864	234073005	Venous hypertension of upper limb	Clinical Finding	Condition	SNOMED	Valid	Standard
+4124865	234074004	Venous hypertension of hand	Clinical Finding	Condition	SNOMED	Valid	Standard
+4129019	237230004	Uremia in pregnancy without hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+4138307	426012001	Right heart failure due to pulmonary hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+4143966	266228004	Essential hypertension NOS	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+4146627	307632004	Non-proteinuric hypertension of pregnancy	Clinical Finding	Condition	SNOMED	Valid	Standard
+4146816	34694006	Pre-existing hypertension complicating AND/OR reason for care during childbirth	Clinical Finding	Condition	SNOMED	Valid	Standard
+4148205	35303009	Benign essential hypertension complicating AND/OR reason for care during puerperium	Clinical Finding	Condition	SNOMED	Valid	Standard
+4150005	267307002	Hypertension of pregnancy NOS	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+4151903	31407004	Pre-existing hypertension complicating AND/OR reason for care during puerperium	Clinical Finding	Condition	SNOMED	Valid	Standard
+4159755	371125006	Labile essential hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+4162306	29259002	Malignant hypertension complicating AND/OR reason for care during pregnancy	Clinical Finding	Condition	SNOMED	Valid	Standard
+4167358	48146000	Diastolic hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+4167493	48194001	Pregnancy-induced hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+4174760	276789009	Labile hypertension	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+4174979	48552006	Hypertension secondary to renal disease complicating AND/OR reason for care during pregnancy	Clinical Finding	Condition	SNOMED	Valid	Standard
+4178312	428575007	Hypertension secondary to kidney transplant	Clinical Finding	Condition	SNOMED	Valid	Standard
+4179379	429198000	Exertional hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+4180283	429457004	Systolic essential hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+4199306	52698002	Transient hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+4205410	308551004	Gestational hypertension	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+4209293	56218007	Systolic hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+4212496	57684003	Parenchymal renal hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+4215640	71874008	Benign essential hypertension complicating AND/OR reason for care during childbirth	Clinical Finding	Condition	SNOMED	Valid	Standard
+4217486	72022006	Essential hypertension in obstetric context	Clinical Finding	Condition	SNOMED	Valid	Standard
+4218088	81626002	Malignant hypertension in obstetric context	Clinical Finding	Condition	SNOMED	Valid	Standard
+4219323	39727004	Hypertension secondary to renal disease complicating AND/OR reason for care during puerperium	Clinical Finding	Condition	SNOMED	Valid	Standard
+4221991	84094009	Rebound hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+4227607	8762007	Chronic hypertension in obstetric context	Clinical Finding	Condition	SNOMED	Valid	Standard
+4233689	360573001	Postcapillary pulmonary hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+4235804	360578005	Pulmonary hypertension secondary to raised pulmonary vascular resistance	Clinical Finding	Condition	SNOMED	Valid	Standard
+4242878	59720008	Sustained diastolic hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+4243055	59997006	Endocrine hypertension	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+4249016	73410007	Benign secondary renovascular hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+4253928	74451002	Secondary diastolic hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+4262182	397748008	Hypertension with albuminuria	Clinical Finding	Condition	SNOMED	Valid	Standard
+4263067	46481004	Low-renin essential hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+4268006	6183001	Indian childhood cirrhosis	Clinical Finding	Condition	SNOMED	Valid	Standard
+4269358	63287004	Benign essential hypertension in obstetric context	Clinical Finding	Condition	SNOMED	Valid	Standard
+4276511	65518004	Labile diastolic hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+4277110	65402008	Pre-existing hypertension complicating AND/OR reason for care during pregnancy	Clinical Finding	Condition	SNOMED	Valid	Standard
+4279525	367390009	Hypertension in the obstetric context	Clinical Finding	Condition	SNOMED	Valid	Standard
+4283352	67359005	Pre-eclampsia added to pre-existing hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+4289142	69909000	Eclampsia added to pre-existing hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+4289933	70272006	Malignant hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+4291458	402832006	Telangiectasia due to venous hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+4291933	37618003	Chronic hypertension complicating AND/OR reason for care during pregnancy	Clinical Finding	Condition	SNOMED	Valid	Standard
+4302591	78808002	Essential hypertension complicating AND/OR reason for care during pregnancy	Clinical Finding	Condition	SNOMED	Valid	Standard
+4304837	8218002	Chronic hypertension complicating AND/OR reason for care during childbirth	Clinical Finding	Condition	SNOMED	Valid	Standard
+4305599	39018007	Renal arterial hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+4311246	86041002	Pre-existing hypertension in obstetric context	Clinical Finding	Condition	SNOMED	Valid	Standard
+4313767	423674003	Chronic peripheral venous hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+4317265	95343001	Hypertensive ischemic ulcer	Clinical Finding	Condition	SNOMED	Valid	Standard
+4321603	9901000	Essential hypertension complicating AND/OR reason for care during puerperium	Clinical Finding	Condition	SNOMED	Valid	Standard
+4322024	70995007	Pulmonary hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+4322735	427889009	Hypertension associated with transplantation	Clinical Finding	Condition	SNOMED	Valid	Standard
+4337510	87394009	Episodic pulmonary hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+4339214	88223008	Secondary pulmonary hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+35624277	766937004	Hypertension due to gain-of-function mutation in mineralocorticoid receptor	Clinical Finding	Condition	SNOMED	Valid	Standard
+"36679002	776416004	Hyperuricemia, pulmonary hypertension, renal failure, alkalosis syndrome	Clinical Finding	Condition	SNOMED	Valid	Standard"
+36684653	334831000119106	Hypertension with disorder of right retina	Clinical Finding	Condition	SNOMED	Valid	Standard
+36684718	340441000119107	Hypertension with disorder of left retina	Clinical Finding	Condition	SNOMED	Valid	Standard
+36684780	345771000119101	Bilateral hypertension with disorder of retinas	Clinical Finding	Condition	SNOMED	Valid	Standard
+36712757	108701000119102	Cardiomyopathy due to hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+36713024	16229371000119106	Labile systemic arterial hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+36713482	717824007	Grange syndrome	Clinical Finding	Condition	SNOMED	Valid	Standard
+36715087	720568003	Brachydactyly and arterial hypertension syndrome	Clinical Finding	Condition	SNOMED	Valid	Standard
+36715093	720575002	Braddock syndrome	Clinical Finding	Condition	SNOMED	Valid	Standard
+36716526	722559005	Fetal or neonatal effect of maternal gestational edema and proteinuria without hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+36716711	722867009	Idiopathic portal hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+37016726	712832005	Supine hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+37017293	713542007	Portal hypertension caused by antiretroviral drug	Clinical Finding	Condition	SNOMED	Valid	Standard
+37018886	111411000119103	End stage renal disease due to hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+37110281	724485008	Gestational proteinuria without hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+37204406	783058007	Autosomal recessive severe congenital neutropenia due to G6PC3 deficiency	Clinical Finding	Condition	SNOMED	Valid	Standard
+37207508	62011000000100	Secondary ocular hypertension due to steroid	Clinical Finding	Condition	SNOMED	Valid	Standard
+37208172	461301000124109	Resistant hypertensive disorder	Clinical Finding	Condition	SNOMED	Valid	Standard
+37208890	1110081000000100	Primary ocular hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+37208891	1110091000000103	Secondary ocular hypertension due to pseudoexfoliation	Clinical Finding	Condition	SNOMED	Valid	Standard
+37208892	1110101000000106	Secondary ocular hypertension due to pigment dispersion syndrome	Clinical Finding	Condition	SNOMED	Valid	Standard
+37208893	1110111000000108	Secondary ocular hypertension due to uveitis	Clinical Finding	Condition	SNOMED	Valid	Standard
+37208894	1110121000000102	Secondary ocular hypertension due to aphakia	Clinical Finding	Condition	SNOMED	Valid	Standard
+37208895	1110131000000100	Secondary ocular hypertension due to neovascularisation	Clinical Finding	Condition	SNOMED	Valid	Standard
+37208896	1110141000000109	Secondary ocular hypertension due to ocular trauma	Clinical Finding	Condition	SNOMED	Valid	Standard
+37208897	1110151000000107	Secondary ocular hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+37311147	827069000	Hypertension stage 1	Clinical Finding	Condition	SNOMED	Valid	Standard
+37311148	827068008	Hypertension stage 2	Clinical Finding	Condition	SNOMED	Valid	Standard
+40282397	1218009	Accelerated essential hypertension	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40317583	155821005	Portal hypertension	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40318654	156105009	Pregnancy with hypertension (& [pre-existing])	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40318655	156106005	Hypertension of pregnancy (& [pre-eclampsia])	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40318656	156107001	Transient hypertension of pregnancy	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40318659	156110008	Severe proteinuric hypertension of pregnancy	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40318662	156112000	Hypertension of pregnancy NOS	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40322494	157038006	Maternal hypertension	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40322771	155052007	(Benign intracranial hypertension) or (intracranial pressure: [raised] or [increased])	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40322848	155121008	(Borderline glaucoma) or (ocular hypertension) or (increased intra-ocular pressure)	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40323436	155295004	(Hypertensive disease) or (hypertension)	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40323437	155296003	Essential hypertension	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40323857	155300002	Secondary hypertension	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40323860	155301003	Malignant hypertension	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40323889	155328008	Pulmonary hypertension (& [primary])	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40345175	266287006	(Hypertensive disease) or (hypertension)	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40345182	266293003	Pulmonary hypertension (& [primary])	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40351928	267701004	(Benign intracranial hypertension) or (intracranial pressure: [raised] or [increased])	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40352352	267721003	(Borderline glaucoma) or (ocular hypertension) or (increased intra-ocular pressure)	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40353825	274559001	[EDTA] Renal vascular disease due to hypertension (no primary renal disease) associated with renal failure	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40353826	274560006	[EDTA] Renal vascular disease due to malignant hypertension (no primary renal disease) associated with renal failure	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40357906	271367009	Non-proteinuric hypertension of pregnancy	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40358543	267305005	Pregnancy with hypertension (& [pre-existing])	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40358544	267306006	Hypertension of pregnancy (& [pre-eclampsia])	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40373519	286951002	Malignant hypertension	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40385601	193536008	(Ocular hypertension) or (raised intra-ocular pressure - finding or diagnosis)	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40393963	198963003	Hypertension of pregnancy (& [gestational] or [transient])	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40394109	195538006	[X]Other secondary hypertension	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40394110	195539003	[X]Hypertension secondary to other renal disorders	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40394309	198969004	Hypertension induced by pregnancy	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40394310	198970003	Transient hypertension of pregnancy	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40394323	198981000	Severe proteinuric hypertension of pregnancy	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40394355	199009006	Moderate proteinuric hypertension of pregnancy	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40394358	199011002	Proteinuric hypertension of pregnancy	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40394746	199072001	(Gestational edema &/or non-hypertension excessive weight gain) or (maternal obesity syndrome)	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40394753	199079005	Renal disease in pregnancy (& [named variants without hypertension] or [unspecified])	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40398392	194757006	High blood pressure (& [essential hypertension])	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40398393	194758001	Benign essential hypertension	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40398394	194759009	Systolic hypertension	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40398396	194760004	Hypertension NOS (& [essential])	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40398412	194775007	(Renal hypertension) or (hypertensive renal disease NOS)	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40398424	194786009	Secondary benign renovascular hypertension	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40398431	194792003	Secondary hypertension NOS	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40398920	194888002	Secondary pulmonary hypertension	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40429387	233952000	Pulmonary hypertension secondary to left sided heart disease	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40429408	22857008	Malignant secondary renovascular hypertension	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40443906	237232007	Albuminuria in pregnancy without hypertension	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40482858	445237003	Pulmonary arterial hypertension associated with portal hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+40484842	44111003	Benign secondary hypertension	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40505836	30354006	Transient hypertension of pregnancy	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40530211	32966004	Hypertension in the obstetric context	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40557800	390090009	White coat hypertension	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40562800	389359009	White coat hypertension	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40563470	391214004	White coat hypertension	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40603936	49863005	Accelerated secondary hypertension	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40619422	6758009	Pre-eclampsia	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+42538697	762463000	Diastolic hypertension and systolic hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+42538946	82771000119102	Hypertension complicating pregnancy	Clinical Finding	Condition	SNOMED	Valid	Standard
+42709887	449759005	Hypertensive complication	Clinical Finding	Condition	SNOMED	Valid	Standard
+"42873163	541000119105	Hypertension complicating pregnancy, childbirth and the puerperium, antepartum	Clinical Finding	Condition	SNOMED	Valid	Standard"
+43020833	472749004	Coronary sinus hypertension as complication of procedure	Clinical Finding	Condition	SNOMED	Valid	Standard
+43020840	472758006	Pulmonary venous hypertension due to compression of pulmonary great vein	Clinical Finding	Condition	SNOMED	Valid	Standard
+43020841	472759003	Pulmonary venous hypertension due to compression of pulmonary great vein by sclerosing mediastinitis	Clinical Finding	Condition	SNOMED	Valid	Standard
+43020842	472760008	Pulmonary venous hypertension due to compression of pulmonary great vein by lymphadenopathy	Clinical Finding	Condition	SNOMED	Valid	Standard
+43020910	472790001	Pulmonary hypertension due to left heart disease	Clinical Finding	Condition	SNOMED	Valid	Standard
+43021830	5501000119106	Postoperative hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+43021932	472757001	Pulmonary venous hypertension as complication of procedure	Clinical Finding	Condition	SNOMED	Valid	Standard
+43021933	472761007	Pulmonary venous hypertension due to compression of pulmonary great vein by neoplasm	Clinical Finding	Condition	SNOMED	Valid	Standard
+43022028	461321006	Right ventricular hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+44782429	104931000119100	Chronic kidney disease due to hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+44782560	697898008	Idiopathic pulmonary arterial hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+44782561	697901009	Pulmonary arterial hypertension induced by toxin	Clinical Finding	Condition	SNOMED	Valid	Standard
+44782562	697906004	Pulmonary arterial hypertension associated with congenital systemic-to-pulmonary shunt	Clinical Finding	Condition	SNOMED	Valid	Standard
+44782563	697911002	Pulmonary hypertension due to chronic obstructive pulmonary disease	Clinical Finding	Condition	SNOMED	Valid	Standard
+44782564	697917003	Pulmonary hypertension due to hematological disorder	Clinical Finding	Condition	SNOMED	Valid	Standard
+44782565	697922003	Pulmonary hypertension in Langerhans cell histiocytosis	Clinical Finding	Condition	SNOMED	Valid	Standard
+44782566	697927009	Pulmonary hypertension due to left-sided valvular heart disease	Clinical Finding	Condition	SNOMED	Valid	Standard
+44782689	129151000119102	Chronic kidney disease stage 4 due to hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+44782690	129161000119100	Chronic kidney disease stage 5 due to hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+44782691	129171000119106	Chronic kidney disease stage 3 due to hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+44782692	129181000119109	Chronic kidney disease stage 2 due to hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+44782703	117681000119102	Chronic kidney disease stage 1 due to hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+44782715	153811000119105	Chronic peripheral venous hypertension with lower extremity complication	Clinical Finding	Condition	SNOMED	Valid	Standard
+44782716	153831000119100	Venous ulcer of lower extremity due to chronic peripheral venous hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+44782717	153891000119101	End stage renal disease on dialysis due to hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+44782841	698838008	Benign intracranial hypertension due to drug	Clinical Finding	Condition	SNOMED	Valid	Standard
+44782842	698839000	Benign intracranial hypertension due to hypervitaminosis A	Clinical Finding	Condition	SNOMED	Valid	Standard
+44783617	697896007	Precapillary pulmonary hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+44783618	697897003	Heritable pulmonary arterial hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+44783619	697899000	Heritable pulmonary arterial hypertension due to BMPR2 mutation	Clinical Finding	Condition	SNOMED	Valid	Standard
+44783620	697900005	Heritable pulmonary arterial hypertension due to ALK1 or endoglin mutation	Clinical Finding	Condition	SNOMED	Valid	Standard
+44783621	697902002	Associated pulmonary arterial hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+44783622	697903007	Pulmonary arterial hypertension associated with connective tissue disease	Clinical Finding	Condition	SNOMED	Valid	Standard
+44783623	697904001	Pulmonary arterial hypertension associated with HIV infection	Clinical Finding	Condition	SNOMED	Valid	Standard
+44783624	697905000	Pulmonary arterial hypertension associated with congenital heart disease	Clinical Finding	Condition	SNOMED	Valid	Standard
+44783625	697907008	Pulmonary arterial hypertension associated with schistosomiasis	Clinical Finding	Condition	SNOMED	Valid	Standard
+44783626	697908003	Pulmonary arterial hypertension associated with chronic hemolytic anemia	Clinical Finding	Condition	SNOMED	Valid	Standard
+44783628	697910001	Pulmonary hypertension due to lung disease and/or hypoxia	Clinical Finding	Condition	SNOMED	Valid	Standard
+44783629	697912009	Pulmonary hypertension due to interstitial lung disease	Clinical Finding	Condition	SNOMED	Valid	Standard
+44783630	697913004	Pulmonary hypertension due to pulmonary disease with mixed restrictive and obstructive pattern	Clinical Finding	Condition	SNOMED	Valid	Standard
+44783631	697914005	Pulmonary hypertension due to sleep-disordered breathing	Clinical Finding	Condition	SNOMED	Valid	Standard
+44783632	697915006	Pulmonary hypertension due to alveolar hypoventilation disorder	Clinical Finding	Condition	SNOMED	Valid	Standard
+44783633	697916007	Pulmonary hypertension due to developmental abnormality of the lung	Clinical Finding	Condition	SNOMED	Valid	Standard
+44783634	697918008	Pulmonary hypertension due to myeloproliferative disorder	Clinical Finding	Condition	SNOMED	Valid	Standard
+44783635	697919000	Pulmonary hypertension due to post-splenectomy hematological disorder	Clinical Finding	Condition	SNOMED	Valid	Standard
+44783636	697920006	Pulmonary hypertension in systemic disorder	Clinical Finding	Condition	SNOMED	Valid	Standard
+44783637	697921005	Pulmonary hypertension in sarcoidosis	Clinical Finding	Condition	SNOMED	Valid	Standard
+44783638	697923008	Pulmonary hypertension in lymphangioleiomyomatosis	Clinical Finding	Condition	SNOMED	Valid	Standard
+44783639	697924002	Pulmonary hypertension in neurofibromatosis	Clinical Finding	Condition	SNOMED	Valid	Standard
+44783640	697925001	Pulmonary hypertension due to systolic systemic ventricular dysfunction	Clinical Finding	Condition	SNOMED	Valid	Standard
+44783641	697926000	Pulmonary hypertension due to diastolic systemic ventricular dysfunction	Clinical Finding	Condition	SNOMED	Valid	Standard
+44783642	697928004	Pulmonary venous hypertension due to congenital stenosis of pulmonary vein	Clinical Finding	Condition	SNOMED	Valid	Standard
+44783643	697929007	Intermittent hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+44783644	697930002	Labile hypertension due to being in a clinical environment	Clinical Finding	Condition	SNOMED	Valid	Standard
+44784483	698638005	Pregnancy induced hypertension with pulmonary edema	Clinical Finding	Condition	SNOMED	Valid	Standard
+44784484	698640000	Hypertension in the puerperium with pulmonary edema	Clinical Finding	Condition	SNOMED	Valid	Standard
+44795761	414391000000105	[X]Other secondary hypertension	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+44796214	419571000000103	[X]Hypertension secondary to other renal disorders	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+"44802511	502541000000105	[D]Blood pressure raised, hypertension not diagnosed	Context-dependent	Condition	SNOMED	Invalid	Non-standard"
+44809026	843821000000102	Stage 1 hypertension (NICE - National Institute for Health and Clinical Excellence 2011)	Clinical Finding	Condition	SNOMED	Valid	Standard
+44809027	843841000000109	Severe hypertension (NICE - National Institute for Health and Clinical Excellence 2011)	Clinical Finding	Condition	SNOMED	Valid	Standard
+44809548	845891000000103	Hypertension resistant to drug therapy	Clinical Finding	Condition	SNOMED	Valid	Standard
+44809569	846371000000103	Stage 2 hypertension (NICE - National Institute for Health and Clinical Excellence 2011)	Clinical Finding	Condition	SNOMED	Valid	Standard
+44811110	863191000000102	Nocturnal hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+44811932	908631000000108	Stage 1 hypertension (NICE 2011) without evidence of end organ damage	Clinical Finding	Condition	SNOMED	Valid	Standard
+44811933	908651000000101	Stage 1 hypertension (NICE 2011) with evidence of end organ damage	Clinical Finding	Condition	SNOMED	Valid	Standard
+45757119	10752641000119102	Eclampsia with pre-existing hypertension in childbirth	Clinical Finding	Condition	SNOMED	Valid	Standard
+45757392	127991000119101	Hypertension concurrent and due to end stage renal disease on dialysis due to type 2 diabetes mellitus	Clinical Finding	Condition	SNOMED	Valid	Standard
+45757393	128001000119105	Hypertension concurrent and due to end stage renal disease on dialysis due to type 1 diabetes mellitus	Clinical Finding	Condition	SNOMED	Valid	Standard
+45757444	140101000119109	Hypertension in chronic kidney disease stage 5 due to type 2 diabetes mellitus	Clinical Finding	Condition	SNOMED	Valid	Standard
+45757445	140111000119107	Hypertension in chronic kidney disease stage 4 due to type 2 diabetes mellitus	Clinical Finding	Condition	SNOMED	Valid	Standard
+45757446	140121000119100	Hypertension in chronic kidney disease stage 3 due to type 2 diabetes mellitus	Clinical Finding	Condition	SNOMED	Valid	Standard
+45757447	140131000119102	Hypertension in chronic kidney disease stage 2 due to type 2 diabetes mellitus	Clinical Finding	Condition	SNOMED	Valid	Standard
+45757756	367821000119106	Page kidney	Clinical Finding	Condition	SNOMED	Valid	Standard
+45757787	40511000119107	Postpartum pre-existing essential hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+45757788	40521000119100	Postpartum pregnancy-induced hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+45766198	703310005	Autosomal dominant progressive nephropathy with hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+45766237	703355003	Pulmonary hypertension due to vasculitis	Clinical Finding	Condition	SNOMED	Valid	Standard
+45771016	707413005	Chronic pulmonary thromboembolism without pulmonary hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+45771017	707420003	Portal hypertension due to cystic fibrosis	Clinical Finding	Condition	SNOMED	Valid	Standard
+45771064	71421000119105	Hypertension in chronic kidney disease due to type 2 diabetes mellitus	Clinical Finding	Condition	SNOMED	Valid	Standard
+45771067	71701000119105	Hypertension in chronic kidney disease due to type 1 diabetes mellitus	Clinical Finding	Condition	SNOMED	Valid	Standard
+45772751	704667004	Hypertension concurrent and due to end stage renal disease on dialysis	Clinical Finding	Condition	SNOMED	Valid	Standard
+46270153	153871000119102	Stasis dermatitis and venous ulcer of lower extremity due to chronic peripheral venous hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+46270353	284961000119106	Chronic kidney disease due to benign hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+46270354	284971000119100	Chronic kidney disease stage 1 due to benign hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+46270355	284981000119102	Chronic kidney disease stage 2 due to benign hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+46270356	285011000119108	Chronic kidney disease stage 5 due to benign hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+46271529	709666005	Stasis dermatitis of lower limb due to chronic peripheral venous hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+46273164	712487000	End stage renal disease due to benign hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+46273514	285001000119105	Chronic kidney disease stage 4 due to benign hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+46273636	284991000119104	Chronic kidney disease stage 3 due to benign hypertension	Clinical Finding	Condition	SNOMED	Valid	Standard
+37017727	714053003	Hypertension control median nerve electrical stimulator	Physical Object	Device	SNOMED	Valid	Standard
+706611	LP173195-1	Evaluation and management of hypertension	Doc Type of Service	Meas Value	LOINC	Valid	Standard
+36032503	LA31115-1	Group 2: Pulmonary Hypertension due to left heart disease	Answer	Meas Value	LOINC	Valid	Standard
+36032546	LA31114-4	Group 1: Pulmonary arterial hypertension (PAH)	Answer	Meas Value	LOINC	Valid	Standard
+36032554	LA31117-7	Group 4: Chronic Thromboembolic Pulmonary Hypertension (CTEPH)	Answer	Meas Value	LOINC	Valid	Standard
+36032666	LA31116-9	Group 3: Pulmonary Hypertension due to chronic lung disease and hypoxemia	Answer	Meas Value	LOINC	Valid	Standard
+36032806	LA31118-5	Group 5: Pulmonary hypertension due to unclear multifactorial mechanisms	Answer	Meas Value	LOINC	Valid	Standard
+36310151	LA25655-4	Cardio/pulm: Pulmonary hypertension	Answer	Meas Value	LOINC	Valid	Standard
+36310594	LA20367-1	Hypertension requiring medication	Answer	Meas Value	LOINC	Valid	Standard
+"37079015	LA29621-2	Preeclampsia, eclampsia, toxemia or pregnancy induced hypertension	Answer	Meas Value	LOINC	Valid	Standard"
+45876622	LA7444-8	Hypertension	Answer	Meas Value	LOINC	Valid	Standard
+45877941	LA19981-2	Hypertension gestational	Answer	Meas Value	LOINC	Valid	Standard
+45879470	LA15810-7	Hypertension or high blood pressure	Answer	Meas Value	LOINC	Valid	Standard
+45879681	LA19982-0	Hypertension eclampsia	Answer	Meas Value	LOINC	Valid	Standard
+45885259	LA19980-4	Hypertension prepregnancy	Answer	Meas Value	LOINC	Valid	Standard
+44832016	V81.1	Screening for hypertension	4-dig billing V code	Measurement	ICD9CM	Valid	Non-standard
+3033185	34860-7	Evaluation and management of hypertension note	Clinical Observation	Measurement	LOINC	Valid	Standard
+3041013	38962-7	VA Compensation and Pension (C and P) examination hypertension	Clinical Observation	Measurement	LOINC	Valid	Standard
+40657353	LG38758-5	Evaluation and management of hypertension note|ANYRole|ANYSetting	LOINC Group	Measurement	LOINC	Valid	Classification
+42528049	85156-8	Pharmacology Evaluation and management of hypertension note	Clinical Observation	Measurement	LOINC	Valid	Standard
+42529298	83933-2	Research Evaluation and management of hypertension note	Clinical Observation	Measurement	LOINC	Valid	Standard
+46236919	77106-3	SARS2 gene full mutation analysis in Blood or Tissue by Sequencing	Lab Test	Measurement	LOINC	Valid	Standard
+46236920	77107-1	SARS2 gene mutation analysis limited to known familial mutations in Blood or Tissue by Molecular genetics method	Lab Test	Measurement	LOINC	Valid	Standard
+"3528268	352171000000102	Congestive heart failure, hypertension, age, diabetes, stroke 2, stroke risk score	Staging / Scales	Measurement	SNOMED	Invalid	Non-standard"
+"3544636	793821000000107	Congestive heart failure, hypertension, age 2, diabetes mellitus, stroke 2 - vascular disease, age, sex category stroke risk	Staging / Scales	Measurement	SNOMED	Invalid	Non-standard"
+"3545078	808831000000100	Hypertension, abnormal renal/liver function, stroke, bleeding history or predisposition, labile international normalised ratio, elderly over 65, and drugs/alcohol concomitantly score	Staging / Scales	Measurement	SNOMED	Invalid	Non-standard"
+4064925	171222001	Hypertension screening	Procedure	Measurement	SNOMED	Valid	Standard
+4229700	438367009	CHADS2 score	Staging / Scales	Measurement	SNOMED	Valid	Standard
+"35609719	1085111000000109	CHADS2 (congestive heart failure, hypertension, age 75 years or older, diabetes mellitus and previous stroke or transient ischaemic attack) score	Observable Entity	Measurement	SNOMED	Invalid	Non-standard"
+"35621770	763008007	CHADS2 (congestive heart failure, hypertension, age 75 years or older, diabetes mellitus and previous stroke or transient ischemic attack) score	Observable Entity	Measurement	SNOMED	Valid	Standard"
+37017409	713678009	CHA2DS2-VASc score	Staging / Scales	Measurement	SNOMED	Valid	Standard
+40309792	148437000	Hypertension screening	Procedure	Measurement	SNOMED	Invalid	Non-standard
+"42536432	735258002	CHA2DS2-VASc (congestive heart failure, hypertension, age 2, diabetes mellitus, stroke 2, vascular disease, age, sex category) score	Staging / Scales	Measurement	SNOMED	Valid	Standard"
+"42536433	735259005	CHA2DS2-VASc (congestive heart failure, hypertension, age 2, diabetes mellitus, stroke 2, vascular disease, age, sex category) stroke risk score	Observable Entity	Measurement	SNOMED	Valid	Standard"
+"44792469	352161000000109	Congestive heart failure, hypertension, age, diabetes, stroke 2 stroke risk score	Staging / Scales	Measurement	SNOMED	Invalid	Non-standard"
+44797356	430221000000100	[V]Screening for hypertension	Context-dependent	Measurement	SNOMED	Invalid	Non-standard
+"44806838	793811000000101	CHA2DS2-VASc (congestive heart failure, hypertension, age 2, diabetes mellitus, stroke 2, vascular disease, age, sex category) score	Staging / Scales	Measurement	SNOMED	Invalid	Non-standard"
+"44806840	793851000000102	CHA2DS2-VASc (congestive heart failure, hypertension, age 2, diabetes mellitus, stroke 2 - vascular disease, age, sex category) stroke risk score	Observable Entity	Measurement	SNOMED	Invalid	Non-standard"
+"44806847	794051000000105	HAS-BLED (hypertension, abnormal renal and/or liver function, stroke, bleeding history or predisposition, labile INR (international normalised ratio), elderly over 65, and drugs and/or alcohol concomitantly) score	Staging / Scales	Measurement	SNOMED	Invalid	Non-standard"
+"44806942	794221000000105	HAS-BLED (hypertension, abnormal renal and/or liver function, stroke, bleeding history or predisposition, labile INR (international normalised ratio), elderly over 65, and drugs and/or alcohol concomitantly) bleeding risk score	Observable Entity	Measurement	SNOMED	Invalid	Non-standard"
+"45766893	704154001	Hypertension, abnormal renal/liver function, stroke, bleeding history or predisposition, labile international normalized ratio, elderly over 65, and drugs/alcohol concomitantly score	Staging / Scales	Measurement	SNOMED	Valid	Standard"
+"45766914	704180000	Hypertension, abnormal renal/liver function, stroke, bleeding history or predisposition, labile international normalized ratio, elderly over 65, and drugs/alcohol concomitantly bleeding risk score	Observable Entity	Measurement	SNOMED	Valid	Standard"
+37310358	1128161000000101	Hypertension extraction specification for CHA2DS2-VASc risk score simple reference set	Model Comp	Metadata	SNOMED	Valid	Non-standard
+2108558	4050F	Hypertension plan of care documented as appropriate (NMA-No Measure Associated)	CPT4	Observation	CPT4	Valid	Standard
+"45553712	R03.0	Elevated blood-pressure reading, without diagnosis of hypertension	ICD10 code	Observation	ICD10	Valid	Non-standard"
+"35211268	R03.0	Elevated blood-pressure reading, without diagnosis of hypertension	4-char billing code	Observation	ICD10CM	Valid	Non-standard"
+"1427269	R03.0	Elevated blood-pressure reading, without diagnosis of hypertension	ICD10 code	Observation	ICD10CN	Valid	Non-standard"
+"1427270	R03.000	Elevated blood-pressure reading, without diagnosis of hypertension	ICD10 code	Observation	ICD10CN	Valid	Non-standard"
+1427271	R03.001	Stress-induced hypertension (machine translation)	ICD10 code	Observation	ICD10CN	Valid	Non-standard
+"37093796	R03.0	Elevated blood-pressure reading, without diagnosis of hypertension	ICD10 code	Observation	ICD10GM	Valid	Non-standard"
+44829313	796.2	Elevated blood pressure reading without diagnosis of hypertension	4-dig billing code	Observation	ICD9CM	Valid	Non-standard
+1003887	LP416649-4	Evaluation and management of hypertension note | {Setting} | Document ontology	LOINC Hierarchy	Observation	LOINC	Valid	Classification
+"1006442	LP115926-0	Have you had any treatment for high blood pressure, hypertension, in the past 10Y	LOINC Component	Observation	LOINC	Valid	Non-standard"
+1008437	LP128702-0	Pulmonary hypertension	LOINC Component	Observation	LOINC	Valid	Non-standard
+1032443	LP74941-3	Hypertension	LOINC Component	Observation	LOINC	Valid	Non-standard
+1033997	LP89999-4	Hypertension in last 7 days	LOINC Component	Observation	LOINC	Valid	Non-standard
+3045668	45643-4	Hypertension [Minimum Data Set]	Survey	Observation	LOINC	Valid	Standard
+36031389	95932-0	Pulmonary hypertension [Class]	Clinical Observation	Observation	LOINC	Valid	Standard
+36210506	LP260945-3	Evaluation and management of hypertension note | {Setting}	LOINC Hierarchy	Observation	LOINC	Invalid	Non-standard
+40757911	54780-2	Hypertension in last 7 days [MDSv3]	Survey	Observation	LOINC	Valid	Standard
+"40766918	64206-6	Have you had any treatment for high blood pressure, hypertension, in the past 10Y [PhenX]	Clinical Observation	Observation	LOINC	Valid	Standard"
+40769278	66618-0	Pulmonary hypertension [Reported]	Clinical Observation	Observation	LOINC	Valid	Standard
+40775749	LP135362-4	Evaluation and management of hypertension note	LOINC Component	Observation	LOINC	Valid	Non-standard
+141693	371622005	Elevated blood-pressure reading without diagnosis of hypertension	Clinical Finding	Observation	SNOMED	Valid	Standard
+762864	432981000124101	Documentation of hypertension medication action plan	Procedure	Observation	SNOMED	Valid	Standard
+765172	1191000175105	Hypertension monitoring check not done	Clinical Finding	Observation	SNOMED	Valid	Standard
+765639	453591000124102	Referral for management of hypertension	Procedure	Observation	SNOMED	Valid	Standard
+3522795	77341000000107	Hypertension treatment refused	Context-dependent	Observation	SNOMED	Invalid	Non-standard
+3522913	81651000000100	Hypertension treatment refused	Context-dependent	Observation	SNOMED	Invalid	Non-standard
+3523775	186251000000102	Suspected hypertension	Context-dependent	Observation	SNOMED	Invalid	Non-standard
+3550960	76691000000105	Moderate hypertension control	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+3551068	80951000000104	Moderate hypertension control	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+3551183	87341000000102	Exception reporting: hypertension quality indicators	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+3551250	89831000000107	Exception reporting: hypertension quality indicators	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+3551260	89961000000108	Excepted from hypertension quality indicators: Informed dissent	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+3551709	102941000000108	Excepted from hypertension quality indicators: Patient unsuitable	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+3554211	221281000000109	High cost hypertension drugs NOS	Procedure	Observation	SNOMED	Invalid	Non-standard
+3554212	221291000000106	Other specified high cost hypertension drugs	Procedure	Observation	SNOMED	Invalid	Non-standard
+3554632	272781000000108	High cost hypertension drugs	Procedure	Observation	SNOMED	Invalid	Non-standard
+3554633	272791000000105	Primary pulmonary hypertension drugs band 1	Procedure	Observation	SNOMED	Invalid	Non-standard
+3554634	272801000000109	Primary pulmonary hypertension drugs band 2	Procedure	Observation	SNOMED	Invalid	Non-standard
+3554635	272811000000106	Primary pulmonary hypertension drugs band 3	Procedure	Observation	SNOMED	Invalid	Non-standard
+3554636	272821000000100	Primary pulmonary hypertension drugs band 4	Procedure	Observation	SNOMED	Invalid	Non-standard
+3554637	272841000000107	High cost hypertension drugs NOS	Procedure	Observation	SNOMED	Invalid	Non-standard
+3558644	766221000000103	Hypertension 9 month review	Procedure	Observation	SNOMED	Invalid	Non-standard
+3559121	812031000000108	Hypertension self-management plan agreed	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+3560209	892411000000107	Pulmonary arterial hypertension drugs Band 1	Procedure	Observation	SNOMED	Invalid	Non-standard
+3560210	892431000000104	Pulmonary arterial hypertension drugs Band 2	Procedure	Observation	SNOMED	Invalid	Non-standard
+3560211	892451000000106	Pulmonary arterial hypertension drugs Band 3	Procedure	Observation	SNOMED	Invalid	Non-standard
+3560212	892471000000102	Pulmonary arterial hypertension drugs Band 4	Procedure	Observation	SNOMED	Invalid	Non-standard
+3561046	938581000000102	Borderline hypertension monitoring first letter	Procedure	Observation	SNOMED	Invalid	Non-standard
+3561047	938621000000102	Borderline hypertension monitoring second letter	Procedure	Observation	SNOMED	Invalid	Non-standard
+3561048	938641000000109	Borderline hypertension monitoring third letter	Procedure	Observation	SNOMED	Invalid	Non-standard
+3571584	105871000000104	Excepted from hypertension quality indicators: Informed dissent	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+3572384	189691000000100	Suspected hypertension	Context-dependent	Observation	SNOMED	Invalid	Non-standard
+3574151	89951000000105	Excepted from hypertension quality indicators: Patient unsuitable	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+3575487	32751000000109	Hypertension screening administration NOS	Undefined	Observation	SNOMED	Invalid	Non-standard
+3576503	102931000000104	Exception reporting: hypertension quality indicators	Undefined	Observation	SNOMED	Invalid	Non-standard
+3576504	102951000000106	Excepted from hypertension quality indicators: Informed dissent	Undefined	Observation	SNOMED	Invalid	Non-standard
+3576552	105861000000106	Excepted from hypertension quality indicators: Patient unsuitable	Undefined	Observation	SNOMED	Invalid	Non-standard
+3576709	117001000000106	Hypertension clinical management plan	Undefined	Observation	SNOMED	Invalid	Non-standard
+3578857	272831000000103	Other specified high cost hypertension drugs	Undefined	Observation	SNOMED	Invalid	Non-standard
+"3579907	352181000000100	Congestive heart failure, hypertension, age, diabetes, stroke 2, stroke risk score	Undefined	Observation	SNOMED	Invalid	Non-standard"
+3587148	948161000000102	Telehealth hypertension monitoring	Undefined	Observation	SNOMED	Invalid	Non-standard
+3655714	866224009	Pulmonary hypertension suspected	Context-dependent	Observation	SNOMED	Valid	Standard
+4015732	170586008	Treatment for hypertension started	Procedure	Observation	SNOMED	Valid	Standard
+4015734	170588009	Treatment for hypertension stopped	Procedure	Observation	SNOMED	Valid	Standard
+4016922	170578008	Poor hypertension control	Clinical Finding	Observation	SNOMED	Valid	Standard
+4017168	170574005	Yearly observation of borderline hypertension	Procedure	Observation	SNOMED	Valid	Standard
+4017170	170577003	Good hypertension control	Clinical Finding	Observation	SNOMED	Valid	Standard
+4050816	160357008	FH: Hypertension	Context-dependent	Observation	SNOMED	Valid	Standard
+4053372	160273004	No FH: Hypertension	Context-dependent	Observation	SNOMED	Valid	Standard
+4058286	161501007	H/O: hypertension	Context-dependent	Observation	SNOMED	Valid	Standard
+4062735	171225004	Risk factors present at hypertension screening	Clinical Finding	Observation	SNOMED	Valid	Standard
+4083426	185264001	Seen in hypertension clinic	Clinical Finding	Observation	SNOMED	Valid	Standard
+4085017	183856001	Referral to hypertension clinic	Procedure	Observation	SNOMED	Valid	Standard
+4085312	185717000	Refuses hypertension monitoring	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+4085313	185718005	Hypertension monitoring offer default	Clinical Finding	Observation	SNOMED	Valid	Standard
+4085314	185720008	Hypertension monitoring second letter	Procedure	Observation	SNOMED	Valid	Standard
+4086117	185721007	Hypertension monitoring third letter	Procedure	Observation	SNOMED	Valid	Standard
+4088880	185716009	Attends hypertension monitoring	Clinical Finding	Observation	SNOMED	Valid	Standard
+4088881	185723005	Hypertension monitoring telephone invite	Procedure	Observation	SNOMED	Valid	Standard
+4089358	185719002	Hypertension monitoring first letter	Procedure	Observation	SNOMED	Valid	Standard
+4089360	185722000	Hypertension monitoring verbal invite	Procedure	Observation	SNOMED	Valid	Standard
+4089361	185724004	Hypertension monitoring deleted	Clinical Finding	Observation	SNOMED	Valid	Standard
+"4119058	288318008	[D]Blood pressure raised, hypertension not diagnosed	Context-dependent	Observation	SNOMED	Invalid	Non-standard"
+4149389	268607006	Hypertension risk level	Observable Entity	Observation	SNOMED	Valid	Standard
+4151040	310427004	Hypertension monitoring invitation	Procedure	Observation	SNOMED	Valid	Standard
+4152829	270440008	Hypertension monitoring check done	Clinical Finding	Observation	SNOMED	Valid	Standard
+4171421	275944005	Hypertension monitoring	Procedure	Observation	SNOMED	Valid	Standard
+4201850	302192008	On treatment for hypertension	Procedure	Observation	SNOMED	Valid	Standard
+4203282	308502002	Hypertension monitoring status	Clinical Finding	Observation	SNOMED	Valid	Standard
+4203283	308503007	Hypertension monitoring call	Procedure	Observation	SNOMED	Valid	Standard
+4203745	308427006	Hypertension screening recall	Procedure	Observation	SNOMED	Valid	Standard
+4204649	308428001	Hypertension screening call	Procedure	Observation	SNOMED	Valid	Standard
+4204650	308429009	Hypertension screening status	Clinical Finding	Observation	SNOMED	Valid	Standard
+4216327	395050009	Hypertension monitoring not required	Clinical Finding	Observation	SNOMED	Valid	Standard
+4220915	417312002	Suspected hypertension	Context-dependent	Observation	SNOMED	Valid	Standard
+4258827	440594006	Knowledge level about hypertension management	Observable Entity	Observation	SNOMED	Valid	Standard
+4269035	401117004	Moderate hypertension control	Clinical Finding	Observation	SNOMED	Valid	Standard
+4292205	401047000	Hypertension treatment refused	Context-dependent	Observation	SNOMED	Valid	Standard
+4307032	390925005	Did not attend hypertension clinic	Clinical Finding	Observation	SNOMED	Valid	Standard
+35609535	1083101000000106	Hypertension monitoring invitation email	Procedure	Observation	SNOMED	Valid	Standard
+35622015	763324001	Hypertension monitoring refused	Context-dependent	Observation	SNOMED	Valid	Standard
+37109049	16235071000119108	History of idiopathic intracranial hypertension	Context-dependent	Observation	SNOMED	Valid	Standard
+37208293	1078301000112109	Multiple drug intolerant hypertension	Clinical Finding	Observation	SNOMED	Valid	Standard
+37208974	1110941000000107	QOF (Quality and Outcomes Framework) hypertension quality indicator-related care invitation	Procedure	Observation	SNOMED	Valid	Standard
+37310799	143421000000106	QOF (Quality and Outcomes Framework) hypertension quality indicator-related care invitation using preferred method of communication	Procedure	Observation	SNOMED	Valid	Standard
+37395732	715280009	Telehealth hypertension monitoring	Procedure	Observation	SNOMED	Valid	Standard
+40297990	137753003	FH: Hypertension	Context-dependent	Observation	SNOMED	Invalid	Non-standard
+40302086	138772000	H/O: hypertension	Context-dependent	Observation	SNOMED	Invalid	Non-standard
+40306707	137676007	No FH: Hypertension	Context-dependent	Observation	SNOMED	Invalid	Non-standard
+40307485	147831007	Good hypertension control	Context-dependent	Observation	SNOMED	Invalid	Non-standard
+40307486	147832000	Poor hypertension control	Context-dependent	Observation	SNOMED	Invalid	Non-standard
+40307493	147839009	Hypertension treatm. started	Procedure	Observation	SNOMED	Invalid	Non-standard
+40307496	147841005	Hypertension treatm.stopped	Procedure	Observation	SNOMED	Invalid	Non-standard
+40307503	147848004	On treatment for hypertension	Procedure	Observation	SNOMED	Invalid	Non-standard
+40307504	147849007	Hypertension monitoring	Procedure	Observation	SNOMED	Invalid	Non-standard
+40309795	148440000	Hypertension risk	Observable Entity	Observation	SNOMED	Invalid	Non-standard
+40315124	147824008	Cardiac disease monitoring (& [hypertension])	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+40317373	152085006	Referral to hypertension clinic	Procedure	Observation	SNOMED	Invalid	Non-standard
+40317513	153895007	Attends hypertension monitoring	Procedure	Observation	SNOMED	Invalid	Non-standard
+40317515	153897004	Hypertension monitoring offer default	Procedure	Observation	SNOMED	Invalid	Non-standard
+40317516	153898009	Hypertension monitoring first letter	Procedure	Observation	SNOMED	Invalid	Non-standard
+40317517	153899001	Hypertension monitoring second letter	Procedure	Observation	SNOMED	Invalid	Non-standard
+40317518	153900006	Hypertension monitoring third letter	Procedure	Observation	SNOMED	Invalid	Non-standard
+40317521	153901005	Hypertension monitoring verbal invite	Procedure	Observation	SNOMED	Invalid	Non-standard
+40317522	153902003	Hypertension monitoring telephone invite	Procedure	Observation	SNOMED	Invalid	Non-standard
+40317523	153903008	Hypertension monitoring deleted	Procedure	Observation	SNOMED	Invalid	Non-standard
+40317524	153904002	Hypertension monitor (& check done)	Procedure	Observation	SNOMED	Invalid	Non-standard
+"40320985	158705009	[D]Blood pressure raised, hypertension not diagnosed	Context-dependent	Observation	SNOMED	Invalid	Non-standard"
+40323761	153366008	Seen in hypertension clinic	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+40327883	160251006	No significant family history of hypertension	Context-dependent	Observation	SNOMED	Invalid	Non-standard
+40336676	170570001	Cardiac disease monitoring (& [hypertension])	Procedure	Observation	SNOMED	Invalid	Non-standard
+40336713	170602001	On treatment for hypertension	Procedure	Observation	SNOMED	Invalid	Non-standard
+40336714	170603006	Hypertension monitoring	Procedure	Observation	SNOMED	Invalid	Non-standard
+40354858	274722000	Elevated blood-pressure reading w/out diagn of hypertension	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+40378537	185161003	Seen in hypertension clinic	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+40380701	185725003	Hypertension monitor (& check done)	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+40520984	316679004	[V]Screening for hypertension	Context-dependent	Observation	SNOMED	Invalid	Non-standard
+40560621	390694004	DNA - Did not attend hypertension clinic	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+40563024	393040006	Hypertension monitoring not required	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+40565459	389960005	DNA - Did not attend hypertension clinic	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+40566173	393996001	Hypertension monitoring not required	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+42689674	1066941000000104	Hypertension monitoring invitation SMS (short message service) text message	Procedure	Observation	SNOMED	Valid	Standard
+42689675	1066951000000101	Hypertension monitoring SMS (short message service) text message first invitation	Procedure	Observation	SNOMED	Valid	Standard
+42689676	1066961000000103	Hypertension monitoring SMS (short message service) text message second invitation	Procedure	Observation	SNOMED	Valid	Standard
+42689677	1066971000000105	Hypertension monitoring SMS (short message service) text message third invitation	Procedure	Observation	SNOMED	Valid	Standard
+44789908	220901000000101	High cost hypertension drugs	Procedure	Observation	SNOMED	Valid	Standard
+44789943	221301000000105	Primary pulmonary hypertension drugs Band 1	Procedure	Observation	SNOMED	Valid	Standard
+44789945	221311000000107	Primary pulmonary hypertension drugs band 2	Procedure	Observation	SNOMED	Valid	Standard
+44789946	221321000000101	Primary pulmonary hypertension drugs band 3	Procedure	Observation	SNOMED	Valid	Standard
+44789961	221331000000104	Primary pulmonary hypertension drugs band 4	Procedure	Observation	SNOMED	Valid	Standard
+44803791	716771000000106	Excepted from hypertension quality indicators - informed dissent	Clinical Finding	Observation	SNOMED	Valid	Standard
+44803796	716821000000100	Excepted from hypertension quality indicators - patient unsuitable	Clinical Finding	Observation	SNOMED	Valid	Standard
+44803870	717311000000102	Exception reporting - hypertension quality indicators	Clinical Finding	Observation	SNOMED	Valid	Standard
+44805700	766211000000109	Hypertension 9 month review	Procedure	Observation	SNOMED	Valid	Standard
+44806372	812021000000106	Hypertension self-management plan agreed	Clinical Finding	Observation	SNOMED	Valid	Standard
+44811031	872241000000102	Did not attend optometrist ocular hypertension monitoring	Clinical Finding	Observation	SNOMED	Valid	Standard
+44811200	892401000000105	Pulmonary arterial hypertension drugs Band 1	Procedure	Observation	SNOMED	Valid	Standard
+44811201	892421000000101	Pulmonary arterial hypertension drugs Band 2	Procedure	Observation	SNOMED	Valid	Standard
+44811202	892461000000109	Pulmonary arterial hypertension drugs Band 4	Procedure	Observation	SNOMED	Valid	Standard
+44814023	892441000000108	Pulmonary arterial hypertension drugs Band 3	Procedure	Observation	SNOMED	Valid	Standard
+46270558	59701000119109	History of portal hypertension	Context-dependent	Observation	SNOMED	Valid	Standard
+46273485	11016321000119103	Nutritional therapy for hypertension done	Context-dependent	Observation	SNOMED	Valid	Standard
+46273804	709881001	History of gestational hypertension	Context-dependent	Observation	SNOMED	Valid	Standard
+46284053	938571000000104	Borderline hypertension monitoring first letter	Procedure	Observation	SNOMED	Valid	Standard
+46284054	938611000000108	Borderline hypertension monitoring second letter	Procedure	Observation	SNOMED	Valid	Standard
+46284513	948151000000100	Telehealth hypertension monitoring	Procedure	Observation	SNOMED	Invalid	Non-standard
+46287138	938631000000100	Borderline hypertension monitoring third letter	Procedure	Observation	SNOMED	Valid	Standard
+"2110426	61322	Craniectomy or craniotomy, decompressive, with or without duraplasty, for treatment of intracranial hypertension, without evacuation of associated intraparenchymal hematoma; without lobectomy	CPT4	Procedure	CPT4	Valid	Standard"
+"2110427	61323	Craniectomy or craniotomy, decompressive, with or without duraplasty, for treatment of intracranial hypertension, without evacuation of associated intraparenchymal hematoma; with lobectomy	CPT4	Procedure	CPT4	Valid	Standard"
+"45888628	1009111	Craniectomy or craniotomy, decompressive, with or without duraplasty, for treatment of intracranial hypertension, without evacuation of associated intraparenchymal hematoma	CPT4 Hierarchy	Procedure	CPT4	Valid	Classification"
+979251	D000073601	Dietary Approaches To Stop Hypertension	Main Heading	Procedure	MeSH	Valid	Non-standard
+759812	10189761000046105	Hypertension exercise education	Procedure	Procedure	SNOMED	Valid	Standard
+3522625	47091000000100	Hypertension annual review	Procedure	Procedure	SNOMED	Invalid	Non-standard
+3522652	48311000000108	Hypertension annual review	Procedure	Procedure	SNOMED	Invalid	Non-standard
+3522781	76701000000105	Hypertension six month review	Procedure	Procedure	SNOMED	Invalid	Non-standard
+3522899	80961000000101	Hypertension six month review	Procedure	Procedure	SNOMED	Invalid	Non-standard
+3529990	509041000000109	Lifestyle advice regarding hypertension	Procedure	Procedure	SNOMED	Invalid	Non-standard
+3529991	509051000000107	Lifestyle advice regarding hypertension	Procedure	Procedure	SNOMED	Invalid	Non-standard
+3529992	509061000000105	Lifestyle advice regarding hypertension	Procedure	Procedure	SNOMED	Invalid	Non-standard
+3544448	785611000000102	Discussion about hypertension in pregnancy	Procedure	Procedure	SNOMED	Invalid	Non-standard
+3545352	832151000000107	Hypertension self-management plan review	Procedure	Procedure	SNOMED	Invalid	Non-standard
+3547211	944571000000106	Provision of written information about diabetes and high blood pressure	Procedure	Procedure	SNOMED	Invalid	Non-standard
+3564538	1651000124107	Hypertension medication review	Procedure	Procedure	SNOMED	Invalid	Non-standard
+4170560	49239009	Biofeedback training in regulation of blood pressure for essential hypertension	Procedure	Procedure	SNOMED	Valid	Standard
+4192556	39155009	Hypertension education	Procedure	Procedure	SNOMED	Valid	Standard
+4234786	440536005	Education about signs and symptoms of pregnancy induced hypertension	Procedure	Procedure	SNOMED	Valid	Standard
+4269018	401048005	Hypertension six month review	Procedure	Procedure	SNOMED	Valid	Standard
+4295014	401118009	Hypertension annual review	Procedure	Procedure	SNOMED	Valid	Standard
+"35609713	1085041000000109	Assessment using CHADS2 (congestive heart failure, hypertension, age 75 years or older, diabetes mellitus and previous stroke or transient ischaemic attack) score	Procedure	Procedure	SNOMED	Invalid	Non-standard"
+"35621769	763007002	Assessment using CHADS2 (congestive heart failure, hypertension, age 75 years or older, diabetes mellitus and previous stroke or transient ischemic attack) score	Procedure	Procedure	SNOMED	Valid	Standard"
+37018897	1151000175103	Dietary Approaches to Stop Hypertension diet	Procedure	Procedure	SNOMED	Valid	Standard
+37396080	715759002	Provision of written information about diabetes and hypertension	Procedure	Procedure	SNOMED	Valid	Standard
+40317456	153843004	Hypertension screening administration	Procedure	Procedure	SNOMED	Invalid	Non-standard
+40317470	153856006	Hypertension screening administration NOS	Procedure	Procedure	SNOMED	Invalid	Non-standard
+40317512	153894006	Hypertension admin: [monitoring] or [clinic]	Procedure	Procedure	SNOMED	Invalid	Non-standard
+40317514	153896008	Refuses hypertension monitoring	Procedure	Procedure	SNOMED	Invalid	Non-standard
+40481459	443402002	Lifestyle education regarding hypertension	Procedure	Procedure	SNOMED	Valid	Standard
+43021414	473185004	Discussion about preexisting hypertension in pregnancy	Procedure	Procedure	SNOMED	Valid	Standard
+43021505	473225006	Hypertension medication review	Procedure	Procedure	SNOMED	Valid	Standard
+43022018	473184000	Discussion about gestational hypertension	Procedure	Procedure	SNOMED	Valid	Standard
+44782783	51131000119102	Nutrition therapy for hypertension	Procedure	Procedure	SNOMED	Valid	Standard
+44783225	699282002	Hypertension diet assessment	Procedure	Procedure	SNOMED	Valid	Standard
+44806126	810981000000107	Hypertension self-management plan review	Procedure	Procedure	SNOMED	Valid	Standard
+"44806943	794231000000107	Assessment using HAS-BLED (hypertension, abnormal renal and/or liver function, stroke, bleeding history or predisposition, labile INR (international normalised ratio), elderly over 65, and drugs and/or alcohol concomitantly) score	Procedure	Procedure	SNOMED	Valid	Standard"
+44809677	837871000000106	Provision of written information about hypertension	Procedure	Procedure	SNOMED	Valid	Standard
+"44814080	793891000000105	Assessment using CHA2DS2-VASc (congestive heart failure, hypertension, age 2, diabetes mellitus, stroke 2 - vascular disease, age, sex category) score	Procedure	Procedure	SNOMED	Invalid	Non-standard"
+"45766916	704182008	Assessment using hypertension, abnormal renal/liver function, stroke, bleeding history or predisposition, labile international normalized ratio, elderly over 65, and drugs/alcohol concomitantly score	Procedure	Procedure	SNOMED	Valid	Standard"
+"45769380	708018005	Assessment using congestive heart failure, hypertension, age 2, diabetes mellitus, stroke 2 - vascular disease, age, sex category score	Procedure	Procedure	SNOMED	Valid	Standard"
+46284360	944561000000104	Provision of written information about diabetes and high blood pressure	Procedure	Procedure	SNOMED	Invalid	Non-standard
+3521844	2311000000100	Hypertension admin: [monitoring] or [clinic]	Admin Concept	Type Concept	SNOMED	Invalid	Non-standard
+3522081	32741000000106	Hypertension screening administration	Record Artifact	Type Concept	SNOMED	Invalid	Non-standard
+3522084	32841000000104	Hypertension admin: [monitoring] or [clinic]	Record Artifact	Type Concept	SNOMED	Invalid	Non-standard
+3542788	713651000000100	Hypertension monitoring administration NOS	Record Artifact	Type Concept	SNOMED	Invalid	Non-standard
+3542840	715061000000106	Hypertension screening administration NOS	Record Artifact	Type Concept	SNOMED	Invalid	Non-standard
+3566465	3331000000104	Hypertension monitoring administration	Admin Concept	Type Concept	SNOMED	Invalid	Non-standard
+3567214	21751000000104	Hypertension screening administration	Admin Concept	Type Concept	SNOMED	Invalid	Non-standard
+3569554	11721000000102	Hypertension clinic administration	Admin Concept	Type Concept	SNOMED	Invalid	Non-standard
+3572201	121741000000105	Hypertension clinical management plan	Record Artifact	Type Concept	SNOMED	Invalid	Non-standard
+3574933	2271000000100	Hypertension screening administration NOS	Admin Concept	Type Concept	SNOMED	Invalid	Non-standard
+3574936	2321000000106	Hypertension monitoring administration NOS	Admin Concept	Type Concept	SNOMED	Invalid	Non-standard
+4260762	412779008	Hypertension clinical management plan	Qualifier Value	Type Concept	SNOMED	Invalid	Non-standard
+42537122	736286003	Hypertension clinical management plan	Record Artifact	Type Concept	SNOMED	Valid	Non-standard
+44803330	713641000000103	Hypertension monitoring administration	Record Artifact	Type Concept	SNOMED	Valid	Non-standard
+44803548	715051000000108	Hypertension screening administration	Record Artifact	Type Concept	SNOMED	Valid	Non-standard
+44813668	713661000000102	Hypertension clinic administration	Record Artifact	Type Concept	SNOMED	Valid	Non-standard
+45765834	702867002	Hypertension clinic	Location	Visit	SNOMED	Valid	Non-standard

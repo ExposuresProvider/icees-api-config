@@ -1,0 +1,42 @@
+﻿Id	Code	Name	Standard Class	Domain	Vocab	Validity	Concept
+"37396732	716643002	Nitric oxide delivery unit, ambulatory	Physical Object	Device	SNOMED	Valid	Standard"
+45758219	462798007	Nitric oxide delivery system monitor	Physical Object	Device	SNOMED	Valid	Standard
+45758396	463079008	Nitric oxide delivery system	Physical Object	Device	SNOMED	Valid	Standard
+"45758401	463085001	Nitric oxide delivery system, secondary	Physical Object	Device	SNOMED	Valid	Standard"
+45764776	701544005	Nitric oxide cylinder	Physical Object	Device	SNOMED	Valid	Standard
+2314059	95012	Nitric oxide expired gas determination	CPT4	Measurement	CPT4	Valid	Standard
+21490806	76093-4	Nitric oxide [VFr/PPres] Airway adaptor	Clinical Observation	Measurement	LOINC	Valid	Standard
+21490812	76099-1	Nitric oxide [VFr/PPres] Gas delivery system.expiratory limb --during expiration	Clinical Observation	Measurement	LOINC	Valid	Standard
+21490813	76100-7	Nitric oxide [VFr/PPres] Gas delivery system.inspiratory limb --during inspiration	Clinical Observation	Measurement	LOINC	Valid	Standard
+21490824	76111-4	Nitric oxide [VFr/PPres] Gas delivery system	Clinical Observation	Measurement	LOINC	Valid	Standard
+21490828	76115-5	Nitric oxide [VFr/PPres] Airway adaptor --at end expiration	Clinical Observation	Measurement	LOINC	Valid	Standard
+21490830	76117-1	Nitric oxide [VFr/PPres] Airway adaptor --during expiration	Clinical Observation	Measurement	LOINC	Valid	Standard
+21490833	76120-5	Nitric oxide [VFr/PPres] Airway adaptor --during inspiration	Clinical Observation	Measurement	LOINC	Valid	Standard
+21490836	76123-9	Nitric oxide gas delivered.total [Volume] in Reporting period from Gas delivery system	Clinical Observation	Measurement	LOINC	Valid	Standard
+21490929	76241-9	Nitric oxide gas delivered.case [Volume] from Gas delivery system	Clinical Observation	Measurement	LOINC	Valid	Standard
+36031807	96269-6	Fractional concentration of exhaled nitric oxide	Clinical Observation	Measurement	LOINC	Valid	Standard
+37033518	LP409059-5	Nitric oxide | Airway adaptor | Respiratory measures and Ventilator management	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37034975	LP409062-9	Nitric oxide | Gas delivery system.inspiratory limb | Respiratory measures and Ventilator management	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37040822	LP409060-3	Nitric oxide | Gas delivery system | Respiratory measures and Ventilator management	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37063075	LP409063-7	Nitric oxide gas delivered.case | Gas delivery system | Respiratory measures and Ventilator management	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37063780	LP383354-0	Nitric oxide | Exhaled gas | Chemistry - non-challenge	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37070509	LP409061-1	Nitric oxide | Gas delivery system.expiratory limb | Respiratory measures and Ventilator management	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37078951	LP409064-5	Nitric oxide gas delivered.total | Gas delivery system | Respiratory measures and Ventilator management	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+44787012	74369-0	Nitric oxide [Moles/volume] in Exhaled gas	Lab Test	Measurement	LOINC	Valid	Standard
+44787646	LP179971-9	Nitric oxide | Exhaled gas	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+3557229	523581000000102	Measurement of expired nitric oxide	Procedure	Measurement	SNOMED	Invalid	Non-standard
+3557230	523591000000100	Exhaled nitric oxide	Procedure	Measurement	SNOMED	Invalid	Non-standard
+40480257	444642008	Measurement of expired nitric oxide	Procedure	Measurement	SNOMED	Valid	Standard
+21496006	LP173640-6	Nitric oxide	LOINC Component	Observation	LOINC	Valid	Non-standard
+36034020	LP421306-4	Nitric oxide/Expired gas	LOINC Component	Observation	LOINC	Valid	Non-standard
+37034780	LP188444-6	Nitric oxide gas delivered.total	LOINC Component	Observation	LOINC	Valid	Non-standard
+37074440	LP188443-8	Nitric oxide gas delivered.case	LOINC Component	Observation	LOINC	Valid	Non-standard
+3662306	148491000000104	QOF (Quality and Outcomes Framework) - FeNO (fractional exhaled nitric oxide) test service not available	Context-dependent	Observation	SNOMED	Valid	Standard
+4228314	405626009	Respired nitric oxide monitoring	Procedure	Observation	SNOMED	Valid	Standard
+4262323	397880004	Respired nitric oxide concentration	Observable Entity	Observation	SNOMED	Valid	Standard
+"40757114	93463	Pharmacologic agent administration (eg, inhaled nitric oxide, intravenous infusion of nitroprusside, dobutamine, milrinone, or other agent) including assessing hemodynamic measurements before, during, after and repeat pharmacologic agent administration...	CPT4	Procedure	CPT4	Valid	Standard"
+"42740711	0064T	Spectroscopy, expired gas analysis (eg, nitric oxide/carbon dioxide test) (Deprecated)	CPT4	Procedure	CPT4	Valid	Standard"
+2000013	00.12	Administration of inhaled nitric oxide	4-dig billing code	Procedure	ICD9Proc	Valid	Standard
+36906287	00.1201	Nitric oxide therapy (machine translation)	6-dig billing code	Procedure	ICD9ProcCN	Valid	Non-standard
+36912443	00.1200	Administration of inhaled nitric oxide	6-dig billing code	Procedure	ICD9ProcCN	Valid	Non-standard
+36916086	00.12	Administration of inhaled nitric oxide	4-dig nonbill code	Procedure	ICD9ProcCN	Valid	Non-standard

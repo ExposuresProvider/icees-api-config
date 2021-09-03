@@ -1,0 +1,8 @@
+﻿Id	Code	Name	Standard Class	Domain	Vocab	Validity	Concept
+1427085	Q89.302	Primary ciliary dyskinesia syndrome (machine translation)	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+45618916	D002925	Ciliary Motility Disorders	Main Heading	Condition	MeSH	Valid	Non-standard
+3527738	338241000000100	Primary ciliary dyskinesia	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+4050885	233663004	Primary ciliary dyskinesia due to transposition of ciliary microtubules	Clinical Finding	Condition	SNOMED	Valid	Standard
+4313982	86204009	Immotile cilia syndrome	Clinical Finding	Condition	SNOMED	Valid	Standard
+36714163	719282008	Primary ciliary dyskinesia and retinitis pigmentosa syndrome	Clinical Finding	Condition	SNOMED	Valid	Standard
+40652251	9057007	Primary ciliary dyskinesia	Clinical Finding	Condition	SNOMED	Invalid	Non-standard

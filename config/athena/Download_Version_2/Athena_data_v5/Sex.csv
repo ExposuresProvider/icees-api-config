@@ -1,0 +1,604 @@
+﻿Id	Code	Name	Standard Class	Domain	Vocab	Validity	Concept
+45534418	Q98.6	Male with structurally abnormal sex chromosome	ICD10 code	Condition	ICD10	Valid	Non-standard
+"45534419	Q98.8	Other specified sex chromosome abnormalities, male phenotype	ICD10 code	Condition	ICD10	Valid	Non-standard"
+"45539284	Q56.4	Indeterminate sex, unspecified	ICD10 code	Condition	ICD10	Valid	Non-standard"
+"45544127	Q97.8	Other specified sex chromosome abnormalities, female phenotype	ICD10 code	Condition	ICD10	Valid	Non-standard"
+"45553710	Q97.9	Sex chromosome abnormality, female phenotype, unspecified	ICD10 code	Condition	ICD10	Valid	Non-standard"
+"45553711	Q98.9	Sex chromosome abnormality, male phenotype, unspecified	ICD10 code	Condition	ICD10	Valid	Non-standard"
+45563281	Q95.3	Balanced sex/autosomal rearrangement in abnormal individual	ICD10 code	Condition	ICD10	Valid	Non-standard
+"45563284	Q97	Other sex chromosome abnormalities, female phenotype, not elsewhere classified	ICD10 Hierarchy	Condition	ICD10	Valid	Non-standard"
+"45568103	Q96.2	Karyotype 46,X with abnormal sex chromosome, except iso (Xq)	ICD10 code	Condition	ICD10	Valid	Non-standard"
+"45568105	Q96.4	Mosaicism, 45,X/other cell line(s) with abnormal sex chromosome	ICD10 code	Condition	ICD10	Valid	Non-standard"
+45568107	Q98.7	Male with sex chromosome mosaicism	ICD10 code	Condition	ICD10	Valid	Non-standard
+45592379	Q56	Indeterminate sex and pseudohermaphroditism	ICD10 Hierarchy	Condition	ICD10	Valid	Non-standard
+"45592402	Q98	Other sex chromosome abnormalities, male phenotype, not elsewhere classified	ICD10 Hierarchy	Condition	ICD10	Valid	Non-standard"
+1572106	Q56	Indeterminate sex and pseudohermaphroditism	3-char nonbill code	Condition	ICD10CM	Valid	Non-standard
+"1572183	Q97	Other sex chromosome abnormalities, female phenotype, not elsewhere classified	3-char nonbill code	Condition	ICD10CM	Valid	Non-standard"
+"1572184	Q98	Other sex chromosome abnormalities, male phenotype, not elsewhere classified	3-char nonbill code	Condition	ICD10CM	Valid	Non-standard"
+"35211011	Q56.4	Indeterminate sex, unspecified	4-char billing code	Condition	ICD10CM	Valid	Non-standard"
+35211230	Q95.3	Balanced sex/autosomal rearrangement in abnormal individual	4-char billing code	Condition	ICD10CM	Valid	Non-standard
+"35211236	Q96.2	Karyotype 46, X with abnormal sex chromosome, except iso (Xq)	4-char billing code	Condition	ICD10CM	Valid	Non-standard"
+"35211238	Q96.4	Mosaicism, 45, X/other cell line(s) with abnormal sex chromosome	4-char billing code	Condition	ICD10CM	Valid	Non-standard"
+"35211245	Q97.8	Other specified sex chromosome abnormalities, female phenotype	4-char billing code	Condition	ICD10CM	Valid	Non-standard"
+"35211246	Q97.9	Sex chromosome abnormality, female phenotype, unspecified	4-char billing code	Condition	ICD10CM	Valid	Non-standard"
+35211252	Q98.6	Male with structurally abnormal sex chromosome	4-char billing code	Condition	ICD10CM	Valid	Non-standard
+35211253	Q98.7	Male with sex chromosome mosaicism	4-char billing code	Condition	ICD10CM	Valid	Non-standard
+"35211254	Q98.8	Other specified sex chromosome abnormalities, male phenotype	4-char billing code	Condition	ICD10CM	Valid	Non-standard"
+"35211255	Q98.9	Sex chromosome abnormality, male phenotype, unspecified	4-char billing code	Condition	ICD10CM	Valid	Non-standard"
+"1402779	M85910/1	Sex cord-gonadal stromal tumor, incompletely differentiated	ICD10 Histology	Condition	ICD10CN	Valid	Non-standard"
+"1402780	M85920/1	Sex cord-gonadal stromal tumor, mixed forms	ICD10 Histology	Condition	ICD10CN	Valid	Non-standard"
+"1402781	M85900/1	Sex cord-gonadal stromal tumor, NOS	ICD10 Histology	Condition	ICD10CN	Valid	Non-standard"
+1402782	M86230/1	Sex cord tumor with annular tubules	ICD10 Histology	Condition	ICD10CN	Valid	Non-standard
+1402850	M85930/1	Stromal tumor with minor sex cord elements	ICD10 Histology	Condition	ICD10CN	Valid	Non-standard
+1426352	Q56	Indeterminate sex and pseudohermaphroditism	ICD10 Hierarchy	Condition	ICD10CN	Valid	Non-standard
+"1426363	Q56.4	Indeterminate sex, unspecified	ICD10 code	Condition	ICD10CN	Valid	Non-standard"
+"1426364	Q56.400	Indeterminate sex, unspecified	ICD10 code	Condition	ICD10CN	Valid	Non-standard"
+1427173	Q95.3	Balanced sex/autosomal rearrangement in abnormal individual	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+1427174	Q95.300	Balanced sex/autosomal rearrangement in abnormal individual	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+"1427188	Q96.2	Karyotype 46,X with abnormal sex chromosome, except iso (Xq)	ICD10 code	Condition	ICD10CN	Valid	Non-standard"
+"1427189	Q96.200	Karyotype 46,X with abnormal sex chromosome, except iso (Xq)	ICD10 code	Condition	ICD10CN	Valid	Non-standard"
+"1427192	Q96.4	Mosaicism, 45,X/other cell line(s) with abnormal sex chromosome	ICD10 code	Condition	ICD10CN	Valid	Non-standard"
+"1427193	Q96.400	Mosaicism, 45,X/other cell line(s) with abnormal sex chromosome	ICD10 code	Condition	ICD10CN	Valid	Non-standard"
+"1427199	Q97	Other sex chromosome abnormalities, female phenotype, not elsewhere classified	ICD10 Hierarchy	Condition	ICD10CN	Valid	Non-standard"
+"1427208	Q97.8	Other specified sex chromosome abnormalities, female phenotype	ICD10 code	Condition	ICD10CN	Valid	Non-standard"
+"1427209	Q97.800	Other specified sex chromosome abnormalities, female phenotype	ICD10 code	Condition	ICD10CN	Valid	Non-standard"
+"1427210	Q97.9	Sex chromosome abnormality, female phenotype, unspecified	ICD10 code	Condition	ICD10CN	Valid	Non-standard"
+"1427211	Q97.900	Sex chromosome abnormality, female phenotype, unspecified	ICD10 code	Condition	ICD10CN	Valid	Non-standard"
+"1427212	Q98	Other sex chromosome abnormalities, male phenotype, not elsewhere classified	ICD10 Hierarchy	Condition	ICD10CN	Valid	Non-standard"
+1427225	Q98.6	Male with structurally abnormal sex chromosome	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+1427226	Q98.600	Male with structurally abnormal sex chromosome	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+1427227	Q98.7	Male with sex chromosome mosaicism	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+1427228	Q98.700	Male with sex chromosome mosaicism	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+"1427229	Q98.8	Other specified sex chromosome abnormalities, male phenotype	ICD10 code	Condition	ICD10CN	Valid	Non-standard"
+"1427230	Q98.800	Other specified sex chromosome abnormalities, male phenotype	ICD10 code	Condition	ICD10CN	Valid	Non-standard"
+"1427231	Q98.9	Sex chromosome abnormality, male phenotype, unspecified	ICD10 code	Condition	ICD10CN	Valid	Non-standard"
+"1427232	Q98.900	Sex chromosome abnormality, male phenotype, unspecified	ICD10 code	Condition	ICD10CN	Valid	Non-standard"
+1427236	Q99.001	Sex reversal syndrome (machine translation)	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+37093347	Q56	Indeterminate sex and pseudohermaphroditism	ICD10 Hierarchy	Condition	ICD10GM	Valid	Non-standard
+"37093352	Q56.4	Indeterminate sex, unspecified	ICD10 code	Condition	ICD10GM	Valid	Non-standard"
+37093735	Q95.3	Balanced sex/autosomal rearrangement in abnormal individual	ICD10 code	Condition	ICD10GM	Valid	Non-standard
+"37093743	Q96.2	Karyotype 46,X with abnormal sex chromosome, except iso (Xq)	ICD10 code	Condition	ICD10GM	Valid	Non-standard"
+"37093745	Q96.4	Mosaicism, 45,X/other cell line(s) with abnormal sex chromosome	ICD10 code	Condition	ICD10GM	Valid	Non-standard"
+"37093748	Q97	Other sex chromosome abnormalities, female phenotype, not elsewhere classified	ICD10 Hierarchy	Condition	ICD10GM	Valid	Non-standard"
+"37093753	Q97.8	Other specified sex chromosome abnormalities, female phenotype	ICD10 code	Condition	ICD10GM	Valid	Non-standard"
+"37093754	Q97.9	Sex chromosome abnormality, female phenotype, unspecified	ICD10 code	Condition	ICD10GM	Valid	Non-standard"
+"37093755	Q98	Other sex chromosome abnormalities, male phenotype, not elsewhere classified	ICD10 Hierarchy	Condition	ICD10GM	Valid	Non-standard"
+37093762	Q98.6	Male with structurally abnormal sex chromosome	ICD10 code	Condition	ICD10GM	Valid	Non-standard
+37093763	Q98.7	Male with sex chromosome mosaicism	ICD10 code	Condition	ICD10GM	Valid	Non-standard
+"37093764	Q98.8	Other specified sex chromosome abnormalities, male phenotype	ICD10 code	Condition	ICD10GM	Valid	Non-standard"
+"37093765	Q98.9	Sex chromosome abnormality, male phenotype, unspecified	ICD10 code	Condition	ICD10GM	Valid	Non-standard"
+44824123	302.71	Hypoactive sexual desire disorder	5-dig billing code	Condition	ICD9CM	Valid	Non-standard
+44825303	302.0	Ego-dystonic sexual orientation	4-dig billing code	Condition	ICD9CM	Valid	Non-standard
+44825333	339.82	Headache associated with sexual activity	5-dig billing code	Condition	ICD9CM	Valid	Non-standard
+44826938	752.7	Indeterminate sex and pseudohermaphroditism	4-dig billing code	Condition	ICD9CM	Valid	Non-standard
+44834593	302.72	Psychosexual dysfunction with inhibited sexual excitement	5-dig billing code	Condition	ICD9CM	Valid	Non-standard
+44835069	758.81	Other conditions due to sex chromosome anomalies	5-dig billing code	Condition	ICD9CM	Valid	Non-standard
+"751717	8590/1-C62.9	Sex cord-gonadal stromal tumor, NOS, of testis, NOS	ICDO Condition	Condition	ICDO3	Valid	Standard"
+"36402557	8590/1-C54.1	Sex cord-gonadal stromal tumor, NOS, of endometrium	ICDO Condition	Condition	ICDO3	Valid	Standard"
+"36403087	8590/3-C56.9	Sex cord-gonadal stromal tumor, malignant, NOS, of ovary	ICDO Condition	Condition	ICDO3	Valid	Standard"
+"36403097	8623/3-C56.9	Sex cord tumor with annular tubules, malignant of ovary	ICDO Condition	Condition	ICDO3	Valid	Standard"
+"36403099	8590/3-C55.9	Sex cord-gonadal stromal tumor, malignant, NOS, of uterus, NOS	ICDO Condition	Condition	ICDO3	Valid	Standard"
+"36517217	8590/1-C74.1	Sex cord-gonadal stromal tumor, NOS, of medulla of adrenal gland	ICDO Condition	Condition	ICDO3	Valid	Standard"
+"36518213	8592/1-C63.0	Sex cord-gonadal stromal tumor, mixed forms of epididymis	ICDO Condition	Condition	ICDO3	Valid	Standard"
+"36519437	8591/1-C62.1	Sex cord-gonadal stromal tumor, incompletely differentiated of descended testis	ICDO Condition	Condition	ICDO3	Valid	Standard"
+"36521050	8592/1-C63.1	Sex cord-gonadal stromal tumor, mixed forms of spermatic cord	ICDO Condition	Condition	ICDO3	Valid	Standard"
+"36522737	8591/1-C63.7	Sex cord-gonadal stromal tumor, incompletely differentiated of other specified parts of male genital organs	ICDO Condition	Condition	ICDO3	Valid	Standard"
+"36523160	8592/1-C62.9	Sex cord-gonadal stromal tumor, mixed forms of testis, NOS	ICDO Condition	Condition	ICDO3	Valid	Standard"
+36528379	8593/1-C56.9	Stromal tumor with minor sex cord elements of ovary	ICDO Condition	Condition	ICDO3	Valid	Standard
+"36532799	8590/1-C56.9	Sex cord-gonadal stromal tumor, NOS, of ovary	ICDO Condition	Condition	ICDO3	Valid	Non-standard"
+"36534116	8591/1-C63.9	Sex cord-gonadal stromal tumor, incompletely differentiated of male genital organs, NOS	ICDO Condition	Condition	ICDO3	Valid	Standard"
+"36535792	8591/1-C63.0	Sex cord-gonadal stromal tumor, incompletely differentiated of epididymis	ICDO Condition	Condition	ICDO3	Valid	Standard"
+"36538421	8592/1-C62.0	Sex cord-gonadal stromal tumor, mixed forms of undescended testis	ICDO Condition	Condition	ICDO3	Valid	Standard"
+"36539911	8592/1-C63.7	Sex cord-gonadal stromal tumor, mixed forms of other specified parts of male genital organs	ICDO Condition	Condition	ICDO3	Valid	Standard"
+"36540701	8592/1-C62.1	Sex cord-gonadal stromal tumor, mixed forms of descended testis	ICDO Condition	Condition	ICDO3	Valid	Standard"
+"36541203	8590/1-C74.9	Sex cord-gonadal stromal tumor, NOS, of adrenal gland, NOS	ICDO Condition	Condition	ICDO3	Valid	Standard"
+"36541518	8592/1-C63.2	Sex cord-gonadal stromal tumor, mixed forms of scrotum, NOS	ICDO Condition	Condition	ICDO3	Valid	Standard"
+"36544674	8590/1-C74.0	Sex cord-gonadal stromal tumor, NOS, of cortex of adrenal gland	ICDO Condition	Condition	ICDO3	Valid	Standard"
+"36545053	8592/1-C63.8	Sex cord-gonadal stromal tumor, mixed forms of overlapping lesion of male genital organs	ICDO Condition	Condition	ICDO3	Valid	Standard"
+"36550507	8591/1-C63.2	Sex cord-gonadal stromal tumor, incompletely differentiated of scrotum, NOS	ICDO Condition	Condition	ICDO3	Valid	Standard"
+36551600	8623/1-C56.9	Sex cord tumor with annular tubules of ovary	ICDO Condition	Condition	ICDO3	Valid	Standard
+"36556876	8591/1-C62.0	Sex cord-gonadal stromal tumor, incompletely differentiated of undescended testis	ICDO Condition	Condition	ICDO3	Valid	Standard"
+"36559597	8591/1-C63.1	Sex cord-gonadal stromal tumor, incompletely differentiated of spermatic cord	ICDO Condition	Condition	ICDO3	Valid	Standard"
+"36560596	8591/1-C63.8	Sex cord-gonadal stromal tumor, incompletely differentiated of overlapping lesion of male genital organs	ICDO Condition	Condition	ICDO3	Valid	Standard"
+"36561905	8592/1-C63.9	Sex cord-gonadal stromal tumor, mixed forms of male genital organs, NOS	ICDO Condition	Condition	ICDO3	Valid	Standard"
+"36564321	8591/1-C62.9	Sex cord-gonadal stromal tumor, incompletely differentiated of testis, NOS	ICDO Condition	Condition	ICDO3	Valid	Standard"
+"42512434	8590/3-C62.1	Sex cord-gonadal stromal tumor, malignant, NOS, of descended testis	ICDO Condition	Condition	ICDO3	Valid	Standard"
+"42513398	8590/0-NULL	Neoplasm defined only by histology: Sex cord-stromal tumor, benign	ICDO Condition	Condition	ICDO3	Valid	Standard"
+"42513399	8590/1-NULL	Neoplasm defined only by histology: Sex cord-gonadal stromal tumor, NOS	ICDO Condition	Condition	ICDO3	Valid	Standard"
+"42513400	8591/1-NULL	Neoplasm defined only by histology: Sex cord-gonadal stromal tumor, incompletely differentiated	ICDO Condition	Condition	ICDO3	Valid	Standard"
+"42513401	8592/1-NULL	Neoplasm defined only by histology: Sex cord-gonadal stromal tumor, mixed forms	ICDO Condition	Condition	ICDO3	Valid	Standard"
+42513402	8593/1-NULL	Neoplasm defined only by histology: Stromal tumor with minor sex cord elements	ICDO Condition	Condition	ICDO3	Valid	Standard
+42513414	8623/1-NULL	Neoplasm defined only by histology: Sex cord tumor with annular tubules	ICDO Condition	Condition	ICDO3	Valid	Standard
+"42514084	8590/3-NULL	Neoplasm defined only by histology: Sex cord-gonadal stromal tumor, malignant, NOS	ICDO Condition	Condition	ICDO3	Valid	Standard"
+"42514167	8593/3-NULL	Neoplasm defined only by histology: Malignant stromal tumor, with sex cord elements	ICDO Condition	Condition	ICDO3	Valid	Standard"
+"42514322	8623/3-NULL	Neoplasm defined only by histology: Sex cord tumor with annular tubules, malignant	ICDO Condition	Condition	ICDO3	Valid	Standard"
+"44505845	8592/1-C56	Sex cord-gonadal stromal tumor, mixed forms of ovary	ICDO Condition	Condition	ICDO3	Invalid	Non-standard"
+"44505876	8592/1-C56.9	Sex cord-gonadal stromal tumor, mixed forms of ovary	ICDO Condition	Condition	ICDO3	Valid	Standard"
+"980176	C567517	Sex Reversal, Female, With Dysgenesis Of Kidneys, Adrenals, And Lungs	Suppl Concept	Condition	MeSH	Valid	Non-standard"
+45610700	D008393	Marriage	Main Heading	Condition	MeSH	Invalid	Non-standard
+"45611005	D016114	Ichthyosis, X-Linked	Main Heading	Condition	MeSH	Valid	Non-standard"
+45614428	D010262	Paraphilic Disorders	Main Heading	Condition	MeSH	Valid	Non-standard
+45614483	D011477	Sex Work	Main Heading	Condition	MeSH	Valid	Non-standard
+45614731	D019082	Smith-Lemli-Opitz Syndrome	Main Heading	Condition	MeSH	Valid	Non-standard
+45614821	D047568	Unsafe Sex	Main Heading	Condition	MeSH	Valid	Non-standard
+45615722	D012734	Sex Differentiation Disorders	Condition	Condition	MeSH	Invalid	Non-standard
+45617189	D025064	Sex Chromosome Disorders	Main Heading	Condition	MeSH	Valid	Non-standard
+45618135	D012725	Sexual Behavior	Main Heading	Condition	MeSH	Valid	Non-standard
+45619016	D005114	Extramarital Relations	Main Heading	Condition	MeSH	Invalid	Non-standard
+45619020	D005144	F Factor	Main Heading	Condition	MeSH	Valid	Non-standard
+45619329	D012729	Sex Chromosome Aberrations	Main Heading	Condition	MeSH	Valid	Non-standard
+45619330	D012742	Sex Offenses	Main Heading	Condition	MeSH	Valid	Non-standard
+73584	268229003	Indeterminate sex and pseudohermaphroditism	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+441398	95462004	Anomaly of sex chromosome	Clinical Finding	Condition	SNOMED	Valid	Standard
+759913	107731000119108	Neoplasm of uncertain behavior of testicular sex cord	Clinical Finding	Condition	SNOMED	Valid	Standard
+763767	446131000124102	Identifies as non-conforming gender	Clinical Finding	Condition	SNOMED	Valid	Standard
+764392	454361000124100	Has same sex partner	Clinical Finding	Condition	SNOMED	Valid	Standard
+3524804	248671000000103	Sexual activity - oral sex	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3524805	248681000000101	Sexual activity - anal sex	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3524820	249521000000107	Sexual activity - oral sex	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3524821	249531000000109	Sexual activity - anal sex	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3524872	252151000000100	Sexual activity - oral sex	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3524873	252161000000102	Sexual activity - anal sex	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+"3529184	456451000000105	[X]Sex chromosome abnormality, male phenotype, unspecified	Clinical Finding	Condition	SNOMED	Invalid	Non-standard"
+3531565	542891000000108	Sex of baby NOS	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3534727	593891000000109	Indeterminate sex or pseudohermaphroditism NOS	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3535385	604741000000101	Other specified sex chromosome anomaly	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3538659	652541000000108	Other sex chromosome anomaly	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3538660	652551000000106	Sex chromosome mosaicism NOS	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3538661	652561000000109	Other sex chromosome abnormality NOS	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3540103	674451000000103	Indeterminate sex NOS	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3541084	688161000000109	Sex chromosome anomaly NOS	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3654633	838325009	46 XY disorder of sex development due to maternal ingestion of estrogen	Clinical Finding	Condition	SNOMED	Valid	Standard
+3654634	838326005	46 XX disorder of sex development due to maternal Krukenberg neoplasm	Clinical Finding	Condition	SNOMED	Valid	Standard
+3654635	838327001	46 XX disorder of sex development due to maternal arrhenoblastoma	Clinical Finding	Condition	SNOMED	Valid	Standard
+3654636	838328006	46 XX disorder of sex development due to maternal androluteoma	Clinical Finding	Condition	SNOMED	Valid	Standard
+3654637	838329003	46 XX disorder of sex development due to maternal adrenal neoplasm	Clinical Finding	Condition	SNOMED	Valid	Standard
+3654644	838336002	46 XY disorder of sex development due to maternal ingestion of progestogen	Clinical Finding	Condition	SNOMED	Valid	Standard
+"4002028	110441005	Barr body absent, nuclear sex male	Clinical Finding	Condition	SNOMED	Valid	Standard"
+4002618	204897001	Indeterminate sex or pseudohermaphroditism NOS	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+"4004648	205687000	Karyotype 46, X with abnormal sex chromosome except iso (Xq)	Clinical Finding	Condition	SNOMED	Valid	Standard"
+4004775	205704004	Other sex chromosome anomaly	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+"4005811	110440006	Barr body present, nuclear sex female	Clinical Finding	Condition	SNOMED	Valid	Standard"
+4007427	205674006	Balanced sex/autosomal rearrangement in abnormal individual	Clinical Finding	Condition	SNOMED	Valid	Standard
+"4007559	205689002	Mosaicism 45, X / other cell line with abnormal sex chromosome	Clinical Finding	Condition	SNOMED	Invalid	Non-standard"
+4007561	205705003	Additional sex chromosome	Clinical Finding	Condition	SNOMED	Valid	Standard
+4007562	205706002	Sex chromosome mosaicism	Clinical Finding	Condition	SNOMED	Valid	Standard
+4007564	205711000	Sex chromosome mosaicism NOS	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+4007726	205722001	Other sex chromosome abnormality NOS	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+4007727	205723006	Sex chromosome anomaly NOS	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+4012204	162177003	Improved sex life	Clinical Finding	Condition	SNOMED	Valid	Standard
+4015424	169847008	Sex of baby NOS	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+4021352	225515003	Same generation sex partner	Clinical Finding	Condition	SNOMED	Valid	Standard
+4021353	225519009	Enjoys having sex	Clinical Finding	Condition	SNOMED	Valid	Standard
+4021660	225518001	Sex within a relationship only	Clinical Finding	Condition	SNOMED	Valid	Standard
+4021850	115825002	XS2 phenotype	Clinical Finding	Condition	SNOMED	Valid	Standard
+4023049	225514004	Cross-generation sex partner	Clinical Finding	Condition	SNOMED	Valid	Standard
+4036550	228467001	Casual sexual relationship	Clinical Finding	Condition	SNOMED	Valid	Standard
+4036551	228480003	Uses gloves as protection for sex	Clinical Finding	Condition	SNOMED	Valid	Standard
+4036552	228481004	Uses finger cot as protection for sex	Clinical Finding	Condition	SNOMED	Valid	Standard
+4036553	228482006	Uses dental dam as protection for sex	Clinical Finding	Condition	SNOMED	Valid	Standard
+4036554	228483001	Douching used as protection for sex	Clinical Finding	Condition	SNOMED	Valid	Standard
+4038729	228477004	No protection used for sex	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+4041163	166441004	Female sex hormones abnormal	Clinical Finding	Condition	SNOMED	Valid	Standard
+4041375	166466000	Male sex hormones borderline	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+4042417	166454006	Male sex hormones normal	Clinical Finding	Condition	SNOMED	Valid	Standard
+4042925	166440003	Female sex hormones normal	Clinical Finding	Condition	SNOMED	Valid	Standard
+4042929	166455007	Male sex hormones low	Clinical Finding	Condition	SNOMED	Valid	Standard
+4042931	166467009	Male sex hormones raised	Clinical Finding	Condition	SNOMED	Valid	Standard
+4045279	229026006	Sharing of sex aids	Clinical Finding	Condition	SNOMED	Valid	Standard
+4065279	164854000	ECG normal	Clinical Finding	Condition	SNOMED	Valid	Standard
+4066580	2145000	Anal penetration	Clinical Finding	Condition	SNOMED	Valid	Standard
+4069301	20319008	Normal enjoyment of sex	Clinical Finding	Condition	SNOMED	Valid	Standard
+"4082500	239090002	Age, sex or race-related dermatoses	Clinical Finding	Condition	SNOMED	Valid	Standard"
+4085355	248091009	Desire to become member of the opposite sex	Clinical Finding	Condition	SNOMED	Valid	Standard
+4110268	254259001	Absence of sex chromosome	Clinical Finding	Condition	SNOMED	Valid	Standard
+4110273	254284003	Sex chromosome abnormality - male phenotype	Clinical Finding	Condition	SNOMED	Valid	Standard
+4111485	254277006	Sex chromosome abnormality - female phenotype	Clinical Finding	Condition	SNOMED	Valid	Standard
+4111487	254285002	Male with structurally abnormal sex chromosome	Clinical Finding	Condition	SNOMED	Valid	Standard
+4111939	254751002	Solitary eruptive xanthogranuloma	Clinical Finding	Condition	SNOMED	Valid	Standard
+4112861	254862009	Benign sex cord tumor of ovary	Clinical Finding	Condition	SNOMED	Valid	Standard
+4114979	254286001	Male with sex chromosome mosaicism	Clinical Finding	Condition	SNOMED	Valid	Standard
+4116074	254860001	Malignant sex cord tumor of ovary	Clinical Finding	Condition	SNOMED	Valid	Standard
+4127395	237058000	Sex cord tumor of ovary	Clinical Finding	Condition	SNOMED	Valid	Standard
+4142793	33617007	Oral penetration	Clinical Finding	Condition	SNOMED	Valid	Standard
+4148036	309842008	Virgin	Clinical Finding	Condition	SNOMED	Valid	Standard
+4149230	268301004	Other specified sex chromosome anomaly	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+4151866	268230008	Indeterminate sex NOS	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+4161489	291825002	Sex hormone poisoning	Clinical Finding	Condition	SNOMED	Valid	Standard
+4170318	294744002	Sex hormones allergy	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+4170705	49359006	Brother-brother sex play	Clinical Finding	Condition	SNOMED	Valid	Standard
+4179218	429019009	Finding related to biological sex	Clinical Finding	Condition	SNOMED	Valid	Standard
+4179609	296877009	Sex hormone overdose	Clinical Finding	Condition	SNOMED	Valid	Standard
+"4187678	46023009	Pedophilia, same AND opposite sex	Clinical Finding	Condition	SNOMED	Valid	Standard"
+4199558	302081005	Finding of sex of baby	Clinical Finding	Condition	SNOMED	Valid	Standard
+4202500	53713009	Works as prostitute	Clinical Finding	Condition	SNOMED	Valid	Standard
+"4217655	72543004	Stillbirth of immature fetus, sex undetermined (500-999 gms.)	Clinical Finding	Condition	SNOMED	Valid	Standard"
+4219249	72483009	Sex related disease	Clinical Finding	Condition	SNOMED	Valid	Standard
+4222315	83956003	Companion sex play	Clinical Finding	Condition	SNOMED	Valid	Standard
+"4236334	9083002	Pedophilia, opposite sex	Clinical Finding	Condition	SNOMED	Valid	Standard"
+4238377	40807001	Brother-sister sex play	Clinical Finding	Condition	SNOMED	Valid	Standard
+4241959	59450004	Mixed sex play	Clinical Finding	Condition	SNOMED	Valid	Standard
+"4247437	61180001	Adult gender identity disorder, sexually attracted to neither sex	Clinical Finding	Condition	SNOMED	Valid	Standard"
+4260958	4512007	Group sex play	Clinical Finding	Condition	SNOMED	Valid	Standard
+4262563	36114005	Sex phenotype-karyotype dissociation syndrome	Clinical Finding	Condition	SNOMED	Valid	Standard
+4264303	61846002	Male adolescent aberrant sex behavior	Clinical Finding	Condition	SNOMED	Valid	Standard
+4267669	365784007	Male sex hormones - serum level - finding	Clinical Finding	Condition	SNOMED	Valid	Standard
+4269992	365953001	Finding related to use of protection for sex	Clinical Finding	Condition	SNOMED	Valid	Standard
+4269994	365962004	Enjoyment of sex - finding	Clinical Finding	Condition	SNOMED	Valid	Standard
+4270763	63557009	Sex exploration	Clinical Finding	Condition	SNOMED	Valid	Standard
+4275252	64266000	Sister-sister sex play	Clinical Finding	Condition	SNOMED	Valid	Standard
+4275487	365955008	Finding related to behavior accompanying sex	Clinical Finding	Condition	SNOMED	Valid	Standard
+4276567	365780003	Urine sex hormone level - finding	Clinical Finding	Condition	SNOMED	Valid	Standard
+4276568	365782006	Female sex hormones - serum level - finding	Clinical Finding	Condition	SNOMED	Valid	Standard
+"4281982	67227000	Pedophilia, same sex	Clinical Finding	Condition	SNOMED	Valid	Standard"
+4306765	83549001	Observation of parental sex act	Clinical Finding	Condition	SNOMED	Valid	Standard
+4321696	70256003	Sexual intercourse - finding	Clinical Finding	Condition	SNOMED	Valid	Standard
+4337507	87388001	Does not enjoy having sex	Clinical Finding	Condition	SNOMED	Valid	Standard
+"35622283	763683004	46,XY ovotesticular disorder of sex development	Clinical Finding	Condition	SNOMED	Valid	Standard"
+35622882	765108007	Pedophilia targeting children of female sex	Clinical Finding	Condition	SNOMED	Valid	Standard
+35622883	765109004	Pedophilia targeting children of male sex	Clinical Finding	Condition	SNOMED	Valid	Standard
+35623012	765285002	Sexually attracted to male sex	Clinical Finding	Condition	SNOMED	Valid	Standard
+35623013	765286001	Sexually attracted to female sex	Clinical Finding	Condition	SNOMED	Valid	Standard
+35623014	765287005	Sexually attracted to male and female sex	Clinical Finding	Condition	SNOMED	Valid	Standard
+35623015	765288000	Sexually attracted to neither male nor female sex	Clinical Finding	Condition	SNOMED	Valid	Standard
+36714286	719450007	Disorder of sex development with intellectual disability syndrome	Clinical Finding	Condition	SNOMED	Valid	Standard
+36715303	720851007	Chondrodysplasia with disorder of sex development syndrome	Clinical Finding	Condition	SNOMED	Valid	Standard
+"36717541	722202006	Palmoplantar keratoderma, 46,XX sex reversal, predisposition to squamous cell carcinoma syndrome	Clinical Finding	Condition	SNOMED	Valid	Standard"
+37109842	723720008	SERKAL syndrome	Clinical Finding	Condition	SNOMED	Valid	Standard
+37110738	725084009	Sex chromosome aneuploidy	Clinical Finding	Condition	SNOMED	Valid	Standard
+"37116740	733621007	46,XX disorder of sex development with skeletal anomalies syndrome	Clinical Finding	Condition	SNOMED	Valid	Standard"
+"37116741	733622000	46,XX disorder of sex development with anorectal anomalies syndrome	Clinical Finding	Condition	SNOMED	Valid	Standard"
+"37118645	733050004	Dysmorphism, short stature, deafness, disorder of sex development syndrome	Clinical Finding	Condition	SNOMED	Valid	Standard"
+"37204433	783092005	46,XY disorder of sex development, adrenal insufficiency due to CYP11A1 deficiency	Clinical Finding	Condition	SNOMED	Valid	Standard"
+40305027	139457008	Improved sex life	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40311812	147078007	Sex of baby NOS	Observable Entity	Condition	SNOMED	Invalid	Non-standard
+40314741	143781006	Female sex hormones normal	Context-dependent	Condition	SNOMED	Invalid	Non-standard
+40314742	143782004	Female sex hormones abnormal	Context-dependent	Condition	SNOMED	Invalid	Non-standard
+40314750	143790004	Male sex hormones normal	Context-dependent	Condition	SNOMED	Invalid	Non-standard
+40314752	143791000	Male sex hormones low	Context-dependent	Condition	SNOMED	Invalid	Non-standard
+40314756	143795009	Male sex hormones borderline	Context-dependent	Condition	SNOMED	Invalid	Non-standard
+40314757	143796005	Male sex hormones raised	Context-dependent	Condition	SNOMED	Invalid	Non-standard
+40324571	161776004	Unprotected intercourse	Context-dependent	Condition	SNOMED	Invalid	Non-standard
+40333682	169837005	Sex of baby (& [female] or [male] or [delivery])	Observable Entity	Condition	SNOMED	Invalid	Non-standard
+"40402351	205703005	[X]Sex chromosome abnormality, male phenotype, unspecified	Clinical Finding	Condition	SNOMED	Invalid	Non-standard"
+40402364	205715009	Male with structurally abnormal sex chromosome	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40402365	205716005	(Other specified sex chromosome anomaly) or (absence of sex chromosome)	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+"40403749	205994000	[X]Other specified sex chromosome abnormalities, female phenotype	Clinical Finding	Condition	SNOMED	Invalid	Non-standard"
+"40403751	205996003	[X]Other specified sex chromosome abnormalities, male phenotype	Clinical Finding	Condition	SNOMED	Invalid	Non-standard"
+"40403753	205998002	[X]Sex chromosome abnormality, male phenotype, unspecified	Clinical Finding	Condition	SNOMED	Invalid	Non-standard"
+40406108	204895009	Indeterminate sex and pseudohermaphroditism (& [gynandrism])	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40482657	442241007	Male sex hormones borderline high	Clinical Finding	Condition	SNOMED	Valid	Standard
+40483073	442317007	Male sex hormones borderline low	Clinical Finding	Condition	SNOMED	Valid	Standard
+"44794017	390491000000100	[X]Other specified sex chromosome abnormalities, male phenotype	Clinical Finding	Condition	SNOMED	Invalid	Non-standard"
+"44797664	438981000000105	[X]Sex chromosome abnormality, male phenotype, unspecified	Clinical Finding	Condition	SNOMED	Invalid	Non-standard"
+44798530	443251000000101	[V]Problems related to alleged sex abuse child by person within primary support group	Context-dependent	Condition	SNOMED	Invalid	Non-standard
+"44813321	451011000000109	[X]Other specified sex chromosome abnormalities, female phenotype	Clinical Finding	Condition	SNOMED	Invalid	Non-standard"
+45763941	700488005	Malignant sex cord tumor of testis	Clinical Finding	Condition	SNOMED	Valid	Standard
+45765461	702406000	Sex cord stromal tumor of testis	Clinical Finding	Condition	SNOMED	Valid	Standard
+46270485	32570681000036106	Indeterminate sex	Clinical Finding	Condition	SNOMED	Valid	Standard
+"46271771	710019006	Mosaicism 45, X or other cell line with abnormal sex chromosome	Clinical Finding	Condition	SNOMED	Valid	Standard"
+"45758655	463470004	Oral/vaginal sex barrier, Hevea-latex	Physical Object	Device	SNOMED	Valid	Standard"
+"45758829	463736004	Oral/vaginal sex barrier, non-latex	Physical Object	Device	SNOMED	Valid	Standard"
+36210173	LA27925-9	Same sex partner	Answer	Meas Value	LOINC	Valid	Standard
+36307874	LA21895-0	Consistent with three sex chromosomes (XYY)	Answer	Meas Value	LOINC	Valid	Standard
+36307894	LA21892-7	Consistent with two sex chromosomes (XX -Female)	Answer	Meas Value	LOINC	Valid	Standard
+36309246	LA21894-3	Consistent with three sex chromosomes (XXY)	Answer	Meas Value	LOINC	Valid	Standard
+36309266	LA21891-9	Consistent with two sex chromosomes (XY - Male)	Answer	Meas Value	LOINC	Valid	Standard
+36310262	LA28306-1	Having sex	Answer	Meas Value	LOINC	Valid	Standard
+36310772	LA21899-2	Consistent with one sex chromosome (X0 or Turner Syndrome)	Answer	Meas Value	LOINC	Valid	Standard
+36310847	LA21893-5	Consistent with three sex chromosomes (XXX)	Answer	Meas Value	LOINC	Valid	Standard
+36311090	LA21896-8	Sex chromosome determination inconclusive	Answer	Meas Value	LOINC	Valid	Standard
+"45877126	LA16516-9	More interested in sex, or have increased sexual desire	Answer	Meas Value	LOINC	Valid	Standard"
+45882392	LA6513-1	Sex Outreach/special services - sex worker	Answer	Meas Value	LOINC	Valid	Standard
+"724970	1031054	ASXL1 (additional sex combs like 1, transcriptional regulator) (eg, myelodysplastic syndrome, myeloproliferative neoplasms, chronic myelomonocytic leukemia), gene analysis	CPT4 Hierarchy	Measurement	CPT4	Valid	Classification"
+"725080	81175	ASXL1 (additional sex combs like 1, transcriptional regulator) (eg, myelodysplastic syndrome, myeloproliferative neoplasms, chronic myelomonocytic leukemia), gene analysis; full gene sequence	CPT4	Measurement	CPT4	Valid	Standard"
+"725081	81176	ASXL1 (additional sex combs like 1, transcriptional regulator) (eg, myelodysplastic syndrome, myeloproliferative neoplasms, chronic myelomonocytic leukemia), gene analysis; targeted sequence analysis (eg, exon 12)	CPT4	Measurement	CPT4	Valid	Standard"
+2212568	84270	Sex hormone binding globulin (SHBG)	CPT4	Measurement	CPT4	Valid	Standard
+2213218	88130	Sex chromatin identification; Barr bodies	CPT4	Measurement	CPT4	Valid	Standard
+"2213219	88140	Sex chromatin identification; peripheral blood smear, polymorphonuclear drumsticks	CPT4	Measurement	CPT4	Valid	Standard"
+"42742370	81400	Molecular pathology procedure, Level 1	CPT4	Measurement	CPT4	Valid	Standard"
+"42742373	81403	Molecular pathology procedure, Level 4	CPT4	Measurement	CPT4	Valid	Standard"
+45889277	1012378	Sex chromatin identification	CPT4 Hierarchy	Measurement	CPT4	Valid	Classification
+3000230	11882-8	Fetal Sex US	Clinical Observation	Measurement	LOINC	Valid	Standard
+3003857	11883-6	Fetal Narrative Sex US	Clinical Observation	Measurement	LOINC	Valid	Standard
+3004248	13967-5	Sex hormone binding globulin [Moles/volume] in Serum or Plasma	Lab Test	Measurement	LOINC	Valid	Standard
+3011099	2942-1	Sex hormone binding globulin [Mass/volume] in Serum or Plasma	Lab Test	Measurement	LOINC	Valid	Standard
+3013770	21555-8	Testosterone [Mass/volume] adjusted for sex hormone binding globulin in Serum or Plasma	Lab Test	Measurement	LOINC	Valid	Standard
+21493620	82257-7	SRY gene deletion in Blood or Tissue by FISH	Lab Test	Measurement	LOINC	Valid	Standard
+21494130	81748-6	Chromosome region Yp11.3 deletion AndOr rearrangement in Blood or Tissue by FISH	Lab Test	Measurement	LOINC	Valid	Standard
+36304768	88857-8	Donor-recipient gender combination score for risk calculation	Clinical Observation	Measurement	LOINC	Valid	Standard
+36304939	89007-9	SOX-2 Ab [Units/volume] in Serum or Plasma by Immunoassay	Lab Test	Measurement	LOINC	Valid	Standard
+37020104	91692-4	Sex of Personnel	Clinical Observation	Measurement	LOINC	Valid	Standard
+37021278	91699-9	Sex of Volunteer	Clinical Observation	Measurement	LOINC	Valid	Standard
+37026813	LP410753-0	Fetal sex | Plasma cell-free+WBC DNA | Molecular pathology	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37065684	LP410752-2	Fetal sex | Plasma cell-free DNA | Molecular pathology	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37067572	LP384715-1	Sex hormone binding globulin | Serum or Plasma | Chemistry - non-challenge	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37077917	LP376548-6	Sex and Stage | Tick | Microbiology	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+40655429	LG46684-3	Sex hormone binding globulin|Pt|Ser/Plas	LOINC Group	Measurement	LOINC	Valid	Classification
+40759174	56053-2	Deprecated PhenX measure - gender	Clinical Observation	Measurement	LOINC	Invalid	Non-standard
+40760429	57310-5	SRY gene mutations found [Identifier] in Blood or Tissue by Molecular genetics method Nominal	Lab Test	Measurement	LOINC	Valid	Standard
+40760433	57314-7	SRY gene mutations tested for in Blood or Tissue by Molecular genetics method Nominal	Lab Test	Measurement	LOINC	Valid	Standard
+40762638	59576-9	Body mass index (BMI) [Percentile] Per age and sex	Clinical Observation	Measurement	LOINC	Valid	Standard
+40763532	60478-5	Sex of Tick	Lab Test	Measurement	LOINC	Valid	Standard
+40768055	65359-2	Sex hormone binding globulin [Moles/volume] in Serum or Plasma --pre or post XXX challenge	Lab Test	Measurement	LOINC	Valid	Standard
+40796547	LP43026-1	Sex Hormone Binding Globulin | Bld-Ser-Plas	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+46235337	75604-9	Fetal sex in Cell-free+Maternal WBC DNA by Dosage of chromosome specific circulating cell free (ccf) DNA	Lab Test	Measurement	LOINC	Valid	Standard
+46235450	75668-4	Fetal sex [Likelihood] in Plasma cell-free DNA by Dosage of chromosome specifi cell free (cf) DNA	Lab Test	Measurement	LOINC	Valid	Standard
+46235475	75693-2	Fetal sex in Plasma cell-free DNA by Dosage of chromosome specific cell free (cf) DNA	Lab Test	Measurement	LOINC	Valid	Standard
+46236327	77606-2	Weight-for-length Per age and sex	Clinical Observation	Measurement	LOINC	Valid	Standard
+"3544636	793821000000107	Congestive heart failure, hypertension, age 2, diabetes mellitus, stroke 2 - vascular disease, age, sex category stroke risk	Staging / Scales	Measurement	SNOMED	Invalid	Non-standard"
+3557291	535691000000101	Urine sex hormone titre NOS	Procedure	Measurement	SNOMED	Invalid	Non-standard
+3557292	535701000000101	Urine sex hormone 24 hour assay NOS	Procedure	Measurement	SNOMED	Invalid	Non-standard
+3557398	547451000000104	Female sex hormones NOS	Procedure	Measurement	SNOMED	Invalid	Non-standard
+3557604	575411000000105	Male sex hormones NOS	Procedure	Measurement	SNOMED	Invalid	Non-standard
+4041376	166474004	Male sex hormones NOS	Procedure	Measurement	SNOMED	Invalid	Non-standard
+4041524	166585000	Serum sex hormone binding globulin measurement	Procedure	Measurement	SNOMED	Valid	Standard
+4042259	167375007	Urine sex hormone measurement	Procedure	Measurement	SNOMED	Valid	Standard
+4042262	167400000	Urine sex hormone 24 hour assay NOS	Procedure	Measurement	SNOMED	Invalid	Non-standard
+4042928	166452005	Female sex hormones NOS	Procedure	Measurement	SNOMED	Invalid	Non-standard
+4043106	167389002	Urine sex hormone titer NOS	Procedure	Measurement	SNOMED	Invalid	Non-standard
+4055429	167390006	Urine sex hormone 24 hour assay	Procedure	Measurement	SNOMED	Valid	Standard
+4059688	169185008	Hormone radioassay - sex/placenta	Procedure	Measurement	SNOMED	Valid	Standard
+4082602	24753003	Sex hormone binding globulin measurement	Procedure	Measurement	SNOMED	Valid	Standard
+4156808	271221007	Female sex hormones - serum measurement	Procedure	Measurement	SNOMED	Valid	Standard
+4156809	271222000	Male sex hormones - serum measurement	Procedure	Measurement	SNOMED	Valid	Standard
+37017409	713678009	CHA2DS2-VASc score	Staging / Scales	Measurement	SNOMED	Valid	Standard
+37393306	1015281000000106	Urine sex hormone titre	Observable Entity	Measurement	SNOMED	Valid	Standard
+37394170	1027821000000108	Female sex hormones - serum level	Observable Entity	Measurement	SNOMED	Valid	Standard
+37398421	999661000000105	Serum sex hormone binding globulin level	Observable Entity	Measurement	SNOMED	Valid	Standard
+37398807	1030951000000105	Male sex hormones - serum level	Observable Entity	Measurement	SNOMED	Valid	Standard
+37398925	715456008	Percentage median body mass index for age and sex	Observable Entity	Measurement	SNOMED	Valid	Standard
+40309004	146404009	Hormone radioassay - sex/placenta	Procedure	Measurement	SNOMED	Invalid	Non-standard
+40309530	144609005	Urine sex hormone level	Procedure	Measurement	SNOMED	Invalid	Non-standard
+40309952	144621009	Urine sex hormone titer NOS	Procedure	Measurement	SNOMED	Invalid	Non-standard
+40309953	144622002	Urine sex hormone 24 hour assay	Procedure	Measurement	SNOMED	Invalid	Non-standard
+40309965	144633004	Urine sex hormone 24 hour assay NOS	Procedure	Measurement	SNOMED	Invalid	Non-standard
+40314739	143780007	Female sex hormones - serum (& level)	Procedure	Measurement	SNOMED	Invalid	Non-standard
+40314748	143788000	Female sex hormones NOS	Procedure	Measurement	SNOMED	Invalid	Non-standard
+40314749	143789008	Male sex hormones - serum (& level)	Procedure	Measurement	SNOMED	Invalid	Non-standard
+40314766	143803002	Male sex hormones NOS	Procedure	Measurement	SNOMED	Invalid	Non-standard
+40315298	143904009	Serum sex hormone binding globulin level	Procedure	Measurement	SNOMED	Invalid	Non-standard
+40327260	166439000	Female sex hormones - serum (& level)	Procedure	Measurement	SNOMED	Invalid	Non-standard
+40327276	166453000	Male sex hormones - serum (& level)	Procedure	Measurement	SNOMED	Invalid	Non-standard
+"42536432	735258002	CHA2DS2-VASc (congestive heart failure, hypertension, age 2, diabetes mellitus, stroke 2, vascular disease, age, sex category) score	Staging / Scales	Measurement	SNOMED	Valid	Standard"
+"42536433	735259005	CHA2DS2-VASc (congestive heart failure, hypertension, age 2, diabetes mellitus, stroke 2, vascular disease, age, sex category) stroke risk score	Observable Entity	Measurement	SNOMED	Valid	Standard"
+44789345	195451000000108	Sex hormone measurement	Procedure	Measurement	SNOMED	Valid	Standard
+"44806838	793811000000101	CHA2DS2-VASc (congestive heart failure, hypertension, age 2, diabetes mellitus, stroke 2, vascular disease, age, sex category) score	Staging / Scales	Measurement	SNOMED	Invalid	Non-standard"
+"44806840	793851000000102	CHA2DS2-VASc (congestive heart failure, hypertension, age 2, diabetes mellitus, stroke 2 - vascular disease, age, sex category) stroke risk score	Observable Entity	Measurement	SNOMED	Invalid	Non-standard"
+44807961	838331000000100	Determination of normalised metadrenaline product	Procedure	Measurement	SNOMED	Valid	Standard
+46286895	990291000000106	Percentage median body mass index for age and sex	Observable Entity	Measurement	SNOMED	Invalid	Non-standard
+3667319	915881000000103	Operations for disorders of sex development	Navi Concept	Metadata	SNOMED	Invalid	Non-standard
+3667324	915901000000100	Operations for disorders of sex development	Navi Concept	Metadata	SNOMED	Invalid	Non-standard
+3667330	915871000000100	Operations for disorders of sex development	Navi Concept	Metadata	SNOMED	Invalid	Non-standard
+3667359	915891000000101	Operations for disorders of sex development	Navi Concept	Metadata	SNOMED	Invalid	Non-standard
+3667363	915801000000108	Operations for disorders of sex development	Navi Concept	Metadata	SNOMED	Invalid	Non-standard
+42690562	999002891000000103	Person phenotypic sex findings simple reference set	Model Comp	Metadata	SNOMED	Valid	Non-standard
+44809792	894331000000104	Operations for disorders of sex development	Navi Concept	Metadata	SNOMED	Valid	Non-standard
+1595780	Z04.81	Encounter for examination and observation of victim following forced sexual exploitation	5-char billing code	Observation	ICD10CM	Valid	Non-standard
+"35225260	Z70.3	Counseling related to combined concerns regarding sexual attitude, behavior and orientation	4-char billing code	Observation	ICD10CM	Valid	Non-standard"
+35225261	Z70.8	Other sex counseling	4-char billing code	Observation	ICD10CM	Valid	Non-standard
+"35225262	Z70.9	Sex counseling, unspecified	4-char billing code	Observation	ICD10CM	Valid	Non-standard"
+45600367	Z87.890	Personal history of sex reassignment	6-char billing code	Observation	ICD10CM	Valid	Non-standard
+"36402231	8593/3	Malignant stromal tumor, with sex cord elements	ICDO Histology	Observation	ICDO3	Invalid	Non-standard"
+"36402235	8590/3	Sex cord-gonadal stromal tumor, malignant, NOS	ICDO Histology	Observation	ICDO3	Invalid	Non-standard"
+"36403170	8623/3	Sex cord tumor with annular tubules, malignant	ICDO Histology	Observation	ICDO3	Invalid	Non-standard"
+"42511140	8590/0	Sex cord-stromal tumor, benign	ICDO Histology	Observation	ICDO3	Valid	Non-standard"
+"44498581	8590/1	Sex cord-gonadal stromal tumor, NOS	ICDO Histology	Observation	ICDO3	Valid	Non-standard"
+"44498582	8591/1	Sex cord-gonadal stromal tumor, incompletely differentiated	ICDO Histology	Observation	ICDO3	Valid	Non-standard"
+"44498583	8592/1	Sex cord-gonadal stromal tumor, mixed forms	ICDO Histology	Observation	ICDO3	Valid	Non-standard"
+44498584	8593/1	Stromal tumor with minor sex cord elements	ICDO Histology	Observation	ICDO3	Valid	Non-standard
+44498594	8623/1	Sex cord tumor with annular tubules	ICDO Histology	Observation	ICDO3	Valid	Non-standard
+1002716	LP114925-3	Sex of relative	LOINC Component	Observation	LOINC	Valid	Non-standard
+1004264	LP100586-9	Per age and sex	LOINC Method	Observation	LOINC	Valid	Non-standard
+1004307	LP101395-4	Sex	LOINC Component	Observation	LOINC	Valid	Non-standard
+1006868	LP116946-7	How often did you have difficulty with lack of interest in sex	LOINC Component	Observation	LOINC	Valid	Non-standard
+1006881	LP116959-0	Over the past 4 weeks how satisfied have you been with your overall sex life	LOINC Component	Observation	LOINC	Valid	Non-standard
+1006924	LP117002-8	For females - have you ever had sex with a woman involving genital area or vaginal contact. For males - have you ever had sex with a man involving genital area or penis contact	LOINC Component	Observation	LOINC	Valid	Non-standard
+1007728	LP120640-0	Have you ever had sex with a partner who had a vasectomy	LOINC Component	Observation	LOINC	Valid	Non-standard
+1007729	LP120641-8	Have you ever had sex with a partner who used withdrawal or pulling out	LOINC Component	Observation	LOINC	Valid	Non-standard
+1008743	LP129951-2	How many times in the last year have you physically hurt or threatened to hurt someone to get them to have sex with you	LOINC Component	Observation	LOINC	Valid	Non-standard
+1008790	LP130009-6	How many times in the last year have you paid someone to have sex with you	LOINC Component	Observation	LOINC	Valid	Non-standard
+"1008791	LP130010-4	How many times in the last year have you been paid, or received other favors for having sex with someone	LOINC Component	Observation	LOINC	Valid	Non-standard"
+1008792	LP130011-2	How many times in the last year did you threaten or hurt someone to get them to have sex with you	LOINC Component	Observation	LOINC	Valid	Non-standard
+"1010414	LP145537-9	Race, ethnicity, sex, primary language, disability - Health and Human Services (HHS) panel	LOINC Component	Observation	LOINC	Valid	Non-standard"
+1010505	LP146127-8	I am interested in sex in the past 7 days	LOINC Component	Observation	LOINC	Valid	Non-standard
+1010549	LP146171-6	I am afraid to have sex in the past 7 days	LOINC Component	Observation	LOINC	Valid	Non-standard
+1010604	LP146226-8	I am satisfied with my sex life in the past 7 days	LOINC Component	Observation	LOINC	Valid	Non-standard
+1011001	LP146996-6	I have lost interest in sex in the past 7 days	LOINC Component	Observation	LOINC	Valid	Non-standard
+1011089	LP147332-3	Would you like to answer the question referring to your sex life	LOINC Component	Observation	LOINC	Valid	Non-standard
+"1011949	LP156487-3	Per age, sex and height	LOINC Method	Observation	LOINC	Valid	Non-standard"
+1013073	LP188938-7	Licensed nursing staff and sex panel	LOINC Component	Observation	LOINC	Valid	Non-standard
+1013267	LP189163-1	I had more desire for sex when I drank in past 30D	LOINC Component	Observation	LOINC	Valid	Non-standard
+1013363	LP189260-5	People have more desire for sex when they drink	LOINC Component	Observation	LOINC	Valid	Non-standard
+1013495	LP189793-5	Sex assigned	LOINC Component	Observation	LOINC	Valid	Non-standard
+"1015106	LP212423-0	How often did anyone at least 5 years older than you or an adult, force you to have sex	LOINC Component	Observation	LOINC	Valid	Non-standard"
+1015518	LP231922-8	Exchanged drugs AndOr money for sex in the past year	LOINC Component	Observation	LOINC	Valid	Non-standard
+1016800	LP253533-6	Ever had sex	LOINC Component	Observation	LOINC	Valid	Non-standard
+1022551	LP306798-2	Sex hormone binding globulin^pre or post XXX challenge	LOINC Component	Observation	LOINC	Valid	Non-standard
+1023259	LP307566-2	Testosterone^^adjusted for sex hormone binding globulin	LOINC Component	Observation	LOINC	Valid	Non-standard
+1023297	LP307612-4	Sex assigned^at birth	LOINC Component	Observation	LOINC	Valid	Non-standard
+3006517	10587-4	Sexual abstinence duration	Clinical Observation	Observation	LOINC	Valid	Standard
+3008181	21840-4	Sex [NAACCR v.11]	Clinical Observation	Observation	LOINC	Valid	Standard
+3046965	46098-0	Sex	Clinical Observation	Observation	LOINC	Valid	Standard
+3051310	46607-8	Deprecated Gender OASIS	Survey	Observation	LOINC	Invalid	Non-standard
+3051551	54131-8	Sex [USSG-FHT]	Survey	Observation	LOINC	Valid	Standard
+3051569	54123-5	Sex of Family member	Clinical Observation	Observation	LOINC	Valid	Standard
+"21493212	82151-2	How often did anyone at least 5 years older than you or an adult, force you to have sex--before 18 years old [ACE.BRFSS]	Survey	Observation	LOINC	Valid	Standard"
+21494574	81886-4	Sex of Provider	Clinical Observation	Observation	LOINC	Valid	Standard
+"36031297	96016-1	During the past 4 weeks, my skin condition interferes with my sex life [Skindex-29]	Survey	Observation	LOINC	Valid	Standard"
+"36034286	LP420580-5	During the past 4 weeks, my skin condition interferes with my sex life	LOINC Component	Observation	LOINC	Valid	Non-standard"
+36203485	85656-7	Sexual activity with a new partner in past 60D	Clinical Observation	Observation	LOINC	Valid	Standard
+36203508	85689-8	Sexual activity with known Chlamydia trachomatis AndOr Neisseria gonorhoeae case	Clinical Observation	Observation	LOINC	Valid	Standard
+36203543	85736-7	Number of sexual partners in last 12 months	Clinical Observation	Observation	LOINC	Valid	Standard
+36203759	86648-3	Sexual activity in the last year - Reported	Clinical Observation	Observation	LOINC	Valid	Standard
+36204341	86646-7	Ever had sex - Reported	Clinical Observation	Observation	LOINC	Valid	Standard
+36204342	86647-5	Sexual activity in the last 3 months - Reported	Clinical Observation	Observation	LOINC	Valid	Standard
+37028031	LP410743-1	Fetal sex	LOINC Component	Observation	LOINC	Valid	Non-standard
+37068113	LP40230-2	Sex and Stage	LOINC Component	Observation	LOINC	Valid	Non-standard
+40758342	55213-3	Number of male sexual partners in 6 months before symptom onset	Clinical Observation	Observation	LOINC	Valid	Standard
+40758343	55214-1	Number of female sexual partners in 6 months before symptom onset	Clinical Observation	Observation	LOINC	Valid	Standard
+40758344	55215-8	Total number of lifetime sexual partners	Clinical Observation	Observation	LOINC	Valid	Standard
+40766503	63781-9	Sex of Sibling	Clinical Observation	Observation	LOINC	Valid	Standard
+40766619	63898-1	Deprecated Sex of relative Family member [CA Teachers]	Clinical Observation	Observation	LOINC	Invalid	Non-standard
+40767386	64680-2	How often did you have difficulty with lack of interest in sex [PhenX]	Clinical Observation	Observation	LOINC	Valid	Standard
+40767387	64681-0	Over the past 4 weeks how often were you able to get an erection during sexual activity [PhenX]	Clinical Observation	Observation	LOINC	Valid	Standard
+"40767393	64687-7	Over the past 4 weeks when you attempted sexual intercourse, how often was it satisfactory for you [PhenX]	Clinical Observation	Observation	LOINC	Valid	Standard"
+"40767395	64689-3	Over the past 4 weeks when you had sexual stimulation or intercourse, how often did you ejaculate [PhenX]	Clinical Observation	Observation	LOINC	Valid	Standard"
+"40767396	64690-1	Over the past 4 weeks when you had sexual stimulation or intercourse, how often did you have the feeling of orgasm or climax [PhenX]	Clinical Observation	Observation	LOINC	Valid	Standard"
+40767399	64693-5	Over the past 4 weeks how satisfied have you been with your overall sex life [PhenX]	Clinical Observation	Observation	LOINC	Valid	Standard
+40767441	64736-2	For females - have you ever had sex with a woman involving genital area or vaginal contact. For males - have you ever had sex with a man involving genital area or penis contact [PhenX]	Clinical Observation	Observation	LOINC	Valid	Standard
+40768353	65663-7	Have you ever had sex with a partner who had a vasectomy [PhenX]	Clinical Observation	Observation	LOINC	Valid	Standard
+40768354	65664-5	Have you ever had sex with a partner who used withdrawal or pulling out [PhenX]	Clinical Observation	Observation	LOINC	Valid	Standard
+40769625	66977-0	How many times in the last year have you been paid for having sexual relations with someone [Denver Youth Survey]	Clinical Observation	Observation	LOINC	Valid	Standard
+40769626	66978-8	How many times in the last year have you physically hurt or threatened to hurt someone to get them to have sex with you [Denver Youth Survey]	Clinical Observation	Observation	LOINC	Valid	Standard
+"40769627	66979-6	How many times in the last year have you had or tried to have sexual relations with someone against their will, other than events you just mentioned [Denver Youth Survey]	Clinical Observation	Observation	LOINC	Valid	Standard"
+40769670	67035-6	How many times in the last year have you paid someone to have sex with you [Denver Youth Survey]	Clinical Observation	Observation	LOINC	Valid	Standard
+"40769671	67036-4	How many times in the last year have you been paid, or received other favors for having sex with someone [Denver Youth Survey]	Clinical Observation	Observation	LOINC	Valid	Standard"
+40769672	67037-2	How many times in the last year did you threaten or hurt someone to get them to have sex with you [Denver Youth Survey]	Clinical Observation	Observation	LOINC	Valid	Standard
+40792466	LP15863-1	Sex hormone binding globulin	LOINC Component	Observation	LOINC	Valid	Non-standard
+42529474	83312-9	Exchanged drugs AndOr money for sex in the past year	Clinical Observation	Observation	LOINC	Valid	Standard
+42529476	83314-5	Sexual activity while intoxicated AndOr high on drugs in the past year	Clinical Observation	Observation	LOINC	Valid	Standard
+42529477	83315-2	Sexual activity with a female in the past year	Clinical Observation	Observation	LOINC	Valid	Standard
+42529478	83316-0	Sexual activity with a male in the past year	Clinical Observation	Observation	LOINC	Valid	Standard
+42529479	83317-8	Sexual activity with anonymous partner in the past year	Clinical Observation	Observation	LOINC	Valid	Standard
+42529480	83318-6	Sexual activity with known intravenous drug user in the past year	Clinical Observation	Observation	LOINC	Valid	Standard
+"42868410	69919-9	Race, ethnicity, sex, primary language, disability - Health and Human Services (HHS) panel [HHS.ACA Section 4302]	Survey	Observation	LOINC	Valid	Standard"
+42868788	70317-3	I am interested in sex in the past 7 days [FACIT]	Survey	Observation	LOINC	Valid	Standard
+42868833	70362-9	I am afraid to have sex in the past 7 days [FACIT]	Survey	Observation	LOINC	Valid	Standard
+42868889	70418-9	I am satisfied with my sex life in the past 7 days [FACIT]	Survey	Observation	LOINC	Valid	Standard
+42869271	70803-2	I have lost interest in sex in the past 7 days [FACIT]	Survey	Observation	LOINC	Valid	Standard
+42869382	70914-7	Would you like to answer the question referring to your sex life [FACIT]	Survey	Observation	LOINC	Valid	Standard
+"42869651	71896-5	Pediatric blood pressure percentile [Per age, sex and height]	Survey	Observation	LOINC	Valid	Standard"
+43054886	72143-1	Sex [HL7.v3]	Survey	Observation	LOINC	Valid	Standard
+"43054907	72164-7	Pediatric diastolic blood pressure percentile [Per age, sex and height]	Survey	Observation	LOINC	Valid	Standard"
+"43054908	72165-4	Pediatric systolic blood pressure percentile [Per age, sex and height]	Survey	Observation	LOINC	Valid	Standard"
+44816596	74698-2	Sex [AHRQ]	Survey	Observation	LOINC	Valid	Standard
+46234813	76359-9	Licensed nursing staff and sex panel [NMMDS]	Survey	Observation	LOINC	Valid	Standard
+46234814	76360-7	Licensed nursing personnel [#] by sex [NMMDS]	Survey	Observation	LOINC	Valid	Standard
+46235200	76661-8	Sex of Provider [NMMDS]	Survey	Observation	LOINC	Valid	Standard
+46235213	76689-9	Sex assigned at birth	Clinical Observation	Observation	LOINC	Valid	Standard
+46235214	76690-7	Sexual orientation	Clinical Observation	Observation	LOINC	Valid	Standard
+46235215	76691-5	Gender identity	Clinical Observation	Observation	LOINC	Valid	Standard
+46236525	76891-1	People have more desire for sex when they drink [PROMIS]	Survey	Observation	LOINC	Valid	Standard
+46236670	77001-6	I had more desire for sex when I drank in past 30D [PROMIS]	Survey	Observation	LOINC	Valid	Standard
+437460	95922009	Child sex abuse	Clinical Finding	Observation	SNOMED	Valid	Standard
+762052	286501000119106	Family history of disorder due to sex chromosome abnormality	Context-dependent	Observation	SNOMED	Valid	Standard
+764801	64931000119108	Family history of sex chromosome translocation	Context-dependent	Observation	SNOMED	Valid	Standard
+3524847	250701000000104	Safer sex leaflet given	Procedure	Observation	SNOMED	Invalid	Non-standard
+3526038	273681000000107	Safer sex leaflet given	Procedure	Observation	SNOMED	Invalid	Non-standard
+3527585	333261000000108	Sex tourism	Admin Concept	Observation	SNOMED	Invalid	Non-standard
+3543822	769101000000109	Sex worker	Social Context	Observation	SNOMED	Invalid	Non-standard
+3543823	769111000000106	Sex worker	Social Context	Observation	SNOMED	Invalid	Non-standard
+3545247	827311000000109	Former sex worker	Context-dependent	Observation	SNOMED	Invalid	Non-standard
+3546781	917111000000107	Waterlow sex score	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+3553146	186021000000102	On sex offenders register	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+3568306	333061000000102	Safe sex	Admin Concept	Observation	SNOMED	Invalid	Non-standard
+3572377	189461000000108	On sex offenders register	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+"4028555	128722008	Sex cord-gonadal stromal tumor, mixed forms	Morph Abnormality	Observation	SNOMED	Valid	Standard"
+"4030126	128721001	Sex cord-gonadal stromal tumor, incompletely differentiated	Morph Abnormality	Observation	SNOMED	Valid	Standard"
+4030127	128723003	Stromal tumor with minor sex cord elements	Morph Abnormality	Observation	SNOMED	Valid	Standard
+4036428	228454004	Frequency of sex	Observable Entity	Observation	SNOMED	Valid	Standard
+4038728	228476008	Use of protection for sex	Observable Entity	Observation	SNOMED	Valid	Standard
+4045278	229024009	Behavior accompanying sex	Observable Entity	Observation	SNOMED	Valid	Standard
+4059169	161130006	Sex education problems	Clinical Finding	Observation	SNOMED	Valid	Standard
+4073312	224632003	Mixed sex boarding school	Location	Observation	SNOMED	Valid	Standard
+4077227	275553005	H/O:male sex function problem	Context-dependent	Observation	SNOMED	Valid	Standard
+4081596	184226007	Age/sex details on computer	Clinical Finding	Observation	SNOMED	Valid	Standard
+4083340	281335003	No patient sex given	Clinical Finding	Observation	SNOMED	Valid	Standard
+4083588	184100006	Patient sex	Observable Entity	Observation	SNOMED	Valid	Standard
+"4083878	18480004	Libido, function	Observable Entity	Observation	SNOMED	Valid	Standard"
+4086451	184115007	Patient sex unknown	Clinical Finding	Observation	SNOMED	Valid	Standard
+4086939	184130003	Questionable if patient sex correct	Clinical Finding	Observation	SNOMED	Valid	Standard
+4092760	281053000	Sex of baby at delivery	Observable Entity	Observation	SNOMED	Valid	Standard
+4108908	285060003	Enjoyment of sex	Observable Entity	Observation	SNOMED	Valid	Standard
+4149371	268476009	Sex of baby	Observable Entity	Observation	SNOMED	Valid	Standard
+4165915	416081002	On sex offenders register	Clinical Finding	Observation	SNOMED	Valid	Standard
+4166164	293206002	Sex hormones adverse reaction	Clinical Finding	Observation	SNOMED	Valid	Standard
+4169233	48930007	XYY sex chromosome alteration	Morph Abnormality	Observation	SNOMED	Valid	Standard
+4206320	55503002	Sex steroid binding globulin	Substance	Observation	SNOMED	Valid	Standard
+4214608	80427008	X0 sex chromosome alteration	Morph Abnormality	Observation	SNOMED	Valid	Standard
+4216552	72457004	Sex cord tumor with annular tubules	Morph Abnormality	Observation	SNOMED	Valid	Standard
+4218487	417629008	Sex cord-stromal tumor category	Morph Abnormality	Observation	SNOMED	Valid	Standard
+4241563	58348001	Sex chromatin	Substance	Observation	SNOMED	Valid	Standard
+4264824	364588003	Feature of sex of baby	Observable Entity	Observation	SNOMED	Valid	Standard
+4275734	65162001	XXY sex chromosome alteration	Morph Abnormality	Observation	SNOMED	Valid	Standard
+4304052	103704003	Patient referral to sex therapist	Procedure	Observation	SNOMED	Valid	Standard
+4311385	86183009	Sex chromosome mosaicism	Morph Abnormality	Observation	SNOMED	Valid	Standard
+4323118	71440001	Sex cord-stromal tumor	Morph Abnormality	Observation	SNOMED	Valid	Standard
+37109473	64921000119105	Family history of sex chromosome aneuploidy	Context-dependent	Observation	SNOMED	Valid	Standard
+37116947	734000001	Biological sex (property)	Qualifier Value	Observation	SNOMED	Valid	Standard
+40302145	138825008	H/O: sexual function problem (& [male])	Context-dependent	Observation	SNOMED	Invalid	Non-standard
+40311801	147068009	Sex of baby (& [female] or [male] or [delivery])	Observable Entity	Observation	SNOMED	Invalid	Non-standard
+40318421	152323006	Patient sex	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+40318437	152338007	Patient sex unknown	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+40318454	152353004	Patient sex ? correct	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+40318967	152447000	Age/sex details on computer	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+40333239	161557003	H/O: sexual function problem (& [male])	Context-dependent	Observation	SNOMED	Invalid	Non-standard
+40391279	189726006	Sex cord tumor with annular tubules	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+40454972	253028001	[M]Ovarian stromal tumor	Morph Abnormality	Observation	SNOMED	Invalid	Non-standard
+40486695	449344001	Sex worker	Social Context	Observation	SNOMED	Valid	Standard
+40518632	316206001	[V]Problems related to alleged sex abuse child by person within primary support group	Context-dependent	Observation	SNOMED	Invalid	Non-standard
+40520043	316497002	[V]Other sex counseling	Context-dependent	Observation	SNOMED	Invalid	Non-standard
+"40521511	316814001	[X]Sex counselling,unspecified	Context-dependent	Observation	SNOMED	Invalid	Non-standard"
+"40521521	316823003	[X]Sex counselling,unspecified	Context-dependent	Observation	SNOMED	Invalid	Non-standard"
+44789693	206111000000105	Waterlow sex score	Clinical Finding	Observation	SNOMED	Valid	Standard
+44790967	247301000000104	Safer sex leaflet given	Procedure	Observation	SNOMED	Valid	Standard
+44796958	427831000000101	[M]Ovarian stromal tumour	Morph Abnormality	Observation	SNOMED	Invalid	Non-standard
+44803941	723341000000101	Sex tourism	Qualifier Value	Observation	SNOMED	Valid	Standard
+44804068	724111000000102	Safe sex	Qualifier Value	Observation	SNOMED	Valid	Standard
+44807819	827301000000107	Former sex worker	Context-dependent	Observation	SNOMED	Valid	Standard
+45757452	141961000119102	History of sex cord stromal tumor of ovary	Context-dependent	Observation	SNOMED	Valid	Standard
+"45766442	703597005	Sex cord-stromal tumor, benign	Morph Abnormality	Observation	SNOMED	Valid	Standard"
+45769107	707685003	Adjusted for sex hormone binding globulin	Qualifier Value	Observation	SNOMED	Valid	Standard
+45771357	703600006	Uterine tumor resembling ovarian sex cord tumor	Morph Abnormality	Observation	SNOMED	Valid	Standard
+2110051	55970	Intersex surgery; male to female	CPT4	Procedure	CPT4	Valid	Standard
+2110052	55980	Intersex surgery; female to male	CPT4	Procedure	CPT4	Valid	Standard
+"2211567	74775	Perineogram (eg, vaginogram, for sex determination or extent of anomalies)	CPT4	Procedure	CPT4	Valid	Standard"
+"45552099	Z70.9	Sex counselling, unspecified	ICD10 code	Procedure	ICD10	Valid	Non-standard"
+45595539	Z70.8	Other sex counselling	ICD10 code	Procedure	ICD10	Valid	Non-standard
+1435190	Z70.8	Other sex counselling	ICD10 code	Procedure	ICD10CN	Valid	Non-standard
+1435191	Z70.800	Other sex counselling	ICD10 code	Procedure	ICD10CN	Valid	Non-standard
+"1435192	Z70.9	Sex counselling, unspecified	ICD10 code	Procedure	ICD10CN	Valid	Non-standard"
+"1435193	Z70.900	Sex counselling, unspecified	ICD10 code	Procedure	ICD10CN	Valid	Non-standard"
+44822737	V65.45	Counseling on other sexually transmitted diseases	5-dig billing V code	Procedure	ICD9CM	Valid	Non-standard
+44833141	V62.83	Counseling for perpetrator of physical/sexual abuse	5-dig billing V code	Procedure	ICD9CM	Valid	Non-standard
+"2004183	64.5	Operations for sex transformation, not elsewhere classified	3-dig billing code	Procedure	ICD9Proc	Valid	Standard"
+36904325	68.4903	Abdominal hysterectomy expand sex (machine translation)	6-dig billing code	Procedure	ICD9ProcCN	Valid	Non-standard
+"36905417	64.5x00	Operations for sex transformation, not elsewhere classified	6-dig billing code	Procedure	ICD9ProcCN	Valid	Non-standard"
+"36908394	64.5	Operations for sex transformation, not elsewhere classified	3-dig nonbill code	Procedure	ICD9ProcCN	Valid	Non-standard"
+45611200	D057830	Sex Reassignment Surgery	Main Heading	Procedure	MeSH	Valid	Non-standard
+45615723	D012736	Sex Education	Main Heading	Procedure	MeSH	Valid	Non-standard
+3524274	213351000000100	Health education. - safe sex	Procedure	Procedure	SNOMED	Invalid	Non-standard
+3526827	305081000000101	Sex therapy	Procedure	Procedure	SNOMED	Invalid	Non-standard
+3526828	305091000000104	Sex therapy technique	Procedure	Procedure	SNOMED	Invalid	Non-standard
+"3529166	454881000000106	[X]Sex counselling,unspecified	Context-dependent	Procedure	SNOMED	Invalid	Non-standard"
+3569853	197481000000108	Sex education	Procedure	Procedure	SNOMED	Invalid	Non-standard
+3569870	198361000000108	Health education. - safe sex	Procedure	Procedure	SNOMED	Invalid	Non-standard
+3572440	213341000000103	Health education. - safe sex	Procedure	Procedure	SNOMED	Invalid	Non-standard
+4062353	171023003	Psychosexual counseling	Procedure	Procedure	SNOMED	Valid	Standard
+"4117916	302245002	Family, systemic, couple and sex therapy	Procedure	Procedure	SNOMED	Valid	Standard"
+4298373	386468009	Sexuality education	Procedure	Procedure	SNOMED	Valid	Standard
+4302393	386467004	Safe sex education	Procedure	Procedure	SNOMED	Valid	Standard
+36717747	719670005	Gender confirmation surgery	Procedure	Procedure	SNOMED	Valid	Standard
+"44796390	418851000000103	[X]Sex counselling,unspecified	Context-dependent	Procedure	SNOMED	Invalid	Non-standard"
+44805682	765611000000104	Sex education	Procedure	Procedure	SNOMED	Valid	Standard
+44807841	838081000000103	Provision of written information about safer sex	Procedure	Procedure	SNOMED	Valid	Standard
+44812797	418881000000109	[V]Other sex counselling	Context-dependent	Procedure	SNOMED	Invalid	Non-standard
+"44814080	793891000000105	Assessment using CHA2DS2-VASc (congestive heart failure, hypertension, age 2, diabetes mellitus, stroke 2 - vascular disease, age, sex category) score	Procedure	Procedure	SNOMED	Invalid	Non-standard"
+"45769380	708018005	Assessment using congestive heart failure, hypertension, age 2, diabetes mellitus, stroke 2 - vascular disease, age, sex category score	Procedure	Procedure	SNOMED	Valid	Standard"
+4010426	113175000	Sex skin	Body Structure	Spec Anatomic Site	SNOMED	Invalid	Non-standard
+4051649	23430009	Structure of primordial sex cell	Body Structure	Spec Anatomic Site	SNOMED	Valid	Standard
+4093935	25883008	Structure of primitive sex cord	Body Structure	Spec Anatomic Site	SNOMED	Valid	Standard
+4136525	32247007	Sex chromosome	Body Structure	Spec Anatomic Site	SNOMED	Valid	Standard
+4183858	5421003	Sex chromosome Y	Body Structure	Spec Anatomic Site	SNOMED	Valid	Standard
+4207312	312238009	Sex chromosome structure	Body Structure	Spec Anatomic Site	SNOMED	Valid	Standard
+4211016	57312000	Sex structure	Body Structure	Spec Anatomic Site	SNOMED	Valid	Standard
+4223560	343823004	Entire primitive sex cord	Body Structure	Spec Anatomic Site	SNOMED	Valid	Standard
+4225144	343721007	Entire primordial sex cell	Body Structure	Spec Anatomic Site	SNOMED	Valid	Standard
+4248722	72837006	Sex chromosome X	Body Structure	Spec Anatomic Site	SNOMED	Valid	Standard
+4287392	69540001	Sex pilum	Body Structure	Spec Anatomic Site	SNOMED	Valid	Standard
+4295345	37791004	Indeterminate sex	Body Structure	Spec Anatomic Site	SNOMED	Valid	Standard
+37111861	726995006	Entire indeterminate sex structure	Body Structure	Spec Anatomic Site	SNOMED	Valid	Standard
+37115579	731980004	Entire sex structure	Body Structure	Spec Anatomic Site	SNOMED	Valid	Standard
+40406111	204898006	Indeterminate sex NOS (& [NEC])	Body Structure	Spec Anatomic Site	SNOMED	Invalid	Non-standard
+40426837	225539008	Transsexual	Clinical Finding	Gender	SNOMED	Invalid	Non-standard

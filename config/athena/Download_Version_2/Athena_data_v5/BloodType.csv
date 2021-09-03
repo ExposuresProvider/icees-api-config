@@ -1,0 +1,22 @@
+﻿Id	Code	Name	Standard Class	Domain	Vocab	Validity	Concept
+"45581055	Z67.90	Unspecified blood type, Rh positive	5-char billing code	Condition	ICD10CM	Valid	Non-standard"
+"45609959	Z67.91	Unspecified blood type, Rh negative	5-char billing code	Condition	ICD10CM	Valid	Non-standard"
+1576145	Z67	Blood type	3-char nonbill code	Measurement	ICD10CM	Valid	Non-standard
+1576150	Z67.9	Unspecified blood type	4-char nonbill code	Measurement	ICD10CM	Valid	Non-standard
+3005506	10389-5	Blood product.other [Type]	Lab Test	Measurement	LOINC	Valid	Standard
+3012796	933-2	Blood product type	Lab Test	Measurement	LOINC	Valid	Standard
+3026563	932-4	Deprecated Blood product type	Lab Test	Measurement	LOINC	Invalid	Non-standard
+3038828	41111-6	COL5A1 gene mutations found [Identifier] in Blood or Tissue by Molecular genetics method Nominal	Lab Test	Measurement	LOINC	Valid	Standard
+3044640	34531-4	Blood type and Crossmatch panel - Blood	Lab Test	Measurement	LOINC	Valid	Standard
+3044649	34532-2	Blood type and Indirect antibody screen panel - Blood	Lab Test	Measurement	LOINC	Valid	Standard
+3050276	38534-4	COL5A1 gene targeted mutation analysis in Blood or Tissue by Molecular genetics method	Lab Test	Measurement	LOINC	Valid	Standard
+37039819	LP399316-1	Blood type and Crossmatch panel | Blood | Blood Bank Panels	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37044239	LP399184-3	Blood product type | Blood product unit | Blood bank	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37064090	LP399317-9	Blood type and Indirect antibody screen panel | Blood | Blood Bank Panels	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37067181	LP399183-5	Blood product type | Blood bag | Blood bank	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+40788849	LP106636-6	Blood product type | Blood product unit	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+37029583	LP17847-2	Blood product type	LOINC Component	Observation	LOINC	Valid	Non-standard
+37066923	LP31913-4	Blood type and Indirect antibody screen panel	LOINC Component	Observation	LOINC	Valid	Non-standard
+37074242	LP31912-6	Blood type and Crossmatch panel	LOINC Component	Observation	LOINC	Valid	Non-standard
+"40756971	86902	Blood typing, serologic; antigen testing of donor blood using reagent serum, each antigen test	CPT4	Procedure	CPT4	Valid	Standard"
+40452020	250295001	White blood cell type	Body Structure	Spec Anatomic Site	SNOMED	Invalid	Non-standard

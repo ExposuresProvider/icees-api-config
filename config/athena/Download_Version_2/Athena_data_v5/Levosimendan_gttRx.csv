@@ -1,0 +1,6 @@
+Id	Code	Name	Standard Class	Domain	Vocab	Validity	Concept
+36218422	1164037	levosimendan Injectable Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+40173184	73107	levosimendan	Ingredient	Drug	RxNorm	Valid	Standard
+40173185	901045	levosimendan 2.5 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+40173186	901047	levosimendan 2.5 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+40173187	901046	levosimendan Injectable Solution	Clinical Drug Form	Drug	RxNorm	Valid	Standard

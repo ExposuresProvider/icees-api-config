@@ -1,0 +1,146 @@
+Id	Code	Name	Standard Class	Domain	Vocab	Validity	Concept
+902722	10627	tobramycin	Ingredient	Drug	RxNorm	Valid	Standard
+902723	198288	tobramycin 80 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+902732	213194	tobramycin 60 MG/ML Inhalation Solution [Tobi]	Branded Drug	Drug	RxNorm	Valid	Standard
+902733	241514	tobramycin 1.6 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+902734	242824	tobramycin 1 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+902735	242825	50 ML tobramycin 1.2 MG/ML Injection	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+902736	245246	tobramycin 60 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+902737	285121	tobramycin 3 MG/ML Ophthalmic Solution [Tomycine]	Branded Drug	Drug	RxNorm	Valid	Standard
+902740	313414	tobramycin 0.003 MG/MG Ophthalmic Ointment	Clinical Drug	Drug	RxNorm	Valid	Standard
+902741	313415	tobramycin 3 MG/ML Ophthalmic Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+902762	313416	tobramycin 10 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+902766	323975	tobramycin 3 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+902767	328612	tobramycin 0.003 MG/MG	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+902769	328622	tobramycin 40 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+902770	328636	tobramycin 1.6 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+902804	333393	tobramycin 80 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+902806	348719	tobramycin 60 MG/ML Inhalation Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+902807	597823	tobramycin 40 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+955630	648233	Fluorometholone 1 MG/ML / Tobramycin 3 MG/ML Ophthalmic Suspension	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+955631	688249	Fluorometholone 1 MG/ML / Tobramycin 3 MG/ML Ophthalmic Suspension [Tobraflex]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+967569	545255	loteprednol etabonate 5 MG/ML / tobramycin 3 MG/ML Ophthalmic Suspension	Clinical Drug	Drug	RxNorm	Valid	Standard
+967570	545259	loteprednol etabonate 5 MG/ML / tobramycin 3 MG/ML Ophthalmic Suspension [Zylet]	Branded Drug	Drug	RxNorm	Valid	Standard
+992129	485595	Loteprednol 5 MG/ML / Tobramycin 3 MG/ML Ophthalmic Suspension	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+1356252	2108548	tobramycin Inhalation Solution	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+1356253	2108550	tobramycin Inhalation Solution [Kitabis]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+1356254	2108552	tobramycin Inhalation Solution [Tobi]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+1356255	2108555	tobramycin Inhalation Solution [Bethkis]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+1356265	2108575	tobramycin Inhalation Powder	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+1356266	2108578	tobramycin Inhalation Powder [Tobi]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+19005641	688247	Fluorometholone 1 MG/ML / Tobramycin 3 MG/ML [Tobraflex]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19006649	105245	tobramycin 10 MG/ML Injectable Solution [Nebcin]	Branded Drug	Drug	RxNorm	Valid	Standard
+19010113	108315	tobramycin 3 MG/ML Ophthalmic Solution [Tobralex]	Branded Drug	Drug	RxNorm	Valid	Standard
+19036652	207843	tobramycin 3 MG/ML Ophthalmic Solution [AK-Tob]	Branded Drug	Drug	RxNorm	Valid	Standard
+19036653	207844	Tobramycin 3 MG/ML Ophthalmic Solution [Tobralcon]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+19036654	207845	Tobramycin 3 MG/ML Ophthalmic Solution [Tobrasol]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+19036655	207846	tobramycin 3 MG/ML Ophthalmic Solution [Tobrex]	Branded Drug	Drug	RxNorm	Valid	Standard
+19036659	207850	tobramycin 0.003 MG/MG Ophthalmic Ointment [Tobrex]	Branded Drug	Drug	RxNorm	Valid	Standard
+19036742	207882	tobramycin 10 MG/ML Injectable Solution [Nebcin Pediatric]	Branded Drug	Drug	RxNorm	Valid	Standard
+19039720	208813	dexamethasone 1 MG/ML / tobramycin 3 MG/ML Ophthalmic Suspension [Tobradex]	Branded Drug	Drug	RxNorm	Valid	Standard
+19039745	208821	dexamethasone 0.001 MG/MG / tobramycin 0.003 MG/MG Ophthalmic Ointment [Tobradex]	Branded Drug	Drug	RxNorm	Valid	Standard
+19048259	568621	tobramycin 40 MG/ML [Nebcin]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19052276	568576	tobramycin 3 MG/ML [AK-Tob]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19073084	545257	loteprednol etabonate 5 MG/ML / tobramycin 3 MG/ML [Zylet]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19074667	568615	tobramycin 10 MG/ML [Nebcin Pediatric]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19076133	309682	dexamethasone 0.001 MG/MG / tobramycin 0.003 MG/MG Ophthalmic Ointment	Clinical Drug	Drug	RxNorm	Valid	Standard
+19076134	309683	dexamethasone 1 MG/ML / tobramycin 3 MG/ML Ophthalmic Suspension	Clinical Drug	Drug	RxNorm	Valid	Standard
+19080828	315208	tobramycin 0.6 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+19080829	315209	100 ML tobramycin 0.8 MG/ML Injection	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+19082008	316830	tobramycin 60 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+19082885	573117	tobramycin 60 MG/ML [Tobi]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19082890	569462	dexamethasone 1 MG/ML / tobramycin 3 MG/ML [Tobradex]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19082913	568577	Tobramycin 3 MG/ML [Tobralcon]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19082915	568578	Tobramycin 3 MG/ML [Tobrasol]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19082917	568579	tobramycin 3 MG/ML [Tobrex]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19082918	568583	tobramycin 0.003 MG/MG [Tobrex]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19083095	328620	tobramycin 10 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+19084811	330277	tobramycin 0.6 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+19085422	330500	tobramycin 1.2 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+19085424	330502	tobramycin 0.8 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+19092641	336320	tobramycin 1 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+19104455	415080	tobramycin 50 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+19104589	415681	tobramycin 0.003 MG/MG Topical Gel	Clinical Drug	Drug	RxNorm	Valid	Standard
+19112510	452839	tobramycin 50 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+19112821	485574	tobramycin 30 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+19112822	485575	tobramycin 30 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+19113457	540728	tobramycin 60 MG/ML [Nebcin]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19113458	540729	tobramycin 60 MG/ML Injectable Solution [Nebcin]	Branded Drug	Drug	RxNorm	Valid	Standard
+19116109	563994	tobramycin 10 MG/ML [Nebcin]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19116539	564501	tobramycin 3 MG/ML [Tobralex]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19118736	569470	dexamethasone 0.001 MG/MG / tobramycin 0.003 MG/MG [Tobradex]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19120806	575086	tobramycin 3 MG/ML [Tomycine]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19122491	603086	tobramycin 40 MG/ML Injectable Solution [Nebcin]	Branded Drug	Drug	RxNorm	Valid	Standard
+19127181	7276	tobramycin sulfate	Precise Ingredient	Drug	RxNorm	Valid	Non-standard
+19127836	748084	tobramycin 0.0003 MG/MG	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+19127837	748085	dexamethasone 0.0001 MG/MG / tobramycin 0.0003 MG/MG Ophthalmic Ointment	Clinical Drug	Drug	RxNorm	Valid	Standard
+19135508	849115	dexamethasone 0.5 MG/ML / tobramycin 3 MG/ML Ophthalmic Suspension	Clinical Drug	Drug	RxNorm	Valid	Standard
+35605484	1740474	tobramycin Injection	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+35605485	1740476	tobramycin 0.8 MG/ML Injection	Clinical Drug	Drug	RxNorm	Valid	Standard
+35605486	1740480	tobramycin 1.2 MG/ML Injection	Clinical Drug	Drug	RxNorm	Valid	Standard
+36029193	1009142	loteprednol etabonate / Tobramycin	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36030193	465678	Fluorometholone / Tobramycin	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36030260	597180	Loteprednol / Tobramycin	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36031113	883815	Dexamethasone / Tobramycin	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36214118	1157108	tobramycin Inhalant Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36214119	1157109	tobramycin Injectable Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36214120	1157110	tobramycin Ophthalmic Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36214121	1157111	tobramycin Topical Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36215046	1154524	dexamethasone / tobramycin Ophthalmic Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36222594	1163868	loteprednol etabonate / tobramycin Ophthalmic Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36224794	1160826	fluorometholone / tobramycin Ophthalmic Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+40000904	485594	Loteprednol / Tobramycin Ophthalmic Suspension	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40027456	374438	dexamethasone / tobramycin Ophthalmic Ointment	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40027457	94335	dexamethasone / tobramycin Ophthalmic Ointment [Tobradex]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40027458	378984	dexamethasone / tobramycin Ophthalmic Suspension	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40027459	94334	dexamethasone / tobramycin Ophthalmic Suspension [Tobradex]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40088711	239205	Tobramycin 40 MG/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+40088712	207888	Tobramycin 40 MG/ML Injectable Solution [Nebicin]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+40088719	349684	Tobramycin 80 MG	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+40088720	346493	Tobramycin 80 MG Injectable Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+40088723	378681	Tobramycin Inhalant Solution	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40088724	361861	Tobramycin Inhalant Solution [Tobi]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40088725	374147	tobramycin Injectable Solution	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40088726	363353	tobramycin Injectable Solution [Nebcin Pediatric]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40088727	362802	tobramycin Injectable Solution [Nebcin]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40088728	378998	tobramycin Ophthalmic Ointment	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40088729	94336	tobramycin Ophthalmic Ointment [Tobrex]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40088730	377400	tobramycin Ophthalmic Solution	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40088731	363711	tobramycin Ophthalmic Solution [AK-Tob]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40088732	363710	Tobramycin Ophthalmic Solution [Tobralcon]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40088733	385801	tobramycin Ophthalmic Solution [Tobralex]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40088734	363709	Tobramycin Ophthalmic Solution [Tobrasol]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40088735	94337	tobramycin Ophthalmic Solution [Tobrex]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40088736	363708	tobramycin Ophthalmic Solution [Tomycine]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40088738	452270	tobramycin Topical Gel	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40123985	545254	loteprednol etabonate / tobramycin Ophthalmic Suspension	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40123986	545258	loteprednol etabonate / tobramycin Ophthalmic Suspension [Zylet]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40135906	648232	fluorometholone / tobramycin Ophthalmic Suspension	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40137788	688248	fluorometholone / tobramycin Ophthalmic Suspension [Tobraflex]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40143114	748087	Dexamethasone 0.0001 MG/MG / Tobramycin 0.0003 MG/MG Ophthalmic Ointment [Tobradex]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+40143115	748086	Dexamethasone 0.0001 MG/MG / Tobramycin 0.0003 MG/MG [Tobradex]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+40225765	1011080	dexamethasone 0.5 MG/ML / tobramycin 3 MG/ML Ophthalmic Suspension [Tobradex]	Branded Drug	Drug	RxNorm	Valid	Standard
+40225766	1011079	dexamethasone 0.5 MG/ML / tobramycin 3 MG/ML [Tobradex]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+42706762	1249627	fluorometholone acetate 1 MG/ML / tobramycin 3 MG/ML [Tobraflex]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+42708918	1249626	fluorometholone acetate 1 MG/ML / tobramycin 3 MG/ML Ophthalmic Suspension	Clinical Drug	Drug	RxNorm	Valid	Standard
+42708919	1249628	fluorometholone acetate 1 MG/ML / tobramycin 3 MG/ML Ophthalmic Suspension [Tobraflex]	Branded Drug	Drug	RxNorm	Valid	Standard
+42901104	1314762	tobramycin 75 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+42901106	1314765	tobramycin 75 MG/ML [Bethkis]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+42901107	1314766	Tobramycin Inhalant Solution [Bethkis]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+42901769	1314763	tobramycin 75 MG/ML Inhalation Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+42901770	1314768	tobramycin 75 MG/ML Inhalation Solution [Bethkis]	Branded Drug	Drug	RxNorm	Valid	Standard
+43526088	1374567	tobramycin 28 MG	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+43526089	1374569	tobramycin 28 MG Inhalation Powder	Clinical Drug	Drug	RxNorm	Valid	Standard
+43526090	1374573	tobramycin 28 MG Inhalation Powder [Tobi]	Branded Drug	Drug	RxNorm	Valid	Standard
+43526091	1374571	tobramycin 28 MG [Tobi]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+43526092	1374568	Tobramycin Inhalant Powder	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+43526093	1374572	Tobramycin Inhalant Powder [Tobi]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+43526513	1374574	{224 (tobramycin 28 MG Inhalation Powder [Tobi]) } Pack [TOBI Podhaler Kit]	Branded Pack	Drug	RxNorm	Valid	Standard
+43526514	1374570	{224 (tobramycin 28 MG Inhalation Powder) } Pack	Clinical Pack	Drug	RxNorm	Valid	Standard
+45892400	1596027	tobramycin 60 MG/ML [Kitabis]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+45892401	1596028	Tobramycin Inhalant Solution [Kitabis]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+45892402	1596030	tobramycin 60 MG/ML Inhalation Solution [Kitabis]	Branded Drug	Drug	RxNorm	Valid	Standard
+46275455	1661560	{56 (tobramycin 28 MG Inhalation Powder [Tobi]) } Pack [TOBI Podhaler Weekly Kit]	Branded Pack	Drug	RxNorm	Valid	Standard
+46275456	1661567	{8 (tobramycin 28 MG Inhalation Powder [Tobi]) } Pack [TOBI Podhaler Daily Kit]	Branded Pack	Drug	RxNorm	Valid	Standard
+46275460	1661466	{8 (tobramycin 28 MG Inhalation Powder) } Pack	Clinical Pack	Drug	RxNorm	Valid	Standard
+46275461	1661559	{56 (tobramycin 28 MG Inhalation Powder) } Pack	Clinical Pack	Drug	RxNorm	Valid	Standard

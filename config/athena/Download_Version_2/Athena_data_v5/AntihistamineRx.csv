@@ -1,0 +1,63 @@
+Id	Code	Name	Standard Class	Domain	Vocab	Validity	Concept
+19016163	152652	terfenadine 120 MG Oral Tablet [Antihistamine Forte]	Branded Drug	Drug	RxNorm	Valid	Standard
+19016304	152716	terfenadine 60 MG Oral Tablet [Antihistamine brand of terfenadine]	Branded Drug	Drug	RxNorm	Valid	Standard
+19029234	205442	Brompheniramine 12 MG / Phenylpropanolamine 75 MG 12 hour Extended Release Tablet [Family 12 Hour Antihistamine/Decongestant]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+19039450	208731	Diphenhydramine 2.5 MG/ML Oral Solution [Allergy Medicine Antihistamine]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+19039781	208829	dexbrompheniramine 6 MG / Pseudoephedrine 120 MG 12 hour Extended Release Tablet [Antihistamine 12 Hour]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+19049124	215330	Antihistamine Allergy brand of diphenhydramine	Brand Name	Drug	RxNorm	Invalid	Non-standard
+19049125	215332	Decongestant Antihistamine	Brand Name	Drug	RxNorm	Invalid	Non-standard
+19053368	215141	Allergy Medicine Antihistamine	Brand Name	Drug	RxNorm	Invalid	Non-standard
+19053369	569394	Diphenhydramine 2.5 MG/ML [Allergy Medicine Antihistamine]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19053708	226137	Antihistamine Forte	Brand Name	Drug	RxNorm	Valid	Non-standard
+19054602	215329	Antihistamine 12 Hour	Brand Name	Drug	RxNorm	Invalid	Non-standard
+19054603	569478	dexbrompheniramine 6 MG / Pseudoephedrine 120 MG [Antihistamine 12 Hour]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19054810	227700	Antihistamine brand of Diphenhydramine	Brand Name	Drug	RxNorm	Invalid	Non-standard
+19065183	217058	Family 12 Hour Antihistamine/Decongestant	Brand Name	Drug	RxNorm	Invalid	Non-standard
+19065184	566348	Brompheniramine 12 MG / Phenylpropanolamine 75 MG [Family 12 Hour Antihistamine/Decongestant]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19075248	309247	Chlorpheniramine 4 MG Oral Tablet	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19097853	350716	Brompheniramine 12 MG / Phenylpropanolamine 75 MG 12 hour Extended Release Tablet	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19101435	385953	Antihistamine brand of terfenadine	Brand Name	Drug	RxNorm	Valid	Non-standard
+19116890	565002	terfenadine 120 MG [Antihistamine Forte]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19116921	565031	terfenadine 60 MG [Antihistamine brand of terfenadine]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19134290	844471	Brompheniramine 12 MG / Phenylpropanolamine 75 MG Extended Release Tablet [Family 12 Hour Antihistamine/Decongestant]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+19134413	844595	dexbrompheniramine 6 MG / Pseudoephedrine 120 MG Extended Release Tablet [Antihistamine 12 Hour]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+36221845	1166034	Antihistamine Forte Oral Product	Branded Dose Group	Drug	RxNorm	Valid	Classification
+36221846	1166035	Antihistamine Forte Pill	Branded Dose Group	Drug	RxNorm	Valid	Classification
+36221847	1166036	Antihistamine brand of terfenadine Oral Product	Branded Dose Group	Drug	RxNorm	Valid	Classification
+36221848	1166037	Antihistamine brand of terfenadine Pill	Branded Dose Group	Drug	RxNorm	Valid	Classification
+36234500	1172245	Caldyphen with Antihistamine Topical Product	Branded Dose Group	Drug	RxNorm	Valid	Classification
+36246485	1366498	Ahist Antihistamine Oral Product	Branded Dose Group	Drug	RxNorm	Valid	Classification
+36246486	1366499	Ahist Antihistamine Pill	Branded Dose Group	Drug	RxNorm	Valid	Classification
+40017566	370179	Brompheniramine / Phenylpropanolamine 12 hour Extended Release Tablet [Family 12 Hour Antihistamine/Decongestant]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40023288	366886	Chlorpheniramine / Pseudoephedrine Extended Release Capsule [Decongestant Antihistamine]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40023942	213939	Chlorpheniramine 8 MG / Pseudoephedrine 120 MG Extended Release Capsule [Decongestant Antihistamine]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+40032550	208734	Diphenhydramine 2.5 MG/ML Oral Solution [Antihistamine brand of Diphenhydramine]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+40032914	208685	Diphenhydramine 25 MG Oral Capsule [Antihistamine Allergy brand of diphenhydramine]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+40032915	208686	Diphenhydramine 25 MG Oral Capsule [Antihistamine brand of Diphenhydramine]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+40032933	208775	Diphenhydramine 25 MG Oral Tablet [Antihistamine brand of Diphenhydramine]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+40033278	208803	Diphenhydramine 50 MG Oral Tablet [Antihistamine brand of Diphenhydramine]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+40033627	366261	Diphenhydramine Oral Capsule [Antihistamine Allergy brand of diphenhydramine]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40033628	366260	Diphenhydramine Oral Capsule [Antihistamine brand of Diphenhydramine]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40033652	364124	Diphenhydramine Oral Solution [Allergy Medicine Antihistamine]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40033655	364121	Diphenhydramine Oral Solution [Antihistamine brand of Diphenhydramine]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40033949	369190	Diphenhydramine Oral Tablet [Antihistamine brand of Diphenhydramine]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40055303	370296	dexbrompheniramine / Pseudoephedrine 12 hour Extended Release Tablet [Antihistamine 12 Hour]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40073235	209574	Pseudoephedrine 60 MG / Triprolidine 2.5 MG Oral Tablet [Decongestant Antihistamine]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+40078137	368686	Pseudoephedrine / Triprolidine Oral Tablet [Decongestant Antihistamine]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40085779	385927	terfenadine Oral Tablet [Antihistamine Forte]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40085780	385954	terfenadine Oral Tablet [Antihistamine brand of terfenadine]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40108300	573784	Chlorpheniramine 8 MG / Pseudoephedrine 120 MG [Decongestant Antihistamine]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+40110769	569397	Diphenhydramine 2.5 MG/ML [Antihistamine brand of Diphenhydramine]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+40110945	569348	Diphenhydramine 25 MG [Antihistamine Allergy brand of diphenhydramine]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+40110946	569349	Diphenhydramine 25 MG [Antihistamine brand of Diphenhydramine]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+40111052	569454	Diphenhydramine 50 MG [Antihistamine brand of Diphenhydramine]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+40120250	570163	Pseudoephedrine 60 MG / Triprolidine 2.5 MG [Decongestant Antihistamine]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+40223379	997003	Brompheniramine Maleate 0.4 MG/ML / Codeine Phosphate 2 MG/ML / Phenylpropanolamine 2.5 MG/ML Oral Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+40235578	1088359	calamine / diphenhydramine Topical Lotion [Caldyphen with Antihistamine]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40235581	1088360	calamine 80 MG/ML / diphenhydramine hydrochloride 10 MG/ML Topical Lotion [Caldyphen with Antihistamine]	Branded Drug	Drug	RxNorm	Valid	Standard
+40235583	1088358	calamine 80 MG/ML / diphenhydramine hydrochloride 10 MG/ML [Caldyphen with Antihistamine]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+40235666	1088357	Caldyphen with Antihistamine	Brand Name	Drug	RxNorm	Valid	Non-standard
+43012483	1366495	Ahist Antihistamine	Brand Name	Drug	RxNorm	Valid	Non-standard
+43012617	1366500	chlorcyclizine hydrochloride 25 MG Oral Tablet [Ahist Antihistamine]	Branded Drug	Drug	RxNorm	Valid	Standard
+43012618	1366496	chlorcyclizine hydrochloride 25 MG [Ahist Antihistamine]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+43013037	1366497	chlorcyclizine Oral Tablet [Ahist Antihistamine]	Branded Drug Form	Drug	RxNorm	Valid	Standard

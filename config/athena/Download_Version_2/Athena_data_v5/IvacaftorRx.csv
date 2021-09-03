@@ -1,0 +1,61 @@
+Id	Code	Name	Standard Class	Domain	Vocab	Validity	Concept
+789766	2166398	ivacaftor 25 MG	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+789767	2166399	ivacaftor 25 MG Oral Granules	Clinical Drug	Drug	RxNorm	Valid	Standard
+789768	2166400	ivacaftor 25 MG [Kalydeco]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+789769	2166401	ivacaftor 25 MG Oral Granules [Kalydeco]	Branded Drug	Drug	RxNorm	Valid	Standard
+963952	1999384	ivacaftor / tezacaftor Oral Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+963953	1999385	ivacaftor / tezacaftor Pill	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+963954	1999386	ivacaftor / tezacaftor Oral Tablet	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+963955	1999387	ivacaftor 150 MG / tezacaftor 100 MG Oral Tablet	Clinical Drug	Drug	RxNorm	Valid	Standard
+964314	1999388	{28 (ivacaftor 150 MG / tezacaftor 100 MG Oral Tablet) / 28 (ivacaftor 150 MG Oral Tablet) } Pack	Clinical Pack	Drug	RxNorm	Valid	Standard
+964315	1999389	{28 (ivacaftor 150 MG / tezacaftor 100 MG Oral Tablet) / 28 (ivacaftor 150 MG Oral Tablet) } Pack [Symdeko (100 MG / 150 MG; 150 MG)]	Branded Pack	Drug	RxNorm	Valid	Standard
+1360934	2174387	ivacaftor 75 MG / tezacaftor 50 MG Oral Tablet	Clinical Drug	Drug	RxNorm	Valid	Standard
+1360935	2174388	ivacaftor 75 MG Oral Tablet	Clinical Drug	Drug	RxNorm	Valid	Standard
+1361638	2174389	{28 (ivacaftor 75 MG / tezacaftor 50 MG Oral Tablet) / 28 (ivacaftor 75 MG Oral Tablet) } Pack	Clinical Pack	Drug	RxNorm	Valid	Standard
+1361639	2174390	{28 (ivacaftor 75 MG / tezacaftor 50 MG Oral Tablet) / 28 (ivacaftor 75 MG Oral Tablet) } Pack [Symdeko (50 MG / 75 MG; 75 MG)]	Branded Pack	Drug	RxNorm	Valid	Standard
+1718094	1812468	ivacaftor 125 MG / lumacaftor 100 MG Oral Tablet	Clinical Drug	Drug	RxNorm	Valid	Standard
+1718095	1812469	ivacaftor 125 MG / lumacaftor 100 MG [ORKAMBI]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+1718096	1812470	ivacaftor 125 MG / lumacaftor 100 MG Oral Tablet [ORKAMBI]	Branded Drug	Drug	RxNorm	Valid	Standard
+35200175	2053507	ivacaftor / lumacaftor Granule Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+35200176	2053508	ivacaftor / lumacaftor Oral Granules	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+35200177	2053509	ivacaftor 125 MG / lumacaftor 100 MG Oral Granules	Clinical Drug	Drug	RxNorm	Valid	Standard
+35200178	2053510	ivacaftor / lumacaftor Oral Granules [ORKAMBI]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+35200180	2053512	ivacaftor 125 MG / lumacaftor 100 MG Oral Granules [ORKAMBI]	Branded Drug	Drug	RxNorm	Valid	Standard
+35200181	2053515	ivacaftor 188 MG	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+35200183	2053517	ivacaftor 188 MG / lumacaftor 150 MG Oral Granules	Clinical Drug	Drug	RxNorm	Valid	Standard
+35200184	2053518	ivacaftor 188 MG / lumacaftor 150 MG [ORKAMBI]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+35200185	2053519	ivacaftor 188 MG / lumacaftor 150 MG Oral Granules [ORKAMBI]	Branded Drug	Drug	RxNorm	Valid	Standard
+36238288	1243043	ivacaftor Oral Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36238289	1243044	ivacaftor Pill	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36248596	1655924	ivacaftor / lumacaftor Oral Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36248597	1655925	ivacaftor / lumacaftor Pill	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36248962	1606860	ivacaftor Granule Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+37497448	2257007	elexacaftor / ivacaftor / tezacaftor Oral Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+37497449	2257008	elexacaftor / ivacaftor / tezacaftor Pill	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+37497450	2257009	elexacaftor / ivacaftor / tezacaftor Oral Tablet	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+37497451	2257011	elexacaftor 100 MG / ivacaftor 75 MG / tezacaftor 50 MG Oral Tablet	Clinical Drug	Drug	RxNorm	Valid	Standard
+37499629	2257012	{56 (elexacaftor 100 MG / ivacaftor 75 MG / tezacaftor 50 MG Oral Tablet) / 28 (ivacaftor 150 MG Oral Tablet) } Pack	Clinical Pack	Drug	RxNorm	Valid	Standard
+37499630	2257013	{56 (elexacaftor 100 MG / ivacaftor 75 MG / tezacaftor 50 MG Oral Tablet) / 28 (ivacaftor 150 MG Oral Tablet) } Pack [Trikafta (100 MG / 50 MG / 75 MG; 150 MG)]	Branded Pack	Drug	RxNorm	Valid	Standard
+42705867	1243042	ivacaftor 150 MG	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+42705868	1243045	ivacaftor Oral Tablet	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+42705870	1243048	ivacaftor 150 MG [Kalydeco]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+42705871	1243049	ivacaftor Oral Tablet [Kalydeco]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+42708092	1243046	ivacaftor 150 MG Oral Tablet	Clinical Drug	Drug	RxNorm	Valid	Standard
+42708093	1243052	ivacaftor 150 MG Oral Tablet [Kalydeco]	Branded Drug	Drug	RxNorm	Valid	Standard
+42709323	1243041	ivacaftor	Ingredient	Drug	RxNorm	Valid	Standard
+46221748	1606859	ivacaftor 50 MG	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+46221749	1606861	ivacaftor Oral Granules	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+46221750	1606862	ivacaftor 50 MG Oral Granules	Clinical Drug	Drug	RxNorm	Valid	Standard
+46221751	1606863	ivacaftor 50 MG [Kalydeco]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+46221752	1606864	ivacaftor Oral Granules [Kalydeco]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+46221753	1606866	ivacaftor 50 MG Oral Granules [Kalydeco]	Branded Drug	Drug	RxNorm	Valid	Standard
+46221754	1606867	ivacaftor 75 MG	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+46221755	1606868	ivacaftor 75 MG Oral Granules	Clinical Drug	Drug	RxNorm	Valid	Standard
+46221756	1606869	ivacaftor 75 MG [Kalydeco]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+46221757	1606870	ivacaftor 75 MG Oral Granules [Kalydeco]	Branded Drug	Drug	RxNorm	Valid	Standard
+46275579	1655921	ivacaftor 125 MG	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+46275582	1655926	ivacaftor / lumacaftor Oral Tablet	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+46275583	1655928	ivacaftor 125 MG / lumacaftor 200 MG Oral Tablet	Clinical Drug	Drug	RxNorm	Valid	Standard
+46275585	1655930	ivacaftor 125 MG / lumacaftor 200 MG [ORKAMBI]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+46275586	1655931	ivacaftor / lumacaftor Oral Tablet [ORKAMBI]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+46275587	1655934	ivacaftor 125 MG / lumacaftor 200 MG Oral Tablet [ORKAMBI]	Branded Drug	Drug	RxNorm	Valid	Standard

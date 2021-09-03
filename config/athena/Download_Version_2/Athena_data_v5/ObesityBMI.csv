@@ -1,0 +1,191 @@
+﻿Id	Code	Name	Standard Class	Domain	Vocab	Validity	Concept
+"44822765	V85.5	Body Mass Index, pediatric	4-dig nonbill V code	Condition	ICD9CM	Valid	Non-standard"
+"44823911	V85.52	Body Mass Index, pediatric, 5th percentile to less than 85th percentile for age	5-dig billing V code	Condition	ICD9CM	Valid	Non-standard"
+"44826272	V85.54	Body Mass Index, pediatric, greater than or equal to 95th percentile for age	5-dig billing V code	Condition	ICD9CM	Valid	Non-standard"
+"44836725	V85.51	Body Mass Index, pediatric, less than 5th percentile for age	5-dig billing V code	Condition	ICD9CM	Valid	Non-standard"
+36716529	722563003	Fetal or neonatal effect of maternal obesity with adult body mass index equal to or greater than 40	Clinical Finding	Condition	SNOMED	Valid	Standard
+36717570	722562008	Fetal or neonatal effect of maternal obesity with adult body mass index 30 or greater but less than 40	Clinical Finding	Condition	SNOMED	Valid	Standard
+45771484	705131003	Child at risk for overweight body mass index greater than 85 percentile	Clinical Finding	Condition	SNOMED	Valid	Standard
+45764396	701072008	Bioelectrical body mass index analyzer	Physical Object	Device	SNOMED	Valid	Standard
+1576151	Z68	Body mass index [BMI]	3-char nonbill code	Measurement	ICD10CM	Valid	Non-standard
+1576154	Z68.5	Body mass index [BMI] pediatric	4-char nonbill code	Measurement	ICD10CM	Valid	Non-standard
+"45552098	Z68.53	Body mass index [BMI] pediatric, 85th percentile to less than 95th percentile for age	5-char billing code	Measurement	ICD10CM	Valid	Non-standard"
+"45581059	Z68.51	Body mass index [BMI] pediatric, less than 5th percentile for age	5-char billing code	Measurement	ICD10CM	Valid	Non-standard"
+"45600349	Z68.52	Body mass index [BMI] pediatric, 5th percentile to less than 85th percentile for age	5-char billing code	Measurement	ICD10CM	Valid	Non-standard"
+"45600350	Z68.54	Body mass index [BMI] pediatric, greater than or equal to 95th percentile for age	5-char billing code	Measurement	ICD10CM	Valid	Non-standard"
+1002813	LP415677-6	Body mass index (BMI) | Patient | General body weight	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+3031543	41909-3	Deprecated Body mass index (BMI)	Clinical Observation	Measurement	LOINC	Invalid	Non-standard
+3038553	39156-5	Body mass index (BMI) [Ratio]	Clinical Observation	Measurement	LOINC	Valid	Standard
+36304833	89270-3	Body mass index (BMI) [Ratio] Estimated	Clinical Observation	Measurement	LOINC	Valid	Standard
+40762636	59574-4	Body mass index (BMI) [Percentile]	Clinical Observation	Measurement	LOINC	Valid	Standard
+40762637	59575-1	Body mass index (BMI) [Percentile] Per age	Clinical Observation	Measurement	LOINC	Valid	Standard
+40762638	59576-9	Body mass index (BMI) [Percentile] Per age and sex	Clinical Observation	Measurement	LOINC	Valid	Standard
+1036718	D015992	Body Mass Index	Main Heading	Measurement	MeSH	Valid	Non-standard
+3558312	710091000000105	Body mass index centile	Observable Entity	Measurement	SNOMED	Invalid	Non-standard
+3559132	813961000000107	World Health Organisation FRAX 10 year osteoporotic fracture probability score with body mass index	Staging / Scales	Measurement	SNOMED	Invalid	Non-standard
+3559447	838451000000100	Target body mass index	Observable Entity	Measurement	SNOMED	Invalid	Non-standard
+3559526	846921000000103	Baseline body mass index centile	Observable Entity	Measurement	SNOMED	Invalid	Non-standard
+3559527	846941000000105	Baseline body mass index	Observable Entity	Measurement	SNOMED	Invalid	Non-standard
+3559996	875771000000106	World Health Organisation FRAX 10 year hip fracture probability score with body mass index	Observable Entity	Measurement	SNOMED	Invalid	Non-standard
+3559997	875781000000108	World Health Organisation FRAX 10 year osteoporotic fracture probability score with body mass index	Observable Entity	Measurement	SNOMED	Invalid	Non-standard
+3560262	896701000000102	Child body mass index centile	Observable Entity	Measurement	SNOMED	Invalid	Non-standard
+3560821	926021000000107	Down's syndrome body mass index centile	Observable Entity	Measurement	SNOMED	Invalid	Non-standard
+4245997	60621009	Body mass index	Observable Entity	Measurement	SNOMED	Valid	Standard
+35609809	1086301000000101	Framingham Cardiovascular Disease 10 year risk calculator score using BMI (Body Mass Index)	Observable Entity	Measurement	SNOMED	Valid	Standard
+35610267	1091191000000102	Framingham Cardiovascular Disease 10 year risk calculator score using BMI (Body Mass Index) or lipids	Observable Entity	Measurement	SNOMED	Valid	Standard
+35610394	1092661000000106	Ten year osteoporotic fracture probability score using FRAX (Fracture Risk Assessment Tool) with body mass index	Observable Entity	Measurement	SNOMED	Valid	Standard
+35610396	1092681000000102	Ten year hip fracture probability score using FRAX (Fracture Risk Assessment Tool) with body mass index	Observable Entity	Measurement	SNOMED	Valid	Standard
+37398925	715456008	Percentage median body mass index for age and sex	Observable Entity	Measurement	SNOMED	Valid	Standard
+40298249	140075008	Body mass index	Observable Entity	Measurement	SNOMED	Invalid	Non-standard
+40329230	162859006	Body mass index	Observable Entity	Measurement	SNOMED	Invalid	Non-standard
+40490382	446974000	Body mass index centile	Observable Entity	Measurement	SNOMED	Valid	Standard
+40540383	363807006	Body mass index	Observable Entity	Measurement	SNOMED	Invalid	Non-standard
+44783982	698094009	Measurement of body mass index	Procedure	Measurement	SNOMED	Valid	Standard
+44806795	813981000000103	Ten year hip fracture probability score using World Health Organisation FRAX fracture risk assessment tool with body mass index	Observable Entity	Measurement	SNOMED	Invalid	Non-standard
+44807882	846911000000109	Baseline body mass index centile	Observable Entity	Measurement	SNOMED	Valid	Standard
+44807883	846931000000101	Baseline body mass index	Observable Entity	Measurement	SNOMED	Valid	Standard
+44807968	838441000000103	Target body mass index	Observable Entity	Measurement	SNOMED	Valid	Standard
+44808736	841781000000106	Assessment using body mass index	Procedure	Measurement	SNOMED	Invalid	Non-standard
+44809197	852451000000103	Maximum body mass index	Observable Entity	Measurement	SNOMED	Valid	Standard
+44809198	852461000000100	Minimum body mass index	Observable Entity	Measurement	SNOMED	Valid	Standard
+44810217	896691000000102	Child body mass index centile	Observable Entity	Measurement	SNOMED	Valid	Standard
+44814078	813971000000100	Ten year osteoporotic fracture probability score using World Health Organisation FRAX fracture risk assessment tool with body mass index	Observable Entity	Measurement	SNOMED	Invalid	Non-standard
+45770289	926011000000101	Down syndrome body mass index centile	Observable Entity	Measurement	SNOMED	Valid	Standard
+46286895	990291000000106	Percentage median body mass index for age and sex	Observable Entity	Measurement	SNOMED	Invalid	Non-standard
+"40756859	3008F	Body Mass Index (BMI), documented (PV)	CPT4	Observation	CPT4	Valid	Standard"
+"1576152	Z68.2	Body mass index [BMI] 20-29, adult	4-char nonbill code	Observation	ICD10CM	Valid	Non-standard"
+"1576153	Z68.3	Body mass index [BMI] 30-39, adult	4-char nonbill code	Observation	ICD10CM	Valid	Non-standard"
+"35225256	Z68.4	Body mass index [BMI] 40 or greater, adult	4-char nonbill code	Observation	ICD10CM	Valid	Non-standard"
+"45547336	Z68.33	Body mass index [BMI] 33.0-33.9, adult	5-char billing code	Observation	ICD10CM	Valid	Non-standard"
+"45552097	Z68.24	Body mass index [BMI] 24.0-24.9, adult	5-char billing code	Observation	ICD10CM	Valid	Non-standard"
+"45566451	Z68.30	Body mass index [BMI]30.0-30.9, adult	5-char billing code	Observation	ICD10CM	Valid	Non-standard"
+"45566452	Z68.35	Body mass index [BMI] 35.0-35.9, adult	5-char billing code	Observation	ICD10CM	Valid	Non-standard"
+"45566453	Z68.36	Body mass index [BMI] 36.0-36.9, adult	5-char billing code	Observation	ICD10CM	Valid	Non-standard"
+"45566454	Z68.44	Body mass index [BMI] 60.0-69.9, adult	5-char billing code	Observation	ICD10CM	Valid	Non-standard"
+"45571382	Z68.1	Body mass index [BMI] 19.9 or less, adult	4-char billing code	Observation	ICD10CM	Valid	Non-standard"
+"45571383	Z68.45	Body mass index [BMI] 70 or greater, adult	5-char billing code	Observation	ICD10CM	Valid	Non-standard"
+"45576171	Z68.25	Body mass index [BMI] 25.0-25.9, adult	5-char billing code	Observation	ICD10CM	Valid	Non-standard"
+"45576172	Z68.43	Body mass index [BMI] 50.0-59.9, adult	5-char billing code	Observation	ICD10CM	Valid	Non-standard"
+"45581056	Z68.23	Body mass index [BMI] 23.0-23.9, adult	5-char billing code	Observation	ICD10CM	Valid	Non-standard"
+"45581057	Z68.26	Body mass index [BMI] 26.0-26.9, adult	5-char billing code	Observation	ICD10CM	Valid	Non-standard"
+"45581058	Z68.37	Body mass index [BMI] 37.0-37.9, adult	5-char billing code	Observation	ICD10CM	Valid	Non-standard"
+"45585848	Z68.22	Body mass index [BMI] 22.0-22.9, adult	5-char billing code	Observation	ICD10CM	Valid	Non-standard"
+"45585849	Z68.34	Body mass index [BMI] 34.0-34.9, adult	5-char billing code	Observation	ICD10CM	Valid	Non-standard"
+"45590749	Z68.20	Body mass index [BMI] 20.0-20.9, adult	5-char billing code	Observation	ICD10CM	Valid	Non-standard"
+"45590750	Z68.28	Body mass index [BMI] 28.0-28.9, adult	5-char billing code	Observation	ICD10CM	Valid	Non-standard"
+"45590751	Z68.41	Body mass index [BMI]40.0-44.9, adult	5-char billing code	Observation	ICD10CM	Valid	Non-standard"
+"45595538	Z68.32	Body mass index [BMI] 32.0-32.9, adult	5-char billing code	Observation	ICD10CM	Valid	Non-standard"
+"45600347	Z68.27	Body mass index [BMI] 27.0-27.9, adult	5-char billing code	Observation	ICD10CM	Valid	Non-standard"
+"45600348	Z68.31	Body mass index [BMI] 31.0-31.9, adult	5-char billing code	Observation	ICD10CM	Valid	Non-standard"
+"45605144	Z68.29	Body mass index [BMI] 29.0-29.9, adult	5-char billing code	Observation	ICD10CM	Valid	Non-standard"
+"45609960	Z68.21	Body mass index [BMI] 21.0-21.9, adult	5-char billing code	Observation	ICD10CM	Valid	Non-standard"
+"45609961	Z68.38	Body mass index [BMI] 38.0-38.9, adult	5-char billing code	Observation	ICD10CM	Valid	Non-standard"
+"45609962	Z68.39	Body mass index [BMI] 39.0-39.9, adult	5-char billing code	Observation	ICD10CM	Valid	Non-standard"
+"45609963	Z68.42	Body mass index [BMI] 45.0-49.9, adult	5-char billing code	Observation	ICD10CM	Valid	Non-standard"
+"44821624	V85.0	Body Mass Index less than 19, adult	4-dig billing V code	Observation	ICD9CM	Valid	Non-standard"
+"44821625	V85.25	Body Mass Index 29.0-29.9, adult	5-dig billing V code	Observation	ICD9CM	Valid	Non-standard"
+"44821626	V85.38	Body Mass Index 38.0-38.9, adult	5-dig billing V code	Observation	ICD9CM	Valid	Non-standard"
+"44822764	V85.4	Body Mass Index 40 and over, adult	4-dig nonbill V code	Observation	ICD9CM	Valid	Non-standard"
+"44823910	V85.37	Body Mass Index 37.0-37.9, adult	5-dig billing V code	Observation	ICD9CM	Valid	Non-standard"
+"44825073	V85.24	Body Mass Index 28.0-28.9, adult	5-dig billing V code	Observation	ICD9CM	Valid	Non-standard"
+"44825074	V85.43	Body Mass Index 50.0-59.9, adult	5-dig billing V code	Observation	ICD9CM	Valid	Non-standard"
+"44826271	V85.42	Body Mass Index 45.0-49.9, adult	5-dig billing V code	Observation	ICD9CM	Valid	Non-standard"
+44828614	V85	Body mass index [BMI]	3-dig nonbill V code	Observation	ICD9CM	Valid	Non-standard
+"44828615	V85.32	Body Mass Index 32.0-32.9, adult	5-dig billing V code	Observation	ICD9CM	Valid	Non-standard"
+"44828616	V85.39	Body Mass Index 39.0-39.9, adult	5-dig billing V code	Observation	ICD9CM	Valid	Non-standard"
+"44829684	V85.2	Body Mass Index between 25-29, adult	4-dig nonbill V code	Observation	ICD9CM	Valid	Non-standard"
+"44829685	V85.34	Body Mass Index 34.0-34.9, adult	5-dig billing V code	Observation	ICD9CM	Valid	Non-standard"
+"44830872	V85.3	Body Mass Index between 30-39, adult	4-dig nonbill V code	Observation	ICD9CM	Valid	Non-standard"
+"44830873	V85.53	Body Mass Index, pediatric, 85th percentile to less than 95th percentile for age	5-dig billing V code	Observation	ICD9CM	Valid	Non-standard"
+"44833167	V85.41	Body Mass Index 40.0-44.9, adult	5-dig billing V code	Observation	ICD9CM	Valid	Non-standard"
+"44833168	V85.44	Body Mass Index 60.0-69.9, adult	5-dig billing V code	Observation	ICD9CM	Valid	Non-standard"
+"44834363	V85.1	Body Mass Index between 19-24, adult	4-dig billing V code	Observation	ICD9CM	Valid	Non-standard"
+"44834364	V85.31	Body Mass Index 31.0-31.9, adult	5-dig billing V code	Observation	ICD9CM	Valid	Non-standard"
+"44834365	V85.35	Body Mass Index 35.0-35.9, adult	5-dig billing V code	Observation	ICD9CM	Valid	Non-standard"
+"44834366	V85.36	Body Mass Index 36.0-36.9, adult	5-dig billing V code	Observation	ICD9CM	Valid	Non-standard"
+"44835553	V85.30	Body Mass Index 30.0-30.9, adult	5-dig billing V code	Observation	ICD9CM	Valid	Non-standard"
+"44836721	V85.22	Body Mass Index 26.0-26.9, adult	5-dig billing V code	Observation	ICD9CM	Valid	Non-standard"
+"44836722	V85.23	Body Mass Index 27.0-27.9, adult	5-dig billing V code	Observation	ICD9CM	Valid	Non-standard"
+"44836723	V85.33	Body Mass Index 33.0-33.9, adult	5-dig billing V code	Observation	ICD9CM	Valid	Non-standard"
+"44836724	V85.45	Body Mass Index 70 and over, adult	5-dig billing V code	Observation	ICD9CM	Valid	Non-standard"
+"44837875	V85.21	Body Mass Index 25.0-25.9, adult	5-dig billing V code	Observation	ICD9CM	Valid	Non-standard"
+1017281	LP263446-9	Estimated BMI greater than 40	LOINC Component	Observation	LOINC	Valid	Non-standard
+1027485	LP35925-4	Body mass index (BMI)	LOINC Component	Observation	LOINC	Valid	Non-standard
+762483	4201000175106	Body mass index measurement not done	Context-dependent	Observation	SNOMED	Valid	Standard
+763588	443371000124107	Obese class I	Clinical Finding	Observation	SNOMED	Valid	Standard
+763589	443381000124105	Obese class II	Clinical Finding	Observation	SNOMED	Valid	Standard
+765696	8281000175105	Body mass index follow-up planning not done	Context-dependent	Observation	SNOMED	Valid	Standard
+3551313	95271000000107	Body mass index 40+ - severely obese	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+3552048	113161000000102	Body mass index 20-24 - normal	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+3560650	917151000000106	Obese class I (body mass index 30.0 - 34.9)	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+3560651	917161000000109	Obese class II (body mass index 35.0 - 39.9)	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+3560652	917171000000102	Obese class III (body mass index equal to or greater than 40.0)	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+3560737	920151000000104	Child body mass index < 0.4th centile	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+3560738	920171000000108	Child body mass index = 0.4th - 2nd centile	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+3560739	920191000000107	Child body mass index = 2nd centile	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+3560740	920211000000106	Child body mass index = 3rd - 8th centile	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+3560741	920241000000107	Child body mass index = 9th centile	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+3560742	920261000000108	Child body mass index = 10th-24th centile	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+3560744	920281000000104	Child body mass index = 25th centile	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+3560745	920301000000103	Child body mass index = 26th-49th centile	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+3560746	920321000000107	Child body mass index = 50th centile	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+3560762	920851000000106	Child body mass index = 51st-74th centile	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+3560763	920941000000104	Child body mass index = 75th centile	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+3560764	920961000000103	Child body mass index = 76th-90th centile	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+3560765	920981000000107	Child body mass index = 91st centile	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+3560766	921001000000108	Child body mass index = 92nd-97th centile	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+3560767	921021000000104	Child body mass index = 98th centile	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+3560768	921041000000106	Child body mass index = 98.1st-99.6th centile	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+3560769	921061000000107	Child body mass index > 99.6th centile	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+3571348	100141000000106	Body mass index 40+ - severely obese	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+3571722	112081000000104	Body mass index 20-24 - normal	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+3584718	710101000000102	Body mass index centile	Undefined	Observation	SNOMED	Invalid	Non-standard
+3585760	813941000000106	World Health Organisation FRAX 10 year hip fracture probability score with body mass index	Staging / Scales	Observation	SNOMED	Invalid	Non-standard
+3655984	870601004	Target body mass index for age z-score	Observable Entity	Observation	SNOMED	Valid	Standard
+3661654	870194003	Body mass index follow-up planning	Procedure	Observation	SNOMED	Valid	Standard
+3662311	15051000175102	Body mass index follow-up planning declined	Context-dependent	Observation	SNOMED	Valid	Standard
+4060705	162863004	Body mass index 25-29 - overweight	Clinical Finding	Observation	SNOMED	Valid	Standard
+4060983	162860001	Body mass index normal K/M2	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+4060984	162861002	Body mass index high K/M2	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+4060985	162864005	Body mass index 30+ - obesity	Clinical Finding	Observation	SNOMED	Valid	Standard
+4061889	162862009	Body mass index low K/M2	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+4103471	301331008	Finding of body mass index	Clinical Finding	Observation	SNOMED	Valid	Standard
+4135421	412768003	Body mass index 20-24 - normal	Clinical Finding	Observation	SNOMED	Valid	Standard
+4145979	427090001	Body mass index less than 16.5	Clinical Finding	Observation	SNOMED	Valid	Standard
+4147565	310252000	Body mass index less than 20	Clinical Finding	Observation	SNOMED	Valid	Standard
+4171825	48499001	Increased body mass index	Clinical Finding	Observation	SNOMED	Valid	Standard
+4256640	408512008	Body mass index 40+ - severely obese	Clinical Finding	Observation	SNOMED	Valid	Standard
+4261660	35425004	Normal body mass index	Clinical Finding	Observation	SNOMED	Valid	Standard
+4274822	6497000	Decreased body mass index	Clinical Finding	Observation	SNOMED	Valid	Standard
+36684935	459211000124108	Body mass index measurement declined	Context-dependent	Observation	SNOMED	Valid	Standard
+36716554	722595002	Overweight in adulthood with body mass index of 25 or more but less than 30	Clinical Finding	Observation	SNOMED	Valid	Standard
+37311728	819948005	Obese class III	Clinical Finding	Observation	SNOMED	Valid	Standard
+40298250	140076009	Body mass index normal K/M2	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+40298251	140077000	Body mass index high K/M2	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+40298252	140078005	Body mass index low K/M2	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+40298253	140079002	Body mass index index 25-29 - overweight	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+40298254	140080004	Body mass index 30+ - obesity	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+40298256	140081000	Body mass index less than 20	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+40329237	162865006	Body mass index less than 20	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+44811711	914721000000105	Obese class I (body mass index 30.0 - 34.9)	Clinical Finding	Observation	SNOMED	Valid	Standard
+44811712	914731000000107	Obese class II (body mass index 35.0 - 39.9)	Clinical Finding	Observation	SNOMED	Valid	Standard
+44811757	914741000000103	Obese class III (body mass index equal to or greater than 40.0)	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+45769975	920141000000102	Child body mass index less than 0.4th centile	Clinical Finding	Observation	SNOMED	Valid	Standard
+45769976	920181000000105	Child body mass index on 2nd centile	Clinical Finding	Observation	SNOMED	Valid	Standard
+45769977	920201000000109	Child body mass index 3rd-8th centile	Clinical Finding	Observation	SNOMED	Valid	Standard
+45769979	920251000000105	Child body mass index 10th-24th centile	Clinical Finding	Observation	SNOMED	Valid	Standard
+45769980	920271000000101	Child body mass index on 25th centile	Clinical Finding	Observation	SNOMED	Valid	Standard
+45769981	920291000000102	Child body mass index 26th-49th centile	Clinical Finding	Observation	SNOMED	Valid	Standard
+45769982	920311000000101	Child body mass index on 50th centile	Clinical Finding	Observation	SNOMED	Valid	Standard
+45770002	920841000000108	Child body mass index 51st-74th centile	Clinical Finding	Observation	SNOMED	Valid	Standard
+45770006	920931000000108	Child body mass index on 75th centile	Clinical Finding	Observation	SNOMED	Valid	Standard
+45770007	920951000000101	Child body mass index 76th-90th centile	Clinical Finding	Observation	SNOMED	Valid	Standard
+45770008	920971000000105	Child body mass index on 91st centile	Clinical Finding	Observation	SNOMED	Valid	Standard
+45770009	920991000000109	Child body mass index 92nd-97th centile	Clinical Finding	Observation	SNOMED	Valid	Standard
+45770010	921011000000105	Child body mass index on 98th centile	Clinical Finding	Observation	SNOMED	Valid	Standard
+45770011	921051000000109	Child body mass index greater than 99.6th centile	Clinical Finding	Observation	SNOMED	Valid	Standard
+45773447	920161000000101	Child body mass index 0.4th-1.9th centile	Clinical Finding	Observation	SNOMED	Valid	Standard
+45773585	920231000000103	Child body mass index on 9th centile	Clinical Finding	Observation	SNOMED	Valid	Standard
+45773589	921031000000102	Child body mass index 98.1st-99.6th centile	Clinical Finding	Observation	SNOMED	Valid	Standard
+764583	457071000124100	Body mass index follow up plan	Record Artifact	Type Concept	SNOMED	Valid	Non-standard
+3564793	3181000175108	Body mass index follow up plan	Qualifier Value	Type Concept	SNOMED	Invalid	Non-standard

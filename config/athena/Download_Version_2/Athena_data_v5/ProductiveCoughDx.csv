@@ -1,0 +1,10 @@
+﻿Id	Code	Name	Standard Class	Domain	Vocab	Validity	Concept
+3540281	677011000000103	Productive cough NOS	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+4060051	161924005	Productive cough -green sputum	Clinical Finding	Condition	SNOMED	Valid	Standard
+4060224	161923004	Productive cough -clear sputum	Clinical Finding	Condition	SNOMED	Valid	Standard
+4102774	28743005	Productive cough	Clinical Finding	Condition	SNOMED	Valid	Standard
+4143058	267034005	Productive cough NOS	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40303834	139180008	Productive cough -clear sputum	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40303836	139181007	Productive cough -green sputum	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40303838	139183005	Productive cough NOS	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40325164	161926007	(Coughing up phlegm) or (productive cough NOS)	Clinical Finding	Condition	SNOMED	Invalid	Non-standard

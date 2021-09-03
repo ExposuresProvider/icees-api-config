@@ -1,0 +1,130 @@
+original_feature,newft,filter_terms
+ALT,alanine aminotransferase,alanine aminotransferase
+AST,aspartate aminotransferase,aspartate aminotransferase
+AbsoluteLymphocyteCount,lymphocyte count,lymphocyte count
+AbsoluteNeutrophilCount,lymphocyte count,lymphocyte count
+AgeStudyStart,age,age
+Albumin,Albumin,Albumin
+Amiodarone_gttRx,Amiodarone,Amiodarone
+AnakinraRx,Anakinra,Anakinra
+AntibioticsRx,Antibiotics,Antibiotics
+BaseDeficit,Base Deficit,Base Deficit
+BloodType,Blood Type,Blood Type
+BloodUreaNitrogen,Blood Urea Nitrogen,Blood Urea Nitrogen
+BrainNatriureticPeptide,Brain Natriuretic Peptide,Brain Natriuretic Peptide
+BronchiectasisDx,Bronchiectasis,Bronchiectasis
+C-reactiveProtein,C-reactive Protein,C-reactive Protein
+CK,creatine kinase,creatine kinase
+CancerDx,Cancer,Cancer
+ChronicKidneyDiseaseDx,Chronic Kidney Disease,Kidney Disease
+ChronicNasalCongestionDx,Chronic Nasal Congestion,Nasal Congestion
+ChronicObstructivePulmonaryDiseaseDx,Chronic Obstructive Pulmonary Disease,Obstructive Pulmonary 
+CoronaryArteryDisease,Coronary Artery Disease,Coronary Artery
+CysticFibrosisDx,Cystic Fibrosis,Cystic Fibrosis
+D-dimer,D-dimer,D-dimer
+ErythrocyteSedimentationRate,Erythrocyte Sedimentation Rate,Erythrocyte Sedimentation Rate
+DailyWetCoughDx,Daily Wet Cough,Wet Cough
+DexamethasoneRx,Dexamethasone,Dexamethasone
+DischargeStatus,Discharge Status,Discharge Status
+Dobutamine_gttRx,Dobutamine,Dobutamine
+Dopamine_gttRx,Dopamine,Dopamine
+Epinephrine_gttRx,Epinephrine,Epinephrine
+Esmolol_gttRx,Esmolol,Esmolol
+EstimatedGFR,estimated globular filtration rate,globular filtration rate
+ExtracorporealVentilationORSystemicAssistance,Extracorporeal Ventilation Or Systemic Assistance,Extracorporeal Ventilation
+Ferritin,Ferritin,Ferritin
+FeverDx,Fever,fever
+HIVInfectionDx,HIV Infection,HIV Infection
+HeartFailureDiseaseDx,Heart Failure Disease,heart failure
+Hemoglobin,Hemoglobin,Hemoglobin
+HgbA1C,HgbA1C,HgbA1C
+HighFlowNasalCannula,interleukin-6,interleukin-6
+HydroxychloroquineRx,Hydroxychloroquine,Hydroxychloroquine
+HypertensionDx,Hypertension,Hypertension
+IL-6,IL-6,IL-6
+InvasiveVentilation,Invasive Ventilation,Invasive Ventilation
+IsolationFlag,Isolation Flag,Isolation Flag
+Isoproterenol_gttRx,Isoproterenol,Isoproterenol
+LDH,LDH,LDH
+Lactate,Lactate,Lactate
+Landfill_Exposure,Landfill Exposure,Landfill Exposure
+LateralityDefect_SitusInversusOrHeterotaxyDx,Laterality Defect Situs Inversus Or Heterotaxy,Laterality Defect Situs Inversus Or Heterotaxy
+Levosimendan_gttRx,Levosimendan,Levosimendan
+LiverDiseaseDx,Liver Disease,Liver Disease
+MaleInfertilityDueToSpermDysfunctionDx,Male Infertility Due To Sperm Dysfunction,Male Infertility 
+MiddleEarDiseaseDx,Middle Ear Disease,Middle Ear Disease
+Milrinone_gttRx,Milrinone,Milrinone
+NeonatalRespiratoryDistressDx,Neonatal Respiratory Distress,Neonatal Respiratory Distress
+NitricOxideOrFolanRx,Nitric Oxide,"Nitric Oxide, Folan"
+NonInvasivePositivePressureVentilation,Non Invasive Positive Pressure Ventilation,Non Invasive Positive Pressure Ventilation
+Norepinephrine_gttRx,Norepinephrine,Norepinephrine
+ObesityBMI,body mass index,body mass index
+PCDDx,primary ciliary dyskinesia,primary ciliary dyskinesia
+Phenylephrine_gttRx,Phenylephrine,Phenylephrine
+PlateletCount,Platelet Count,Platelet Count
+PrednisoneOrMethylprednisoneRx,Prednisone,Prednisone Or Methylprednisone
+Procalcitonin,Procalcitonin,Procalcitonin
+Race,Race,Race
+RemdesivirRx,Remdesivir,Remdesivir
+RespiratorySupportSupplementalO2,Respiratory Support Supplemental oxygen,Respiratory Support oxygen
+SerumBicarbonate,Serum Bicarbonate,Serum Bicarbonate
+SerumChloride,Serum Chloride,Serum Chloride
+SerumCreatinine,Serum Creatinine,Serum Creatinine
+SerumGlucose,Serum Glucose,Serum Glucose
+SerumPotassium,Serum Potassium,Serum Potassium
+SerumSodium,Serum Sodium,Serum Sodium
+Sex,Sex,Sex
+SvO2,mixed venous oxygen saturation,venous oxygen saturation
+TocilizumabRx,Tocilizumab,Tocilizumab
+TotalEDInpatientVisits,emergency room and inpatient visit,emergency room and inpatient visit
+TotalEDVisits,emergency department visit,emergency department visit
+TotalInpatientVisits,inpatient visit,inpatient visit
+Troponin,Troponin,Troponin
+Vasopressin_gttRx,Vasopressin,Vasopressin
+Ventilation,Ventilation,Ventilation
+WBCcount,white blood cell count,white blood cell
+COVIDSeverityScore,WHO clinical progression scale,WHO clinical progression
+pCO2ArterialVenous,arterial venous partial pressure carbon dioxide,arterial venous partial pressure carbon dioxide
+pH,pH,pH
+pO2Arterial,arterial partial pressure oxygen,arterial partial pressure oxygen
+CongestiveHeartFailureDx,congestive heart failure,*Hao sent you this earlier
+CLARK_prediction,,*No mapping; will need to be added to all_features.yml
+CLARK_prediction_PCD,,*No mapping; will need to be added to all_features.yml
+CLARK_prediction_NotPCD,,*No mapping; will need to be added to all_features.yml
+Confirmed_PCD_Dx,primary ciliary dyskinesia,
+Confirmed_CF_Dx,cystic fibrosis,
+Confirmed_IdiopathicBronchiectasisDx,idopathic bronchiectasis,
+FVC,forced vital capacity,*Not sure if Athena supports operations; may have to break into two separate queries
+FEV1,forced expiratory volume,*Not sure if Athena supports operations; may have to break into two separate queries
+FEV1_FVC,FEV1/FVC,
+SputumCulture,sputum culture,
+PulseOximetry,pulse oximetry,
+LungTransplant,lung transplant,
+NeonatalRespiratoryDistressDx,neonatal respiratory distress,
+SitusInversusOrHeterotaxyDx,n/a,"*To replacethe variable in 51; I changed the csv file in the Google folder I sent you, but all_features.yml will need to be changed, too"
+MaleInfertilityDx,n/a,"*To replacethe variable in 54; I changed the csv file name in the Google folder I sent you, but all_features.yml will need to be changed, too"
+ProductiveCoughDx,productive cough,
+MiddleEarDiseaseDx,middle ear disease,
+ChronicSinusitisDx,chronic sinusitis,
+BronchiectasisDx,bronchiectasis,*Note that this is not a duplicate variable
+NitricOxide,nitric oxide,
+TrikaftaRx,elexacaftor tezacaftor ivacaftor,*This is a compound drug: https://athena.ohdsi.org/search-terms/terms?domain=Drug&page=1&pageSize=15&query=elexacaftor+%2B+tezacaftor+%2B+ivacaftor&boosts
+OrkambiRx,lumacaftor ivacaftor,*This is a compount drug: https://athena.ohdsi.org/search-terms/terms?domain=Drug&page=1&pageSize=15&query=%22lumacaftor+%2B+ivacaftor%22&boosts 
+IvacaftorRx,ivacaftor,
+AntihistamineRx,antihistamine,
+TobramycinRx,tobramycin,
+AztreonamRx,aztreonam,
+AzythromycinRx,azythromycin,
+ClarithromycinRx,clarithromycin,
+VitaminA_Rx,vitamin A,
+VitaminB_Rx,vitamin B,
+VitaminK_Rx,vitamin K,
+PulmozymeRx,pulmozyme,
+ImatinibRx,imatinib,
+Hemoglobin,hemoglobin,
+A1C,A1C,
+Albumin,albumin,
+GlucoseToleranceTest,glucose tolerance test,
+IgE,IgE,
+FailureToThriveDx,failure to thrive,
+CysticFibrosisDx,cystic fibrosis,*Note that this is not a duplicate variable

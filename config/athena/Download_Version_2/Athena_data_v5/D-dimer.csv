@@ -1,0 +1,66 @@
+﻿Id	Code	Name	Standard Class	Domain	Vocab	Validity	Concept
+3556914	504791000000100	Point of care D-dimer assay positive	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3556915	504801000000101	Point of care D-dimer assay positive	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3556916	504821000000105	Point of care D-dimer assay negative	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3556917	504831000000107	Point of care D-dimer assay negative	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+42709958	449830004	D-dimer above reference range	Clinical Finding	Condition	SNOMED	Valid	Standard
+44802783	504781000000102	Point of care D-dimer assay positive	Clinical Finding	Condition	SNOMED	Valid	Standard
+44802784	504811000000104	Point of care D-dimer assay negative	Clinical Finding	Condition	SNOMED	Valid	Standard
+"2212698	85378	Fibrin degradation products, D-dimer; qualitative or semiquantitative	CPT4	Measurement	CPT4	Valid	Standard"
+"2212699	85379	Fibrin degradation products, D-dimer; quantitative	CPT4	Measurement	CPT4	Valid	Standard"
+"2212700	85380	Fibrin degradation products, D-dimer; ultrasensitive (eg, for evaluation for venous thromboembolism), qualitative or semiquantitative	CPT4	Measurement	CPT4	Valid	Standard"
+"45889515	1011820	Fibrin degradation products, D-dimer	CPT4 Hierarchy	Measurement	CPT4	Valid	Classification"
+3002683	29263-1	Fibrin degradation products [Presence] in Blood by Agglutination	Lab Test	Measurement	LOINC	Valid	Standard
+3003147	30240-6	Deprecated Fibrin D-dimer	Lab Test	Measurement	LOINC	Invalid	Non-standard
+3008064	3247-4	Deprecated Fibrin D-dimer by agglutination	Lab Test	Measurement	LOINC	Invalid	Non-standard
+3015823	15179-5	Fibrin D-dimer [Presence] in Platelet poor plasma	Lab Test	Measurement	LOINC	Valid	Standard
+3018737	3246-6	Fibrin D-dimer [Units/volume] in Platelet poor plasma by Immunoassay	Lab Test	Measurement	LOINC	Valid	Standard
+3023361	7799-0	Fibrin D-dimer [Units/volume] in Platelet poor plasma	Lab Test	Measurement	LOINC	Valid	Standard
+3024656	15129-0	Deprecated Fibrin D-dimer EIA	Lab Test	Measurement	LOINC	Invalid	Non-standard
+3031098	42727-8	Fibrin D-dimer DDU [Mass/volume] in Cerebral spinal fluid by Latex agglutination	Lab Test	Measurement	LOINC	Valid	Standard
+3033464	29280-5	Fibrin D-dimer [Presence] in Platelet poor plasma by Latex agglutination	Lab Test	Measurement	LOINC	Valid	Standard
+3037963	42499-4	Fibrin D-dimer [Presence] in Cerebral spinal fluid	Lab Test	Measurement	LOINC	Valid	Standard
+3038383	38898-3	Fibrin D-dimer [Titer] in Platelet poor plasma	Lab Test	Measurement	LOINC	Valid	Standard
+3048530	48066-5	Fibrin D-dimer DDU [Mass/volume] in Platelet poor plasma	Lab Test	Measurement	LOINC	Valid	Standard
+3051714	48065-7	Fibrin D-dimer FEU [Mass/volume] in Platelet poor plasma	Lab Test	Measurement	LOINC	Valid	Standard
+3052648	48067-3	Fibrin D-dimer FEU [Mass/volume] in Platelet poor plasma by Immunoassay	Lab Test	Measurement	LOINC	Valid	Standard
+3052716	48058-2	Fibrin D-dimer DDU [Mass/volume] in Platelet poor plasma by Immunoassay	Lab Test	Measurement	LOINC	Valid	Standard
+37021210	91556-1	Fibrin D-dimer DDU [Mass/volume] in Blood by Immunoassay	Lab Test	Measurement	LOINC	Valid	Standard
+37022184	LP394014-7	Fibrin D-dimer FEU | Blood | Coagulation	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37030469	LP394012-1	Fibrin D-dimer DDU | Cerebral spinal fluid | Coagulation	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37032186	LP394459-4	Short Fibrin D-dimer FEU and DDU panel | Platelet poor plasma | Coagulation Panels	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37036310	LP394011-3	Fibrin D-dimer DDU | Blood | Coagulation	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37043282	LP394009-7	Fibrin D-dimer | Cerebral spinal fluid | Coagulation	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37051715	LP394015-4	Fibrin D-dimer FEU | Platelet poor plasma | Coagulation	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37057560	LP394013-9	Fibrin D-dimer DDU | Platelet poor plasma | Coagulation	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37072890	LP394010-5	Fibrin D-dimer | Platelet poor plasma | Coagulation	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+40758527	55398-2	Short Fibrin D-dimer FEU and DDU panel - Platelet poor plasma	Lab Test	Measurement	LOINC	Valid	Standard
+40758578	55449-3	Deprecated Fibrin D-dimer in Platelet poor plasma	Lab Test	Measurement	LOINC	Invalid	Non-standard
+40777694	LP52466-7	Fibrin D-dimer | Cerebral spinal fluid	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40780185	LP43881-9	Fibrin D-dimer | Platelet poor plasma	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40784794	LP64389-7	Fibrin D-dimer DDU | Cerebral spinal fluid	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40788017	LP62141-4	Fibrin D-dimer DDU | Platelet poor plasma	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40794542	LP62144-8	Fibrin D-dimer FEU | Platelet poor plasma	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+42870366	71427-9	Fibrin D-dimer FEU [Mass/volume] in Blood by Immunoassay	Lab Test	Measurement	LOINC	Valid	Standard
+42870878	LP149563-1	Fibrin D-dimer FEU | Bld-Ser-Plas	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+3554608	270811000000105	D-dimer assay	Procedure	Measurement	SNOMED	Invalid	Non-standard
+3561078	940721000000106	Plasma D-dimer level	Procedure	Measurement	SNOMED	Invalid	Non-standard
+3567087	223071000000100	D-dimer assay	Procedure	Measurement	SNOMED	Invalid	Non-standard
+3574305	978001000000103	Plasma D-dimer D-E-D (FEU - fibrinogen equivalent units)	Observable Entity	Measurement	SNOMED	Invalid	Non-standard
+"4013584	103825006	D-dimer assay, semi-quantitative	Procedure	Measurement	SNOMED	Valid	Standard"
+"4015482	103826007	D-dimer assay, quantitative	Procedure	Measurement	SNOMED	Valid	Standard"
+4322628	70648006	D-dimer assay	Procedure	Measurement	SNOMED	Valid	Standard
+37209010	1111331000000106	D-dimer FEU (fibrinogen equivalent units) mass concentration in whole blood	Observable Entity	Measurement	SNOMED	Valid	Standard
+37392968	1010961000000102	Plasma D-dimer concentration	Observable Entity	Measurement	SNOMED	Valid	Standard
+37393605	1019221000000107	D-dimer level	Observable Entity	Measurement	SNOMED	Valid	Standard
+46285889	977991000000107	Plasma D-dimer (D-E-D) expressed in FEU (fibrinogen equivalent units)	Observable Entity	Measurement	SNOMED	Valid	Standard
+46287143	940711000000100	Plasma D-dimer concentration measurement	Procedure	Measurement	SNOMED	Valid	Standard
+37071974	LP94637-3	Short Fibrin D-dimer FEU and DDU panel	LOINC Component	Observation	LOINC	Valid	Non-standard
+40781379	LP62096-0	Fibrin D-dimer DDU	LOINC Component	Observation	LOINC	Valid	Non-standard
+40785907	LP15987-8	Fibrin D-dimer	LOINC Component	Observation	LOINC	Valid	Non-standard
+42871131	LP62099-4	Fibrin D-dimer FEU	LOINC Component	Observation	LOINC	Valid	Non-standard
+37111524	726530008	D-dimer unit	Qualifier Value	Unit	SNOMED	Valid	Non-standard
+44783455	699548009	Microgram per liter D-dimer unit	Qualifier Value	Unit	SNOMED	Valid	Non-standard
+44783458	699551002	Nanogram per milliliter D-dimer unit	Qualifier Value	Unit	SNOMED	Valid	Non-standard
+44783463	699556007	Milligram per liter D-dimer unit	Qualifier Value	Unit	SNOMED	Valid	Non-standard
+44783472	699565000	Microgram per milliliter D-dimer unit	Qualifier Value	Unit	SNOMED	Valid	Non-standard

@@ -1,0 +1,79 @@
+﻿Id	Code	Name	Standard Class	Domain	Vocab	Validity	Concept
+3556306	372861000000103	Cardiac troponin positive	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3556307	372871000000105	Cardiac troponin positive	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3556310	372911000000107	Cardiac troponin negative	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+3556311	372921000000101	Cardiac troponin negative	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40481546	444931001	High troponin I level	Clinical Finding	Condition	SNOMED	Valid	Standard
+44793053	372851000000101	Cardiac troponin positive	Clinical Finding	Condition	SNOMED	Valid	Standard
+44793059	372901000000105	Cardiac troponin negative	Clinical Finding	Condition	SNOMED	Valid	Standard
+"2212605	84484	Troponin, quantitative	CPT4	Measurement	CPT4	Valid	Standard"
+"2212610	84512	Troponin, qualitative	CPT4	Measurement	CPT4	Valid	Standard"
+"42742376	81406	Molecular pathology procedure, Level 7	CPT4	Measurement	CPT4	Valid	Standard"
+3005227	16255-2	Troponin I.cardiac [Units/volume] in Serum or Plasma	Lab Test	Measurement	LOINC	Invalid	Non-standard
+3019572	6597-9	Troponin T.cardiac [Mass/volume] in Venous blood	Lab Test	Measurement	LOINC	Valid	Standard
+3019800	6598-7	Troponin T.cardiac [Mass/volume] in Serum or Plasma	Lab Test	Measurement	LOINC	Valid	Standard
+3021337	10839-9	Troponin I.cardiac [Mass/volume] in Serum or Plasma	Lab Test	Measurement	LOINC	Valid	Standard
+3032971	49563-0	Troponin I.cardiac [Mass/volume] in Serum or Plasma by Detection limit <= 0.01 ng/mL	Lab Test	Measurement	LOINC	Valid	Standard
+3033745	42757-5	Troponin I.cardiac [Mass/volume] in Blood	Lab Test	Measurement	LOINC	Valid	Standard
+3042837	33204-9	Troponin T.cardiac [Presence] in Serum or Plasma	Lab Test	Measurement	LOINC	Valid	Standard
+3048529	48425-3	Troponin T.cardiac [Mass/volume] in Blood	Lab Test	Measurement	LOINC	Valid	Standard
+3052931	48426-1	Troponin T.cardiac [Presence] in Blood	Lab Test	Measurement	LOINC	Valid	Standard
+21494453	81880-7	TNNT2 gene mutation analysis limited to known familial mutations in Blood or Tissue by Molecular genetics method	Lab Test	Measurement	LOINC	Valid	Standard
+21494454	81881-5	TNNT3 gene mutation analysis limited to known familial mutations in Blood or Tissue by Molecular genetics method	Lab Test	Measurement	LOINC	Valid	Standard
+36303871	89576-3	Troponin T.cardiac panel - Serum or Plasma by High sensitivity method	Lab Test	Measurement	LOINC	Valid	Standard
+36304114	89578-9	Troponin I.cardiac [Interpretation] in Serum or Plasma Qualitative by High sensitivity method	Lab Test	Measurement	LOINC	Valid	Standard
+36304662	89575-5	Troponin T.cardiac [Interpretation] in Serum or Plasma Qualitative by High sensitivity method	Lab Test	Measurement	LOINC	Valid	Standard
+36305612	89577-1	Troponin I.cardiac panel - Serum or Plasma by High sensitivity method	Lab Test	Measurement	LOINC	Valid	Standard
+36306105	89579-7	Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method	Lab Test	Measurement	LOINC	Valid	Standard
+37040477	LP387080-7	Troponin I.cardiac panel | Serum or Plasma | Chemistry Panels	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37045968	LP385946-1	Troponin T.cardiac | Serum or Plasma | Chemistry - non-challenge	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37063873	LP385942-0	Troponin I.cardiac | Serum or Plasma | Chemistry - non-challenge	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37066693	LP385944-6	Troponin T.cardiac | Blood | Chemistry - non-challenge	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37071238	LP385945-3	Troponin T.cardiac | Blood venous | Chemistry - non-challenge	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37072384	LP385941-2	Troponin I.cardiac | Blood | Chemistry - non-challenge	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37075202	LP387081-5	Troponin T.cardiac panel | Serum or Plasma | Chemistry Panels	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+"37076644	LP385943-8	Troponin I.cardiac | Serum, Plasma or Blood | Chemistry - non-challenge	LOINC Hierarchy	Measurement	LOINC	Valid	Classification"
+40653873	LG433-9	Troponin I.cardiac|MCnc|Pt|ANYBldSerPl	LOINC Group	Measurement	LOINC	Valid	Classification
+40653874	LG19584-8	Troponin T.cardiac|MCnc|Pt|ANYBldSerPl	LOINC Group	Measurement	LOINC	Valid	Classification
+40653875	LG13250-2	Troponin T.cardiac|PrThr|Pt|ANYBldSerPl	LOINC Group	Measurement	LOINC	Valid	Classification
+40769783	67151-1	Troponin T.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method	Lab Test	Measurement	LOINC	Valid	Standard
+40783217	LP41095-8	Troponin I.cardiac | Bld-Ser-Plas	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40794012	LP50297-8	Troponin T.cardiac | Bld-Ser-Plas	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40797633	LP54352-7	Troponin T.cardiac | Blood venous	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+"46235895	76399-5	Troponin I.cardiac [Presence] in Serum, Plasma or Blood by Rapid immunoassay	Lab Test	Measurement	LOINC	Valid	Standard"
+3558846	784271000000105	High sensitivity cardiac troponin T level	Procedure	Measurement	SNOMED	Invalid	Non-standard
+4005525	121871002	Troponin T measurement	Procedure	Measurement	SNOMED	Valid	Standard
+4007805	121870001	Troponin I measurement	Procedure	Measurement	SNOMED	Valid	Standard
+4020703	105001004	Troponin T cardiac measurement	Procedure	Measurement	SNOMED	Valid	Standard
+4021291	105000003	Troponin measurement	Procedure	Measurement	SNOMED	Valid	Standard
+4042051	166794009	Serum troponin T measurement	Procedure	Measurement	SNOMED	Valid	Standard
+4192937	314068007	Plasma troponin T measurement	Procedure	Measurement	SNOMED	Valid	Standard
+4198748	313724009	Plasma troponin I measurement	Procedure	Measurement	SNOMED	Valid	Standard
+4209251	313616005	Serum troponin I measurement	Procedure	Measurement	SNOMED	Valid	Standard
+35609600	1083801000000101	Serum cardiac troponin T concentration	Observable Entity	Measurement	SNOMED	Valid	Standard
+37208543	1106461000000104	Cardiac troponin I mass concentration in plasma	Observable Entity	Measurement	SNOMED	Valid	Standard
+37208544	1106471000000106	Cardiac troponin I mass concentration in serum	Observable Entity	Measurement	SNOMED	Valid	Standard
+37208545	1106481000000108	Cardiac troponin I mass concentration in serum by high sensitivity technique	Observable Entity	Measurement	SNOMED	Valid	Standard
+37208546	1106491000000105	Cardiac troponin T mass concentration in serum by high sensitivity technique	Observable Entity	Measurement	SNOMED	Valid	Standard
+37392221	1001271000000105	Serum troponin I level	Observable Entity	Measurement	SNOMED	Valid	Standard
+37392380	1003361000000108	Plasma troponin T level	Observable Entity	Measurement	SNOMED	Valid	Standard
+37393304	1015261000000102	Serum troponin T level	Observable Entity	Measurement	SNOMED	Valid	Standard
+37398480	1001251000000101	Plasma troponin I level	Observable Entity	Measurement	SNOMED	Valid	Standard
+40307282	144070007	Serum troponin T level	Procedure	Measurement	SNOMED	Invalid	Non-standard
+40307285	144072004	Plasma troponin I level	Procedure	Measurement	SNOMED	Invalid	Non-standard
+40307287	144074003	Serum troponin I level	Procedure	Measurement	SNOMED	Invalid	Non-standard
+40307288	144075002	Plasma troponin T level	Procedure	Measurement	SNOMED	Invalid	Non-standard
+40329012	166796006	Plasma troponin I level	Procedure	Measurement	SNOMED	Invalid	Non-standard
+40329014	166798007	Serum troponin I level	Procedure	Measurement	SNOMED	Invalid	Non-standard
+40329015	166799004	Plasma troponin T level	Procedure	Measurement	SNOMED	Invalid	Non-standard
+44805124	784261000000103	High sensitivity cardiac troponin T measurement	Procedure	Measurement	SNOMED	Valid	Standard
+37038153	LP267653-6	Troponin T.cardiac panel	LOINC Component	Observation	LOINC	Valid	Non-standard
+37042393	LP267652-8	Troponin I.cardiac panel	LOINC Component	Observation	LOINC	Valid	Non-standard
+37073332	LP14890-5	Troponin I.cardiac	LOINC Component	Observation	LOINC	Valid	Non-standard
+40776031	LP17145-1	Troponin T.cardiac	LOINC Component	Observation	LOINC	Valid	Non-standard
+4009409	102680009	Troponin	Substance	Observation	SNOMED	Valid	Standard
+4009410	102681008	Troponin C	Substance	Observation	SNOMED	Valid	Standard
+4010038	102682001	Troponin T	Substance	Observation	SNOMED	Valid	Standard
+4010039	102683006	Troponin I	Substance	Observation	SNOMED	Valid	Standard
+4010497	102684000	Cardiac troponin T	Substance	Observation	SNOMED	Valid	Standard
+4024787	116886006	Cardiac troponin I	Substance	Observation	SNOMED	Valid	Standard

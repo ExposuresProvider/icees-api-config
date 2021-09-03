@@ -1,0 +1,81 @@
+﻿Id	Code	Name	Standard Class	Domain	Vocab	Validity	Concept
+764124	451051000124101	Hemoglobin A1c between 7%-9% indicating borderline diabetic control	Clinical Finding	Condition	SNOMED	Valid	Standard
+764125	451061000124104	Hemoglobin A1c greater than 9% indicating poor diabetic control	Clinical Finding	Condition	SNOMED	Valid	Standard
+4276582	365845005	Hemoglobin A1C - diabetic control finding	Clinical Finding	Condition	SNOMED	Valid	Standard
+4306250	165681007	Hemoglobin A1c greater than 10% indicating poor diabetic control	Clinical Finding	Condition	SNOMED	Valid	Standard
+4306438	165679005	Hemoglobin A1c less than 7% indicating good diabetic control	Clinical Finding	Condition	SNOMED	Valid	Standard
+4306587	165680008	Hemoglobin A1c between 7%-10% indicating borderline diabetic control	Clinical Finding	Condition	SNOMED	Valid	Standard
+40302400	143081001	Hb. A1C < 7% - good control	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40302401	143082008	Hb. A1C 7-10% - borderline	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40302402	143083003	Hb. A1C > 10% - bad control	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40480694	444751005	High hemoglobin A1c level	Clinical Finding	Condition	SNOMED	Valid	Standard
+2212392	83036	Hemoglobin; glycosylated (A1C)	CPT4	Measurement	CPT4	Valid	Standard
+2212393	83037	Hemoglobin; glycosylated (A1C) by device cleared by FDA for home use	CPT4	Measurement	CPT4	Valid	Standard
+3003309	4549-2	Hemoglobin A1c/Hemoglobin.total in Blood by Electrophoresis	Lab Test	Measurement	LOINC	Valid	Standard
+3004410	4548-4	Hemoglobin A1c/Hemoglobin.total in Blood	Lab Test	Measurement	LOINC	Valid	Standard
+3005673	17856-6	Hemoglobin A1c/Hemoglobin.total in Blood by HPLC	Lab Test	Measurement	LOINC	Valid	Standard
+3007263	17855-8	Hemoglobin A1c/Hemoglobin.total in Blood by calculation	Lab Test	Measurement	LOINC	Valid	Standard
+3033145	43150-2	Hemoglobin A1c measurement device panel	Clinical Observation	Measurement	LOINC	Valid	Standard
+3034639	41995-2	Hemoglobin A1c [Mass/volume] in Blood	Lab Test	Measurement	LOINC	Valid	Standard
+36032094	96595-4	Hemoglobin A1c/Hemoglobin.total in DBS	Lab Test	Measurement	LOINC	Valid	Standard
+36033288	LP421226-4	Hemoglobin A1c/Hemoglobin.total | DBS | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+36304734	86910-7	Hemoglobin A1c/Hemoglobin.total goal Blood	Clinical Observation	Measurement	LOINC	Valid	Standard
+37059902	LP393563-4	Hemoglobin A1c/Hemoglobin.total | Blood | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37067387	LP393562-6	Hemoglobin A1c | Blood | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+40758583	55454-3	Deprecated Hemoglobin A1c in Blood	Lab Test	Measurement	LOINC	Invalid	Non-standard
+40762352	59261-8	Hemoglobin A1c/Hemoglobin.total in Blood by IFCC protocol	Lab Test	Measurement	LOINC	Valid	Standard
+40765129	62388-4	Hemoglobin A1c/Hemoglobin.total in Blood by JDS/JSCC protocol	Lab Test	Measurement	LOINC	Valid	Standard
+40775446	LP100945-7	Hemoglobin A1c | Bld-Ser-Plas	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+42869630	71875-9	Hemoglobin A1c/Hemoglobin.total [Pure mass fraction] in Blood	Lab Test	Measurement	LOINC	Valid	Standard
+3556806	491841000000105	Haemoglobin A1c level	Observable Entity	Measurement	SNOMED	Invalid	Non-standard
+3557553	567641000000108	Haemoglobin A1C - diabetic control NOS	Observable Entity	Measurement	SNOMED	Invalid	Non-standard
+3574607	936121000000108	Haemoglobin A1c (diagnostic reference range)	Observable Entity	Measurement	SNOMED	Invalid	Non-standard
+3574626	1049311000000103	Haemoglobin A1c (diagnostic reference range) - International Federation of Clinical Chemistry and Laboratory Medicine standardised	Observable Entity	Measurement	SNOMED	Invalid	Non-standard
+3574627	1049331000000106	Haemoglobin A1c (monitoring ranges) - International Federation of Clinical Chemistry and Laboratory Medicine standardised	Observable Entity	Measurement	SNOMED	Invalid	Non-standard
+4036846	117346004	Glucose measurement estimated from glycated hemoglobin	Procedure	Measurement	SNOMED	Valid	Standard
+4152671	269823000	Hemoglobin A1C - diabetic control interpretation	Observable Entity	Measurement	SNOMED	Valid	Standard
+4184637	43396009	Hemoglobin A1c measurement	Procedure	Measurement	SNOMED	Valid	Standard
+4197971	313835008	HbA1c measurement (DCCT aligned)	Procedure	Measurement	SNOMED	Valid	Standard
+4306439	165683005	Hb. A1C - diabetic control NOS	Observable Entity	Measurement	SNOMED	Invalid	Non-standard
+37208641	1107481000000106	HbA1c (haemoglobin A1c) substance concentration in blood	Observable Entity	Measurement	SNOMED	Valid	Standard
+37392407	1003671000000109	Haemoglobin A1c level	Observable Entity	Measurement	SNOMED	Valid	Standard
+37392966	1010941000000103	Haemoglobin A1c (monitoring ranges)	Observable Entity	Measurement	SNOMED	Valid	Standard
+37392967	1010951000000100	Haemoglobin A1c (diagnostic reference range)	Observable Entity	Measurement	SNOMED	Valid	Standard
+37393623	1019431000000105	HbA1c level (Diabetes Control and Complications Trial aligned)	Observable Entity	Measurement	SNOMED	Valid	Standard
+37395558	1049301000000100	HbA1c (haemoglobin A1c) level (diagnostic reference range) - IFCC (International Federation of Clinical Chemistry and Laboratory Medicine) standardised	Observable Entity	Measurement	SNOMED	Valid	Standard
+37395559	1049321000000109	HbA1c (haemoglobin A1c) level (monitoring ranges) - IFCC (International Federation of Clinical Chemistry and Laboratory Medicine) standardised	Observable Entity	Measurement	SNOMED	Valid	Standard
+37398434	999791000000106	Haemoglobin A1c level - International Federation of Clinical Chemistry and Laboratory Medicine standardised	Observable Entity	Measurement	SNOMED	Valid	Standard
+40302398	143080000	Hb. A1C - glycated hemoglobin (& [diabetic control])	Procedure	Measurement	SNOMED	Invalid	Non-standard
+40302404	143085005	Hb. A1C - diabetic control NOS	Procedure	Measurement	SNOMED	Invalid	Non-standard
+40307813	144176003	Hemoglobin A1c level	Procedure	Measurement	SNOMED	Invalid	Non-standard
+40329569	166902009	Hemoglobin A1c level	Procedure	Measurement	SNOMED	Invalid	Non-standard
+40333052	165678002	Hb. A1C - glycated hemoglobin (& [diabetic control])	Procedure	Measurement	SNOMED	Invalid	Non-standard
+40478875	444257008	Calculation of estimated average glucose based on hemoglobin A1c	Procedure	Measurement	SNOMED	Invalid	Non-standard
+40483736	443911005	Ordinal level of hemoglobin A1c	Observable Entity	Measurement	SNOMED	Valid	Standard
+44793001	371981000000106	Hb A1c (Haemoglobin A1c) measurement - IFCC (International Federation of Clinical Chemistry and Laboratory Medicine) standardised	Procedure	Measurement	SNOMED	Valid	Standard
+45770777	936111000000102	Haemoglobin A1c (diagnostic reference range)	Observable Entity	Measurement	SNOMED	Invalid	Non-standard
+45770778	936131000000105	Haemoglobin A1c (monitoring ranges)	Observable Entity	Measurement	SNOMED	Invalid	Non-standard
+46284816	955411000000102	Haemoglobin A1c (diagnostic reference range) - IFCC (International Federation of Clinical Chemistry and Laboratory Medicine) standardised	Observable Entity	Measurement	SNOMED	Invalid	Non-standard
+46287019	955421000000108	Haemoglobin A1c (monitoring ranges) - IFCC (International Federation of Clinical Chemistry and Laboratory Medicine) standardised	Observable Entity	Measurement	SNOMED	Invalid	Non-standard
+709959	3051F	Most recent hemoglobin A1c (HbA1c) level greater than or equal to 7.0% and less than 8.0% (DM)	CPT4	Observation	CPT4	Valid	Standard
+709960	3052F	Most recent hemoglobin A1c (HbA1c) level greater than or equal to 8.0% and less than or equal to 9.0% (DM)	CPT4	Observation	CPT4	Valid	Standard
+2106236	3044F	Most recent hemoglobin A1c (HbA1c) level less than 7.0% (DM)	CPT4	Observation	CPT4	Valid	Standard
+2106238	3045F	Most recent hemoglobin A1c (HbA1c) level 7.0-9.0% (DM) (Deprecated)	CPT4	Observation	CPT4	Valid	Standard
+2106252	3046F	Most recent hemoglobin A1c level greater than 9.0% (DM)	CPT4	Observation	CPT4	Valid	Standard
+42741295	3047F	Most recent hemoglobin A1c level <= 9.0% (DM) (Deprecated)	CPT4	Observation	CPT4	Valid	Standard
+1017437	LP264997-0	Hemoglobin A1C/Hemoglobin.total goal	LOINC Component	Observation	LOINC	Valid	Non-standard
+37056065	LP286151-8	Hemoglobin A1c/Hemoglobin.total	LOINC Component	Observation	LOINC	Valid	Non-standard
+40789263	LP16413-4	Hemoglobin A1c	LOINC Component	Observation	LOINC	Valid	Non-standard
+764511	455991000124108	US Military enlisted E3	Qualifier Value	Observation	SNOMED	Valid	Standard
+3543064	727931000000104	Haemoglobin A1c target - International Federation of Clinical Chemistry and Laboratory Medicine standardised	Observable Entity	Observation	SNOMED	Invalid	Non-standard
+3543065	727941000000108	Haemoglobin A1c target - International Federation of Clinical Chemistry and Laboratory Medicine standardised	Observable Entity	Observation	SNOMED	Invalid	Non-standard
+3586980	936141000000101	Haemoglobin A1c (monitoring reference ranges)	Undefined	Observation	SNOMED	Invalid	Non-standard
+3656327	9481000175103	Hemoglobin A1C test declined	Context-dependent	Observation	SNOMED	Valid	Standard
+4143304	33601001	Glycosylated hemoglobin A	Substance	Observation	SNOMED	Invalid	Non-standard
+4235420	408591000	HBA1c target	Observable Entity	Observation	SNOMED	Valid	Standard
+37395615	4501000175108	Hemoglobin A1C test not done	Context-dependent	Observation	SNOMED	Valid	Standard
+40267673	103232008	HbA>1c<	Substance	Observation	SNOMED	Invalid	Non-standard
+40486409	446074002	Hemoglobin A1c target value using International Federation of Clinical Chemistry and Laboratory Medicine standardized method	Observable Entity	Observation	SNOMED	Valid	Standard
+3547212	944591000000105	Provision of written information about diabetes and high haemoglobin A1c level	Procedure	Procedure	SNOMED	Invalid	Non-standard
+36714633	719943000	Provision of written information about diabetes and high hemoglobin A1c level	Procedure	Procedure	SNOMED	Valid	Standard
+46284361	944581000000108	Provision of written information about diabetes and high haemoglobin A1c level	Procedure	Procedure	SNOMED	Invalid	Non-standard

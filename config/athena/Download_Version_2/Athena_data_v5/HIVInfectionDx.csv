@@ -1,0 +1,54 @@
+﻿Id	Code	Name	Standard Class	Domain	Vocab	Validity	Concept
+45566407	Z21	Asymptomatic human immunodeficiency virus [HIV] infection status	ICD10 Hierarchy	Condition	ICD10	Valid	Non-standard
+45576260	B23.0	Acute HIV infection syndrome	ICD10 code	Condition	ICD10	Valid	Non-standard
+35225089	Z21	Asymptomatic human immunodeficiency virus [HIV] infection status	3-char billing code	Condition	ICD10CM	Valid	Non-standard
+1404628	B23.0	Acute HIV infection syndrome	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+1404629	B23.000	Acute HIV infection syndrome	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+1434344	Z21	Asymptomatic human immunodeficiency virus [HIV] infection status	ICD10 Hierarchy	Condition	ICD10CN	Valid	Non-standard
+1434345	Z21.x00	Asymptomatic human immunodeficiency virus [HIV] infection status	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+37087124	B23.0	Acute HIV infection syndrome	ICD10 code	Condition	ICD10GM	Valid	Non-standard
+37097492	Z21	Asymptomatic human immunodeficiency virus [HIV] infection status	ICD10 Hierarchy	Condition	ICD10GM	Valid	Non-standard
+44824945	V08	Asymptomatic human immunodeficiency virus [HIV] infection status	3-dig billing V code	Condition	ICD9CM	Valid	Non-standard
+45612194	D015658	HIV Infections	Main Heading	Condition	MeSH	Valid	Non-standard
+432554	79019005	Human immunodeficiency virus II infection	Clinical Finding	Condition	SNOMED	Valid	Standard
+439727	86406008	Human immunodeficiency virus infection	Clinical Finding	Condition	SNOMED	Valid	Standard
+3654645	838338001	Bacterial infection due to human immunodeficiency virus infection	Clinical Finding	Condition	SNOMED	Valid	Standard
+4008081	111880001	Acute HIV infection	Clinical Finding	Condition	SNOMED	Valid	Standard
+4009716	102920009	Fear of contracting HIV infection	Clinical Finding	Condition	SNOMED	Valid	Standard
+4172009	48794007	HIV infection with infectious mononucleosis-like syndrome	Clinical Finding	Condition	SNOMED	Valid	Standard
+4180254	52079000	Congenital human immunodeficiency virus infection	Clinical Finding	Condition	SNOMED	Valid	Standard
+4201627	315019000	HIV infection with aseptic meningitis	Clinical Finding	Condition	SNOMED	Valid	Standard
+4236860	405631006	Pediatric human immunodeficiency virus infection	Clinical Finding	Condition	SNOMED	Valid	Standard
+4237443	5810003	HIV infection with infection by another virus	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+4239722	91948008	Asymptomatic human immunodeficiency virus infection in pregnancy	Clinical Finding	Condition	SNOMED	Valid	Standard
+4241530	91947003	Asymptomatic human immunodeficiency virus infection	Clinical Finding	Condition	SNOMED	Valid	Standard
+4314426	87117006	HIV infection with acute lymphadenitis	Clinical Finding	Condition	SNOMED	Valid	Standard
+40263069	179235008	HIV infection with acute lymphadenitis	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40376592	186705005	(AIDS) or (HIV infection)	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40640674	89854009	HIV infection with aseptic meningitis	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+42536590	735521001	Human immunodeficiency virus World Health Organization 2007 stage 1 co-occurrent with tuberculosis	Clinical Finding	Condition	SNOMED	Valid	Standard
+42536591	735522008	Human immunodeficiency virus World Health Organization 2007 stage 1 co-occurrent with malaria	Clinical Finding	Condition	SNOMED	Valid	Standard
+42536592	735523003	Human immunodeficiency virus World Health Organization 2007 stage 2 co-occurrent with tuberculosis	Clinical Finding	Condition	SNOMED	Valid	Standard
+42536593	735524009	Human immunodeficiency virus World Health Organization 2007 stage 2 co-occurrent with malaria	Clinical Finding	Condition	SNOMED	Valid	Standard
+42536595	735527002	Human immunodeficiency virus World Health Organization 2007 stage 4 co-occurrent with tuberculosis	Clinical Finding	Condition	SNOMED	Valid	Standard
+42537802	737378009	World Health Organization 2007 Human immunodeficiency virus infection clinical stage 1	Clinical Finding	Condition	SNOMED	Valid	Standard
+42537803	737379001	World Health Organization 2007 Human immunodeficiency virus infection clinical stage 2	Clinical Finding	Condition	SNOMED	Valid	Standard
+42537804	737380003	World Health Organization 2007 Human immunodeficiency virus infection clinical stage 3	Clinical Finding	Condition	SNOMED	Valid	Standard
+42537805	737381004	World Health Organization 2007 Human immunodeficiency virus infection clinical stage 4	Clinical Finding	Condition	SNOMED	Valid	Standard
+42539031	735525005	Human immunodeficiency virus World Health Organization 2007 stage 3 co-occurrent with tuberculosis	Clinical Finding	Condition	SNOMED	Valid	Standard
+44783623	697904001	Pulmonary arterial hypertension associated with HIV infection	Clinical Finding	Condition	SNOMED	Valid	Standard
+45769839	72621000119104	Human immunodeficiency virus (HIV) II infection category B1	Clinical Finding	Condition	SNOMED	Valid	Standard
+45769855	76981000119106	Human immunodeficiency virus (HIV) infection category B1	Clinical Finding	Condition	SNOMED	Valid	Standard
+45769856	76991000119109	Human immunodeficiency virus (HIV) infection category B2	Clinical Finding	Condition	SNOMED	Valid	Standard
+45769864	80191000119101	Symptomatic human immunodeficiency virus (HIV) I infection	Clinical Finding	Condition	SNOMED	Valid	Standard
+45772071	129261000119106	Lipoatrophy due to Human immunodeficiency virus infection and treatment	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+45773072	72631000119101	Human immunodeficiency virus (HIV) II infection category B2	Clinical Finding	Condition	SNOMED	Valid	Standard
+"36309000	LA27116-5	Serologic evidence of acute HIV infection is present. Refer to physician for care and follow-up NAT testing. If NAT is nonreactive or not tested, submit second sample in 3-4 weeks to rule out HIV infection.	Answer	Meas Value	LOINC	Valid	Standard"
+36311154	LA27091-0	No serologic evidence of infection with HIV. Cannot exclude incubating or early HIV infection. Submit second sample in 3-4 weeks if clinically indicated.	Answer	Meas Value	LOINC	Valid	Standard
+957643	D000082922	HIV Testing	Main Heading	Measurement	MeSH	Valid	Non-standard
+1011290	LP148820-6	Functional assessment of HIV infection questionnaire - version 4	LOINC Component	Observation	LOINC	Valid	Non-standard
+1032433	LP74932-2	HIV infection	LOINC Component	Observation	LOINC	Valid	Non-standard
+1034005	LP90007-3	HIV infection in last 30 days	LOINC Component	Observation	LOINC	Invalid	Non-standard
+3046265	45683-0	HIV infection [Minimum Data Set]	Survey	Observation	LOINC	Valid	Standard
+40757919	54788-5	Deprecated HIV infection in last 30D MDSv3	Survey	Observation	LOINC	Invalid	Non-standard
+42870077	71133-3	Functional Assessment of HIV Infection Questionnaire - version 4 (FAHI) [FACIT]	Survey	Observation	LOINC	Valid	Standard

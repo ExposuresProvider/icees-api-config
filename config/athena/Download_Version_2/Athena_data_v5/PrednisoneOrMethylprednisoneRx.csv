@@ -1,0 +1,159 @@
+Id	Code	Name	Standard Class	Domain	Vocab	Validity	Concept
+1146889	251947	piroxicam 10 MG / prednisone 2 MG Oral Tablet	Clinical Drug	Drug	RxNorm	Valid	Standard
+1551099	8640	prednisone	Ingredient	Drug	RxNorm	Valid	Standard
+1551100	198144	prednisone 1 MG Oral Tablet	Clinical Drug	Drug	RxNorm	Valid	Standard
+1551101	198145	prednisone 10 MG Oral Tablet	Clinical Drug	Drug	RxNorm	Valid	Standard
+1551122	198146	prednisone 2.5 MG Oral Tablet	Clinical Drug	Drug	RxNorm	Valid	Standard
+1551123	198148	prednisone 50 MG Oral Tablet	Clinical Drug	Drug	RxNorm	Valid	Standard
+1551170	312615	prednisone 20 MG Oral Tablet	Clinical Drug	Drug	RxNorm	Valid	Standard
+1551171	312616	prednisone 25 MG Oral Tablet	Clinical Drug	Drug	RxNorm	Valid	Standard
+1551192	312617	prednisone 5 MG Oral Tablet	Clinical Drug	Drug	RxNorm	Valid	Standard
+1551193	315187	prednisone 1 MG/ML Oral Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+1551195	316581	prednisone 2.5 MG	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+1551196	316582	prednisone 20 MG	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+1551197	316583	prednisone 25 MG	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+1551198	316584	prednisone 5 MG	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+1551199	316585	prednisone 5 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+1551200	316586	prednisone 50 MG	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+1551201	317475	prednisone 1 MG	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+1551232	317663	prednisone 10 MG	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+1551233	335473	prednisone 2 MG	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+1551234	351399	prednisone 5 MG Oral Tablet [Prednicot]	Branded Drug	Drug	RxNorm	Valid	Standard
+19007010	105412	prednisone 5 MG Oral Tablet [Decortisyl]	Branded Drug	Drug	RxNorm	Valid	Standard
+19024533	201082	prednisone 1 MG Oral Tablet [Econosone]	Branded Drug	Drug	RxNorm	Valid	Standard
+19024534	201083	prednisone 5 MG Oral Tablet [Econosone]	Branded Drug	Drug	RxNorm	Valid	Standard
+19028933	205301	prednisone 5 MG/ML Oral Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+19031623	206199	prednisone 1 MG/ML Oral Solution [Liquid Pred]	Branded Drug	Drug	RxNorm	Valid	Standard
+19033379	206754	prednisone 1 MG Oral Tablet [Meticorten]	Branded Drug	Drug	RxNorm	Valid	Standard
+19033380	206755	prednisone 1 MG Oral Tablet [Orasone]	Branded Drug	Drug	RxNorm	Valid	Standard
+19033622	206837	prednisone 2.5 MG Oral Tablet [Deltasone]	Branded Drug	Drug	RxNorm	Valid	Standard
+19034011	206954	prednisone 5 MG Oral Tablet [Deltasone]	Branded Drug	Drug	RxNorm	Valid	Standard
+19034012	206955	prednisone 5 MG Oral Tablet [Orasone]	Branded Drug	Drug	RxNorm	Valid	Standard
+19034013	206956	prednisone 5 MG Oral Tablet [Prednicen-M]	Branded Drug	Drug	RxNorm	Valid	Standard
+19034014	206957	prednisone 5 MG Oral Tablet [Sterapred]	Branded Drug	Drug	RxNorm	Valid	Standard
+19034196	575331	prednisone 10 MG [Prednicot]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19034197	575332	prednisone 20 MG [Prednicot]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19034203	206988	prednisone 10 MG Oral Tablet [Deltasone]	Branded Drug	Drug	RxNorm	Valid	Standard
+19034204	206989	prednisone 10 MG Oral Tablet [Orasone]	Branded Drug	Drug	RxNorm	Valid	Standard
+19034205	206990	prednisone 10 MG Oral Tablet [Sterapred DS]	Branded Drug	Drug	RxNorm	Valid	Standard
+19034231	206997	prednisone 20 MG Oral Tablet [Deltasone]	Branded Drug	Drug	RxNorm	Valid	Standard
+19034232	206998	prednisone 20 MG Oral Tablet [Orasone]	Branded Drug	Drug	RxNorm	Valid	Standard
+19034327	207048	prednisone 50 MG Oral Tablet [Deltasone]	Branded Drug	Drug	RxNorm	Valid	Standard
+19034328	207049	prednisone 50 MG Oral Tablet [Orasone]	Branded Drug	Drug	RxNorm	Valid	Standard
+19064110	250996	piroxicam 10 MG / prednisone 2 MG Delayed Release Oral Tablet	Clinical Drug	Drug	RxNorm	Valid	Standard
+19078115	567757	prednisone 5 MG [Prednicen-M]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19081625	567758	prednisone 5 MG [Sterapred]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19081627	567786	prednisone 10 MG [Sterapred DS]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19081860	316580	prednisone 1 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+19087427	539946	prednisone 1 MG/ML [Liquid Pred]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19087429	567565	prednisone 1 MG [Meticorten]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19087451	567566	prednisone 1 MG [Orasone]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19087452	567756	prednisone 5 MG [Orasone]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19087453	567785	prednisone 10 MG [Orasone]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19087454	567794	prednisone 20 MG [Orasone]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19087455	567842	prednisone 50 MG [Orasone]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19089061	567645	prednisone 2.5 MG [Deltasone]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19089062	567755	prednisone 5 MG [Deltasone]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19089063	567784	prednisone 10 MG [Deltasone]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19089064	567793	prednisone 20 MG [Deltasone]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19089065	567841	prednisone 50 MG [Deltasone]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19098197	351400	prednisone 10 MG Oral Tablet [Prednicot]	Branded Drug	Drug	RxNorm	Valid	Standard
+19098198	351401	prednisone 20 MG Oral Tablet [Prednicot]	Branded Drug	Drug	RxNorm	Valid	Standard
+19105235	418863	chloramphenicol 0.002 MG/MG / prednisone 0.005 MG/MG Topical Ointment	Clinical Drug	Drug	RxNorm	Valid	Standard
+19105412	420639	piroxicam 10 MG / prednisone 2 MG Rectal Suppository	Clinical Drug	Drug	RxNorm	Valid	Standard
+19105447	420771	prednisone 5 MG Rectal Suppository	Clinical Drug	Drug	RxNorm	Valid	Standard
+19105448	420772	prednisone 30 MG Rectal Suppository	Clinical Drug	Drug	RxNorm	Valid	Standard
+19105449	420773	prednisone 100 MG Rectal Suppository	Clinical Drug	Drug	RxNorm	Valid	Standard
+19105450	420774	prednisone 10 MG Rectal Suppository	Clinical Drug	Drug	RxNorm	Valid	Standard
+19106693	429331	prednisone 8 MG Oral Tablet	Clinical Drug	Drug	RxNorm	Valid	Standard
+19106694	429332	prednisone 40 MG Oral Tablet	Clinical Drug	Drug	RxNorm	Valid	Standard
+19109240	438434	prednisone 0.005 MG/MG	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+19111642	451141	prednisone 100 MG	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+19111643	451143	prednisone 30 MG	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+19111644	451144	prednisone 40 MG	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+19111647	451147	prednisone 8 MG	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+19113790	541813	prednisone 10 MG [Predone]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19113791	541815	prednisone 10 MG Oral Tablet [Predone]	Branded Drug	Drug	RxNorm	Valid	Standard
+19113805	541871	prednisone 20 MG [Predone]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19113806	541872	prednisone 20 MG Oral Tablet [Predone]	Branded Drug	Drug	RxNorm	Valid	Standard
+19116164	564054	prednisone 5 MG [Decortisyl]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19117427	565678	prednisone 1 MG [Econosone]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19117428	565679	prednisone 5 MG [Econosone]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19120864	575330	prednisone 5 MG [Prednicot]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19121836	582600	Prednisone Intensol	Brand Name	Drug	RxNorm	Valid	Non-standard
+19121837	582601	prednisone 5 MG/ML [Prednisone Intensol]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19121838	582603	prednisone 5 MG/ML Oral Solution [Prednisone Intensol]	Branded Drug	Drug	RxNorm	Valid	Standard
+19127696	746380	prednisone 10 MG Oral Capsule	Clinical Drug	Drug	RxNorm	Valid	Standard
+19127774	746836	prednisone 20 MG Oral Capsule	Clinical Drug	Drug	RxNorm	Valid	Standard
+19127775	746837	prednisone 5 MG Oral Capsule	Clinical Drug	Drug	RxNorm	Valid	Standard
+19129511	763179	{48 (prednisone 5 MG Oral Tablet) } Pack	Clinical Pack	Drug	RxNorm	Valid	Standard
+19129512	763181	{21 (prednisone 5 MG Oral Tablet) } Pack	Clinical Pack	Drug	RxNorm	Valid	Standard
+19129513	763183	{48 (prednisone 10 MG Oral Tablet) } Pack	Clinical Pack	Drug	RxNorm	Valid	Standard
+19129514	763185	{21 (prednisone 10 MG Oral Tablet) } Pack	Clinical Pack	Drug	RxNorm	Valid	Standard
+19130164	795854	{12 (prednisone 5 MG Oral Tablet) } Pack	Clinical Pack	Drug	RxNorm	Valid	Standard
+19130165	795855	{12 (prednisone 5 MG Oral Tablet [Sterapred]) } Pack [Sterapred Uni-Pak 12 Day]	Branded Pack	Drug	RxNorm	Valid	Standard
+19130166	795856	{6 (prednisone 5 MG Oral Tablet) } Pack	Clinical Pack	Drug	RxNorm	Valid	Standard
+19130167	795857	{6 (prednisone 5 MG Oral Tablet [Sterapred]) } Pack [Sterapred Uni-Pak 6 Day]	Branded Pack	Drug	RxNorm	Valid	Standard
+19130168	795858	{10 (Prednisone 10 MG Oral Tablet) } Pack	Clinical Pack	Drug	RxNorm	Invalid	Non-standard
+19130169	795859	{10 (Prednisone 10 MG Oral Tablet [Sterapred DS]) } Pack [Sterapred DS Uni-Pak 12 Day]	Branded Pack	Drug	RxNorm	Invalid	Non-standard
+19130170	795860	{6 (prednisone 10 MG Oral Tablet) } Pack	Clinical Pack	Drug	RxNorm	Valid	Standard
+19130171	795861	{6 (prednisone 10 MG Oral Tablet [Sterapred DS]) } Pack [Sterapred DS Uni-Pak 6 Day]	Branded Pack	Drug	RxNorm	Valid	Standard
+19133985	834395	{25 (prednisone 10 MG Oral Tablet) } Pack	Clinical Pack	Drug	RxNorm	Valid	Standard
+19135072	845491	{48 (prednisone 5 MG Oral Tablet [Sterapred]) } Pack [Sterapred 5 MG 12 Day Uni-Pak]	Branded Pack	Drug	RxNorm	Valid	Standard
+19135073	845492	{21 (prednisone 5 MG Oral Tablet [Sterapred]) } Pack [Sterapred 5 MG Uni-Pak]	Branded Pack	Drug	RxNorm	Valid	Standard
+19135074	845493	{48 (prednisone 10 MG Oral Tablet [Sterapred DS]) } Pack [Sterapred DS 12 Day Uni-Pak]	Branded Pack	Drug	RxNorm	Valid	Standard
+19135075	845494	{21 (prednisone 10 MG Oral Tablet [Sterapred DS]) } Pack [Sterapred DS Uni-Pak]	Branded Pack	Drug	RxNorm	Valid	Standard
+36029003	1008942	Chloramphenicol / Prednisone	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36030914	815961	Piroxicam / Prednisone	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36216744	1153052	chloramphenicol / prednisone Topical Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36223454	1161704	prednisone Oral Liquid Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36223455	1161705	prednisone Oral Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36223456	1161706	prednisone Pill	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36223457	1161707	prednisone Rectal Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36227293	1159297	piroxicam / prednisone Oral Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36227294	1159298	piroxicam / prednisone Pill	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36227295	1159299	piroxicam / prednisone Rectal Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36242468	1185261	Prednisone Intensol Oral Liquid Product	Branded Dose Group	Drug	RxNorm	Valid	Classification
+36242469	1185262	Prednisone Intensol Oral Product	Branded Dose Group	Drug	RxNorm	Valid	Classification
+40022944	438435	chloramphenicol / prednisone Topical Ointment	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40073486	312618	Prednisone 1 MG/ML Syrup	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+40073529	373583	prednisone Oral Solution	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40073530	364008	prednisone Oral Solution [Liquid Pred]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40073531	373585	prednisone Oral Tablet	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40073532	380828	prednisone Oral Tablet [Decortisyl]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40073533	92354	prednisone Oral Tablet [Deltasone]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40073806	380827	prednisone Oral Tablet [Econosone]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40073807	368867	prednisone Oral Tablet [Meticorten]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40073808	368790	prednisone Oral Tablet [Orasone]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40073809	368813	prednisone Oral Tablet [Prednicen-M]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40073810	368654	prednisone Oral Tablet [Prednicot]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40073811	368806	prednisone Oral Tablet [Sterapred DS]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40073812	368812	prednisone Oral Tablet [Sterapred]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40073813	451142	prednisone Rectal Suppository	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40073814	373584	Prednisone Syrup	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40077886	373495	piroxicam / prednisone Delayed Release Oral Tablet	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40077887	376283	piroxicam / prednisone Oral Tablet	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40077888	450881	piroxicam / prednisone Rectal Suppository	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40119146	539948	Prednisone 1 MG/ML Syrup [Liquid Pred]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+40119160	541927	Prednisone 5 MG Oral Tablet [Levoxyl]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+40119164	541925	Prednisone 5 MG [Levoxyl]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+40119171	541926	Prednisone Oral Tablet [Levoxyl]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40119172	541814	prednisone Oral Tablet [Predone]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40119216	539947	Prednisone Syrup [Liquid Pred]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40127030	582602	prednisone Oral Solution [Prednisone Intensol]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40143531	746379	prednisone Oral Capsule	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40148971	763186	{21 (Prednisone 10 MG Oral Tablet) } Pack [Sterapred DS Uni-Pack ]	Branded Pack	Drug	RxNorm	Invalid	Non-standard
+40148973	763182	{21 (Prednisone 5 MG Oral Tablet) } Pack [Sterapred Uni-Pak]	Branded Pack	Drug	RxNorm	Invalid	Non-standard
+40148997	763184	{48 (Prednisone 10 MG Oral Tablet) } Pack [Sterapred DS Uni-Pack]	Branded Pack	Drug	RxNorm	Invalid	Non-standard
+40148999	763180	{48 (Prednisone 5 MG Oral Tablet) } Pack [Sterapred Uni-Pack]	Branded Pack	Drug	RxNorm	Invalid	Non-standard
+42873418	1303124	prednisone Delayed Release Oral Tablet	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+42873420	1303127	prednisone 1 MG [Rayos]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+42873421	1303128	prednisone Delayed Release Oral Tablet [Rayos]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+42873422	1303133	prednisone 2 MG [Rayos]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+42873423	1303136	prednisone 5 MG [Rayos]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+42873627	1303125	prednisone 1 MG Delayed Release Oral Tablet	Clinical Drug	Drug	RxNorm	Valid	Standard
+42873628	1303131	prednisone 1 MG Delayed Release Oral Tablet [Rayos]	Branded Drug	Drug	RxNorm	Valid	Standard
+42873629	1303132	prednisone 2 MG Delayed Release Oral Tablet	Clinical Drug	Drug	RxNorm	Valid	Standard
+42873630	1303134	prednisone 2 MG Delayed Release Oral Tablet [Rayos]	Branded Drug	Drug	RxNorm	Valid	Standard
+42873631	1303135	prednisone 5 MG Delayed Release Oral Tablet	Clinical Drug	Drug	RxNorm	Valid	Standard
+42873632	1303137	prednisone 5 MG Delayed Release Oral Tablet [Rayos]	Branded Drug	Drug	RxNorm	Valid	Standard

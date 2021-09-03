@@ -1,0 +1,752 @@
+Id	Code	Name	Standard Class	Domain	Vocab	Validity	Concept
+792822	1987011	vitamin A Sublingual Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+792823	1987012	vitamin A Sublingual Tablet	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+792824	1987013	retinol acetate 10000 UNT Sublingual Tablet	Clinical Drug	Drug	RxNorm	Valid	Standard
+993832	797463	ascorbic acid 80 MG / biotin 0.03 MG / calcium carbonate 200 MG / cupric oxide 3 MG / ferrous fumarate 60 MG / folic acid 1 MG / magnesium oxide 100 MG / niacinamide 17 MG / pantothenic acid 7 MG / riboflavin 1.6 MG / thiamine 1.5 MG / vitamin A 4000 U...	Clinical Drug	Drug	RxNorm	Valid	Standard
+993833	797654	ascorbic acid 80 MG / biotin 0.03 MG / calcium carbonate 200 MG / cupric oxide 3 MG / ferrous fumarate 60 MG / folic acid 1 MG / magnesium oxide 100 MG / niacinamide 17 MG / pantothenic acid 7 MG / riboflavin 1.6 MG / thiamine 1.5 MG / vitamin A 4000 U...	Branded Drug	Drug	RxNorm	Valid	Standard
+1145917	2371750	ascorbic acid / calcium carbonate / cholecalciferol / copper sulfate / ferrous fumarate / folic acid / magnesium oxide / niacinamide / potassium iodide / pyridoxine / riboflavin / thiamine / vitamin A / vitamin B12 / vitamin E / zinc sulfate Oral Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+1145918	2371751	ascorbic acid / calcium carbonate / cholecalciferol / copper sulfate / ferrous fumarate / folic acid / magnesium oxide / niacinamide / potassium iodide / pyridoxine / riboflavin / thiamine / vitamin A / vitamin B12 / vitamin E / zinc sulfate Pill	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+1145919	2371752	ascorbic acid / calcium carbonate / cholecalciferol / copper sulfate / ferrous fumarate / folic acid / magnesium oxide / niacinamide / potassium iodide / pyridoxine / riboflavin / thiamine / vitamin A / vitamin B12 / vitamin E / zinc sulfate Oral Tablet	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+1145921	2371756	ascorbic acid / calcium carbonate / cholecalciferol / copper sulfate / ferrous fumarate / folic acid / magnesium oxide / niacinamide / potassium iodide / pyridoxine / riboflavin / thiamine / vitamin A / vitamin B12 / vitamin E / zinc sulfate Oral Table...	Branded Drug Form	Drug	RxNorm	Valid	Standard
+1145934	2371776	vitamin A 0.75 MG	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+1145935	2371777	ascorbic acid / cholecalciferol / folic acid / niacin / riboflavin / sodium fluoride / thiamine / vitamin A / vitamin B12 / vitamin B6 / vitamin E Chewable Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+1145936	2371778	ascorbic acid / cholecalciferol / folic acid / niacin / riboflavin / sodium fluoride / thiamine / vitamin A / vitamin B12 / vitamin B6 / vitamin E Oral Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+1145937	2371779	ascorbic acid / cholecalciferol / folic acid / niacin / riboflavin / sodium fluoride / thiamine / vitamin A / vitamin B12 / vitamin B6 / vitamin E Pill	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+1145938	2371780	ascorbic acid / cholecalciferol / folic acid / niacin / riboflavin / sodium fluoride / thiamine / vitamin A / vitamin B12 / vitamin B6 / vitamin E Chewable Tablet	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+1145939	2371783	ascorbic acid 60 MG / cholecalciferol 0.01 MG / folic acid 0.3 MG / niacin 13.5 MG / riboflavin 1.2 MG / sodium fluoride 2.2 MG / thiamine 1.05 MG / vitamin A 0.75 MG / vitamin B12 0.0045 MG / vitamin B6 1.05 MG / vitamin E 15 UNT [MVC-Fluoride]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+1145940	2371784	ascorbic acid / cholecalciferol / folic acid / niacin / riboflavin / sodium fluoride / thiamine / vitamin A / vitamin B12 / vitamin B6 / vitamin E Chewable Tablet [MVC-Fluoride]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+1145942	2371788	ascorbic acid / cholecalciferol / ferrous sulfate / niacin / riboflavin / thiamine / vitamin A / vitamin B6 / vitamin E Oral Liquid Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+1145943	2371789	ascorbic acid / cholecalciferol / ferrous sulfate / niacin / riboflavin / thiamine / vitamin A / vitamin B6 / vitamin E Oral Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+1145944	2371790	ascorbic acid / cholecalciferol / ferrous sulfate / niacin / riboflavin / thiamine / vitamin A / vitamin B6 / vitamin E Oral Solution	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+1145945	2371793	ascorbic acid 35 MG/ML / cholecalciferol 0.01 MG/ML / ferrous sulfate 50 MG/ML / niacin 8 MG/ML / riboflavin 0.6 MG/ML / thiamine 0.5 MG/ML / vitamin A 0.45 MG/ML / vitamin B6 0.4 MG/ML / vitamin E 2.25 MG/ML [Poly-Vi-Sol with Iron]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+1145946	2371794	ascorbic acid / cholecalciferol / ferrous sulfate / niacin / riboflavin / thiamine / vitamin A / vitamin B6 / vitamin E Oral Solution [Poly-Vi-Sol with Iron]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+1145947	2371797	ascorbic acid / cholecalciferol / niacin / riboflavin / thiamine / vitamin A / vitamin B12 / vitamin B6 / vitamin E Oral Liquid Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+1145948	2371798	ascorbic acid / cholecalciferol / niacin / riboflavin / thiamine / vitamin A / vitamin B12 / vitamin B6 / vitamin E Oral Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+1145949	2371799	ascorbic acid / cholecalciferol / niacin / riboflavin / thiamine / vitamin A / vitamin B12 / vitamin B6 / vitamin E Oral Solution	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+1145950	2371802	ascorbic acid 35 MG/ML / cholecalciferol 0.01 MG/ML / niacin 8 MG/ML / riboflavin 0.6 MG/ML / thiamine 0.5 MG/ML / vitamin A 0.45 MG/ML / vitamin B12 0.002 MG/ML / vitamin B6 0.4 MG/ML / vitamin E 2.25 MG/ML [Poly-Vi-Sol]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+1145951	2371803	ascorbic acid / cholecalciferol / niacin / riboflavin / thiamine / vitamin A / vitamin B12 / vitamin B6 / vitamin E Oral Solution [Poly-Vi-Sol]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+1145952	2371805	vitamin A 0.24 MG	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+1145961	2371956	ascorbic acid / cholecalciferol / sodium fluoride / vitamin A Chewable Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+1145962	2371957	ascorbic acid / cholecalciferol / sodium fluoride / vitamin A Pill	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+1145963	2371958	ascorbic acid / cholecalciferol / sodium fluoride / vitamin A Chewable Tablet	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+1145966	2371965	vitamin A 0.375 MG	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+1592659	1872465	vitamin A Injection	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+1592660	1872467	vitamin A Injection [Aquasol A]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+1592661	1872469	vitamin A 50000 UNT/ML Injection	Clinical Drug	Drug	RxNorm	Valid	Standard
+1592662	1872470	vitamin A 50000 UNT/ML Injection [Aquasol A]	Branded Drug	Drug	RxNorm	Valid	Standard
+1718198	1813433	vitamin A myristate	Precise Ingredient	Drug	RxNorm	Valid	Non-standard
+1780654	248348	Iodine 0.225 MG / Vitamin A 2000 UNT Oral Capsule	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19008339	11246	vitamin A	Ingredient	Drug	RxNorm	Valid	Standard
+19008412	198888	vitamin A 5000 UNT Oral Tablet	Clinical Drug	Drug	RxNorm	Valid	Standard
+19008413	198889	Vitamin A 50000 IU/ML Oral Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19008419	212594	vitamin A 50000 UNT/ML Ophthalmic Solution [Viva-Drops]	Branded Drug	Drug	RxNorm	Valid	Standard
+19008420	213115	vitamin A 50000 UNT/ML Oral Solution [Aquasol A]	Branded Drug	Drug	RxNorm	Valid	Standard
+19008461	243795	vitamin A 10000 UNT Oral Tablet	Clinical Drug	Drug	RxNorm	Valid	Standard
+19008462	245482	Vitamin A 3000 UNT Oral Capsule	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19008463	245483	Vitamin A 5000 UNT Oral Capsule	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19008464	245484	Vitamin A 1000 UNT Oral Tablet	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19008465	245485	Vitamin A 1500 UNT Oral Tablet	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19008466	245486	Vitamin A 2000 UNT Chewable Tablet	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19008467	245487	vitamin A 250000 UNT/ML Injectable Suspension	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19008468	246789	Vitamin A 50000 UNT Chewable Tablet	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19008469	247322	Vitamin A 7500 UNT Oral Capsule	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19008470	248227	vitamin A 10000 UNT/ML Oral Suspension	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19008491	248359	vitamin A 50000 UNT/ML Ophthalmic Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+19008492	248716	Vitamin A 2000 UNT Oral Capsule	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19008493	248776	Vitamin A 100000 UNT Oral Capsule	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19008494	251764	Vitamin A 4000 UNT Oral Tablet	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19008495	251766	Vitamin A 4500 UNT Oral Capsule	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19008496	259287	cholecalciferol 135 UNT / vitamin A 0.375 MG Oral Capsule	Clinical Drug	Drug	RxNorm	Valid	Standard
+19008498	282768	Vitamin A 25000 UNT / Vitamin D 1000 UNT Oral Tablet	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19008499	283245	Vitamin A 25000 UNT / Vitamin D 400 UNT Oral Capsule	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19008521	313599	ascorbic acid 35 MG/ML / cholecalciferol 0.01 MG/ML / vitamin A 0.45 MG/ML Oral Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+19008522	313635	ascorbic acid 500 MG / vitamin A 5000 UNT / vitamin E 50 UNT / zinc sulfate 80 MG Oral Capsule	Clinical Drug	Drug	RxNorm	Valid	Standard
+19008523	313638	vitamin A 10000 UNT Oral Capsule	Clinical Drug	Drug	RxNorm	Valid	Standard
+19008525	313641	vitamin A 15000 UNT Oral Capsule	Clinical Drug	Drug	RxNorm	Valid	Standard
+19008526	313643	vitamin A 25000 UNT Oral Tablet	Clinical Drug	Drug	RxNorm	Valid	Standard
+19008527	313644	Vitamin A 25000 UNT / Vitamin D 1000 UNT Oral Capsule	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19008528	313646	vitamin A 3330 UNT/ML Topical Lotion	Clinical Drug	Drug	RxNorm	Valid	Standard
+19008529	313647	vitamin A 3.33 UNT/MG / vitamin E 0.05 UNT/MG Topical Lotion	Clinical Drug	Drug	RxNorm	Valid	Standard
+19008530	313649	vitamin A 400 UNT Oral Capsule	Clinical Drug	Drug	RxNorm	Valid	Standard
+19008562	313651	vitamin A 50000 UNT/ML Oral Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+19008563	313652	vitamin A 2.4 MG Oral Capsule	Clinical Drug	Drug	RxNorm	Valid	Standard
+19008564	313653	vitamin A 15000 UNT Oral Tablet	Clinical Drug	Drug	RxNorm	Valid	Standard
+19008565	313654	vitamin A 25000 UNT Oral Capsule	Clinical Drug	Drug	RxNorm	Valid	Standard
+19008566	313656	vitamin A 50000 UNT Oral Capsule	Clinical Drug	Drug	RxNorm	Valid	Standard
+19008567	313657	vitamin A 50000 UNT Extended Release Oral Capsule	Clinical Drug	Drug	RxNorm	Valid	Standard
+19008568	313659	Vitamin A 10000 UNT / Vitamin D 400 UNT Oral Capsule	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19008569	314276	Vitamin A 5000 UNT / Vitamin D 400 UNT Oral Capsule	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19008570	316884	vitamin A 1000 UNT	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+19008601	316885	vitamin A 10000 UNT	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+19008602	316886	vitamin A 1250 UNT	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+19008603	316888	vitamin A 25000 UNT	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+19008604	316889	vitamin A 400 UNT	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+19008606	316891	vitamin A 50000 UNT	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+19008607	316892	vitamin A 50000 UNT/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+19008608	317532	vitamin A 8000 UNT	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+19008609	317671	vitamin A 5000 UNT	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+19008641	333597	vitamin A 3330 UNT/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+19008642	333818	Vitamin A 50000 IU/ML	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19008644	335842	Vitamin A 3000 UNT	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19008645	335843	Vitamin A 4500 UNT	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19008646	335844	Vitamin A 7500 UNT	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19008647	335845	vitamin A 10000 UNT/ML	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19008648	335846	vitamin A 250000 UNT/ML	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19008649	335847	Vitamin A 1500 UNT	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19008671	336612	vitamin A 1500 UNT/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+19008672	336861	Vitamin A 100000 UNT	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19008675	349777	vitamin A 2500 UNT	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19008678	392949	vitamin A 10 UNT/MG	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19008679	417255	vitamin A 0.75 UNT/MG Topical Ointment	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19008680	417264	vitamin A 10 UNT/MG Topical Ointment	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19008681	417266	vitamin A 0.4 UNT/MG Topical Ointment	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19008682	417267	vitamin A 0.25 UNT/MG Topical Ointment	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19008683	452569	vitamin A 0.75 UNT/MG	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19008685	452571	vitamin A 0.25 UNT/MG	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19008686	578343	ascorbic acid 60 MG / cholecalciferol 0.01 MG / sodium fluoride 1 MG / vitamin A 0.75 MG Chewable Tablet	Clinical Drug	Drug	RxNorm	Valid	Standard
+19008687	581296	cholecalciferol 270 UNT / vitamin A 0.75 MG Oral Capsule	Clinical Drug	Drug	RxNorm	Valid	Standard
+19009462	282767	Vitamin A 10000 UNT / Vitamin D 400 UNT Oral Tablet	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19009463	283131	Vitamin A 1250 UNT / Vitamin D 133 UNT Oral Capsule	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19009464	283141	Vitamin A 5000 UNT / Vitamin D 10000 UNT Oral Capsule	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19009467	313648	Vitamin A 4000 UNT / Vitamin D 400 UNT Oral Capsule	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19009468	313661	Vitamin A 4000 UNT / Vitamin D 200 UNT Oral Tablet	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19009633	107254	Vitamin A 4500 UNT / Vitamin D 450 UNT Oral Capsule	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19009634	107255	Vitamin A 6000 UNT / Vitamin D 1000 UNT Oral Capsule	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19009635	107258	Ascorbic Acid 66.7 MG/ML / Vitamin A 2333 UNT/ML / Vitamin D 1000 UNT/ML Oral Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19009636	107259	Ascorbic Acid 107 MG/ML / Vitamin A 5357 UNT/ML / Vitamin D 1428 UNT/ML Oral Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19012303	150686	Vitamin A 50000 UNT Oral Tablet [Ro-A-Vit]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+19012304	150687	Vitamin A 300000 UNT/ML Injectable Solution [Ro-A-Vit]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+19012616	150920	Vitamin A 50000 UNT/ML Injectable Solution [Ro-A-Vit]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+19037260	252161	Beta Carotene 90 MG / Vitamin A 50000 UNT Oral Capsule	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19040423	209059	Vitamin A 25000 UNT Oral Capsule [A-25]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+19040424	209060	Vitamin A 25000 UNT Oral Capsule [A/Fish Oil]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+19040425	209061	vitamin A 25000 UNT Oral Capsule [Aquasol A]	Branded Drug	Drug	RxNorm	Valid	Standard
+19040426	209062	vitamin A 50000 UNT Oral Capsule [Aquasol A]	Branded Drug	Drug	RxNorm	Valid	Standard
+19043791	569693	vitamin A 25000 UNT [Aquasol A]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19043792	569694	vitamin A 50000 UNT [Aquasol A]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19043793	571448	vitamin A 50000 UNT/ML [Aquasol A]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19045526	210972	2 ML vitamin A 50000 UNT/ML Injection [Aquasol A]	Quant Branded Drug	Drug	RxNorm	Valid	Standard
+19052084	569691	Vitamin A 25000 UNT [A-25]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19052171	569692	Vitamin A 25000 UNT [A/Fish Oil]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19066192	259192	calcium carbonate 200 MG / vitamin A 725 UNT / vitamin D 200 UNT Oral Capsule	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19066949	259870	ergocalciferol 135 UNT / vitamin A 1250 UNT Oral Capsule	Clinical Drug	Drug	RxNorm	Valid	Standard
+19069488	282754	ascorbic acid 60 MG / vitamin A 5000 UNT / vitamin E 30 UNT Oral Tablet	Clinical Drug	Drug	RxNorm	Valid	Standard
+19070545	283246	Vitamin A 62.5 IU/ML / Vitamin D 70 IU/ML Oral Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19070603	283284	ascorbic acid 250 MG / vitamin A 5000 UNT / vitamin E 200 UNT Oral Tablet	Clinical Drug	Drug	RxNorm	Valid	Standard
+19070990	283610	Vitamin A 8000 UNT / Vitamin D 400 UNT Oral Capsule	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19073582	308374	ascorbic acid 250 MG / niacinamide 25 MG / vitamin A 25000 UNT Oral Tablet	Clinical Drug	Drug	RxNorm	Valid	Standard
+19074154	308705	beta carotene 1000 UNT / vitamin A 10000 UNT Oral Tablet	Clinical Drug	Drug	RxNorm	Valid	Standard
+19074497	308880	Calcium Citrate 500 MG / Vitamin A 500 UNT / Vitamin D 200 UNT Oral Tablet	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19079839	313639	vitamin A 1000 UNT Oral Capsule	Clinical Drug	Drug	RxNorm	Valid	Standard
+19079840	313640	Vitamin A 1250 UNT / Vitamin D 130 UNT Oral Capsule	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19079861	313642	vitamin A 200 UNT Oral Capsule	Clinical Drug	Drug	RxNorm	Valid	Standard
+19079862	313650	2 ML vitamin A 50000 UNT/ML Injection	Quant Clinical Drug	Drug	RxNorm	Valid	Standard
+19079863	313655	vitamin A 300000 UNT Oral Suspension	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19082033	316887	vitamin A 200 UNT	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+19082034	316890	vitamin A 4000 UNT	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+19084424	797652	ascorbic acid 80 MG / biotin 0.03 MG / calcium carbonate 200 MG / cupric oxide 3 MG / ferrous fumarate 60 MG / folic acid 1 MG / magnesium oxide 100 MG / niacinamide 17 MG / pantothenic acid 7 MG / riboflavin 1.6 MG / thiamine 1.5 MG / vitamin A 4000 U...	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19085139	330409	vitamin A 15000 UNT	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+19085499	572764	vitamin A 50000 UNT/ML [Viva-Drops]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+19089757	333436	Vitamin A 62.5 IU/ML	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19089972	333598	vitamin A 300000 UNT	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19091303	335039	Vitamin A 2000 UNT	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19092206	336078	vitamin A 725 UNT	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19092794	336503	Vitamin A 500 UNT	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19094278	340420	vitamin A 3.33 UNT/MG	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+19095225	724411	cholecalciferol 0.01 MG / vitamin A 700 UNT Oral Capsule	Clinical Drug	Drug	RxNorm	Valid	Standard
+19095732	345103	Vitamin A 5357 UNT/ML	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19096100	346727	Ascorbic Acid 60 MG / Fluoride Ion 1 MG / Folic Acid 0.3 MG / Niacin 13.5 MG / Pyridoxine Hydrochloride 1.05 MG / Riboflavin 1.2 MG / Thiamine 1.05 MG / Vitamin A 2500 UNT / Vitamin B 12 0.0045 MG / Vitamin D 400 UNT / Vitamin E 15 UNT Chewable Tablet	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19096111	346730	Ascorbic Acid 35 MG/ML / Fluoride Ion 0.25 MG/ML / Iron 10 MG/ML / Nicotinic Acid 8 MG/ML / Riboflavin 0.6 MG/ML / Thiamine 0.5 MG/ML / Vitamin A 1500 UNT/ML / Vitamin B6 0.4 MG/ML / Vitamin D 400 UNT/ML / Vitamin E 5 UNT/ML Oral Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19096155	346949	Ascorbic Acid 60 MG / Fluoride Ion 0.5 MG / Folic Acid 0.3 MG / Niacin 13.5 MG / Pyridoxine Hydrochloride 1.05 MG / Riboflavin 1.2 MG / Thiamine 1.05 MG / Vitamin A 2500 UNT / Vitamin B 12 0.0045 MG / Vitamin D 400 UNT / Vitamin E 15 UNT Chewable Tablet	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19096172	346970	Ascorbic Acid 150 MG / Calcium Pantothenate 10 MG / Folic Acid 1 MG / Magnesium Sulfate 70 MG / manganese chloride 4 MG / Niacinamide 25 MG / Pyridoxine Hydrochloride 2 MG / Riboflavin 5 MG / Thiamine 10 MG / Vitamin A 8000 UNT / Vitamin B 12 0.01 MG / Vi	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19096233	347100	Ascorbic Acid 60 MG / Sodium Fluoride 2.21 MG / Vitamin A 3000 UNT / Vitamin D 400 UNT Chewable Tablet	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19096375	348068	Ascorbic Acid 120 MG / Calcium Sulfate 200 MG / Cholecalciferol 400 UNT / Cupric oxide 2 MG / Ferrous fumarate 65 MG / Folic Acid 1 MG / Niacinamide 20 MG / Pyridoxine Hydrochloride 10 MG / Riboflavin 3 MG / Thiamine 1.84 MG / Vitamin A 4000 UNT / Vitamin	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19096400	348241	Ascorbic Acid 600 MG / Beta Carotene 3 MG / Calcium Pantothenate 20 MG / Folic Acid 1 MG / Iodine 0.15 MG / Magnesium Sulfate 70 MG / manganese sulfate 4 MG / Niacinamide 100 MG / Riboflavin 5 MG / Thiamine 10 MG / Vitamin A 12500 UNT / Vitamin B 12 0.006	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19096476	348588	Ascorbic Acid 120 MG / Cholecalciferol 400 UNT / Folic Acid 1 MG / Iron 60 MG / Niacinamide 20 MG / Pyridoxol Hydrochloride 10 MG / Riboflavin 3 MG / Thiamine 2 MG / Vitamin A 1000 UNT / Vitamin B 12 0.012 MG / Vitamin E 11 UNT Oral Tablet	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19096557	348921	Ascorbic Acid 120 MG / Cholecalciferol 400 UNT / Folic Acid 1 MG / Iron 29 MG / Niacinamide 20 MG / Pyridoxol Hydrochloride 10 MG / Riboflavin 3 MG / Thiamine 2 MG / Vitamin A 1000 UNT / Vitamin B 12 12 MG / Vitamin E 11 UNT Chewable Tablet	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19096560	348966	Ascorbic Acid 120 MG / Cholecalciferol 400 UNT / Folic Acid 1 MG / Iron 29 MG / Niacinamide 20 MG / Pyridoxol Hydrochloride 10 MG / Riboflavin 3 MG / Thiamine 2 MG / Vitamin A 1000 UNT / Vitamin B 12 0.012 MG / Vitamin E 11 UNT Chewable Tablet	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19096739	349399	Ascorbic Acid 60 MG / Fluoride Ion 0.25 MG / Folic Acid 0.3 MG / Niacin 13.5 MG / Pyridoxine Hydrochloride 1.05 MG / Riboflavin 1.2 MG / Thiamine 1.05 MG / Vitamin A 2500 UNT / Vitamin B 12 0.0045 MG / Vitamin D 400 UNT / Vitamin E 15 UNT Chewable Tablet	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19096780	349515	Ascorbic Acid 108 MG / CALCIUM CARBONATE, PRECIPITATED 571 MG / Calcium Pantothenate 9.94 MG / Cholecalciferol 5.6 MG / Ferrous fumarate 88.2 MG / Folic Acid 1 MG / Niacinamide 47.3 MG / Pyridoxol Hydrochloride 78.4 MG / Riboflavin 3 MG / Thiamine 12.5 M	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19096792	349523	Cholecalciferol 400 UNT / Folic Acid 1 MG / Iron 60 MG / Niacinamide 20 MG / Pyridoxol Hydrochloride 10 MG / Riboflavin 3 MG / Thiamine 2 MG / Vitamin A 1000 UNT / Vitamin B 12 12 MG / Vitamin E 11 UNT Oral Tablet	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19097432	350343	Vitamin A 12500 UNT	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19097435	350357	Vitamin A 6000 UNT	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19097513	350416	Vitamin A 2700 UNT	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19098976	35406	vitamin A palmitate	Precise Ingredient	Drug	RxNorm	Valid	Non-standard
+19100123	360888	Vitamin A 2333 UNT/ML	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19101396	385832	vitamin A 300000 UNT/ML	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19103602	411104	Vitamin A 30000 UNT Oral Capsule	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19103853	411883	Vitamin A 2500 UNT Oral Capsule	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19103872	411918	Vitamin A 9000 UNT Oral Capsule	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19103876	411925	Vitamin A 6000 UNT Oral Capsule	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19105802	422640	vitamin A 150000 UNT/ML Oral Suspension	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19105803	422641	Vitamin A 50000 UNT/ML Oral Suspension	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19106696	429334	Vitamin A 20000 UNT Oral Tablet	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19107877	433706	Vitamin A 400 UNT Chewable Tablet	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19108222	434585	Vitamin A 50000 UNT Oral Tablet	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19108223	434586	Vitamin A 10000 UNT Extended Release Oral Tablet	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19108224	434587	Vitamin A 25000 UNT Extended Release Oral Tablet	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19110713	445969	Vitamin A 9000 UNT	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19112393	452570	vitamin A 0.4 UNT/MG	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19112394	452572	Vitamin A 20000 UNT	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19112395	452573	vitamin A 150000 UNT/ML	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19112396	452575	Vitamin A 30000 UNT	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19112834	485689	cholecalciferol 0.01 MG / vitamin A 8000 UNT Oral Capsule	Clinical Drug	Drug	RxNorm	Valid	Standard
+19113074	539412	Vitamin A 50000 UNT [Dofsol-A]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19113075	539414	Vitamin A 50000 UNT Oral Capsule [Dofsol-A]	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+19115129	562124	vitamin A 300000 UNT/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19116731	564773	Vitamin A 50000 UNT [Ro-A-Vit]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19116732	564774	Vitamin A 300000 UNT/ML [Ro-A-Vit]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19116781	564871	Vitamin A 50000 UNT/ML [Ro-A-Vit]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19121245	577224	cholecalciferol 200 UNT / vitamin A 8000 UNT Oral Capsule	Clinical Drug	Drug	RxNorm	Valid	Standard
+19121341	578341	Ascorbic Acid 50 MG / Sodium Fluoride 1 MG / Vitamin A 3000 UNT / Vitamin D 400 UNT Chewable Tablet	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19121620	581318	vitamin A 25000 UNT / vitamin E 1 UNT Oral Capsule	Clinical Drug	Drug	RxNorm	Valid	Standard
+19121634	581393	vitamin A 15 MG	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+19121635	581395	lecithin 10 MG / vitamin A 15 MG / vitamin E 3 MG Oral Capsule	Clinical Drug	Drug	RxNorm	Valid	Standard
+19121644	581423	Vitamin A 2500 UNT / Vitamin B6 25 MG / Vitamin E 30 UNT / Zinc 15 MG Oral Capsule	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19121781	582156	Ascorbic Acid 100 MG / Propolis 50 MG / Vitamin A 500 UNT / Zinc 15 MG Lozenge	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19124807	654863	Kelp preparation 500 MG / Vitamin A 2000 UNT Oral Capsule	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19125054	665053	vitamin A 1600 UNT	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+19125055	665054	Vitamin A 1600 UNT / Vitamin D 1000 UNT Oral Capsule	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19125813	701334	Beta Carotene 5000 UNT / Vitamin A 5000 UNT Oral Tablet	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19125895	701625	Vitamin A 2500 UNT / Vitamin D 260 UNT Oral Capsule	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19125896	701626	vitamin A 800 UNT	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19125897	701627	cholecalciferol 0.01 MG / vitamin A 0.24 MG Oral Capsule	Clinical Drug	Drug	RxNorm	Valid	Standard
+19125945	701732	vitamin A 2500 UNT/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+19125946	701734	ergocalciferol 250 UNT/ML / vitamin A 2500 UNT/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+19126259	702606	Cholecalciferol 400 UNT / Vitamin A 10000 UNT Oral Tablet	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19126412	705620	vitamin A 800 UNT/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+19126414	705622	Vitamin A 800 UNT/ML / Vitamin D 80 UNT/ML Oral Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19126423	705726	cholecalciferol 0.01 MG / vitamin A 5000 UNT Oral Capsule	Clinical Drug	Drug	RxNorm	Valid	Standard
+19126975	724410	vitamin A 700 UNT	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+19131544	802792	Ascorbic Acid 50 MG / Calcium Sulfate 250 MG / Cholecalciferol 400 UNT / Copper Sulfate 0.15 MG / Ferrous fumarate 27 MG / Folic Acid 0.8 MG / Kelp preparation 0.01 MG / Magnesium Oxide 0.15 MG / Magnesium Sulfate 0.05 MG / Niacinamide 10 MG / potassium s	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+19131545	802793	Ascorbic Acid 50 MG / Calcium Sulfate 250 MG / Cholecalciferol 400 UNT / Copper Sulfate 0.15 MG / Ferrous fumarate 27 MG / Folic Acid 0.8 MG / Kelp preparation 0.01 MG / Magnesium Oxide 0.15 MG / Magnesium Sulfate 0.05 MG / Niacinamide 10 MG / potassium s	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+19131546	802795	Ascorbic Acid 50 MG / Calcium Sulfate 250 MG / Cholecalciferol 400 UNT / Copper Sulfate 0.15 MG / Ferrous fumarate 27 MG / Folic Acid 0.8 MG / Kelp preparation 0.01 MG / Magnesium Oxide 0.15 MG / Magnesium Sulfate 0.05 MG / Niacinamide 10 MG / potassium s	Branded Drug	Drug	RxNorm	Invalid	Non-standard
+19135614	849534	vitamin A palmitate 3333 UNT/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+19135616	849537	tocopherol acetate 117 UNT/ML / vitamin A palmitate 3333 UNT/ML Topical Cream	Clinical Drug	Drug	RxNorm	Valid	Standard
+19135617	849539	ascorbic acid 5 MG / vitamin A 1600 UNT Oral Capsule	Clinical Drug	Drug	RxNorm	Valid	Standard
+35602911	1716008	vitamin A 100000 UNT/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+35602912	1716010	alpha tocopherol / cholecalciferol / vitamin A Injectable Solution	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+35602913	1716012	alpha tocopherol 300 UNT/ML / cholecalciferol 10000 UNT/ML / vitamin A 100000 UNT/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+35602915	1716019	vitamin A 200000 UNT/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+35602916	1716020	alpha tocopherol 300 UNT/ML / cholecalciferol 100000 UNT/ML / vitamin A 200000 UNT/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+35602918	1716024	alpha tocopherol 500 UNT/ML / cholecalciferol 50000 UNT/ML / vitamin A 50000 UNT/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+35602920	1716028	alpha tocopherol 300 UNT/ML / cholecalciferol 10000 UNT/ML / vitamin A 100000 UNT/ML [Vital E- A + D3]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+35602921	1716029	alpha tocopherol / cholecalciferol / vitamin A Injectable Solution [Vital E- A + D3]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+35602922	1716031	alpha tocopherol 300 UNT/ML / cholecalciferol 10000 UNT/ML / vitamin A 100000 UNT/ML Injectable Solution [Vital E- A + D3]	Branded Drug	Drug	RxNorm	Valid	Standard
+35602924	1716033	alpha tocopherol 300 UNT/ML / cholecalciferol 100000 UNT/ML / vitamin A 200000 UNT/ML [Vital E- Repro]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+35602925	1716034	alpha tocopherol / cholecalciferol / vitamin A Injectable Solution [Vital E- Repro]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+35602926	1716036	alpha tocopherol 300 UNT/ML / cholecalciferol 100000 UNT/ML / vitamin A 200000 UNT/ML Injectable Solution [Vital E- Repro]	Branded Drug	Drug	RxNorm	Valid	Standard
+35602928	1716039	alpha tocopherol 500 UNT/ML / cholecalciferol 50000 UNT/ML / vitamin A 50000 UNT/ML [Vital E- Newborn]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+35602929	1716040	alpha tocopherol / cholecalciferol / vitamin A Injectable Solution [Vital E- Newborn]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+35602930	1716042	alpha tocopherol 500 UNT/ML / cholecalciferol 50000 UNT/ML / vitamin A 50000 UNT/ML Injectable Solution [Vital E- Newborn]	Branded Drug	Drug	RxNorm	Valid	Standard
+35605740	1721832	Cholecalciferol 400 UNT / Vitamin A 10000 UNT Oral Capsule	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+36027086	1006948	Ascorbic Acid / Niacinamide / Vitamin A	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36027213	1007080	Ascorbic Acid / Calcium Carbonate / Copper Sulfate / Ferrous fumarate / Folate / Magnesium Oxide / Niacinamide / Potassium Iodide / pyridoxine / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin D / Vitamin E / Zinc Sulfate	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36027219	1007086	Ascorbic Acid / Folate / Niacin / pyridoxine / Riboflavin / Sodium Fluoride / Thiamine / Vitamin A / Vitamin B 12 / Vitamin D / Vitamin E	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36027251	1007121	Cholecalciferol / Vitamin A	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36027312	1007182	Vitamin A / Vitamin E	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36027410	1007284	Kelp preparation / Vitamin A	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36027411	1007285	Ergocalciferol / Vitamin A	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36027442	1007317	Ascorbic Acid / ferrous sulfate / Vitamin A / Vitamin D	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36027629	1007509	Ascorbic Acid / Calcium Carbonate / Cholecalciferol / Ferrous fumarate / Folate / Magnesium Oxide / Niacin / Potassium Iodide / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin B6 / Vitamin E / Zinc Oxide	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36027630	1007510	Ascorbic Acid / Calcium Carbonate / Cholecalciferol / Cupric oxide / Ferrous fumarate / Folate / Magnesium Oxide / Niacin / Potassium Iodide / pyridoxine / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin E / Zinc Oxide	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36027675	1007555	Ascorbic Acid / Cholecalciferol / Sodium Fluoride / Vitamin A	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36027854	1007737	Lecithin / Vitamin A / Vitamin E	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36027910	1007795	Ascorbic Acid / ferrous sulfate / Niacin / Riboflavin / Thiamine / Vitamin A / Vitamin B6 / Vitamin D / Vitamin E	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36027978	1007865	Ascorbic Acid / Vitamin A / Vitamin E	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36027982	1007869	Calcium Carbonate / Vitamin A / Vitamin D	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36028007	1007894	Ascorbic Acid / Vitamin A / Vitamin E / Zinc Sulfate	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36028095	1007984	Ascorbic Acid / Folate / Niacinamide / pyridoxine / Riboflavin / Sodium Fluoride / Thiamine / Vitamin A / Vitamin B 12 / Vitamin D / Vitamin E	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36028133	1008024	Ascorbic Acid / Biotin / Calcium Carbonate / Cupric oxide / Ferrous fumarate / Folate / Magnesium Oxide / Niacinamide / Pantothenic Acid / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin B6 / Vitamin E / Zinc Oxide	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36028252	1008153	Biotin / Folate / Magnesium Oxide / pantothenate / Vitamin A / Vitamin E	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36028333	1008240	Ascorbic Acid / Folate / Magnesium Sulfate / manganese chloride / Niacinamide / pantothenate / pyridoxine / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin E / Zinc Sulfate	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36028399	1008307	alpha Tocopherol / Ascorbic Acid / Cholecalciferol / Copper Sulfate / Docusate / Folate / Iron Carbonyl / Magnesium Oxide / pyridoxine / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Zinc Sulfate	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36028550	1008468	Ascorbic Acid / Calcium Sulfate / Cholecalciferol / Copper Sulfate / Ferrous fumarate / Folate / Kelp preparation / Magnesium Oxide / Magnesium Sulfate / Niacinamide / potassium sulfate / pyridoxine / Riboflavin / Vitamin A / Vitamin B 12 / Zinc Sulfate	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36028559	1008477	Ascorbic Acid / Calcium Carbonate / Cholecalciferol / Ferrous fumarate / Folate / Niacinamide / pyridoxine / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin E	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36028587	1008508	Ascorbic Acid / Calcium Citrate / Cholecalciferol / Cupric oxide / Docusate / Folate / Iron Carbonyl / Niacinamide / Potassium Iodide / pyridoxine / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin E / Zinc Oxide	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36028619	1008540	Ascorbic Acid / Niacin / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin B6 / Vitamin D / Vitamin E	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36028797	1008723	Ascorbic Acid / Fluoride Ion / Folate / Niacin / pyridoxine / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin D / Vitamin E	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36028806	1008733	Ascorbic Acid / Beta Carotene / Folate / Iodine / Magnesium Sulfate / manganese sulfate / Niacinamide / pantothenate / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin B6 / Vitamin D / Vitamin E / Zinc Sulfate	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36028964	1008903	Ascorbic Acid / Vitamin A / Vitamin D	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36028985	1008924	Ascorbic Acid / Calcium Sulfate / Cholecalciferol / Cupric oxide / Ferrous fumarate / Folate / Niacinamide / pyridoxine / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin E / Zinc Oxide	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36029001	1008940	Ascorbic Acid / Sodium Fluoride / Vitamin A / Vitamin D	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36029014	1008953	Ascorbic Acid / CALCIUM CARBONATE, PRECIPITATED / Cholecalciferol / Ferrous fumarate / Folate / Niacinamide / pantothenate / pyridoxine / Riboflavin / Thiamine / Tocopherols / Vitamin A / Vitamin B 12 / Zinc Oxide	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36029149	1009097	Ascorbic Acid / Folate / Niacinamide / pyridoxine / Thiamine / Vitamin A / Vitamin B 12 / Vitamin D	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36029151	1009099	Ascorbic Acid / Vitamin A	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36029325	1090967	Ascorbic Acid / Cholecalciferol / Niacinamide / pyridoxine / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin E	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36029377	1119568	Ascorbic Acid / Cholecalciferol / cuprous oxide / Folic Acid / Magnesium Oxide / Niacin / Polysaccharide iron complex / Potassium Iodide / pyridoxine / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin E / Zinc Oxide	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36029383	1144134	Bilberry extract / Vitamin A / Vitamin E	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36029432	1234471	Ascorbic Acid / Cholecalciferol / Niacin / Riboflavin / Sodium Fluoride / Thiamine / Vitamin A / Vitamin B 12 / Vitamin B6 / Vitamin D / Vitamin E	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36029435	1235388	Ascorbic Acid / Folic Acid / Niacin / Riboflavin / Sodium Fluoride / Thiamine / Vitamin A / Vitamin B 12 / Vitamin B6 / Vitamin D / Vitamin E	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36029449	1244007	Ascorbic Acid / Cholecalciferol / ferrous sulfate / Sodium Fluoride / Vitamin A	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36029484	1292776	Ascorbic Acid / Cholecalciferol / Vitamin A	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36029497	1298292	Ascorbic Acid / Beta Carotene / Ergocalciferol / Folic Acid / Niacin / Pantothenic Acid / pyridoxine / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin E	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36029520	1304558	alpha Tocopherol / Ascorbic Acid / Biotin / Cholecalciferol / dexpanthenol / Folic Acid / Niacinamide / pyridoxine / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin K 1	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36029521	1305199	alpha Tocopherol / Ascorbic Acid / Biotin / dexpanthenol / Ergocalciferol / Folic Acid / Niacinamide / pyridoxine / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin K 1	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36029595	1425205	Cholecalciferol / Cod Liver Oil / Docosahexaenoate / Eicosapentaenoate / Vitamin A	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36029753	1716011	alpha Tocopherol / Cholecalciferol / Vitamin A	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36030090	2284161	Ascorbic Acid / Cholecalciferol / ferrous sulfate / Vitamin A	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36030674	691025	Calcium Citrate / Vitamin A / Vitamin D	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36030757	710957	Beta Carotene / Vitamin A	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36030938	816868	Iodine / Vitamin A	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36031119	97016	Vitamin A / Vitamin D	Multiple Ingredients	Drug	RxNorm	Valid	Non-standard
+36212386	1153847	calcium carbonate / vitamin A / vitamin D Oral Product	Clinical Dose Group	Drug	RxNorm	Invalid	Non-standard
+36212387	1153848	calcium carbonate / vitamin A / vitamin D Pill	Clinical Dose Group	Drug	RxNorm	Invalid	Non-standard
+36212746	1154965	ascorbic acid / biotin / calcium carbonate / cupric oxide / ferrous fumarate / folic acid / magnesium oxide / niacinamide / pantothenic acid / riboflavin / thiamine / vitamin A / vitamin B12 / vitamin B6 / vitamin E / zinc oxide Oral Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36212747	1154966	ascorbic acid / biotin / calcium carbonate / cupric oxide / ferrous fumarate / folic acid / magnesium oxide / niacinamide / pantothenic acid / riboflavin / thiamine / vitamin A / vitamin B12 / vitamin B6 / vitamin E / zinc oxide Pill	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36213017	1155962	Ascorbic Acid / Calcium Sulfate / Cholecalciferol / Copper Sulfate / Ferrous fumarate / Folic Acid / Kelp preparation / Magnesium Oxide / Magnesium Sulfate / Niacinamide / potassium sulfate / pyridoxine / Riboflavin / Vitamin A / Vitamin B 12 / Zinc Sulfa	Clinical Dose Group	Drug	RxNorm	Invalid	Non-standard
+36213018	1155963	Ascorbic Acid / Calcium Sulfate / Cholecalciferol / Copper Sulfate / Ferrous fumarate / Folic Acid / Kelp preparation / Magnesium Oxide / Magnesium Sulfate / Niacinamide / potassium sulfate / pyridoxine / Riboflavin / Vitamin A / Vitamin B 12 / Zinc Sulfa	Clinical Dose Group	Drug	RxNorm	Invalid	Non-standard
+36213019	1155964	Ascorbic Acid / Calcium Sulfate / Cholecalciferol / Cupric oxide / Ferrous fumarate / Folic Acid / Niacinamide / pyridoxine / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin E / Zinc Oxide Oral Product	Clinical Dose Group	Drug	RxNorm	Invalid	Non-standard
+36213020	1155965	Ascorbic Acid / Calcium Sulfate / Cholecalciferol / Cupric oxide / Ferrous fumarate / Folic Acid / Niacinamide / pyridoxine / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin E / Zinc Oxide Pill	Clinical Dose Group	Drug	RxNorm	Invalid	Non-standard
+36213029	1155975	ascorbic acid / cholecalciferol / niacinamide / pyridoxine / riboflavin / thiamine / vitamin A / vitamin B12 / vitamin E Oral Liquid Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36213030	1155976	ascorbic acid / cholecalciferol / niacinamide / pyridoxine / riboflavin / thiamine / vitamin A / vitamin B12 / vitamin E Oral Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36213031	1155977	ascorbic acid / cholecalciferol / sodium fluoride / vitamin A Oral Liquid Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36213032	1155978	ascorbic acid / cholecalciferol / sodium fluoride / vitamin A Oral Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36213033	1155979	ascorbic acid / cholecalciferol / cuprous oxide / folic acid / magnesium oxide / niacin / polysaccharide iron complex / potassium iodide / pyridoxine / riboflavin / thiamine / vitamin A / vitamin B12 / vitamin E / zinc oxide Oral Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36213034	1155980	ascorbic acid / cholecalciferol / cuprous oxide / folic acid / magnesium oxide / niacin / polysaccharide iron complex / potassium iodide / pyridoxine / riboflavin / thiamine / vitamin A / vitamin B12 / vitamin E / zinc oxide Pill	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36213400	1154101	Bilberry extract / Vitamin A / Vitamin E Oral Product	Clinical Dose Group	Drug	RxNorm	Invalid	Non-standard
+36213401	1154102	Bilberry extract / Vitamin A / Vitamin E Pill	Clinical Dose Group	Drug	RxNorm	Invalid	Non-standard
+36213569	1156123	cholecalciferol / vitamin A Injectable Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36213570	1156124	cholecalciferol / vitamin A Oral Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36213571	1156125	cholecalciferol / vitamin A Pill	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36214729	1154417	biotin / folic acid / magnesium oxide / pantothenate / vitamin A / vitamin E Oral Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36214730	1154418	biotin / folic acid / magnesium oxide / pantothenate / vitamin A / vitamin E Pill	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36214774	1154463	Calcium Citrate / Vitamin A / Vitamin D Oral Product	Clinical Dose Group	Drug	RxNorm	Invalid	Non-standard
+36214775	1154464	Calcium Citrate / Vitamin A / Vitamin D Pill	Clinical Dose Group	Drug	RxNorm	Invalid	Non-standard
+36215559	1154651	Ascorbic Acid / Beta Carotene / Folic Acid / Iodine / Magnesium Sulfate / manganese sulfate / Niacinamide / pantothenate / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin B6 / Vitamin D / Vitamin E / Zinc Sulfate Oral Product	Clinical Dose Group	Drug	RxNorm	Invalid	Non-standard
+36215560	1154652	Ascorbic Acid / Beta Carotene / Folic Acid / Iodine / Magnesium Sulfate / manganese sulfate / Niacinamide / pantothenate / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin B6 / Vitamin D / Vitamin E / Zinc Sulfate Pill	Clinical Dose Group	Drug	RxNorm	Invalid	Non-standard
+36215593	1155646	Ascorbic Acid / Calcium Carbonate / Cholecalciferol / Cupric oxide / Ferrous fumarate / Folic Acid / Magnesium Oxide / Niacin / Potassium Iodide / pyridoxine / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin E / Zinc Oxide Oral Product	Clinical Dose Group	Drug	RxNorm	Invalid	Non-standard
+36215594	1155647	Ascorbic Acid / Calcium Carbonate / Cholecalciferol / Cupric oxide / Ferrous fumarate / Folic Acid / Magnesium Oxide / Niacin / Potassium Iodide / pyridoxine / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin E / Zinc Oxide Pill	Clinical Dose Group	Drug	RxNorm	Invalid	Non-standard
+36215595	1155648	Ascorbic Acid / Calcium Carbonate / Cholecalciferol / Ferrous fumarate / Folic Acid / Magnesium Oxide / Niacin / Potassium Iodide / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin B6 / Vitamin E / Zinc Oxide Oral Product	Clinical Dose Group	Drug	RxNorm	Invalid	Non-standard
+36215596	1155649	Ascorbic Acid / Calcium Carbonate / Cholecalciferol / Ferrous fumarate / Folic Acid / Magnesium Oxide / Niacin / Potassium Iodide / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin B6 / Vitamin E / Zinc Oxide Pill	Clinical Dose Group	Drug	RxNorm	Invalid	Non-standard
+36215597	1155650	Ascorbic Acid / Calcium Carbonate / Cholecalciferol / Ferrous fumarate / Folic Acid / Niacinamide / pyridoxine / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin E Oral Product	Clinical Dose Group	Drug	RxNorm	Invalid	Non-standard
+36215598	1155651	Ascorbic Acid / Calcium Carbonate / Cholecalciferol / Ferrous fumarate / Folic Acid / Niacinamide / pyridoxine / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin E Pill	Clinical Dose Group	Drug	RxNorm	Invalid	Non-standard
+36215601	1155654	ascorbic acid / calcium carbonate / copper sulfate / ferrous fumarate / folic acid / magnesium oxide / niacinamide / potassium iodide / pyridoxine / riboflavin / thiamine / vitamin A / vitamin B12 / vitamin D / vitamin E / zinc sulfate Oral Product	Clinical Dose Group	Drug	RxNorm	Invalid	Non-standard
+36215602	1155655	ascorbic acid / calcium carbonate / copper sulfate / ferrous fumarate / folic acid / magnesium oxide / niacinamide / potassium iodide / pyridoxine / riboflavin / thiamine / vitamin A / vitamin B12 / vitamin D / vitamin E / zinc sulfate Pill	Clinical Dose Group	Drug	RxNorm	Invalid	Non-standard
+36215607	1155660	Ascorbic Acid / Calcium Citrate / Cholecalciferol / Cupric oxide / Docusate / Folic Acid / Iron Carbonyl / Niacinamide / Potassium Iodide / pyridoxine / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin E / Zinc Oxide Oral Product	Clinical Dose Group	Drug	RxNorm	Invalid	Non-standard
+36215608	1155661	Ascorbic Acid / Calcium Citrate / Cholecalciferol / Cupric oxide / Docusate / Folic Acid / Iron Carbonyl / Niacinamide / Potassium Iodide / pyridoxine / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin E / Zinc Oxide Pill	Clinical Dose Group	Drug	RxNorm	Invalid	Non-standard
+36216053	1152603	ascorbic acid / sodium fluoride / vitamin A / vitamin D Oral Product	Clinical Dose Group	Drug	RxNorm	Invalid	Non-standard
+36216054	1152604	ascorbic acid / sodium fluoride / vitamin A / vitamin D Pill	Clinical Dose Group	Drug	RxNorm	Invalid	Non-standard
+36216063	1152613	Ascorbic Acid / Vitamin A / Vitamin D Oral Liquid Product	Clinical Dose Group	Drug	RxNorm	Invalid	Non-standard
+36216064	1152614	Ascorbic Acid / Vitamin A / Vitamin D Oral Product	Clinical Dose Group	Drug	RxNorm	Invalid	Non-standard
+36216065	1152615	ascorbic acid / vitamin A / vitamin E / zinc sulfate Oral Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36216066	1152616	ascorbic acid / vitamin A / vitamin E / zinc sulfate Pill	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36216067	1152617	ascorbic acid / vitamin A / vitamin E Oral Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36216068	1152618	ascorbic acid / vitamin A / vitamin E Pill	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36216069	1152619	ascorbic acid / vitamin A Oral Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36216070	1152620	ascorbic acid / vitamin A Pill	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36216959	1151985	Ascorbic Acid / Fluoride Ion / Folic Acid / Niacin / pyridoxine / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin D / Vitamin E Oral Product	Clinical Dose Group	Drug	RxNorm	Invalid	Non-standard
+36216960	1151986	Ascorbic Acid / Fluoride Ion / Folic Acid / Niacin / pyridoxine / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin D / Vitamin E Pill	Clinical Dose Group	Drug	RxNorm	Invalid	Non-standard
+36216963	1151989	Ascorbic Acid / Folic Acid / Magnesium Sulfate / manganese chloride / Niacinamide / pantothenate / pyridoxine / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin E / Zinc Sulfate Oral Product	Clinical Dose Group	Drug	RxNorm	Invalid	Non-standard
+36216964	1151990	Ascorbic Acid / Folic Acid / Magnesium Sulfate / manganese chloride / Niacinamide / pantothenate / pyridoxine / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin E / Zinc Sulfate Pill	Clinical Dose Group	Drug	RxNorm	Invalid	Non-standard
+36216965	1151991	Ascorbic Acid / Folic Acid / Niacin / pyridoxine / Riboflavin / Sodium Fluoride / Thiamine / Vitamin A / Vitamin B 12 / Vitamin D / Vitamin E Oral Product	Clinical Dose Group	Drug	RxNorm	Invalid	Non-standard
+36216966	1151992	Ascorbic Acid / Folic Acid / Niacin / pyridoxine / Riboflavin / Sodium Fluoride / Thiamine / Vitamin A / Vitamin B 12 / Vitamin D / Vitamin E Pill	Clinical Dose Group	Drug	RxNorm	Invalid	Non-standard
+36216967	1151993	Ascorbic Acid / Folic Acid / Niacinamide / pyridoxine / Riboflavin / Sodium Fluoride / Thiamine / Vitamin A / Vitamin B 12 / Vitamin D / Vitamin E Oral Product	Clinical Dose Group	Drug	RxNorm	Invalid	Non-standard
+36216968	1151994	Ascorbic Acid / Folic Acid / Niacinamide / pyridoxine / Riboflavin / Sodium Fluoride / Thiamine / Vitamin A / Vitamin B 12 / Vitamin D / Vitamin E Pill	Clinical Dose Group	Drug	RxNorm	Invalid	Non-standard
+36216969	1151995	Ascorbic Acid / Folic Acid / Niacinamide / pyridoxine / Thiamine / Vitamin A / Vitamin B 12 / Vitamin D Oral Product	Clinical Dose Group	Drug	RxNorm	Invalid	Non-standard
+36216970	1151996	Ascorbic Acid / Folic Acid / Niacinamide / pyridoxine / Thiamine / Vitamin A / Vitamin B 12 / Vitamin D Pill	Clinical Dose Group	Drug	RxNorm	Invalid	Non-standard
+36217577	1152933	ascorbic acid / ferrous sulfate / niacin / riboflavin / thiamine / vitamin A / vitamin B6 / vitamin D / vitamin E Oral Liquid Product	Clinical Dose Group	Drug	RxNorm	Invalid	Non-standard
+36217578	1152934	ascorbic acid / ferrous sulfate / niacin / riboflavin / thiamine / vitamin A / vitamin B6 / vitamin D / vitamin E Oral Product	Clinical Dose Group	Drug	RxNorm	Invalid	Non-standard
+36217579	1152935	Ascorbic Acid / ferrous sulfate / Vitamin A / Vitamin D Oral Liquid Product	Clinical Dose Group	Drug	RxNorm	Invalid	Non-standard
+36217580	1152936	Ascorbic Acid / ferrous sulfate / Vitamin A / Vitamin D Oral Product	Clinical Dose Group	Drug	RxNorm	Invalid	Non-standard
+36217889	1152320	ascorbic acid / niacin / riboflavin / thiamine / vitamin A / vitamin B12 / vitamin B6 / vitamin D / vitamin E Oral Liquid Product	Clinical Dose Group	Drug	RxNorm	Invalid	Non-standard
+36217890	1152321	ascorbic acid / niacin / riboflavin / thiamine / vitamin A / vitamin B12 / vitamin B6 / vitamin D / vitamin E Oral Product	Clinical Dose Group	Drug	RxNorm	Invalid	Non-standard
+36217894	1152325	ascorbic acid / niacinamide / vitamin A Oral Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36217895	1152326	ascorbic acid / niacinamide / vitamin A Pill	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36217990	1153277	beta carotene / vitamin A Oral Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36217991	1153278	beta carotene / vitamin A Pill	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36218371	1162836	lecithin / vitamin A / vitamin E Oral Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36218372	1162837	lecithin / vitamin A / vitamin E Pill	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36220021	1165541	alpha tocopherol / ascorbic acid / cholecalciferol / copper sulfate / docusate / folic acid / iron carbonyl / magnesium oxide / pyridoxine / riboflavin / thiamine / vitamin A / vitamin B12 / zinc sulfate Oral Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36220022	1165542	alpha tocopherol / ascorbic acid / cholecalciferol / copper sulfate / docusate / folic acid / iron carbonyl / magnesium oxide / pyridoxine / riboflavin / thiamine / vitamin A / vitamin B12 / zinc sulfate Pill	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36222626	1163900	ergocalciferol / vitamin A Injectable Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36222627	1163901	ergocalciferol / vitamin A Oral Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36222628	1163902	ergocalciferol / vitamin A Pill	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36223646	1160536	Vitamin A / Vitamin D Oral Liquid Product	Clinical Dose Group	Drug	RxNorm	Invalid	Non-standard
+36224374	1158573	Iodine / Vitamin A Oral Product	Clinical Dose Group	Drug	RxNorm	Invalid	Non-standard
+36224375	1158574	Iodine / Vitamin A Pill	Clinical Dose Group	Drug	RxNorm	Invalid	Non-standard
+36225126	1160939	Kelp preparation / Vitamin A Oral Product	Clinical Dose Group	Drug	RxNorm	Invalid	Non-standard
+36225127	1160940	Kelp preparation / Vitamin A Pill	Clinical Dose Group	Drug	RxNorm	Invalid	Non-standard
+36225979	1161139	vitamin A / vitamin D Oral Product	Clinical Dose Group	Drug	RxNorm	Invalid	Non-standard
+36225980	1161140	vitamin A / vitamin D Pill	Clinical Dose Group	Drug	RxNorm	Invalid	Non-standard
+36225981	1161141	vitamin A / vitamin E Oral Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36225982	1161142	vitamin A / vitamin E Pill	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36225983	1161143	vitamin A / vitamin E Topical Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36225984	1161144	vitamin A Injectable Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36225985	1161145	vitamin A Ophthalmic Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36225986	1161146	vitamin A Oral Liquid Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36225987	1161147	vitamin A Oral Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36225988	1161148	vitamin A Pill	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36225989	1161149	vitamin A Topical Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36238198	1234588	ascorbic acid / cholecalciferol / niacin / riboflavin / sodium fluoride / thiamine / vitamin A / vitamin B12 / vitamin B6 / vitamin E Oral Liquid Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36238199	1234589	ascorbic acid / cholecalciferol / niacin / riboflavin / sodium fluoride / thiamine / vitamin A / vitamin B12 / vitamin B6 / vitamin E Oral Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36238308	1235385	ascorbic acid / folic acid / niacin / riboflavin / sodium fluoride / thiamine / vitamin A / vitamin B12 / vitamin B6 / vitamin D / vitamin E Oral Product	Clinical Dose Group	Drug	RxNorm	Invalid	Non-standard
+36238309	1235386	ascorbic acid / folic acid / niacin / riboflavin / sodium fluoride / thiamine / vitamin A / vitamin B12 / vitamin B6 / vitamin D / vitamin E Pill	Clinical Dose Group	Drug	RxNorm	Invalid	Non-standard
+36238389	1244004	ascorbic acid / cholecalciferol / ferrous sulfate / sodium fluoride / vitamin A Oral Liquid Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36238390	1244005	ascorbic acid / cholecalciferol / ferrous sulfate / sodium fluoride / vitamin A Oral Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36243427	1304556	alpha tocopherol / ascorbic acid / biotin / cholecalciferol / dexpanthenol / folic acid / niacinamide / pyridoxine / riboflavin / thiamine / vitamin A / vitamin B12 / vitamin K1 Injectable Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36243486	1305197	alpha tocopherol / ascorbic acid / biotin / dexpanthenol / ergocalciferol / folic acid / niacinamide / pyridoxine / riboflavin / thiamine / vitamin A / vitamin B12 / vitamin K1 Injectable Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36243545	1298289	ascorbic acid / beta carotene / ergocalciferol / folic acid / niacin / pantothenic acid / pyridoxine / riboflavin / thiamine / vitamin A / vitamin B12 / vitamin E Oral Product	Clinical Dose Group	Drug	RxNorm	Invalid	Non-standard
+36243546	1298290	ascorbic acid / beta carotene / ergocalciferol / folic acid / niacin / pantothenic acid / pyridoxine / riboflavin / thiamine / vitamin A / vitamin B12 / vitamin E Pill	Clinical Dose Group	Drug	RxNorm	Invalid	Non-standard
+36243593	1302678	cholecalciferol / vitamin A Oral Liquid Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36243769	1295652	Vitamin A Chewable Product	Clinical Dose Group	Drug	RxNorm	Invalid	Non-standard
+36243789	1295672	Ascorbic Acid / Folic Acid / Niacinamide / pyridoxine / Riboflavin / Sodium Fluoride / Thiamine / Vitamin A / Vitamin B 12 / Vitamin D / Vitamin E Chewable Product	Clinical Dose Group	Drug	RxNorm	Invalid	Non-standard
+36243870	1295733	Ascorbic Acid / Folic Acid / Niacinamide / pyridoxine / Thiamine / Vitamin A / Vitamin B 12 / Vitamin D Chewable Product	Clinical Dose Group	Drug	RxNorm	Invalid	Non-standard
+36244158	1292773	ascorbic acid / cholecalciferol / vitamin A Oral Liquid Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36244159	1292774	ascorbic acid / cholecalciferol / vitamin A Oral Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+36244334	1294839	ascorbic acid / sodium fluoride / vitamin A / vitamin D Chewable Product	Clinical Dose Group	Drug	RxNorm	Invalid	Non-standard
+36245143	1295212	Ascorbic Acid / Fluoride Ion / Folic Acid / Niacin / pyridoxine / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin D / Vitamin E Chewable Product	Clinical Dose Group	Drug	RxNorm	Invalid	Non-standard
+36245439	1295348	ascorbic acid / folic acid / niacin / riboflavin / sodium fluoride / thiamine / vitamin A / vitamin B12 / vitamin B6 / vitamin D / vitamin E Chewable Product	Clinical Dose Group	Drug	RxNorm	Invalid	Non-standard
+36245599	1295422	Ascorbic Acid / Folic Acid / Niacin / pyridoxine / Riboflavin / Sodium Fluoride / Thiamine / Vitamin A / Vitamin B 12 / Vitamin D / Vitamin E Chewable Product	Clinical Dose Group	Drug	RxNorm	Invalid	Non-standard
+36246377	1425202	Cholecalciferol / Cod Liver Oil / Docosahexaenoate / Eicosapentaenoate / Vitamin A Oral Product	Clinical Dose Group	Drug	RxNorm	Invalid	Non-standard
+36248114	1425203	Cholecalciferol / Cod Liver Oil / Docosahexaenoate / Eicosapentaenoate / Vitamin A Pill	Clinical Dose Group	Drug	RxNorm	Invalid	Non-standard
+36248302	1716009	alpha tocopherol / cholecalciferol / vitamin A Injectable Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+37498742	2279008	vitamin A 0.225 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+37498743	2279013	ascorbic acid 35 MG/ML / cholecalciferol 0.01 MG/ML / vitamin A 0.225 MG/ML [Tri-Vi-Sol]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+37498744	2279014	ascorbic acid / cholecalciferol / vitamin A Oral Solution [Tri-Vi-Sol]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+37498745	2279016	vitamin A 0.45 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+37498746	2279018	ascorbic acid 35 MG/ML / cholecalciferol 0.01 MG/ML / vitamin A 0.45 MG/ML [Tri-Vi-Sol]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+37498807	2279516	vitamin A 2.4 MG	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+37499191	2284158	ascorbic acid / cholecalciferol / ferrous sulfate / vitamin A Oral Liquid Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+37499192	2284159	ascorbic acid / cholecalciferol / ferrous sulfate / vitamin A Oral Product	Clinical Dose Group	Drug	RxNorm	Valid	Classification
+37499193	2284160	ascorbic acid / cholecalciferol / ferrous sulfate / vitamin A Oral Solution	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+37499194	2284163	ascorbic acid 35 MG/ML / cholecalciferol 0.01 MG/ML / ferrous sulfate 50 MG/ML / vitamin A 0.45 MG/ML [Tri-Vi-Sol with Iron]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+37499195	2284164	ascorbic acid / cholecalciferol / ferrous sulfate / vitamin A Oral Solution [Tri-Vi-Sol with Iron]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40005952	377576	Aloe Extract / Vitamin A / Vitamin E Topical Cream	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40005963	308031	Aloe Extract 100 MG/ML / Vitamin A 6.67 UNT/MG / Vitamin E 0.1 UNT/MG Topical Cream	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+40010165	347997	Ascorbic Acid 35 MG / Fluorides 0.25 MG / Nicotinic Acid 8 MG / Pyridoxol Hydrochloride 0.4 MG / Riboflavin 0.6 MG / Thiamine 0.5 MG / Vitamin A 1500 UNT / Vitamin B 12 0.002 MG / Vitamin D 400 UNT / Vitamin E 5 UNT Oral Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+40010503	348539	Ascorbic Acid 50 MG / Calcium 125 MG / Folic Acid 1 MG / Iron 60 MG / Niacinamide 10 MG / Pyridoxol Hydrochloride 2 MG / Riboflavin 3 MG / Thiamine 3 MG / Vitamin A 4000 UNT / Vitamin B 12 0.003 MG / Vitamin D 400 UNT / Zinc 18 MG Oral Tablet	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+40010908	348456	Ascorbic Acid 60 MG / Calcium 125 MG / Folic Acid 1 MG / Iron 65 MG / Magnesium 25 MG / Nicotinic Acid 15 MG / Pyridoxol Hydrochloride 2.5 MG / Riboflavin 1.8 MG / Thiamine 1.6 MG / Vitamin A 4000 UNT / Vitamin B 12 0.005 MG / Vitamin D 400 UNT / Vitamin	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+40010914	346729	Ascorbic Acid 60 MG / Copper 1 MG / Fluoride Ion 0.5 MG / Folic Acid 0.3 MG / Iron 12 MG / Nicotinic Acid 13.5 MG / Pyridoxol Hydrochloride 1.05 MG / Riboflavin 1.2 MG / Thiamine 1.05 MG / Vitamin A 2500 UNT / Vitamin B 12 0.0045 MG / Vitamin D 400 UNT /	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+40011235	348216	Ascorbic Acid 70 MG / Calcium 200 MG / Folic Acid 1 MG / Iodine 0.175 MG / Iron 65 MG / Magnesium 100 MG / Nicotinic Acid 17 MG / Pyridoxol Hydrochloride 2.2 MG / Riboflavin 1.6 MG / Selenium 0.065 MG / Thiamine 1.5 MG / Vitamin A 4000 UNT / Vitamin B 12	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+40011236	348512	Ascorbic Acid 70 MG / Calcium 200 MG / Folic Acid 1 MG / Iodine 0.175 MG / Iron 65 MG / Magnesium 100 MG / Nicotinic Acid 17 MG / Pyridoxol Hydrochloride 2.2 MG / Riboflavin 1.6 MG / Thiamine 1.5 MG / Vitamin A 3000 UNT / Vitamin B 12 0.0022 MG / Vitamin	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+40011461	402782	Ascorbic Acid / Beta Carotene / Biotin / Calcium / Copper / Folic Acid / Iron / Magnesium / Niacinamide / Pantothenic Acid / Pyridoxol Hydrochloride / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin D / Vitamin E / Zinc Oral Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40011485	347695	Ascorbic Acid 80 MG / Biotin 0.03 MG / Calcium 200 MG / Copper 3 MG / Folic Acid 1 MG / Iron 54 MG / Magnesium 100 MG / Nicotinic Acid 17 MG / Pantothenic Acid 7 MG / Pyridoxol Hydrochloride 4 MG / Riboflavin 1.6 MG / Thiamine 1.5 MG / Vitamin A 4000 UNT	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+40011694	378338	Ascorbic Acid / Beta Carotene / Calcium Pantothenate / Folic Acid / Iodine / Magnesium Sulfate / manganese sulfate / Niacinamide / Pyridoxine / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin D / Vitamin E / Zinc Sulfate Oral Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40011699	402763	Ascorbic Acid / Biotin / CALCIUM CARBONATE, PRECIPITATED / Cholecalciferol / Copper / Docusate / Folic Acid / Iron / Magnesium / Niacinamide / Pantothenic Acid / Pyridoxol Hydrochloride / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin E / Zin	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40011701	402756	Ascorbic Acid / Biotin / Calcium / Cholecalciferol / Chromium / Copper / Folic Acid / Iron / Magnesium / Manganese / Molybdenum / Niacinamide / Pantothenic Acid / Potassium Iodide / Pyridoxol Hydrochloride / Riboflavin / Thiamine / Vitamin A / Vitamin B	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40011702	402783	Ascorbic Acid / Biotin / Calcium / Cholecalciferol / Copper / Folic Acid / Iron / Magnesium / Nicotinic Acid / Pantothenic Acid / Pyridoxol Hydrochloride / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin E / Zinc Oral Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40011703	402762	Ascorbic Acid / Biotin / Calcium / Chromium / Copper / Folic Acid / Iodine / Iron / Magnesium / Manganese / Molybdenum / Niacinamide / Pantothenic Acid / Pyridoxol Hydrochloride / Riboflavin / Selenium / Thiamine / Vitamin A / Vitamin B 12 / Vitamin D /	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40011705	402806	Ascorbic Acid / Biotin / Calcium / Copper / Docusate / Folic Acid / Iron / Magnesium / Niacinamide / Pantothenic Acid / Pyridoxol Hydrochloride / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin D / Vitamin E / Zinc Oral Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40011706	402784	Ascorbic Acid / Biotin / Calcium / Copper / Folic Acid / Iron / Magnesium / Nicotinic Acid / Pantothenic Acid / Pyridoxol Hydrochloride / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin D / Vitamin E / Zinc Oral Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40011708	378327	Ascorbic Acid / Biotin / Calcium Carbonate / Cholecalciferol / Copper / Folic Acid / Iron pentacarbonyl / Magnesium / Niacinamide / Pantothenic Acid / Potassium Iodide / Pyridoxol Hydrochloride / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40011709	402797	Ascorbic Acid / Biotin / Calcium Pantothenate / Choline / Chromium / Copper Sulfate / Folic Acid / Iodine / Iron / Magnesium / Manganese / Molybdenum / Niacinamide / Pyridoxine / Riboflavin / Selenium / Thiamine / Vitamin A / Vitamin B 12 / Vitamin D / V	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40011711	402776	Ascorbic Acid / Biotin / Chromium / Copper / Folic Acid / Iron / Magnesium / Manganese / Nicotinic Acid / Pantothenic Acid / Pyridoxol Hydrochloride / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin E / Zinc Oral Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40011917	402775	Ascorbic Acid / Biotin / Chromium / Copper / Folic Acid / Iron / Magnesium / Molybdenum / Nicotinic Acid / Pantothenic Acid / Pyridoxol Hydrochloride / Riboflavin / Selenium / Thiamine / Vitamin A / Vitamin B 12 / Vitamin E / Zinc Oral Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40011924	378324	Ascorbic Acid / CALCIUM CARBONATE, PRECIPITATED / Calcium Pantothenate / Cholecalciferol / Ferrous fumarate / Folic Acid / Niacinamide / Pyridoxol Hydrochloride / Riboflavin / Thiamine / Tocopherols / Vitamin A / Vitamin B 12 / Zinc Oxide Oral Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40011926	402800	Ascorbic Acid / Calcium / Calcium Pantothenate / Cholecalciferol / Chromium / Copper / D-BIOTIN / Folic Acid / Iodine / Iron / Magnesium / Manganese / Molybdenum / Nicotinic Acid / Pyridoxol Hydrochloride / Riboflavin / Selenium / Thiamine / Vitamin A /	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40011927	402796	Ascorbic Acid / Calcium / Calcium Pantothenate / Cholecalciferol / Chromium / Copper / D-BIOTIN / Folic Acid / Iodine / Iron / Magnesium / Manganese / Molybdenum / Nicotinic Acid / Pyridoxol Hydrochloride / Riboflavin / Thiamine / Vitamin A / Vitamin B 1	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40011928	402808	Ascorbic Acid / Calcium / Calcium Pantothenate / Cholecalciferol / Docusate / Folic Acid / Iron / Niacinamide / Pyridoxine / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin E / Zinc Caplet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40011929	402795	Ascorbic Acid / Calcium / Calcium Pantothenate / Fluorides / Iron / Niacinamide / Pyridoxol Hydrochloride / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin D Oral Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40011930	402764	Ascorbic Acid / Calcium / Cholecalciferol / Copper / Docusate / Folic Acid / Iodine / Iron / Niacinamide / Pyridoxol Hydrochloride / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin E / Zinc Oral Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40011931	402805	Ascorbic Acid / Calcium / Cholecalciferol / Copper / Docusate / Folic Acid / Iron / Magnesium / Niacinamide / Pyridoxol Hydrochloride / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin E / Zinc Oral Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40011932	402766	Ascorbic Acid / Calcium / Cholecalciferol / Folic Acid / Iodine / Iron / Nicotinic Acid / Pyridoxol Hydrochloride / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin E / Zinc Oral Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40011933	402771	Ascorbic Acid / Calcium / Copper / Docusate / Folic Acid / Iodine / Iron / Niacinamide / Pyridoxol Hydrochloride / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin D / Vitamin E / Zinc Oral Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40011935	402765	Ascorbic Acid / Calcium / Copper / Docusate / Folic Acid / Iron / Magnesium / Niacinamide / Pyridoxol Hydrochloride / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin D / Vitamin E / Zinc Oral Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40011937	402770	Ascorbic Acid / Calcium / Copper / Folic Acid / Iron / Magnesium / Niacinamide / Pyridoxol Hydrochloride / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin D / Vitamin E / Zinc Oral Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40011940	402767	Ascorbic Acid / Calcium / Copper / Folic Acid / Iron / Niacinamide / Pyridoxol Hydrochloride / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin D / Vitamin E / Zinc Oral Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40011942	402769	Ascorbic Acid / Calcium / Copper / Folic Acid / Iron / Nicotinic Acid / Pyridoxol Hydrochloride / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin D / Vitamin E / Zinc Oral Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40011944	402794	Ascorbic Acid / Calcium / Folic Acid / Iodine / Iron / Magnesium / Nicotinic Acid / Pyridoxol Hydrochloride / Riboflavin / Selenium / Thiamine / Vitamin A / Vitamin B 12 / Vitamin D / Vitamin E / Zinc Oral Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40011945	402781	Ascorbic Acid / Calcium / Folic Acid / Iodine / Iron / Magnesium / Nicotinic Acid / Pyridoxol Hydrochloride / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin D / Vitamin E / Zinc Oral Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40011946	402802	Ascorbic Acid / Calcium / Folic Acid / Iodine / Iron / Niacinamide / Pyridoxine / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin D / Vitamin E / Zinc Oxide Oral Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40012203	402779	Ascorbic Acid / Calcium / Folic Acid / Iron / Magnesium / Nicotinic Acid / Pyridoxol Hydrochloride / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin D / Vitamin E / Zinc Oral Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40012204	402773	Ascorbic Acid / Calcium / Folic Acid / Iron / Niacinamide / Pyridoxol Hydrochloride / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin D / Zinc Oral Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40012205	402803	Ascorbic Acid / Calcium / Folic Acid / Iron / Nicotinic Acid / Pantothenic Acid / Pyridoxol Hydrochloride / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin D / Vitamin E / Zinc Oxide Oral Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40012216	378328	Ascorbic Acid / Calcium Citrate / Cholecalciferol / Cupric oxide / Docusate / Folic Acid / Iron pentacarbonyl / Niacinamide / Potassium Iodide / Pyridoxol Hydrochloride / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin E / Zinc Oxide Oral Tabl	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40012222	378503	Ascorbic Acid / Calcium Pantothenate / Folic Acid / Magnesium Sulfate / manganese chloride / Niacinamide / Pyridoxol Hydrochloride / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin E / Zinc Sulfate Oral Capsule	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40012223	378329	Ascorbic Acid / Calcium Sulfate / Cholecalciferol / Cupric oxide / Ferrous fumarate / Folic Acid / Niacinamide / Pyridoxol Hydrochloride / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin E / Zinc Oxide Oral Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40012233	402801	Ascorbic Acid / Cholecalciferol / Folic Acid / Iron / Niacinamide / Pyridoxol Hydrochloride / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin E Chewable Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40012234	378330	Ascorbic Acid / Cholecalciferol / Folic Acid / Iron / Niacinamide / Pyridoxol Hydrochloride / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin E Oral Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40012239	402793	Ascorbic Acid / Copper / Fluoride Ion / Folic Acid / Iron / Nicotinic Acid / Pyridoxol Hydrochloride / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin D / Vitamin E / Zinc Chewable Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40012541	378499	Ascorbic Acid / Fluoride Ion / Folic Acid / Nicotinic Acid / Pyridoxol Hydrochloride / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin D / Vitamin E Chewable Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40012542	407878	Ascorbic Acid / Fluoride Ion / Iron / Nicotinic Acid / Riboflavin / Thiamine / Vitamin A / Vitamin B6 / Vitamin D / Vitamin E Oral Solution	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40012543	378529	Ascorbic Acid / Fluorides / Nicotinic Acid / Pyridoxol Hydrochloride / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin D / Vitamin E Oral Solution	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40012564	376016	ascorbic acid / niacinamide / vitamin A Oral Tablet	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40012868	378178	ascorbic acid / sodium fluoride / vitamin A / vitamin D Chewable Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40012874	377420	Ascorbic Acid / Vitamin A / Vitamin D Oral Solution	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40012875	376427	ascorbic acid / vitamin A / vitamin E / zinc sulfate Oral Capsule	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40012876	376973	ascorbic acid / vitamin A / vitamin E Oral Tablet	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40012927	349577	Ascorbic Acid 100 MG / Calcium 200 MG / Calcium Pantothenate 7 MG / Cholecalciferol 400 UNT / Docusate 25 MG / Folic Acid 1 MG / Iron 29 MG / Niacinamide 15 MG / Pyridoxine 20 MG / Riboflavin 3 MG / Thiamine 3 MG / Vitamin A 1000 UNT / Vitamin B 12 0.012	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+40013221	349371	Ascorbic Acid 100 MG / Calcium 200 MG / Folic Acid 1 MG / Iron 29 MG / Nicotinic Acid 15 MG / Pantothenic Acid 7 MG / Pyridoxol Hydrochloride 20 MG / Riboflavin 3 MG / Thiamine 3 MG / Vitamin A 1000 UNT / Vitamin B 12 0.012 MG / Vitamin D 400 UNT / Vitam	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+40013223	348290	Ascorbic Acid 100 MG / Calcium 250 MG / Calcium Pantothenate 10 MG / Fluorides 1 MG / Iron 30 MG / Niacinamide 20 MG / Pyridoxol Hydrochloride 10 MG / Riboflavin 2.5 MG / Thiamine 1.5 MG / Vitamin A 6000 UNT / Vitamin B 12 0.002 MG / Vitamin D 400 UNT Or	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+40013583	348570	Ascorbic Acid 120 MG / Calcium 200 MG / Cholecalciferol 400 UNT / Copper 2 MG / Docusate 50 MG / Folic Acid 1 MG / Iodine 0.15 MG / Iron 90 MG / Niacinamide 20 MG / Pyridoxol Hydrochloride 20 MG / Riboflavin 3.4 MG / Thiamine 3 MG / Vitamin A 2700 UNT /	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+40013824	349521	Ascorbic Acid 120 MG / Calcium 200 MG / Cholecalciferol 400 UNT / Copper 2 MG / Docusate 50 MG / Folic Acid 1 MG / Iron 90 MG / Magnesium 30 MG / Niacinamide 20 MG / Pyridoxol Hydrochloride 20 MG / Riboflavin 3.4 MG / Thiamine 3 MG / Vitamin A 2700 UNT /	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+40013825	348811	Ascorbic Acid 120 MG / Calcium 200 MG / Cholecalciferol 400 UNT / Folic Acid 1 MG / Iodine 0.15 MG / Iron 29 MG / Nicotinic Acid 20 MG / Pyridoxol Hydrochloride 3 MG / Riboflavin 3 MG / Thiamine 3 MG / Vitamin A 4000 UNT / Vitamin B 12 8 MG / Vitamin E 3	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+40013826	348951	Ascorbic Acid 120 MG / Calcium 200 MG / Copper 2 MG / Docusate 50 MG / Folic Acid 1 MG / Iron 90 MG / Magnesium 30 MG / Niacinamide 20 MG / Pyridoxol Hydrochloride 20 MG / Riboflavin 3.4 MG / Thiamine 3 MG / Vitamin A 2700 UNT / Vitamin B 12 0.012 MG / V	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+40013827	348612	Ascorbic Acid 120 MG / Calcium 200 MG / Copper 2 MG / Folic Acid 1 MG / Iron 27 MG / Niacinamide 20 MG / Pyridoxol Hydrochloride 10 MG / Riboflavin 3 MG / Thiamine 1.84 MG / Vitamin A 4000 UNT / Vitamin B 12 0.012 MG / Vitamin D 400 UNT / Vitamin E 22 MG	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+40013828	349303	Ascorbic Acid 120 MG / Calcium 200 MG / Copper 2 MG / Folic Acid 1 MG / Iron 27 MG / Nicotinic Acid 20 MG / Pyridoxol Hydrochloride 10 MG / Riboflavin 3 MG / Thiamine 1.8 MG / Vitamin A 400 UNT / Vitamin B 12 12 MG / Vitamin D 400 UNT / Vitamin E 22 UNT	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+40013829	349252	Ascorbic Acid 120 MG / Calcium 200 MG / Copper 2 MG / Folic Acid 1 MG / Iron 28 MG / Magnesium 25 MG / Niacinamide 20 MG / Pyridoxol Hydrochloride 25 MG / Riboflavin 4 MG / Thiamine 1.8 MG / Vitamin A 3000 MG / Vitamin B 12 12 MG / Vitamin D 400 MG / Vit	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+40013830	349227	Ascorbic Acid 120 MG / Calcium 200 MG / Copper 2 MG / Folic Acid 1 MG / Iron 28 MG / Magnesium 25 MG / Niacinamide 20 MG / Pyridoxol Hydrochloride 25 MG / Riboflavin 4 MG / Thiamine 1.8 MG / Vitamin A 3000 UNT / Vitamin B 12 12 MG / Vitamin D 400 UNT / V	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+40013831	347933	Ascorbic Acid 120 MG / Calcium 200 MG / Copper 2 MG / Folic Acid 1 MG / Iron 65 MG / Niacinamide 20 MG / Pyridoxol Hydrochloride 10 MG / Riboflavin 3 MG / Thiamine 1.5 MG / Vitamin A 4000 UNT / Vitamin B 12 0.012 MG / Vitamin D 400 UNT / Vitamin E 11 MG	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+40013832	348559	Ascorbic Acid 120 MG / Calcium 200 MG / Copper 2 MG / Folic Acid 1 MG / Iron 65 MG / Niacinamide 20 MG / Pyridoxol Hydrochloride 10 MG / Riboflavin 3 MG / Thiamine 1.84 MG / Vitamin A 4000 UNT / Vitamin B 12 0.012 MG / Vitamin D 400 UNT / Vitamin E 22 MG	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+40013834	348992	Ascorbic Acid 120 MG / Calcium 200 MG / Folic Acid 1 MG / Iodine 0.15 MG / Iron 50 MG / Niacinamide 20 MG / Pyridoxine 3 MG / Riboflavin 3 MG / Thiamine 3 MG / Vitamin A 4000 UNT / Vitamin B 12 0.008 MG / Vitamin D 400 UNT / Vitamin E 30 UNT / Zinc Oxide	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+40013835	348263	Ascorbic Acid 120 MG / Calcium 250 MG / Cholecalciferol 400 UNT / Copper 2 MG / Docusate 50 MG / Folic Acid 1 MG / Iodine 0.15 MG / Iron 90 MG / Niacinamide 20 MG / Pyridoxol Hydrochloride 20 MG / Riboflavin 3.4 MG / Thiamine 3 MG / Vitamin A 4000 UNT /	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+40013836	348015	Ascorbic Acid 120 MG / Calcium 250 MG / Copper 2 MG / Docusate 50 MG / Folic Acid 1 MG / Iodine 0.15 MG / Iron 90 MG / Niacinamide 20 MG / Pyridoxol Hydrochloride 20 MG / Riboflavin 3.4 MG / Thiamine 3 MG / Vitamin A 4000 UNT / Vitamin B 12 0.012 MG / Vi	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+40017421	376053	Calcium Citrate / Vitamin A / Vitamin D Oral Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40017474	374308	Beta Carotene / Vitamin A Oral Capsule	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40017475	374309	beta carotene / vitamin A Oral Tablet	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40018673	375392	Calcium / Vitamin A / Vitamin D Oral Capsule	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40019281	283095	Calcium 200 MG / Vitamin A 275 UNT / Vitamin D 200 UNT Oral Capsule	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+40020050	375382	calcium carbonate / vitamin A / vitamin D Oral Capsule	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40031196	402807	Cholecalciferol / Folic Acid / Iron / Niacinamide / Pyridoxol Hydrochloride / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin E Oral Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40031198	485688	cholecalciferol / vitamin A Oral Capsule	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40052962	392950	Hydrocortisone / Neomycin / Vitamin A Topical Cream	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40054091	252292	Hydrocortisone 10 MG/ML / Neomycin 5 MG/ML / Vitamin A 10 UNT/MG Topical Cream	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+40054228	376245	Iodine / Vitamin A Oral Capsule	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40071711	385077	Oxerutins / Vitamin A Topical Cream	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40071718	252500	Oxerutins 20 MG/ML / Vitamin A 1.25 UNT/MG Topical Cream	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+40088991	375341	vitamin A / vitamin D Oral Capsule	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40088992	375343	Vitamin A / Vitamin D Oral Solution	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40088993	375342	Vitamin A / Vitamin D Oral Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40088994	376984	ergocalciferol / vitamin A Oral Capsule	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40088995	376692	vitamin A / vitamin E Topical Lotion	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40089316	350322	Vitamin A 0.8 MG	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+40089317	343554	Vitamin A 1 UNT/MG	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+40089318	417805	Vitamin A 1 UNT/MG Topical Cream	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+40089319	343695	Vitamin A 1.25 UNT/MG	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+40089371	350457	Vitamin A 2700 MG	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+40089373	336887	Vitamin A 275 UNT	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+40089376	313645	Vitamin A 3.33 UNT/MG Topical Cream	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+40089377	350572	Vitamin A 3000 MG	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+40089709	343603	Vitamin A 6.67 UNT/MG	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+40089723	374302	Vitamin A Chewable Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40089724	375962	vitamin A Extended Release Oral Capsule	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40089725	452568	Vitamin A Extended Release Oral Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40089726	374499	vitamin A Injectable Solution	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40089727	363201	Vitamin A Injectable Solution [Aquasol A]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40089728	385833	Vitamin A Injectable Solution [Ro-A-Vit]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40089729	374304	vitamin A Injectable Suspension	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40089730	374305	vitamin A Ophthalmic Solution	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40089731	363759	vitamin A Ophthalmic Solution [Viva-Drops]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40089732	374301	vitamin A Oral Capsule	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40089733	366690	Vitamin A Oral Capsule [A-25]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40089734	366689	Vitamin A Oral Capsule [A/Fish Oil]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40089735	366688	vitamin A Oral Capsule [Aquasol A]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40089736	374306	vitamin A Oral Solution	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40089737	364652	vitamin A Oral Solution [Aquasol A]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40089738	374303	vitamin A Oral Suspension	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40089739	374307	vitamin A Oral Tablet	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40089740	385831	Vitamin A Oral Tablet [Ro-A-Vit]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40089741	376691	Vitamin A Topical Cream	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40089742	375961	vitamin A Topical Lotion	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40089743	452567	vitamin A Topical Ointment	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40091166	377830	Triamcinolone / Vitamin A Topical Cream	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40091577	249503	Triamcinolone 1 MG/ML / Vitamin A 1 UNT/MG Topical Cream	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+40122322	539413	Vitamin A Oral Capsule [Dofsol-A]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40124967	582155	Ascorbic Acid / Propolis / Vitamin A / Zinc Lozenge	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40126639	581394	lecithin / vitamin A / vitamin E Oral Capsule	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40127312	581422	Vitamin A / Vitamin B6 / Vitamin E / Zinc Oral Capsule	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40127313	581317	vitamin A / vitamin E Oral Capsule	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40131141	619164	Ascorbic Acid / Beta Carotene / Biotin / Calcium / Copper / Folate / Iron / Magnesium / Niacinamide / Pantothenic Acid / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin B6 / Vitamin D / Vitamin E / Zinc Oral Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40131150	619169	Ascorbic Acid / Beta Carotene / Calcium Pantothenate / Folate / Iodine / Magnesium Sulfate / manganese sulfate / Niacinamide / pyridoxine / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin D / Vitamin E / Zinc Sulfate Oral Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40131151	619216	Ascorbic Acid / Biotin / CALCIUM CARBONATE, PRECIPITATED / Cholecalciferol / Copper / Dioctyl Sulfosuccinates / Folate / Iron / Magnesium / Niacinamide / Pantothenic Acid / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin B6 / Vitamin E / Zinc	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40131153	619179	Ascorbic Acid / Biotin / Calcium / Cholecalciferol / Chromium / Copper / Folate / Iron / Magnesium / Manganese / Molybdenum / Niacinamide / Pantothenic Acid / Potassium Iodide / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin B6 / Vitamin E /	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40131154	619163	Ascorbic Acid / Biotin / Calcium / Cholecalciferol / Copper / Folate / Iron / Magnesium / Nicotinic Acid / Pantothenic Acid / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin B6 / Vitamin E / Zinc Oral Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40131155	619190	Ascorbic Acid / Biotin / Calcium / Chromium / Copper / Folate / Iodine / Iron / Magnesium / Manganese / Molybdenum / Niacinamide / Pantothenic Acid / Riboflavin / Selenium / Thiamine / Vitamin A / Vitamin B 12 / Vitamin B6 / Vitamin D / Vitamin E / Zinc	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40131157	619222	Ascorbic Acid / Biotin / Calcium / Copper / Dioctyl Sulfosuccinates / Folate / Iron / Magnesium / Niacinamide / Pantothenic Acid / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin B6 / Vitamin D / Vitamin E / Zinc Oral Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40131158	619152	Ascorbic Acid / Biotin / Calcium / Copper / Folate / Iron / Magnesium / Nicotinic Acid / Pantothenic Acid / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin B6 / Vitamin D / Vitamin E / Zinc Oral Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40131160	619207	Ascorbic Acid / Biotin / Calcium Carbonate / Cholecalciferol / Copper / Folate / Iron pentacarbonyl / Magnesium / Niacinamide / Pantothenic Acid / Potassium Iodide / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin B6 / Vitamin E / Zinc Oxide O	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40131161	619189	Ascorbic Acid / Biotin / Calcium Pantothenate / Choline / Chromium / Copper Sulfate / Folate / Iodine / Iron / Magnesium / Manganese / Molybdenum / Niacinamide / pyridoxine / Riboflavin / Selenium / Thiamine / Vitamin A / Vitamin B 12 / Vitamin D / Vitam	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40131163	619143	Ascorbic Acid / Biotin / Chromium / Copper / Folate / Iron / Magnesium / Manganese / Nicotinic Acid / Pantothenic Acid / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin B6 / Vitamin E / Zinc Oral Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40131166	619181	Ascorbic Acid / Biotin / Chromium / Copper / Folate / Iron / Magnesium / Molybdenum / Nicotinic Acid / Pantothenic Acid / Riboflavin / Selenium / Thiamine / Vitamin A / Vitamin B 12 / Vitamin B6 / Vitamin E / Zinc Oral Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40131170	619220	Ascorbic Acid / CALCIUM CARBONATE, PRECIPITATED / Calcium Pantothenate / Cholecalciferol / Ferrous fumarate / Folate / Niacinamide / Riboflavin / Thiamine / Tocopherols / Vitamin A / Vitamin B 12 / Vitamin B6 / Zinc Oxide Oral Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40131172	619193	Ascorbic Acid / Calcium / Calcium Pantothenate / Cholecalciferol / Chromium / Copper / D-BIOTIN / Folate / Iodine / Iron / Magnesium / Manganese / Molybdenum / Nicotinic Acid / Riboflavin / Selenium / Thiamine / Vitamin A / Vitamin B 12 / Vitamin B6 / Vi	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40131173	619178	Ascorbic Acid / Calcium / Calcium Pantothenate / Cholecalciferol / Chromium / Copper / D-BIOTIN / Folate / Iodine / Iron / Magnesium / Manganese / Molybdenum / Nicotinic Acid / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin B6 / Vitamin E / Z	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40131174	619224	Ascorbic Acid / Calcium / Calcium Pantothenate / Cholecalciferol / Dioctyl Sulfosuccinates / Folate / Iron / Niacinamide / pyridoxine / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin E / Zinc Caplet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40131175	619174	Ascorbic Acid / Calcium / Calcium Pantothenate / Fluorides / Iron / Niacinamide / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin B6 / Vitamin D Oral Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40131176	619171	Ascorbic Acid / Calcium / Cholecalciferol / Copper / Dioctyl Sulfosuccinates / Folate / Iodine / Iron / Niacinamide / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin B6 / Vitamin E / Zinc Oral Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40131177	619221	Ascorbic Acid / Calcium / Cholecalciferol / Copper / Dioctyl Sulfosuccinates / Folate / Iron / Magnesium / Niacinamide / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin B6 / Vitamin E / Zinc Oral Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40131178	619195	Ascorbic Acid / Calcium / Cholecalciferol / Folate / Iodine / Iron / Nicotinic Acid / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin B6 / Vitamin E / Zinc Oral Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40131179	619159	Ascorbic Acid / Calcium / Copper / Dioctyl Sulfosuccinates / Folate / Iodine / Iron / Niacinamide / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin B6 / Vitamin D / Vitamin E / Zinc Oral Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40131181	619201	Ascorbic Acid / Calcium / Copper / Dioctyl Sulfosuccinates / Folate / Iron / Magnesium / Niacinamide / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin B6 / Vitamin D / Vitamin E / Zinc Oral Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40131183	619210	Ascorbic Acid / Calcium / Copper / Folate / Iron / Magnesium / Niacinamide / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin B6 / Vitamin D / Vitamin E / Zinc Oral Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40131186	619156	Ascorbic Acid / Calcium / Copper / Folate / Iron / Niacinamide / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin B6 / Vitamin D / Vitamin E / Zinc Oral Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40131188	619213	Ascorbic Acid / Calcium / Copper / Folate / Iron / Nicotinic Acid / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin B6 / Vitamin D / Vitamin E / Zinc Oral Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40131190	619168	Ascorbic Acid / Calcium / Folate / Iodine / Iron / Magnesium / Nicotinic Acid / Riboflavin / Selenium / Thiamine / Vitamin A / Vitamin B 12 / Vitamin B6 / Vitamin D / Vitamin E / Zinc Oral Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40131191	619183	Ascorbic Acid / Calcium / Folate / Iodine / Iron / Magnesium / Nicotinic Acid / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin B6 / Vitamin D / Vitamin E / Zinc Oral Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40131192	619203	Ascorbic Acid / Calcium / Folate / Iodine / Iron / Niacinamide / pyridoxine / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin D / Vitamin E / Zinc Oxide Oral Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40131193	619180	Ascorbic Acid / Calcium / Folate / Iron / Magnesium / Nicotinic Acid / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin B6 / Vitamin D / Vitamin E / Zinc Oral Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40131194	619185	Ascorbic Acid / Calcium / Folate / Iron / Niacinamide / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin B6 / Vitamin D / Zinc Oral Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40131195	619217	Ascorbic Acid / Calcium / Folate / Iron / Nicotinic Acid / Pantothenic Acid / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin B6 / Vitamin D / Vitamin E / Zinc Oxide Oral Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40131204	619187	Ascorbic Acid / Calcium Citrate / Cholecalciferol / Cupric oxide / Dioctyl Sulfosuccinates / Folate / Iron pentacarbonyl / Niacinamide / Potassium Iodide / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin B6 / Vitamin E / Zinc Oxide Oral Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40131207	619145	Ascorbic Acid / Calcium Pantothenate / Folate / Magnesium Sulfate / manganese chloride / Niacinamide / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin B6 / Vitamin E / Zinc Sulfate Oral Capsule	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40131208	619162	Ascorbic Acid / Calcium Sulfate / Cholecalciferol / Cupric oxide / Ferrous fumarate / Folate / Niacinamide / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin B6 / Vitamin E / Zinc Oxide Oral Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40131211	619199	Ascorbic Acid / Cholecalciferol / Folate / Iron / Niacinamide / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin B6 / Vitamin E Chewable Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40131212	619188	Ascorbic Acid / Cholecalciferol / Folate / Iron / Niacinamide / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin B6 / Vitamin E Oral Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40131214	619139	Ascorbic Acid / Copper / Fluoride Ion / Folate / Iron / Nicotinic Acid / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin B6 / Vitamin D / Vitamin E / Zinc Chewable Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40131223	619138	Ascorbic Acid / Fluoride Ion / Folate / Nicotinic Acid / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin B6 / Vitamin D / Vitamin E Chewable Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40131224	619158	Ascorbic Acid / Fluorides / Nicotinic Acid / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin B6 / Vitamin D / Vitamin E Oral Solution	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40131366	619223	Cholecalciferol / Folate / Iron / Niacinamide / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin B6 / Vitamin E Oral Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40133208	637743	Ascorbic Acid / Folate / Magnesium Sulfate / manganese chloride / Niacinamide / Pantothenic Acid / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin B6 / Vitamin E / Zinc Sulfate Oral Capsule	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40133209	637749	Ascorbic Acid / Folate / Niacinamide / Riboflavin / Sodium Ascorbate / Sodium Fluoride / Thiamine / Vitamin A / Vitamin B 12 / Vitamin B6 / Vitamin D / Vitamin E Chewable Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40133210	637745	Ascorbic Acid / Folate / Niacinamide / Riboflavin / Sodium Fluoride / Thiamine / Vitamin A / Vitamin B 12 / Vitamin B6 / Vitamin D / Vitamin E Chewable Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40133211	637766	Ascorbic Acid / Folate / Niacinamide / Thiamine / Vitamin A / Vitamin B 12 / Vitamin B6 / Vitamin D Chewable Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40133239	637765	Ascorbic Acid / Beta Carotene / Biotin / CALCIUM CARBONATE, PRECIPITATED / Cholecalciferol / Copper / Ferrous fumarate / Folate / Magnesium / Niacinamide / Pantothenic Acid / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin B6 / Zinc Oral Table	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40133241	637747	Ascorbic Acid / Beta Carotene / Biotin / CALCIUM CARBONATE, PRECIPITATED / Cupric oxide / Ferrous fumarate / Folate / Magnesium Oxide / Niacinamide / Pantothenic Acid / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin B6 / Vitamin D / Vitamin E	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40133242	637748	Ascorbic Acid / Beta Carotene / Calcium Carbonate / Cholecalciferol / Cupric oxide / Ferrous fumarate / Folate / Niacinamide / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin B6 / Vitamin E / Zinc Oxide Oral Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40133243	637755	Ascorbic Acid / Beta Carotene / Folate / Iodine / Magnesium Sulfate / manganese sulfate / Niacinamide / Pantothenic Acid / pyridoxine / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin D / Vitamin E / Zinc Sulfate Oral Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40133245	637751	Ascorbic Acid / Biotin / Calcium / Chromium / Copper / Folate / Iodine / Iron / Magnesium / Manganese / Molybdenum / Niacinamide / Pantothenic Acid / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin B6 / Vitamin D / Vitamin E / Zinc Oral Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40133248	637762	Ascorbic Acid / Biotin / Choline / Chromium / Copper Sulfate / Folate / Iodine / Iron / Magnesium / Manganese / Molybdenum / Niacinamide / Pantothenic Acid / pyridoxine / Riboflavin / Selenium / Thiamine / Vitamin A / Vitamin B 12 / Vitamin D / Vitamin E	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40133249	637753	Ascorbic Acid / Biotin / Chromium / Cupric oxide / Folate / Iron / Magnesium Oxide / manganese dioxide / Nicotinic Acid / Pantothenic Acid / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin B6 / Vitamin E / Zinc Oxide Oral Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40133250	637752	Ascorbic Acid / Biotin / chromic chloride / Cupric oxide / Ferrous fumarate / Folate / Magnesium Oxide / Manganese / manganese sulfate / Niacinamide / Pantothenic Acid / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin B6 / Vitamin E / Zinc Oxi	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40133253	637769	Ascorbic Acid / CALCIUM CARBONATE, PRECIPITATED / Cholecalciferol / Ferrous fumarate / Folate / Niacinamide / Pantothenic Acid / Riboflavin / Thiamine / Tocopherols / Vitamin A / Vitamin B 12 / Vitamin B6 / Zinc Oxide Oral Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40133254	637764	Ascorbic Acid / Calcium / Cholecalciferol / Chromium / Copper / D-BIOTIN / Folate / Iodine / Iron / Magnesium / Manganese / Molybdenum / Nicotinic Acid / Pantothenic Acid / Riboflavin / Selenium / Thiamine / Vitamin A / Vitamin B 12 / Vitamin B6 / Vitami	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40133255	637759	Ascorbic Acid / Calcium / Cholecalciferol / Chromium / Copper / D-BIOTIN / Folate / Iodine / Iron / Magnesium / Manganese / Molybdenum / Nicotinic Acid / Pantothenic Acid / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin B6 / Vitamin E / Zinc	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40133256	637770	Ascorbic Acid / Calcium / Cholecalciferol / Dioctyl Sulfosuccinates / Folate / Iron / Niacinamide / Pantothenic Acid / pyridoxine / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin E / Zinc Caplet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40133260	637760	Ascorbic Acid / Calcium / Copper / Folate / Iodine / Iron / Magnesium / Niacinamide / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin B6 / Vitamin D / Vitamin E / Zinc Oral Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40133261	637746	Ascorbic Acid / Calcium / Copper / Folate / Iron / Niacinamide / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin B6 / Vitamin E / Zinc Oral Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40133262	637768	Ascorbic Acid / Calcium / Copper Sulfate / Ferrous fumarate / Folate / Magnesium / Niacinamide / Potassium / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin B6 / Vitamin D / Vitamin E / Zinc Sulfate Oral Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40133263	637758	Ascorbic Acid / Calcium / Fluorides / Iron / Niacinamide / Pantothenic Acid / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin B6 / Vitamin D Oral Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40133264	637740	Ascorbic Acid / Calcium Carbonate / CUPRIC SULFATE,ANHYDROUS / Ferrous fumarate / Folate / Magnesium Oxide / Niacinamide / Potassium Iodide / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin B6 / Vitamin D / Vitamin E / Zinc Sulfate Oral Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40133265	637742	Ascorbic Acid / Calcium Carbonate / Cholecalciferol / Cupric oxide / Ferrous fumarate / Folate / Magnesium Oxide / Nicotinic Acid / Potassium Iodide / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin B6 / Vitamin E / Zinc Oxide Oral Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40133266	637754	Ascorbic Acid / Calcium Carbonate / Cholecalciferol / Ferrous fumarate / Folic Acid / Magnesium Oxide / Niacin / Potassium Iodide / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin B6 / Vitamin E / Zinc Oxide Oral Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40133267	637741	Ascorbic Acid / Calcium Carbonate / Cholecalciferol / Ferrous fumarate / Folate / Niacinamide / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin B6 / Vitamin E Oral Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40133268	637744	Ascorbic Acid / Calcium Carbonate / Copper / Ferrous fumarate / Folate / Iodine / Magnesium Oxide / Niacinamide / Riboflavin / Sodium Fluoride / Thiamine / Vitamin A / Vitamin B 12 / Vitamin B6 / Vitamin D2 / Vitamin E / Zinc Oral Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40133276	637761	Ascorbic Acid / Cholecalciferol / Cupric oxide / Ferrous fumarate / Folate / Niacinamide / Riboflavin / Sodium Fluoride / Thiamine / Vitamin A / Vitamin B 12 / Vitamin B6 / Vitamin E / Zinc Oxide Chewable Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40133278	637750	Ascorbic Acid / Cupric oxide / Ferrous fumarate / Folate / Nicotinic Acid / Riboflavin / Sodium Fluoride / Thiamine / Vitamin A / Vitamin B 12 / Vitamin B6 / Vitamin D / Vitamin E / Zinc Oxide Chewable Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40133321	637677	Biotin / Folate / Magnesium Oxide / Pantothenic Acid / Vitamin A / Vitamin E Oral Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40133869	637738	Eucalyptol / Vitamin A / Vitamin D2 Injectable Solution	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40135227	647607	Ascorbic Acid / Folate / Magnesium Sulfate / manganese chloride / Niacinamide / pantothenate / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin B6 / Vitamin E / Zinc Sulfate Oral Capsule	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40135236	647618	Ascorbic Acid / Beta Carotene / Biotin / CALCIUM CARBONATE, PRECIPITATED / Cholecalciferol / Copper / Ferrous fumarate / Folate / Magnesium / Niacinamide / pantothenate / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin B6 / Zinc Oral Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40135238	647608	Ascorbic Acid / Beta Carotene / Biotin / CALCIUM CARBONATE, PRECIPITATED / Cupric oxide / Ferrous fumarate / Folate / Magnesium Oxide / Niacinamide / pantothenate / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin B6 / Vitamin D / Vitamin E / Z	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40135239	647611	Ascorbic Acid / Beta Carotene / Folic Acid / Iodine / Magnesium Sulfate / manganese sulfate / Niacinamide / pantothenate / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin B6 / Vitamin D / Vitamin E / Zinc Sulfate Oral Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40135241	647615	Ascorbic Acid / Biotin / Choline / Chromium / Copper Sulfate / Folate / Iodine / Iron / Magnesium / Manganese / Molybdenum / Niacinamide / pantothenate / pyridoxine / Riboflavin / Selenium / Thiamine / Vitamin A / Vitamin B 12 / Vitamin D / Vitamin E / V	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40135242	647610	Ascorbic Acid / Biotin / chromic chloride / Cupric oxide / Ferrous fumarate / Folate / Magnesium Oxide / Manganese / manganese sulfate / Niacinamide / pantothenate / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin B6 / Vitamin E / Zinc Oxide O	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40135243	647621	Ascorbic Acid / CALCIUM CARBONATE, PRECIPITATED / Cholecalciferol / Ferrous fumarate / Folate / Niacinamide / pantothenate / Riboflavin / Thiamine / Tocopherols / Vitamin A / Vitamin B 12 / Vitamin B6 / Zinc Oxide Oral Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40135244	647617	Ascorbic Acid / Calcium / Cholecalciferol / Chromium / Copper / D-BIOTIN / Folate / Iodine / Iron / Magnesium / Manganese / Molybdenum / Nicotinic Acid / pantothenate / Riboflavin / Selenium / Thiamine / Vitamin A / Vitamin B 12 / Vitamin B6 / Vitamin E	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40135245	647614	Ascorbic Acid / Calcium / Cholecalciferol / Chromium / Copper / D-BIOTIN / Folate / Iodine / Iron / Magnesium / Manganese / Molybdenum / Nicotinic Acid / pantothenate / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin B6 / Vitamin E / Zinc Oral	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40135246	647622	Ascorbic Acid / Calcium / Cholecalciferol / Docusate / Folate / Iron / Niacinamide / pantothenate / pyridoxine / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin E / Zinc Caplet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40135247	647613	Ascorbic Acid / Calcium / Fluorides / Iron / Niacinamide / pantothenate / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin B6 / Vitamin D Oral Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40135258	647619	biotin / folic acid / magnesium oxide / pantothenate / vitamin A / vitamin E Oral Tablet	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40136095	654862	Kelp preparation / Vitamin A Oral Capsule	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40138376	701733	ergocalciferol / vitamin A Injectable Solution	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40138599	702605	Cholecalciferol / Vitamin A Oral Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40150387	797462	ascorbic acid / biotin / calcium carbonate / cupric oxide / ferrous fumarate / folic acid / magnesium oxide / niacinamide / pantothenic acid / riboflavin / thiamine / vitamin A / vitamin B12 / vitamin B6 / vitamin E / zinc oxide Oral Tablet	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40150388	797653	ascorbic acid / biotin / calcium carbonate / cupric oxide / ferrous fumarate / folic acid / magnesium oxide / niacinamide / pantothenic acid / riboflavin / thiamine / vitamin A / vitamin B12 / vitamin B6 / vitamin E / zinc oxide Oral Tablet [Prenatal R...	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40152889	802791	Ascorbic Acid / Calcium Sulfate / Cholecalciferol / Copper Sulfate / Ferrous fumarate / Folic Acid / Kelp preparation / Magnesium Oxide / Magnesium Sulfate / Niacinamide / potassium sulfate / pyridoxine / Riboflavin / Vitamin A / Vitamin B 12 / Zinc Sulfa	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40152890	802794	Ascorbic Acid / Calcium Sulfate / Cholecalciferol / Copper Sulfate / Ferrous fumarate / Folic Acid / Kelp preparation / Magnesium Oxide / Magnesium Sulfate / Niacinamide / potassium sulfate / pyridoxine / Riboflavin / Vitamin A / Vitamin B 12 / Zinc Sulfa	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40155995	828804	Ascorbic Acid / Calcium Sulfate / Cholecalciferol / Cupric oxide / Ferrous fumarate / Folic Acid / Niacinamide / pyridoxine / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin E / Zinc Oxide Oral Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40155996	828805	Ascorbic Acid / Cholecalciferol / Folate / Iron / Niacinamide / pyridoxine / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin E Oral Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40155999	828808	Ascorbic Acid / Cholecalciferol / Folate / Iron / Niacinamide / pyridoxine / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin E Chewable Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40156002	828811	Cholecalciferol / Folate / Iron / Niacinamide / pyridoxine / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin E Oral Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40156003	828812	ascorbic acid / calcium carbonate / copper sulfate / ferrous fumarate / folic acid / magnesium oxide / niacinamide / potassium iodide / pyridoxine / riboflavin / thiamine / vitamin A / vitamin B12 / vitamin D / vitamin E / zinc sulfate Oral Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40156004	828813	Ascorbic Acid / Calcium Carbonate / Cholecalciferol / Ferrous fumarate / Folic Acid / Niacinamide / pyridoxine / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin E Oral Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40156005	828814	Ascorbic Acid / Folic Acid / Niacinamide / pyridoxine / Riboflavin / Sodium Fluoride / Thiamine / Vitamin A / Vitamin B 12 / Vitamin D / Vitamin E Chewable Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40156006	828815	Ascorbic Acid / Beta Carotene / Calcium Carbonate / Cholecalciferol / Cupric oxide / Ferrous fumarate / Folate / Niacinamide / pyridoxine / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin E / Zinc Oxide Oral Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40156007	828816	Ascorbic Acid / Folate / Niacinamide / pyridoxine / Riboflavin / Sodium Ascorbate / Sodium Fluoride / Thiamine / Vitamin A / Vitamin B 12 / Vitamin D / Vitamin E Chewable Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40156008	828817	Ascorbic Acid / Cholecalciferol / Cupric oxide / Ferrous fumarate / Folate / Niacinamide / pyridoxine / Riboflavin / Sodium Fluoride / Thiamine / Vitamin A / Vitamin B 12 / Vitamin E / Zinc Oxide Chewable Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40156009	828818	Ascorbic Acid / Folic Acid / Niacinamide / pyridoxine / Thiamine / Vitamin A / Vitamin B 12 / Vitamin D Chewable Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40156012	828821	Ascorbic Acid / Folic Acid / Magnesium Sulfate / manganese chloride / Niacinamide / pantothenate / pyridoxine / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin E / Zinc Sulfate Oral Capsule	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40156014	828823	Ascorbic Acid / Biotin / chromic chloride / Cupric oxide / Ferrous fumarate / Folate / Magnesium Oxide / Manganese / manganese sulfate / Niacinamide / pantothenate / pyridoxine / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin E / Zinc Oxide O	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40156015	828824	Ascorbic Acid / CALCIUM CARBONATE, PRECIPITATED / Cholecalciferol / Ferrous fumarate / Folate / Niacinamide / pantothenate / pyridoxine / Riboflavin / Thiamine / Tocopherols / Vitamin A / Vitamin B 12 / Zinc Oxide Oral Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40156017	828826	Ascorbic Acid / Fluoride Ion / Folic Acid / Niacin / pyridoxine / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin D / Vitamin E Chewable Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40156019	828828	Ascorbic Acid / Cupric oxide / Ferrous fumarate / Folate / Niacin / pyridoxine / Riboflavin / Sodium Fluoride / Thiamine / Vitamin A / Vitamin B 12 / Vitamin D / Vitamin E / Zinc Oxide Chewable Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40156020	828829	Ascorbic Acid / Calcium Carbonate / Cholecalciferol / Cupric oxide / Ferrous fumarate / Folic Acid / Magnesium Oxide / Niacin / Potassium Iodide / pyridoxine / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin E / Zinc Oxide Oral Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40156021	828830	Ascorbic Acid / Calcium Citrate / Cholecalciferol / Cupric oxide / Docusate / Folic Acid / Iron Carbonyl / Niacinamide / Potassium Iodide / pyridoxine / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin E / Zinc Oxide Oral Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40160381	849538	ascorbic acid / vitamin A Oral Capsule	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40160725	849536	vitamin A / vitamin E Topical Cream	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40167867	880815	ascorbic acid / cholecalciferol / sodium fluoride / vitamin A Oral Solution	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40167869	880818	Ascorbic Acid / Cholecalciferol / Sodium Fluoride / Vitamin A Oral Solution [Tri-Vitamin with Fluoride]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40167874	876857	ascorbic acid / niacin / riboflavin / thiamine / vitamin A / vitamin B12 / vitamin B6 / vitamin D / vitamin E Oral Solution	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40167875	876860	ascorbic acid / niacin / riboflavin / thiamine / vitamin A / vitamin B12 / vitamin B6 / vitamin D / vitamin E Oral Solution [Poly-Vi-Sol]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40167876	876678	Ascorbic Acid / Vitamin A / Vitamin D Oral Solution [Tri-Vi-Sol]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40167877	876862	ascorbic acid / ferrous sulfate / niacin / riboflavin / thiamine / vitamin A / vitamin B6 / vitamin D / vitamin E Oral Solution	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40167878	876865	ascorbic acid / ferrous sulfate / niacin / riboflavin / thiamine / vitamin A / vitamin B6 / vitamin D / vitamin E Oral Solution [Poly-Vi-Sol with Iron]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40167879	876848	Ascorbic Acid / ferrous sulfate / Vitamin A / Vitamin D Oral Solution	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40167880	876851	Ascorbic Acid / ferrous sulfate / Vitamin A / Vitamin D Oral Solution [Tri-Vi-Sol with Iron]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40167885	876858	ascorbic acid 35 MG/ML / cholecalciferol 0.01 MG/ML / niacin 8 MG/ML / riboflavin 0.6 MG/ML / thiamine 0.5 MG/ML / vitamin A 0.45 MG/ML / vitamin B12 0.002 MG/ML / vitamin B6 0.4 MG/ML / vitamin E 2.25 MG/ML Oral Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+40167886	876861	ascorbic acid 35 MG/ML / cholecalciferol 0.01 MG/ML / niacin 8 MG/ML / riboflavin 0.6 MG/ML / thiamine 0.5 MG/ML / vitamin A 0.45 MG/ML / vitamin B12 0.002 MG/ML / vitamin B6 0.4 MG/ML / vitamin E 2.25 MG/ML Oral Solution [Poly-Vi-Sol]	Branded Drug	Drug	RxNorm	Valid	Standard
+40167887	876859	ascorbic acid 35 MG/ML / niacin 8 MG/ML / riboflavin 0.6 MG/ML / thiamine 0.5 MG/ML / vitamin A 1500 UNT/ML / vitamin B12 0.002 MG/ML / vitamin B6 0.4 MG/ML / vitamin D 400 UNT/ML / vitamin E 5 UNT/ML [Poly-Vi-Sol]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+40167888	876679	ascorbic acid 35 MG/ML / cholecalciferol 0.01 MG/ML / vitamin A 0.45 MG/ML Oral Solution [Tri-Vi-Sol]	Branded Drug	Drug	RxNorm	Valid	Standard
+40167889	876677	Ascorbic Acid 35 MG/ML / Vitamin A 1500 UNT/ML / Vitamin D 400 UNT/ML [Tri-Vi-Sol]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+40167890	876863	ascorbic acid 35 MG/ML / cholecalciferol 0.01 MG/ML / ferrous sulfate 50 MG/ML / niacin 8 MG/ML / riboflavin 0.6 MG/ML / thiamine 0.5 MG/ML / vitamin A 0.45 MG/ML / vitamin B6 0.4 MG/ML / vitamin E 2.25 MG/ML Oral Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+40167891	876866	ascorbic acid 35 MG/ML / cholecalciferol 0.01 MG/ML / ferrous sulfate 50 MG/ML / niacin 8 MG/ML / riboflavin 0.6 MG/ML / thiamine 0.5 MG/ML / vitamin A 0.45 MG/ML / vitamin B6 0.4 MG/ML / vitamin E 2.25 MG/ML Oral Solution [Poly-Vi-Sol with Iron]	Branded Drug	Drug	RxNorm	Valid	Standard
+40167892	876864	ascorbic acid 35 MG/ML / ferrous sulfate 50 MG/ML / niacin 8 MG/ML / riboflavin 0.6 MG/ML / thiamine 0.5 MG/ML / vitamin A 1500 UNT/ML / vitamin B6 0.4 MG/ML / vitamin D 400 UNT/ML / vitamin E 5 UNT/ML [Poly-Vi-Sol with Iron]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+40167893	876849	ascorbic acid 35 MG/ML / cholecalciferol 0.01 MG/ML / ferrous sulfate 50 MG/ML / vitamin A 0.45 MG/ML Oral Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+40167894	876852	ascorbic acid 35 MG/ML / cholecalciferol 0.01 MG/ML / ferrous sulfate 50 MG/ML / vitamin A 0.45 MG/ML Oral Solution [Tri-Vi-Sol with Iron]	Branded Drug	Drug	RxNorm	Valid	Standard
+40167896	876850	Ascorbic Acid 35 MG/ML / ferrous sulfate 50 MG/ML / Vitamin A 1500 UNT/ML / Vitamin D 400 UNT/ML [Tri-Vi-Sol with Iron]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+40168384	880814	vitamin A palmitate 1500 UNT/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+40168544	884648	Ascorbic Acid 60 MG / Folic Acid 0.3 MG / Niacin 13.5 MG / pyridoxine 1.05 MG / Riboflavin 1.2 MG / Sodium Fluoride 0.5 MG / Thiamine 1.05 MG / Vitamin A 2500 UNT / Vitamin B 12 0.0045 MG / Vitamin D 400 UNT / Vitamin E 15 UNT Chewable Tablet	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+40168545	884637	Ascorbic Acid 60 MG / Folic Acid 0.3 MG / Niacin 13.5 MG / pyridoxine 1.05 MG / Riboflavin 1.2 MG / Sodium Fluoride 0.25 MG / Thiamine 1.05 MG / Vitamin A 2500 UNT / Vitamin B 12 0.0045 MG / Vitamin D 400 UNT / Vitamin E 15 UNT Chewable Tablet	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+40168546	884652	Ascorbic Acid 60 MG / Folic Acid 0.3 MG / Niacin 13.5 MG / pyridoxine 1.05 MG / Riboflavin 1.2 MG / Sodium Fluoride 1 MG / Thiamine 1.05 MG / Vitamin A 2500 UNT / Vitamin B 12 0.0045 MG / Vitamin D 400 UNT / Vitamin E 15 UNT Chewable Tablet	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+40168552	884636	Ascorbic Acid / Folic Acid / Niacin / pyridoxine / Riboflavin / Sodium Fluoride / Thiamine / Vitamin A / Vitamin B 12 / Vitamin D / Vitamin E Chewable Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40170464	891457	alpha tocopherol / ascorbic acid / cholecalciferol / copper sulfate / docusate / folic acid / iron carbonyl / magnesium oxide / pyridoxine / riboflavin / thiamine / vitamin A / vitamin B12 / zinc sulfate Oral Tablet	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40171347	891460	{91 (alpha tocopherol 30 UNT / ascorbic acid 60 MG / cholecalciferol 400 UNT / copper sulfate 2 MG / docusate sodium 50 MG / folic acid 1 MG / iron carbonyl 90 MG / magnesium oxide 25 MG / pyridoxine hydrochloride 3 MG / retinol acetate 3500 UNT / ribo...	Clinical Pack	Drug	RxNorm	Valid	Standard
+40183091	991455	ergocalciferol / vitamin A Oral Tablet	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40183115	991456	ergocalciferol 400 UNT / vitamin A 10000 UNT Oral Tablet	Clinical Drug	Drug	RxNorm	Valid	Standard
+40223487	999792	cholecalciferol / vitamin A Injectable Solution	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40223491	999793	cholecalciferol 75000 UNT/ML / vitamin A 500000 UNT/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+40223626	999791	vitamin A 500000 UNT/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+40224232	1000498	beta carotene 10000 UNT / vitamin A 15000 UNT Oral Tablet	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+40224658	1006229	vitamin A 5000 UNT/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+40224930	1006230	ergocalciferol 500 UNT/ML / vitamin A 5000 UNT/ML Injectable Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+40235461	1090966	ascorbic acid / cholecalciferol / niacinamide / pyridoxine / riboflavin / thiamine / vitamin A / vitamin B12 / vitamin E Oral Solution	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40235462	1090971	ascorbic acid / cholecalciferol / niacinamide / pyridoxine / riboflavin / thiamine / vitamin A / vitamin B12 / vitamin E Oral Solution [Multi-Delyn]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40235469	1090970	ascorbic acid 10.8 MG/ML / cholecalciferol 72 UNT/ML / dl-alpha tocopheryl acetate 2.7 UNT/ML / niacinamide 2.44 MG/ML / pyridoxine 0.189 MG/ML / riboflavin 0.216 MG/ML / thiamine hydrochloride 0.168 MG/ML / vitamin A 450 UNT/ML / vitamin B12 0.00081 M...	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+40235470	1090968	ascorbic acid 10.8 MG/ML / cholecalciferol 72 UNT/ML / dl-alpha tocopheryl acetate 2.7 UNT/ML / niacinamide 2.44 MG/ML / pyridoxine 0.189 MG/ML / riboflavin 0.216 MG/ML / thiamine hydrochloride 0.168 MG/ML / vitamin A 450 UNT/ML / vitamin B12 0.00081 M...	Clinical Drug	Drug	RxNorm	Valid	Standard
+40235471	1090972	ascorbic acid 10.8 MG/ML / cholecalciferol 72 UNT/ML / dl-alpha tocopheryl acetate 2.7 UNT/ML / niacinamide 2.44 MG/ML / pyridoxine 0.189 MG/ML / riboflavin 0.216 MG/ML / thiamine hydrochloride 0.168 MG/ML / vitamin A 450 UNT/ML / vitamin B12 0.00081 M...	Branded Drug	Drug	RxNorm	Valid	Standard
+40235902	1088884	vitamin A / vitamin E Topical Cream [Lazer Creme]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40235963	1090964	vitamin A 450 UNT/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+40236562	1088880	vitamin A palmitate 3381.4 UNT/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+40236563	1088882	tocopherol acetate 118.3 UNT/ML / vitamin A palmitate 3381.4 UNT/ML Topical Cream	Clinical Drug	Drug	RxNorm	Valid	Standard
+40236564	1088885	tocopherol acetate 118.3 UNT/ML / vitamin A palmitate 3381.4 UNT/ML Topical Cream [Lazer Creme]	Branded Drug	Drug	RxNorm	Valid	Standard
+40236565	1088883	tocopherol acetate 118.3 UNT/ML / vitamin A palmitate 3381.4 UNT/ML [Lazer Creme]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+40240427	1116183	ascorbic acid 100 MG / calcium carbonate 200 MG / cholecalciferol 0.01 MG / copper sulfate 2 MG / dl-alpha tocopheryl acetate 30 UNT / ferrous fumarate 65 MG / folic acid 1 MG / magnesium oxide 10 MG / niacinamide 20 MG / potassium iodide 0.15 MG / pyr...	Branded Drug	Drug	RxNorm	Valid	Standard
+40240457	1116182	ascorbic acid / calcium carbonate / copper sulfate / ferrous fumarate / folic acid / magnesium oxide / niacinamide / potassium iodide / pyridoxine / riboflavin / thiamine / vitamin A / vitamin B12 / vitamin D / vitamin E / zinc sulfate Oral Tablet [Lactoc	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+40241645	1119571	ascorbic acid 30 MG / cholecalciferol 1000 UNT / cuprous oxide 2 MG / folic acid 1 MG / magnesium oxide 20 MG / niacin 15 MG / polysaccharide iron complex 29 MG / potassium iodide 0.15 MG / pyridoxine hydrochloride 2.5 MG / riboflavin 1.8 MG / thiamine...	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+40241646	1119569	ascorbic acid 30 MG / cholecalciferol 1000 UNT / cuprous oxide 2 MG / folic acid 1 MG / magnesium oxide 20 MG / niacin 15 MG / polysaccharide iron complex 29 MG / potassium iodide 0.15 MG / pyridoxine hydrochloride 2.5 MG / riboflavin 1.8 MG / thiamine...	Clinical Drug	Drug	RxNorm	Valid	Standard
+40241647	1119573	ascorbic acid 30 MG / cholecalciferol 1000 UNT / cuprous oxide 2 MG / folic acid 1 MG / magnesium oxide 20 MG / niacin 15 MG / polysaccharide iron complex 29 MG / potassium iodide 0.15 MG / pyridoxine hydrochloride 2.5 MG / riboflavin 1.8 MG / thiamine...	Branded Drug	Drug	RxNorm	Valid	Standard
+40241648	1119300	Ascorbic Acid 35 MG/ML / Cholecalciferol 400 UNT/ML / retinyl palmitate 1500 UNT/ML / Sodium Fluoride 0.5 MG/ML Oral Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+40241658	1119566	ascorbic acid / cholecalciferol / cuprous oxide / folic acid / magnesium oxide / niacin / polysaccharide iron complex / potassium iodide / pyridoxine / riboflavin / thiamine / vitamin A / vitamin B12 / vitamin E / zinc oxide Oral Capsule	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+40241659	1119572	ascorbic acid / cholecalciferol / cuprous oxide / folic acid / magnesium oxide / niacin / polysaccharide iron complex / potassium iodide / pyridoxine / riboflavin / thiamine / vitamin A / vitamin B12 / vitamin E / zinc oxide Oral Capsule [Vitafol-One]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+40241705	1144133	Bilberry extract / Vitamin A / Vitamin E Oral Capsule	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+40241707	1144135	Bilberry extract 25 MG / Vitamin A 2000 UNT / Vitamin E 100 UNT Oral Capsule	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+40241910	1119564	vitamin A 1100 UNT	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+42705253	1234481	ascorbic acid / cholecalciferol / niacin / riboflavin / sodium fluoride / thiamine / vitamin A / vitamin B12 / vitamin B6 / vitamin E Oral Solution	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+42705374	1235387	ascorbic acid / folic acid / niacin / riboflavin / sodium fluoride / thiamine / vitamin A / vitamin B12 / vitamin B6 / vitamin D / vitamin E Chewable Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+42705546	1236461	Vitamin A 1000 UNT/ML	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+42706006	1244006	ascorbic acid / cholecalciferol / ferrous sulfate / sodium fluoride / vitamin A Oral Solution	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+42707512	1234482	ascorbic acid 35 MG/ML / cholecalciferol 400 UNT/ML / niacin 8 MG/ML / riboflavin 0.6 MG/ML / sodium fluoride 0.55 MG/ML / thiamine 0.5 MG/ML / vitamin A 1500 UNT/ML / vitamin B12 0.002 MG/ML / vitamin B6 0.4 MG/ML / vitamin E 5 UNT/ML Oral Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+42707662	1235389	ascorbic acid 60 MG / cholecalciferol 0.01 MG / folic acid 0.3 MG / niacin 13.5 MG / riboflavin 1.2 MG / sodium fluoride 0.55 MG / thiamine 1.05 MG / vitamin A 0.75 MG / vitamin B12 0.0045 MG / vitamin B6 1.05 MG / vitamin E 6.75 MG Chewable Tablet	Clinical Drug	Drug	RxNorm	Valid	Standard
+42707828	1236463	Vitamin A 1000 UNT/ML / Vitamin D 100 UNT/ML Oral Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+42708185	1244008	ascorbic acid 35 MG/ML / cholecalciferol 0.01 MG/ML / ferrous sulfate 10 MG/ML / sodium fluoride 0.55 MG/ML / vitamin A palmitate 1500 UNT/ML Oral Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+42708756	1248143	Ascorbic Acid 120 MG / Calcium Citrate 200 MG / Cholecalciferol 400 UNT / Cupric oxide 2 MG / Docusate Sodium 50 MG / Folic Acid 1 MG / Iron Carbonyl 90 MG / Niacinamide 20 MG / Potassium Iodide 0.15 MG / Pyridoxine Hydrochloride 20 MG / Riboflavin 3.4 MG	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+42799204	1292775	ascorbic acid / cholecalciferol / vitamin A Oral Solution	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+42799214	1292777	Ascorbic Acid 35 MG/ML / Cholecalciferol 400 UNT/ML / Vitamin A 1500 UNT/ML Oral Solution	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+42800073	1291278	Vitamin A 8000 UNT Oral Tablet	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+42800411	1298293	ascorbic acid 60 MG / beta carotene 2500 UNT / dl-alpha tocopheryl acetate 30 UNT / ergocalciferol 400 UNT / folic acid 0.4 MG / niacin 20 MG / pantothenic acid 10 MG / pyridoxine 2 MG / retinol acetate 2500 UNT / riboflavin 1.7 MG / thiamine mononitrate	Clinical Drug	Drug	RxNorm	Invalid	Non-standard
+42800415	1298291	ascorbic acid / beta carotene / ergocalciferol / folic acid / niacin / pantothenic acid / pyridoxine / riboflavin / thiamine / vitamin A / vitamin B12 / vitamin E Oral Tablet	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+42873355	1302679	cholecalciferol / vitamin A Oral Solution	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+42873582	1302680	cholecalciferol 80 UNT/ML / vitamin A 800 UNT/ML Oral Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+42874119	1304557	alpha tocopherol / ascorbic acid / biotin / cholecalciferol / dexpanthenol / folic acid / niacinamide / pyridoxine / riboflavin / thiamine / vitamin A / vitamin B12 / vitamin K1 Injectable Solution	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+42874120	1305220	alpha tocopherol / ascorbic acid / biotin / cholecalciferol / dexpanthenol / folic acid / niacinamide / pyridoxine / riboflavin / thiamine / vitamin A / vitamin B12 / vitamin K1 Injectable Solution [Infuvite Pediatric]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+42874121	1304562	alpha tocopherol / ascorbic acid / biotin / cholecalciferol / dexpanthenol / folic acid / niacinamide / pyridoxine / riboflavin / thiamine / vitamin A / vitamin B12 / vitamin K1 Injectable Solution [Infuvite]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+42874122	1305198	alpha tocopherol / ascorbic acid / biotin / dexpanthenol / ergocalciferol / folic acid / niacinamide / pyridoxine / riboflavin / thiamine / vitamin A / vitamin B12 / vitamin K1 Injectable Solution	Clinical Drug Form	Drug	RxNorm	Valid	Standard
+42874123	1305203	alpha tocopherol / ascorbic acid / biotin / dexpanthenol / ergocalciferol / folic acid / niacinamide / pyridoxine / riboflavin / thiamine / vitamin A / vitamin B12 / vitamin K1 Injectable Solution [MVI Pediatric]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+42874151	1304561	alpha-tocopherol acetate 1 UNT/ML / ascorbic acid 20 MG/ML / biotin 0.006 MG/ML / cholecalciferol 20 UNT/ML / dexpanthenol 1.5 MG/ML / folic acid 0.06 MG/ML / niacinamide 4 MG/ML / pyridoxine hydrochloride 0.6 MG/ML / riboflavin 0.36 MG/ML / thiamine h...	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+42874152	1304559	alpha-tocopherol acetate 1 UNT/ML / ascorbic acid 20 MG/ML / biotin 0.006 MG/ML / cholecalciferol 20 UNT/ML / dexpanthenol 1.5 MG/ML / folic acid 0.06 MG/ML / niacinamide 4 MG/ML / pyridoxine hydrochloride 0.6 MG/ML / riboflavin 0.36 MG/ML / thiamine h...	Clinical Drug	Drug	RxNorm	Valid	Standard
+42874153	1304564	alpha-tocopherol acetate 1 UNT/ML / ascorbic acid 20 MG/ML / biotin 0.006 MG/ML / cholecalciferol 20 UNT/ML / dexpanthenol 1.5 MG/ML / folic acid 0.06 MG/ML / niacinamide 4 MG/ML / pyridoxine hydrochloride 0.6 MG/ML / riboflavin 0.36 MG/ML / thiamine h...	Branded Drug	Drug	RxNorm	Valid	Standard
+42874155	1305202	alpha-tocopherol acetate 1.4 MG/ML / ascorbic acid 16 MG/ML / biotin 0.004 MG/ML / dexpanthenol 1 MG/ML / ergocalciferol 0.002 MG/ML / folic acid 0.028 MG/ML / niacinamide 3.4 MG/ML / pyridoxine hydrochloride 0.2 MG/ML / riboflavin 0.28 MG/ML / thiamin...	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+42874156	1305200	alpha-tocopherol acetate 1.4 MG/ML / ascorbic acid 16 MG/ML / biotin 0.004 MG/ML / dexpanthenol 1 MG/ML / ergocalciferol 0.002 MG/ML / folic acid 0.028 MG/ML / niacinamide 3.4 MG/ML / pyridoxine hydrochloride 0.2 MG/ML / riboflavin 0.28 MG/ML / thiamin...	Clinical Drug	Drug	RxNorm	Valid	Standard
+42874157	1305205	alpha-tocopherol acetate 1.4 MG/ML / ascorbic acid 16 MG/ML / biotin 0.004 MG/ML / dexpanthenol 1 MG/ML / ergocalciferol 0.002 MG/ML / folic acid 0.028 MG/ML / niacinamide 3.4 MG/ML / pyridoxine hydrochloride 0.2 MG/ML / riboflavin 0.28 MG/ML / thiamin...	Branded Drug	Drug	RxNorm	Valid	Standard
+42874159	1305219	alpha-tocopherol acetate 1.4 UNT/ML / ascorbic acid 16 MG/ML / biotin 0.004 MG/ML / cholecalciferol 80 UNT/ML / dexpanthenol 1 MG/ML / folic acid 0.028 MG/ML / niacinamide 3.4 MG/ML / pyridoxine hydrochloride 0.2 MG/ML / riboflavin 0.28 MG/ML / thiamin...	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+42874160	1305217	alpha-tocopherol acetate 1.4 UNT/ML / ascorbic acid 16 MG/ML / biotin 0.004 MG/ML / cholecalciferol 80 UNT/ML / dexpanthenol 1 MG/ML / folic acid 0.028 MG/ML / niacinamide 3.4 MG/ML / pyridoxine hydrochloride 0.2 MG/ML / riboflavin 0.28 MG/ML / thiamin...	Clinical Drug	Drug	RxNorm	Valid	Standard
+42874161	1305222	alpha-tocopherol acetate 1.4 UNT/ML / ascorbic acid 16 MG/ML / biotin 0.004 MG/ML / cholecalciferol 80 UNT/ML / dexpanthenol 1 MG/ML / folic acid 0.028 MG/ML / niacinamide 3.4 MG/ML / pyridoxine hydrochloride 0.2 MG/ML / riboflavin 0.28 MG/ML / thiamin...	Branded Drug	Drug	RxNorm	Valid	Standard
+42874163	1305194	vitamin A 0.14 MG/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+42874235	1304551	vitamin A palmitate 330 UNT/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+42874236	1305216	vitamin A palmitate 460 UNT/ML	Clinical Drug Comp	Drug	RxNorm	Valid	Standard
+43012504	1365980	ascorbic acid 35 MG/ML / cholecalciferol 0.01 MG/ML / sodium fluoride 0.55 MG/ML / vitamin A palmitate 1500 UNT/ML Oral Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+43012505	1365984	ascorbic acid 35 MG/ML / cholecalciferol 0.01 MG/ML / sodium fluoride 1.1 MG/ML / vitamin A palmitate 1500 UNT/ML Oral Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+43012510	1364854	ascorbic acid 60 MG / cholecalciferol 0.01 MG / folic acid 0.3 MG / niacin 13.5 MG / riboflavin 1.2 MG / sodium fluoride 1.1 MG / thiamine 1.05 MG / vitamin A 0.75 MG / vitamin B12 0.0045 MG / vitamin B6 1.05 MG / vitamin E 6.75 MG Chewable Tablet	Clinical Drug	Drug	RxNorm	Valid	Standard
+43012511	1364855	ascorbic acid 60 MG / cholecalciferol 0.01 MG / folic acid 0.3 MG / niacin 13.5 MG / riboflavin 1.2 MG / sodium fluoride 2.2 MG / thiamine 1.05 MG / vitamin A 0.75 MG / vitamin B12 0.0045 MG / vitamin B6 1.05 MG / vitamin E 15 UNT Chewable Tablet	Clinical Drug	Drug	RxNorm	Valid	Standard
+43531816	1425204	Cholecalciferol / Cod Liver Oil / Docosahexaenoate / Eicosapentaenoate / Vitamin A Oral Capsule	Clinical Drug Form	Drug	RxNorm	Invalid	Non-standard
+43532582	1428823	ascorbic acid 60 MG / folic acid 0.3 MG / niacin 13.5 MG / riboflavin 1.2 MG / sodium fluoride 2.2 MG / thiamine 1.05 MG / vitamin A 2500 UNT / vitamin B12 0.0045 MG / vitamin B6 1.05 MG / vitamin D 400 UNT / vitamin E 15 UNT [MVC-Fluoride]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+43532583	1428824	ascorbic acid / folic acid / niacin / riboflavin / sodium fluoride / thiamine / vitamin A / vitamin B12 / vitamin B6 / vitamin D / vitamin E Chewable Tablet [MVC-Fluoride]	Branded Drug Form	Drug	RxNorm	Invalid	Non-standard
+43532634	1429386	ergocalciferol 500 UNT/ML / vitamin A 5000 UNT/ML [Vita Numonyl]	Branded Drug Comp	Drug	RxNorm	Valid	Standard
+43532635	1429387	ergocalciferol / vitamin A Injectable Solution [Vita Numonyl]	Branded Drug Form	Drug	RxNorm	Valid	Standard
+43532824	1428828	ascorbic acid 60 MG / cholecalciferol 0.01 MG / folic acid 0.3 MG / niacin 13.5 MG / riboflavin 1.2 MG / sodium fluoride 2.2 MG / thiamine 1.05 MG / vitamin A 0.75 MG / vitamin B12 0.0045 MG / vitamin B6 1.05 MG / vitamin E 15 UNT Chewable Tablet [MVC-...	Branded Drug	Drug	RxNorm	Valid	Standard
+43532857	1429389	ergocalciferol 500 UNT/ML / vitamin A 5000 UNT/ML Injectable Solution [Vita Numonyl]	Branded Drug	Drug	RxNorm	Valid	Standard
+44818071	1537232	Vitamin A 750 UNT/ML	Clinical Drug Comp	Drug	RxNorm	Invalid	Non-standard
+44818072	1537234	Ascorbic Acid 35 MG/ML / Vitamin A 750 UNT/ML / Vitamin D 400 UNT/ML [Tri-Vi-Sol]	Branded Drug Comp	Drug	RxNorm	Invalid	Non-standard
+44818394	1537233	ascorbic acid 35 MG/ML / cholecalciferol 0.01 MG/ML / vitamin A 0.225 MG/ML Oral Solution	Clinical Drug	Drug	RxNorm	Valid	Standard
+44818395	1537235	ascorbic acid 35 MG/ML / cholecalciferol 0.01 MG/ML / vitamin A 0.225 MG/ML Oral Solution [Tri-Vi-Sol]	Branded Drug	Drug	RxNorm	Valid	Standard

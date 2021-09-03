@@ -1,0 +1,1810 @@
+﻿Id	Code	Name	Standard Class	Domain	Vocab	Validity	Concept
+35206721	D56.4	Hereditary persistence of fetal hemoglobin [HPFH]	4-char billing code	Condition	ICD10CM	Valid	Non-standard
+45532989	D56.5	Hemoglobin E-beta thalassemia	4-char billing code	Condition	ICD10CM	Valid	Non-standard
+1408463	D57.001	-SS hemoglobin disease with crisis (machine translation)	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+1408468	D57.201	Hemoglobin -SC disease (machine translation)	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+1408469	D57.202	Hemoglobin -SD disease (machine translation)	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+1408470	D57.203	Hemoglobin -SE disease (machine translation)	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+1408473	D57.301	Disease hybrid hemoglobin S (machine translation)	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+1408487	D58.201	Hemoglobin -C disease (machine translation)	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+1408488	D58.202	-D hemoglobin disease (machine translation)	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+1408489	D58.203	-E hemoglobin disease (machine translation)	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+1408491	D58.205	Hemoglobin increased (machine translation)	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+1408492	D58.206	Unstable hemoglobin haemolytic disease (machine translation)	ICD10 code	Condition	ICD10CN	Valid	Non-standard
+44819528	282.47	Hemoglobin E-beta thalassemia	5-dig billing code	Condition	ICD9CM	Valid	Non-standard
+"979446	C563050	Alpha-Thalassemia Mental Retardation Syndrome, Deletion-Type	Suppl Concept	Condition	MeSH	Valid	Non-standard"
+45612246	D017085	alpha-Thalassemia	Main Heading	Condition	MeSH	Valid	Non-standard
+45613448	D017086	beta-Thalassemia	Main Heading	Condition	MeSH	Valid	Non-standard
+"45615279	D000755	Anemia, Sickle Cell	Main Heading	Condition	MeSH	Valid	Non-standard"
+45615495	D006445	Hemoglobin C Disease	Main Heading	Condition	MeSH	Valid	Non-standard
+45616406	C563023	Alpha-Thalassemia Myelodysplasia Syndrome	Suppl Concept	Condition	MeSH	Valid	Non-standard
+45619070	D006450	Hemoglobin SC Disease	Main Heading	Condition	MeSH	Valid	Non-standard
+46256890	C581942	Hemoglobin M Disease	Suppl Concept	Condition	MeSH	Valid	Non-standard
+22281	127040003	Sickle cell-hemoglobin SS disease	Clinical Finding	Condition	SNOMED	Valid	Standard
+24006	35434009	Sickle cell-hemoglobin C disease	Clinical Finding	Condition	SNOMED	Valid	Standard
+25518	16402000	Sickle cell trait	Clinical Finding	Condition	SNOMED	Valid	Standard
+26942	417425009	Hemoglobin SS disease with crisis	Clinical Finding	Condition	SNOMED	Valid	Standard
+30683	416180004	Hemoglobin SS disease without crisis	Clinical Finding	Condition	SNOMED	Valid	Standard
+315523	36472007	Sickle cell-thalassemia disease	Clinical Finding	Condition	SNOMED	Valid	Standard
+432868	80141007	Hemoglobinopathy	Clinical Finding	Condition	SNOMED	Valid	Standard
+760844	119641000119103	Homozygous hemoglobin H constant spring thalassemia	Clinical Finding	Condition	SNOMED	Valid	Standard
+760845	119691000119106	Hemoglobin C/beta thalassemia disease	Clinical Finding	Condition	SNOMED	Valid	Standard
+764124	451051000124101	Hemoglobin A1c between 7%-9% indicating borderline diabetic control	Clinical Finding	Condition	SNOMED	Valid	Standard
+764125	451061000124104	Hemoglobin A1c greater than 9% indicating poor diabetic control	Clinical Finding	Condition	SNOMED	Valid	Standard
+765176	119701000119106	Hemoglobin D/beta thalassemia disease	Clinical Finding	Condition	SNOMED	Valid	Standard
+4013073	165396004	Hemoglobin very low	Clinical Finding	Condition	SNOMED	Valid	Standard
+4013074	165397008	Hemoglobin low	Clinical Finding	Condition	SNOMED	Valid	Standard
+4013075	165400004	Hemoglobin borderline high	Clinical Finding	Condition	SNOMED	Valid	Standard
+4013081	165442002	MCH - abnormal	Clinical Finding	Condition	SNOMED	Valid	Standard
+4013082	165446004	MCHC - borderline low	Clinical Finding	Condition	SNOMED	Valid	Standard
+4013083	165447008	MCHC - low	Clinical Finding	Condition	SNOMED	Valid	Standard
+4013239	165437005	MCH - normal	Clinical Finding	Condition	SNOMED	Valid	Standard
+4013240	165439008	MCH - low	Clinical Finding	Condition	SNOMED	Valid	Standard
+4013241	165440005	MCH - raised	Clinical Finding	Condition	SNOMED	Valid	Standard
+4013242	165441009	MCH - borderline raised	Clinical Finding	Condition	SNOMED	Valid	Standard
+4013244	165445000	MCHC - normal	Clinical Finding	Condition	SNOMED	Valid	Standard
+4013401	165398003	Hemoglobin borderline low	Clinical Finding	Condition	SNOMED	Valid	Standard
+4013402	165403002	Hemoglobin abnormal	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+4013520	165448003	MCHC - raised	Clinical Finding	Condition	SNOMED	Valid	Standard
+4013836	165399006	Hemoglobin normal	Clinical Finding	Condition	SNOMED	Valid	Standard
+4013837	165402007	Hemoglobin very high	Clinical Finding	Condition	SNOMED	Valid	Standard
+4013845	165438000	MCH - borderline low	Clinical Finding	Condition	SNOMED	Valid	Standard
+4013846	165449006	MCHC - borderline raised	Clinical Finding	Condition	SNOMED	Valid	Standard
+4031662	14514008	Anemia due to disturbance of hemoglobin synthesis	Clinical Finding	Condition	SNOMED	Valid	Standard
+4037733	131170007	Decreased hemoglobin	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+4038953	131141003	Increased hemoglobin	Clinical Finding	Condition	SNOMED	Valid	Standard
+4061151	16964007	Hereditary persistence of fetal hemoglobin thalassemia	Clinical Finding	Condition	SNOMED	Valid	Standard
+4082253	18273004	Unstable hemoglobin disease	Clinical Finding	Condition	SNOMED	Valid	Standard
+4094597	25065001	Hemoglobin E disease	Clinical Finding	Condition	SNOMED	Valid	Standard
+4094758	250220000	Hemoglobin finding	Clinical Finding	Condition	SNOMED	Valid	Standard
+4094762	250237007	Hemoglobin H inclusions	Clinical Finding	Condition	SNOMED	Valid	Standard
+4098015	191201002	Hereditary persistence of fetal hemoglobin	Clinical Finding	Condition	SNOMED	Valid	Standard
+4100994	191202009	Hemoglobin Zurich disease	Clinical Finding	Condition	SNOMED	Valid	Standard
+4103763	25472008	Sickle cell-hemoglobin D disease	Clinical Finding	Condition	SNOMED	Valid	Standard
+4120455	234392002	Hemoglobin E/beta thalassemia disease	Clinical Finding	Condition	SNOMED	Valid	Standard
+4121114	234387004	Hemoglobin Lepore trait	Clinical Finding	Condition	SNOMED	Valid	Standard
+4121115	234391009	Sickle cell anemia with high hemoglobin F	Clinical Finding	Condition	SNOMED	Valid	Standard
+4121116	234393007	Low affinity hemoglobin	Clinical Finding	Condition	SNOMED	Valid	Standard
+4122933	234394001	High affinity hemoglobin	Clinical Finding	Condition	SNOMED	Valid	Standard
+4125628	234386008	Hemoglobin Constant Spring trait	Clinical Finding	Condition	SNOMED	Valid	Standard
+4130067	127041004	Sickle cell-beta-thalassemia	Clinical Finding	Condition	SNOMED	Valid	Standard
+4131990	264777008	Alteration of hemoglobin concentration	Clinical Finding	Condition	SNOMED	Valid	Standard
+4139556	307343001	Acquired hemoglobin H disease	Clinical Finding	Condition	SNOMED	Valid	Standard
+4140101	32855007	HPFH unlinked to beta-globulin gene cluster	Clinical Finding	Condition	SNOMED	Valid	Standard
+4166115	416290001	Hemoglobin S sickling disorder without crisis	Clinical Finding	Condition	SNOMED	Valid	Standard
+4168911	48553001	Hemoglobin H disease	Clinical Finding	Condition	SNOMED	Valid	Standard
+4176425	51053007	Hemoglobin C disease	Clinical Finding	Condition	SNOMED	Valid	Standard
+4190447	3947004	High oxygen affinity hemoglobin polycythemia	Clinical Finding	Condition	SNOMED	Valid	Standard
+4200254	5300004	Hemoglobin Bart's hydrops syndrome	Clinical Finding	Condition	SNOMED	Valid	Standard
+4203904	54006005	Hereditary persistence of fetal hemoglobin delta beta plus thalassemia	Clinical Finding	Condition	SNOMED	Valid	Standard
+4206913	56205004	HPFH nondeletion type	Clinical Finding	Condition	SNOMED	Valid	Standard
+4209085	440206000	Hemoglobin SS disease with vasoocclusive crisis	Clinical Finding	Condition	SNOMED	Valid	Standard
+4213628	417357006	Sickling disorder due to hemoglobin S	Clinical Finding	Condition	SNOMED	Valid	Standard
+4213820	39586009	HPFH A gamma beta^+^ thalassemia	Clinical Finding	Condition	SNOMED	Valid	Standard
+4214191	416417002	Hereditary hemoglobin S	Clinical Finding	Condition	SNOMED	Valid	Standard
+4216915	417279003	Hemoglobin S sickling disorder with crisis	Clinical Finding	Condition	SNOMED	Valid	Standard
+4226695	405271005	Hemoglobin high	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+4231453	89459006	HPFH linked to beta-globulin gene cluster	Clinical Finding	Condition	SNOMED	Valid	Standard
+4242755	5967006	A>gamma< beta^+^ HPFH AND beta^0^ thalassemia in cis	Clinical Finding	Condition	SNOMED	Valid	Standard
+4246377	397066005	Hemoglobin SC crystals	Clinical Finding	Condition	SNOMED	Valid	Standard
+4252396	7391009	Hemoglobin D trait	Clinical Finding	Condition	SNOMED	Valid	Standard
+4262394	46248003	Hemoglobin E trait	Clinical Finding	Condition	SNOMED	Valid	Standard
+4264017	61395005	Hereditary persistence of fetal hemoglobin G gamma beta plus thalassemia	Clinical Finding	Condition	SNOMED	Valid	Standard
+4264046	47024008	Sickle cell-hemoglobin E disease	Clinical Finding	Condition	SNOMED	Valid	Standard
+4264909	61777009	Thalassemia-hemoglobin C disease	Clinical Finding	Condition	SNOMED	Valid	Standard
+4267513	365611000	Mean cell hemoglobin level - finding	Clinical Finding	Condition	SNOMED	Valid	Standard
+4267514	365612007	Mean cell hemoglobin concentration - finding	Clinical Finding	Condition	SNOMED	Valid	Standard
+"4267675	365809007	Hemoglobin concentration, dipstick - finding	Clinical Finding	Condition	SNOMED	Valid	Standard"
+4269700	365614008	Hemoglobin variant finding	Clinical Finding	Condition	SNOMED	Valid	Standard
+4273302	365613002	Presence of hemoglobin - finding	Clinical Finding	Condition	SNOMED	Valid	Standard
+4276582	365845005	Hemoglobin A1C - diabetic control finding	Clinical Finding	Condition	SNOMED	Valid	Standard
+4280961	66729008	Hemoglobin D disease	Clinical Finding	Condition	SNOMED	Valid	Standard
+4287329	397067001	Hemoglobin C crystals	Clinical Finding	Condition	SNOMED	Valid	Standard
+4290871	3720003	Abnormal presence of hemoglobin	Clinical Finding	Condition	SNOMED	Valid	Standard
+4295183	38589006	Mixed hemoglobin disorder	Clinical Finding	Condition	SNOMED	Valid	Standard
+4296149	76050008	Hemoglobin C trait	Clinical Finding	Condition	SNOMED	Valid	Standard
+4306250	165681007	Hemoglobin A1c greater than 10% indicating poor diabetic control	Clinical Finding	Condition	SNOMED	Valid	Standard
+4306438	165679005	Hemoglobin A1c less than 7% indicating good diabetic control	Clinical Finding	Condition	SNOMED	Valid	Standard
+4306587	165680008	Hemoglobin A1c between 7%-10% indicating borderline diabetic control	Clinical Finding	Condition	SNOMED	Valid	Standard
+4311673	85557000	HPFH deletion type	Clinical Finding	Condition	SNOMED	Valid	Standard
+4327189	74912001	Hemoglobin M disease	Clinical Finding	Condition	SNOMED	Valid	Standard
+36712970	15758261000119106	Presence of unidentified hemoglobin variant	Clinical Finding	Condition	SNOMED	Valid	Standard
+36713359	681401000119103	Presence of hemoglobin alpha-chain variant	Clinical Finding	Condition	SNOMED	Valid	Standard
+36713360	681421000119107	Presence of hemoglobin delta chain variant	Clinical Finding	Condition	SNOMED	Valid	Standard
+37204287	782880001	Hemoglobinopathy Toms River	Clinical Finding	Condition	SNOMED	Valid	Standard
+37204550	783254003	Hereditary persistence of fetal hemoglobin with sickle cell disease syndrome	Clinical Finding	Condition	SNOMED	Valid	Standard
+40286212	124963003	Increased hemoglobin	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40286213	124964009	Decreased hemoglobin	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40301216	142805001	Hemoglobin very low	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40301217	142806000	Hemoglobin low	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40301218	142807009	Hemoglobin borderline low	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40301219	142808004	Hemoglobin normal	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40301220	142809007	Hemoglobin borderline high	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40301221	142810002	Hemoglobin high	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40301223	142811003	Hemoglobin very high	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40301224	142812005	Hemoglobin abnormal	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40301225	142813000	Hemoglobin H inclusion	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40301271	142855009	Mean cell hemoglobin concentration	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40302395	143077001	Hemoglobin variant test	Procedure	Condition	SNOMED	Invalid	Non-standard
+40321272	154797001	Hemoglobin S trait	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40332329	165401000	Hemoglobin high	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40332332	165404008	Hemoglobin H inclusion	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40333049	165675004	Hemoglobin variant test	Procedure	Condition	SNOMED	Invalid	Non-standard
+40390025	191185003	Hemoglobin S/beta thalassemia	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40420250	21976009	Hemoglobin S disease without crisis	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40451474	250223003	Hemoglobin S solubility	Procedure	Condition	SNOMED	Invalid	Non-standard
+40480513	441793007	Hemoglobin level outside reference range	Clinical Finding	Condition	SNOMED	Valid	Standard
+40480694	444751005	High hemoglobin A1c level	Clinical Finding	Condition	SNOMED	Valid	Standard
+40484201	445542007	Hemoglobin O-Arab trait	Clinical Finding	Condition	SNOMED	Valid	Standard
+40491316	447117006	Hemoglobin H constant spring thalassemia	Clinical Finding	Condition	SNOMED	Valid	Standard
+40621358	72279006	Hemoglobin S disease with crisis	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+40626820	80046004	Hemoglobin S disease	Clinical Finding	Condition	SNOMED	Invalid	Non-standard
+45763851	700374007	Hemoglobin electrophoresis normal	Clinical Finding	Condition	SNOMED	Valid	Standard
+4033813	109178003	Hematocrit/hemoglobin test kit	Physical Object	Device	SNOMED	Valid	Standard
+45878739	LA12869-6	Hemoglobin casts	Answer	Meas Value	LOINC	Valid	Standard
+45880359	LA11231-0	Hemoglobin C crystals	Answer	Meas Value	LOINC	Valid	Standard
+45884181	LA18561-3	Hb S/Hereditary persistence of fetal hemoglobin	Answer	Meas Value	LOINC	Valid	Standard
+45884182	LA18562-1	Homozygous Hereditary persistence of fetal hemoglobin	Answer	Meas Value	LOINC	Valid	Standard
+"724974	1031057	HBB (hemoglobin, subunit beta) (eg, sickle cell anemia, beta thalassemia, hemoglobinopathy)	CPT4 Hierarchy	Measurement	CPT4	Valid	Classification"
+"725097	81361	HBB (hemoglobin, subunit beta) (eg, sickle cell anemia, beta thalassemia, hemoglobinopathy); common variant(s) (eg, HbS, HbC, HbE)	CPT4	Measurement	CPT4	Valid	Standard"
+"725098	81362	HBB (hemoglobin, subunit beta) (eg, sickle cell anemia, beta thalassemia, hemoglobinopathy); known familial variant(s)	CPT4	Measurement	CPT4	Valid	Standard"
+"725099	81363	HBB (hemoglobin, subunit beta) (eg, sickle cell anemia, beta thalassemia, hemoglobinopathy); duplication/deletion variant(s)	CPT4	Measurement	CPT4	Valid	Standard"
+"725100	81364	HBB (hemoglobin, subunit beta) (eg, sickle cell anemia, beta thalassemia, hemoglobinopathy); full gene sequence	CPT4	Measurement	CPT4	Valid	Standard"
+"2212165	81000	Urinalysis, by dip stick or tablet reagent for bilirubin, glucose, hemoglobin, ketones, leukocytes, nitrite, pH, protein, specific gravity, urobilinogen, any number of these constituents; non-automated, with microscopy	CPT4	Measurement	CPT4	Valid	Standard"
+"2212166	81001	Urinalysis, by dip stick or tablet reagent for bilirubin, glucose, hemoglobin, ketones, leukocytes, nitrite, pH, protein, specific gravity, urobilinogen, any number of these constituents; automated, with microscopy	CPT4	Measurement	CPT4	Valid	Standard"
+"2212167	81002	Urinalysis, by dip stick or tablet reagent for bilirubin, glucose, hemoglobin, ketones, leukocytes, nitrite, pH, protein, specific gravity, urobilinogen, any number of these constituents; non-automated, without microscopy	CPT4	Measurement	CPT4	Valid	Standard"
+"2212168	81003	Urinalysis, by dip stick or tablet reagent for bilirubin, glucose, hemoglobin, ketones, leukocytes, nitrite, pH, protein, specific gravity, urobilinogen, any number of these constituents; automated, without microscopy	CPT4	Measurement	CPT4	Valid	Standard"
+"2212235	82274	Blood, occult, by fecal hemoglobin determination by immunoassay, qualitative, feces, 1-3 simultaneous determinations	CPT4	Measurement	CPT4	Valid	Standard"
+2212351	82820	Hemoglobin-oxygen affinity (pO2 for 50% hemoglobin saturation with oxygen)	CPT4	Measurement	CPT4	Valid	Standard
+"2212387	83020	Hemoglobin fractionation and quantitation; electrophoresis (eg, A2, S, C, and/or F)	CPT4	Measurement	CPT4	Valid	Standard"
+"2212388	83021	Hemoglobin fractionation and quantitation; chromatography (eg, A2, S, C, and/or F)	CPT4	Measurement	CPT4	Valid	Standard"
+"2212389	83026	Hemoglobin; by copper sulfate method, non-automated	CPT4	Measurement	CPT4	Valid	Standard"
+"2212390	83030	Hemoglobin; F (fetal), chemical	CPT4	Measurement	CPT4	Valid	Standard"
+"2212391	83033	Hemoglobin; F (fetal), qualitative	CPT4	Measurement	CPT4	Valid	Standard"
+2212392	83036	Hemoglobin; glycosylated (A1C)	CPT4	Measurement	CPT4	Valid	Standard
+2212393	83037	Hemoglobin; glycosylated (A1C) by device cleared by FDA for home use	CPT4	Measurement	CPT4	Valid	Standard
+"2212394	83045	Hemoglobin; methemoglobin, qualitative	CPT4	Measurement	CPT4	Valid	Standard"
+"2212395	83050	Hemoglobin; methemoglobin, quantitative	CPT4	Measurement	CPT4	Valid	Standard"
+2212396	83051	Hemoglobin; plasma	CPT4	Measurement	CPT4	Valid	Standard
+"2212397	83055	Hemoglobin; sulfhemoglobin, qualitative (Deprecated)	CPT4	Measurement	CPT4	Valid	Standard"
+"2212398	83060	Hemoglobin; sulfhemoglobin, quantitative	CPT4	Measurement	CPT4	Valid	Standard"
+2212399	83065	Hemoglobin; thermolabile	CPT4	Measurement	CPT4	Valid	Standard
+"2212400	83068	Hemoglobin; unstable, screen	CPT4	Measurement	CPT4	Valid	Standard"
+2212401	83069	Hemoglobin; urine	CPT4	Measurement	CPT4	Valid	Standard
+"2212402	83070	Hemosiderin, qualitative	CPT4	Measurement	CPT4	Valid	Standard"
+2212403	83071	Hemosiderin (hemoglobin breakdown product) level (Deprecated)	CPT4	Measurement	CPT4	Valid	Standard
+2212641	85013	Blood count; spun microhematocrit	CPT4	Measurement	CPT4	Valid	Standard
+2212643	85018	Blood count; hemoglobin (Hgb)	CPT4	Measurement	CPT4	Valid	Standard
+"2212648	85025	Blood count; complete (CBC), automated (Hgb, Hct, RBC, WBC and platelet count) and automated differential WBC count	CPT4	Measurement	CPT4	Valid	Standard"
+"2212649	85027	Blood count; complete (CBC), automated (Hgb, Hct, RBC, WBC and platelet count)	CPT4	Measurement	CPT4	Valid	Standard"
+"2212655	85046	Blood count; reticulocytes, automated, including 1 or more cellular parameters (eg, reticulocyte hemoglobin content [CHr], immature reticulocyte fraction [IRF], reticulocyte volume [MRV], RNA content), direct measurement	CPT4	Measurement	CPT4	Valid	Standard"
+"2212713	85460	Hemoglobin or RBCs, fetal, for fetomaternal hemorrhage; differential lysis (Kleihauer-Betke)	CPT4	Measurement	CPT4	Valid	Standard"
+"2212714	85461	Hemoglobin or RBCs, fetal, for fetomaternal hemorrhage; rosette	CPT4	Measurement	CPT4	Valid	Standard"
+"2213324	88740	Hemoglobin, quantitative, transcutaneous, per day; carboxyhemoglobin	CPT4	Measurement	CPT4	Valid	Standard"
+"2213325	88741	Hemoglobin, quantitative, transcutaneous, per day; methemoglobin	CPT4	Measurement	CPT4	Valid	Standard"
+"40756996	88738	Hemoglobin (Hgb), quantitative, transcutaneous	CPT4	Measurement	CPT4	Valid	Standard"
+"42742371	81401	Molecular pathology procedure, Level 2	CPT4	Measurement	CPT4	Valid	Standard"
+"42742373	81403	Molecular pathology procedure, Level 4	CPT4	Measurement	CPT4	Valid	Standard"
+"42742374	81404	Molecular pathology procedure, Level 5	CPT4	Measurement	CPT4	Valid	Standard"
+"45888048	1011838	Hemoglobin or RBCs, fetal, for fetomaternal hemorrhage	CPT4 Hierarchy	Measurement	CPT4	Valid	Classification"
+"45889243	1011224	Urinalysis, by dip stick or tablet reagent for bilirubin, glucose, hemoglobin, ketones, leukocytes, nitrite, pH, protein, specific gravity, urobilinogen, any number of these constituents	CPT4 Hierarchy	Measurement	CPT4	Valid	Classification"
+"45889532	1019317	Hemoglobin, quantitative, transcutaneous, per day	CPT4 Hierarchy	Measurement	CPT4	Valid	Classification"
+45889912	1011483	Hemoglobin	CPT4 Hierarchy	Measurement	CPT4	Valid	Classification
+45890013	1011480	Hemoglobin fractionation and quantitation	CPT4 Hierarchy	Measurement	CPT4	Valid	Classification
+1002216	93846-4	Hemoglobin [Moles/volume] in Venous blood	Lab Test	Measurement	LOINC	Valid	Standard
+1175293	90925-9	HBB gene full mutation analysis in Amniotic fluid or Chorionic villus sample by Sequencing	Lab Test	Measurement	LOINC	Valid	Standard
+3000061	32140-6	Hemoglobin F [Presence] in Blood by Kleihauer-Betke method	Lab Test	Measurement	LOINC	Valid	Standard
+3000090	4554-2	Hemoglobin A2/Hemoglobin.total in Blood by Electrophoresis alkaline (pH 8.9)	Lab Test	Measurement	LOINC	Valid	Standard
+3000148	4626-8	Hemoglobin Yakima [Presence] in Blood	Lab Test	Measurement	LOINC	Valid	Standard
+3000173	19951-3	Oxyhemoglobin/Hemoglobin.total (8 hour minimum) in Arterial blood	Clinical Observation	Measurement	LOINC	Valid	Standard
+3000314	724-5	Hemoglobin [Mass/volume] in Synovial fluid	Lab Test	Measurement	LOINC	Valid	Standard
+3000677	4557-5	Hemoglobin Abruzzo [Presence] in Blood by Electrophoresis alkaline (pH 8.9)	Lab Test	Measurement	LOINC	Valid	Standard
+3000703	19948-9	Deprecated Fractional oxyhemoglobin in 8 hour maximum by Pulse oximetry	Clinical Observation	Measurement	LOINC	Invalid	Non-standard
+3000750	4629-2	Hemoglobin Zurich [Presence] in Blood by Electrophoresis acid (pH 6.3)	Lab Test	Measurement	LOINC	Valid	Standard
+3000805	4560-9	Hemoglobin Bethesda [Presence] in Blood	Lab Test	Measurement	LOINC	Valid	Standard
+3000873	4632-6	Hemoglobin F [Presence] in Blood by Alkali denaturation	Lab Test	Measurement	LOINC	Valid	Standard
+3000963	718-7	Hemoglobin [Mass/volume] in Blood	Lab Test	Measurement	LOINC	Valid	Standard
+3001094	28006-5	Hemoglobin F [Presence] in Vomitus	Lab Test	Measurement	LOINC	Valid	Standard
+3001124	727-8	Deprecated Hemoglobin distribution width [Length] in Blood by Automated count	Lab Test	Measurement	LOINC	Invalid	Non-standard
+3001213	19954-7	Deprecated Fractional oxyhemoglobin in Blood Postductal by Pulse oximetry	Clinical Observation	Measurement	LOINC	Invalid	Non-standard
+3001257	4635-9	Free Hemoglobin [Mass/volume] in Serum	Lab Test	Measurement	LOINC	Valid	Standard
+3001258	4563-3	Hemoglobin C/Hemoglobin.total in Blood	Lab Test	Measurement	LOINC	Valid	Standard
+3001407	19960-4	Deprecated Fractional oxyhemoglobin by Pulse oximetry --on room air	Clinical Observation	Measurement	LOINC	Invalid	Non-standard
+3001643	24360-0	Hemoglobin and Hematocrit panel - Blood	Lab Test	Measurement	LOINC	Valid	Standard
+3001758	19953-9	Fractional oxyhemoglobin in Blood Preductal	Clinical Observation	Measurement	LOINC	Valid	Standard
+3001851	4556-7	Hemoglobin Abruzzo [Presence] in Blood by Electrophoresis acid (pH 6.3)	Lab Test	Measurement	LOINC	Valid	Standard
+3001913	4628-4	Hemoglobin Ypsilanti [Presence] in Blood	Lab Test	Measurement	LOINC	Valid	Standard
+3002173	30313-1	Hemoglobin [Mass/volume] in Arterial blood	Lab Test	Measurement	LOINC	Valid	Standard
+3002349	4562-5	Hemoglobin C/Hemoglobin.total in Blood by Electrophoresis alkaline (pH 8.9)	Lab Test	Measurement	LOINC	Valid	Standard
+3002420	4634-2	Deprecated Hemoglobin F/Hemoglobin.total in Blood by Kleihauer-Betke method	Lab Test	Measurement	LOINC	Invalid	Non-standard
+3002510	14134-1	Deprecated Free Hemoglobin [Mass/volume] in Serum	Lab Test	Measurement	LOINC	Invalid	Non-standard
+3002719	726-0	Hemoglobin [Mass/volume] in Urine	Lab Test	Measurement	LOINC	Valid	Standard
+3002881	19952-1	Deprecated Fractional oxyhemoglobin in Blood Preductal by Pulse oximetry	Clinical Observation	Measurement	LOINC	Invalid	Non-standard
+3002908	4561-7	Hemoglobin C/Hemoglobin.total in Blood by Electrophoresis acid (pH 6.3)	Lab Test	Measurement	LOINC	Valid	Standard
+3002957	4555-9	Hemoglobin A3/Hemoglobin.total in Blood	Lab Test	Measurement	LOINC	Valid	Standard
+3003021	4627-6	Hemoglobin Yoshizuka [Presence] in Blood	Lab Test	Measurement	LOINC	Valid	Standard
+3003309	4549-2	Hemoglobin A1c/Hemoglobin.total in Blood by Electrophoresis	Lab Test	Measurement	LOINC	Valid	Standard
+3003344	725-2	Hemoglobin [Presence] in Urine	Lab Test	Measurement	LOINC	Valid	Standard
+3003515	4633-4	Hemoglobin F/Hemoglobin.total in Blood by Kleihauer-Betke method	Lab Test	Measurement	LOINC	Valid	Standard
+3003675	719-5	Hemoglobin [Mass/volume] in Cerebral spinal fluid	Lab Test	Measurement	LOINC	Valid	Standard
+3004119	30350-3	Hemoglobin [Mass/volume] in Venous blood	Lab Test	Measurement	LOINC	Valid	Standard
+3004158	4587-2	Hemoglobin H/Hemoglobin.total in Blood by Electrophoresis	Lab Test	Measurement	LOINC	Valid	Standard
+3004410	4548-4	Hemoglobin A1c/Hemoglobin.total in Blood	Lab Test	Measurement	LOINC	Valid	Standard
+3004673	4593-0	Hemoglobin I [Presence] in Blood by Electrophoresis acid (pH 6.3)	Lab Test	Measurement	LOINC	Valid	Standard
+3004839	19225-2	Deoxyhemoglobin/Hemoglobin.total in Arterial blood	Lab Test	Measurement	LOINC	Valid	Standard
+3004979	13515-2	Hemoglobin pattern [Interpretation] in Blood by Electrophesis citrate agar Narrative	Lab Test	Measurement	LOINC	Valid	Standard
+3005076	4553-4	Hemoglobin A2/Hemoglobin.total in Blood by Electrophoresis acid (pH 6.3)	Lab Test	Measurement	LOINC	Valid	Standard
+3005081	4625-0	Hemoglobin S/Hemoglobin.total in Blood	Lab Test	Measurement	LOINC	Valid	Standard
+3005131	27353-2	Glucose mean value [Mass/volume] in Blood Estimated from glycated hemoglobin	Lab Test	Measurement	LOINC	Valid	Standard
+3005299	19950-5	Deprecated Fractional oxyhemoglobin in 8 hour minimum by Pulse oximetry	Clinical Observation	Measurement	LOINC	Invalid	Non-standard
+3005395	4631-8	Hemoglobin F [Presence] in Stool by Apt-Downey method	Lab Test	Measurement	LOINC	Valid	Standard
+3005446	4547-6	Hemoglobin A1/Hemoglobin.total in Blood	Lab Test	Measurement	LOINC	Valid	Standard
+3005494	14276-0	Hemoglobin F distribution [Interpretation] in Blood by Kleihauer-Betke method	Lab Test	Measurement	LOINC	Valid	Standard
+3005566	4619-3	Hemoglobin Ranier [Presence] in Blood	Lab Test	Measurement	LOINC	Valid	Standard
+3005672	4601-1	Hemoglobin Kempsey [Presence] in Blood by Electrophoresis acid (pH 6.3)	Lab Test	Measurement	LOINC	Valid	Standard
+3005673	17856-6	Hemoglobin A1c/Hemoglobin.total in Blood by HPLC	Lab Test	Measurement	LOINC	Valid	Standard
+3005680	4589-8	Hemoglobin Hasharon [Presence] in Blood by Electrophoresis acid (pH 6.3)	Lab Test	Measurement	LOINC	Valid	Standard
+3005822	4595-5	Hemoglobin J - Baltimore [Presence] in Blood by Electrophoresis acid (pH 6.3)	Lab Test	Measurement	LOINC	Valid	Standard
+3005872	717-9	Hemoglobin [Presence] in Blood	Lab Test	Measurement	LOINC	Valid	Standard
+3006115	18277-4	Hemoglobin F [Presence] in Gastric fluid by Apt-Downey method	Lab Test	Measurement	LOINC	Valid	Standard
+3006184	30352-9	Hemoglobin [Mass/volume] in Capillary blood	Lab Test	Measurement	LOINC	Valid	Standard
+3006239	14775-1	Hemoglobin [Mass/volume] in Arterial blood by Oximetry	Lab Test	Measurement	LOINC	Valid	Standard
+3006278	19227-8	Deoxyhemoglobin/Hemoglobin.total in Venous blood	Lab Test	Measurement	LOINC	Valid	Standard
+3006400	19913-3	Diffusion capacity.carbon monoxide adjusted for hemoglobin	Clinical Observation	Measurement	LOINC	Valid	Standard
+3006458	21691-1	HBB gene mutations tested for in Blood or Tissue by Molecular genetics method Nominal	Lab Test	Measurement	LOINC	Valid	Standard
+3006841	24470-7	Hemoglobin A2+XXX/Hemoglobin.total in Blood by Electrophoresis	Lab Test	Measurement	LOINC	Valid	Standard
+3006988	4594-8	Hemoglobin I [Presence] in Blood by Electrophoresis alkaline (pH 8.9)	Lab Test	Measurement	LOINC	Valid	Standard
+3007263	17855-8	Hemoglobin A1c/Hemoglobin.total in Blood by calculation	Lab Test	Measurement	LOINC	Valid	Standard
+3007302	30351-1	Hemoglobin [Mass/volume] in Mixed venous blood	Lab Test	Measurement	LOINC	Valid	Standard
+3007324	4600-3	Hemoglobin Kansas [Presence] in Blood	Lab Test	Measurement	LOINC	Valid	Standard
+3007339	4588-0	Hemoglobin H/Hemoglobin.total in Blood	Lab Test	Measurement	LOINC	Valid	Standard
+3007474	21690-3	HBB gene p.Glu6Val [Presence] in Blood or Tissue by Molecular genetics method	Lab Test	Measurement	LOINC	Valid	Standard
+3007558	19912-5	Diffusion capacity.carbon monoxide adjusted for hemoglobin by Helium single breath	Clinical Observation	Measurement	LOINC	Valid	Standard
+3007998	19226-0	Deoxyhemoglobin/Hemoglobin.total in Capillary blood	Lab Test	Measurement	LOINC	Valid	Standard
+3008093	19968-7	Deprecated Fractional oxyhemoglobin by Pulse oximetry --pre physiotherapy	Clinical Observation	Measurement	LOINC	Invalid	Non-standard
+3008139	4577-3	Hemoglobin F - Texas [Presence] in Blood by Electrophoresis acid (pH 6.3)	Lab Test	Measurement	LOINC	Valid	Standard
+3008430	12711-8	Hemoglobin A region [Presence] in Blood by Electrophoresis alkaline (pH 8.9)	Lab Test	Measurement	LOINC	Valid	Standard
+3009030	4583-1	Hemoglobin G - Georgia [Presence] in Blood by Electrophoresis acid (pH 6.3)	Lab Test	Measurement	LOINC	Valid	Standard
+3009131	20572-4	Hemoglobin A/Hemoglobin.total in Blood by Electrophoresis	Lab Test	Measurement	LOINC	Valid	Standard
+3009367	4568-2	Hemoglobin Constant Spring [Presence] in Blood by Electrophoresis alkaline (pH 8.9)	Lab Test	Measurement	LOINC	Valid	Standard
+3009516	4581-5	Hemoglobin G - Coushatta [Presence] in Blood by Electrophoresis acid (pH 6.3)	Lab Test	Measurement	LOINC	Valid	Standard
+3009748	4615-1	Hemoglobin N - Seattle [Presence] in Blood by Electrophoresis acid (pH 6.3)	Lab Test	Measurement	LOINC	Valid	Standard
+3009985	19965-3	Fractional oxyhemoglobin in Arterial blood --post treatment	Clinical Observation	Measurement	LOINC	Valid	Standard
+3009995	32160-4	Carboxyhemoglobin [Presence] in Blood by Screen method	Lab Test	Measurement	LOINC	Valid	Standard
+3010418	4621-9	Hemoglobin S [Presence] in Blood	Lab Test	Measurement	LOINC	Valid	Standard
+3010517	2032-1	Carboxyhemoglobin/Hemoglobin.total in Venous blood	Lab Test	Measurement	LOINC	Valid	Standard
+3010591	4616-9	Hemoglobin N - Seattle [Presence] in Blood by Electrophoresis alkaline (pH 8.9)	Lab Test	Measurement	LOINC	Valid	Standard
+3010748	16931-8	Hematocrit/Hemoglobin [Ratio] of Blood by Automated count	Lab Test	Measurement	LOINC	Valid	Standard
+3011132	4607-8	Hemoglobin M - Hyde Park [Presence] in Blood	Lab Test	Measurement	LOINC	Valid	Standard
+3011234	4606-0	Hemoglobin M - Boston [Presence] in Blood	Lab Test	Measurement	LOINC	Valid	Standard
+3011397	5794-3	Hemoglobin [Presence] in Urine by Test strip	Lab Test	Measurement	LOINC	Valid	Standard
+3011550	31157-1	Carboxyhemoglobin [Mass/volume] in Blood	Lab Test	Measurement	LOINC	Valid	Standard
+3011689	4536-9	Deoxyhemoglobin/Hemoglobin.total in Blood	Lab Test	Measurement	LOINC	Valid	Standard
+3011749	4608-6	Hemoglobin M - Iwate [Presence] in Blood	Lab Test	Measurement	LOINC	Valid	Standard
+3011894	4612-8	Hemoglobin Malmo [Presence] in Blood by Electrophoresis alkaline (pH 8.9)	Lab Test	Measurement	LOINC	Valid	Standard
+3012041	4470-1	Choleglobin/Hemoglobin.total in Blood	Lab Test	Measurement	LOINC	Valid	Standard
+3012639	4614-4	Hemoglobin N - Baltimore [Presence] in Blood by Electrophoresis alkaline (pH 8.9)	Lab Test	Measurement	LOINC	Valid	Standard
+3013179	4569-0	Hemoglobin D/Hemoglobin.total in Blood	Lab Test	Measurement	LOINC	Valid	Standard
+3013300	4620-1	Deprecated Hemoglobin S/Hemoglobin.total in Blood	Lab Test	Measurement	LOINC	Invalid	Non-standard
+3013491	19966-1	Deprecated Fractional oxyhemoglobin by Pulse oximetry --pre bronchodilation	Clinical Observation	Measurement	LOINC	Invalid	Non-standard
+3013497	20492-5	Deprecated Hemoglobin pattern [interpretation] in Blood by Electrophoresis Narrative	Lab Test	Measurement	LOINC	Invalid	Non-standard
+3013530	4575-7	Hemoglobin E/Hemoglobin.total in Blood	Lab Test	Measurement	LOINC	Valid	Standard
+3013764	4609-4	Hemoglobin M - Milwaukee [Presence] in Blood	Lab Test	Measurement	LOINC	Valid	Standard
+3013999	19959-6	Fractional oxyhemoglobin in Arterial blood --during treatment	Clinical Observation	Measurement	LOINC	Valid	Standard
+3014007	2714-4	Fractional oxyhemoglobin in Arterial blood	Lab Test	Measurement	LOINC	Valid	Standard
+3014354	4550-0	Hemoglobin A2 [Moles/volume] in Blood by Chromatography column	Lab Test	Measurement	LOINC	Valid	Standard
+3014482	13514-5	Hemoglobin pattern [Interpretation] in Blood by Electrophoresis Narrative	Lab Test	Measurement	LOINC	Valid	Standard
+3014644	4622-7	Hemoglobin S [Presence] in Blood by Electrophoresis acid (pH 6.3)	Lab Test	Measurement	LOINC	Valid	Standard
+3014646	11559-2	Fractional oxyhemoglobin in Blood	Lab Test	Measurement	LOINC	Valid	Standard
+3014732	4582-3	Hemoglobin G - Coushatta [Units/volume] in Blood by Electrophoresis alkaline (pH 8.9)	Lab Test	Measurement	LOINC	Valid	Standard
+3014936	19969-5	Fractional oxyhemoglobin in Arterial blood --pre physiotherapy	Clinical Observation	Measurement	LOINC	Valid	Standard
+3015217	4578-1	Hemoglobin F - Texas [Units/volume] in Blood by Electrophoresis alkaline (pH 8.9)	Lab Test	Measurement	LOINC	Valid	Standard
+3015697	12710-0	Hemoglobin pattern [Interpretation] in Blood	Lab Test	Measurement	LOINC	Valid	Standard
+3015745	4579-9	Hemoglobin F [Presence] in Blood	Lab Test	Measurement	LOINC	Valid	Standard
+3015870	4584-9	Hemoglobin G - Georgia [Presence] in Blood by Electrophoresis alkaline (pH 8.9)	Lab Test	Measurement	LOINC	Valid	Standard
+3016245	16932-6	Hemoglobin A3/Hemoglobin.total in Blood by Electrophoresis	Lab Test	Measurement	LOINC	Valid	Standard
+3016408	4585-6	Hemoglobin G - Philadelphia [Presence] in Blood by Electrophoresis acid (pH 6.3)	Lab Test	Measurement	LOINC	Valid	Standard
+3016629	4586-4	Hemoglobin G - Philadelphia [Presence] in Blood by Electrophoresis alkaline (pH 8.9)	Lab Test	Measurement	LOINC	Valid	Standard
+3016756	4590-6	Hemoglobin Hasharon [Presence] in Blood by Electrophoresis alkaline (pH 8.9)	Lab Test	Measurement	LOINC	Valid	Standard
+3017077	12712-6	Hemoglobin S+D+G region [Presence] in Blood by Electrophoresis alkaline (pH 8.9)	Lab Test	Measurement	LOINC	Valid	Standard
+3017154	10346-5	Hemoglobin A [Units/volume] in Blood by Electrophoresis	Lab Test	Measurement	LOINC	Valid	Standard
+3017300	4591-4	Hemoglobin Hope [Presence] in Blood by Electrophoresis acid (pH 6.3)	Lab Test	Measurement	LOINC	Valid	Standard
+3017572	28559-3	Hemoglobin A2 [Presence] in Blood	Lab Test	Measurement	LOINC	Valid	Standard
+3017624	12713-4	Hemoglobin C+E+O+A2 region [Presence] in Blood by Electrophoresis alkaline (pH 8.9)	Lab Test	Measurement	LOINC	Valid	Standard
+3017828	4592-2	Hemoglobin Hope [Presence] in Blood by Electrophoresis alkaline (pH 8.9)	Lab Test	Measurement	LOINC	Valid	Standard
+3017974	6864-3	Hemoglobin S [Presence] in Blood by Solubility test	Lab Test	Measurement	LOINC	Valid	Standard
+3018663	5913-9	Hemoglobin F/Hemoglobin.total in Amniotic fluid	Lab Test	Measurement	LOINC	Valid	Standard
+3018692	19967-9	Fractional oxyhemoglobin in Arterial blood --pre bronchodilation	Clinical Observation	Measurement	LOINC	Valid	Standard
+3018722	30399-0	Deprecated Hemoglobin distribution width [Length] in Blood	Lab Test	Measurement	LOINC	Invalid	Non-standard
+3018738	4576-5	Hemoglobin F/Hemoglobin.total in Blood	Lab Test	Measurement	LOINC	Valid	Standard
+3018975	720-3	Free Hemoglobin [Presence] in Plasma	Lab Test	Measurement	LOINC	Valid	Standard
+3019108	4636-7	Free Hemoglobin [Mass/volume] in Urine	Lab Test	Measurement	LOINC	Valid	Standard
+3019230	2716-9	Fractional oxyhemoglobin in Venous blood	Lab Test	Measurement	LOINC	Valid	Standard
+3019337	2029-7	Deprecated Carboxyhemoglobin	Lab Test	Measurement	LOINC	Invalid	Non-standard
+3019456	2717-7	Fractional oxyhemoglobin in Plasma	Lab Test	Measurement	LOINC	Valid	Standard
+3019561	28067-7	Hemoglobin F [Presence] in Amniotic fluid	Lab Test	Measurement	LOINC	Valid	Standard
+3019726	19961-2	Fractional oxyhemoglobin in Arterial blood --on room air	Clinical Observation	Measurement	LOINC	Valid	Standard
+3019758	4570-8	Hemoglobin D - Punjab [Presence] in Blood by Electrophoresis acid (pH 6.3)	Lab Test	Measurement	LOINC	Valid	Standard
+3020093	30369-3	Fractional oxyhemoglobin in Venous cord blood	Lab Test	Measurement	LOINC	Valid	Standard
+3020111	4618-5	Hemoglobin O - Arab [Presence] in Blood by Electrophoresis alkaline (pH 8.9)	Lab Test	Measurement	LOINC	Valid	Standard
+3020187	27345-8	Hemoglobin A2 [Presence] in Blood by Electrophoresis	Lab Test	Measurement	LOINC	Valid	Standard
+3020197	4617-7	Hemoglobin O - Arab [Presence] in Blood by Electrophoresis acid (pH 6.3)	Lab Test	Measurement	LOINC	Valid	Standard
+3020245	19958-8	Deprecated Fractional oxyhemoglobin by Pulse oximetry --during treatment	Clinical Observation	Measurement	LOINC	Invalid	Non-standard
+3020277	4580-7	Hemoglobin F1/Hemoglobin.total in Blood	Lab Test	Measurement	LOINC	Valid	Standard
+3020428	4546-8	Hemoglobin A/Hemoglobin.total in Blood	Lab Test	Measurement	LOINC	Valid	Standard
+3020542	19971-1	Fractional oxyhemoglobin in Arterial blood --pre treatment	Clinical Observation	Measurement	LOINC	Valid	Standard
+3020784	4551-8	Hemoglobin A2/Hemoglobin.total in Blood	Lab Test	Measurement	LOINC	Valid	Standard
+3021009	4552-6	Hemoglobin A2/Hemoglobin.total in Blood by Electrophoresis	Lab Test	Measurement	LOINC	Valid	Standard
+3021080	4624-3	Deprecated Hemoglobin S	Lab Test	Measurement	LOINC	Invalid	Non-standard
+3021087	4623-5	Hemoglobin S [Presence] in Blood by Electrophoresis alkaline (pH 8.9)	Lab Test	Measurement	LOINC	Valid	Standard
+3021329	30074-9	Hemoglobin F [Presence] in Specimen	Lab Test	Measurement	LOINC	Valid	Standard
+3021565	9749-3	Hemoglobin F [Units/volume] in Blood by Electrophoresis	Lab Test	Measurement	LOINC	Valid	Standard
+3021969	4630-0	Hemoglobin Zurich [Presence] in Blood by Electrophoresis alkaline (pH 8.9)	Lab Test	Measurement	LOINC	Valid	Standard
+3022023	19228-6	Deoxyhemoglobin/Hemoglobin.total in Mixed venous blood	Lab Test	Measurement	LOINC	Valid	Standard
+3022493	721-1	Free Hemoglobin [Mass/volume] in Plasma	Lab Test	Measurement	LOINC	Valid	Standard
+3022613	716-1	Heinz bodies [Presence] in Blood by Light microscopy	Lab Test	Measurement	LOINC	Valid	Standard
+3022806	2715-1	Fractional oxyhemoglobin in Capillary blood	Lab Test	Measurement	LOINC	Valid	Standard
+3023056	4574-0	Hemoglobin E/Hemoglobin.total in Blood by Electrophoresis alkaline (pH 8.9)	Lab Test	Measurement	LOINC	Valid	Standard
+3023081	20563-3	Carboxyhemoglobin/Hemoglobin.total in Blood	Lab Test	Measurement	LOINC	Valid	Standard
+3023506	722-9	Hemoglobin [Mass/volume] in Pleural fluid	Lab Test	Measurement	LOINC	Valid	Standard
+3023745	723-7	Hemoglobin [Mass/volume] in Peritoneal fluid	Lab Test	Measurement	LOINC	Valid	Standard
+3023862	4604-5	Hemoglobin Lepore [Presence] in Blood by Electrophoresis acid (pH 6.3)	Lab Test	Measurement	LOINC	Valid	Standard
+3024257	4597-1	Hemoglobin J - Capetown [Presence] in Blood	Lab Test	Measurement	LOINC	Valid	Standard
+3024317	2031-3	Carboxyhemoglobin/Hemoglobin.total in Capillary blood	Lab Test	Measurement	LOINC	Valid	Standard
+3024340	25433-4	Free Hemoglobin [Moles/volume] in Plasma	Lab Test	Measurement	LOINC	Valid	Standard
+3024404	24469-9	Hemoglobin XXX/Hemoglobin.total in Blood by Electrophoresis	Lab Test	Measurement	LOINC	Valid	Standard
+3024409	4605-2	Hemoglobin Lepore [Presence] in Blood by Electrophoresis alkaline (pH 8.9)	Lab Test	Measurement	LOINC	Valid	Standard
+3024563	21687-9	HBA1 gene mutations found [Identifier] in Blood or Tissue by Molecular genetics method Nominal	Lab Test	Measurement	LOINC	Valid	Standard
+3024761	4610-2	Hemoglobin M - Saskatoon [Presence] in Blood	Lab Test	Measurement	LOINC	Valid	Standard
+3024768	4598-9	Hemoglobin J - Oxford [Presence] in Blood by Electrophoresis acid (pH 6.3)	Lab Test	Measurement	LOINC	Valid	Standard
+3024867	18291-5	Hemoglobin F/Hemoglobin.total in Blood from Newborn	Lab Test	Measurement	LOINC	Valid	Standard
+3025000	31156-3	Hemoglobin Barts/Hemoglobin.total in Blood	Lab Test	Measurement	LOINC	Valid	Standard
+3025293	4611-0	Hemoglobin Malmo [Presence] in Blood by Electrophoresis acid (pH 6.3)	Lab Test	Measurement	LOINC	Valid	Standard
+3025382	21688-7	HBA1 gene mutations tested for in Blood or Tissue by Molecular genetics method Nominal	Lab Test	Measurement	LOINC	Valid	Standard
+3025609	4599-7	Hemoglobin J - Oxford [Presence] in Blood by Electrophoresis alkaline (pH 8.9)	Lab Test	Measurement	LOINC	Valid	Standard
+3025678	17871-5	Hemoglobin H [Presence] in Blood by Heat denaturation	Lab Test	Measurement	LOINC	Valid	Standard
+3026226	21689-5	HBB gene mutations found [Identifier] in Blood or Tissue by Molecular genetics method Nominal	Lab Test	Measurement	LOINC	Valid	Standard
+3026734	4613-6	Hemoglobin N - Baltimore [Presence] in Blood by Electrophoresis acid (pH 6.3)	Lab Test	Measurement	LOINC	Valid	Standard
+3026811	18278-2	Hemoglobin F [Presence] in Meconium by Apt-Downey method	Lab Test	Measurement	LOINC	Valid	Standard
+3026820	30353-7	Hemoglobin [Mass/volume] in Venous cord blood	Lab Test	Measurement	LOINC	Valid	Standard
+3027075	4602-9	Hemoglobin Kempsey [Presence] in Blood by Electrophoresis alkaline (pH 8.9)	Lab Test	Measurement	LOINC	Valid	Standard
+3027305	30370-1	Fractional oxyhemoglobin in Arterial cord blood	Lab Test	Measurement	LOINC	Valid	Standard
+3027484	20509-6	Hemoglobin [Mass/volume] in Blood by calculation	Lab Test	Measurement	LOINC	Valid	Standard
+3027764	4596-3	Hemoglobin J - Baltimore [Presence] in Blood by Electrophoresis alkaline (pH 8.9)	Lab Test	Measurement	LOINC	Valid	Standard
+3027901	30354-5	Hemoglobin [Mass/volume] in Arterial cord blood	Lab Test	Measurement	LOINC	Valid	Standard
+3028185	18279-0	Deprecated Hemoglobin F [Presence] in Stool by Apt-Downey method	Lab Test	Measurement	LOINC	Invalid	Non-standard
+3028224	4603-7	Hemoglobin Koln [Presence] in Blood	Lab Test	Measurement	LOINC	Valid	Standard
+3028653	2030-5	Carboxyhemoglobin/Hemoglobin.total in Arterial blood	Lab Test	Measurement	LOINC	Valid	Standard
+3028874	33517-4	Hemoglobin [Presence] in Body fluid	Lab Test	Measurement	LOINC	Valid	Standard
+3029071	42246-9	Hemoglobin F/Hemoglobin.total in Blood by HPLC	Lab Test	Measurement	LOINC	Valid	Standard
+3029080	42810-2	Hemoglobin [Entitic mass] in Reticulocytes	Lab Test	Measurement	LOINC	Valid	Standard
+3029461	33026-6	Hemoglobin [Mass/volume] in Arterial cord blood by calculation	Lab Test	Measurement	LOINC	Valid	Standard
+3029469	33025-8	Hemoglobin [Mass/volume] in Venous cord blood by calculation	Lab Test	Measurement	LOINC	Valid	Standard
+3029490	33411-0	Free Hemoglobin [Presence] in Urine	Lab Test	Measurement	LOINC	Valid	Standard
+3029869	50996-8	HBB gene targeted mutation analysis in Blood or Tissue by Molecular genetics method	Lab Test	Measurement	LOINC	Valid	Standard
+3029888	50765-7	Hemoglobin Hasharon/Hemoglobin.total in Blood by Electrophoresis	Lab Test	Measurement	LOINC	Valid	Standard
+3030153	50196-5	Occult blood panel - Stool	Lab Test	Measurement	LOINC	Valid	Standard
+3030267	50559-4	Hemoglobin [Mass/volume] in Urine by Automated test strip	Lab Test	Measurement	LOINC	Valid	Standard
+3030512	50791-3	Hemoglobin pattern [Interpretation] in Blood by Electrophoresis acid (pH 6.0)	Lab Test	Measurement	LOINC	Valid	Standard
+3030584	35127-0	Hemoglobin A2.prime/Hemoglobin.total in Blood	Lab Test	Measurement	LOINC	Valid	Standard
+3030612	32683-5	Hemoglobin S/Hemoglobin.total in Blood by Electrophoresis	Lab Test	Measurement	LOINC	Valid	Standard
+3030854	35183-3	Hemoglobin [Mass or Moles/volume] in Plasma	Lab Test	Measurement	LOINC	Invalid	Non-standard
+3030989	51196-4	Hemoglobin A1/Hemoglobin.total in Blood by Electrophoresis	Lab Test	Measurement	LOINC	Valid	Standard
+3031181	34743-5	Stable Hemoglobin [Presence] in Blood by Isopropanol stability	Lab Test	Measurement	LOINC	Valid	Standard
+3031973	42244-4	Hemoglobin A/Hemoglobin.total in Blood by HPLC	Lab Test	Measurement	LOINC	Valid	Standard
+3032260	42247-7	Hemoglobin pattern [Interpretation] in Blood by HPLC Narrative	Lab Test	Measurement	LOINC	Valid	Standard
+3032280	41619-8	Unstable Hemoglobin [Presence] in Red Blood Cells by Isopropanol stability	Lab Test	Measurement	LOINC	Valid	Standard
+3032358	34660-1	Hemoglobin A2/Hemoglobin.total in Blood by Chromatography column	Lab Test	Measurement	LOINC	Valid	Standard
+3032603	34663-5	Hemoglobin S [Presence] in Amniotic fluid	Lab Test	Measurement	LOINC	Valid	Standard
+3032663	34969-6	Fractional oxyhemoglobin in Mixed venous blood	Lab Test	Measurement	LOINC	Valid	Standard
+3032868	43113-0	Hemoglobin electrophoresis panel in Blood	Lab Test	Measurement	LOINC	Valid	Standard
+3033065	50191-6	Occult blood panel - Gastric fluid	Lab Test	Measurement	LOINC	Valid	Standard
+3033145	43150-2	Hemoglobin A1c measurement device panel	Clinical Observation	Measurement	LOINC	Valid	Standard
+3033173	34618-9	Hemoglobin [Presence] in Specimen	Lab Test	Measurement	LOINC	Valid	Standard
+3033193	35125-4	Hemoglobin Lepore/Hemoglobin.total in Blood	Lab Test	Measurement	LOINC	Valid	Standard
+3033204	35126-2	Hemoglobin O - Arab/Hemoglobin.total in Blood	Lab Test	Measurement	LOINC	Valid	Standard
+3033660	4564-1	Hemoglobin C - Harlem [Presence] in Blood	Lab Test	Measurement	LOINC	Valid	Standard
+3033678	19955-4	Fractional oxyhemoglobin in Blood Postductal	Clinical Observation	Measurement	LOINC	Valid	Standard
+3033905	4559-1	Hemoglobin Barts [Presence] in Blood by Electrophoresis alkaline (pH 8.9)	Lab Test	Measurement	LOINC	Valid	Standard
+3034030	41648-7	Carboxyhemoglobin/Hemoglobin.total in Mixed venous blood	Lab Test	Measurement	LOINC	Valid	Standard
+3034524	19956-2	Deprecated Fractional oxyhemoglobin by Pulse oximetry --during bronchodilation	Clinical Observation	Measurement	LOINC	Invalid	Non-standard
+3034639	41995-2	Hemoglobin A1c [Mass/volume] in Blood	Lab Test	Measurement	LOINC	Valid	Standard
+3034666	42243-6	Deprecated Hemoglobin [Mass/volume] in Blood	Lab Test	Measurement	LOINC	Invalid	Non-standard
+3034767	19957-0	Fractional oxyhemoglobin in Arterial blood --during bronchodilation	Clinical Observation	Measurement	LOINC	Valid	Standard
+3034794	4565-8	Hemoglobin Chesapeake [Presence] in Blood by Electrophoresis acid (pH 6.3)	Lab Test	Measurement	LOINC	Valid	Standard
+3035097	4637-5	Deprecated Hemoglobin A1/Hemoglobin.total in Blood	Lab Test	Measurement	LOINC	Invalid	Non-standard
+3035326	4566-6	Hemoglobin Chesapeake [Presence] in Blood by Electrophoresis alkaline (pH 8.9)	Lab Test	Measurement	LOINC	Valid	Standard
+3035417	19962-0	Deprecated Fractional oxyhemoglobin by Pulse oximetry --post bronchodilation	Clinical Observation	Measurement	LOINC	Invalid	Non-standard
+3035448	4571-6	Hemoglobin D - Punjab [Units/volume] in Blood by Electrophoresis alkaline (pH 8.9)	Lab Test	Measurement	LOINC	Valid	Standard
+3035614	4567-4	Hemoglobin Constant Spring [Presence] in Blood by Electrophoresis acid (pH 6.3)	Lab Test	Measurement	LOINC	Valid	Standard
+3035620	4638-3	Thermolabile hemoglobin/Hemoglobin.total in Red Blood Cells	Lab Test	Measurement	LOINC	Valid	Standard
+3035918	19964-6	Deprecated Fractional oxyhemoglobin by Pulse oximetry --post treatment	Clinical Observation	Measurement	LOINC	Invalid	Non-standard
+3035927	19963-8	Fractional oxyhemoglobin in Arterial blood --post bronchodilation	Clinical Observation	Measurement	LOINC	Valid	Standard
+3035970	4572-4	Hemoglobin Denver [Presence] in Blood	Lab Test	Measurement	LOINC	Valid	Standard
+3036223	4639-1	Unstable Hemoglobin [Presence] in Red Blood Cells	Lab Test	Measurement	LOINC	Valid	Standard
+3036490	4573-2	Hemoglobin E/Hemoglobin.total in Blood by Electrophoresis acid (pH 6.3)	Lab Test	Measurement	LOINC	Valid	Standard
+3036552	10486-9	Hemoglobin Ag [Presence] in Tissue by Immune stain	Lab Test	Measurement	LOINC	Valid	Standard
+3037403	19970-3	Deprecated Fractional oxyhemoglobin by Pulse oximetry --pre treatment	Clinical Observation	Measurement	LOINC	Invalid	Non-standard
+3037653	42245-1	Hemoglobin A2/Hemoglobin.total in Blood by HPLC	Lab Test	Measurement	LOINC	Valid	Standard
+3038157	4558-3	Hemoglobin Barts [Presence] in Blood by Electrophoresis acid (pH 6.3)	Lab Test	Measurement	LOINC	Valid	Standard
+3038170	19949-7	Oxyhemoglobin/Hemoglobin.total (8 hour maximum) in Arterial blood	Clinical Observation	Measurement	LOINC	Valid	Standard
+3038248	39533-5	Deoxyhemoglobin [Mass/volume] in Blood	Lab Test	Measurement	LOINC	Valid	Standard
+3038280	40591-0	Deprecated Fractional oxyhemoglobin by Pulse oximetry --post exercise	Clinical Observation	Measurement	LOINC	Invalid	Non-standard
+3038533	40550-6	Hemoglobin H [Mass/volume] in Blood by Electrophoresis	Lab Test	Measurement	LOINC	Valid	Standard
+3039064	51616-1	Hemoglobin A2+E/Hemoglobin.total in Blood	Lab Test	Measurement	LOINC	Valid	Standard
+3039149	51615-3	Hemoglobin A2+C/Hemoglobin.total in Blood	Lab Test	Measurement	LOINC	Valid	Standard
+3039222	40549-8	Hemoglobin F [Mass/volume] in Blood by Electrophoresis	Lab Test	Measurement	LOINC	Valid	Standard
+3039469	54072-4	Hemoglobin A/Hemoglobin.total in DBS	Lab Test	Measurement	LOINC	Valid	Standard
+3039720	53553-4	Glucose mean value [Moles/volume] in Blood Estimated from glycated hemoglobin	Lab Test	Measurement	LOINC	Valid	Standard
+3039784	53857-9	Hemoglobin F [Mass/volume] in Blood	Lab Test	Measurement	LOINC	Valid	Standard
+3040240	51614-6	Hemoglobin M/Hemoglobin.total in Blood	Lab Test	Measurement	LOINC	Valid	Standard
+3040301	54071-6	Hemoglobin E/Hemoglobin.total in DBS	Lab Test	Measurement	LOINC	Valid	Standard
+3040466	40721-3	Hemoglobin F [Presence] in Specimen by Apt-Downey method	Lab Test	Measurement	LOINC	Valid	Standard
+3040522	53224-2	Hemoglobin M [Presence] in Blood	Lab Test	Measurement	LOINC	Valid	Standard
+3040832	53223-4	Hemoglobin G/Hemoglobin.total in Blood	Lab Test	Measurement	LOINC	Valid	Standard
+3041041	40719-7	Hemoglobin [Mass/volume] in Cord blood	Lab Test	Measurement	LOINC	Valid	Standard
+3041123	53117-8	Thermolabile hemoglobin [Presence] in Red Blood Cells	Lab Test	Measurement	LOINC	Valid	Standard
+3041214	51613-8	Hemoglobin J/Hemoglobin.total in Blood	Lab Test	Measurement	LOINC	Valid	Standard
+3041279	40592-8	Deprecated Fractional oxyhemoglobin by Pulse oximetry --resting	Clinical Observation	Measurement	LOINC	Invalid	Non-standard
+3041857	40718-9	Heinz bodies/100 erythrocytes in Blood	Lab Test	Measurement	LOINC	Valid	Standard
+3041888	40547-2	Hemoglobin H [Presence] in Blood	Lab Test	Measurement	LOINC	Valid	Standard
+3041908	40546-4	Hemoglobin E [Presence] in Blood by Electrophoresis	Lab Test	Measurement	LOINC	Valid	Standard
+3042060	40720-5	Hemoglobin C [Presence] in Blood	Lab Test	Measurement	LOINC	Valid	Standard
+3042290	40545-6	Hemoglobin C [Presence] in Blood by Electrophoresis	Lab Test	Measurement	LOINC	Valid	Standard
+3043449	33593-5	Hemoglobin G - Coushatta/Hemoglobin.total in Blood	Lab Test	Measurement	LOINC	Valid	Standard
+3043688	33509-1	Hemoglobin [Mass/volume] in Body fluid	Lab Test	Measurement	LOINC	Valid	Standard
+3044870	32681-9	Hemoglobin C/Hemoglobin.total in Blood by Electrophoresis	Lab Test	Measurement	LOINC	Valid	Standard
+3044997	45208-6	Hemoglobin A [Presence] in Blood by Electrophoresis	Lab Test	Measurement	LOINC	Valid	Standard
+3045405	32682-7	Hemoglobin F/Hemoglobin.total in Blood by Electrophoresis	Lab Test	Measurement	LOINC	Valid	Standard
+3045566	44920-7	Hemoglobin C/Hemoglobin.total in Blood by HPLC	Lab Test	Measurement	LOINC	Valid	Standard
+3045771	34402-8	Coproporphyrin/Hemoglobin [Mass Ratio] in Red Blood Cells	Lab Test	Measurement	LOINC	Valid	Standard
+3045775	34174-3	Hemoglobin casts [Presence] in Urine sediment by Light microscopy	Lab Test	Measurement	LOINC	Valid	Standard
+3045807	44923-1	Hemoglobin S/Hemoglobin.total in Blood by HPLC	Lab Test	Measurement	LOINC	Valid	Standard
+3046296	33057-1	Heinz bodies/100 erythrocytes in Blood by Light microscopy	Lab Test	Measurement	LOINC	Valid	Standard
+3046405	44921-5	Hemoglobin D/Hemoglobin.total in Blood by HPLC	Lab Test	Measurement	LOINC	Valid	Standard
+3046708	44922-3	Hemoglobin E/Hemoglobin.total in Blood by HPLC	Lab Test	Measurement	LOINC	Valid	Standard
+3048261	48707-4	Hemoglobin C crystals [Presence] in Red Blood Cells by Light microscopy	Lab Test	Measurement	LOINC	Valid	Standard
+3048275	48725-6	Hemoglobin [Mass/volume] in Blood --pre therapeutic phlebotomy	Lab Test	Measurement	LOINC	Valid	Standard
+3049185	49137-3	Hemoglobin [Mass/volume] in Urine by Test strip	Lab Test	Measurement	LOINC	Valid	Standard
+3049192	49323-9	Hemoglobin pattern [Interpretation] in Blood by Electrophesis citrate agar	Lab Test	Measurement	LOINC	Valid	Standard
+3049243	49000-3	Free Hemoglobin [Presence] in Cerebral spinal fluid	Lab Test	Measurement	LOINC	Valid	Standard
+3049436	48068-1	Heinz bodies [Presence] in Blood	Lab Test	Measurement	LOINC	Valid	Standard
+3049862	49322-1	Hemoglobin pattern [Interpretation] in Blood by HPLC	Lab Test	Measurement	LOINC	Valid	Standard
+3050032	46423-0	Hemoglobin distribution width [Mass/volume] in Blood	Lab Test	Measurement	LOINC	Valid	Standard
+3050396	48556-5	Erythrocytes.fetal/1000 erythrocytes [Ratio] in Blood by Kleihauer-Betke method	Lab Test	Measurement	LOINC	Valid	Standard
+3050681	46767-0	Hemoglobin S/Beta Thalassemia newborn screen interpretation	Lab Test	Measurement	LOINC	Invalid	Non-standard
+3050735	48711-6	Free Hemoglobin [Mass/volume] in Plasma --after transfusion reaction	Lab Test	Measurement	LOINC	Valid	Standard
+3050958	54103-7	Hemoglobin pattern in DBS by Electrophoresis	Lab Test	Measurement	LOINC	Invalid	Non-standard
+3050961	54104-5	Hemoglobin pattern in DBS by HPLC	Lab Test	Measurement	LOINC	Invalid	Non-standard
+3051546	54069-0	Hemoglobin Barts/Hemoglobin.total in DBS	Lab Test	Measurement	LOINC	Valid	Standard
+3051547	54105-2	Hemoglobin pattern in DBS by Isoelectric focusing	Lab Test	Measurement	LOINC	Invalid	Non-standard
+3051554	54074-0	Hemoglobin F/Hemoglobin.total in DBS	Lab Test	Measurement	LOINC	Valid	Standard
+3051556	54068-2	Hemoglobin O - Arab/Hemoglobin.total in DBS	Lab Test	Measurement	LOINC	Valid	Standard
+3051578	54070-8	Hemoglobin D/Hemoglobin.total in DBS	Lab Test	Measurement	LOINC	Valid	Standard
+3051590	54073-2	Hemoglobin C/Hemoglobin.total in DBS	Lab Test	Measurement	LOINC	Valid	Standard
+3051832	38524-5	Hemoglobin F/Hemoglobin.total in Blood by Electrophoresis alkaline (pH 8.9)	Lab Test	Measurement	LOINC	Valid	Standard
+3051923	46740-7	Hemoglobin disorders newborn screen interpretation	Lab Test	Measurement	LOINC	Valid	Standard
+3051953	46766-2	Hemoglobin SC disease newborn screen interpretation	Lab Test	Measurement	LOINC	Invalid	Non-standard
+3052625	48035-0	Hemoglobin [Presence] in Cerebral spinal fluid	Lab Test	Measurement	LOINC	Valid	Standard
+3053000	49316-3	Hemoglobin pattern [Interpretation] in Blood by Electrophoresis	Lab Test	Measurement	LOINC	Valid	Standard
+3053287	49317-1	Hemoglobin pattern [Interpretation] in Blood Narrative	Lab Test	Measurement	LOINC	Valid	Standard
+21490721	75928-2	Hemoglobin [Moles/volume] in Arterial blood	Lab Test	Measurement	LOINC	Valid	Standard
+21491353	78748-1	Hemoglobin pattern [Interpretation] in Blood by Capillary electrophoresis (CE)	Lab Test	Measurement	LOINC	Valid	Standard
+21492679	79401-6	HBB gene full mutation analysis [Identifier] in Blood or Tissue by Sequencing	Lab Test	Measurement	LOINC	Valid	Standard
+21493540	80655-4	Hemoglobin G - Philadelphia/Hemoglobin.total in Blood	Lab Test	Measurement	LOINC	Valid	Standard
+21493541	80656-2	Hemoglobin Hope/Hemoglobin.total in Blood	Lab Test	Measurement	LOINC	Valid	Standard
+21493542	80657-0	Hemoglobin Q/Hemoglobin.total in Blood	Lab Test	Measurement	LOINC	Valid	Standard
+21495976	LP216110-9	Hemoglobin Q | Bld-Ser-Plas	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+21496526	LP192340-0	Reticulocyte corpuscular hemoglobin concentration mean | Bld-Ser-Plas	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+21496647	LP192338-4	Reticulocyte hemoglobin distribution width | Bld-Ser-Plas	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+21497358	LP192667-6	Reticulocyte cellular hemoglobin distribution width | Bld-Ser-Plas	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+36032094	96595-4	Hemoglobin A1c/Hemoglobin.total in DBS	Lab Test	Measurement	LOINC	Valid	Standard
+36033288	LP421226-4	Hemoglobin A1c/Hemoglobin.total | DBS | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+36204696	LP259412-7	Hemoglobin C | DBS	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+36206014	LP259413-5	Hemoglobin F | DBS	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+36206015	LP259417-6	Hemoglobin pattern | DBS	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+36206016	LP259410-1	Hemoglobin E | DBS	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+36206843	LP259407-7	Hemoglobin O - Arab | DBS	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+36207961	LP258948-1	Hemoglobin SC disease | DBS	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+36208780	LP259411-9	Hemoglobin A | DBS	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+36208781	LP259409-3	Hemoglobin D | DBS	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+36208782	LP259468-9	Hemoglobin S | DBS	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+36209697	LP258949-9	Hemoglobin S/Beta Thalassemia | DBS	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+36210080	LP259408-5	Hemoglobin Barts | DBS	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+36303940	89364-4	Free Hemoglobin [Mass/volume] in Body fluid	Lab Test	Measurement	LOINC	Valid	Standard
+36304306	87730-8	HBA1 and HBA2 gene full mutation analysis in Blood or Tissue by Sequencing	Lab Test	Measurement	LOINC	Valid	Standard
+36304734	86910-7	Hemoglobin A1c/Hemoglobin.total goal Blood	Clinical Observation	Measurement	LOINC	Valid	Standard
+36305056	86904-0	Carboxyhemoglobin/Hemoglobin.total in Arterial blood by Pulse oximetry	Clinical Observation	Measurement	LOINC	Valid	Standard
+36305091	87437-0	Oxyhemoglobin [Mass/volume] in Plasma	Lab Test	Measurement	LOINC	Valid	Standard
+36305192	87433-9	Free hemoglobin and oxyhemoglobin panel - Plasma	Lab Test	Measurement	LOINC	Valid	Standard
+36305705	86912-3	Hemoglobin goal [Mass/volume] Blood	Clinical Observation	Measurement	LOINC	Valid	Standard
+36306291	LP267611-4	Free Hemoglobin | Body fluid	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+36659666	94537-8	Hemoglobin panel - Blood by HPLC	Lab Test	Measurement	LOINC	Valid	Standard
+36659964	94538-6	Hemoglobin HPLC and electrophoresis panel - Blood	Lab Test	Measurement	LOINC	Valid	Standard
+36661160	LP419318-3	Hemoglobin HPLC and electrophoresis panel | Blood | Hematology and Cell Count Panels	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37019929	92514-9	Blood group Ag and Hemoglobin S inferred panel - Blood or Tissue by Molecular genetics method	Lab Test	Measurement	LOINC	Valid	Standard
+37020019	92502-4	Hemoglobin S inferred phenotype [Presence] in Blood or Tissue by Molecular genetics method	Lab Test	Measurement	LOINC	Valid	Standard
+37020145	92552-9	Blood group Ag and Hemoglobin S inferred panel - Blood or Tissue from Donor by Molecular genetics method	Lab Test	Measurement	LOINC	Valid	Standard
+37020465	92540-4	Hemoglobin S inferred phenotype [Presence] in Blood or Tissue from Donor by Molecular genetics method	Lab Test	Measurement	LOINC	Valid	Standard
+37022221	LP393567-5	Hemoglobin A2+XXX/Hemoglobin.total | Blood | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37023599	LP392456-2	Hemoglobin | Blood cord arterial | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37024010	LP402235-8	Hemoglobin Ag | Tissue and Smears | Pathology	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37024347	LP393634-3	Hemoglobin J/Hemoglobin.total | Blood | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37024370	LP393600-4	Hemoglobin Barts/Hemoglobin.total | Blood | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37024689	LP393645-9	Hemoglobin M - Saskatoon | Blood | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37025793	LP393631-9	Hemoglobin J - Baltimore | Blood | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37025981	LP393601-2	Hemoglobin Barts/Hemoglobin.total | DBS | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37027405	LP393352-2	Erythrocyte mean corpuscular hemoglobin | Blood cord | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37028865	LP393594-9	Hemoglobin C+E+O+A2 region | Blood | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37029074	LP392453-9	Hemoglobin | Blood arterial | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37029326	LP393578-2	Hemoglobin F | XXX | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37029327	LP393624-4	Hemoglobin H | Blood | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37029481	LP393606-1	Hemoglobin C/Hemoglobin.total | Blood | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37030473	LP393632-7	Hemoglobin J - Capetown | Blood | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37030695	LP392455-4	Hemoglobin | Blood cord | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37031201	LP393619-4	Hemoglobin G-Coushatta/Hemoglobin.total | Blood | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37031268	LP393669-9	Stable Hemoglobin | Blood | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37031393	LP392461-2	Hemoglobin | Cerebral spinal fluid | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37031851	LP393589-9	Hemoglobin A region | Blood | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37031910	LP393654-1	Hemoglobin Ranier | Blood | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37032497	LP393391-0	Hemoglobin H inclusion bodies | Blood | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37033747	LP399036-5	Hemoglobin S inferred phenotype | Donor | Blood bank genotyping	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37034041	LP402440-4	Hemoglobin casts | Urine sediment | Urinalysis	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37034076	LP393650-9	Hemoglobin O - Arab | Blood | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37034133	LP393569-1	Hemoglobin A3/Hemoglobin.total | Blood | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37035184	LP392467-9	Hemoglobin | Synovial fluid | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37035804	LP392457-0	Hemoglobin | Blood cord venous | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37036029	LP393649-1	Hemoglobin N - Seattle | Blood | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37036163	LP393663-2	Hemoglobin Zurich | Blood | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37036248	LP393607-9	Hemoglobin C/Hemoglobin.total | DBS | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37036546	LP393643-4	Hemoglobin M - Iwate | Blood | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37037162	LP393597-2	Hemoglobin S+D+G region | Blood | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37037210	LP393580-8	Hemoglobin F - Texas | Blood | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37037428	LP393369-6	Reticulocyte corpuscular hemoglobin concentration mean | Blood | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37038519	LP393626-9	Hemoglobin Hasharon | Blood | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37038525	LP392463-8	Hemoglobin | Peritoneal fluid | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37038717	LP393641-8	Hemoglobin M - Boston | Blood | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37039572	LP393621-0	Hemoglobin G - Philadelphia | Blood | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37040000	LP393613-7	Hemoglobin D/Hemoglobin.total | DBS | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37040543	LP393564-2	Hemoglobin A1/Hemoglobin.total | Blood | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37040661	LP393622-8	Hemoglobin G-Philadelphia/Hemoglobin.total | Blood | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37040853	LP393598-0	Hemoglobin Abruzzo | Blood | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37041135	LP393642-6	Hemoglobin M - Hyde Park | Blood | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37041313	LP393922-2	Hemoglobin panel | Blood | Hematology and Cell Count Panels	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37041390	LP393565-9	Hemoglobin A2 | Blood | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37041626	LP393618-6	Hemoglobin G - Coushatta | Blood | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37041779	LP393577-4	Hemoglobin F | Vomitus | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37042392	LP393653-3	Hemoglobin Q/Hemoglobin.total | Blood | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37042574	LP393576-6	Hemoglobin F | Stool | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37043264	LP393637-6	Hemoglobin Koln | Blood | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37043963	LP393630-1	Hemoglobin I | Blood | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37044115	LP393652-5	Hemoglobin O-Arab/Hemoglobin.total | DBS | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37045413	LP393357-1	Erythrocyte mean corpuscular hemoglobin concentration | Red Blood Cells | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37046289	LP392471-1	Hemoglobin | Blood product unit | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37046601	LP393609-5	Hemoglobin Constant Spring | Blood | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37047080	LP393646-7	Hemoglobin M/Hemoglobin.total | Blood | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37047635	LP393612-9	Hemoglobin D/Hemoglobin.total | Blood | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37048364	LP393583-2	Hemoglobin F/Hemoglobin.total | Blood | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37048445	LP393636-8	Hemoglobin Kempsey | Blood | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37049370	LP392466-1	Hemoglobin | Reticulocytes | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37049466	LP393648-3	Hemoglobin N - Baltimore | Blood | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37049835	LP393582-4	Hemoglobin F/Hemoglobin.total | Amniotic fluid | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37049964	LP392495-0	Hematocrit/Hemoglobin | Blood | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37050168	LP392458-8	Hemoglobin | Blood mixed venous | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37050773	LP386435-4	Coproporphyrin/Hemoglobin | Red Blood Cells | Chemistry - non-challenge	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37051523	LP393390-2	Hemoglobin C crystals | Red Blood Cells | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37051529	LP393608-7	Hemoglobin Chesapeake | Blood | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37051976	LP393359-7	Erythrocyte mean corpuscular hemoglobin concentration | Fetus | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37052842	LP392475-2	Free Hemoglobin | Cerebral spinal fluid | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37053070	LP392472-9	Hemoglobin | Fetus | Blood | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37053134	LP393579-0	Hemoglobin F distribution | Blood | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37053411	LP393561-8	Hemoglobin A | Blood | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37053555	LP393633-5	Hemoglobin J - Oxford | Blood | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37053630	LP393656-6	Hemoglobin S | Blood | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37053727	LP393585-7	Hemoglobin F/Hemoglobin.total | Newborn | Blood | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37054705	LP393639-2	Hemoglobin Lepore/Hemoglobin.total | Blood | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37054839	LP392459-6	Hemoglobin | Blood venous | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37054917	LP392469-5	Hemoglobin | XXX | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37055177	LP393592-3	Hemoglobin A2+E/Hemoglobin.total | Blood | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37055703	LP393568-3	Hemoglobin A2/Hemoglobin.total | Blood | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37056155	LP402527-8	Hemoglobin | Urine | Urinalysis	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37056644	LP393603-8	Hemoglobin C | Blood | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37056682	LP393571-7	Hemoglobin A/Hemoglobin.total | DBS | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37056925	LP392454-7	Hemoglobin | Blood capillary | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37057178	LP393605-3	Hemoglobin C-Harlem/Hemoglobin.total | Blood | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37057425	LP392473-7	Hemoglobin | Fetus | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37057467	LP392476-0	Free Hemoglobin | Plasma | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37057977	LP393595-6	Hemoglobin D+G/Hemoglobin.total | Blood | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37058164	LP393593-1	Hemoglobin A2+E+O/Hemoglobin.total | Blood | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37058285	LP393617-8	Hemoglobin E/Hemoglobin.total | DBS | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37059336	LP393610-3	Hemoglobin Constant Spring/Hemoglobin.total | Blood | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37059509	LP393581-6	Hemoglobin F1/Hemoglobin.total | Blood | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37059546	LP393590-7	Hemoglobin A2+C/Hemoglobin.total | Blood | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37059846	LP393611-1	Hemoglobin D - Punjab | Blood | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37059870	LP393660-8	Hemoglobin Yakima | Blood | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37059902	LP393563-4	Hemoglobin A1c/Hemoglobin.total | Blood | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37059985	LP393661-6	Hemoglobin Yoshizuka | Blood | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37060283	LP393573-3	Hemoglobin F | Blood | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37060824	LP392470-3	Hemoglobin | Blood product unit | Blood | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37061016	LP392477-8	Free Hemoglobin | Serum | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37062304	LP393570-9	Hemoglobin A/Hemoglobin.total | Blood | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37062661	LP393587-3	Hemoglobin pattern | Blood | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37062846	LP393566-7	Hemoglobin A2.prime/Hemoglobin.total | Blood | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37063385	LP393367-0	Reticulocyte hemoglobin distribution width | Blood | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37063478	LP385894-3	Hemoglobin SC disease | DBS | Chemistry - non-challenge	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37063794	LP393584-0	Hemoglobin F/Hemoglobin.total | DBS | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37064123	LP393355-5	Erythrocyte mean corpuscular hemoglobin | Fetus | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37064423	LP392478-6	Free Hemoglobin | Urine | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37064868	LP392464-6	Hemoglobin | Plasma | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37064909	LP393635-0	Hemoglobin Kansas | Blood | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37065325	LP399034-0	Hemoglobin S inferred phenotype | Blood or Tissue | Blood bank genotyping	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37065404	LP393602-0	Hemoglobin Bethesda | Blood | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37065413	LP393591-5	Hemoglobin A2+C+E+O/Hemoglobin.total | Blood | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37065525	LP393640-0	Hemoglobin M | Blood | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37065878	LP393572-5	Hemoglobin F | Amniotic fluid | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37066018	LP393651-7	Hemoglobin O-Arab/Hemoglobin.total | Blood | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37066074	LP393668-1	Unstable Hemoglobin | Red Blood Cells | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37066358	LP393588-1	Hemoglobin pattern | DBS | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37066873	LP393586-5	Hemoglobin F/Hemoglobin.total | Newborn | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37067259	LP392474-5	Free Hemoglobin | Body fluid | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37067387	LP393562-6	Hemoglobin A1c | Blood | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37067898	LP393666-5	Thermolabile hemoglobin | Red Blood Cells | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37067934	LP401906-5	Abnormal hemoglobin gene panel | Blood | Molecular Pathology Panels	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37068065	LP393353-0	Erythrocyte mean corpuscular hemoglobin | Red Blood Cells | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37068228	LP393596-4	Hemoglobin N+I/Hemoglobin.total | Blood | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37068272	LP393354-8	Erythrocyte mean corpuscular hemoglobin | Fetus | Blood | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37068784	LP392468-7	Hemoglobin | Urine | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37069359	LP393604-6	Hemoglobin C - Harlem | Blood | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37069467	LP393659-0	Hemoglobin XXX/Hemoglobin.total | Blood | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37069653	LP393627-7	Hemoglobin Hasharon/Hemoglobin.total | Blood | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37070140	LP393615-2	Hemoglobin E | Blood | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37070516	LP392460-4	Hemoglobin | Body fluid | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37070760	LP393657-4	Hemoglobin S/Hemoglobin.total | Blood | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37071467	LP393620-2	Hemoglobin G - Georgia | Blood | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37071784	LP385895-0	Hemoglobin S/Beta Thalassemia | DBS | Chemistry - non-challenge	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37071923	LP392465-3	Hemoglobin | Pleural fluid | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37072070	LP393346-4	Hemoglobin distribution width | Blood | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37072189	LP393628-5	Hemoglobin Hope | Blood | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37072252	LP392452-1	Hemoglobin | Blood | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37072316	LP393629-3	Hemoglobin Hope/Hemoglobin.total | Blood | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37072621	LP393662-4	Hemoglobin Ypsilanti | Blood | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37073544	LP393625-1	Hemoglobin H/Hemoglobin.total | Blood | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37073726	LP393638-4	Hemoglobin Lepore | Blood | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37073819	LP393923-0	Free hemoglobin and oxyhemoglobin panel | Plasma | Hematology and Cell Count Panels	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37074470	LP393614-5	Hemoglobin Denver | Blood | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37074950	LP393655-8	Hemoglobin S | Amniotic fluid | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37075031	LP393920-6	Hemoglobin and Hematocrit panel | Blood | Hematology and Cell Count Panels	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37075039	LP393599-8	Hemoglobin Barts | Blood | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37075230	LP393623-6	Hemoglobin G/Hemoglobin.total | Blood | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37076181	LP393921-4	Hemoglobin observations newborn screening panel | DBS | Hematology and Cell Count Panels	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37076341	LP393658-2	Hemoglobin S/Hemoglobin.total | DBS | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37076511	LP393356-3	Erythrocyte mean corpuscular hemoglobin concentration | Blood cord | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37076684	LP393647-5	Hemoglobin Malmo | Blood | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37077114	LP393358-9	Erythrocyte mean corpuscular hemoglobin concentration | Fetus | Blood | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37077218	LP393366-2	Reticulocyte cellular hemoglobin distribution width | Blood | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37077281	LP399035-7	Hemoglobin S inferred phenotype | Donor | Blood or Tissue | Blood bank genotyping	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37077728	LP393644-2	Hemoglobin M - Milwaukee | Blood | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37077818	LP393616-0	Hemoglobin E/Hemoglobin.total | Blood | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37077904	LP393575-8	Hemoglobin F | Meconium | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37078431	LP392462-0	Hemoglobin | Pericardial fluid | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+37078980	LP393574-1	Hemoglobin F | Gastric fluid | Hematology and Cell counts	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+40654759	LG46237-0	Erythrocyte mean corpuscular hemoglobin concentration|Pt|RBC	LOINC Group	Measurement	LOINC	Valid	Classification
+40654761	LG48562-9	Estimated average glucose|Pt|Bld|Estimated from glycated hemoglobin	LOINC Group	Measurement	LOINC	Valid	Classification
+40757340	54209-2	Hemoglobin C - Harlem/Hemoglobin.total in Blood	Lab Test	Measurement	LOINC	Valid	Standard
+40757420	54289-4	Hemoglobin [Mass/volume] in Blood from Blood product unit	Lab Test	Measurement	LOINC	Valid	Standard
+40758364	55235-6	Abnormal hemoglobin gene panel - Blood by Molecular genetics method	Lab Test	Measurement	LOINC	Valid	Standard
+40758365	55236-4	HBA2 gene alpha 4.2kb deletion [Presence] in Blood by Molecular genetics method	Lab Test	Measurement	LOINC	Valid	Standard
+40758366	55237-2	HBA2 gene c.427T>C [Presence] in Blood by Molecular genetics method	Lab Test	Measurement	LOINC	Valid	Standard
+40758367	55238-0	HBA2 gene c.429A>T [Presence] in Blood by Molecular genetics method	Lab Test	Measurement	LOINC	Valid	Standard
+40758368	55239-8	HBB gene c.441_442insAC [Presence] in Blood by Molecular genetics method	Lab Test	Measurement	LOINC	Valid	Standard
+40758369	55240-6	HBB gene c.251G>A [Presence] in Blood by Molecular genetics method	Lab Test	Measurement	LOINC	Valid	Standard
+40758370	55241-4	HBB gene c.19G>A [Presence] in Blood by Molecular genetics method	Lab Test	Measurement	LOINC	Valid	Standard
+40758371	55242-2	HBB gene c.20A>T [Presence] in Blood by Molecular genetics method	Lab Test	Measurement	LOINC	Valid	Standard
+40758372	55243-0	HBB gene c.364G>C [Presence] in Blood by Molecular genetics method	Lab Test	Measurement	LOINC	Valid	Standard
+40758374	55245-5	HBB gene c.220G>A [Presence] in Blood by Molecular genetics method	Lab Test	Measurement	LOINC	Valid	Standard
+40758375	55246-3	HBA2 gene c.84G>C [Presence] in Blood by Molecular genetics method	Lab Test	Measurement	LOINC	Valid	Standard
+40758376	55247-1	HBA1 gene c.223G>C [Presence] in Blood by Molecular genetics method	Lab Test	Measurement	LOINC	Valid	Standard
+40758377	55248-9	HBB gene c.79G>A [Presence] in Blood by Molecular genetics method	Lab Test	Measurement	LOINC	Valid	Standard
+40758378	55249-7	HBA2 gene SEA deletion [Presence] in Blood by Molecular genetics method	Lab Test	Measurement	LOINC	Valid	Standard
+40758379	55250-5	HBA2 gene THAI+FIL+MED+alpha 20.5 deletion [Presence] in Blood by Molecular genetics method	Lab Test	Measurement	LOINC	Valid	Standard
+40758380	55251-3	HBA2 gene alpha 3.7kb deletion [Presence] in Blood by Molecular genetics method	Lab Test	Measurement	LOINC	Valid	Standard
+40758499	55370-1	Hemoglobin A2+C+E+O/Hemoglobin.total in Blood	Lab Test	Measurement	LOINC	Valid	Standard
+40758500	55371-9	Hemoglobin A2+E+O/Hemoglobin.total in Blood	Lab Test	Measurement	LOINC	Valid	Standard
+40758501	55372-7	Hemoglobin Constant Spring/Hemoglobin.total in Blood	Lab Test	Measurement	LOINC	Valid	Standard
+40758502	55373-5	Hemoglobin D+G/Hemoglobin.total in Blood	Lab Test	Measurement	LOINC	Valid	Standard
+40758503	55374-3	Hemoglobin N+I/Hemoglobin.total in Blood	Lab Test	Measurement	LOINC	Valid	Standard
+40758583	55454-3	Deprecated Hemoglobin A1c in Blood	Lab Test	Measurement	LOINC	Invalid	Non-standard
+40758584	55455-0	Deprecated Hemoglobin F in Unspecified specimen	Lab Test	Measurement	LOINC	Invalid	Non-standard
+40758585	55456-8	Deprecated Hemoglobin S in Blood	Lab Test	Measurement	LOINC	Invalid	Non-standard
+40758586	55457-6	Deprecated Free Hemoglobin in Plasma	Lab Test	Measurement	LOINC	Invalid	Non-standard
+40758858	55729-8	Erythrocytes.fetal/100 erythrocytes [Ratio] in Blood by Flow cytometry (FC)	Lab Test	Measurement	LOINC	Valid	Standard
+40758903	55782-7	Hemoglobin [Mass/volume] in Blood by Oximetry	Lab Test	Measurement	LOINC	Valid	Standard
+40758904	55783-5	Hemoglobin Barts [Presence] in Blood by HPLC	Lab Test	Measurement	LOINC	Valid	Standard
+40759597	56476-5	Hemoglobin S/Hemoglobin.total in DBS	Lab Test	Measurement	LOINC	Valid	Standard
+40760861	57751-0	Hemoglobin [Presence] in Urine by Automated test strip	Lab Test	Measurement	LOINC	Valid	Standard
+40760912	57803-9	Occult blood panel - Stool by Immunoassay	Lab Test	Measurement	LOINC	Valid	Standard
+40762276	59185-9	Hemoglobin H inclusion bodies [Presence] in Blood	Lab Test	Measurement	LOINC	Valid	Standard
+40762351	59260-0	Hemoglobin [Moles/volume] in Blood	Lab Test	Measurement	LOINC	Valid	Standard
+40762352	59261-8	Hemoglobin A1c/Hemoglobin.total in Blood by IFCC protocol	Lab Test	Measurement	LOINC	Valid	Standard
+40763594	60540-2	HBA2 gene targeted mutation analysis in Blood or Tissue by Molecular genetics method	Lab Test	Measurement	LOINC	Valid	Standard
+40763941	61180-6	Hemoglobin [Mass/volume] in Blood from Fetus	Lab Test	Measurement	LOINC	Valid	Standard
+40765129	62388-4	Hemoglobin A1c/Hemoglobin.total in Blood by JDS/JSCC protocol	Lab Test	Measurement	LOINC	Valid	Standard
+40765585	62853-7	Deprecated PhenX measure - glycosylated hemoglobin assay that reflects long-term glucose concentration	Clinical Observation	Measurement	LOINC	Invalid	Non-standard
+40765586	62854-5	PhenX - glycosylated hemoglobin assay reflecting long-term glucose concentration protocol 140901	Clinical Observation	Measurement	LOINC	Valid	Standard
+40766250	63523-5	Carboxyhemoglobin/Hemoglobin.total in Arterial cord blood	Lab Test	Measurement	LOINC	Valid	Standard
+40766251	63524-3	Carboxyhemoglobin/Hemoglobin.total in Venous cord blood	Lab Test	Measurement	LOINC	Valid	Standard
+40766830	64116-7	Hemoglobin observations newborn screening panel	Lab Test	Measurement	LOINC	Valid	Standard
+40766831	64117-5	Most predominant hemoglobin in DBS	Lab Test	Measurement	LOINC	Valid	Standard
+40766832	64118-3	Second most predominant hemoglobin in DBS	Lab Test	Measurement	LOINC	Valid	Standard
+40766833	64119-1	Third most predominant hemoglobin in DBS	Lab Test	Measurement	LOINC	Valid	Standard
+40766834	64120-9	Fourth most predominant hemoglobin in DBS	Lab Test	Measurement	LOINC	Valid	Standard
+40766835	64121-7	Fifth most predominant hemoglobin in DBS	Lab Test	Measurement	LOINC	Valid	Standard
+40769162	66502-6	HBA1 gene targeted mutation analysis in Blood or Tissue by Molecular genetics method	Lab Test	Measurement	LOINC	Valid	Standard
+40772242	LP105242-4	Erythrocyte mean corpuscular hemoglobin | Fetus | Bld-Ser-Plas	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40773661	LP45628-2	Hemoglobin H | Bld-Ser-Plas	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40774048	LP49432-5	Hemoglobin | Blood venous	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40774050	LP49436-6	Hemoglobin | Blood cord venous	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40774127	LP50152-5	Hemoglobin C | Bld-Ser-Plas	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40774128	LP50153-3	Hemoglobin S | Bld-Ser-Plas	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40774164	LP50657-3	Hemoglobin Casts | Urine sediment	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40774192	LP50954-4	Hemoglobin Lepore | Bld-Ser-Plas	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40774321	LP52032-7	Hemoglobin | Blood cord	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40774426	LP53279-3	Hemoglobin M - Iwate | Bld-Ser-Plas	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40774434	LP53450-0	Hemoglobin J - Baltimore | Bld-Ser-Plas	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40774435	LP53453-4	Hemoglobin Kansas | Bld-Ser-Plas	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40774436	LP53456-7	Hemoglobin M - Boston | Bld-Ser-Plas	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40774439	LP53516-8	Hemoglobin Yoshizuka | Bld-Ser-Plas	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40774702	LP62966-4	Hemoglobin C crystals | Red Blood Cells	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40774878	LP66421-6	Hemoglobin J | Bld-Ser-Plas	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40775039	LP69598-8	Hemoglobin A2+XXX | Bld-Ser-Plas	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40775280	LP94673-8	Hemoglobin N+I | Bld-Ser-Plas	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40775446	LP100945-7	Hemoglobin A1c | Bld-Ser-Plas	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40777033	LP45735-5	Hemoglobin F | Gastric fluid	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40777347	LP48919-2	Erythrocyte Mean Corpuscular Hemoglobin Concentration | Red Blood Cells	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40777491	LP50453-7	Hemoglobin G - Coushatta | Bld-Ser-Plas	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40777531	LP50822-3	Hemoglobin | XXX	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40777532	LP50839-7	Hemoglobin S | Amniotic Fluid	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40777545	LP50955-1	Hemoglobin O - Arab | Bld-Ser-Plas	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40777765	LP53445-0	Hemoglobin F1 | Bld-Ser-Plas	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40777766	LP53446-8	Hemoglobin G - Georgia | Bld-Ser-Plas	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40777767	LP53447-6	Hemoglobin Hasharon | Bld-Ser-Plas	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40777768	LP53451-8	Hemoglobin J - Capetown | Bld-Ser-Plas	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40777769	LP53459-1	Hemoglobin M - Milwaukee | Bld-Ser-Plas	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40777775	LP53518-4	Hemoglobin Ypsilanti | Bld-Ser-Plas	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40777838	LP54512-6	Hemoglobin | Peritoneal fluid	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40777986	LP61585-3	Erythrocyte Mean Corpuscular Hemoglobin | Blood cord	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40778373	LP69378-5	Hemoglobin S+D+G Region | Bld-Ser-Plas	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40779565	LP30925-9	Abnormal Hemoglobin	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+40779990	LP42134-4	Hemoglobin Pattern | Bld-Ser-Plas	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40780720	LP48741-0	Hemoglobin A2 | Bld-Ser-Plas	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40780737	LP48863-2	Hemoglobin F | Vomitus	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40780783	LP49319-4	Hemoglobin F | XXX	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40780896	LP50390-1	Free Hemoglobin | Urine	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40781138	LP53443-5	Hemoglobin F - Texas | Bld-Ser-Plas	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40781141	LP53483-1	Hemoglobin Ranier | Bld-Ser-Plas	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40781145	LP53521-8	Hemoglobin F | Stool	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40781146	LP53523-4	Thermolabile hemoglobin | Red Blood Cells	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40781213	LP54499-6	Hemoglobin | Cerebral spinal fluid	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40781788	LP70253-7	Hemoglobin M | Bld-Ser-Plas	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40781805	LP70633-0	Hemoglobin G | Bld-Ser-Plas	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40781991	LP94672-0	Hemoglobin D+G | Bld-Ser-Plas	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40782206	LP105244-0	Erythrocyte mean corpuscular hemoglobin concentration | Fetus | Bld-Ser-Plas	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40783606	LP45041-8	Hemoglobin A3 | Bld-Ser-Plas	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40784014	LP48918-4	Erythrocyte Mean Corpuscular Hemoglobin | Red Blood Cells	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40784160	LP50418-0	Hemoglobin | Body Fluid	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40784207	LP50873-6	Stable Hemoglobin | Bld-Ser-Plas	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40784427	LP53209-0	Hemoglobin D | Bld-Ser-Plas	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40784442	LP53437-7	Hemoglobin Bethesda | Bld-Ser-Plas	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40784443	LP53438-5	Hemoglobin C - Harlem | Bld-Ser-Plas	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40784444	LP53449-2	Hemoglobin I | Bld-Ser-Plas	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40784445	LP53452-6	Hemoglobin J - Oxford | Bld-Ser-Plas	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40784534	LP54522-5	Hemoglobin | Urine	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40786237	LP31617-1	Hemoglobin normal variant	LOINC Hierarchy	Measurement	LOINC	Valid	Classification
+40786757	LP43232-5	Hemoglobin F Distribution | Bld-Ser-Plas	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40787384	LP49434-1	Hemoglobin | Blood capillary	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40787430	LP49893-8	Hemoglobin F | Bld-Ser-Plas	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40787705	LP52579-7	Hemoglobin | Reticulocytes	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40787767	LP53278-5	Hemoglobin G - Philadelphia | Bld-Ser-Plas	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40787782	LP53441-9	Hemoglobin D - Punjab | Bld-Ser-Plas	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40787783	LP53457-5	Hemoglobin M - Hyde Park | Bld-Ser-Plas	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40787785	LP53481-5	Hemoglobin N - Seattle | Bld-Ser-Plas	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40787788	LP53519-2	Hemoglobin Zurich | Bld-Ser-Plas	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40787789	LP53522-6	Free Hemoglobin | Bld-Ser-Plas	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40787854	LP54517-5	Hemoglobin | Synovial fluid	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40788202	LP66423-2	Hemoglobin A2+E | Bld-Ser-Plas	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40788339	LP69379-3	Hemoglobin C+E+O+A2 Region | Bld-Ser-Plas	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40788600	LP94671-2	Hemoglobin A2+E+O | Bld-Ser-Plas	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40789774	LP40632-9	Hemoglobin A | Bld-Ser-Plas	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40789986	LP43135-0	Hemoglobin | Bld-Ser-Plas	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40790265	LP45736-3	Hemoglobin F | Meconium	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40790267	LP45749-6	Hemoglobin F | Newborn | Bld-Ser-Plas	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40790483	LP48048-0	Hemoglobin XXX | Bld-Ser-Plas	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40790628	LP49437-4	Hemoglobin | Blood cord arterial	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40790629	LP49450-7	Hemoglobin Distribution Width | Bld-Ser-Plas	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40790641	LP49628-8	Hemoglobin Barts | Bld-Ser-Plas	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40790983	LP53436-9	Hemoglobin Abruzzo | Bld-Ser-Plas	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40790984	LP53439-3	Hemoglobin Chesapeake | Bld-Ser-Plas	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40790985	LP53442-7	Hemoglobin Denver | Bld-Ser-Plas	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40790986	LP53454-2	Hemoglobin Kempsey | Bld-Ser-Plas	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40790987	LP53455-9	Hemoglobin Koln | Bld-Ser-Plas	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40790988	LP53464-1	Hemoglobin M - Saskatoon | Bld-Ser-Plas	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40790992	LP53480-7	Hemoglobin N - Baltimore | Bld-Ser-Plas	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40791228	LP61586-1	Erythrocyte Mean Corpuscular Hemoglobin Concentration | Blood cord	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40791465	LP66422-4	Hemoglobin A2+C | Bld-Ser-Plas	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40792005	LP99908-3	Hemoglobin H inclusion bodies | Bld-Ser-Plas	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40792074	LP102447-2	Hemoglobin | fetus | Bld-Ser-Plas	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40792125	LP118815-2	Unstable Hemoglobin | Red Blood Cells	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40793143	LP42135-1	Hemoglobin A Region | Bld-Ser-Plas	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40793300	LP43637-5	Hemoglobin | Blood arterial	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40793915	LP49433-3	Hemoglobin | Blood mixed venous	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40794085	LP50956-9	Hemoglobin A2.prime | Bld-Ser-Plas	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40794174	LP51960-0	Hemoglobin E | Bld-Ser-Plas	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40794289	LP53448-4	Hemoglobin Hope | Bld-Ser-Plas	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40794290	LP53465-8	Hemoglobin Malmo | Bld-Ser-Plas	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40794292	LP53510-1	Hemoglobin Yakima | Bld-Ser-Plas	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40794366	LP54508-4	Hemoglobin | Pleural fluid	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40795029	LP89406-0	Hemoglobin | Blood product unit | Bld-Ser-Plas	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40795137	LP94670-4	Hemoglobin A2+C+E+O | Bld-Ser-Plas	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40795585	LP132418-7	Hemoglobin Ag | Tissue and Smears	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40797182	LP48889-7	Hemoglobin F | Amniotic Fluid	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40797575	LP53434-4	Hemoglobin A1 | Bld-Ser-Plas	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40797576	LP53440-1	Hemoglobin Constant Spring | Bld-Ser-Plas	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+40797924	LP63744-4	Free Hemoglobin | Cerebral spinal fluid	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+42527968	85091-7	HBA2 gene alpha 3.7kb triplication [Presence] in Blood by Molecular genetics method	Lab Test	Measurement	LOINC	Valid	Standard
+42868439	69950-4	Hemoglobin [Mass/volume] in Pericardial fluid	Lab Test	Measurement	LOINC	Valid	Standard
+42869451	71694-4	Hemoglobin [Entitic mass] in Reticulocytes by Automated count	Lab Test	Measurement	LOINC	Valid	Standard
+42869591	71836-1	Oxyhemoglobin/Hemoglobin.total [Pure mass fraction] in Venous blood	Lab Test	Measurement	LOINC	Valid	Standard
+42869592	71837-9	Oxyhemoglobin/Hemoglobin.total [Pure mass fraction] in Mixed venous blood	Lab Test	Measurement	LOINC	Valid	Standard
+42869593	71838-7	Oxyhemoglobin/Hemoglobin.total [Pure mass fraction] in Capillary blood	Lab Test	Measurement	LOINC	Valid	Standard
+42869594	71839-5	Oxyhemoglobin/Hemoglobin.total [Pure mass fraction] in Arterial blood	Lab Test	Measurement	LOINC	Valid	Standard
+42869595	71840-3	Oxyhemoglobin/Hemoglobin.total [Pure mass fraction] in Blood	Lab Test	Measurement	LOINC	Valid	Standard
+42869609	71854-4	Deoxyhemoglobin/Hemoglobin.total [Pure mass fraction] in Arterial blood	Lab Test	Measurement	LOINC	Valid	Standard
+42869612	71857-7	Hemoglobin S/Hemoglobin.total [Pure mass fraction] in Blood	Lab Test	Measurement	LOINC	Valid	Standard
+42869613	71858-5	Hemoglobin S/Hemoglobin.total [Pure mass fraction] in Blood by HPLC	Lab Test	Measurement	LOINC	Valid	Standard
+42869614	71859-3	Hemoglobin S/Hemoglobin.total [Pure mass fraction] in Blood by Electrophoresis	Lab Test	Measurement	LOINC	Valid	Standard
+42869615	71860-1	Hemoglobin M/Hemoglobin.total [Pure mass fraction] in Blood	Lab Test	Measurement	LOINC	Valid	Standard
+42869616	71861-9	Hemoglobin Lepore/Hemoglobin.total [Pure mass fraction] in Blood	Lab Test	Measurement	LOINC	Valid	Standard
+42869617	71862-7	Hemoglobin H/Hemoglobin.total [Pure mass fraction] in Blood by Electrophoresis	Lab Test	Measurement	LOINC	Valid	Standard
+42869618	71863-5	Hemoglobin F/Hemoglobin.total [Pure mass fraction] in Blood by Kleihauer-Betke method	Lab Test	Measurement	LOINC	Valid	Standard
+42869619	71864-3	Hemoglobin F/Hemoglobin.total [Pure mass fraction] in Blood by HPLC	Lab Test	Measurement	LOINC	Valid	Standard
+42869620	71865-0	Hemoglobin F/Hemoglobin.total [Pure mass fraction] in Blood by Electrophoresis	Lab Test	Measurement	LOINC	Valid	Standard
+42869621	71866-8	Hemoglobin E/Hemoglobin.total [Pure mass fraction] in Blood by HPLC	Lab Test	Measurement	LOINC	Valid	Standard
+42869622	71867-6	Hemoglobin D/Hemoglobin.total [Pure mass fraction] in Blood by HPLC	Lab Test	Measurement	LOINC	Valid	Standard
+42869623	71868-4	Hemoglobin D/Hemoglobin.total [Pure mass fraction] in Blood	Lab Test	Measurement	LOINC	Valid	Standard
+42869624	71869-2	Hemoglobin C/Hemoglobin.total [Pure mass fraction] in Blood by HPLC	Lab Test	Measurement	LOINC	Valid	Standard
+42869625	71870-0	Hemoglobin C/Hemoglobin.total [Pure mass fraction] in Blood	Lab Test	Measurement	LOINC	Valid	Standard
+42869626	71871-8	Hemoglobin Barts/Hemoglobin.total [Pure mass fraction] in Blood	Lab Test	Measurement	LOINC	Valid	Standard
+42869627	71872-6	Hemoglobin A2/Hemoglobin.total [Pure mass fraction] in Blood	Lab Test	Measurement	LOINC	Valid	Standard
+42869628	71873-4	Hemoglobin A2/Hemoglobin.total [Pure mass fraction] in Blood by HPLC	Lab Test	Measurement	LOINC	Valid	Standard
+42869629	71874-2	Hemoglobin A2/Hemoglobin.total [Pure mass fraction] in Blood by Electrophoresis	Lab Test	Measurement	LOINC	Valid	Standard
+42869630	71875-9	Hemoglobin A1c/Hemoglobin.total [Pure mass fraction] in Blood	Lab Test	Measurement	LOINC	Valid	Standard
+42869631	71876-7	Hemoglobin A/Hemoglobin.total [Pure mass fraction] in Blood	Lab Test	Measurement	LOINC	Valid	Standard
+42869632	71877-5	Hemoglobin A/Hemoglobin.total [Pure mass fraction] in Blood by HPLC	Lab Test	Measurement	LOINC	Valid	Standard
+42869633	71878-3	Hemoglobin A/Hemoglobin.total [Pure mass fraction] in Blood by Electrophoresis	Lab Test	Measurement	LOINC	Valid	Standard
+42869639	71884-1	Carboxyhemoglobin/Hemoglobin.total [Pure mass fraction] in Venous blood	Lab Test	Measurement	LOINC	Valid	Standard
+42869640	71885-8	Carboxyhemoglobin/Hemoglobin.total [Pure mass fraction] in Mixed venous blood	Lab Test	Measurement	LOINC	Valid	Standard
+42869641	71886-6	Carboxyhemoglobin/Hemoglobin.total [Pure mass fraction] in Venous cord blood	Lab Test	Measurement	LOINC	Valid	Standard
+42869642	71887-4	Carboxyhemoglobin/Hemoglobin.total [Pure mass fraction] in Arterial cord blood	Lab Test	Measurement	LOINC	Valid	Standard
+42869643	71888-2	Carboxyhemoglobin/Hemoglobin.total [Pure mass fraction] in Capillary blood	Lab Test	Measurement	LOINC	Valid	Standard
+42869644	71889-0	Carboxyhemoglobin/Hemoglobin.total [Pure mass fraction] in Arterial blood	Lab Test	Measurement	LOINC	Valid	Standard
+42869645	71890-8	Carboxyhemoglobin/Hemoglobin.total [Pure mass fraction] in Blood	Lab Test	Measurement	LOINC	Valid	Standard
+42870577	69578-3	Diffusion capacity.carbon monoxide/Alveolar volume adjusted for hemoglobin	Clinical Observation	Measurement	LOINC	Valid	Standard
+42870672	LP145545-2	Hemoglobin | Pericardial fluid	LOINC Hierarchy	Measurement	LOINC	Invalid	Non-standard
+43055228	72263-7	Oxyhemoglobin [Moles/volume] in Cerebral spinal fluid	Lab Test	Measurement	LOINC	Valid	Standard
+43055229	72264-5	Bilirubin excess and oxyhemoglobin and methemoglobin and xanthochromia and albumin quotient panel - Serum and CSF	Lab Test	Measurement	LOINC	Valid	Standard
+43533918	73895-5	Hemoglobin [Entitic substance] in Reticulocytes by Automated count	Lab Test	Measurement	LOINC	Valid	Standard
+46234849	75373-1	Erythrocytes.fetal/2000 erythrocytes in Blood by Kleihauer-Betke method	Lab Test	Measurement	LOINC	Valid	Standard
+46234968	76686-5	Reticulocyte cellular hemoglobin distribution width [Entitic mass] in Blood by calculation	Lab Test	Measurement	LOINC	Valid	Standard
+46235391	76768-1	Hemoglobin [Mass/volume] in Mixed venous blood by Oximetry	Lab Test	Measurement	LOINC	Valid	Standard
+46235392	76769-9	Hemoglobin [Mass/volume] in Venous blood by Oximetry	Lab Test	Measurement	LOINC	Valid	Standard
+46235809	76139-5	Reticulocyte hemoglobin distribution width [Mass/volume] in Blood by calculation	Lab Test	Measurement	LOINC	Valid	Standard
+46235811	76141-1	Reticulocyte corpuscular hemoglobin concentration mean [Mass/volume] in Blood	Lab Test	Measurement	LOINC	Valid	Standard
+46236293	77627-8	HBB gene mutations found [Identifier] in Blood or Tissue by Sequencing Nominal	Lab Test	Measurement	LOINC	Valid	Standard
+45611736	D004909	Erythrocyte Indices	Main Heading	Measurement	MeSH	Valid	Non-standard
+3557376	545911000000101	Haemoglobin variant NOS	Procedure	Measurement	SNOMED	Invalid	Non-standard
+3557440	554011000000101	Haemoglobin estimation NOS	Procedure	Measurement	SNOMED	Invalid	Non-standard
+3557603	575401000000108	Mean corpuscular haemoglobin NOS	Procedure	Measurement	SNOMED	Invalid	Non-standard
+3557605	575421000000104	MCHC - NOS	Procedure	Measurement	SNOMED	Invalid	Non-standard
+4004882	121099005	Hemoglobin S solubility test	Procedure	Measurement	SNOMED	Valid	Standard
+4011919	103228002	Hemoglobin saturation with oxygen	Observable Entity	Measurement	SNOMED	Valid	Standard
+4013084	165450006	MCHC - NOS	Procedure	Measurement	SNOMED	Invalid	Non-standard
+4013243	165443007	Mean corpuscular hemoglobin NOS	Procedure	Measurement	SNOMED	Invalid	Non-standard
+4013403	165405009	Hemoglobin estimation NOS	Procedure	Measurement	SNOMED	Invalid	Non-standard
+"4014494	104148009	Apt test (hemoglobin), stool	Procedure	Measurement	SNOMED	Valid	Standard"
+"4015052	104091002	Hemogram, automated, with RBC, WBC, Hgb, Hct, Indices, Platelet count, and manual WBC differential	Procedure	Measurement	SNOMED	Valid	Standard"
+4015177	104141003	Semi-quantitative measurement of total hemoglobin in blood specimen	Procedure	Measurement	SNOMED	Valid	Standard
+4015178	104142005	Measurement of total hemoglobin concentration in plasma specimen	Procedure	Measurement	SNOMED	Valid	Standard
+4015179	104144006	Determination of hemoglobin subtype	Procedure	Measurement	SNOMED	Valid	Standard
+4016242	104143000	Measurement of total hemoglobin concentration in urine specimen	Procedure	Measurement	SNOMED	Valid	Standard
+"4016927	104092009	Hemogram, automated, with RBC, WBC, Hgb, Hct, Indices, Platelet count, and automated partial WBC differential	Procedure	Measurement	SNOMED	Valid	Standard"
+"4016928	104093004	Hemogram, automated, with RBC, WBC, Hgb, Hct, Indices, Platelet count, and automated complete WBC differential	Procedure	Measurement	SNOMED	Valid	Standard"
+"4016936	104134009	Hemoglobin distribution, width determination	Procedure	Measurement	SNOMED	Valid	Standard"
+"4016938	104140002	Hemoglobin by copper sulfate method, non-automated	Procedure	Measurement	SNOMED	Valid	Standard"
+4017624	104568008	Carbonyl hemoglobin measurement	Procedure	Measurement	SNOMED	Valid	Standard
+"4018324	104718002	Hemoglobin, free measurement	Procedure	Measurement	SNOMED	Valid	Standard"
+"4018325	104719005	Hemoglobin, thermolabile measurement	Procedure	Measurement	SNOMED	Valid	Standard"
+"4018326	104720004	Hemoglobin, unstable measurement	Procedure	Measurement	SNOMED	Valid	Standard"
+4020553	104847001	Oxygen saturation measurement	Procedure	Measurement	SNOMED	Valid	Standard
+4035114	117039004	Alkaline denaturation method for fetal hemoglobin determination	Procedure	Measurement	SNOMED	Valid	Standard
+4036846	117346004	Glucose measurement estimated from glycated hemoglobin	Procedure	Measurement	SNOMED	Valid	Standard
+4049246	23244001	Fetal hemoglobin determination	Procedure	Measurement	SNOMED	Valid	Standard
+4077492	275714003	Urine dipstick for hemoglobin	Procedure	Measurement	SNOMED	Valid	Standard
+4095337	250224009	Abnormal hemoglobin measurement	Procedure	Measurement	SNOMED	Valid	Standard
+4098065	252293003	Hemoglobin Constant Spring identification	Procedure	Measurement	SNOMED	Valid	Standard
+4098351	252291001	Hemoglobin Barts identification	Procedure	Measurement	SNOMED	Valid	Standard
+4098352	252292008	Hemoglobin H identification	Procedure	Measurement	SNOMED	Valid	Standard
+4118981	302763003	Hemoglobin variant test	Procedure	Measurement	SNOMED	Valid	Standard
+4121316	302781000	Dipstick assessment of hemoglobin concentration	Procedure	Measurement	SNOMED	Invalid	Non-standard
+4122145	259696002	Hemoglobin Constant Spring measurement	Procedure	Measurement	SNOMED	Valid	Standard
+4127156	259693005	Hemoglobin Barts measurement	Procedure	Measurement	SNOMED	Valid	Standard
+4127157	259694004	Hemoglobin H measurement	Procedure	Measurement	SNOMED	Valid	Standard
+4147407	308112001	Hemoglobin A1 measurement	Procedure	Measurement	SNOMED	Invalid	Non-standard
+4148063	35170002	Hemoglobin determination	Procedure	Measurement	SNOMED	Invalid	Non-standard
+4152671	269823000	Hemoglobin A1C - diabetic control interpretation	Observable Entity	Measurement	SNOMED	Valid	Standard
+4153000	271026005	Hemoglobin level estimation	Procedure	Measurement	SNOMED	Valid	Standard
+4154636	271510004	Hemoglobin S measurement	Procedure	Measurement	SNOMED	Valid	Standard
+4155233	269822005	Hemoglobin A2 measurement	Procedure	Measurement	SNOMED	Valid	Standard
+4182871	54706004	Mean corpuscular hemoglobin determination	Procedure	Measurement	SNOMED	Valid	Standard
+4184637	43396009	Hemoglobin A1c measurement	Procedure	Measurement	SNOMED	Valid	Standard
+4196586	313233005	Red cell hemoglobin S estimation	Procedure	Measurement	SNOMED	Valid	Standard
+4197971	313835008	HbA1c measurement (DCCT aligned)	Procedure	Measurement	SNOMED	Valid	Standard
+4199033	313995005	Hemoglobin A measurement	Procedure	Measurement	SNOMED	Valid	Standard
+4207480	312459000	Hemoglobin S genotype determination	Procedure	Measurement	SNOMED	Valid	Standard
+4210712	313834007	HbA1 measurement (DCCT aligned)	Procedure	Measurement	SNOMED	Invalid	Non-standard
+4223625	40402000	Glucohemoglobin measurement	Procedure	Measurement	SNOMED	Invalid	Non-standard
+4233064	407700005	Hemoglobin E level	Procedure	Measurement	SNOMED	Valid	Standard
+4235094	408190009	Hemoglobin O level	Procedure	Measurement	SNOMED	Valid	Standard
+4235110	408254005	Total glycosylated hemoglobin level	Procedure	Measurement	SNOMED	Valid	Standard
+4237629	409074001	Hemoglobin H inclusion test	Procedure	Measurement	SNOMED	Valid	Standard
+4250132	407699009	Hemoglobin D level	Procedure	Measurement	SNOMED	Valid	Standard
+4250135	407705000	Hemoglobin G level	Procedure	Measurement	SNOMED	Valid	Standard
+4253327	407706004	Hemoglobin J level	Procedure	Measurement	SNOMED	Valid	Standard
+4253330	407728004	Hemoglobin D Iran level	Procedure	Measurement	SNOMED	Valid	Standard
+4255164	408189000	Hemoglobin Lepore level	Procedure	Measurement	SNOMED	Valid	Standard
+4255165	408191008	Hemoglobin Sawara level	Procedure	Measurement	SNOMED	Valid	Standard
+4262288	35793002	Fetal RBC determination	Procedure	Measurement	SNOMED	Invalid	Non-standard
+4269017	401040003	Hemoglobin C measurement	Procedure	Measurement	SNOMED	Valid	Standard
+4288754	68994006	Measurement of total hemoglobin concentration and hematocrit	Procedure	Measurement	SNOMED	Valid	Standard
+4290193	37254006	Mean corpuscular hemoglobin concentration determination	Procedure	Measurement	SNOMED	Valid	Standard
+4306437	165670009	Red cell hemoglobin A2 estimation test	Procedure	Measurement	SNOMED	Valid	Standard
+4306586	165677007	Hemoglobin variant NOS	Procedure	Measurement	SNOMED	Invalid	Non-standard
+37018247	714696009	Quantitative measurement of hemoglobin F in maternal blood specimen using flow cytometry technique	Procedure	Measurement	SNOMED	Valid	Standard
+37019149	714683008	Hemoglobin F measurement using Kleihauer-Betke method	Procedure	Measurement	SNOMED	Valid	Standard
+40267641	103203005	Erythrocyte hemoglobin distribution width	Observable Entity	Measurement	SNOMED	Invalid	Non-standard
+40267643	103205003	Erythrocyte mean corpuscular hemoglobin	Observable Entity	Measurement	SNOMED	Invalid	Non-standard
+40267644	103206002	Erythrocyte mean corpuscular hemoglobin concentration	Observable Entity	Measurement	SNOMED	Invalid	Non-standard
+40301227	142815007	Hemoglobin estimation NOS	Procedure	Measurement	SNOMED	Invalid	Non-standard
+40301262	142847002	Mean cell hemoglobin (& level)	Procedure	Measurement	SNOMED	Invalid	Non-standard
+40302384	143067003	Hemoglobin variants (& [level])	Procedure	Measurement	SNOMED	Invalid	Non-standard
+40302390	143072007	Red cell Hemoglobin A2 estimation	Procedure	Measurement	SNOMED	Invalid	Non-standard
+40302391	143073002	Hemoglobin S level	Procedure	Measurement	SNOMED	Invalid	Non-standard
+40302394	143076005	Hemoglobin A2 level	Procedure	Measurement	SNOMED	Invalid	Non-standard
+40302397	143079003	Hemoglobin variant NOS	Procedure	Measurement	SNOMED	Invalid	Non-standard
+40302398	143080000	Hb. A1C - glycated hemoglobin (& [diabetic control])	Procedure	Measurement	SNOMED	Invalid	Non-standard
+40302887	143135004	Hemoglobin S genotype	Procedure	Measurement	SNOMED	Invalid	Non-standard
+40307813	144176003	Hemoglobin A1c level	Procedure	Measurement	SNOMED	Invalid	Non-standard
+40324197	165731005	Hemoglobin S genotype	Clinical Finding	Measurement	SNOMED	Invalid	Non-standard
+40329569	166902009	Hemoglobin A1c level	Procedure	Measurement	SNOMED	Invalid	Non-standard
+40329570	166903004	Hemoglobin A1 level	Procedure	Measurement	SNOMED	Invalid	Non-standard
+40332366	165436001	Mean cell hemoglobin (& level)	Procedure	Measurement	SNOMED	Invalid	Non-standard
+40333038	165665002	Hemoglobin variants (& [level])	Procedure	Measurement	SNOMED	Invalid	Non-standard
+40333045	165671008	Red cell hemoglobin S [level] or [estimation]	Procedure	Measurement	SNOMED	Invalid	Non-standard
+40333048	165674000	Hemoglobin A2 level	Procedure	Measurement	SNOMED	Invalid	Non-standard
+40333052	165678002	Hb. A1C - glycated hemoglobin (& [diabetic control])	Procedure	Measurement	SNOMED	Invalid	Non-standard
+40460545	252288001	Hemoglobin variant test	Procedure	Measurement	SNOMED	Invalid	Non-standard
+40478875	444257008	Calculation of estimated average glucose based on hemoglobin A1c	Procedure	Measurement	SNOMED	Invalid	Non-standard
+40478902	444281001	Detection of ordinal level of hemoglobin F in blood	Procedure	Measurement	SNOMED	Valid	Standard
+40478932	444308008	Detection of ordinal level of hemoglobin F in amniotic fluid	Procedure	Measurement	SNOMED	Valid	Standard
+40480067	441689006	Measurement of total hemoglobin concentration	Procedure	Measurement	SNOMED	Valid	Standard
+40481312	441921009	Determination of hemoglobin subtype using electrophoresis	Procedure	Measurement	SNOMED	Valid	Standard
+40483681	443862007	Quantitative measurement of hemoglobin F relative to total hemoglobin in serum or plasma by HPLC	Procedure	Measurement	SNOMED	Valid	Standard
+40483736	443911005	Ordinal level of hemoglobin A1c	Observable Entity	Measurement	SNOMED	Valid	Standard
+40484168	443972006	Direct measurement of oxygen saturation in venous blood specimen	Procedure	Measurement	SNOMED	Valid	Standard
+40484519	442673006	Measurement of total hemoglobin concentration using dipstick	Procedure	Measurement	SNOMED	Valid	Standard
+40568956	394875003	Unstable hemoglobin level	Clinical Finding	Measurement	SNOMED	Invalid	Non-standard
+709959	3051F	Most recent hemoglobin A1c (HbA1c) level greater than or equal to 7.0% and less than 8.0% (DM)	CPT4	Observation	CPT4	Valid	Standard
+709960	3052F	Most recent hemoglobin A1c (HbA1c) level greater than or equal to 8.0% and less than or equal to 9.0% (DM)	CPT4	Observation	CPT4	Valid	Standard
+2101837	0514F	Plan of care for elevated hemoglobin level documented for patient receiving Erythropoiesis-Stimulating Agent therapy (ESA) (CKD)	CPT4	Observation	CPT4	Valid	Standard
+2106236	3044F	Most recent hemoglobin A1c (HbA1c) level less than 7.0% (DM)	CPT4	Observation	CPT4	Valid	Standard
+2106238	3045F	Most recent hemoglobin A1c (HbA1c) level 7.0-9.0% (DM) (Deprecated)	CPT4	Observation	CPT4	Valid	Standard
+2106252	3046F	Most recent hemoglobin A1c level greater than 9.0% (DM)	CPT4	Observation	CPT4	Valid	Standard
+"2106862	3279F	Hemoglobin level greater than or equal to 13 g/dL (CKD, ESRD)	CPT4	Observation	CPT4	Valid	Standard"
+"2106864	3280F	Hemoglobin level 11 g/dL to 12.9 g/dL (CKD, ESRD)	CPT4	Observation	CPT4	Valid	Standard"
+"2106867	3281F	Hemoglobin level less than 11 g/dL (CKD, ESRD)	CPT4	Observation	CPT4	Valid	Standard"
+"42627905	81528	Oncology (colorectal) screening, quantitative real-time target and signal amplification of 10 DNA markers (KRAS mutations, promoter methylation of NDRG4 and BMP3) and fecal hemoglobin, utilizing stool, algorithm reported as a positive or negative result	CPT4	Observation	CPT4	Valid	Standard"
+42628279	GS	Dosage of erythropoietin stimulating agent has been reduced and maintained in response to hematocrit or hemoglobin level	CPT4 Modifier	Observation	CPT4	Valid	Standard
+42628322	ED	Hematocrit level has exceeded 39% (or hemoglobin level has exceeded 13.0 g/dl) for 3 or more consecutive billing cycles immediately prior to and including the current cycle	CPT4 Modifier	Observation	CPT4	Valid	Standard
+42628323	EE	Hematocrit level has not exceeded 39% (or hemoglobin level has not exceeded 13.0 g/dl) for 3 or more consecutive billing cycles immediately prior to and including the current cycle	CPT4 Modifier	Observation	CPT4	Valid	Standard
+42741295	3047F	Most recent hemoglobin A1c level <= 9.0% (DM) (Deprecated)	CPT4	Observation	CPT4	Valid	Standard
+1005670	LP112416-5	PhenX measure - glycosylated hemoglobin assay that reflects long-term glucose concentration	LOINC Component	Observation	LOINC	Invalid	Non-standard
+1005671	LP112417-3	PhenX - glycosylated hemoglobin assay reflecting long-term glucose concentration protocol 140901	LOINC Component	Observation	LOINC	Valid	Non-standard
+1006376	LP115814-8	Most predominant hemoglobin	LOINC Component	Observation	LOINC	Valid	Non-standard
+1006377	LP115815-5	Second most predominant hemoglobin	LOINC Component	Observation	LOINC	Valid	Non-standard
+1006378	LP115816-3	Third most predominant hemoglobin	LOINC Component	Observation	LOINC	Valid	Non-standard
+1006379	LP115817-1	Fourth most predominant hemoglobin	LOINC Component	Observation	LOINC	Valid	Non-standard
+1006380	LP115818-9	Fifth most predominant hemoglobin	LOINC Component	Observation	LOINC	Valid	Non-standard
+1012153	LP16344-1	Carbonyl hemoglobin	LOINC Component	Observation	LOINC	Invalid	Non-standard
+1012558	LP182486-3	Cellular hemoglobin distribution width	LOINC Component	Observation	LOINC	Valid	Non-standard
+1017437	LP264997-0	Hemoglobin A1C/Hemoglobin.total goal	LOINC Component	Observation	LOINC	Valid	Non-standard
+1017438	LP264998-8	Hemoglobin goal	LOINC Component	Observation	LOINC	Valid	Non-standard
+1018496	LP269021-4	Hemoglobin pattern imp	LOINC Component	Observation	LOINC	Invalid	Non-standard
+1019719	LP285213-7	Carbonyl hemoglobin/Hemoglobin.total	LOINC Component	Observation	LOINC	Valid	Non-standard
+1019907	LP288655-6	Blood group Ag and Hemoglobin S inferred panel	LOINC Component	Observation	LOINC	Valid	Non-standard
+1024427	LP308808-7	Diffusion capacity.carbon monoxide/Alveolar volume^^adjusted for hemoglobin	LOINC Component	Observation	LOINC	Valid	Non-standard
+1024428	LP308809-5	Diffusion capacity.carbon monoxide^^adjusted for hemoglobin	LOINC Component	Observation	LOINC	Valid	Non-standard
+1029009	LP6264-8	Estimated from glycated hemoglobin	LOINC Method	Observation	LOINC	Valid	Non-standard
+1031556	LP74092-5	Hemoglobin test status	LOINC Component	Observation	LOINC	Valid	Non-standard
+1031557	LP74093-3	Hemoglobin test status/results	LOINC Component	Observation	LOINC	Valid	Non-standard
+1034678	LP97621-4	Hemoglobin disorders newborn screening comment/discussion	LOINC Component	Observation	LOINC	Valid	Non-standard
+3032135	41987-9	Hemoglobin test status/results Set CPHS	Claims Attachment	Observation	LOINC	Valid	Standard
+3040459	39226-6	Hemoglobin test status CPHS	Claims Attachment	Observation	LOINC	Valid	Standard
+36661950	LP417420-9	Hemoglobin HPLC and electrophoresis panel	LOINC Component	Observation	LOINC	Valid	Non-standard
+37021689	LP94630-8	Hemoglobin A2+C+E+O	LOINC Component	Observation	LOINC	Valid	Non-standard
+37021752	LP286149-2	Hemoglobin A/Hemoglobin.total	LOINC Component	Observation	LOINC	Valid	Non-standard
+37022671	LP38314-8	Hemoglobin Ag	LOINC Component	Observation	LOINC	Valid	Non-standard
+37022759	LP94632-4	Hemoglobin D+G	LOINC Component	Observation	LOINC	Valid	Non-standard
+37022974	LP16440-7	Hemoglobin J - Oxford	LOINC Component	Observation	LOINC	Valid	Non-standard
+37023123	LP286157-5	Hemoglobin A2+E+O/Hemoglobin.total	LOINC Component	Observation	LOINC	Valid	Non-standard
+37024125	LP286150-0	Hemoglobin A1/Hemoglobin.total	LOINC Component	Observation	LOINC	Valid	Non-standard
+37024368	LP14448-2	Hemoglobin XXX	LOINC Component	Observation	LOINC	Valid	Non-standard
+37026638	LP286161-7	Hemoglobin C/Hemoglobin.total	LOINC Component	Observation	LOINC	Valid	Non-standard
+37026762	LP16417-5	Hemoglobin Abruzzo	LOINC Component	Observation	LOINC	Valid	Non-standard
+37026919	LP16439-9	Hemoglobin J - Capetown	LOINC Component	Observation	LOINC	Valid	Non-standard
+37027423	LP14154-6	Hemoglobin and Hematocrit panel	LOINC Component	Observation	LOINC	Valid	Non-standard
+37027610	LP286165-8	Hemoglobin D+G/Hemoglobin.total	LOINC Component	Observation	LOINC	Valid	Non-standard
+37028228	LP16441-5	Hemoglobin Kansas	LOINC Component	Observation	LOINC	Valid	Non-standard
+37029313	LP286168-2	Hemoglobin F1/Hemoglobin.total	LOINC Component	Observation	LOINC	Valid	Non-standard
+37029620	LP286160-9	Hemoglobin Barts/Hemoglobin.total	LOINC Component	Observation	LOINC	Valid	Non-standard
+37030255	LP66390-3	Hemoglobin A2+C	LOINC Component	Observation	LOINC	Valid	Non-standard
+37030954	LP286181-5	Hemoglobin S/Hemoglobin.total	LOINC Component	Observation	LOINC	Valid	Non-standard
+37031378	LP16435-7	Hemoglobin Hasharon	LOINC Component	Observation	LOINC	Valid	Non-standard
+37031995	LP286159-1	Hemoglobin A3/Hemoglobin.total	LOINC Component	Observation	LOINC	Valid	Non-standard
+37032988	LP16425-8	Hemoglobin D - Punjab	LOINC Component	Observation	LOINC	Valid	Non-standard
+37033363	LP286174-0	Hemoglobin Hope/Hemoglobin.total	LOINC Component	Observation	LOINC	Valid	Non-standard
+37033888	LP66397-8	Hemoglobin A2+E	LOINC Component	Observation	LOINC	Valid	Non-standard
+37034132	LP286158-3	Hemoglobin A2+XXX/Hemoglobin.total	LOINC Component	Observation	LOINC	Valid	Non-standard
+37034935	LP115813-0	Hemoglobin observations newborn screening panel	LOINC Component	Observation	LOINC	Valid	Non-standard
+37036353	LP16447-2	Hemoglobin M - Iwate	LOINC Component	Observation	LOINC	Valid	Non-standard
+37036892	LP286180-7	Hemoglobin Q/Hemoglobin.total	LOINC Component	Observation	LOINC	Valid	Non-standard
+37037081	LP16437-3	Hemoglobin I	LOINC Component	Observation	LOINC	Valid	Non-standard
+37037778	LP17381-2	Hemoglobin distribution width	LOINC Component	Observation	LOINC	Valid	Non-standard
+37038231	LP286164-1	Hemoglobin D/Hemoglobin.total	LOINC Component	Observation	LOINC	Valid	Non-standard
+37038976	LP286171-6	Hemoglobin G-Philadelphia/Hemoglobin.total	LOINC Component	Observation	LOINC	Valid	Non-standard
+37039815	LP36360-3	Hemoglobin panel	LOINC Component	Observation	LOINC	Valid	Non-standard
+37040062	LP62886-4	Hemoglobin C crystals	LOINC Component	Observation	LOINC	Valid	Non-standard
+37040530	LP286182-3	Hemoglobin XXX/Hemoglobin.total	LOINC Component	Observation	LOINC	Valid	Non-standard
+37041737	LP207149-8	Hemoglobin Q	LOINC Component	Observation	LOINC	Valid	Non-standard
+37041943	LP286173-2	Hemoglobin Hasharon/Hemoglobin.total	LOINC Component	Observation	LOINC	Valid	Non-standard
+37042585	LP308151-2	Hematocrit/Hemoglobin	LOINC Component	Observation	LOINC	Valid	Non-standard
+37042653	LP286176-5	Hemoglobin Lepore/Hemoglobin.total	LOINC Component	Observation	LOINC	Valid	Non-standard
+37042824	LP286169-0	Hemoglobin G/Hemoglobin.total	LOINC Component	Observation	LOINC	Valid	Non-standard
+37043093	LP56777-3	Hemoglobin S/Beta Thalassemia	LOINC Component	Observation	LOINC	Valid	Non-standard
+37043567	LP286156-7	Hemoglobin A2+E/Hemoglobin.total	LOINC Component	Observation	LOINC	Valid	Non-standard
+37044577	LP342845-7	Hemoglobin S inferred phenotype	LOINC Component	Observation	LOINC	Valid	Non-standard
+37044635	LP99907-5	Hemoglobin H inclusion bodies	LOINC Component	Observation	LOINC	Valid	Non-standard
+37044761	LP286177-3	Hemoglobin M/Hemoglobin.total	LOINC Component	Observation	LOINC	Valid	Non-standard
+37044765	LP16432-4	Hemoglobin G - Georgia	LOINC Component	Observation	LOINC	Valid	Non-standard
+37047158	LP16449-8	Hemoglobin M - Saskatoon	LOINC Component	Observation	LOINC	Valid	Non-standard
+37047163	LP16416-7	Hemoglobin A3	LOINC Component	Observation	LOINC	Valid	Non-standard
+37047576	LP16422-5	Hemoglobin Chesapeake	LOINC Component	Observation	LOINC	Valid	Non-standard
+37049221	LP285807-6	Coproporphyrin/Hemoglobin	LOINC Component	Observation	LOINC	Valid	Non-standard
+37049237	LP94631-6	Hemoglobin A2+E+O	LOINC Component	Observation	LOINC	Valid	Non-standard
+37049705	LP16462-1	Thermolabile hemoglobin	LOINC Component	Observation	LOINC	Valid	Non-standard
+37049876	LP16421-7	Hemoglobin C - Harlem	LOINC Component	Observation	LOINC	Valid	Non-standard
+37049910	LP31780-7	Hemoglobin casts	LOINC Component	Observation	LOINC	Valid	Non-standard
+37050709	LP16419-1	Hemoglobin Bethesda	LOINC Component	Observation	LOINC	Valid	Non-standard
+37051929	LP286166-6	Hemoglobin E/Hemoglobin.total	LOINC Component	Observation	LOINC	Valid	Non-standard
+37052410	LP16445-6	Hemoglobin M - Boston	LOINC Component	Observation	LOINC	Valid	Non-standard
+37052451	LP16456-3	Hemoglobin Yakima	LOINC Component	Observation	LOINC	Valid	Non-standard
+37052484	LP16433-2	Hemoglobin G - Philadelphia	LOINC Component	Observation	LOINC	Valid	Non-standard
+37052623	LP16446-4	Hemoglobin M - Hyde Park	LOINC Component	Observation	LOINC	Valid	Non-standard
+37053720	LP16431-6	Hemoglobin G - Coushatta	LOINC Component	Observation	LOINC	Valid	Non-standard
+37053750	LP16438-1	Hemoglobin J - Baltimore	LOINC Component	Observation	LOINC	Valid	Non-standard
+37054816	LP18157-5	Hemoglobin A region	LOINC Component	Observation	LOINC	Valid	Non-standard
+37055646	LP16426-6	Hemoglobin Denver	LOINC Component	Observation	LOINC	Valid	Non-standard
+37056065	LP286151-8	Hemoglobin A1c/Hemoglobin.total	LOINC Component	Observation	LOINC	Valid	Non-standard
+37056514	LP18158-3	Hemoglobin S+D+G region	LOINC Component	Observation	LOINC	Valid	Non-standard
+37056677	LP16463-9	Unstable Hemoglobin	LOINC Component	Observation	LOINC	Valid	Non-standard
+37056836	LP16443-1	Hemoglobin Koln	LOINC Component	Observation	LOINC	Valid	Non-standard
+37057180	LP16423-3	Hemoglobin Constant Spring	LOINC Component	Observation	LOINC	Valid	Non-standard
+37057230	LP94307-3	Abnormal hemoglobin gene panel	LOINC Component	Observation	LOINC	Valid	Non-standard
+37057297	LP33052-9	Hemoglobin A2.prime	LOINC Component	Observation	LOINC	Valid	Non-standard
+37057957	LP286170-8	Hemoglobin G-Coushatta/Hemoglobin.total	LOINC Component	Observation	LOINC	Valid	Non-standard
+37058037	LP286179-9	Hemoglobin O-Arab/Hemoglobin.total	LOINC Component	Observation	LOINC	Valid	Non-standard
+37058141	LP183488-8	Reticulocyte corpuscular hemoglobin concentration mean	LOINC Component	Observation	LOINC	Valid	Non-standard
+37058276	LP32803-6	Stable Hemoglobin	LOINC Component	Observation	LOINC	Valid	Non-standard
+37058996	LP286172-4	Hemoglobin H/Hemoglobin.total	LOINC Component	Observation	LOINC	Valid	Non-standard
+37059173	LP56776-5	Hemoglobin SC disease	LOINC Component	Observation	LOINC	Valid	Non-standard
+37059662	LP286154-2	Hemoglobin A2+C/Hemoglobin.total	LOINC Component	Observation	LOINC	Valid	Non-standard
+37060680	LP262513-7	Free hemoglobin and oxyhemoglobin panel	LOINC Component	Observation	LOINC	Valid	Non-standard
+37060782	LP183484-7	Reticulocyte cellular hemoglobin distribution width	LOINC Component	Observation	LOINC	Valid	Non-standard
+37061756	LP14450-8	Hemoglobin A2+XXX	LOINC Component	Observation	LOINC	Valid	Non-standard
+37061968	LP286163-3	Hemoglobin Constant Spring/Hemoglobin.total	LOINC Component	Observation	LOINC	Valid	Non-standard
+37062028	LP286178-1	Hemoglobin N+I/Hemoglobin.total	LOINC Component	Observation	LOINC	Valid	Non-standard
+37062328	LP18160-9	Hemoglobin C+E+O+A2 region	LOINC Component	Observation	LOINC	Valid	Non-standard
+37063312	LP16429-0	Hemoglobin F - Texas	LOINC Component	Observation	LOINC	Valid	Non-standard
+37063482	LP16450-6	Hemoglobin Malmo	LOINC Component	Observation	LOINC	Valid	Non-standard
+37067552	LP286162-5	Hemoglobin C-Harlem/Hemoglobin.total	LOINC Component	Observation	LOINC	Valid	Non-standard
+37068230	LP286175-7	Hemoglobin J/Hemoglobin.total	LOINC Component	Observation	LOINC	Valid	Non-standard
+37069016	LP16430-8	Hemoglobin F1	LOINC Component	Observation	LOINC	Valid	Non-standard
+37069293	LP286155-9	Hemoglobin A2+C+E+O/Hemoglobin.total	LOINC Component	Observation	LOINC	Valid	Non-standard
+37069970	LP16434-0	Hemoglobin H	LOINC Component	Observation	LOINC	Valid	Non-standard
+37070757	LP286153-4	Hemoglobin A2/Hemoglobin.total	LOINC Component	Observation	LOINC	Valid	Non-standard
+37070764	LP16444-9	Hemoglobin Lepore	LOINC Component	Observation	LOINC	Valid	Non-standard
+37071164	LP18616-0	Hemoglobin F distribution	LOINC Component	Observation	LOINC	Valid	Non-standard
+37071681	LP94633-2	Hemoglobin N+I	LOINC Component	Observation	LOINC	Valid	Non-standard
+37072910	LP286152-6	Hemoglobin A2.prime/Hemoglobin.total	LOINC Component	Observation	LOINC	Valid	Non-standard
+37073452	LP16448-0	Hemoglobin M - Milwaukee	LOINC Component	Observation	LOINC	Valid	Non-standard
+37073603	LP16436-5	Hemoglobin Hope	LOINC Component	Observation	LOINC	Valid	Non-standard
+37074099	LP286167-4	Hemoglobin F/Hemoglobin.total	LOINC Component	Observation	LOINC	Valid	Non-standard
+37075128	LP16452-2	Hemoglobin N - Seattle	LOINC Component	Observation	LOINC	Valid	Non-standard
+37075145	LP16454-8	Hemoglobin Ranier	LOINC Component	Observation	LOINC	Valid	Non-standard
+37075363	LP16442-3	Hemoglobin Kempsey	LOINC Component	Observation	LOINC	Valid	Non-standard
+37075371	LP183485-4	Reticulocyte hemoglobin distribution width	LOINC Component	Observation	LOINC	Valid	Non-standard
+37075600	LP16451-4	Hemoglobin N - Baltimore	LOINC Component	Observation	LOINC	Valid	Non-standard
+37077392	LP16459-7	Hemoglobin Zurich	LOINC Component	Observation	LOINC	Valid	Non-standard
+37077634	LP16458-9	Hemoglobin Ypsilanti	LOINC Component	Observation	LOINC	Valid	Non-standard
+37078266	LP16457-1	Hemoglobin Yoshizuka	LOINC Component	Observation	LOINC	Valid	Non-standard
+40760814	57703-1	Hemoglobin disorders newborn screening comment-discussion	Clinical Observation	Observation	LOINC	Valid	Standard
+40772748	LP17689-8	Erythrocyte mean corpuscular hemoglobin	LOINC Component	Observation	LOINC	Valid	Non-standard
+40772932	LP30930-9	Hemoglobin J	LOINC Component	Observation	LOINC	Valid	Non-standard
+40772933	LP30932-5	Hemoglobin N	LOINC Component	Observation	LOINC	Valid	Non-standard
+40775320	LP96616-5	Hemoglobin E | Dried blood spot	LOINC Hierarchy	Observation	LOINC	Invalid	Non-standard
+40775976	LP16424-1	Hemoglobin D	LOINC Component	Observation	LOINC	Valid	Non-standard
+40778654	LP96618-1	Hemoglobin O - Arab | Dried blood spot	LOINC Hierarchy	Observation	LOINC	Invalid	Non-standard
+40778655	LP96619-9	Hemoglobin S | Dried blood spot	LOINC Hierarchy	Observation	LOINC	Invalid	Non-standard
+40779306	LP16412-6	Hemoglobin A1	LOINC Component	Observation	LOINC	Valid	Non-standard
+40779307	LP16420-9	Hemoglobin C	LOINC Component	Observation	LOINC	Valid	Non-standard
+40779566	LP30931-7	Hemoglobin M	LOINC Component	Observation	LOINC	Valid	Non-standard
+40782027	LP96614-0	Hemoglobin C | Dried blood spot	LOINC Hierarchy	Observation	LOINC	Invalid	Non-standard
+40782735	LP17695-5	Erythrocyte mean corpuscular hemoglobin concentration	LOINC Component	Observation	LOINC	Valid	Non-standard
+40785946	LP16428-2	Hemoglobin F	LOINC Component	Observation	LOINC	Valid	Non-standard
+40785947	LP16453-0	Hemoglobin O - Arab	LOINC Component	Observation	LOINC	Valid	Non-standard
+40788644	LP96559-7	Hemoglobin A | Dried blood spot	LOINC Hierarchy	Observation	LOINC	Invalid	Non-standard
+40788649	LP96615-7	Hemoglobin D | Dried blood spot	LOINC Hierarchy	Observation	LOINC	Invalid	Non-standard
+40789263	LP16413-4	Hemoglobin A1c	LOINC Component	Observation	LOINC	Valid	Non-standard
+40789264	LP16418-3	Hemoglobin Barts	LOINC Component	Observation	LOINC	Valid	Non-standard
+40789265	LP16427-4	Hemoglobin E	LOINC Component	Observation	LOINC	Valid	Non-standard
+40791928	LP96702-3	Hemoglobin S/Beta Thalassemia | Dried blood spot	LOINC Hierarchy	Observation	LOINC	Invalid	Non-standard
+40792370	LP14451-6	Hemoglobin A2	LOINC Component	Observation	LOINC	Valid	Non-standard
+40792509	LP16455-5	Hemoglobin S	LOINC Component	Observation	LOINC	Valid	Non-standard
+40792619	LP18156-7	Hemoglobin pattern	LOINC Component	Observation	LOINC	Valid	Non-standard
+40792735	LP29058-2	Free Hemoglobin	LOINC Component	Observation	LOINC	Valid	Non-standard
+40792775	LP30929-1	Hemoglobin G	LOINC Component	Observation	LOINC	Valid	Non-standard
+40792790	LP31618-9	Hemoglobin disorders	LOINC Component	Observation	LOINC	Valid	Non-standard
+40795175	LP96621-5	Hemoglobin pattern | Dried blood spot	LOINC Hierarchy	Observation	LOINC	Invalid	Non-standard
+40795189	LP96701-5	Hemoglobin SC disease | Dried blood spot	LOINC Hierarchy	Observation	LOINC	Invalid	Non-standard
+40795725	LP14449-0	Hemoglobin	LOINC Component	Observation	LOINC	Valid	Non-standard
+40795736	LP14554-7	Hemoglobin A	LOINC Component	Observation	LOINC	Valid	Non-standard
+40798461	LP96613-2	Hemoglobin Barts | Dried blood spot	LOINC Hierarchy	Observation	LOINC	Invalid	Non-standard
+40798462	LP96617-3	Hemoglobin F | Dried blood spot	LOINC Hierarchy	Observation	LOINC	Invalid	Non-standard
+3654422	833302006	Hemoglobin S polymerization inhibitor	Disposition	Observation	SNOMED	Valid	Standard
+3656327	9481000175103	Hemoglobin A1C test declined	Context-dependent	Observation	SNOMED	Valid	Standard
+4004220	121228000	Hemoglobin antigen	Substance	Observation	SNOMED	Valid	Standard
+4005857	12148003	Hemoglobin Avicenna	Substance	Observation	SNOMED	Valid	Standard
+4008257	112169000	Hemoglobin Rio Grande	Substance	Observation	SNOMED	Valid	Standard
+4008258	112170004	Hemoglobin G-Taipei	Substance	Observation	SNOMED	Valid	Standard
+4008260	112179003	Hemoglobin F-Fuchu	Substance	Observation	SNOMED	Valid	Standard
+4008262	112183003	Hemoglobin Coventry	Substance	Observation	SNOMED	Valid	Standard
+4008311	102002	Hemoglobin Okaloosa	Substance	Observation	SNOMED	Valid	Standard
+4009012	112175009	Hemoglobin Shelby	Substance	Observation	SNOMED	Valid	Standard
+4009013	112176005	Hemoglobin Shanghai	Substance	Observation	SNOMED	Valid	Standard
+4010428	112177001	Hemoglobin Olmsted	Substance	Observation	SNOMED	Valid	Standard
+4010663	10229002	Hemoglobin Kenya	Substance	Observation	SNOMED	Valid	Standard
+4011069	112172007	Hemoglobin Newcastle	Substance	Observation	SNOMED	Valid	Standard
+4011070	112173002	Hemoglobin La Desirade	Substance	Observation	SNOMED	Valid	Standard
+4011071	112182008	Hemoglobin Freiburg	Substance	Observation	SNOMED	Valid	Standard
+4011316	103229005	Glycosylated hemoglobin F	Substance	Observation	SNOMED	Valid	Standard
+4011317	103236006	Hemoglobin Lepore	Substance	Observation	SNOMED	Valid	Standard
+4011523	11206000	Hemoglobin Hikari	Substance	Observation	SNOMED	Valid	Standard
+4011542	112171000	Hemoglobin Hazebrouck	Substance	Observation	SNOMED	Valid	Standard
+4011543	112174008	Hemoglobin Camden	Substance	Observation	SNOMED	Valid	Standard
+4011544	112178006	Hemoglobin Little Rock	Substance	Observation	SNOMED	Valid	Standard
+4011545	112180000	Hemoglobin F-Oakland	Substance	Observation	SNOMED	Valid	Standard
+4011546	112181001	Hemoglobin F-Lodz	Substance	Observation	SNOMED	Valid	Standard
+4011921	103231001	Hemoglobin A>3<	Substance	Observation	SNOMED	Valid	Standard
+4011923	103235005	Hemoglobin Denver	Substance	Observation	SNOMED	Valid	Standard
+4012407	103230000	Hemoglobin A>2<prime	Substance	Observation	SNOMED	Valid	Standard
+4012408	103233003	Thermolabile hemoglobin	Substance	Observation	SNOMED	Valid	Standard
+4013061	11298008	Hemoglobin Riyadh	Substance	Observation	SNOMED	Valid	Standard
+4013398	165393007	Hemoglobin not estimated	Context-dependent	Observation	SNOMED	Valid	Standard
+4013399	165394001	Hemoglobin requested	Context-dependent	Observation	SNOMED	Valid	Standard
+4013400	165395000	Hemoglobin - sample sent	Context-dependent	Observation	SNOMED	Valid	Standard
+4014679	11355006	Hemoglobin Alabama	Substance	Observation	SNOMED	Valid	Standard
+4016803	10407003	Hemoglobin F-Xin-Su	Substance	Observation	SNOMED	Valid	Standard
+4018251	1149009	Hemoglobin Barcelona	Substance	Observation	SNOMED	Valid	Standard
+4018663	11490004	Hemoglobin Bari	Substance	Observation	SNOMED	Valid	Standard
+4021138	10488005	Hemoglobin F-Cobb	Substance	Observation	SNOMED	Valid	Standard
+4022897	116718006	Hemoglobin A region electrophoresis pattern	Observable Entity	Observation	SNOMED	Valid	Standard
+4022898	116720009	Hemoglobin C E O A>2< region electrophoresis pattern	Observable Entity	Observation	SNOMED	Valid	Standard
+4023914	116787009	Hemoglobin electrophoresis pattern	Observable Entity	Observation	SNOMED	Valid	Standard
+4024226	116719003	Hemoglobin S D G region electrophoresis pattern	Observable Entity	Observation	SNOMED	Valid	Standard
+4024664	19501009	Hemoglobin Singapore	Substance	Observation	SNOMED	Valid	Standard
+4024792	1169004	Hemoglobin Gower-2	Substance	Observation	SNOMED	Valid	Standard
+4025040	10581001	Hemoglobin Grange-Blanche	Substance	Observation	SNOMED	Valid	Standard
+4025457	12079001	Hemoglobin J-Meerut	Substance	Observation	SNOMED	Valid	Standard
+4025616	12086009	Hemoglobin G-Hsi-Tsou	Substance	Observation	SNOMED	Valid	Standard
+4027226	22804007	Hemoglobin D-Granada	Substance	Observation	SNOMED	Valid	Standard
+4027664	1320009	Hemoglobin Manitoba	Substance	Observation	SNOMED	Valid	Standard
+4027698	13240009	Hemoglobin Warwickshire	Substance	Observation	SNOMED	Valid	Standard
+4028508	1341003	Hemoglobin Ta-li	Substance	Observation	SNOMED	Valid	Standard
+4029138	13864002	Hemoglobin A>2< Roosevelt	Substance	Observation	SNOMED	Valid	Standard
+4029965	12860000	Hemoglobin Shepherds Bush	Substance	Observation	SNOMED	Valid	Standard
+4030106	13618009	Hemoglobin Twin Peaks	Substance	Observation	SNOMED	Valid	Standard
+4031692	13961009	Hemoglobin Wayne	Substance	Observation	SNOMED	Valid	Standard
+4032306	14668009	Hemoglobin Tak	Substance	Observation	SNOMED	Valid	Standard
+4032783	14708004	Hemoglobin Noko	Substance	Observation	SNOMED	Valid	Standard
+4033234	1477006	Hemoglobin Yatsushiro	Substance	Observation	SNOMED	Valid	Standard
+4033532	14611007	Hemoglobin Yoshizuka	Substance	Observation	SNOMED	Valid	Standard
+4034236	23929006	Hemoglobin Tacoma	Substance	Observation	SNOMED	Valid	Standard
+4034387	23942006	Hemoglobin Titusville	Substance	Observation	SNOMED	Valid	Standard
+"4034841	15186002	Hemoglobin A,b	Substance	Observation	SNOMED	Valid	Standard"
+4035423	23974004	Hemoglobin J-Abidjan	Substance	Observation	SNOMED	Valid	Standard
+4035457	15451009	Hemoglobin Geelong	Substance	Observation	SNOMED	Valid	Standard
+4035458	15455000	Hemoglobin Lepore-Washington-Boston	Substance	Observation	SNOMED	Valid	Standard
+4035636	15294002	Hemoglobin Bushwick	Substance	Observation	SNOMED	Valid	Standard
+4035760	24004005	Hemoglobin St. Mande	Substance	Observation	SNOMED	Valid	Standard
+4037043	11761006	Hemoglobin Duarte	Substance	Observation	SNOMED	Valid	Standard
+4038358	22917006	Hemoglobin D-Los Angeles	Substance	Observation	SNOMED	Valid	Standard
+4040128	16456007	Hemoglobin P-Galveston	Substance	Observation	SNOMED	Valid	Standard
+4040304	16469006	Hemoglobin Edmonton	Substance	Observation	SNOMED	Valid	Standard
+4040641	16509007	Hemoglobin Ankara	Substance	Observation	SNOMED	Valid	Standard
+4040989	1656004	Hemoglobin Shaare Zedek	Substance	Observation	SNOMED	Valid	Standard
+4042319	1185009	Hemoglobin Roseau-Pointe à Pitre	Substance	Observation	SNOMED	Valid	Standard
+4042490	1189003	Hemoglobin F-M-Osaka	Substance	Observation	SNOMED	Valid	Standard
+4042675	11880002	Hemoglobin Andrew-Minneapolis	Substance	Observation	SNOMED	Valid	Standard
+4044989	12235005	Hemoglobin Zambia	Substance	Observation	SNOMED	Valid	Standard
+4045436	130002	Hemoglobin Hopkins-II	Substance	Observation	SNOMED	Valid	Standard
+4045439	13005000	Hemoglobin New York	Substance	Observation	SNOMED	Valid	Standard
+4046116	12366001	Hemoglobin Hope	Substance	Observation	SNOMED	Valid	Standard
+4046235	23052007	Hemoglobin O-Padova	Substance	Observation	SNOMED	Valid	Standard
+4047053	12216005	Hemoglobin F-Malta I	Substance	Observation	SNOMED	Valid	Standard
+4047515	12374000	Hemoglobin Pasadena	Substance	Observation	SNOMED	Valid	Standard
+4047605	23126003	Hemoglobin G-Georgia	Substance	Observation	SNOMED	Valid	Standard
+4048993	15800007	Hemoglobin Mobile	Substance	Observation	SNOMED	Valid	Standard
+4049899	15835009	Hemoglobin Moabit	Substance	Observation	SNOMED	Valid	Standard
+4049994	12465003	Hemoglobin Suan-Dok	Substance	Observation	SNOMED	Valid	Standard
+4050467	12457001	Hemoglobin Evanston	Substance	Observation	SNOMED	Valid	Standard
+4050665	16017005	Hemoglobin Syracuse	Substance	Observation	SNOMED	Valid	Standard
+4050727	23219009	Hemoglobin Legnano	Substance	Observation	SNOMED	Valid	Standard
+"4050783	16022005	Abnormal hemoglobin, multiple point mutation	Substance	Observation	SNOMED	Valid	Standard"
+4056670	16848003	Hemoglobin Vicksburg	Substance	Observation	SNOMED	Valid	Standard
+4057711	18180007	Hemoglobin J-Auckland	Substance	Observation	SNOMED	Valid	Standard
+4058514	21302001	Hemoglobin Denmark Hill	Substance	Observation	SNOMED	Valid	Standard
+4059240	16840005	Hemoglobin Hekinan	Substance	Observation	SNOMED	Valid	Standard
+4062076	16995000	Hemoglobin Osu Christiansborg	Substance	Observation	SNOMED	Valid	Standard
+4065376	20150002	Hemoglobin J-Luhe	Substance	Observation	SNOMED	Valid	Standard
+4066630	17371002	Hemoglobin Cordele	Substance	Observation	SNOMED	Valid	Standard
+4067982	21627000	Hemoglobin Beirut	Substance	Observation	SNOMED	Valid	Standard
+4069706	17677007	Hemoglobin F-Columbus-Ga	Substance	Observation	SNOMED	Valid	Standard
+4069757	21728000	Hemoglobin G-Ferrara	Substance	Observation	SNOMED	Valid	Standard
+4069830	17574006	Hemoglobin A>2< Melbourne	Substance	Observation	SNOMED	Valid	Standard
+4070418	20611000	Hemoglobin Hotel-Dieu	Substance	Observation	SNOMED	Valid	Standard
+4070776	21680001	Hemoglobin G-Pest	Substance	Observation	SNOMED	Valid	Standard
+4071688	21822008	Hemoglobin A>2<^1^ (B>2<)	Substance	Observation	SNOMED	Valid	Standard
+4071895	20527000	Hemoglobin Willamette	Substance	Observation	SNOMED	Valid	Standard
+4072118	2189000	Hemoglobin F-Dammam	Substance	Observation	SNOMED	Valid	Standard
+4072536	17838007	Hemoglobin South Florida	Substance	Observation	SNOMED	Valid	Standard
+4074038	21907004	Hemoglobin Pitie-Salpetriere	Substance	Observation	SNOMED	Valid	Standard
+4076845	1798007	Hemoglobin Hammersmith	Substance	Observation	SNOMED	Valid	Standard
+4076867	17895008	Hemoglobin A>2< Manzanares	Substance	Observation	SNOMED	Valid	Standard
+"4076990	17903009	Abnormal hemoglobin, gamma-chain variant	Substance	Observation	SNOMED	Valid	Standard"
+4077010	17927006	Hemoglobin Dallas	Substance	Observation	SNOMED	Valid	Standard
+4083584	18406008	Hemoglobin Summer Hill	Substance	Observation	SNOMED	Valid	Standard
+4085914	24375004	Hemoglobin Ottawa	Substance	Observation	SNOMED	Valid	Standard
+4089877	18667008	Hemoglobin Indianapolis	Substance	Observation	SNOMED	Valid	Standard
+4090745	24922005	Hemoglobin Garden State	Substance	Observation	SNOMED	Valid	Standard
+4094644	26192004	Hemoglobin Maputo	Substance	Observation	SNOMED	Valid	Standard
+4096081	25115007	Hemoglobin Richmond	Substance	Observation	SNOMED	Valid	Standard
+4096467	26405004	Hemoglobin Brisbane	Substance	Observation	SNOMED	Valid	Standard
+4096913	26414009	Hemoglobin Knossos	Substance	Observation	SNOMED	Valid	Standard
+4097061	26470008	Hemoglobin Gun Hill	Substance	Observation	SNOMED	Valid	Standard
+4097830	2678008	Hemoglobin New Mexico	Substance	Observation	SNOMED	Valid	Standard
+4097834	26798007	Hemoglobin P-Nilotic	Substance	Observation	SNOMED	Valid	Standard
+4098440	27013004	Hemoglobin McKees Rocks	Substance	Observation	SNOMED	Valid	Standard
+4098865	27200003	Hemoglobin Doha	Substance	Observation	SNOMED	Valid	Standard
+4099166	27319006	Hemoglobin Pierre-Benite	Substance	Observation	SNOMED	Valid	Standard
+4100002	25329003	Hemoglobin Ty Gard	Substance	Observation	SNOMED	Valid	Standard
+4100073	27512003	Hemoglobin J-Paris-I	Substance	Observation	SNOMED	Valid	Standard
+4100190	2754009	Hemoglobin F-Kennestone	Substance	Observation	SNOMED	Valid	Standard
+4100198	27569004	Hemoglobin Hirosaki	Substance	Observation	SNOMED	Valid	Standard
+4100334	27595002	Hemoglobin Heathrow	Substance	Observation	SNOMED	Valid	Standard
+4100965	27675000	Hemoglobin Chesapeake	Substance	Observation	SNOMED	Valid	Standard
+4101412	27914008	Hemoglobin Hasharon	Substance	Observation	SNOMED	Valid	Standard
+4101479	25414004	Hemoglobin Handa	Substance	Observation	SNOMED	Valid	Standard
+4101927	25438000	Hemoglobin Seattle	Substance	Observation	SNOMED	Valid	Standard
+4101982	28095008	Hemoglobin Complutense	Substance	Observation	SNOMED	Valid	Standard
+4102005	27995008	Hemoglobin Dhofar	Substance	Observation	SNOMED	Valid	Standard
+4102234	2529006	Hemoglobin Wood	Substance	Observation	SNOMED	Valid	Standard
+4102239	25292004	Hemoglobin Strumica	Substance	Observation	SNOMED	Valid	Standard
+4102480	28538001	Hemoglobin Dagestan	Substance	Observation	SNOMED	Valid	Standard
+4103393	28848008	Hemoglobin O-Arab	Substance	Observation	SNOMED	Valid	Standard
+4103466	25608003	Hemoglobin Ann Arbor	Substance	Observation	SNOMED	Valid	Standard
+4103868	29091007	Hemoglobin F-La Grande	Substance	Observation	SNOMED	Valid	Standard
+"4104188	28963005	Abnormal hemoglobin, deleted residue	Substance	Observation	SNOMED	Valid	Standard"
+4104608	25597009	Hemoglobin Shimonoseki	Substance	Observation	SNOMED	Valid	Standard
+4104669	29229007	Hemoglobin Rothschild	Substance	Observation	SNOMED	Valid	Standard
+4104997	2950005	Hemoglobin L-Persian Gulf	Substance	Observation	SNOMED	Valid	Standard
+4105480	29436006	Hemoglobin A>2< Indonesia	Substance	Observation	SNOMED	Valid	Standard
+4106392	29677000	Hemoglobin Pyrgos	Substance	Observation	SNOMED	Valid	Standard
+4107236	29953009	Hemoglobin Bourmeds	Substance	Observation	SNOMED	Valid	Standard
+4111274	18094006	Hemoglobin J-Norfolk	Substance	Observation	SNOMED	Valid	Standard
+4112549	1823002	Hemoglobin Tochigi	Substance	Observation	SNOMED	Valid	Standard
+4118955	22796009	Hemoglobin D-Iran	Substance	Observation	SNOMED	Valid	Standard
+4119265	22904008	Hemoglobin K-Ibadan	Substance	Observation	SNOMED	Valid	Standard
+4123836	259689004	Glycosylated hemoglobin	Substance	Observation	SNOMED	Valid	Standard
+4125085	259701009	Hemoglobin breakdown product	Substance	Observation	SNOMED	Valid	Standard
+4126434	23647003	Hemoglobin Kawachi	Substance	Observation	SNOMED	Valid	Standard
+4127158	259695003	Hemoglobin M	Substance	Observation	SNOMED	Valid	Standard
+4129179	23733005	Hemoglobin I-Toulouse	Substance	Observation	SNOMED	Valid	Standard
+4131657	26567007	Hemoglobin Port de France	Substance	Observation	SNOMED	Valid	Standard
+4133440	12788003	Hemoglobin Sunshine Seth	Substance	Observation	SNOMED	Valid	Standard
+4136975	31775007	Hemoglobin F-Melbourne	Substance	Observation	SNOMED	Valid	Standard
+4137282	32027009	Hemoglobin A>2< Flatbush	Substance	Observation	SNOMED	Valid	Standard
+4137787	32317008	Hemoglobin J-Bangkok	Substance	Observation	SNOMED	Valid	Standard
+4138105	32717006	Hemoglobin J-Lens	Substance	Observation	SNOMED	Valid	Standard
+4138700	32459008	Hemoglobin Nigeria	Substance	Observation	SNOMED	Valid	Standard
+4139145	3271000	Hemoglobin Southampton	Substance	Observation	SNOMED	Valid	Standard
+4142034	34156007	Hemoglobin Savaria	Substance	Observation	SNOMED	Valid	Standard
+4142192	33206002	Hemoglobin F-Beech Island	Substance	Observation	SNOMED	Valid	Standard
+4143017	34692005	Hemoglobin Miyada	Substance	Observation	SNOMED	Valid	Standard
+4143044	33418009	Hemoglobin Cocody	Substance	Observation	SNOMED	Valid	Standard
+4143162	3346001	Hemoglobin Brest	Substance	Observation	SNOMED	Valid	Standard
+4143304	33601001	Glycosylated hemoglobin A	Substance	Observation	SNOMED	Invalid	Non-standard
+4144679	34549005	Hemoglobin Palmerston North	Substance	Observation	SNOMED	Valid	Standard
+4145456	34392004	Hemoglobin F-Pordenone	Substance	Observation	SNOMED	Valid	Standard
+4145598	34722007	Hemoglobin K-Woolwich	Substance	Observation	SNOMED	Valid	Standard
+4145621	34221004	Hemoglobin A>2< Yokoshima	Substance	Observation	SNOMED	Valid	Standard
+4146226	34443009	Hemoglobin F-Baskent	Substance	Observation	SNOMED	Valid	Standard
+"4146981	35488004	Abnormal hemoglobin, alpha-chain variant	Substance	Observation	SNOMED	Valid	Standard"
+4147116	35573007	Hemoglobin Las Palmas	Substance	Observation	SNOMED	Valid	Standard
+4147435	34771002	Hemoglobin Quin-Hai	Substance	Observation	SNOMED	Valid	Standard
+4148078	3523004	Hemoglobin Q-India	Substance	Observation	SNOMED	Valid	Standard
+4148151	30563007	Hemoglobin Lepore-Hollandia	Substance	Observation	SNOMED	Valid	Standard
+4148608	30792009	Hemoglobin Prato	Substance	Observation	SNOMED	Valid	Standard
+4148861	35422001	Hemoglobin Bundury	Substance	Observation	SNOMED	Valid	Standard
+4148872	35479008	Hemoglobin Mozhaisk	Substance	Observation	SNOMED	Valid	Standard
+4149582	30907004	Hemoglobin Tokoname	Substance	Observation	SNOMED	Valid	Standard
+4150194	31252004	Hemoglobin Nunobiki	Substance	Observation	SNOMED	Valid	Standard
+4150205	3107005	Hemoglobin Shuangfeng	Substance	Observation	SNOMED	Valid	Standard
+4150368	31299006	Hemoglobin A	Substance	Observation	SNOMED	Valid	Standard
+4151373	2823004	Hemoglobin Bristol	Substance	Observation	SNOMED	Valid	Standard
+4153110	28444000	Hemoglobin J-Iran	Substance	Observation	SNOMED	Valid	Standard
+4153223	2846002	Hemoglobin Saitama	Substance	Observation	SNOMED	Valid	Standard
+4163256	45209009	Epsilon-chain hemoglobin	Substance	Observation	SNOMED	Valid	Standard
+4163850	45375004	Hemoglobin F-Carlton	Substance	Observation	SNOMED	Valid	Standard
+4163974	4560005	Hemoglobin Mizuho	Substance	Observation	SNOMED	Valid	Standard
+4163981	45641005	Hemoglobin Atlanta	Substance	Observation	SNOMED	Valid	Standard
+4164727	45345009	Hemoglobin A>2< Victoria	Substance	Observation	SNOMED	Valid	Standard
+4164738	45397002	Hemoglobin Matsue-Oki	Substance	Observation	SNOMED	Valid	Standard
+4164769	40955002	Hemoglobin Wien	Substance	Observation	SNOMED	Valid	Standard
+4165100	41097002	Hemoglobin F-Kingston	Substance	Observation	SNOMED	Valid	Standard
+4165361	4746006	Hemoglobin Mito	Substance	Observation	SNOMED	Valid	Standard
+4166061	45285001	Hemoglobin Arya	Substance	Observation	SNOMED	Valid	Standard
+4166521	47946002	Hemoglobin F-Heather	Substance	Observation	SNOMED	Valid	Standard
+4166731	416125006	Concentration of hemoglobin in erythrocyte	Observable Entity	Observation	SNOMED	Valid	Standard
+4166995	45609004	Hemoglobin F-Pendergrass	Substance	Observation	SNOMED	Valid	Standard
+4167325	47998000	Hemoglobin Connecticut	Substance	Observation	SNOMED	Valid	Standard
+4167842	48179000	Hemoglobin T-Cambodia	Substance	Observation	SNOMED	Valid	Standard
+4168625	47786003	Hemoglobin Austin	Substance	Observation	SNOMED	Valid	Standard
+4168627	47788002	Hemoglobin J-Medellin	Substance	Observation	SNOMED	Valid	Standard
+4170213	48212008	Hemoglobin Chemilly	Substance	Observation	SNOMED	Valid	Standard
+4171211	42184004	Hemoglobin G-Norfolk	Substance	Observation	SNOMED	Valid	Standard
+4171337	49322005	Hemoglobin F-Sardinia	Substance	Observation	SNOMED	Valid	Standard
+4172606	5003005	Hemoglobin Swan River	Substance	Observation	SNOMED	Valid	Standard
+4172940	47929000	Hemoglobin M-Milwaukee-I	Substance	Observation	SNOMED	Valid	Standard
+4172978	42428009	Hemoglobin N-Baltimore	Substance	Observation	SNOMED	Valid	Standard
+4173598	42435001	Hemoglobin Saint Jacques	Substance	Observation	SNOMED	Valid	Standard
+4174220	49461001	Hemoglobin Hobart	Substance	Observation	SNOMED	Valid	Standard
+4174713	425007	Hemoglobin Nagoya	Substance	Observation	SNOMED	Valid	Standard
+4175326	42580002	Hemoglobin Etobicoke	Substance	Observation	SNOMED	Valid	Standard
+4175446	50641001	Hemoglobin G-Taichung	Substance	Observation	SNOMED	Valid	Standard
+4175789	49613002	Hemoglobin Malmo	Substance	Observation	SNOMED	Valid	Standard
+4176097	49902002	Hemoglobin Himeji	Substance	Observation	SNOMED	Valid	Standard
+4176560	48898001	Hemoglobin Buenos Aires	Substance	Observation	SNOMED	Valid	Standard
+4176573	48949006	Hemoglobin Duan	Substance	Observation	SNOMED	Valid	Standard
+4176612	42860009	Hemoglobin Mexico	Substance	Observation	SNOMED	Valid	Standard
+4177013	50981005	Hemoglobin Takamatsu	Substance	Observation	SNOMED	Valid	Standard
+4178281	50778007	Hemoglobin J-Wenchang-Wuming	Substance	Observation	SNOMED	Valid	Standard
+4178879	50095005	Hemoglobin S	Substance	Observation	SNOMED	Valid	Standard
+4178893	50129009	Hemoglobin St. Louis	Substance	Observation	SNOMED	Valid	Standard
+4179354	52261008	Hemoglobin Vanderbilt	Substance	Observation	SNOMED	Valid	Standard
+4180430	52264000	Hemoglobin Yakima	Substance	Observation	SNOMED	Valid	Standard
+4180705	53278005	Hemoglobin Mississippi	Substance	Observation	SNOMED	Valid	Standard
+4181121	52371007	Hemoglobin Westmead	Substance	Observation	SNOMED	Valid	Standard
+"4181931	52293000	Abnormal hemoglobin, fusion defect	Substance	Observation	SNOMED	Valid	Standard"
+4182219	54167002	Hemoglobin Sabine	Substance	Observation	SNOMED	Valid	Standard
+4182584	43013005	Hemoglobin Fannin-Lubbock	Substance	Observation	SNOMED	Valid	Standard
+4183004	54788001	Hemoglobin F-Texas-II	Substance	Observation	SNOMED	Valid	Standard
+4183038	43357003	Hemoglobin Baylor	Substance	Observation	SNOMED	Valid	Standard
+4183849	54175008	Hemoglobin St. Claude	Substance	Observation	SNOMED	Valid	Standard
+4184436	54434005	Hemoglobin Russ	Substance	Observation	SNOMED	Valid	Standard
+4184579	54600003	Hemoglobin F-Hull	Substance	Observation	SNOMED	Valid	Standard
+4184609	5471000	Hemoglobin G-Coushatta	Substance	Observation	SNOMED	Valid	Standard
+4184755	55877008	Hemoglobin Fort Gordon	Substance	Observation	SNOMED	Valid	Standard
+4184773	43819005	Hemoglobin Kansas	Substance	Observation	SNOMED	Valid	Standard
+4185109	43605008	Hemoglobin C-Makassar	Substance	Observation	SNOMED	Valid	Standard
+4185120	43687002	Hemoglobin Quong Sze	Substance	Observation	SNOMED	Valid	Standard
+"4185408	43920000	Hemoglobin A,a	Substance	Observation	SNOMED	Valid	Standard"
+4185940	41311009	Hemoglobin F-Auckland	Substance	Observation	SNOMED	Valid	Standard
+4186571	41282008	Hemoglobin Boras	Substance	Observation	SNOMED	Valid	Standard
+4187624	41322008	Hemoglobin Shenyang	Substance	Observation	SNOMED	Valid	Standard
+4188354	46974004	Hemoglobin Oleander	Substance	Observation	SNOMED	Valid	Standard
+4190695	38932001	Hemoglobin J-Nayanza	Substance	Observation	SNOMED	Invalid	Non-standard
+4192376	75698009	Hemoglobin F-Urumqi	Substance	Observation	SNOMED	Valid	Standard
+4192914	39505006	Hemoglobin Chongqing	Substance	Observation	SNOMED	Valid	Standard
+4193365	79066009	Hemoglobin Cranston	Substance	Observation	SNOMED	Valid	Standard
+4193370	79098003	Hemoglobin Beograd	Substance	Observation	SNOMED	Valid	Standard
+4193632	7900007	Hemoglobin Presbyterian	Substance	Observation	SNOMED	Valid	Standard
+4194385	78924000	Hemoglobin J-Cubujuqui	Substance	Observation	SNOMED	Valid	Standard
+4194515	79027001	Hemoglobin J-Cairo	Substance	Observation	SNOMED	Valid	Standard
+4194675	79219002	Hemoglobin Sunnybrook	Substance	Observation	SNOMED	Valid	Standard
+4194983	7961008	Hemoglobin F-Shanghai	Substance	Observation	SNOMED	Valid	Standard
+4195074	68185004	Hemoglobin Abruzzo	Substance	Observation	SNOMED	Valid	Standard
+4195477	44090004	Hemoglobin Handsworth	Substance	Observation	SNOMED	Valid	Standard
+4195638	44142008	Hemoglobin Ocho Rios	Substance	Observation	SNOMED	Valid	Standard
+4195697	6780007	Hemoglobin cast	Morph Abnormality	Observation	SNOMED	Valid	Standard
+4196184	79498007	Zeta-chain hemoglobin	Substance	Observation	SNOMED	Valid	Standard
+4196831	51250003	Hemoglobin J-Buda	Substance	Observation	SNOMED	Valid	Standard
+4197138	51390002	Hemoglobin F-Clarke	Substance	Observation	SNOMED	Valid	Standard
+4197682	51708002	Hemoglobin Rainier	Substance	Observation	SNOMED	Valid	Standard
+4197905	80472000	Hemoglobin Strasbourg	Substance	Observation	SNOMED	Valid	Standard
+4198068	51856000	Hemoglobin J-Sardegna	Substance	Observation	SNOMED	Valid	Standard
+4198254	51285003	Hemoglobin J-Toronto	Substance	Observation	SNOMED	Valid	Standard
+4198557	52458005	Hemoglobin J-Kaohslung	Substance	Observation	SNOMED	Invalid	Non-standard
+4199154	52513002	Hemoglobin Ferndown	Substance	Observation	SNOMED	Valid	Standard
+4200222	52834000	Hemoglobin A>2< Canada	Substance	Observation	SNOMED	Valid	Standard
+4200259	5303002	Hemoglobin Hoshida	Substance	Observation	SNOMED	Valid	Standard
+4200861	52609003	Hemoglobin Pontoise	Substance	Observation	SNOMED	Valid	Standard
+4201275	51397004	Hemoglobin Guizhou	Substance	Observation	SNOMED	Valid	Standard
+4202206	51918002	Hemoglobin Milledgeville	Substance	Observation	SNOMED	Valid	Standard
+"4202360	53594002	Abnormal hemoglobin, delta-chain variant	Substance	Observation	SNOMED	Valid	Standard"
+4202496	53699004	Hemoglobin Alberta	Substance	Observation	SNOMED	Valid	Standard
+4203624	5253005	Hemoglobin Woodville	Substance	Observation	SNOMED	Valid	Standard
+4205001	53934008	Hemoglobin St. Lukes	Substance	Observation	SNOMED	Valid	Standard
+4206325	55515003	Hemoglobin Köln	Substance	Observation	SNOMED	Valid	Standard
+4206480	55683008	Hemoglobin Kokura	Substance	Observation	SNOMED	Valid	Standard
+4207067	56382001	Hemoglobin G-Galveston	Substance	Observation	SNOMED	Valid	Standard
+4207379	54112003	Hemoglobin Gainesville	Substance	Observation	SNOMED	Valid	Standard
+4207385	54140008	Hemoglobin F-Dickinson	Substance	Observation	SNOMED	Valid	Standard
+4207525	54965009	Hemoglobin Porto Alegre	Substance	Observation	SNOMED	Valid	Standard
+4208105	5568005	Hemoglobin Hijiyama	Substance	Observation	SNOMED	Valid	Standard
+4208792	312272001	Hemoglobin antibody	Substance	Observation	SNOMED	Valid	Standard
+4209420	5628003	Hemoglobin I-High Wycombe	Substance	Observation	SNOMED	Valid	Standard
+4209590	5659001	Hemoglobin J-Tongariki	Substance	Observation	SNOMED	Valid	Standard
+4209591	56592008	Hemoglobin C-Ziguinchor	Substance	Observation	SNOMED	Valid	Standard
+4210021	55500004	Hemoglobin Perth	Substance	Observation	SNOMED	Valid	Standard
+4210153	55633003	Unstable hemoglobin	Substance	Observation	SNOMED	Valid	Standard
+4210629	56534006	Hemoglobin Chico	Substance	Observation	SNOMED	Valid	Standard
+4210899	57051002	Hemoglobin C-Harlem	Substance	Observation	SNOMED	Valid	Standard
+4210990	57178002	Hemoglobin Henri Mondor	Substance	Observation	SNOMED	Valid	Standard
+4211402	56926009	Hemoglobin J-Daloa	Substance	Observation	SNOMED	Valid	Standard
+4211646	41383001	Hemoglobin York	Substance	Observation	SNOMED	Valid	Standard
+4212374	57575006	Alkali-resistant hemoglobin	Substance	Observation	SNOMED	Valid	Standard
+4212622	57843004	Hemoglobin Okayama	Substance	Observation	SNOMED	Valid	Standard
+4213037	3920009	Hemoglobin Atago	Substance	Observation	SNOMED	Valid	Standard
+4213337	80086007	Hemoglobin Toyoake	Substance	Observation	SNOMED	Valid	Standard
+4214456	39331007	Hemoglobin Djelfa	Substance	Observation	SNOMED	Valid	Standard
+4214991	39318002	Hemoglobin Yokohama	Substance	Observation	SNOMED	Valid	Standard
+4215070	4177001	Hemoglobin Long Island-Marseille	Substance	Observation	SNOMED	Valid	Standard
+4215684	41692009	Hemoglobin Ube-4	Substance	Observation	SNOMED	Valid	Standard
+4216204	80616001	Hemoglobin Radcliffe	Substance	Observation	SNOMED	Valid	Standard
+4216524	8105004	Hemoglobin Leiden	Substance	Observation	SNOMED	Valid	Standard
+4216790	39560004	Hemoglobin Bicetre	Substance	Observation	SNOMED	Valid	Standard
+4216846	71935002	Hemoglobin A>2<	Substance	Observation	SNOMED	Valid	Standard
+4217129	39605000	Hemoglobin Niteroi	Substance	Observation	SNOMED	Valid	Standard
+4217356	71921004	Hemoglobin G-Szuhu	Substance	Observation	SNOMED	Valid	Standard
+4217656	72546007	Hemoglobin G-Audhali	Substance	Observation	SNOMED	Valid	Standard
+4218015	416766001	Quantity of hemoglobin in erythrocyte	Observable Entity	Observation	SNOMED	Valid	Standard
+4218243	81901008	Hemoglobin Deer Lodge	Substance	Observation	SNOMED	Valid	Standard
+4218751	81847001	Hemoglobin Setif	Substance	Observation	SNOMED	Valid	Standard
+4218930	73127009	Hemoglobin Bougardirey-Mali	Substance	Observation	SNOMED	Valid	Standard
+4219019	3994007	Hemoglobin Tampa	Substance	Observation	SNOMED	Valid	Standard
+4219168	39867008	Hemoglobin F-Xinjiang	Substance	Observation	SNOMED	Valid	Standard
+4219761	82544003	Hemoglobin Bibba	Substance	Observation	SNOMED	Valid	Standard
+4219926	81929006	Hemoglobin Raleigh	Substance	Observation	SNOMED	Valid	Standard
+4220087	82149004	Hemoglobin Hofu	Substance	Observation	SNOMED	Valid	Standard
+4220196	39805003	Hemoglobin Aztec	Substance	Observation	SNOMED	Valid	Standard
+4220629	41937002	Hemoglobin Gower-1	Substance	Observation	SNOMED	Valid	Standard
+4220686	82391009	Hemoglobin F-Poole	Substance	Observation	SNOMED	Valid	Standard
+4220836	8257005	Abnormal hemoglobin	Substance	Observation	SNOMED	Valid	Standard
+"4221120	82873009	Abnormal hemoglobin, extended chain	Substance	Observation	SNOMED	Valid	Standard"
+4221267	82549008	Hemoglobin J-Broussais	Substance	Observation	SNOMED	Valid	Standard
+4221623	41896005	Hemoglobin Toyama	Substance	Observation	SNOMED	Valid	Standard
+4221696	82890003	Hemoglobin Tashikuergan	Substance	Observation	SNOMED	Valid	Standard
+4221827	40205000	Hemoglobin Cheverly	Substance	Observation	SNOMED	Valid	Standard
+4221987	84083005	Hemoglobin Khartoum	Substance	Observation	SNOMED	Valid	Standard
+4222276	40034002	Hemoglobin Minneapolis-Laos	Substance	Observation	SNOMED	Valid	Standard
+4222612	83871003	Hemoglobin Sogn	Substance	Observation	SNOMED	Valid	Standard
+4222901	40327006	Hemoglobin Petah Tikva	Substance	Observation	SNOMED	Valid	Standard
+4222925	84509001	Hemoglobin Siriraj	Substance	Observation	SNOMED	Valid	Standard
+4223361	84136005	Hemoglobin Stanleyville-II	Substance	Observation	SNOMED	Valid	Standard
+4224280	40414008	Hemoglobin Peterborough	Substance	Observation	SNOMED	Valid	Standard
+4224307	84345002	Hemoglobin Saverne	Substance	Observation	SNOMED	Valid	Standard
+4224311	84375007	Hemoglobin J-Sicilia	Substance	Observation	SNOMED	Valid	Standard
+4224592	41917001	Hemoglobin Potomac	Substance	Observation	SNOMED	Valid	Standard
+4224645	85105005	Hemoglobin Inkster	Substance	Observation	SNOMED	Valid	Standard
+4225275	84934009	Hemoglobin Cowtown	Substance	Observation	SNOMED	Valid	Standard
+4226979	87664007	Hemoglobin A>2< NYU	Substance	Observation	SNOMED	Valid	Standard
+4227751	87741002	Hemoglobin D-Bushman	Substance	Observation	SNOMED	Valid	Standard
+4229288	88637008	Hemoglobin A>2< Babinga	Substance	Observation	SNOMED	Valid	Standard
+4229606	88941005	Hemoglobin Thailand	Substance	Observation	SNOMED	Valid	Standard
+4230909	407000004	Hemoglobin G	Substance	Observation	SNOMED	Valid	Standard
+4231101	40730001	Hemoglobin Kariya	Substance	Observation	SNOMED	Valid	Standard
+4234054	407001000	Hemoglobin J	Substance	Observation	SNOMED	Valid	Standard
+4234553	90266000	Hemoglobin D	Substance	Observation	SNOMED	Valid	Standard
+4235278	90936001	Hemoglobin Crete	Substance	Observation	SNOMED	Valid	Standard
+4235420	408591000	HBA1c target	Observable Entity	Observation	SNOMED	Valid	Standard
+4236033	90865006	Hemoglobin J-Cambridge	Substance	Observation	SNOMED	Valid	Standard
+4237067	91351006	Hemoglobin Kenitra	Substance	Observation	SNOMED	Valid	Standard
+4237152	56980001	Hemoglobin Rahere	Substance	Observation	SNOMED	Valid	Standard
+4238486	58165000	Hemoglobin Gavello	Substance	Observation	SNOMED	Valid	Standard
+4238657	58414001	Hemoglobin Yusa	Substance	Observation	SNOMED	Valid	Standard
+4239148	57573004	Hemoglobin Beijing	Substance	Observation	SNOMED	Valid	Standard
+4239237	91312001	Hemoglobin St. Etienne	Substance	Observation	SNOMED	Valid	Standard
+4239557	91574006	Hemoglobin British Columbia	Substance	Observation	SNOMED	Valid	Standard
+4239973	578008	Hemoglobin Jianghua	Substance	Observation	SNOMED	Valid	Standard
+4240076	57860009	Hemoglobin Genova	Substance	Observation	SNOMED	Valid	Standard
+4240086	57894006	Hemoglobin Lille	Substance	Observation	SNOMED	Valid	Standard
+4240403	91638009	Hemoglobin Miyashiro	Substance	Observation	SNOMED	Valid	Standard
+4240585	59045002	Hemoglobin Winnipeg	Substance	Observation	SNOMED	Valid	Standard
+4240958	5829009	Hemoglobin Vaasa	Substance	Observation	SNOMED	Valid	Standard
+4240961	5830004	Hemoglobin Bart	Substance	Observation	SNOMED	Valid	Standard
+4241024	9205004	Hemoglobin Tarrant	Substance	Observation	SNOMED	Valid	Standard
+4241975	59525000	Hemoglobin J-Cape Town	Substance	Observation	SNOMED	Valid	Standard
+4242248	38065007	Hemoglobin G-Copenhagen	Substance	Observation	SNOMED	Valid	Standard
+4242880	59732007	Hemoglobin Perspolis	Substance	Observation	SNOMED	Valid	Standard
+4242907	59880004	Hemoglobin J-Calabria	Substance	Observation	SNOMED	Valid	Standard
+4243222	58831003	Hemoglobin Sawara	Substance	Observation	SNOMED	Valid	Standard
+4243927	38207009	Hemoglobin Regina	Substance	Observation	SNOMED	Valid	Standard
+4244232	38082009	Hemoglobin	Substance	Observation	SNOMED	Valid	Standard
+4244360	38156003	Hemoglobin Tottori	Substance	Observation	SNOMED	Valid	Standard
+4245017	59339001	Hemoglobin Albany-Suma	Substance	Observation	SNOMED	Valid	Standard
+4245293	59787008	Hemoglobin Creteil	Substance	Observation	SNOMED	Valid	Standard
+4245500	60489004	Hemoglobin J-Habana	Substance	Observation	SNOMED	Valid	Standard
+4245642	59485004	Hemoglobin Koya Dora	Substance	Observation	SNOMED	Valid	Standard
+4246174	60842009	Hemoglobin Agenogi	Substance	Observation	SNOMED	Valid	Standard
+4246193	60925002	Hemoglobin Tübingen	Substance	Observation	SNOMED	Valid	Standard
+4246376	397064008	Hemoglobin SC crystal	Morph Abnormality	Observation	SNOMED	Valid	Standard
+4246589	60355001	Hemoglobin Philly	Substance	Observation	SNOMED	Valid	Standard
+4247599	9355009	Hemoglobin F-Alexandra	Substance	Observation	SNOMED	Valid	Standard
+4248009	72582002	Hemoglobin Sassari	Substance	Observation	SNOMED	Valid	Standard
+4248266	73236003	Hemoglobin Detroit	Substance	Observation	SNOMED	Valid	Standard
+4248523	40755007	Hemoglobin J-Kurosh	Substance	Observation	SNOMED	Valid	Standard
+4249115	406517009	Hemoglobin O	Substance	Observation	SNOMED	Valid	Standard
+4249328	73778005	Hemoglobin M-Boston	Substance	Observation	SNOMED	Valid	Standard
+4249745	73360002	Hemoglobin M-Hyde Park	Substance	Observation	SNOMED	Valid	Standard
+"4250454	4080002	Hemoglobin Grady, Dakar	Substance	Observation	SNOMED	Valid	Standard"
+4250487	73300004	Hemoglobin F-Tokyo	Substance	Observation	SNOMED	Valid	Standard
+4251800	74505001	Hemoglobin Savannah	Substance	Observation	SNOMED	Valid	Standard
+"4252210	40830007	Abnormal hemoglobin, beta-chain variant	Substance	Observation	SNOMED	Valid	Standard"
+4252592	74405003	Hemoglobin G-Waimanalo	Substance	Observation	SNOMED	Valid	Standard
+4252593	74407006	Hemoglobin Bethesda	Substance	Observation	SNOMED	Valid	Standard
+4253372	74426003	Hemoglobin I	Substance	Observation	SNOMED	Valid	Standard
+4253665	74209006	Hemoglobin Aichi	Substance	Observation	SNOMED	Valid	Standard
+4253946	74515007	Hemoglobin Port Phillip	Substance	Observation	SNOMED	Valid	Standard
+4253966	74623004	Hemoglobin Icaria	Substance	Observation	SNOMED	Valid	Standard
+4254678	74826009	Hemoglobin Randwick	Substance	Observation	SNOMED	Valid	Standard
+4259145	4479005	Hemoglobin Brockton	Substance	Observation	SNOMED	Valid	Standard
+4260840	45032001	Hemoglobin D-Ibadan	Substance	Observation	SNOMED	Valid	Standard
+4261341	44858008	Hemoglobin Q-Iran	Substance	Observation	SNOMED	Valid	Standard
+4261363	35530003	Hemoglobin J-Lome	Substance	Observation	SNOMED	Valid	Standard
+4261631	45137005	Hemoglobin Suresnes	Substance	Observation	SNOMED	Valid	Standard
+4263224	46684001	Hemoglobin N-Seattle	Substance	Observation	SNOMED	Valid	Standard
+4263318	46757005	Hemoglobin St. Antoine	Substance	Observation	SNOMED	Valid	Standard
+4263678	60596004	Hemoglobin Providence	Substance	Observation	SNOMED	Valid	Standard
+4263749	46245000	Hemoglobin Korle-Bu	Substance	Observation	SNOMED	Valid	Standard
+4263997	61029004	Hemoglobin Arlington Park	Substance	Observation	SNOMED	Valid	Standard
+4264170	61765004	Hemoglobin Altdorf	Substance	Observation	SNOMED	Valid	Standard
+4264213	47313003	Hemoglobin A>2< Adria	Substance	Observation	SNOMED	Valid	Standard
+4264353	44742001	Hemoglobin Louisville	Substance	Observation	SNOMED	Valid	Standard
+4264503	44896009	Hemoglobin Hamilton	Substance	Observation	SNOMED	Valid	Standard
+4264639	60860009	Hemoglobin F-Caltech	Substance	Observation	SNOMED	Valid	Standard
+4264645	60889006	Hemoglobin Guangzhou-Hangzhou	Substance	Observation	SNOMED	Valid	Standard
+4264698	397061000	Hemoglobin H body	Morph Abnormality	Observation	SNOMED	Valid	Standard
+4264699	397065009	Hemoglobin C crystal	Morph Abnormality	Observation	SNOMED	Valid	Standard
+4264752	61076008	Hemoglobin Beth Israel	Substance	Observation	SNOMED	Valid	Standard
+4265631	61967003	Hemoglobin C	Substance	Observation	SNOMED	Valid	Standard
+4265778	62150008	Hemoglobin Sendagi	Substance	Observation	SNOMED	Valid	Standard
+4265788	62184007	Hemoglobin Collingwood	Substance	Observation	SNOMED	Valid	Standard
+4266220	61245007	Hemoglobin Cochin-Port Royal	Substance	Observation	SNOMED	Valid	Standard
+4266603	36381002	Hemoglobin P-Congo	Substance	Observation	SNOMED	Valid	Standard
+4268559	3655009	Hemoglobin Constant Springs	Substance	Observation	SNOMED	Valid	Standard
+4268905	62443000	Hemoglobin Christchurch	Substance	Observation	SNOMED	Valid	Standard
+4269049	62576004	Carboxyhemoglobin	Substance	Observation	SNOMED	Valid	Standard
+4270283	36443006	Hemoglobin E-Saskatoon	Substance	Observation	SNOMED	Valid	Standard
+4270479	62948004	Hemoglobin J-Rajappen	Substance	Observation	SNOMED	Valid	Standard
+4270646	63271002	Hemoglobin Lufkin	Substance	Observation	SNOMED	Valid	Standard
+4270892	63707003	Hemoglobin F-Texas-I	Substance	Observation	SNOMED	Valid	Standard
+4271200	62882009	Hemoglobin A>2< Sphakia	Substance	Observation	SNOMED	Valid	Standard
+4272005	63374008	Hemoglobin Castilla	Substance	Observation	SNOMED	Valid	Standard
+4272499	64267009	Hemoglobin Saki	Substance	Observation	SNOMED	Valid	Standard
+4273552	63798004	Hemoglobin Caribbean	Substance	Observation	SNOMED	Valid	Standard
+4273618	36694008	Hemoglobin Bologna	Substance	Observation	SNOMED	Valid	Standard
+4274341	63770002	Hemoglobin Dunn	Substance	Observation	SNOMED	Valid	Standard
+4276335	65288007	Hemoglobin Boyle Heights	Substance	Observation	SNOMED	Valid	Standard
+4277272	65601005	Hemoglobin Kempsey	Substance	Observation	SNOMED	Valid	Standard
+4277448	64769006	Hemoglobin F-Marietta	Substance	Observation	SNOMED	Valid	Standard
+4277933	65925004	Hemoglobin F-Bonaire-GA	Substance	Observation	SNOMED	Valid	Standard
+4278367	65414000	Hemoglobin Hamadan	Substance	Observation	SNOMED	Valid	Standard
+4278656	65903005	Hemoglobin Ohio	Substance	Observation	SNOMED	Valid	Standard
+4278675	65973009	Hemoglobin Fort Worth	Substance	Observation	SNOMED	Valid	Standard
+4278982	65134008	Hemoglobin Athens-Ga	Substance	Observation	SNOMED	Valid	Standard
+4279308	66209008	Hemoglobin Montgomery	Substance	Observation	SNOMED	Valid	Standard
+4279920	65874004	Hemoglobin Le Lamentin	Substance	Observation	SNOMED	Valid	Standard
+4281399	66296008	Hemoglobin J-Altgeld Gardens	Substance	Observation	SNOMED	Valid	Standard
+4283065	66805006	Hemoglobin J-Antakya	Substance	Observation	SNOMED	Valid	Standard
+4283244	67340008	Hemoglobin Hiroshima	Substance	Observation	SNOMED	Valid	Standard
+4283248	67355004	Hemoglobin M-Saskatoon	Substance	Observation	SNOMED	Valid	Standard
+4283795	66820000	Hemoglobin J-Amiens	Substance	Observation	SNOMED	Valid	Standard
+4284097	67152009	Hemoglobin Torino	Substance	Observation	SNOMED	Valid	Standard
+4284384	67451007	Hemoglobin J-Rovigo	Substance	Observation	SNOMED	Valid	Standard
+4285049	3689005	Hemoglobin Mizushi	Substance	Observation	SNOMED	Valid	Standard
+4285444	68561000	Hemoglobin Hirose	Substance	Observation	SNOMED	Valid	Standard
+4285884	67831003	Hemoglobin J-Singapore	Substance	Observation	SNOMED	Valid	Standard
+4286354	69091008	Hemoglobin Rush	Substance	Observation	SNOMED	Valid	Standard
+4286939	69108009	Hemoglobin Parchman	Substance	Observation	SNOMED	Valid	Standard
+4287258	69453000	Hemoglobin Burke	Substance	Observation	SNOMED	Valid	Standard
+4287842	68909008	Hemoglobin Nagasaki	Substance	Observation	SNOMED	Valid	Standard
+4288136	69544005	Hemoglobin Tours	Substance	Observation	SNOMED	Valid	Standard
+4288300	69756009	Hemoglobin Vancouver	Substance	Observation	SNOMED	Valid	Standard
+4288859	69088008	Hemoglobin S-Antilles	Substance	Observation	SNOMED	Valid	Standard
+4289146	69936003	Hemoglobin Tunis	Substance	Observation	SNOMED	Valid	Standard
+4289753	70050002	Hemoglobin H	Substance	Observation	SNOMED	Valid	Standard
+4289917	70214002	Hemoglobin Moskva	Substance	Observation	SNOMED	Valid	Standard
+4290191	37243001	Hemoglobin A>2< Coburg	Substance	Observation	SNOMED	Valid	Standard
+4290753	37148004	Hemoglobin F-Malaysia	Substance	Observation	SNOMED	Valid	Standard
+4290766	37329008	Hemoglobin J-Taichung	Substance	Observation	SNOMED	Valid	Standard
+4291155	37513004	Hemoglobin Lepore-Baltimore	Substance	Observation	SNOMED	Valid	Standard
+4291184	3727000	Hemoglobin F-Port Royal	Substance	Observation	SNOMED	Valid	Standard
+4294545	7547005	Hemoglobin Lincoln Park	Substance	Observation	SNOMED	Valid	Standard
+4294550	75512004	Hemoglobin City of Hope	Substance	Observation	SNOMED	Valid	Standard
+4296084	37838004	Hemoglobin F-Minoo	Substance	Observation	SNOMED	Valid	Standard
+4296993	76239004	Hemoglobin San Diego	Substance	Observation	SNOMED	Valid	Standard
+4297158	76488002	Hemoglobin Camperdown	Substance	Observation	SNOMED	Valid	Standard
+4297467	77124001	Hemoglobin Lyon	Substance	Observation	SNOMED	Valid	Standard
+4297639	77339007	Hemoglobin Ube-2	Substance	Observation	SNOMED	Valid	Standard
+4297783	76557004	Hemoglobin C-Georgetown	Substance	Observation	SNOMED	Valid	Standard
+4298108	77190004	Hemoglobin F-Victoria Jubilee	Substance	Observation	SNOMED	Valid	Standard
+4298827	77473001	Hemoglobin Contaldo	Substance	Observation	SNOMED	Valid	Standard
+4298962	77617001	Hemoglobin Olomouc	Substance	Observation	SNOMED	Valid	Standard
+4299105	77752000	Hemoglobin K-Cameroon	Substance	Observation	SNOMED	Valid	Standard
+4299362	77079007	Hemoglobin G-Honolulu	Substance	Observation	SNOMED	Valid	Standard
+4299509	773001	Hemoglobin M-Iwate	Substance	Observation	SNOMED	Valid	Standard
+4299516	77321003	Hemoglobin F-Meinohama	Substance	Observation	SNOMED	Valid	Standard
+4300377	38765002	Hemoglobin Nottingham	Substance	Observation	SNOMED	Valid	Standard
+4300424	77929007	Hemoglobin Chicago	Substance	Observation	SNOMED	Valid	Standard
+4301366	78665003	Hemoglobin Daneshgah-Tehran	Substance	Observation	SNOMED	Valid	Standard
+4301627	78249005	Hemoglobin North Chicago	Substance	Observation	SNOMED	Valid	Standard
+4301760	78445001	Hemoglobin Jackson	Substance	Observation	SNOMED	Valid	Standard
+4301815	38810009	Hemoglobin Olympia	Substance	Observation	SNOMED	Valid	Standard
+4303849	38899006	Hemoglobin North Shore	Substance	Observation	SNOMED	Valid	Standard
+4304545	81582008	Hemoglobin Santa Ana	Substance	Observation	SNOMED	Valid	Standard
+4305583	38957006	Hemoglobin Kofu	Substance	Observation	SNOMED	Valid	Standard
+4305822	83064007	Hemoglobin J-Guantanamo	Substance	Observation	SNOMED	Valid	Standard
+4305866	38726000	Hemoglobin G-Taiwan Ami	Substance	Observation	SNOMED	Valid	Standard
+4307083	8310007	Hemoglobin Madrid	Substance	Observation	SNOMED	Valid	Standard
+4307819	83066009	Hemoglobin Harbin	Substance	Observation	SNOMED	Valid	Standard
+4308134	83695004	Hemoglobin Spanish Town	Substance	Observation	SNOMED	Valid	Standard
+4308215	39004000	Hemoglobin Ypsilanti	Substance	Observation	SNOMED	Valid	Standard
+4308283	83815000	Hemoglobin E	Substance	Observation	SNOMED	Valid	Standard
+4308566	83615003	Hemoglobin A>2< Fitzroy	Substance	Observation	SNOMED	Valid	Standard
+4310090	85686009	Hemoglobin pigmentation	Morph Abnormality	Observation	SNOMED	Valid	Standard
+4310810	8520003	Hemoglobin Machida	Substance	Observation	SNOMED	Valid	Standard
+4310948	85410003	Hemoglobin Linkoping	Substance	Observation	SNOMED	Valid	Standard
+4311113	85969001	Hemoglobin Rampa	Substance	Observation	SNOMED	Valid	Standard
+4311192	39240008	Hemoglobin Sherwood Forest	Substance	Observation	SNOMED	Valid	Standard
+4311268	86132009	Hemoglobin A>2< Honai	Substance	Observation	SNOMED	Valid	Standard
+4311541	85427006	Hemoglobin Owari	Substance	Observation	SNOMED	Valid	Standard
+4311820	85773009	Hemoglobin D-Ouled Rabah	Substance	Observation	SNOMED	Valid	Standard
+4312617	85955001	Hemoglobin A>2< Zagreb	Substance	Observation	SNOMED	Valid	Standard
+4312625	85984005	Hemoglobin Memphis	Substance	Observation	SNOMED	Valid	Standard
+4312725	86026002	Hemoglobin Stanmore	Substance	Observation	SNOMED	Valid	Standard
+4313701	86336000	Hemoglobin Chiapas	Substance	Observation	SNOMED	Valid	Standard
+4313848	86520003	Hemoglobin J-Chicago	Substance	Observation	SNOMED	Valid	Standard
+4313972	86627007	Hemoglobin F-Ube	Substance	Observation	SNOMED	Valid	Standard
+4314263	86551005	Hemoglobin Chad	Substance	Observation	SNOMED	Valid	Standard
+4314909	86836009	Hemoglobin J-Baltimore	Substance	Observation	SNOMED	Valid	Standard
+4316633	9508003	Hemoglobin F-Kotobuki	Substance	Observation	SNOMED	Valid	Standard
+4318415	9549003	Hemoglobin F-Albaicin	Substance	Observation	SNOMED	Valid	Standard
+4319132	22175006	Hemoglobin Natal	Substance	Observation	SNOMED	Valid	Standard
+4320920	70519006	Hemoglobin G-Philadelphia	Substance	Observation	SNOMED	Valid	Standard
+4321104	70844006	Hemoglobin Necker-Enfants Malades	Substance	Observation	SNOMED	Valid	Standard
+4321758	9865006	Deoxyhemoglobin	Substance	Observation	SNOMED	Valid	Standard
+4321843	70744000	Hemoglobin F-Jamaica	Substance	Observation	SNOMED	Valid	Standard
+4322042	9695001	Hemoglobin J-Camaguey	Substance	Observation	SNOMED	Valid	Standard
+4322473	7054006	Hemoglobin Poissy	Substance	Observation	SNOMED	Valid	Standard
+4322651	71082007	Hemoglobin O-Indonesia	Substance	Observation	SNOMED	Valid	Standard
+4323561	71230001	Hemoglobin Mequon	Substance	Observation	SNOMED	Valid	Standard
+4324706	71700008	Hemoglobin J-Singa	Substance	Observation	SNOMED	Valid	Standard
+4325101	71500005	Hemoglobin S-Travis	Substance	Observation	SNOMED	Valid	Standard
+4325427	71423005	Hemoglobin Queens	Substance	Observation	SNOMED	Valid	Standard
+4325604	71656002	Hemoglobin Iwata	Substance	Observation	SNOMED	Valid	Standard
+4327061	75520002	Hemoglobin Brigham	Substance	Observation	SNOMED	Valid	Standard
+4327793	75384008	Hemoglobin Volga	Substance	Observation	SNOMED	Valid	Standard
+4328224	75861006	Hemoglobin Okazaki	Substance	Observation	SNOMED	Valid	Standard
+4329717	22100000	Hemoglobin Zürich	Substance	Observation	SNOMED	Valid	Standard
+4329830	22219004	Hemoglobin Riverdale-Bronx	Substance	Observation	SNOMED	Valid	Standard
+4330003	22463006	Hemoglobin G-San Jose	Substance	Observation	SNOMED	Valid	Standard
+4330306	22492005	Hemoglobin Alamo	Substance	Observation	SNOMED	Valid	Standard
+4330877	22584004	Hemoglobin Sydney	Substance	Observation	SNOMED	Valid	Standard
+4331571	22643009	Hemoglobin Belfast	Substance	Observation	SNOMED	Valid	Standard
+4336227	86887007	Hemoglobin I-Interlaken	Substance	Observation	SNOMED	Valid	Standard
+4337128	88005008	Hemoglobin Helsinki	Substance	Observation	SNOMED	Valid	Standard
+4338382	87889003	Hemoglobin Chapel Hill	Substance	Observation	SNOMED	Valid	Standard
+4338841	88064005	Hemoglobin F-Forest Park	Substance	Observation	SNOMED	Valid	Standard
+4339104	8795001	Hemoglobin F	Substance	Observation	SNOMED	Valid	Standard
+36683622	781586001	Hemoglobin J-Nyanza	Substance	Observation	SNOMED	Valid	Standard
+36683623	781587005	Hemoglobin J-Kaohsiung	Substance	Observation	SNOMED	Valid	Standard
+37109466	64391000119106	Family history of hemoglobinopathy E	Context-dependent	Observation	SNOMED	Valid	Standard
+37111072	725656003	Hemoglobin F-Texas	Substance	Observation	SNOMED	Valid	Standard
+37111076	725660000	Hemoglobin Q	Substance	Observation	SNOMED	Valid	Standard
+37111679	726747006	Hemoglobin A1	Substance	Observation	SNOMED	Valid	Standard
+37118746	733829007	Glycated hemoglobin	Substance	Observation	SNOMED	Valid	Standard
+37395615	4501000175108	Hemoglobin A1C test not done	Context-dependent	Observation	SNOMED	Valid	Standard
+40267673	103232008	HbA>1c<	Substance	Observation	SNOMED	Invalid	Non-standard
+40280974	116824006	Carbonyl hemoglobin	Substance	Observation	SNOMED	Invalid	Non-standard
+40287586	123094009	Hemoglobin S	Substance	Observation	SNOMED	Invalid	Non-standard
+40287587	123095005	Hemoglobin F-Calluna	Substance	Observation	SNOMED	Invalid	Non-standard
+40287588	123096006	Hemoglobin F-Kuala Lumpur	Substance	Observation	SNOMED	Invalid	Non-standard
+40287589	123097002	Hemoglobin F-Iwata	Substance	Observation	SNOMED	Invalid	Non-standard
+40287590	123098007	Hemoglobin F-Yamaguchi	Substance	Observation	SNOMED	Invalid	Non-standard
+40287591	123099004	Hemoglobin F-Siena	Substance	Observation	SNOMED	Invalid	Non-standard
+40301213	142802003	Hemoglobin not estimated	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+40301214	142803008	Hemoglobin requested	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+40301215	142804002	Hemoglobin - sample sent	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+40302386	143069000	Hemoglobin A (& level)	Procedure	Observation	SNOMED	Invalid	Non-standard
+40302387	143070004	Hemoglobin F (& level)	Procedure	Observation	SNOMED	Invalid	Non-standard
+40333039	165666001	Hemoglobin A (& level)	Procedure	Observation	SNOMED	Invalid	Non-standard
+40333040	165667005	Hemoglobin F (& level)	Procedure	Observation	SNOMED	Invalid	Non-standard
+40343446	259691007	Hemoglobin S	Substance	Observation	SNOMED	Invalid	Non-standard
+40343447	259692000	Hemoglobin E	Substance	Observation	SNOMED	Invalid	Non-standard
+40343452	259697006	Unstable hemoglobin	Substance	Observation	SNOMED	Invalid	Non-standard
+40344126	26210002	Hemoglobin Anantharaj	Substance	Observation	SNOMED	Invalid	Non-standard
+"40409303	21304000	Hemoglobin A,c	Substance	Observation	SNOMED	Invalid	Non-standard"
+40486409	446074002	Hemoglobin A1c target value using International Federation of Clinical Chemistry and Laboratory Medicine standardized method	Observable Entity	Observation	SNOMED	Valid	Standard
+42536361	735147002	MCHC (erythrocyte mean corpuscular hemoglobin concentration) calculation technique	Qualifier Value	Observation	SNOMED	Valid	Standard
+42536362	735148007	MCH (erythrocyte mean corpuscular hemoglobin) calculation technique	Qualifier Value	Observation	SNOMED	Valid	Standard
+43021379	473131004	Suspected sickle cell disease	Context-dependent	Observation	SNOMED	Valid	Standard
+43022001	473132006	Sickle cell disease not suspected	Context-dependent	Observation	SNOMED	Valid	Standard
+44783005	699038001	Hemoglobin variant screening requested	Context-dependent	Observation	SNOMED	Valid	Standard
+45765893	702945004	Estimated from glycated hemoglobin	Qualifier Value	Observation	SNOMED	Valid	Standard
+45768499	706944002	Free hemoglobin	Substance	Observation	SNOMED	Valid	Standard
+45769117	707699004	Helium single breath output adjusted for hemoglobin	Qualifier Value	Observation	SNOMED	Valid	Standard
+"927026	0061U	Transcutaneous measurement of five biomarkers (tissue oxygenation [StO2], oxyhemoglobin [ctHbO2], deoxyhemoglobin [ctHbR], papillary and reticular dermal hemoglobin concentrations [ctHb1 and ctHb2]), using spatial frequency domain imaging (SFDI) and mu...	CPT4	Procedure	CPT4	Valid	Standard"
+"2212872	86683	Antibody; hemoglobin, fecal (Deprecated)	CPT4	Procedure	CPT4	Valid	Standard"
+"4014493	104146008	Hemoglobin electrophoresis, pH 6.3	Procedure	Procedure	SNOMED	Valid	Standard"
+4016243	104145007	Hemoglobin electrophoresis	Procedure	Procedure	SNOMED	Valid	Standard
+"4016244	104147004	Hemoglobin electrophoresis, pH 8.9	Procedure	Procedure	SNOMED	Valid	Standard"
+4097598	250221001	Detection of hemoglobin	Procedure	Procedure	SNOMED	Valid	Standard
+4195182	313690003	Hemoglobin alkaline electrophoresis	Procedure	Procedure	SNOMED	Valid	Standard
+4209121	313456003	Hemoglobin acid electrophoresis	Procedure	Procedure	SNOMED	Valid	Standard
+4287798	397867002	Alteration of hemoglobin concentration to increase oxygen delivery	Procedure	Procedure	SNOMED	Valid	Standard
+36714633	719943000	Provision of written information about diabetes and high hemoglobin A1c level	Procedure	Procedure	SNOMED	Valid	Standard
+40301212	142801005	Hemoglobin estimation (& level)	Procedure	Procedure	SNOMED	Invalid	Non-standard
+40302385	143068008	Hemoglobin electrophoresis	Procedure	Procedure	SNOMED	Invalid	Non-standard
+40302392	143074008	Hemoglobin acid electrophoresis	Procedure	Procedure	SNOMED	Invalid	Non-standard
+40302393	143075009	Hemoglobin alkaline electrophoresis	Procedure	Procedure	SNOMED	Invalid	Non-standard
+40307814	144177007	Hemoglobin A1 level	Procedure	Procedure	SNOMED	Invalid	Non-standard
+40332318	165392002	Hemoglobin estimation (& level)	Procedure	Procedure	SNOMED	Invalid	Non-standard
+40333046	165672001	Hemoglobin acid electrophoresis	Procedure	Procedure	SNOMED	Invalid	Non-standard
+40333047	165673006	Hemoglobin alkaline electrophoresis	Procedure	Procedure	SNOMED	Invalid	Non-standard
+4117646	258892006	g Hb/mol Hb	Qualifier Value	Unit	SNOMED	Valid	Non-standard
+4117656	258938006	mIU/mol Hb	Qualifier Value	Unit	SNOMED	Valid	Non-standard
+4117664	258962001	umol/h/g Hb	Qualifier Value	Unit	SNOMED	Valid	Non-standard
+4117820	258921007	umol/g Hb	Qualifier Value	Unit	SNOMED	Valid	Non-standard
+4117821	258928001	mg/g Hb	Qualifier Value	Unit	SNOMED	Valid	Non-standard
+4117829	258967007	umol/min/g Hb	Qualifier Value	Unit	SNOMED	Valid	Non-standard
+4117995	258939003	mol/mol Hb	Qualifier Value	Unit	SNOMED	Valid	Non-standard
+4118167	258891004	g Hb/dL Ercs	Qualifier Value	Unit	SNOMED	Valid	Non-standard
+4118168	258893001	g/L hemoglobin binding capacity	Qualifier Value	Unit	SNOMED	Valid	Non-standard
+4118169	258900007	IU/g Hb	Qualifier Value	Unit	SNOMED	Valid	Non-standard
+4118171	258910003	kIU/mol Hb	Qualifier Value	Unit	SNOMED	Valid	Non-standard
+4118175	258924004	umol/mol Hb	Qualifier Value	Unit	SNOMED	Valid	Non-standard
+4118312	258980005	nmol/min/mg Hb	Qualifier Value	Unit	SNOMED	Valid	Non-standard
+4119683	258740009	Fraction of total Hb	Qualifier Value	Unit	SNOMED	Valid	Non-standard
+4124438	258762009	% total hemoglobin	Qualifier Value	Unit	SNOMED	Valid	Non-standard
+4140469	427033001	Unit/gram hemoglobin	Qualifier Value	Unit	SNOMED	Valid	Non-standard
+4167884	419171003	munit/gm Hb	Qualifier Value	Unit	SNOMED	Valid	Non-standard
+4302059	418482008	mg Hb/gm	Qualifier Value	Unit	SNOMED	Valid	Non-standard
+4302502	419350000	mcg/g Hb	Qualifier Value	Unit	SNOMED	Valid	Non-standard

@@ -1,0 +1,775 @@
+﻿Id	Code	Name	Standard Class	Domain	Vocab	Validity	Concept
+45880900	LA20744-1	More than one race	Answer	Meas Value	LOINC	Valid	Standard
+45882402	LA14050-1	Some Other Race (specify)	Answer	Meas Value	LOINC	Valid	Standard
+45883399	LA15895-8	Heart race	Answer	Meas Value	LOINC	Valid	Standard
+45883946	LA15576-4	Your race	Answer	Meas Value	LOINC	Valid	Standard
+3006509	21835-4	Coding system.current Race	Clinical Observation	Measurement	LOINC	Valid	Standard
+3022647	21836-2	Coding system.original Race	Clinical Observation	Measurement	LOINC	Valid	Standard
+36203776	86800-0	Coded race and ethnicity - recommended CDA R1 sections	Clinical Observation	Measurement	LOINC	Valid	Standard
+40759173	56052-4	Deprecated PhenX measure - race	Clinical Observation	Measurement	LOINC	Invalid	Non-standard
+40765769	63037-6	Deprecated PhenX measure - race - ethnic residential segregation	Clinical Observation	Measurement	LOINC	Invalid	Non-standard
+40765770	63038-4	PhenX - race - ethnic residential segregation protocol 211401	Clinical Observation	Measurement	LOINC	Valid	Standard
+1005839	LP112590-7	PhenX measure - race - ethnic residential segregation	LOINC Component	Observation	LOINC	Invalid	Non-standard
+1005840	LP112591-5	PhenX - race - ethnic residential segregation protocol 211401	LOINC Component	Observation	LOINC	Valid	Non-standard
+1009423	LP133783-3	Some other race alone	LOINC Component	Observation	LOINC	Valid	Non-standard
+1010195	LP136353-2	Race - 2 character code	LOINC Component	Observation	LOINC	Valid	Non-standard
+1010324	LP140497-1	Bothered by feeling your heart pound or race in last 4 weeks	LOINC Component	Observation	LOINC	Valid	Non-standard
+"1010349	LP140522-6	Did your heart race, pound, or skip	LOINC Component	Observation	LOINC	Valid	Non-standard"
+"1010414	LP145537-9	Race, ethnicity, sex, primary language, disability - Health and Human Services (HHS) panel	LOINC Component	Observation	LOINC	Valid	Non-standard"
+1013075	LP188941-1	Race or ethnicity panel	LOINC Component	Observation	LOINC	Valid	Non-standard
+1014791	LP207548-1	Bridged race	LOINC Component	Observation	LOINC	Valid	Non-standard
+1014792	LP207549-9	Tabulated race	LOINC Component	Observation	LOINC	Valid	Non-standard
+1016617	LP249690-1	Coded race and ethnicity - recommended CDA R1 sections	LOINC Component	Observation	LOINC	Valid	Non-standard
+1016963	LP262276-1	Race and ethnicity information	LOINC Component	Observation	LOINC	Valid	Non-standard
+1030008	LP71009-2	Race	LOINC Component	Observation	LOINC	Valid	Non-standard
+1032799	LP7528-5	Race	LOINC System	Observation	LOINC	Valid	Non-standard
+1033012	LP75483-5	Race or ethnicity	LOINC Component	Observation	LOINC	Valid	Non-standard
+1034411	LP95291-8	PhenX measure - race	LOINC Component	Observation	LOINC	Invalid	Non-standard
+3022828	21484-1	Mother's race	Clinical Observation	Observation	LOINC	Valid	Standard
+3040025	54134-2	Race [USSG-FHT]	Survey	Observation	LOINC	Valid	Standard
+3046853	32624-9	Race	Clinical Observation	Observation	LOINC	Valid	Standard
+3050381	46463-6	Race or ethnicity	Clinical Observation	Observation	LOINC	Valid	Standard
+3051279	53720-9	Race NAPIIA	Clinical Observation	Observation	LOINC	Valid	Standard
+3051580	54119-3	Race Family member [USSG-FHT]	Survey	Observation	LOINC	Valid	Standard
+21494072	80906-1	Bridged race [CDC]	Survey	Observation	LOINC	Valid	Standard
+21494232	80977-2	Tabulated race [CDC]	Survey	Observation	LOINC	Valid	Standard
+21494575	81887-2	Provider race OMB.1997	Clinical Observation	Observation	LOINC	Valid	Standard
+36203781	86805-9	Race and ethnicity information Document	Clinical Observation	Observation	LOINC	Valid	Standard
+36303307	88120-1	Father's Bridged race [CDC]	Survey	Observation	LOINC	Valid	Standard
+36306172	88119-3	Mother's Bridged race [CDC]	Survey	Observation	LOINC	Valid	Standard
+40759212	56091-2	Race [PhenX]	Clinical Observation	Observation	LOINC	Valid	Standard
+40762453	59362-4	Race or ethnicity OMB.1997	Clinical Observation	Observation	LOINC	Valid	Standard
+40767312	64606-7	Race - 2 character code [PhenX]	Clinical Observation	Observation	LOINC	Valid	Standard
+"40767632	64931-9	When frightened, my heart beats fast [SCARED-R]	Clinical Observation	Observation	LOINC	Valid	Standard"
+40767687	64987-1	Race or ethnicity Family member [PhenX]	Clinical Observation	Observation	LOINC	Valid	Standard
+40769917	67288-1	Race or ethnicity [The Position Generator]	Clinical Observation	Observation	LOINC	Valid	Standard
+40770363	67755-9	Some other race alone [#] Census tract	Clinical Observation	Observation	LOINC	Valid	Standard
+40772105	69679-9	Bothered by feeling your heart pound or race in last 4 weeks [Reported.PHQ]	Survey	Observation	LOINC	Valid	Standard
+"40772132	69706-0	Did your heart race, pound, or skip [Reported.PHQ]	Survey	Observation	LOINC	Valid	Standard"
+42868352	69855-5	Race [HHS.ACA Section 4302]	Survey	Observation	LOINC	Valid	Standard
+"42868410	69919-9	Race, ethnicity, sex, primary language, disability - Health and Human Services (HHS) panel [HHS.ACA Section 4302]	Survey	Observation	LOINC	Valid	Standard"
+43055686	72826-1	Race OMB.1997	Clinical Observation	Observation	LOINC	Valid	Standard
+44816591	74693-3	Race [AHRQ]	Survey	Observation	LOINC	Valid	Standard
+46234816	76362-3	Race or ethnicity panel [NMMDS]	Survey	Observation	LOINC	Valid	Standard
+46234956	76663-4	Race or ethnicity of Provider [NMMDS]	Survey	Observation	LOINC	Valid	Standard
+46235838	76363-1	Licensed nursing personnel [#] by race or ethnicity [NMMDS]	Survey	Observation	LOINC	Valid	Standard
+3563128	332851000000103	Race relations	Admin Concept	Observation	SNOMED	Invalid	Non-standard
+4013886	103579009	Race	Observable Entity	Observation	SNOMED	Valid	Standard
+4053490	242161009	Accident to motorcycle during race on closed public road	Clinical Finding	Observation	SNOMED	Valid	Standard
+4053622	242160005	Accident to car during race on closed public road	Clinical Finding	Observation	SNOMED	Valid	Standard
+4212322	414807004	National surgical quality improvement program defined race	Observable Entity	Observation	SNOMED	Valid	Standard
+40539031	365451008	Race - finding	Clinical Finding	Observation	SNOMED	Invalid	Non-standard
+44803748	722541000000100	Race relations	Qualifier Value	Observation	SNOMED	Valid	Standard
+45771337	703506008	Clearance calculation relative to 1.73 square meters body surface area and adjusted for African race	Qualifier Value	Observation	SNOMED	Valid	Standard
+45773092	703507004	Clearance calculation relative to 1.73 square meters body surface area and adjusted for non-African race	Qualifier Value	Observation	SNOMED	Valid	Standard
+759814	10241000175103	Ethnic group unknown	Social Context	Race	SNOMED	Valid	Non-standard
+3551116	85871000000107	Bosnian - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551117	85881000000109	Punjabi - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551118	85891000000106	Chinese - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551119	85901000000107	Ethnic category not stated - 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551131	86191000000107	Welsh - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551132	86201000000109	Serbian - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551133	86211000000106	Other - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551134	86221000000100	Ethnic category not stated - 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551477	98251000000105	Ethnic category - 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551478	98261000000108	British or mixed British - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551479	98271000000101	Irish - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551480	98281000000104	Other White background - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551481	98291000000102	English - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551482	98301000000103	Scottish - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551483	98321000000107	Northern Irish - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551484	98331000000109	Ulster Scots - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551485	98341000000100	Cypriot (part not stated) - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551486	98351000000102	Greek - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551487	98361000000104	Greek Cypriot - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551488	98371000000106	Turkish - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551489	98381000000108	Turkish Cypriot - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551490	98391000000105	Italian - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551491	98411000000105	Traveller - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551492	98421000000104	Gypsy/Romany - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551493	98431000000102	Polish - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551494	98441000000106	Baltic States (Estonian or Latvian or Lithuanian) - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551495	98451000000109	Commonwealth of (Russian) Independent States - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551496	98461000000107	Kosovan - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551497	98471000000100	Albanian - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551498	98481000000103	Croatian - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551499	98491000000101	Serbian - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551500	98501000000107	Other republics which made up the former Yugoslavia - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551501	98511000000109	Mixed Irish and other White - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551502	98521000000103	Other White European or European unspecified or Mixed European - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551503	98531000000101	Other mixed White - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551504	98541000000105	Other White or White unspecified - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551505	98551000000108	White and Black Caribbean - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551506	98561000000106	White and Black African - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551507	98571000000104	White and Asian - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551508	98581000000102	Other Mixed background - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551509	98591000000100	Black and Asian - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551510	98601000000106	Black and Chinese - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551511	98611000000108	Black and White - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551512	98621000000102	Chinese and White - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551513	98631000000100	Asian and Chinese - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551514	98641000000109	Other Mixed or Mixed unspecified - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551515	98651000000107	Indian or British Indian - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551516	98661000000105	Pakistani or British Pakistani - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551517	98671000000103	Bangladeshi or British Bangladeshi - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551518	98681000000101	Other Asian background - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551519	98691000000104	Kashmiri - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551520	98701000000104	East African Asian - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551521	98711000000102	Sri Lankan - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551522	98721000000108	Tamil - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551523	98731000000105	Sinhalese - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551524	98741000000101	Caribbean Asian - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551525	98751000000103	British Asian - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551526	98761000000100	Mixed Asian - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551527	98771000000107	Other Asian or Asian unspecified - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551528	98781000000109	Caribbean - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551529	98791000000106	African - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551530	98801000000105	Other Black background - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551531	98811000000107	Somali - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551532	98821000000101	Nigerian - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551533	98831000000104	Black British - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551534	98841000000108	Mixed Black - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551535	98851000000106	Other Black or Black unspecified - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551536	98861000000109	Other - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551537	98871000000102	Vietnamese - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551538	98881000000100	Japanese - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551539	98891000000103	Filipino - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551540	98901000000102	Malaysian - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551541	98911000000100	Buddhist - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551542	98921000000106	Hindu - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551543	98931000000108	Jewish - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551544	98941000000104	Muslim - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551545	98951000000101	Sikh - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551546	98961000000103	Arab - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551547	98971000000105	North African - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+"3551548	98981000000107	Middle Eastern (excluding Israeli, Iranian and Arab) - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard"
+3551549	98991000000109	Israeli - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551550	99001000000109	Iranian - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551551	99011000000106	Kurdish - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551552	99021000000100	Moroccan - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551553	99031000000103	Latin American - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551554	99041000000107	South and Central American - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551555	99051000000105	Multi-ethnic islands: Mauritian or Seychellois or Maldivian or St Helena - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551556	99061000000108	Any other group - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551719	103161000000104	Ethnic category - 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551720	103171000000106	British or mixed British - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551721	103181000000108	Irish - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551722	103191000000105	Other White background - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551723	103201000000107	English - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551724	103211000000109	Scottish - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551725	103221000000103	Cornish - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551726	103231000000101	Northern Irish - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551727	103241000000105	Ulster Scots - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551728	103251000000108	Cypriot (part not stated) - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551729	103261000000106	Greek - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551730	103271000000104	Greek Cypriot - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551731	103281000000102	Turkish - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551732	103291000000100	Turkish Cypriot - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551733	103301000000101	Italian - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551734	103311000000104	Irish Traveller - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551735	103321000000105	Traveller - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551736	103331000000107	Gypsy/Romany - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551737	103341000000103	Polish - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551738	103351000000100	Baltic States (Estonian or Latvian or Lithuanian) - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551739	103361000000102	Commonwealth of (Russian) Independent States - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551740	103371000000109	Kosovan - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551741	103381000000106	Albanian - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551742	103391000000108	Bosnian - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551743	103401000000106	Croatian - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551744	103411000000108	Other republics which made up the former Yugoslavia - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551745	103421000000102	Mixed Irish and other White - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551746	103431000000100	Other White European or European unspecified or Mixed European - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551747	103441000000109	Other mixed White - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551748	103451000000107	Other White or White unspecified - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551749	103461000000105	White and Black Caribbean - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551750	103471000000103	White and Black African - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551751	103481000000101	White and Asian - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551752	103491000000104	Other Mixed background - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551753	103501000000105	Black and Asian - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551754	103511000000107	Black and Chinese - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551755	103521000000101	Black and White - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551756	103531000000104	Chinese and White - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551757	103541000000108	Asian and Chinese - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551758	103551000000106	Other Mixed or Mixed unspecified - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551759	103561000000109	Indian or British Indian - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551760	103571000000102	Pakistani or British Pakistani - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551761	103581000000100	Bangladeshi or British Bangladeshi - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551762	103591000000103	Other Asian background - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551763	103601000000109	Kashmiri - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551764	103611000000106	East African Asian - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551765	103621000000100	Sri Lankan - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551766	103631000000103	Tamil - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551767	103641000000107	Sinhalese - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551768	103651000000105	Caribbean Asian - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551769	103661000000108	British Asian - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551770	103671000000101	Mixed Asian - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551771	103681000000104	Other Asian or Asian unspecified - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551772	103691000000102	Caribbean - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551773	103701000000102	African - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551774	103711000000100	Other Black background - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551775	103721000000106	Somali - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551776	103731000000108	Nigerian - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551777	103741000000104	Black British - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551778	103751000000101	Mixed Black - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551779	103761000000103	Other Black or Black unspecified - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551780	103771000000105	Chinese - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551781	103781000000107	Vietnamese - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551782	103791000000109	Japanese - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551783	103801000000108	Filipino - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551784	103811000000105	Malaysian - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551785	103821000000104	Buddhist - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551786	103831000000102	Hindu - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551787	103841000000106	Jewish - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551788	103851000000109	Muslim - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551789	103861000000107	Sikh - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551790	103871000000100	Arab - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551791	103881000000103	North African - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+"3551792	103891000000101	Middle Eastern (excluding Israeli, Iranian and Arab) - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard"
+3551793	103911000000103	Iranian - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551794	103921000000109	Kurdish - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551795	103931000000106	Moroccan - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551796	103941000000102	Latin American - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551797	103951000000104	South and Central American - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551798	103961000000101	Multi-ethnic islands: Mauritian or Seychellois or Maldivian or St Helena - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551799	103971000000108	Any other group - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551989	107821000000108	Welsh - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3551991	107901000000107	Punjabi - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3556848	494141000000101	White British - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3556849	494151000000103	White British - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3556850	494171000000107	White Irish - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3556851	494181000000109	White Irish - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3557656	583491000000107	Ethnic groups (census) NOS	Social Context	Race	SNOMED	Invalid	Non-standard
+3557687	592501000000105	New Zealand ethnic group NOS	Social Context	Race	SNOMED	Invalid	Non-standard
+3557930	651601000000100	Black Black - other	Social Context	Race	SNOMED	Invalid	Non-standard
+3557980	661741000000103	Other Asian	Social Context	Race	SNOMED	Invalid	Non-standard
+3558014	668681000000107	Other white ethnic group	Social Context	Race	SNOMED	Invalid	Non-standard
+3561337	976561000000107	Ethnic category - 2011 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3561338	976581000000103	Ethnic category - 2011 census England and Wales	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3561339	976601000000107	Ethnic category - 2011 census Northern Ireland	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3561340	976621000000103	Ethnic category - 2011 census Scotland	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3561341	976641000000105	White: English or Welsh or Scottish or Northern Irish or British - England and Wales ethnic category 2011 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3561342	976841000000109	Asian or Asian British: Bangladeshi - England and Wales ethnic category 2011 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3561343	976861000000105	Asian or Asian British: Chinese - England and Wales ethnic category 2011 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3561344	976881000000101	Asian or Asian British: any other Asian background - England and Wales ethnic category 2011 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3561345	976901000000103	Black or African or Caribbean or Black British: African - England and Wales ethnic category 2011 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3561346	976921000000107	Black or African or Caribbean or Black British : Caribbean - England and Wales ethnic category 2011 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3561347	976941000000100	Black or African or Caribbean or Black British : other black or African or Caribbean background - England and Wales ethnic category 2011 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3561348	976961000000104	Other ethnic group: Arab - England and Wales ethnic category 2011 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3561349	976981000000108	Other ethnic group: any other ethnic group - England and Wales ethnic category 2011 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3561351	977361000000102	White - Northern Ireland ethnic category 2011 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3561352	977381000000106	Irish Traveller - Northern Ireland ethnic category 2011 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3561353	977401000000106	Mixed multiple ethnic groups: white and black Caribbean - Northern Ireland ethnic category 2011 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3561354	977421000000102	Mixed multiple ethnic groups: white and black African - Northern Ireland ethnic category 2011 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3561355	977441000000109	Mixed multiple ethnic groups: white and Asian - Northern Ireland ethnic category 2011 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3561357	977561000000109	Mixed multiple ethnic groups: any other Mixed or Multiple ethnic background - Northern Ireland ethnic category 2011 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3561358	977601000000109	Asian or Asian British: Indian - Northern Ireland ethnic category 2011 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3561359	977821000000104	Black or African or Caribbean or Black British: Caribbean - Northern Ireland ethnic category 2011 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3561360	977841000000106	Black or African or Caribbean or Black British: other black or African or Caribbean background - Northern Ireland ethnic category 2011 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3561361	977861000000107	Other ethnic group: Arab - Northern Ireland ethnic category 2011 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3561362	977881000000103	Other ethnic group: any other ethnic group - Northern Ireland ethnic category 2011 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3561363	978371000000108	Caribbean or Black: any other Black or Caribbean group - Scotland ethnic category 2011 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+"3561364	978391000000107	Other ethnic group: Arab, Arab Scottish or Arab British - Scotland ethnic category 2011 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard"
+3561365	978411000000107	Other ethnic group: any other ethnic group - Scotland ethnic category 2011 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3561570	1050831000000108	Romanian Roma	Social Context	Race	SNOMED	Invalid	Non-standard
+3571421	103901000000100	Israeli - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3574272	976781000000105	Mixed multiple ethnic groups: any other Mixed or Multiple ethnic background - England and Wales ethnic category 2011 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3574275	976661000000106	White: Irish - England and Wales ethnic category 2011 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3574276	976681000000102	White: Gypsy or Irish Traveller - England and Wales ethnic category 2011 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3574277	976701000000100	White: any other white background - England and Wales ethnic category 2011 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3574278	976721000000109	Mixed multiple ethnic groups: white and black Caribbean - England and Wales ethnic category 2011 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3574279	976741000000102	Mixed multiple ethnic groups: white and black African - England and Wales ethnic category 2011 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3574280	976761000000101	Mixed multiple ethnic groups: white and Asian - England and Wales ethnic category 2011 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3574281	976801000000106	Asian or Asian British: Indian - England and Wales ethnic category 2011 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3574282	976821000000102	Asian or Asian British: Pakistani - England and Wales ethnic category 2011 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3574294	977721000000106	Asian or Asian British: Pakistani - Northern Ireland ethnic category 2011 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3574295	977741000000104	Asian or Asian British: Bangladeshi - Northern Ireland ethnic category 2011 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3574296	977761000000103	Asian or Asian British: Chinese - Northern Ireland ethnic category 2011 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3574297	977781000000107	Asian or Asian British: any other Asian background - Northern Ireland ethnic category 2011 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3574298	977801000000108	Black or African or Caribbean or Black British: African - Northern Ireland ethnic category 2011 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3574301	977921000000109	White: Scottish - Scotland ethnic category 2011 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3574302	977941000000102	White: other British - Scotland ethnic category 2011 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3574303	977961000000101	White: Irish - Scotland ethnic category 2011 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3574304	977981000000105	White: Gypsy or Irish Traveller - Scotland ethnic category 2011 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3574306	978021000000107	White: Polish - Scotland ethnic category 2011 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3574307	978041000000100	White: any other white ethnic group - Scotland ethnic category 2011 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3574308	978061000000104	Mixed or multiple ethnic groups: any Mixed or Multiple ethnic group - Scotland ethnic category 2011 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+"3574309	978081000000108	Asian or Asian Scottish or Asian British: Pakistani, Pakistani Scottish or Pakistani British - Scotland ethnic category 2011 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard"
+"3574311	978121000000106	Asian or Asian Scottish or Asian British: Indian, Indian Scottish or Indian British - Scotland ethnic category 2011 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard"
+"3574312	978351000000104	Caribbean or Black: Black, Black Scottish or Black British - Scotland ethnic category 2011 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard"
+"3574318	978181000000107	Asian or Asian Scottish or Asian British: Bangladeshi, Bangladeshi Scottish or Banagaldeshi British - Scotland ethnic category 2011 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard"
+3574319	978201000000106	Asian or Asian Scottish or Asian British: Chinese - Scotland ethnic category 2011 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3574320	978221000000102	Asian or Asian Scottish or Asian British: any other Asian group - Scotland ethnic category 2011 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+"3574321	978241000000109	African: African, African Scottish or African British - Scotland ethnic category 2011 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard"
+3574322	978261000000105	African: any other African - Scotland ethnic category 2011 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+"3574323	978281000000101	Caribbean or Black: Caribbean, Caribbean Scottish or Caribbean British - Scotland ethnic category 2011 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard"
+3574349	98311000000101	Cornish - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3574356	98401000000108	Irish Traveller - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+3661713	870448005	Khoikhoi	Social Context	Race	SNOMED	Valid	Non-standard
+4000051	1919006	Egyptians	Social Context	Race	SNOMED	Valid	Non-standard
+4002414	10008004	Ewe	Social Context	Race	SNOMED	Valid	Non-standard
+4005076	10117001	Finns	Social Context	Race	SNOMED	Valid	Non-standard
+4012103	10292001	Guamians	Social Context	Race	SNOMED	Valid	Non-standard
+4012612	113171009	Coushatta	Social Context	Race	SNOMED	Valid	Non-standard
+4014099	113170005	Aymara	Social Context	Race	SNOMED	Valid	Non-standard
+4014421	113169009	Armenians	Social Context	Race	SNOMED	Valid	Non-standard
+4017926	10432001	Onge	Social Context	Race	SNOMED	Valid	Non-standard
+4024294	19434008	French	Social Context	Race	SNOMED	Valid	Non-standard
+4027841	13233008	Flathead	Social Context	Race	SNOMED	Valid	Non-standard
+4028336	1340002	Malays	Social Context	Race	SNOMED	Valid	Non-standard
+4028346	13440006	Tanganyikans	Social Context	Race	SNOMED	Valid	Non-standard
+4030302	108342005	South Asian AND/OR Australian aborigine	Social Context	Race	SNOMED	Valid	Non-standard
+4030411	14045001	Caucasian	Social Context	Race	SNOMED	Valid	Non-standard
+4030735	14470009	Tutsi	Social Context	Race	SNOMED	Valid	Non-standard
+4031845	14176005	Danes	Social Context	Race	SNOMED	Valid	Non-standard
+4032635	1451003	Greeks	Social Context	Race	SNOMED	Valid	Non-standard
+4033391	14999008	Welsh	Social Context	Race	SNOMED	Valid	Non-standard
+4034654	23922002	Batutsi	Social Context	Race	SNOMED	Valid	Non-standard
+4035165	15086000	African American	Social Context	Race	SNOMED	Valid	Non-standard
+4036536	11794009	Kenyans	Social Context	Race	SNOMED	Valid	Non-standard
+4048709	15801006	Kapingas	Social Context	Race	SNOMED	Valid	Non-standard
+4050100	21047009	Aleuts	Social Context	Race	SNOMED	Valid	Non-standard
+4051279	160531006	Race: West indian	Clinical Finding	Race	SNOMED	Valid	Non-standard
+4053167	23517005	Polynesians	Social Context	Race	SNOMED	Valid	Non-standard
+4053172	23534002	Melanesians	Social Context	Race	SNOMED	Valid	Non-standard
+4053816	12556008	Tamils	Social Context	Race	SNOMED	Valid	Non-standard
+4057568	18167009	Black African	Social Context	Race	SNOMED	Valid	Non-standard
+4063377	17095009	Norwegians	Social Context	Race	SNOMED	Valid	Non-standard
+4065367	20140003	Hawaiians	Social Context	Race	SNOMED	Valid	Non-standard
+4068834	20449009	Javanese	Social Context	Race	SNOMED	Valid	Non-standard
+4069284	20291009	Lacandon	Social Context	Race	SNOMED	Valid	Non-standard
+4071025	21868006	Madagascans	Social Context	Race	SNOMED	Valid	Non-standard
+4073535	17789004	Papuans	Social Context	Race	SNOMED	Valid	Non-standard
+4076901	275587000	Black Arab	Social Context	Race	SNOMED	Valid	Non-standard
+4077358	275588005	Black Iranian	Social Context	Race	SNOMED	Valid	Non-standard
+4077735	19085009	Saipanese	Social Context	Race	SNOMED	Valid	Non-standard
+4078122	275586009	Black North African	Social Context	Race	SNOMED	Valid	Non-standard
+4078123	275589002	Black East African Asian	Social Context	Race	SNOMED	Valid	Non-standard
+4078124	275590006	Black Indo-Caribbean	Social Context	Race	SNOMED	Valid	Non-standard
+4085322	18575005	Oceanian	Social Context	Race	SNOMED	Valid	Non-standard
+4085483	185995003	Black Indian sub-continent	Social Context	Race	SNOMED	Valid	Non-standard
+4085484	185997006	Black Black - other	Social Context	Race	SNOMED	Invalid	Non-standard
+"4085487	186020007	Other ethnic, Black/White origin	Social Context	Race	SNOMED	Valid	Non-standard"
+4085488	186037000	Other European in New Zealand	Social Context	Race	SNOMED	Valid	Non-standard
+4085489	186041001	Niuean	Social Context	Race	SNOMED	Valid	Non-standard
+4087322	24812003	Mongol	Social Context	Race	SNOMED	Valid	Non-standard
+4087917	185988007	Black Caribbean	Social Context	Race	SNOMED	Valid	Non-standard
+4087919	185999009	Other Black - Black/White orig	Social Context	Race	SNOMED	Valid	Non-standard
+4087920	186000006	Other Black - Black/Asian orig	Social Context	Race	SNOMED	Valid	Non-standard
+"4087924	186022004	Other ethnic, mixed white origin	Social Context	Race	SNOMED	Valid	Non-standard"
+4087926	186035008	New Zealand ethnic groups	Social Context	Race	SNOMED	Valid	Non-standard
+4087928	186040000	Cook Island Maori	Social Context	Race	SNOMED	Valid	Non-standard
+4087930	186044009	South East Asian	Social Context	Race	SNOMED	Valid	Non-standard
+4087931	186046006	Other Asian	Social Context	Race	SNOMED	Invalid	Non-standard
+4087932	186048007	New Zealand ethnic group NOS	Social Context	Race	SNOMED	Invalid	Non-standard
+4090368	18583004	Estonians	Social Context	Race	SNOMED	Valid	Non-standard
+4090388	185984009	White - ethnic group	Social Context	Race	SNOMED	Valid	Non-standard
+4090389	185990008	Black British	Social Context	Race	SNOMED	Valid	Non-standard
+"4090518	186023009	Other ethnic, other mixed origin	Social Context	Race	SNOMED	Valid	Non-standard"
+4090520	186033001	Ethnic groups (census) NOS	Social Context	Race	SNOMED	Invalid	Non-standard
+4090521	186036009	New Zealand European	Social Context	Race	SNOMED	Valid	Non-standard
+"4091010	185989004	Black, other, non-mixed origin	Social Context	Race	SNOMED	Valid	Non-standard"
+4091011	185993005	Black - other African country	Social Context	Race	SNOMED	Valid	Non-standard
+4091012	185996002	Black - other Asian	Social Context	Race	SNOMED	Valid	Non-standard
+"4091013	185998001	Black - other, mixed	Social Context	Race	SNOMED	Valid	Non-standard"
+4091016	186001005	Indian (East Indian)	Social Context	Race	SNOMED	Valid	Non-standard
+4091017	186002003	Pakistani	Social Context	Race	SNOMED	Valid	Non-standard
+4091018	186003008	Bangladeshi	Social Context	Race	SNOMED	Valid	Non-standard
+"4091020	186019001	Other ethnic, mixed origin	Social Context	Race	SNOMED	Valid	Non-standard"
+"4091021	186021006	Other ethnic, Asian/White origin	Social Context	Race	SNOMED	Valid	Non-standard"
+4091022	186039002	New Zealand Maori	Social Context	Race	SNOMED	Valid	Non-standard
+4091023	186042008	Tokelauan	Social Context	Race	SNOMED	Valid	Non-standard
+4092681	18664001	Xavante	Social Context	Race	SNOMED	Valid	Non-standard
+4093769	25804004	English	Social Context	Race	SNOMED	Valid	Non-standard
+4095109	26215007	South Asian Aborigine	Social Context	Race	SNOMED	Valid	Non-standard
+4097690	2688009	Tristan da Cunhans	Social Context	Race	SNOMED	Valid	Non-standard
+4098866	2720008	Hututu	Social Context	Race	SNOMED	Valid	Non-standard
+4099457	27301002	Paez	Social Context	Race	SNOMED	Valid	Non-standard
+4100470	27700004	Iraqi	Social Context	Race	SNOMED	Valid	Non-standard
+4100645	27683006	Ainu	Social Context	Race	SNOMED	Valid	Non-standard
+4102303	2852001	Bhutanese	Social Context	Race	SNOMED	Valid	Non-standard
+4102599	28562006	Poles	Social Context	Race	SNOMED	Valid	Non-standard
+4102622	286009	Czech	Social Context	Race	SNOMED	Valid	Non-standard
+4103076	28821007	Easter Islanders	Social Context	Race	SNOMED	Valid	Non-standard
+4103243	28796001	Siamese	Social Context	Race	SNOMED	Valid	Non-standard
+4119705	25750005	Admiralty Islanders	Social Context	Race	SNOMED	Valid	Non-standard
+4135806	31637002	Italians	Social Context	Race	SNOMED	Valid	Non-standard
+4136468	398089004	Ethnic background	Clinical Finding	Race	SNOMED	Valid	Non-standard
+4137597	32513008	Dyaks	Social Context	Race	SNOMED	Valid	Non-standard
+4138072	32045009	Georgians	Social Context	Race	SNOMED	Valid	Non-standard
+4139924	32873005	Bloods	Social Context	Race	SNOMED	Valid	Non-standard
+4140692	3353005	Pueblo	Social Context	Race	SNOMED	Valid	Non-standard
+4141462	33182009	Trukese	Social Context	Race	SNOMED	Valid	Non-standard
+4144377	33897005	Chinese	Social Context	Race	SNOMED	Valid	Non-standard
+4145762	34334001	New Caledonians	Social Context	Race	SNOMED	Valid	Non-standard
+4148384	35007000	Utes	Social Context	Race	SNOMED	Valid	Non-standard
+4151576	270461001	Black N African/Arab/Iranian	Social Context	Race	SNOMED	Valid	Non-standard
+4151577	270462008	Black East African Asian/Indo-Caribbean	Social Context	Race	SNOMED	Valid	Non-standard
+4151776	315634007	Black Caribbean and White	Social Context	Race	SNOMED	Valid	Non-standard
+4152781	28409002	Spaniards	Social Context	Race	SNOMED	Valid	Non-standard
+4152832	270460000	Black Caribbean/W.I./Guyana	Social Context	Race	SNOMED	Valid	Non-standard
+4153158	315635008	Black African and White	Social Context	Race	SNOMED	Valid	Non-standard
+4155301	372148003	Ethnic group	Social Context	Race	SNOMED	Valid	Non-standard
+4163527	45465003	Basques	Social Context	Race	SNOMED	Valid	Non-standard
+4165388	41076003	Mozambiquans	Social Context	Race	SNOMED	Valid	Non-standard
+4167520	48294008	Solomon Islanders	Social Context	Race	SNOMED	Valid	Non-standard
+4167621	29343004	Bulgarian	Social Context	Race	SNOMED	Valid	Non-standard
+4169399	48679001	Bogobos	Social Context	Race	SNOMED	Valid	Non-standard
+4170060	48118002	Yapese	Social Context	Race	SNOMED	Valid	Non-standard
+4170372	48375000	Seminole	Social Context	Race	SNOMED	Valid	Non-standard
+4171181	49202008	Gilbertese	Social Context	Race	SNOMED	Valid	Non-standard
+4175829	42632009	Andamanese	Social Context	Race	SNOMED	Valid	Non-standard
+4178142	52075006	Congolese	Social Context	Race	SNOMED	Valid	Non-standard
+4180571	53195006	Kirghiz	Social Context	Race	SNOMED	Valid	Non-standard
+4180729	4299001	Marathas	Social Context	Race	SNOMED	Valid	Non-standard
+4182121	43056000	Cuna	Social Context	Race	SNOMED	Valid	Non-standard
+4183595	43608005	Australian Aborigines	Social Context	Race	SNOMED	Valid	Non-standard
+4184962	413465009	Afro-Caribbean	Social Context	Race	SNOMED	Valid	Non-standard
+4184966	413490006	American Indian or Alaska native	Social Context	Race	SNOMED	Valid	Non-standard
+4184984	413581001	Asian or Pacific islander	Social Context	Race	SNOMED	Valid	Non-standard
+4185154	413773004	Caucasian	Social Context	Race	SNOMED	Valid	Non-standard
+"4185155	413774005	Caucasian, not of hispanic origin	Social Context	Race	SNOMED	Valid	Non-standard"
+4185580	43890005	Dieguenos	Social Context	Race	SNOMED	Valid	Non-standard
+4185920	414481008	Indian	Social Context	Race	SNOMED	Valid	Non-standard
+4185935	414551003	Japanese	Social Context	Race	SNOMED	Valid	Non-standard
+4186402	414808009	National surgical quality improvement program defined race unknown	Social Context	Race	SNOMED	Valid	Non-standard
+4186453	47327008	Mexican Indians	Social Context	Race	SNOMED	Valid	Non-standard
+4186705	413600007	Australian aborigine	Social Context	Race	SNOMED	Valid	Non-standard
+4187747	413466005	Afro-Caucasian	Social Context	Race	SNOMED	Valid	Non-standard
+4188159	414408004	Hispanic	Social Context	Race	SNOMED	Valid	Non-standard
+"4188161	414411003	Hispanic, color unknown	Social Context	Race	SNOMED	Valid	Non-standard"
+4189474	414661004	Melanesian	Social Context	Race	SNOMED	Valid	Non-standard
+4189785	414978006	Oriental	Social Context	Race	SNOMED	Valid	Non-standard
+"4190391	414410002	Hispanic, black	Social Context	Race	SNOMED	Valid	Non-standard"
+"4190392	414413000	Hispanic, white	Social Context	Race	SNOMED	Valid	Non-standard"
+4190758	415226007	Race not stated	Social Context	Race	SNOMED	Valid	Non-standard
+4192497	75704009	Toba	Social Context	Race	SNOMED	Valid	Non-standard
+4194076	79434006	Quechua	Social Context	Race	SNOMED	Valid	Non-standard
+4195322	44460002	Turks	Social Context	Race	SNOMED	Valid	Non-standard
+4195705	67931002	Aztec	Social Context	Race	SNOMED	Valid	Non-standard
+4196428	315236000	White British	Social Context	Race	SNOMED	Valid	Non-standard
+4196429	315239007	Mixed ethnic census group	Social Context	Race	SNOMED	Valid	Non-standard
+4198417	50405005	Senoi	Social Context	Race	SNOMED	Valid	Non-standard
+4198993	51750002	Hottentot	Social Context	Race	SNOMED	Invalid	Non-standard
+4199011	51827000	Oriental Jews	Social Context	Race	SNOMED	Valid	Non-standard
+4199819	315238004	Other white ethnic group	Social Context	Race	SNOMED	Invalid	Non-standard
+4199940	315281001	Other Asian ethnic group	Social Context	Race	SNOMED	Valid	Non-standard
+4201594	53460002	Serbs	Social Context	Race	SNOMED	Valid	Non-standard
+4201928	315237009	White Irish	Social Context	Race	SNOMED	Valid	Non-standard
+4201929	315240009	Black - ethnic group	Social Context	Race	SNOMED	Valid	Non-standard
+4201937	315280000	Asian - ethnic group	Social Context	Race	SNOMED	Valid	Non-standard
+4201938	315283003	Irish traveller	Social Context	Race	SNOMED	Valid	Non-standard
+4202555	315279003	Other black ethnic group	Social Context	Race	SNOMED	Valid	Non-standard
+4203120	309643000	Black West Indian	Social Context	Race	SNOMED	Valid	Non-standard
+4205380	309644006	Black Guyana	Social Context	Race	SNOMED	Valid	Non-standard
+4210116	312859007	Vietnamese	Social Context	Race	SNOMED	Valid	Non-standard
+4210186	55990000	Inca	Social Context	Race	SNOMED	Valid	Non-standard
+4210302	56056003	Belgians	Social Context	Race	SNOMED	Valid	Non-standard
+4211218	413464008	African race	Social Context	Race	SNOMED	Valid	Non-standard
+4211331	413491005	American Indian race	Social Context	Race	SNOMED	Valid	Non-standard
+4211353	413582008	Asian race	Social Context	Race	SNOMED	Valid	Non-standard
+"4211480	413655005	Black, not of hispanic origin	Social Context	Race	SNOMED	Valid	Non-standard"
+4211849	57405008	Chenchu	Social Context	Race	SNOMED	Valid	Non-standard
+4212088	57539009	Navaho	Social Context	Race	SNOMED	Valid	Non-standard
+4212311	414752008	Mixed racial group	Social Context	Race	SNOMED	Valid	Non-standard
+4212990	414152003	European	Social Context	Race	SNOMED	Valid	Non-standard
+4213463	80208004	Portuguese	Social Context	Race	SNOMED	Valid	Non-standard
+4214735	80528001	Xosa	Social Context	Race	SNOMED	Valid	Non-standard
+4215810	71949006	Chippewa	Social Context	Race	SNOMED	Valid	Non-standard
+4216026	8124001	West Africans	Social Context	Race	SNOMED	Valid	Non-standard
+4216036	81283004	Todas	Social Context	Race	SNOMED	Valid	Non-standard
+4216292	415229000	Racial group	Social Context	Race	SNOMED	Valid	Non-standard
+4216433	41798002	Caroline Islanders	Social Context	Race	SNOMED	Valid	Non-standard
+4216519	81035008	Pakistani (Urduspeakers)	Social Context	Race	SNOMED	Valid	Non-standard
+4216818	81403004	Swedes	Social Context	Race	SNOMED	Valid	Non-standard
+4217467	81653003	Pehuenches	Social Context	Race	SNOMED	Valid	Non-standard
+4217600	81846005	Naiars	Social Context	Race	SNOMED	Valid	Non-standard
+4218288	72201005	Hobe	Social Context	Race	SNOMED	Valid	Non-standard
+4218447	72337002	Brazilian Indians	Social Context	Race	SNOMED	Valid	Non-standard
+4218674	415794004	Unknown racial group	Social Context	Race	SNOMED	Valid	Non-standard
+4218957	72248007	Kikuyu	Social Context	Race	SNOMED	Valid	Non-standard
+4219475	82174001	Shona	Social Context	Race	SNOMED	Valid	Non-standard
+4219735	39764005	Bantu	Social Context	Race	SNOMED	Valid	Non-standard
+4221071	40165009	Buriats	Social Context	Race	SNOMED	Valid	Non-standard
+4221073	40182006	Gypsies	Social Context	Race	SNOMED	Valid	Non-standard
+4221856	83939006	Irula	Social Context	Race	SNOMED	Valid	Non-standard
+4228069	88790004	Abyssinians (Amharas)	Social Context	Race	SNOMED	Valid	Non-standard
+4229453	88839008	Sudanese	Social Context	Race	SNOMED	Valid	Non-standard
+4229603	88934004	Nigerians	Social Context	Race	SNOMED	Valid	Non-standard
+4231129	89026003	Alacaluf	Social Context	Race	SNOMED	Valid	Non-standard
+4231846	90027003	Arabs	Social Context	Race	SNOMED	Valid	Non-standard
+4233496	90348007	Ghashgai	Social Context	Race	SNOMED	Valid	Non-standard
+4234343	4073004	Palauans	Social Context	Race	SNOMED	Valid	Non-standard
+4235433	91066000	Tatars	Social Context	Race	SNOMED	Valid	Non-standard
+4235464	91191002	Oraons	Social Context	Race	SNOMED	Valid	Non-standard
+4236027	90822005	Gambians	Social Context	Race	SNOMED	Valid	Non-standard
+4237214	91488008	New Britons	Social Context	Race	SNOMED	Valid	Non-standard
+4240299	9158000	Liberians	Social Context	Race	SNOMED	Valid	Non-standard
+4240732	58047002	Barundi	Social Context	Race	SNOMED	Valid	Non-standard
+4241969	59487007	Syrians	Social Context	Race	SNOMED	Valid	Non-standard
+4242388	38144004	Athabascans	Social Context	Race	SNOMED	Valid	Non-standard
+4243164	38361009	Koreans	Social Context	Race	SNOMED	Valid	Non-standard
+4244365	3818007	Senegalese	Social Context	Race	SNOMED	Valid	Non-standard
+4245024	59366001	Ibo	Social Context	Race	SNOMED	Valid	Non-standard
+4245756	59597001	Marshallese	Social Context	Race	SNOMED	Valid	Non-standard
+4247162	60157000	Ellice Islanders	Social Context	Race	SNOMED	Valid	Non-standard
+4248713	72809004	Icelanders	Social Context	Race	SNOMED	Valid	Non-standard
+4249154	73524008	Caingang	Social Context	Race	SNOMED	Valid	Non-standard
+4249883	73736004	Maori	Social Context	Race	SNOMED	Valid	Non-standard
+4250319	74159009	Melanuans	Social Context	Race	SNOMED	Valid	Non-standard
+4251760	74302004	Apache	Social Context	Race	SNOMED	Valid	Non-standard
+4262177	397731000	Ethnic group finding	Clinical Finding	Race	SNOMED	Valid	Non-standard
+4263311	46723002	Badagas	Social Context	Race	SNOMED	Valid	Non-standard
+4263713	46110004	Somalis	Social Context	Race	SNOMED	Valid	Non-standard
+4264197	47250000	Bruneians	Social Context	Race	SNOMED	Valid	Non-standard
+4267217	36329002	Slovak	Social Context	Race	SNOMED	Valid	Non-standard
+4268432	401213008	White Scottish	Social Context	Race	SNOMED	Valid	Non-standard
+4268433	401214002	Other white British ethnic group	Social Context	Race	SNOMED	Valid	Non-standard
+4269914	62598008	Venezuelan Indians	Social Context	Race	SNOMED	Valid	Non-standard
+4269942	63457007	Maya	Social Context	Race	SNOMED	Valid	Non-standard
+4270899	6373008	Choco	Social Context	Race	SNOMED	Valid	Non-standard
+4270900	63736003	Taiwanese	Social Context	Race	SNOMED	Valid	Non-standard
+4273145	365455004	Ethnic groups (1991 census) (UK)	Social Context	Race	SNOMED	Valid	Non-standard
+4273384	64693008	Hungarian	Social Context	Race	SNOMED	Valid	Non-standard
+4273538	63732001	New Hebrideans	Social Context	Race	SNOMED	Valid	Non-standard
+4274415	365456003	Ethnicity / related nationality data - finding	Clinical Finding	Race	SNOMED	Valid	Non-standard
+4276043	64483007	Indians (Hindi-speaking)	Social Context	Race	SNOMED	Valid	Non-standard
+4277901	65776006	Blackfeet	Social Context	Race	SNOMED	Valid	Non-standard
+4279480	66406004	Huasteco	Social Context	Race	SNOMED	Valid	Non-standard
+4281687	66920001	Amerind	Social Context	Race	SNOMED	Valid	Non-standard
+4282477	67165000	Lapps	Social Context	Race	SNOMED	Valid	Non-standard
+4283366	67439005	Msutu	Social Context	Race	SNOMED	Valid	Non-standard
+4283895	3698008	Micronesians	Social Context	Race	SNOMED	Valid	Non-standard
+4285116	68486007	Austrians	Social Context	Race	SNOMED	Valid	Non-standard
+4289159	69983001	Irani	Social Context	Race	SNOMED	Valid	Non-standard
+4292111	37843006	Fulani	Social Context	Race	SNOMED	Valid	Non-standard
+4292272	37474002	Ghanaians	Social Context	Race	SNOMED	Valid	Non-standard
+4295144	76460008	Yanomama	Social Context	Race	SNOMED	Valid	Non-standard
+4296018	76768002	Filipinos	Social Context	Race	SNOMED	Valid	Non-standard
+4296606	76775001	Ugandans	Social Context	Race	SNOMED	Valid	Non-standard
+4296997	76253004	Zulu	Social Context	Race	SNOMED	Valid	Non-standard
+4297319	7695005	Germans	Social Context	Race	SNOMED	Valid	Non-standard
+4297790	76574004	Swiss	Social Context	Race	SNOMED	Valid	Non-standard
+4297991	76883002	Huichol	Social Context	Race	SNOMED	Valid	Non-standard
+4298426	77686000	Kwakiutl	Social Context	Race	SNOMED	Valid	Non-standard
+4298833	77502007	Atacamenos	Social Context	Race	SNOMED	Valid	Non-standard
+4301306	38750003	Bororo	Social Context	Race	SNOMED	Valid	Non-standard
+4304542	81560001	Tongan	Social Context	Race	SNOMED	Valid	Non-standard
+4305595	39007007	Black Jews	Social Context	Race	SNOMED	Valid	Non-standard
+4308112	83365001	Thais	Social Context	Race	SNOMED	Valid	Non-standard
+4308897	83584002	Luo	Social Context	Race	SNOMED	Valid	Non-standard
+4309511	85163001	Russians	Social Context	Race	SNOMED	Valid	Non-standard
+4309789	85371009	Bushmen	Social Context	Race	SNOMED	Valid	Non-standard
+4309952	85515006	Eskimo	Social Context	Race	SNOMED	Valid	Non-standard
+4313587	86275006	Samoan	Social Context	Race	SNOMED	Valid	Non-standard
+4317261	9533000	Dutch	Social Context	Race	SNOMED	Valid	Non-standard
+4317523	22007004	Shoshone	Social Context	Race	SNOMED	Valid	Non-standard
+4318647	21993009	Indonesians	Social Context	Race	SNOMED	Valid	Non-standard
+4321400	69865008	Fijian	Social Context	Race	SNOMED	Valid	Non-standard
+4323551	71176007	Pygmies	Social Context	Race	SNOMED	Valid	Non-standard
+4326740	75326007	Labradors	Social Context	Race	SNOMED	Valid	Non-standard
+4327656	75301003	Mapuche	Social Context	Race	SNOMED	Valid	Non-standard
+4337671	87323008	Nez Percé	Social Context	Race	SNOMED	Valid	Non-standard
+36713937	718959005	Czech Roma	Social Context	Race	SNOMED	Valid	Non-standard
+36713938	718960000	Romanian Roma	Social Context	Race	SNOMED	Valid	Non-standard
+36713939	718961001	Slovak Roma	Social Context	Race	SNOMED	Valid	Non-standard
+36713940	718963003	Hungarian Roma	Social Context	Race	SNOMED	Valid	Non-standard
+36713941	718964009	Polish Roma	Social Context	Race	SNOMED	Valid	Non-standard
+36717066	718962008	Bulgarian Roma	Social Context	Race	SNOMED	Valid	Non-standard
+36717683	718958002	Roma	Social Context	Race	SNOMED	Valid	Non-standard
+37116384	733078003	Ukrainian	Social Context	Race	SNOMED	Valid	Non-standard
+37116650	733446001	Canadian	Social Context	Race	SNOMED	Valid	Non-standard
+37394011	1024701000000100	Ethnicity not stated	Clinical Finding	Race	SNOMED	Valid	Non-standard
+37394635	1036211000000103	Slovak Roma	Social Context	Race	SNOMED	Invalid	Non-standard
+37394638	1036251000000104	Czech Roma	Social Context	Race	SNOMED	Invalid	Non-standard
+37394640	1036301000000106	Polish Roma	Social Context	Race	SNOMED	Invalid	Non-standard
+37394641	1036321000000102	Romanian Roma	Social Context	Race	SNOMED	Invalid	Non-standard
+37394642	1036361000000105	Bulgarian Roma	Social Context	Race	SNOMED	Invalid	Non-standard
+37398747	1036341000000109	Roma	Social Context	Race	SNOMED	Invalid	Non-standard
+40306529	13428006	Melanesian race	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+40319014	154171003	Black E Afric Asia &/or Indo-Caribb	Social Context	Race	SNOMED	Invalid	Non-standard
+"40319041	154196000	Other ethnic, mixed origin	Social Context	Race	SNOMED	Invalid	Non-standard"
+"40319042	154197009	Other ethnic, Black/White orig	Social Context	Race	SNOMED	Invalid	Non-standard"
+"40319043	154198004	Other ethnic, Asian/White orig	Social Context	Race	SNOMED	Invalid	Non-standard"
+"40319044	154199007	Other ethnic, mixed white orig	Social Context	Race	SNOMED	Invalid	Non-standard"
+"40319045	154200005	Other ethnic, other mixed orig	Social Context	Race	SNOMED	Invalid	Non-standard"
+40319048	154201009	Black Caribbean and White	Social Context	Race	SNOMED	Invalid	Non-standard
+40319049	154202002	Black African and White	Social Context	Race	SNOMED	Invalid	Non-standard
+40319057	154210001	Ethnic groups (census) NOS	Social Context	Race	SNOMED	Invalid	Non-standard
+40319060	154212009	New Zealand ethnic groups	Social Context	Race	SNOMED	Invalid	Non-standard
+40319075	154226000	Other Asian	Social Context	Race	SNOMED	Invalid	Non-standard
+40319078	154229007	New Zealand ethnic group NOS	Social Context	Race	SNOMED	Invalid	Non-standard
+40319840	15643001	Race: Japanese	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+40328611	160523001	Race: Caucasian	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+40329072	160530007	Race: Mixed	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+40329075	160532004	Race: Afro-caucasian	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+40329078	160535002	Race: Unknown	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+40348151	266914000	Race: Not stated	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+40381744	186024003	Black Caribbean and White	Social Context	Race	SNOMED	Invalid	Non-standard
+40381745	186025002	Black African and White	Social Context	Race	SNOMED	Invalid	Non-standard
+40442512	2387006	Australian race	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+40482318	44356001	Micronesian race	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+40483304	445343003	Romanian	Social Context	Race	SNOMED	Valid	Non-standard
+40526191	347995004	European race	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+40607236	62693009	Polynesian race	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+40618782	67403004	Asian race	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+40623128	72718008	American Indian race	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+40627408	80159005	African race	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+40629405	74165009	European race	Organism	Race	SNOMED	Invalid	Non-standard
+40637268	84576009	Indian race	Clinical Finding	Race	SNOMED	Invalid	Non-standard
+42536269	735001008	Scandinavian	Social Context	Race	SNOMED	Valid	Non-standard
+44787809	107691000000105	Caribbean - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+44787836	110751000000108	Indian or British Indian - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+44787837	110761000000106	English - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+44787838	110771000000104	Black and White - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+44787839	110781000000102	Sinhalese - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+44787840	110791000000100	Black British - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+44787843	110831000000107	Hindu - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+44788087	110401000000103	Turkish - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+44791722	296841000000102	Yemeni	Social Context	Race	SNOMED	Valid	Non-standard
+44802388	494131000000105	White British - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+44802389	494161000000100	White Irish - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+44803976	718131000000106	Nepali	Social Context	Race	SNOMED	Valid	Non-standard
+44809722	86461000000107	Sri Lankan - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+44810769	88911000000101	Irish Traveller - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+44810776	88921000000107	Traveller - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+44810783	88931000000109	Gypsy/Romany - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+44810791	88941000000100	Polish - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+44810801	88951000000102	Baltic States (Estonian or Latvian or Lithuanian) - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+44810868	88961000000104	Commonwealth of (Russian) Independent States - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+44810877	88971000000106	Albanian - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+44810884	88981000000108	Serbian - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+44810892	88991000000105	Jewish - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+44810983	89011000000107	Iranian - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+44810987	89021000000101	South and Central American - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+44810988	89031000000104	Muslim - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+44811500	92381000000106	Ethnic category - 2001 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+44811501	92391000000108	British or mixed British - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+44811502	92411000000108	Other White background - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+44811503	92421000000102	White and Black Caribbean - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+44811504	92431000000100	White and Black African - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+44811505	92441000000109	White and Asian - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+44811569	92451000000107	Other Mixed background - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+44811570	92461000000105	Pakistani or British Pakistani - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+44811571	92471000000103	Bangladeshi or British Bangladeshi - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+44811572	92481000000101	Other Asian background - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+44811573	92491000000104	African - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+44811574	92501000000105	Other Black background - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+44811575	92511000000107	Chinese - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+44811576	92521000000101	Other - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+44811644	92531000000104	Ethnic category not stated - 2001 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+44811645	92541000000108	Scottish - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+44811646	92551000000106	Welsh - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+44811647	92561000000109	Northern Irish - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+44811648	92571000000102	Cornish - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+44811649	92581000000100	Black and Asian - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+44811652	93921000000101	Ulster Scots - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+44811653	93931000000104	Greek - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+44811654	93941000000108	Greek Cypriot - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+44811655	93961000000109	Italian - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+44811713	92611000000106	Asian and Chinese - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+44811714	92621000000100	Other Mixed or Mixed unspecified - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+44811715	92631000000103	Mixed Asian - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+44811716	92641000000107	Punjabi - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+44811717	92651000000105	Kashmiri - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+44811718	92661000000108	East African Asian - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+44811719	92671000000101	Tamil - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+44811720	92681000000104	British Asian - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+44811722	93981000000100	Kosovan - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+44811723	93991000000103	Bosnian - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+44811724	94001000000108	Croatian - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+44811726	94011000000105	Other republics which made up the former Yugoslavia - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+44811727	94021000000104	Mixed Irish and other White - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+44811728	94031000000102	Other mixed White - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+44811784	92691000000102	Caribbean Asian - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+44811785	92701000000102	Other Asian or Asian unspecified - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+44811786	92711000000100	Somali - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+44811787	92721000000106	Mixed Black - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+44811788	92731000000108	Nigerian - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+44811789	92741000000104	Other Black or Black unspecified - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+44811790	92751000000101	Vietnamese - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+44811791	94041000000106	Other White European or European unspecified or Mixed European - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+44811792	94051000000109	Other White or White unspecified - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+44811793	94061000000107	North African - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+"44811794	94071000000100	Middle Eastern (excluding Israeli, Iranian and Arab) - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Valid	Non-standard"
+44811795	94081000000103	Israeli - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+44811796	94091000000101	Kurdish - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+44811801	94101000000109	Moroccan - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+44811845	92761000000103	Japanese - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+44811846	92771000000105	Filipino - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+44811847	92781000000107	Malaysian - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+44811848	92791000000109	Cypriot (part not stated) - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+44811850	94111000000106	Latin American - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+44811851	94121000000100	Multi-ethnic islands: Mauritian or Seychellois or Maldivian or St Helena - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+44811852	94131000000103	Buddhist - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+44811853	94141000000107	Sikh - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+44813997	89001000000105	Arab - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+44814057	92401000000106	Irish - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+44814066	92591000000103	Black and Chinese - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+44814067	92601000000109	Chinese and White - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+44814068	93951000000106	Turkish Cypriot - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+44814113	94151000000105	Any other group - ethnic category 2001 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+45767086	704385002	Punjabi	Social Context	Race	SNOMED	Valid	Non-standard
+45767087	704386001	Orang asli	Social Context	Race	SNOMED	Valid	Non-standard
+45767088	704388000	Melanau	Social Context	Race	SNOMED	Valid	Non-standard
+45767089	704389008	Murut	Social Context	Race	SNOMED	Valid	Non-standard
+45767090	704391000	Bidayuh	Social Context	Race	SNOMED	Valid	Non-standard
+45767091	704392007	Iban	Social Context	Race	SNOMED	Valid	Non-standard
+45771425	704387005	Kadazan	Social Context	Race	SNOMED	Valid	Non-standard
+45771426	704390004	Bajau	Social Context	Race	SNOMED	Valid	Non-standard
+46285820	976551000000109	Ethnic category - 2011 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+46285821	976571000000100	Ethnic category - 2011 census England and Wales	Clinical Finding	Race	SNOMED	Valid	Non-standard
+46285822	976591000000101	Ethnic category - 2011 census Northern Ireland	Clinical Finding	Race	SNOMED	Valid	Non-standard
+46285823	976611000000109	Ethnic category - 2011 census Scotland	Clinical Finding	Race	SNOMED	Valid	Non-standard
+46285824	976651000000108	White: Irish - England and Wales ethnic category 2011 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+46285825	976671000000104	White: Gypsy or Irish Traveller - England and Wales ethnic category 2011 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+46285826	976691000000100	White: any other White background - England and Wales ethnic category 2011 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+46285827	976711000000103	Mixed multiple ethnic groups: White and Black Caribbean - England and Wales ethnic category 2011 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+46285828	976731000000106	Mixed multiple ethnic groups: White and Black African - England and Wales ethnic category 2011 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+46285829	976751000000104	Mixed multiple ethnic groups: White and Asian - England and Wales ethnic category 2011 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+46285830	976771000000108	Mixed multiple ethnic groups: any other Mixed or multiple ethnic background - England and Wales ethnic category 2011 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+46285831	976791000000107	Asian or Asian British: Indian - England and Wales ethnic category 2011 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+46285832	976811000000108	Asian or Asian British: Pakistani - England and Wales ethnic category 2011 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+46285833	976831000000100	Asian or Asian British: Bangladeshi - England and Wales ethnic category 2011 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+46285834	976851000000107	Asian or Asian British: Chinese - England and Wales ethnic category 2011 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+46285835	976871000000103	Asian or Asian British: any other Asian background - England and Wales ethnic category 2011 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+46285836	976911000000101	Black or African or Caribbean or Black British: Caribbean - England and Wales ethnic category 2011 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+46285837	976931000000109	Black or African or Caribbean or Black British: other Black or African or Caribbean background - England and Wales ethnic category 2011 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+46285838	976951000000102	Other ethnic group: Arab - England and Wales ethnic category 2011 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+46285839	976971000000106	Other ethnic group: any other ethnic group - England and Wales ethnic category 2011 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+46285861	977351000000100	White - Northern Ireland ethnic category 2011 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+46285862	977391000000108	Mixed multiple ethnic groups: White and Black Caribbean - Northern Ireland ethnic category 2011 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+46285863	977411000000108	Mixed multiple ethnic groups: White and Black African - Northern Ireland ethnic category 2011 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+46285864	977431000000100	Mixed multiple ethnic groups: White and Asian - Northern Ireland ethnic category 2011 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+46285871	977591000000103	Asian or Asian British: Indian - Northern Ireland ethnic category 2011 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+46285877	977711000000100	Asian or Asian British: Pakistani - Northern Ireland ethnic category 2011 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+46285878	977731000000108	Asian or Asian British: Bangladeshi - Northern Ireland ethnic category 2011 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+46285879	977751000000101	Asian or Asian British: Chinese - Northern Ireland ethnic category 2011 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+46285880	977771000000105	Asian or Asian British: any other Asian background - Northern Ireland ethnic category 2011 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+46285881	977791000000109	Black or African or Caribbean or Black British: African - Northern Ireland ethnic category 2011 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+46285882	977811000000105	Black or African or Caribbean or Black British: Caribbean - Northern Ireland ethnic category 2011 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+46285883	977831000000102	Black or African or Caribbean or Black British: other Black or African or Caribbean background - Northern Ireland ethnic category 2011 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+46285884	977851000000109	Other ethnic group: Arab - Northern Ireland ethnic category 2011 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+46285885	977911000000103	White: Scottish - Scotland ethnic category 2011 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+46285886	977931000000106	White: other British - Scotland ethnic category 2011 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+46285887	977951000000104	White: Irish - Scotland ethnic category 2011 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+46285888	977971000000108	White: Gypsy or Irish Traveller - Scotland ethnic category 2011 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+46285890	978011000000101	White: Polish - Scotland ethnic category 2011 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+46285891	978031000000109	White: any other White ethnic group - Scotland ethnic category 2011 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+46285892	978051000000102	Mixed or multiple ethnic groups: any Mixed or multiple ethnic group - Scotland ethnic category 2011 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+"46285893	978071000000106	Asian or Asian Scottish or Asian British: Pakistani, Pakistani Scottish or Pakistani British - Scotland ethnic category 2011 census	Clinical Finding	Race	SNOMED	Valid	Non-standard"
+"46285894	978111000000100	Asian or Asian Scottish or Asian British: Indian, Indian Scottish or Indian British - Scotland ethnic category 2011 census	Clinical Finding	Race	SNOMED	Valid	Non-standard"
+"46285896	978171000000105	Asian or Asian Scottish or Asian British: Bangladeshi, Bangladeshi Scottish or Bangladeshi British - Scotland ethnic category 2011 census	Clinical Finding	Race	SNOMED	Valid	Non-standard"
+46285897	978191000000109	Asian or Asian Scottish or Asian British: Chinese - Scotland ethnic category 2011 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+"46285898	978231000000100	African: African, African Scottish or African British - Scotland ethnic category 2011 census	Clinical Finding	Race	SNOMED	Valid	Non-standard"
+46285899	978251000000107	African: any other African - Scotland ethnic category 2011 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+"46285900	978341000000102	Caribbean or Black: Black, Black Scottish or Black British - Scotland ethnic category 2011 census	Clinical Finding	Race	SNOMED	Valid	Non-standard"
+46285901	978361000000101	Caribbean or Black: any other Black or Caribbean group - Scotland ethnic category 2011 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+"46285902	978381000000105	Other ethnic group: Arab, Arab Scottish or Arab British - Scotland ethnic category 2011 census	Clinical Finding	Race	SNOMED	Valid	Non-standard"
+46285903	978401000000105	Other ethnic group: any other ethnic group - Scotland ethnic category 2011 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+46286810	976631000000101	White: English or Welsh or Scottish or Northern Irish or British - England and Wales ethnic category 2011 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+46286811	976891000000104	Black or African or Caribbean or Black British: African - England and Wales ethnic category 2011 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+46286814	977371000000109	Irish Traveller - Northern Ireland ethnic category 2011 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+46286815	977551000000106	Mixed multiple ethnic groups: any other Mixed or multiple ethnic background - Northern Ireland ethnic category 2011 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+46286816	977871000000100	Other ethnic group: any other ethnic group - Northern Ireland ethnic category 2011 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
+"46286818	978271000000103	Caribbean or Black: Caribbean, Caribbean Scottish or Caribbean British - Scotland ethnic category 2011 census	Clinical Finding	Race	SNOMED	Valid	Non-standard"
+46287260	978211000000108	Asian or Asian Scottish or Asian British: any other Asian group - Scotland ethnic category 2011 census	Clinical Finding	Race	SNOMED	Valid	Non-standard
