@@ -221,7 +221,7 @@ let variables = [
     v.HypertensionDx,
     v.IN_EPR,
     v.IN_ICEES,
-    v.Imatinib,
+    v.ImatinibRx,
     v.Indacaterol,
     v.Ipratropium,
     v.Landfill_Exposure,
