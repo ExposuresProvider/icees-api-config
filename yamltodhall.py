@@ -483,6 +483,8 @@ def convert(all_features_input_file_path, identifiers_input_file_path, fhir_mapp
                 
         if variable_name + "Dx" in variables:
             merge_variables(variable_name + "Dx", variable_name)
+        if variable_name + "Rx" in variables:
+            merge_variables(variable_name + "Rx", variable_name)
     update_dict(variables, update_vars, delete_vars)
 
     update_vars = {}

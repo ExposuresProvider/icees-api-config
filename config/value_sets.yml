@@ -254,7 +254,7 @@ AlopeciaVisit:
 - '0'
 - '1'
 - '>1'
-Amiodarone_gtt:
+Amiodarone_gttRx:
 - '0'
 - '1'
 - '>1'
@@ -271,7 +271,7 @@ AmoxicillinDILIDxVisit:
 AmoxicillinDILIVisit:
 - 0
 - 1
-Anakinra:
+AnakinraRx:
 - '0'
 - '1'
 - '>1'
@@ -1647,7 +1647,7 @@ DepressionVisit:
 - '0'
 - '1'
 - '>1'
-Dexamethasone:
+DexamethasoneRx:
 - '0'
 - '1'
 - '>1'
@@ -1681,7 +1681,7 @@ DiphenhydramineVisit:
 - '0'
 - '1'
 - '>1'
-Dobutamine_gtt:
+Dobutamine_gttRx:
 - '0'
 - '1'
 - '>1'
@@ -1689,7 +1689,7 @@ Dobutamine_gttVisit:
 - '0'
 - '1'
 - '>1'
-Dopamine_gtt:
+Dopamine_gttRx:
 - '0'
 - '1'
 - '>1'
@@ -1877,7 +1877,7 @@ Eosinophil_GreaterThan500:
 Eosinophil_GreaterThan500Visit:
 - 'No'
 - 'Yes'
-Epinephrine_gtt:
+Epinephrine_gttRx:
 - '0'
 - '1'
 - '>1'
@@ -2414,7 +2414,7 @@ Hospitalization_NewProlonged:
 Hospitalization_NewProlongedVisit:
 - 'No'
 - 'Yes'
-Hydroxychloroquine:
+HydroxychloroquineRx:
 - '0'
 - '1'
 - '>1'
@@ -2645,7 +2645,7 @@ IsolationFlagVisit:
 - '0'
 - '1'
 - '>1'
-Isoproterenol_gtt:
+Isoproterenol_gttRx:
 - '0'
 - '1'
 - '>1'
@@ -2763,7 +2763,7 @@ LeuprolideVisit:
 - '0'
 - '1'
 - '>1'
-Levosimendan_gtt:
+Levosimendan_gttRx:
 - '0'
 - '1'
 - '>1'
@@ -3142,7 +3142,7 @@ MiddleEarDiseaseVisit:
 - '0'
 - '1'
 - '>1'
-Milrinone_gtt:
+Milrinone_gttRx:
 - '0'
 - '1'
 - '>1'
@@ -3214,7 +3214,7 @@ Neutropenia:
 NeutropeniaVisit:
 - 'No'
 - 'Yes'
-NitricOxideOrFolan:
+NitricOxideOrFolanRx:
 - '0'
 - '1'
 - '>1'
@@ -3234,7 +3234,7 @@ NonInvasivePositivePressureVentilationVisit:
 - '0'
 - '1'
 - '>1'
-Norepinephrine_gtt:
+Norepinephrine_gttRx:
 - '0'
 - '1'
 - '>1'
@@ -3400,7 +3400,7 @@ PatternLiverInjury_OnsetVisit:
 - Cholestatic
 - Hepatocellular
 - Mixed
-Phenylephrine_gtt:
+Phenylephrine_gttRx:
 - '0'
 - '1'
 - '>1'
@@ -3460,7 +3460,7 @@ PrednisoneOrCorticosteroids_Tx:
 PrednisoneOrCorticosteroids_TxVisit:
 - 'No'
 - 'Yes'
-PrednisoneOrMethylprednisone:
+PrednisoneOrMethylprednisoneRx:
 - '0'
 - '1'
 - '>1'
@@ -3677,7 +3677,7 @@ ReactiveAirwayVisit:
 - '0'
 - '1'
 - '>1'
-Remdesivir:
+RemdesivirRx:
 - '0'
 - '1'
 - '>1'
@@ -4184,7 +4184,7 @@ TobramycinRx:
 - '0'
 - '1'
 - '>1'
-Tocilizumab:
+TocilizumabRx:
 - '0'
 - '1'
 - '>1'
@@ -4288,7 +4288,7 @@ UterineCancerVisit:
 - '0'
 - '1'
 - '>1'
-Vasopressin_gtt:
+Vasopressin_gttRx:
 - '0'
 - '1'
 - '>1'
