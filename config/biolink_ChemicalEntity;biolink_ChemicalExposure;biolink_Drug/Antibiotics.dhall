@@ -137,8 +137,8 @@ in {
         "LOINC:LP31426-7",
         "LOINC:LA15416-3",
         "LOINC:LA30285-3",
-        "SCITD:324287006",
-        "SCITD:326779007"
+        "SNOMED:324287006",
+        "SNOMED:326779007"
     ],
     mapping = generic_fhir_mapping [
         {

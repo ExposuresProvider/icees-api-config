@@ -6,7 +6,7 @@ in {
     identifiers = [
         "NCIT:C84427",
         "UMLS:C0860207",
-        "SCITD:427399008",
+        "SNOMED:427399008",
         "MONDO:0043693",
         "MONDO:0001505",
         "MONDO:0021105",

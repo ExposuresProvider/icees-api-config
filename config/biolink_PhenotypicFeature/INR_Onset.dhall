@@ -3,10 +3,10 @@ let integer = meta.integer
 in {
     name = "INR_Onset",
     identifiers = [
-        "SCITD:1951000175101",
-        "SCITD:165581004",
-        "SCITD:165583001",
-        "SCITD:165582006",
+        "SNOMED:1951000175101",
+        "SNOMED:165581004",
+        "SNOMED:165583001",
+        "SNOMED:165582006",
         "MESH:D019934"
     ],
     feature = {

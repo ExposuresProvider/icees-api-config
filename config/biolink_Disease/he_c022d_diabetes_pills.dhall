@@ -7,8 +7,8 @@ in {
     identifiers = [
         "LOINC:LP124918-6",
         "LOINC:66176-9",
-        "SCITD:389840003",
-        "SCITD:390572003"
+        "SNOMED:389840003",
+        "SNOMED:390572003"
     ],
     feature = {
         feature_type = enum [

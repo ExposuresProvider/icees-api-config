@@ -28,9 +28,9 @@ in {
     identifiers = [
         "NCIT:C78569",
         "UMLS:C0451597",
-        "SCITD:139183005",
-        "SCITD:267034005",
-        "SCITD:161926007",
+        "SNOMED:139183005",
+        "SNOMED:267034005",
+        "SNOMED:161926007",
         "MESH:D003371"
     ]
 }

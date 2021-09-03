@@ -27,6 +27,6 @@ in {
     binning_strategy = max_cutoff 2,
     identifiers = [
         "MESH:D013081",
-        "SCITD:414643008"
+        "SNOMED:414643008"
     ]
 }

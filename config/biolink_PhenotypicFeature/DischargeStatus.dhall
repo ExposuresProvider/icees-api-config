@@ -8,8 +8,8 @@ in {
         "LOINC:LA162-0",
         "LOINC:52523-8",
         "LOINC:42345-9",
-        "SCITD:309039003",
-        "SCITD:58000006",
+        "SNOMED:309039003",
+        "SNOMED:58000006",
         "MESH:D010351"
     ],
     mapping = generic_fhir_mapping [

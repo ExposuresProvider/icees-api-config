@@ -9,12 +9,12 @@ in {
         "UMLS:C0041296",
         "LOINC:LA10513-2",
         "LOINC:LP75796-0",
-        "SCITD:56717001",
-        "SCITD:154281007",
-        "SCITD:187285000",
-        "SCITD:427099000",
-        "SCITD:25629007",
-        "SCITD:25629007",
+        "SNOMED:56717001",
+        "SNOMED:154281007",
+        "SNOMED:187285000",
+        "SNOMED:427099000",
+        "SNOMED:25629007",
+        "SNOMED:25629007",
         "MESH:D014376"
     ],
     feature = {

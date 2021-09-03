@@ -6,12 +6,12 @@ in {
     name = "he_b016_raynauds",
     identifiers = [
         "MESH:D011928",
-        "SCITD:22954002",
-        "SCITD:195295006",
-        "SCITD:195296007",
-        "SCITD:266261006",
-        "SCITD:73483003",
-        "SCITD:403674007",
+        "SNOMED:22954002",
+        "SNOMED:195295006",
+        "SNOMED:195296007",
+        "SNOMED:266261006",
+        "SNOMED:73483003",
+        "SNOMED:403674007",
         "LOINC:67732-8"
     ],
     feature = {

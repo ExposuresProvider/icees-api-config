@@ -18,12 +18,12 @@ in {
         "LOINC:LA19980-4",
         "LOINC:LA19981-2",
         "MESH:D046110",
-        "SCITD:288250001",
-        "SCITD:82771000119102",
-        "SCITD:307632004",
-        "SCITD:237279007",
-        "SCITD:198969004",
-        "SCITD:157038006"
+        "SNOMED:288250001",
+        "SNOMED:82771000119102",
+        "SNOMED:307632004",
+        "SNOMED:237279007",
+        "SNOMED:198969004",
+        "SNOMED:157038006"
     ],
     feature = {
         feature_type = enum [

@@ -2229,14 +2229,14 @@ patient:
     - "0"
     - "1"
     type: integer
-  # FEV1_FVC_flag_last:
-  #   categories:
-  #   - biolink:PhenotypicFeature
-  #   enum:
-  #   - low
-  #   - normal
-  #   - high
-  #   type: string
+  FEV1_FVC_flag_first:
+    categories:
+    - biolink:PhenotypicFeature
+    enum:
+    - low
+    - normal
+    - high
+    type: string
   FEV1_FVC_flag_last:
     categories:
     - biolink:PhenotypicFeature

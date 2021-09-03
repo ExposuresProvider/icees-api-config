@@ -8,8 +8,8 @@ in {
         "UMLS:C0860724",
         "UMLS:C0740290",
         "UMLS:C0456101",
-        "SCITD:165816005",
-        "SCITD:143224002"
+        "SNOMED:165816005",
+        "SNOMED:143224002"
     ],
     feature = {
         feature_type = enum [

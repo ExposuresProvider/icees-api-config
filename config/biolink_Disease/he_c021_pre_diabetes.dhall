@@ -6,8 +6,8 @@ in {
     name = "he_c021_pre_diabetes",
     identifiers = [
         "MONDO:0006920",
-        "SCITD:714628002",
-        "SCITD:15777000",
+        "SNOMED:714628002",
+        "SNOMED:15777000",
         "MESH:D011236"
     ],
     feature = {

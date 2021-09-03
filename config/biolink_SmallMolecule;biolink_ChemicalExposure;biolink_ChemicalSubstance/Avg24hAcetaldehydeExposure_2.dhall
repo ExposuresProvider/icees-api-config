@@ -7,7 +7,7 @@ in {
     name = "Avg24hAcetaldehydeExposure_2",
     identifiers = [
         "CHEBI:15343",
-        "PUBCHEM.COMPOUND:177",
+        "PUBCHEM.COMPOUND:177ƒ",
         "MESH:D000079"
     ],
     mapping = environmental_mapping {

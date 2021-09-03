@@ -5,11 +5,11 @@ let max_cutoff = binning_strategies.max_cutoff
 in {
     name = "he_b017_blood_clots",
     identifiers = [
-        "SCITD:194883006",
-        "SCITD:386280004",
-        "SCITD:161512007",
-        "SCITD:138783009",
-        "SCITD:200284000",
+        "SNOMED:194883006",
+        "SNOMED:386280004",
+        "SNOMED:161512007",
+        "SNOMED:138783009",
+        "SNOMED:200284000",
         "MESH:D011655",
         "LOINC:LA15418-9",
         "LOINC:LP98910-0",

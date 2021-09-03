@@ -3,8 +3,8 @@ let enum = meta.enum
 in {
     name = "HBeAg",
     identifiers = [
-        "SCITD:143472004",
-        "SCITD:166104006",
+        "SNOMED:143472004",
+        "SNOMED:166104006",
         "LOINC:31845-1",
         "LOINC:5192-0",
         "LOINC:77176-6",

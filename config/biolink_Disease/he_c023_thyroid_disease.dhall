@@ -8,7 +8,7 @@ in {
         "MESH:D013959",
         "LOINC:LA15157-3",
         "LOINC:LA15303-3",
-        "SCITD:170780004"
+        "SNOMED:170780004"
     ],
     feature = {
         feature_type = enum [

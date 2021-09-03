@@ -17,11 +17,11 @@ in {
         "NCIT:C93007",
         "UMLS:C0002996",
         "MESH:D017130",
-        "SCITD:308696000",
-        "SCITD:41339005",
-        "SCITD:175882004",
-        "SCITD:446051001",
-        "SCITD:446878003"
+        "SNOMED:308696000",
+        "SNOMED:41339005",
+        "SNOMED:175882004",
+        "SNOMED:446051001",
+        "SNOMED:446878003"
     ],
     feature = {
         feature_type = enum [

@@ -90,7 +90,7 @@ in {
         "RxNorm:205849",
         "RxNorm:205851",
         "RxNorm:205853",
-        "SCITD:350344000"
+        "SNOMED:350344000"
     ],
     mapping = generic_fhir_mapping [
         {

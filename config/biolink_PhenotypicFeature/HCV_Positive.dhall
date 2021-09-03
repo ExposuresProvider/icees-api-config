@@ -3,7 +3,7 @@ let enum = meta.enum
 in {
     name = "HCV_Positive",
     identifiers = [
-        "SCITD:406104003",
+        "SNOMED:406104003",
         "LOINC:55276-0"
     ],
     feature = {
