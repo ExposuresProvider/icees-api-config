@@ -109,10 +109,10 @@ def format_identifiers(document):
 
 
 #--------extract inconsistant identifiers
-with open(r'../identifiers.yml') as file:
-    document = yaml.full_load(file)
+#with open(r'../identifiers.yml') as file:
+#    document = yaml.full_load(file)
 #d = check_inconsistant(document['patient'])
-d= check_inconsistant(document['visit'])
-print(d)
-with open(r'inconsistent_identifiers.yml', 'w') as file:
-    documents = yaml.dump(d, file)
+#d= check_inconsistant(document['visit'])
+#print(d)
+#with open(r'inconsistent_identifiers.yml', 'w') as file:
+#    documents = yaml.dump(d, file)
