@@ -318,7 +318,7 @@ patient:
   VitaminK_Rx:
     categories:
     - biolink:ChemicalEntity
-    - biolink:ChemicalExposure
+   - biolink:ChemicalExposure
     - biolink:Drug
     enum:
     - '0'
