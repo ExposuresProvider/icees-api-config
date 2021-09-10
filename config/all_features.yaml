@@ -1,4 +1,11 @@
 patient:
+  AugmentinDILIDx:
+    categories:
+    - biolink:DiseaseOrPhenotypicFeature
+    enum: 
+    - "0"
+    - "1"
+    type: integer
   IgE:
     categories:
     - biolink:PhenotypicFeature
@@ -365,7 +372,7 @@ patient:
     categories:
     - biolink:PhenotypicFeature
     - biolink:DiseaseOrPhenotypicFeature
-    type: integer
+    type: number
   ALT_Onset:
     categories:
     - biolink:PhenotypicFeature
@@ -385,7 +392,7 @@ patient:
     categories:
     - biolink:PhenotypicFeature
     - biolink:DiseaseOrPhenotypicFeature
-    type: integer
+    type: number
   ALT_flag_first:
     categories:
     - biolink:PhenotypicFeature
@@ -430,7 +437,7 @@ patient:
     categories:
     - biolink:PhenotypicFeature
     - biolink:DiseaseOrPhenotypicFeature
-    type: integer
+    type: number
   AST_Onset:
     categories:
     - biolink:PhenotypicFeature
@@ -450,7 +457,7 @@ patient:
     categories:
     - biolink:PhenotypicFeature
     - biolink:DiseaseOrPhenotypicFeature
-    type: integer
+    type: number
   AST_flag_first:
     categories:
     - biolink:PhenotypicFeature
@@ -623,7 +630,7 @@ patient:
     categories:
     - biolink:PhenotypicFeature
     - biolink:DiseaseOrPhenotypicFeature
-    type: integer
+    type: number
   AlkalinePhosphatase_Onset:
     categories:
     - biolink:PhenotypicFeature
@@ -638,12 +645,12 @@ patient:
     categories:
     - biolink:PhenotypicFeature
     - biolink:DiseaseOrPhenotypicFeature
-    type: integer
+    type: number
   AlkalinePhosphatase_Peak_DILIOnsetToMonth6_ULN:
     categories:
     - biolink:PhenotypicFeature
     - biolink:DiseaseOrPhenotypicFeature
-    type: integer
+    type: number
   AlopeciaDx:
     categories:
     - biolink:Disease
@@ -1015,7 +1022,7 @@ patient:
     categories:
     - biolink:PhenotypicFeature
     - biolink:DiseaseOrPhenotypicFeature
-    type: integer
+    type: number
   BMI_CATEGORY:
     categories:
     - biolink:PhenotypicFeature
@@ -1073,12 +1080,12 @@ patient:
     categories:
     - biolink:PhenotypicFeature
     - biolink:DiseaseOrPhenotypicFeature
-    type: integer
+    type: number
   Bilirubin_Onset:
     categories:
     - biolink:PhenotypicFeature
     - biolink:DiseaseOrPhenotypicFeature
-    type: integer
+    type: number
   Bilirubin_Onset_ULN:
     categories:
     - biolink:PhenotypicFeature
@@ -1088,12 +1095,12 @@ patient:
     categories:
     - biolink:PhenotypicFeature
     - biolink:DiseaseOrPhenotypicFeature
-    type: integer
+    type: number
   Bilirubin_Peak_DILIOnsetToMonth6_ULN:
     categories:
     - biolink:PhenotypicFeature
     - biolink:DiseaseOrPhenotypicFeature
-    type: integer
+    type: number
   BloodType:
     categories:
     - biolink:PhenotypicFeature
@@ -1887,7 +1894,7 @@ patient:
     categories:
     - biolink:PhenotypicFeature
     - biolink:DiseaseOrPhenotypicFeature
-    type: integer
+    type: number
   Eosinophil_GreaterThan500:
     categories:
     - biolink:PhenotypicFeature
@@ -2520,7 +2527,7 @@ patient:
     categories:
     - biolink:PhenotypicFeature
     - biolink:DiseaseOrPhenotypicFeature
-    type: integer
+    type: number
   INR_Onset_ULN:
     categories:
     - biolink:PhenotypicFeature
@@ -2530,7 +2537,7 @@ patient:
     categories:
     - biolink:PhenotypicFeature
     - biolink:DiseaseOrPhenotypicFeature
-    type: integer
+    type: number
   INR_Peak_DILIOnsetToMonth6_ULN:
     categories:
     - biolink:PhenotypicFeature
@@ -3489,7 +3496,7 @@ patient:
     categories:
     - biolink:PhenotypicFeature
     - biolink:DiseaseOrPhenotypicFeature
-    type: integer
+    type: number
   Race:
     categories:
     - biolink:PhenotypicFeature
@@ -4349,7 +4356,7 @@ patient:
     categories:
     - biolink:PhenotypicFeature
     - biolink:DiseaseOrPhenotypicFeature
-    type: integer
+    type: number
   WilsonsDisease:
     categories:
     - biolink:Disease
@@ -4362,9 +4369,7 @@ patient:
     categories:
     - biolink:PhenotypicFeature
     - biolink:DiseaseOrPhenotypicFeature
-    maximum: 2050
-    minimum: 1900
-    type: integer
+    type: string
   ea_a012_current_home_type:
     categories:
     - biolink:EnvironmentalExposure
@@ -18193,10 +18198,10 @@ visit:
     type: integer
   BMI:
     categories: []
-    type: integer
+    type: number
   BMIVisit:
     categories: []
-    type: integer
+    type: number
   BMI_CATEGORY:
     categories: []
     enum: *id044
@@ -18265,10 +18270,10 @@ visit:
     type: integer
   Bilirubin_Peak_DILIOnsetToMonth6:
     categories: []
-    type: integer
+    type: number
   Bilirubin_Peak_DILIOnsetToMonth6Visit:
     categories: []
-    type: integer
+    type: number
   Bilirubin_Peak_DILIOnsetToMonth6_ULN:
     categories: []
     type: integer
