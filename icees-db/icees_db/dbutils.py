@@ -115,7 +115,7 @@ def insert(file_path, table_name):
 
 
 def removeDotZero(s):
-    if s.endswith(".0"):
+    if s is not None and s.endswith(".0"):
         return s[:-2]
     else:
         return s
