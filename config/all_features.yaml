@@ -1,4 +1,13 @@
 patient:
+  AugmentinRx:
+    categories:
+    - biolink:ChemicalEntity
+    - biolink:ChemicalExposure
+    - biolink:Drug
+    enum: 
+    - "0"
+    - "1"
+    type: integer
   AugmentinDILIDx:
     categories:
     - biolink:DiseaseOrPhenotypicFeature
