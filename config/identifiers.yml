@@ -7253,6 +7253,7 @@ patient:
   - NCIT:C84427
   - SNOMEDCT:197352008
   - SNOMEDCT:235876009
+  - SNOMEDCT:197354009
   - SNOMEDCT:427399008
   DILIN_SeverityScore:
   - MONDO:0005359
@@ -7518,7 +7519,7 @@ patient:
   - UMLS:C1850450
   - UMLS:C0455454
   - SNOMEDCT:160471004
-  - UMLS:C1689930
+  - CUMLS:C1689930
   - SNOMEDCT:419393000
   - UMLS:C1859841
   - UMLS:C0684230
@@ -7548,7 +7549,9 @@ patient:
   - SNOMEDCT:160988001
   - UMLS:C0277604
   - SNOMEDCT:31868001
-  Dexamethasone: []
+  Dexamethasone:
+  - CHEBI:41879
+  - PUBCHEM.COMPOUND:5743
   DiabetesDx: []
   DiabetesEndocrineDisorder:
   - UMLS:C0342271
@@ -18344,6 +18347,8 @@ patient:
   - KEGG.COMPOUND:C07370
   - INCHIKEY:XOFYZVNMUHMLCC-ZPOLXVRWSA-N
   PrednisoneOrCorticosteroids_Tx:
+  - PUBCHEM.COMPOUND:5865
+  - PUBCHEM.COMPOUND:222786
   - CHEBI:50858
   - UMLS:C0013221
   - UMLS:C0041755
@@ -18412,6 +18417,7 @@ patient:
   - SNOMEDCT:291798004
   PrednisoneOrMethylprednisone:
   - PUBCHEM.COMPOUND:5865
+  - PUBCHEM.COMPOUND:5877
   - CHEMBL.COMPOUND:CHEMBL635
   - UNII:VB0R961HZT
   - CHEBI:8382
@@ -39924,6 +39930,7 @@ visit:
   - SNOMEDCT:197352008
   - SNOMEDCT:235876009
   - SNOMEDCT:427399008
+  - SNOMEDCT:197354009
   DILINSeverityScore:
   - MONDO:0005359
   - UMLS:C0019193
@@ -46385,10 +46392,13 @@ visit:
   INRPeakDILIOnsetToMonth6: []
   ImmunodulationAnakinra: []
   ImmunodulationConvalescentPlasma: []
-  ImmunodulationDexamethaone: []
+  ImmunodulationDexamethasone:
+  - CHEBI:41879
+  - PUBCHEM.COMPOUND:5743
   ImmunodulationIVIG: []
-  ImmunodulationPrednisoneOrMethylPrednisone:
+  ImmunodulationPrednisoneOrMethylprednisone:
   - PUBCHEM.COMPOUND:5865
+  - PUBCHEM.COMPOUND:5877
   - CHEMBL.COMPOUND:CHEMBL635
   - UNII:VB0R961HZT
   - CHEBI:8382
@@ -50522,6 +50532,8 @@ visit:
   PrasteroneVisit: []
   PrednisoneOrCorticosteroidsTx:
   - CHEBI:50858
+  - PUBCHEM.COMPOUND:5865
+  - PUBCHEM.COMPOUND:222786
   - UMLS:C0013221
   - UMLS:C0041755
   - MESH:D064420
