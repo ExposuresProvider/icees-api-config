@@ -175,7 +175,10 @@ class ColoredText:
 
 
 def toColoredLines(color: int, string: str) -> List[ColoredLine]:
-    return [toColoredLine(color, line) for line in string.split("\n")]
+    if not isinstance(string, str):
+        return []
+    else:
+        return [toColoredLine(color, line) for line in string.split("\n")]
 
 
 def toColoredText(color: int, string: str) -> ColoredText:

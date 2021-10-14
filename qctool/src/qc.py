@@ -175,13 +175,17 @@ def colorize_diff(a: str, b: str) -> Tuple[ColoredText, ColoredText]:
     
 def to_prettytable(mode, l):
     if isinstance(mode, DiffMode):
+        if len(l) == 5:
+            l.append("")
         if l[0] is None:
             if l[1] is None:
                 return [toColoredText(NORMAL_COLOR, ""), toColoredText(NORMAL_COLOR, ""), toColoredText(NORMAL_COLOR, ""), toColoredText(NORMAL_COLOR, l[3]), toColoredText(NORMAL_COLOR, l[4]), toColoredText(NORMAL_COLOR, str(l[5]))]
             else:
                 return [toColoredText(NORMAL_COLOR, ""), toColoredText(NORMAL_COLOR, l[1]), toColoredText(NORMAL_COLOR, ""), toColoredText(NORMAL_COLOR, l[3]), toColoredText(NORMAL_COLOR, l[4]), toColoredText(NORMAL_COLOR, str(l[5]))]
         elif l[1] is None:
-            return [toColoredText(NORMAL_COLOR, l[0]), toColoredText(NORMAL_COLOR, ""), toColoredText(NORMAL_COLOR, ""), toColoredText(NORMAL_COLOR, l[3]), toColoredText(NORMAL_COLOR, l[4]), toColoredText(NORMAL_COLOR, str(l[5]))]
+            str_l5 = str(l[5])
+            str_l5_clred = toColoredText(NORMAL_COLOR, str_l5)
+            return [toColoredText(NORMAL_COLOR, l[0]), toColoredText(NORMAL_COLOR, ""), toColoredText(NORMAL_COLOR, ""), toColoredText(NORMAL_COLOR, l[3]), toColoredText(NORMAL_COLOR, l[4]), str_l5_clred]
         else:
             return list(colorize_diff(l[0], l[1])) + [toColoredText(NORMAL_COLOR, f"{l[2]:.2f}"), toColoredText(NORMAL_COLOR, l[3]), toColoredText(NORMAL_COLOR, l[4]), toColoredText(NORMAL_COLOR, str(l[5]))]
     else:
