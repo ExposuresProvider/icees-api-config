@@ -1,26 +1,21 @@
-import sys
-from typing import Tuple, Dict, List, Optional
+from typing import Tuple
 import Levenshtein
 import argparse
 from argparse import RawTextHelpFormatter
 import difflib
-from itertools import chain
-import asyncio
 import curses
 import logging
 import os
-from functools import reduce, partial
-from dataclasses import dataclass, field
+from functools import partial
 import csv
 import traceback
 from collections import defaultdict
-from tx.functional.either import Left, Right
-from window import HIGHLIGHT_COLOR, NORMAL_COLOR, Window, Pane, init_colors, SELECTED_NORMAL_COLOR, popup, draw_textfield, WindowExit, WindowPass, WindowContinue, ERROR_COLOR
-from file import make_file, MappingFile, YAMLFile
+from window import HIGHLIGHT_COLOR, NORMAL_COLOR, Window, init_colors, ERROR_COLOR
+from file import make_file, MappingFile
 from coloredtext import toColoredText, ColoredText
 from table import format_table
 from components import pick_file, help, choose_candidate, enter_var_name, command_keys, menu, choose_candidate_ratio, enter_var_name1, key_escape
-from mode import DiffMode, FocusedMode, Config, CacheFile, CacheTables
+from mode import DiffMode, FocusedMode, Config, CacheFile
 
 APPLICATION_TITLE = "ICEES FHIR-PIT Configuration Tool"
 HELP_TEXT_SHORT = "H help M menu U update tables Q exit "
@@ -175,6 +170,9 @@ def colorize_diff(a: str, b: str) -> Tuple[ColoredText, ColoredText]:
     
 def to_prettytable(mode, l):
     if isinstance(mode, DiffMode):
+        if len(l) == 5:
+            # need to make sure l has six elements
+            l.append("")
         if l[0] is None:
             if l[1] is None:
                 return [toColoredText(NORMAL_COLOR, ""), toColoredText(NORMAL_COLOR, ""), toColoredText(NORMAL_COLOR, ""), toColoredText(NORMAL_COLOR, l[3]), toColoredText(NORMAL_COLOR, l[4]), toColoredText(NORMAL_COLOR, str(l[5]))]
