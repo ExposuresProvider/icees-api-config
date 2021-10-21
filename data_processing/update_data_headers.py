@@ -1,3 +1,6 @@
+# This script update data variable headers based on an input mapping csv file. THe input mapping csv file 
+# must include two columns named Original_Variable and New_Variable for mapping Original_Variable to New_Variable
+
 import argparse
 import pandas as pd
 
