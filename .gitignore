@@ -5,3 +5,4 @@ __pycache__/
 **/*~
 .idea
 **/#*
+data_processing/mapping/asthma_header_mapping.csv
