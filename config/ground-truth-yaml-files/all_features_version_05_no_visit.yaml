@@ -3940,7 +3940,7 @@ patient:
     categories:
     - biolink:PhenotypicFeature
     - biolink:DiseaseOrPhenotypicFeature
-  type: number
+    type: number
   Race:
     categories:
     - biolink:PhenotypicFeature
