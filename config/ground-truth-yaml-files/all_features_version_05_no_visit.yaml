@@ -1198,6 +1198,16 @@ patient:
   BMI_CATEGORY:
     categories:
     - biolink:PhenotypicFeature
+    enum:
+    - Normal (18.5 to <25)
+    - Over (25 to <30)
+    - Obese (30+)
+    - Under (<18.5)
+    type: string
+    search_term: body mass index
+  BMI_Category_UNC:
+    categories:
+    - biolink:PhenotypicFeature
     - biolink:DiseaseOrPhenotypicFeature
     enum:
     - Underweight
@@ -2363,7 +2373,7 @@ patient:
     - '>1'
     type: string
     search_term: estropipate
-  Ethnicity:
+  Ethnicity_UNC:
     categories:
     - biolink:PhenotypicFeature
     enum: &id125
@@ -3931,7 +3941,7 @@ patient:
     - biolink:PhenotypicFeature
     - biolink:DiseaseOrPhenotypicFeature
     type: number
-  Race:
+  Race_UNC:
     categories:
     - biolink:PhenotypicFeature
     enum: &id256
