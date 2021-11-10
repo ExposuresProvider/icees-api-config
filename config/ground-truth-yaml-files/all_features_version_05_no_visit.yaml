@@ -1205,7 +1205,7 @@ patient:
     - Under (<18.5)
     type: string
     search_term: body mass index
-  BMI_Category:
+  BMI_Category_UNC:
     categories:
     - biolink:PhenotypicFeature
     - biolink:DiseaseOrPhenotypicFeature
@@ -2373,7 +2373,7 @@ patient:
     - '>1'
     type: string
     search_term: estropipate
-  Ethnicity:
+  Ethnicity_UNC:
     categories:
     - biolink:PhenotypicFeature
     enum: &id125
@@ -3940,8 +3940,8 @@ patient:
     categories:
     - biolink:PhenotypicFeature
     - biolink:DiseaseOrPhenotypicFeature
-  type: number
-  Race:
+    type: number
+  Race_UNC:
     categories:
     - biolink:PhenotypicFeature
     enum: &id256

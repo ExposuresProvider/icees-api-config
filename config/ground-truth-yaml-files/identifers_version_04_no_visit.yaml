@@ -3682,7 +3682,7 @@ patient:
   - UMLS:C4302409
   - UMLS:C4302437
   - UMLS:C4302438
-  BMI_Category:
+  BMI_Category_UNC:
   - NCIT:C138901
   - EFO:0004340
   - NCIT:C16358
@@ -7473,7 +7473,7 @@ patient:
   EstropipateRx:
   - PUBCHEM.COMPOUND:5284555
   - UMLS:C4750928
-  Ethnicity:
+  Ethnicity_UNC:
   - UMLS:C2733502
   - UMLS:C1287117
   - UMLS:C1301552
@@ -12567,7 +12567,7 @@ patient:
   - PUBCHEM.COMPOUND:10274049
   - NCBITaxon:231010
   RESPONDER_STATUS:
-  Race:
+  Race_UNC:
   - NCBIGene:23600
   - NCIT:C104495
   - CHEBI:60911
