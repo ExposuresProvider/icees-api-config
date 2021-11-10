@@ -1198,16 +1198,6 @@ patient:
   BMI_CATEGORY:
     categories:
     - biolink:PhenotypicFeature
-    enum:
-    - Normal (18.5 to <25)
-    - Over (25 to <30)
-    - Obese (30+)
-    - Under (<18.5)
-    type: string
-    search_term: body mass index
-  BMI_Category:
-    categories:
-    - biolink:PhenotypicFeature
     - biolink:DiseaseOrPhenotypicFeature
     enum:
     - Underweight
