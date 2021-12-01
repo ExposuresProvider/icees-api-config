@@ -14,6 +14,12 @@ patient:
   AgeStudyStart2:
   - EFO:0000246
   - EFO:0004847
+  Sex:
+  - UMLS:C0009990
+  - UMLS:C1997315 
+  Sex2:
+  - UMLS:C0009990
+  - UMLS:C1997315 
   AlbuterolRx:
   - UNII:QF8SVZ843E
   - PUBCHEM.COMPOUND:2083
