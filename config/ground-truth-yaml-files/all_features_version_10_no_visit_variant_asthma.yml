@@ -105,6 +105,16 @@ patient:
     - '>1'
     type: string
     search_term: alcohol dependence
+  AlopeciaDx:
+    categories:
+    - biolink:Disease
+    - biolink:DiseaseOrPhenotypicFeature
+    enum:
+    - '0'
+    - '1'
+    - '>1'
+    type: string
+    search_term: alopecia
   AndrostenedioneRx:
     categories:
     - biolink:ChemicalEntity
