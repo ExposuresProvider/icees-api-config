@@ -469,7 +469,7 @@ patient:
     maximum: 5
     minimum: 1
     type: integer
-  Days_DrugStartToEarliestSign:_2:
+  Days_DrugStartToEarliestSign_2:
     categories:
     - biolink:PhenotypicFeature
     maximum: 5
