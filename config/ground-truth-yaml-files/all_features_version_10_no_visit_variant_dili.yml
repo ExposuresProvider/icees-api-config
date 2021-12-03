@@ -822,7 +822,7 @@ patient:
     search_term: death
   LiverTransplant:
     categories:
-    - biolink:Clinical Intervention
+    - biolink:ClinicalIntervention
     enum: &id202
     - '0'
     - '1'
