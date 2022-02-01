@@ -1,4 +1,14 @@
 patient:
+  PulmozymeRx:
+    categories:
+    - biolink:Disease
+    - biolink:DiseaseOrPhenotypicFeature
+    enum: &id168
+    - '0'
+    - '1'
+    - '>1'
+    type: string
+    search_term: dornase alfa
   Fever:
     categories:
     - biolink:Disease
@@ -2608,16 +2618,16 @@ patient:
     search_term: venlafaxine
   FEV1_value_first:
     categories:
-   - biolink:PhenotypicFeature
-   type: number
+    - biolink:PhenotypicFeature
+    type: number
   FEV1_value_last:
     categories:
-   - biolink:PhenotypicFeature
-   type: number
+    - biolink:PhenotypicFeature
+    type: number
   FVC_value_first:
     categories:
-   - biolink:PhenotypicFeature
-   type: number
+    - biolink:PhenotypicFeature
+    type: number
   FVC_value_last:
     categories:
     - biolink:PhenotypicFeature
