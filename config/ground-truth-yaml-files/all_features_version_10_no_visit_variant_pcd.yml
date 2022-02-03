@@ -208,6 +208,10 @@ patient:
     - low
     - normal
     - high
+    - abnormal
+    - A 
+    - H 
+    - L
     type: string
     search_term: low oxygen saturation
   PulseOximetry_flag_last:
@@ -217,6 +221,10 @@ patient:
     - low
     - normal
     - high
+    - abnormal 
+    - A 
+    - H 
+    - L
     type: string
     search_term: low oxygen saturation
   Albumin:
@@ -231,6 +239,7 @@ patient:
     - low
     - normal
     - high
+    - abnormal
     - A
     - H 
     - L
@@ -243,6 +252,7 @@ patient:
     - low
     - normal
     - high
+    - abnormal
     - A
     - H 
     - L
@@ -259,6 +269,7 @@ patient:
     - low
     - normal
     - high
+    - abnormal
     - A
     - H 
     - L
@@ -271,6 +282,7 @@ patient:
     - low
     - normal
     - high
+    - abnormal
     - A
     - H 
     - L
@@ -287,6 +299,7 @@ patient:
     - low
     - normal
     - high
+    - abnormal
     - A
     - H 
     - L
@@ -299,6 +312,7 @@ patient:
     - low
     - normal
     - high
+    - abnormal
     - A
     - H 
     - L
@@ -316,6 +330,9 @@ patient:
     - normal
     - high
     - abnormal
+    - A
+    - H 
+    - L
     type: string
     search_term: elevated immunoglobulin E
   IgE_flag_last:
@@ -326,6 +343,9 @@ patient:
     - normal
     - high
     - abnormal
+    - A 
+    - H 
+    - L
     type: string
     search_term: elevated immunoglobulin E
   GlucoseToleranceTest:
@@ -340,7 +360,10 @@ patient:
     - low
     - normal
     - high
-    - abnormal
+    - abnormal 
+    - A 
+    - H 
+    - L
     type: string
     search_term: abnormal glucose tolerance test
   GlucoseToleranceTest_flag_last:
@@ -351,6 +374,9 @@ patient:
     - normal
     - high
     - abnormal
+    - A 
+    - H 
+    - L
     type: string
     search_term: abnormal glucose tolerance test
   Hemoglobin:
@@ -365,6 +391,7 @@ patient:
     - low
     - normal
     - high
+    - abnormal
     - A
     - H 
     - L
@@ -377,6 +404,7 @@ patient:
     - low
     - normal
     - high
+    - abnormal
     - A
     - H 
     - L
@@ -395,6 +423,9 @@ patient:
     - normal
     - high
     - abnormal
+    - A 
+    - H 
+    - L
     type: string
     search_term: elevated hemoglobin A1C
   A1C_flag_last:
@@ -405,6 +436,9 @@ patient:
     - normal
     - high
     - abnormal
+    - A
+    - H 
+    - L
     type: string
     search_term: elevated hemoglobin A1C
   CysticFibrosisDx:
@@ -659,6 +693,7 @@ patient:
     - low
     - normal
     - high
+    - abnormal
     - A
     - H 
     - L
@@ -671,6 +706,7 @@ patient:
     - low
     - normal
     - high
+    - abnormal
     - A
     - H 
     - L
@@ -688,6 +724,7 @@ patient:
     - low
     - normal
     - high
+    - abnormal
     - A
     - H 
     - L
@@ -700,6 +737,7 @@ patient:
     - low
     - normal
     - high
+    - abnormal
     - A
     - H 
     - L
@@ -2616,22 +2654,68 @@ patient:
     - '>1'
     type: string
     search_term: venlafaxine
-  FEV1_value_first:
+  FEV:
     categories:
     - biolink:PhenotypicFeature
+    enum: 
     type: number
-  FEV1_value_last:
+  FEV_flag_first:
     categories:
     - biolink:PhenotypicFeature
-    type: number
-  FVC_value_first:
+    enum:
+    - low
+    - normal
+    - high
+    - abnormal
+    - A
+    - H 
+    - L
+    type: string
+    search_term: decreased forced expiratory volume
+  FEV_flag_last:
     categories:
     - biolink:PhenotypicFeature
-    type: number
-  FVC_value_last:
+    enum:
+    - low
+    - normal
+    - high
+    - abnormal
+    - A
+    - H 
+    - L
+    type: string
+    search_term: decreased forced expiratory volume
+  FVC:
     categories:
     - biolink:PhenotypicFeature
+    enum: 
     type: number
+  FVC_flag_first:
+    categories:
+    - biolink:PhenotypicFeature
+    enum:
+    - low
+    - normal
+    - high
+    - abnormal
+    - A
+    - H 
+    - L
+    type: string
+    search_term: decreased forced vital capacity
+  FVC_flag_last:
+    categories:
+    - biolink:PhenotypicFeature
+    enum:
+    - low
+    - normal
+    - high
+    - abnormal
+    - A
+    - H 
+    - L
+    type: string
+    search_term: decreased forced vital capacity
   #FEV1FVC_flag_first:
   #  categories:
   # - biolink:PhenotypicFeature
