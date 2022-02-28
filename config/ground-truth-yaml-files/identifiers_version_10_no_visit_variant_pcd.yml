@@ -619,7 +619,13 @@ patient:
   - UniProtKB:Q2IBA1
   - UniProtKB:Q108U0
   - UniProtKB:Q07DX5
+  BronchiectasisDx:
+  - MONDO:0004822
+  - HP:0002110  
+  - MONDO:0018956
   Confirmed_IdiopathicBronchiectasisDx:
+  - MONDO:0004822
+  - HP:0002110  
   - MONDO:0018956
   Confirmed_PCD_Dx:
   - MONDO:0016575
