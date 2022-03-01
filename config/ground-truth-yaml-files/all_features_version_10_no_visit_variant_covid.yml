@@ -1091,7 +1091,7 @@ patient:
     - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
-    enum: &id105
+    enum: &id108
     - '0'
     - '1'
     - '>1'
@@ -1747,7 +1747,7 @@ patient:
     categories:
     - biolink:Disease
     - biolink:DiseaseOrPhenotypicFeature
-    enum: &id103
+    enum: &id165
     - '0'
     - '1'
     - '>1'
