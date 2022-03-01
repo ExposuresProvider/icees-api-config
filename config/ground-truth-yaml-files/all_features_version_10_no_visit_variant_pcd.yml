@@ -33,7 +33,7 @@ patient:
     categories:
     - biolink:Disease
     - biolink:DiseaseOrPhenotypicFeature
-    enum: &id168
+    enum: &id169
     - '0'
     - '1'
     - '>1'
