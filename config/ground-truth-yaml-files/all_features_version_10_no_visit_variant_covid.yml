@@ -1,8 +1,4 @@
 patient:
-  index:
-    categories:
-    enum:
-    type: integer
   AADT:
     categories:
     - biolink:EnvironmentalExposure
@@ -1732,6 +1728,15 @@ patient:
     - '>1'
     type: string
     search_term: heart failure disease
+  HighFlowNasalCannula:
+    categories:
+    - biolink:ClinicalIntervention
+    enum: &id299
+    - '0'
+    - '1'
+    - '>1'
+    type: string
+    search_term: high flow nasal cannula  
   HistrelinRx:
     categories:
     - biolink:ChemicalEntity
@@ -1868,14 +1873,14 @@ patient:
     - '>1'
     type: string
     search_term: ipratropium
-  #IsolationFlag:
-  # categories:
-  #  - biolink:ClinicalIntervention
-  #  enum: &id185
-  #  - '0'
-  #  - '1'
-  #  - '>1'
-  #  type: string
+  IsolationFlag:
+    categories:
+    - biolink:ClinicalIntervention
+    enum: &id185
+    - '0'
+    - '1'
+    - '>1'
+    type: string
   Isoproterenol_gtt_Rx:
     categories:
     - biolink:ChemicalEntity
@@ -3194,6 +3199,11 @@ patient:
   #  categories:
   #  - biolink:PhenotypicFeature
   #  type: number
+  HCT:
+    categories:
+    - biolink:PhenotypicFeature
+    enum: 
+    type: number 
   HCT_flag_first:
     categories:
     - biolink:PhenotypicFeature

@@ -1,14 +1,22 @@
 patient:
-  index:
   AADT:
+  - DUMMY:000000
   THROUGH_LANES:
+  - DUMMY:000000
   SPEED:
+  - DUMMY:000000
   ROADTYPE:
+  - DUMMY:000000
   RoadwayAADT:
+  - DUMMY:000000
   RoadwayLanes:
+  - DUMMY:000000
   RoadwaySpeedLimit:
+  - DUMMY:000000
   RoadwayType:
+  - DUMMY:000000
   A1C:
+  - DUMMY:000000
   A1C_flag_first:
   - NCIT:C122507
   - HP:0040217
@@ -18,6 +26,7 @@ patient:
   - HP:0040217
   - UMLS:C4315035
   ALT:
+  - DUMMY:000000
   ALT_flag_first:
   - HP:0031964
   - UMLS:C4538666
@@ -29,6 +38,7 @@ patient:
   - UMLS:C4478307
   - UMLS:C4313265
   AST:
+  - DUMMY:000000
   AST_flag_first:
   - UMLS:C4748908
   - HP:0031956
@@ -40,6 +50,7 @@ patient:
   - UMLS:C0580476
   - UMLS:C3554683
   AbsoluteLymphocyteCount:
+  - DUMMY:000000
   AbsoluteLymphocyteCount_flag_first:
   - MONDO:0003783
   - NCIT:C26823
@@ -113,6 +124,7 @@ patient:
   - MONDO:0012359
   - UMLS:C1835931
   AbsoluteNeutrophilCount:
+  - DUMMY:000000
   AbsoluteNeutrophilCount_flag_first:
   - MONDO:0001475
   - MONDO:0003785
@@ -316,6 +328,7 @@ patient:
   - UMLS:C4038616
   - MONDO:0042490
   Active_In_Year:
+  - DUMMY:000000
   AgeStudyStart:
   - EFO:0000246
   - NCBIGene:177
@@ -519,6 +532,7 @@ patient:
   - NCIT:C150735
   - EFO:0005056
   Albumin:
+  - DUMMY:000000
   Albumin_flag_first:
   - HP:0012117
   - UMLS:C0744415
@@ -2950,6 +2964,7 @@ patient:
   - UMLS:C4302437
   - UMLS:C4302438
   BaseDeficit:
+  - DUMMY:000000
   BaseDeficit_flag_first:
   - UMLS:C0347530
   BaseDeficit_flag_last:
@@ -3080,11 +3095,13 @@ patient:
   - UMLS:C0685151
   - UMLS:C0685183
   BloodUreaNitrogen:
+  - DUMMY:000000
   BloodUreaNitrogen_flag_first:
   - HP:0003138
   BloodUreaNitrogen_flag_last:
   - HP:0003138
   BrainNatriureticPeptide:
+  - DUMMY:000000
   BrainNatriureticPeptide_flag_first:
   - UMLS:C1095991
   - UMLS:C4087254
@@ -3185,6 +3202,7 @@ patient:
   - PUBCHEM.COMPOUND:56841116
   - MESH:D000069502
   C-reactiveProtein:
+  - DUMMY:000000
   C-reactiveProtein_flag_first:
   - UMLS:C0580467
   - HP:0032436
@@ -3192,7 +3210,9 @@ patient:
   - UMLS:C0580467
   - HP:0032436
   CAFO_Exposure:
+  - DUMMY:000000
   CK:
+  - DUMMY:000000
   CK_flag_first:
   - HP:0040081
   - HP:0003236
@@ -3458,6 +3478,7 @@ patient:
   - PUBCHEM.COMPOUND:131700459
   - PUBCHEM.COMPOUND:71315235
   CharlsonComorbidityIndex:
+  - DUMMY:000000
   ChronicKidneyDiseaseDx:
   - MONDO:0005300
   - NCIT:C143369
@@ -3739,6 +3760,7 @@ patient:
   - UMLS:C4543636
   - UMLS:C4706244
   ConvalescentPlasmaRx:
+  - DUMMY:000000
   CoronaryArteryDiseaseDx:
   - MONDO:0005010
   - OMIM:MTHU014208
@@ -3898,6 +3920,7 @@ patient:
   - UMLS:C0569768
   - UMLS:C0577576
   D-dimer:
+  - DUMMY:000000
   D-dimer_flag_first:
   - UMLS:C0855429
   D-dimer_flag_last:
@@ -4218,8 +4241,11 @@ patient:
   D28E_ASTHMA_MED_TAKE_12M:
   - UMLS:C4305607
   D28F_ASTHMA_14D_NUM_NIGHTS_TEXT:
+  - DUMMY:000000
   D28G_ASTHMA_14D_LIMIT_DAYS_TEXT:
+  - DUMMY:000000
   D28H_ASTHMA_14D_NUM_WHEEZE_TEXT:
+  - DUMMY:000000
   D28_ASTHMA:
   - UMLS:C0004096
   - MONDO:0004979
@@ -4322,7 +4348,9 @@ patient:
   - UMLS:C0422563
   - UMLS:C0422555
   DISTANCE:
+  - DUMMY:000000
   DISTANCE2:
+  - DUMMY:000000
   Death:
   - UMLS:C1306577
   - NCIT:C53787
@@ -4878,7 +4906,9 @@ patient:
   - UMLS:C1998000
   - UMLS:C0474092
   ESTPROPPERSONS25PLUSHSMAX_cut:
+  - DUMMY:000000
   ESTPROPPERSONS25PLUSHSMAX_qcut:
+  - DUMMY:000000
   ESTPROPPERSONS5PLUSNOENGLISH_cut:
   - UMLS:C0424920
   ESTPROPPERSONS5PLUSNOENGLISH_qcut:
@@ -4898,10 +4928,15 @@ patient:
   - UMLS:C0557187
   - UMLS:C0557191
   ESTPROPPERSONSNONHISPWHITE_cut:
+  - DUMMY:000000
   ESTPROPPERSONSNONHISPWHITE_qcut:
+  - DUMMY:000000
   ESTTOTALPOP:
+  - DUMMY:000000
   ESTTOTALPOP25PLUS_cut:
+  - DUMMY:000000
   ESTTOTALPOP25PLUS_qcut:
+  - DUMMY:000000
   ETHNICITY:
   - UMLS:C2733502
   - UMLS:C1287117
@@ -5065,6 +5100,7 @@ patient:
   - GO:0001994
   - GO:0003089
   ErythrocyteSedimentationRate:
+  - DUMMY:000000
   ErythrocyteSedimentationRate_flag_first:
   - NCIT:C95932
   - HP:0003565
@@ -5104,7 +5140,9 @@ patient:
   EstProbabilityESL:
   - UMLS:C0424920
   EstProbabilityHighSchoolMaxEducation:
+  - DUMMY:000000
   EstProbabilityHouseholdNonHispWhite:
+  - DUMMY:000000
   EstProbabilityNoAuto:
   - UMLS:C1997261
   - NCIT:C34344
@@ -5120,8 +5158,11 @@ patient:
   - UMLS:C0557187
   - UMLS:C0557191
   EstProbabilityNonHispWhite:
+  - DUMMY:000000
   EstResidentialDensity:
+  - DUMMY:000000
   EstResidentialDensity25Plus:
+  - DUMMY:000000
   EstradiolRx:
   - PUBCHEM.COMPOUND:5757
   - PUBCHEM.COMPOUND:9811784
@@ -5335,6 +5376,7 @@ patient:
   - UMLS:C2240384
   - NCIT:C121589
   Ferritin:
+  - DUMMY:000000
   Ferritin_flag_first:
   - HP:0003281
   - UMLS:C3551242
@@ -5726,6 +5768,8 @@ patient:
   - PUBCHEM.COMPOUND:15817658
   - PUBCHEM.COMPOUND:86614451
   - UMLS:C0570281
+  HCT:
+  - DUMMY:000000
   HCT_flag_first:
   - HP:0031850
   - UMLS:C0580315
@@ -5853,6 +5897,8 @@ patient:
   - EFO:0004509
   - EFO:0009206
   - HP:0005507
+  Hemoglobin:
+  - DUMMY:000000
   Hemoglobin_flag_first:
   - HP:0011902
   - MESH:D006455
@@ -5880,6 +5926,7 @@ patient:
   - MONDO:0016669
   - HP:0001900
   HighFlowNasalCannula:
+  - DUMMY:000000
   HistrelinRx:
   - PUBCHEM.COMPOUND:25077993
   - PUBCHEM.COMPOUND:25084151
@@ -6050,8 +6097,11 @@ patient:
   - UMLS:C3494680
   - UMLS:C4314698
   IN_EPR:
+  - DUMMY:000000
   IN_FINAL_SAMPLE:
+  - DUMMY:000000
   IN_UNC_Health:
+  - DUMMY:000000
   ImatinibRx:
   - PUBCHEM.COMPOUND:5291
   - PUBCHEM.COMPOUND:25235773
@@ -6154,6 +6204,7 @@ patient:
   - PUBCHEM.COMPOUND:76965635
   - MONDO:0010937
   LDH:
+  - DUMMY:000000
   LDH_flag_first:
   - NCIT:C39595
   - EFO:0010695
@@ -6165,6 +6216,7 @@ patient:
   - UMLS:C4746879
   - UMLS:C4478678
   Lactate:
+  - DUMMY:000000
   Lactate_flag_first:
   - NCIT:C122513
   - UMLS:C4538670
@@ -6196,6 +6248,7 @@ patient:
   - UMLS:C1854700
   - UMLS:C1854693
   Landfill_Exposure:
+  - DUMMY:000000
   LeuprolideRx:
   - PUBCHEM.COMPOUND:657181
   - PUBCHEM.COMPOUND:91667644
@@ -6240,7 +6293,9 @@ patient:
   - UMLS:C0557166
   - UMLS:C1287210
   MajorRoadwayHighwayExposure:
+  - DUMMY:000000
   MajorRoadwayHighwayExposure2:
+  - DUMMY:000000
   MaxDailyOzoneExposure:
   - PUBCHEM.COMPOUND:24823
   - PUBCHEM.COMPOUND:87198141
@@ -7198,6 +7253,7 @@ patient:
   - PUBCHEM.COMPOUND:87591921
   - PUBCHEM.COMPOUND:87377644
   ORIGINAL_ANALYTIC_SAMPLE:
+  - DUMMY:000000
   ObesityBMI:
   - OMIM:MTHU000250
   - MONDO:0019115
@@ -7407,6 +7463,7 @@ patient:
   - UMLS:C3697628
   - UMLS:C2711317
   PLT:
+  - DUMMY:000000
   PLT_flag_first:
   - MONDO:0002249
   - MONDO:0008554
@@ -7565,6 +7622,7 @@ patient:
   - MESH:C037668
   - MESH:C039196
   PlateletCount:
+  - DUMMY:000000
   PlateletCount_flag_first:
   - MONDO:0002249
   - MONDO:0008554
@@ -7846,6 +7904,7 @@ patient:
   - MONDO:0008585
   - HP:0005268
   Procalcitonin:
+  - DUMMY:000000
   Procalcitonin_flag_first:
   - UMLS:C1868796
   - UMLS:C4087276
@@ -8042,6 +8101,7 @@ patient:
   - UMLS:C0571008
   - UMLS:C0569721
   PulseOximetry:
+  - DUMMY:000000
   PulseOximetry_flag_first:
   - NCIT:C50640
   PulseOximetry_flag_last:
@@ -8350,6 +8410,7 @@ patient:
   - PUBCHEM.COMPOUND:10274049
   - NCBITaxon:231010
   RESPONDER_STATUS:
+  - DUMMY:000000
   Race_UNC:
   - NCBIGene:23600
   - NCIT:C104495
@@ -8462,7 +8523,9 @@ patient:
   - PUBCHEM.COMPOUND:76813231
   - PUBCHEM.COMPOUND:121310009
   RoadwayDistanceExposure:
+  - DUMMY:000000
   RoadwayDistanceExposure2:
+  - DUMMY:000000
   S177_SMOKE_100_CIG_LIFETIME:
   - NCIT:C19702
   - NCIT:C17427
@@ -8596,9 +8659,13 @@ patient:
   - UMLS:C3808343
   - NCIT:C156826
   SNP1:
+  - DUMMY:000000
   SNP2:
+  - DUMMY:000000
   SNP3:
+  - DUMMY:000000
   SNP4:
+  - DUMMY:000000
   SalmeterolRx:
   - PUBCHEM.COMPOUND:5152
   - CHEBI:9011
@@ -8684,6 +8751,7 @@ patient:
   - PUBCHEM.COMPOUND:91747128
   - PUBCHEM.COMPOUND:45038856
   SerumBicarbonate:
+  - DUMMY:000000
   SerumBicarbonate_flag_first:
   - UMLS:C0853736
   - UMLS:C0580485
@@ -8693,6 +8761,7 @@ patient:
   - UMLS:C0580485
   - HP:0032065
   SerumChloride:
+  - DUMMY:000000
   SerumChloride_flag_first:
   - UMLS:C0853743
   - UMLS:C0580483
@@ -8700,21 +8769,25 @@ patient:
   - UMLS:C0853743
   - UMLS:C0580483
   SerumCreatinine:
+  - DUMMY:000000
   SerumCreatinine_flag_first:
   - UMLS:C0438243
   SerumCreatinine_flag_last:
   - UMLS:C0438243
   SerumGlucose:
+  - DUMMY:000000
   SerumGlucose_flag_first:
   - UMLS:C0580546
   SerumGlucose_flag_last:
   - UMLS:C0580546
   SerumPotassium:
+  - DUMMY:000000
   SerumPotassium_flag_first:
   - UMLS:C0549635 
   SerumPotassium_flag_last:
   - UMLS:C0549635
   SerumSodium:
+  - DUMMY:000000
   SerumSodium_flag_first:
   - UMLS:C0853786
   - UMLS:C0580481
@@ -8732,6 +8805,7 @@ patient:
   - UMLS:C4039841
   - UMLS:C4039880
   SvO2:
+  - DUMMY:000000
   SvO2_flag_first:
   - UMLS:C1735353
   SvO2_flag_last:
@@ -8939,11 +9013,17 @@ patient:
   - NCIT:C150735
   - EFO:0005056
   TLR4_DIST_1X_cut:
+  - DUMMY:000000
   TLR4_DIST_1X_qcut:
+  - DUMMY:000000
   TLR4_DIST_2X_cut:
+  - DUMMY:000000
   TLR4_DIST_2X_qcut:
+  - DUMMY:000000
   TLR4_DIST_3X_cut:
+  - DUMMY:000000
   TLR4_DIST_3X_qcut:
+  - DUMMY:000000
   TamoxifenRx:
   - PUBCHEM.COMPOUND:2733526
   - PUBCHEM.COMPOUND:11406509
@@ -9341,6 +9421,7 @@ patient:
   - UMLS:C0571725
   - UMLS:C0570282
   Troponin:
+  - DUMMY:000000
   Troponin_flag_first:
   - NCIT:C78231
   - NCIT:C78230
@@ -9516,6 +9597,7 @@ patient:
   - PUBCHEM.COMPOUND:46781200
   - PUBCHEM.COMPOUND:46781269
   WBCcount:
+  - DUMMY:000000
   WBCcount_flag_first:
   - NCIT:C143647
   - NCIT:C35524
@@ -9602,16 +9684,22 @@ patient:
   - MONDO:0010681
   - MONDO:0012930
   - OMIM:611045
-  WBCcount_value_first:
-  WBCcount_value_last:
   WHOSeverityScore:
+  - DUMMY:000000
   pCO2Arterial:
-  pCO2ArterialVenous:
-  pCO2ArterialVenous_flag_first:
-  pCO2ArterialVenous_flag_last:
-  pCO2Arterial_flag_first:
+  - DUMMY:000000
   pCO2Arterial_flag_last:
+  - DUMMY:000000
+  pCO2Arterial_flag_first:
+  - DUMMY:000000
+  pCO2ArterialVenous:
+  - DUMMY:000000
+  pCO2ArterialVenous_flag_first:
+  - DUMMY:000000
+  pCO2ArterialVenous_flag_last:
+  - DUMMY:000000  
   pH:
+  - DUMMY:000000
   pH_flag_first:
   - UMLS:C4728155
   - UMLS:C0853585
@@ -9815,6 +9903,7 @@ patient:
   - HP:0002533
   - HP:0010184
   pO2Arterial:
+  - DUMMY:000000
   pO2Arterial_flag_first:
     - UMLS:C2363796
     - UMLS:C2363793
@@ -9824,4 +9913,6 @@ patient:
     - UMLS:C2363793
     - UMLS:C0852728
   ur:
+  - DUMMY:000000
   year:
+  - DUMMY:000000
