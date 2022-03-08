@@ -4,6 +4,41 @@ patient:
     - biolink:EnvironmentalExposure
     enum:
     type: integer
+  AlkalinePhosphatase:
+    categories:
+    - biolink:PhenotypicFeature
+    enum:
+    type: integer
+  AlkalinePhosphatase_flag_first:
+    categories:
+    - biolink:PhenotypicFeature
+    enum:
+    - low
+    - normal
+    - high
+    - abnormal
+    type: string
+    search_term: elevated alkaline phosphatase
+  AlkalinePhosphatase_flag_last:
+    categories:
+    - biolink:PhenotypicFeature
+    enum:
+    - low
+    - normal
+    - high
+    - abnormal
+    type: string
+    search_term: elevated alkaline phosphatase  
+  TesticularCancerDx:
+    categories:
+    - biolink:Disease
+    - biolink:DiseaseOrPhenotypicFeature
+    enum: &id306
+    - '0'
+    - '1'
+    - '>1'
+    type: string
+    search_term: testicular cancer  
   THROUGH_LANES:
     categories:
     - biolink:EnvironmentalExposure
@@ -375,7 +410,7 @@ patient:
     - '>1'
     type: string
     search_term: alopecia
-  Amiodarone_gtt_Rx:
+  Amiodarone_gtt:
     categories:
     - biolink:ChemicalEntity
     - biolink:ChemicalExposure
@@ -1022,7 +1057,7 @@ patient:
     - '>1'
     type: string
     search_term: convalescent plasma
-  CoronaryArteryDiseaseDx:
+  CoronaryArteryDisease:
     categories:
     - biolink:Disease
     - biolink:DiseaseOrPhenotypicFeature
@@ -1396,7 +1431,7 @@ patient:
     - '>1'
     type: string
     search_term: endometriosis
-  Epinephrine_gtt_Rx:
+  Epinephrine_gtt:
     categories:
     - biolink:ChemicalEntity
     - biolink:ChemicalExposure
@@ -1447,7 +1482,7 @@ patient:
     - '>1'
     type: string
     search_term: escitalopram
-  Esmolol_gtt_Rx:
+  Esmolol_gtt:
     categories:
     - biolink:ChemicalEntity
     - biolink:ChemicalExposure
@@ -1980,7 +2015,7 @@ patient:
     - '>1'
     type: string
     search_term: leuprolide
-  Levosimendan_gtt_Rx:
+  Levosimendan_gtt:
     categories:
     - biolink:ChemicalEntity
     - biolink:ChemicalExposure
@@ -2198,7 +2233,7 @@ patient:
     - '>1'
     type: string
     search_term: metformin
-  Milrinone_gtt_Rx:
+  Milrinone_gtt:
     categories:
     - biolink:ChemicalEntity
     - biolink:ChemicalExposure
@@ -2240,7 +2275,7 @@ patient:
     - '1'
     type: string
     search_term: neurological disease
-  NitricOxideOrFolanRx:
+  NitricOxideOrFolan:
     categories:
     - biolink:ChemicalEntity
     - biolink:ChemicalExposure
@@ -2260,7 +2295,7 @@ patient:
     - '>1'
     type: string
     search_term: positive pressure ventilation
-  Norepinephrine_gtt_Rx:
+  Norepinephrine_gtt:
     categories:
     - biolink:ChemicalEntity
     - biolink:ChemicalExposure
@@ -2367,7 +2402,7 @@ patient:
     - '>1'
     type: string
     search_term: paroxetine
-  Phenylephrine_gtt_Rx:
+  Phenylephrine_gtt:
     categories:
     - biolink:ChemicalEntity
     - biolink:ChemicalExposure
