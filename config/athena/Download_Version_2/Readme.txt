@@ -8,3 +8,5 @@ covid_feature_key_terms_v2.csv - this is the file used to pull covid features an
 
 
 download_athena_updated_v2.py can be ran as a cran job using download.sh
+
+Additional comments from Priya: "[My code] first develops the url for each feature using the exact match "term from column B" to download the file from athena. If the url hits an error due to large file, then my code (2nd step) modifies the downloading url to incorporate the domain and vocab terms to download smaller files. (3rd step), if the url with exact search term does not find any entries then my code modifies the downloading url to incorporate the domain and vocab terms."
