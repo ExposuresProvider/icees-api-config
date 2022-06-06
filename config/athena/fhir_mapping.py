@@ -57,7 +57,8 @@ if __name__ == '__main__':
             mapped_codes = [content['code'] for content in r_json['content']]
             code_dict_ary = []
             for code in mapped_codes:
-                code_dict_ary.append({'code': str(code)})
+                if {'code': str(code)} not in code_dict_ary:
+                    code_dict_ary.append({'code': str(code)})
             variable_mapped_dict[key] = {
                 dom: code_dict_ary
             }
