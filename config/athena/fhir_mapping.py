@@ -5,6 +5,14 @@ import warnings
 
 warnings.filterwarnings('ignore', '.*ssl*', )
 
+SYSTEM_MAPPING = {
+    'RxNorm': 'http://www.nlm.nih.gov/research/umls/rxnorm',
+    'LOINC': 'http://loinc.org',
+    'CPT4': 'http://www.ama-assn.org/go/cpt/',
+    'ICD10 Hierarchy': 'http://hl7.org/fhir/sid/icd-10-cm',
+    'ICD9Proc': 'http://hl7.org/fhir/sid/icd-9-cm',
+    'ICD9ProcCN': 'http://hl7.org/fhir/sid/icd-9-cm'
+}
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='Process arguments.')
@@ -43,13 +51,21 @@ if __name__ == '__main__':
                 url = f'{url}&class={term_class}'
             if vocab:
                 for voc in vocab:
-                    url = f'{url}&vocabulary={voc}'
-                    urls_to_doms[url] = dom
+                    voc_url = f'{url}&vocabulary={voc}'
+                    urls_to_doms[voc_url] = dom
             else:
                 urls_to_doms[url] = dom
 
         for url, dom in urls_to_doms.items():
             # encode_url = requests.utils.quote(url)
+            map_key = ''
+            if 'vocabulary=' in url:
+                map_key = url.split('vocabulary=')[1]
+            if not map_key and 'class=' in url:
+                map_key = url.split('class=')[1]
+            if not map_key:
+                print(f'no map key - either vocab or class needs to be provided: {url}')
+                continue
             encode_url = url
             req_url = f'{athena_root_url}{encode_url}'
             r = requests.get(req_url, verify=False)
@@ -57,8 +73,10 @@ if __name__ == '__main__':
             mapped_codes = [content['code'] for content in r_json['content']]
             code_dict_ary = []
             for code in mapped_codes:
-                if {'code': str(code)} not in code_dict_ary:
-                    code_dict_ary.append({'code': str(code)})
+                # if {'code': str(code)} not in code_dict_ary:
+                # print(f'map_key: {map_key}, url: {url}')
+                code_dict_ary.append({'code': str(code),
+                                      'system': SYSTEM_MAPPING[map_key]})
             variable_mapped_dict[key] = {
                 dom: code_dict_ary
             }
