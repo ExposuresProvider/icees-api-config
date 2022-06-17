@@ -488,7 +488,7 @@ patient:
     - biolink:ChemicalExposure
     - biolink:Drug
     - biolink:SmallMolecule
-    enum: &id058
+    enum: 
     - '0'
     - '1'
     - '>1'
@@ -508,7 +508,7 @@ patient:
   CURRENT_AGE:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id066
+    enum: 
     - 0-2
     - 3-17
     - 18-34
@@ -521,7 +521,7 @@ patient:
   CURRENT_AGE2:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id067
+    enum: 
     - <5
     - 5-17
     - 18-44
@@ -534,7 +534,7 @@ patient:
     categories:
     - biolink:Disease
     - biolink:DiseaseOrPhenotypicFeature
-    enum: &id069
+    enum: 
     - '0'
     - '1'
     - '>1'
@@ -547,7 +547,7 @@ patient:
     - biolink:ChemicalExposure
     - biolink:Drug
     - biolink:SmallMolecule
-    enum: &id070
+    enum: 
     - '0'
     - '1'
     - '>1'
@@ -560,7 +560,7 @@ patient:
     - biolink:ChemicalExposure
     - biolink:Drug
     - biolink:SmallMolecule
-    enum: &id077
+    enum: 
     - '0'
     - '1'
     - '>1'
@@ -573,7 +573,7 @@ patient:
     - biolink:ChemicalExposure
     - biolink:Drug
     - biolink:SmallMolecule
-    enum: &id079
+    enum: 
     - '0'
     - '1'
     - '>1'
@@ -584,7 +584,7 @@ patient:
     categories:
     - biolink:Disease
     - biolink:DiseaseOrPhenotypicFeature
-    enum: &id084
+    enum: 
     - '0'
     - '1'
     - '>1'
@@ -595,7 +595,7 @@ patient:
     categories:
     - biolink:Disease
     - biolink:DiseaseOrPhenotypicFeature
-    enum: &id085
+    enum: 
     - '0'
     - '1'
     - '>1'
@@ -605,7 +605,7 @@ patient:
   D28A_ASTHMA_AD_TEXT:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id090
+    enum: 
     - 0-2
     - 3-17
     - 18-34
@@ -618,7 +618,7 @@ patient:
   D28A_ASTHMA_AD_TEXT2:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id091
+    enum: 
     - <5
     - 5-17
     - 18-44
@@ -630,7 +630,7 @@ patient:
   D28B_STILL_HAVE_ASTHMA:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id092
+    enum: 
     - 'True'
     - 'False'
     type: string
@@ -639,7 +639,7 @@ patient:
   D28C_ASTHMA_EPISODE_12M:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id093
+    enum: 
     - 'True'
     - 'False'
     type: string
@@ -648,7 +648,7 @@ patient:
   D28D_ASTHMA_ER_VISIT_12M:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id094
+    enum: 
     - 'True'
     - 'False'
     type: string
@@ -657,7 +657,7 @@ patient:
   D28E_ASTHMA_MED_TAKE_12M:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id095
+    enum: 
     - 'True'
     - 'False'
     type: string
@@ -678,7 +678,7 @@ patient:
   D28_ASTHMA:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id096
+    enum: 
     - 'True'
     - 'False'
     type: string
@@ -708,7 +708,7 @@ patient:
     categories:
     - biolink:Disease
     - biolink:DiseaseOrPhenotypicFeature
-    enum: &id101
+    enum: 
     - '0'
     - '1'
     - '>1'
@@ -719,7 +719,7 @@ patient:
     categories:
     - biolink:Disease
     - biolink:DiseaseOrPhenotypicFeature
-    enum: &id103
+    enum: 
     - '0'
     - '1'
     - '>1'
@@ -732,7 +732,7 @@ patient:
     - biolink:ChemicalExposure
     - biolink:Drug
     - biolink:SmallMolecule
-    enum: &id105
+    enum: 
     - '0'
     - '1'
     - '>1'
@@ -743,7 +743,7 @@ patient:
     categories:
     - biolink:Disease
     - biolink:DiseaseOrPhenotypicFeature
-    enum: &id109
+    enum: 
     - '0'
     - '1'
     - '>1'
@@ -756,7 +756,7 @@ patient:
     - biolink:ChemicalExposure
     - biolink:Drug
     - biolink:SmallMolecule
-    enum: &id110
+    enum: 
     - '0'
     - '1'
     - '>1'
@@ -869,7 +869,7 @@ patient:
   ETHNICITY:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id112
+    enum: 
     - Non-Hispanic/Non-Latino
     - Unknown/NR
     - Hispanic Latino
@@ -880,7 +880,7 @@ patient:
     categories:
     - biolink:Disease
     - biolink:DiseaseOrPhenotypicFeature
-    enum: &id113
+    enum: 
     - '0'
     - '1'
     - '>1'
@@ -893,7 +893,7 @@ patient:
     - biolink:ChemicalExposure
     - biolink:Drug
     - biolink:SmallMolecule
-    enum: &id119
+    enum: 
     - '0'
     - '1'
     - '>1'
@@ -978,7 +978,7 @@ patient:
     - biolink:ChemicalExposure
     - biolink:Drug
     - biolink:SmallMolecule
-    enum: &id122
+    enum: 
     - '0'
     - '1'
     - '>1'
@@ -991,7 +991,7 @@ patient:
     - biolink:ChemicalExposure
     - biolink:Drug
     - biolink:SmallMolecule
-    enum: &id123
+    enum: 
     - '0'
     - '1'
     - '>1'
@@ -1004,7 +1004,7 @@ patient:
     - biolink:ChemicalExposure
     - biolink:Drug
     - biolink:SmallMolecule
-    enum: &id124
+    enum: 
     - '0'
     - '1'
     - '>1'
@@ -1014,7 +1014,7 @@ patient:
   Ethnicity_UNC:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id125
+    enum: 
     - Not Hispanic
     - Unknown
     - Hispanic
@@ -1027,7 +1027,7 @@ patient:
     - biolink:ChemicalExposure
     - biolink:Drug
     - biolink:SmallMolecule
-    enum: &id134
+    enum: 
     - '0'
     - '1'
     - '>1'
@@ -1038,7 +1038,7 @@ patient:
     categories:
     - biolink:Disease
     - biolink:DiseaseOrPhenotypicFeature
-    enum: &id135
+    enum: 
     - '0'
     - '1'
     - '>1'
@@ -1051,7 +1051,7 @@ patient:
     - biolink:ChemicalExposure
     - biolink:Drug
     - biolink:SmallMolecule
-    enum: &id137
+    enum: 
     - '0'
     - '1'
     - '>1'
@@ -1064,7 +1064,7 @@ patient:
     - biolink:ChemicalExposure
     - biolink:Drug
     - biolink:SmallMolecule
-    enum: &id138
+    enum: 
     - '0'
     - '1'
     - '>1'
@@ -1077,7 +1077,7 @@ patient:
     - biolink:ChemicalExposure
     - biolink:Drug
     - biolink:SmallMolecule
-    enum: &id139
+    enum: 
     - '0'
     - '1'
     - '>1'
@@ -1090,7 +1090,7 @@ patient:
     - biolink:ChemicalExposure
     - biolink:Drug
     - biolink:SmallMolecule
-    enum: &id140
+    enum: 
     - '0'
     - '1'
     - '>1'
@@ -1100,7 +1100,7 @@ patient:
   GENDER:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id141
+    enum: 
     - Female
     - Male
     type: string
@@ -1112,7 +1112,7 @@ patient:
     - biolink:ChemicalExposure
     - biolink:Drug
     - biolink:SmallMolecule
-    enum: &id144
+    enum: 
     - '0'
     - '1'
     - '>1'
@@ -1125,7 +1125,7 @@ patient:
     - biolink:ChemicalExposure
     - biolink:Drug
     - biolink:SmallMolecule
-    enum: &id164
+    enum: 
     - '0'
     - '1'
     - '>1'
@@ -1138,7 +1138,7 @@ patient:
     - biolink:ChemicalExposure
     - biolink:Drug
     - biolink:SmallMolecule
-    enum: &id167
+    enum: 
     - '0'
     - '1'
     - '>1'
@@ -1148,7 +1148,7 @@ patient:
   IN_EPR:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id173
+    enum: 
     - '0'
     - '1'
     - '>1'
@@ -1156,14 +1156,14 @@ patient:
   IN_FINAL_SAMPLE:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id174
+    enum: 
     - 'True'
     - 'False'
     type: string
   IN_UNC_Health:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id175
+    enum: 
     - '0'
     - '1'
     type: string
@@ -1173,7 +1173,7 @@ patient:
     - biolink:ChemicalExposure
     - biolink:Drug
     - biolink:SmallMolecule
-    enum: &id179
+    enum: 
     - '0'
     - '1'
     - '>1'
@@ -1186,7 +1186,7 @@ patient:
     - biolink:ChemicalExposure
     - biolink:Drug
     - biolink:SmallMolecule
-    enum: &id183
+    enum: 
     - '0'
     - '1'
     - '>1'
@@ -1197,7 +1197,7 @@ patient:
     categories:
     - biolink:Disease
     - biolink:DiseaseOrPhenotypicFeature
-    enum: &id189
+    enum: 
     - '0'
     - '1'
     - '>1'
@@ -1220,7 +1220,7 @@ patient:
     - biolink:ChemicalExposure
     - biolink:Drug
     - biolink:SmallMolecule
-    enum: &id197
+    enum: 
     - '0'
     - '1'
     - '>1'
@@ -1395,7 +1395,7 @@ patient:
     - biolink:ChemicalExposure
     - biolink:Drug
     - biolink:SmallMolecule
-    enum: &id205
+    enum: 
     - '0'
     - '1'
     - '>1'
@@ -1405,7 +1405,7 @@ patient:
   MenopauseDx:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id206
+    enum: 
     - '0'
     - '1'
     - '>1'
@@ -1418,7 +1418,7 @@ patient:
     - biolink:ChemicalExposure
     - biolink:Drug
     - biolink:SmallMolecule
-    enum: &id207
+    enum: 
     - '0'
     - '1'
     - '>1'
@@ -1431,7 +1431,7 @@ patient:
     - biolink:ChemicalExposure
     - biolink:Drug
     - biolink:SmallMolecule
-    enum: &id208
+    enum: 
     - '0'
     - '1'
     - '>1'
@@ -1444,7 +1444,7 @@ patient:
     - biolink:ChemicalExposure
     - biolink:Drug
     - biolink:SmallMolecule
-    enum: &id209
+    enum: 
     - '0'
     - '1'
     - '>1'
@@ -1457,7 +1457,7 @@ patient:
     - biolink:ChemicalExposure
     - biolink:Drug
     - biolink:SmallMolecule
-    enum: &id212
+    enum: 
     - '0'
     - '1'
     - '>1'
@@ -1470,7 +1470,7 @@ patient:
     - biolink:ChemicalExposure
     - biolink:Drug
     - biolink:SmallMolecule
-    enum: &id214
+    enum: 
     - '0'
     - '1'
     - '>1'
@@ -1500,7 +1500,7 @@ patient:
   ORIGINAL_ANALYTIC_SAMPLE:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id222
+    enum: 
     - 'True'
     - 'False'
     type: string
@@ -1508,7 +1508,7 @@ patient:
     categories:
     - biolink:PhenotypicFeature
     - biolink:DiseaseOrPhenotypicFeature
-    enum: &id223
+    enum: 
     - '0'
     - '1'
     type: string
@@ -1518,7 +1518,7 @@ patient:
     categories:
     - biolink:Disease
     - biolink:DiseaseOrPhenotypicFeature
-    enum: &id224
+    enum: 
     - '0'
     - '1'
     - '>1'
@@ -1531,7 +1531,7 @@ patient:
     - biolink:ChemicalExposure
     - biolink:Drug
     - biolink:SmallMolecule
-    enum: &id225
+    enum: 
     - '0'
     - '1'
     - '>1'
@@ -1542,7 +1542,7 @@ patient:
     categories:
     - biolink:Disease
     - biolink:DiseaseOrPhenotypicFeature
-    enum: &id226
+    enum: 
     - '0'
     - '1'
     - '>1'
@@ -1553,7 +1553,7 @@ patient:
     categories:
     - biolink:Disease
     - biolink:DiseaseOrPhenotypicFeature
-    enum: &id227
+    enum: 
     - '0'
     - '1'
     - '>1'
@@ -1586,7 +1586,7 @@ patient:
     - biolink:ChemicalExposure
     - biolink:Drug
     - biolink:SmallMolecule
-    enum: &id230
+    enum: 
     - '0'
     - '1'
     - '>1'
@@ -1597,7 +1597,7 @@ patient:
     categories:
     - biolink:Disease
     - biolink:DiseaseOrPhenotypicFeature
-    enum: &id236
+    enum: 
     - '0'
     - '1'
     - '>1'
@@ -1610,7 +1610,7 @@ patient:
     - biolink:ChemicalExposure
     - biolink:Drug
     - biolink:SmallMolecule
-    enum: &id237
+    enum: 
     - '0'
     - '1'
     - '>1'
@@ -1623,7 +1623,7 @@ patient:
     - biolink:ChemicalExposure
     - biolink:Drug
     - biolink:SmallMolecule
-    enum: &id238
+    enum: 
     - '0'
     - '1'
     - '>1'
@@ -1633,7 +1633,7 @@ patient:
   PregnancyDx:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id241
+    enum: 
     - '0'
     - '1'
     - '>1'
@@ -1646,7 +1646,7 @@ patient:
     - biolink:ChemicalExposure
     - biolink:Drug
     - biolink:SmallMolecule
-    enum: &id247
+    enum: 
     - '0'
     - '1'
     - '>1'
@@ -1659,7 +1659,7 @@ patient:
     - biolink:ChemicalExposure
     - biolink:Drug
     - biolink:SmallMolecule
-    enum: &id248
+    enum: 
     - '0'
     - '1'
     - '>1'
@@ -1670,7 +1670,7 @@ patient:
     categories:
     - biolink:Disease
     - biolink:DiseaseOrPhenotypicFeature
-    enum: &id249
+    enum: 
     - '0'
     - '1'
     - '>1'
@@ -1680,7 +1680,7 @@ patient:
   QXAGE:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id251
+    enum: 
     - 0-2
     - 3-17
     - 18-34
@@ -1693,7 +1693,7 @@ patient:
   QXAGE2:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id252
+    enum: 
     - <5
     - 5-17
     - 18-44
@@ -1705,7 +1705,7 @@ patient:
   RACE:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id253
+    enum: 
     - White
     - BAA
     - Multiple
@@ -1719,7 +1719,7 @@ patient:
   RESPONDER_STATUS:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id254
+    enum: 
     - Neither
     - Hyper
     - Hypo
@@ -1728,7 +1728,7 @@ patient:
   Race_UNC:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id256
+    enum: 
     - Native Hawaiian/Pacific Islander
     - Caucasian
     - African American
@@ -1743,7 +1743,7 @@ patient:
     categories:
     - biolink:Disease
     - biolink:DiseaseOrPhenotypicFeature
-    enum: &id259
+    enum: 
     - '0'
     - '1'
     - '>1'
@@ -1774,7 +1774,7 @@ patient:
     categories:
     - biolink:PhenotypicFeature
     - biolink:ChemicalExposure
-    enum: &id263
+    enum: 
     - 'True'
     - 'False'
     type: string
@@ -1784,7 +1784,7 @@ patient:
     categories:
     - biolink:PhenotypicFeature
     - biolink:ChemicalExposure
-    enum: &id264
+    enum: 
     - Never
     - Ever
     type: string
@@ -1793,7 +1793,7 @@ patient:
   SNP1:
     categories:
     - biolink:SequenceVariant
-    enum: &id265
+    enum: 
     - A
     - C
     - B
@@ -1801,7 +1801,7 @@ patient:
   SNP2:
     categories:
     - biolink:SequenceVariant
-    enum: &id266
+    enum: 
     - Z
     - X
     - Y
@@ -1809,7 +1809,7 @@ patient:
   SNP3:
     categories:
     - biolink:SequenceVariant
-    enum: &id267
+    enum: 
     - E
     - F
     - D
@@ -1817,7 +1817,7 @@ patient:
   SNP4:
     categories:
     - biolink:SequenceVariant
-    enum: &id268
+    enum: 
     - N
     - L
     - M
@@ -1828,7 +1828,7 @@ patient:
     - biolink:ChemicalExposure
     - biolink:Drug
     - biolink:SmallMolecule
-    enum: &id269
+    enum: 
     - '0'
     - '1'
     - '>1'
@@ -1841,7 +1841,7 @@ patient:
     - biolink:ChemicalExposure
     - biolink:Drug
     - biolink:SmallMolecule
-    enum: &id270
+    enum: 
     - '0'
     - '1'
     - '>1'
@@ -1851,7 +1851,7 @@ patient:
   Sex:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id292
+    enum: 
     - Male
     - Female
     - Unknown
@@ -1862,7 +1862,7 @@ patient:
   Sex2:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id293
+    enum: 
     - Male
     - Female
     type: string
@@ -1871,7 +1871,7 @@ patient:
   TLR4_AGE:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id303
+    enum: 
     - 0-2
     - 3-17
     - 18-34
@@ -1884,7 +1884,7 @@ patient:
   TLR4_AGE2:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id304
+    enum: 
     - <5
     - 5-17
     - 18-44
@@ -1958,7 +1958,7 @@ patient:
     - biolink:ChemicalExposure
     - biolink:Drug
     - biolink:SmallMolecule
-    enum: &id305
+    enum: 
     - '0'
     - '1'
     - '>1'
@@ -1969,7 +1969,7 @@ patient:
     categories:
     - biolink:Disease
     - biolink:DiseaseOrPhenotypicFeature
-    enum: &id306
+    enum: 
     - '0'
     - '1'
     - '>1'
@@ -1980,7 +1980,7 @@ patient:
     categories:
     - biolink:Disease
     - biolink:DiseaseOrPhenotypicFeature
-    enum: &id307
+    enum: 
     - '0'
     - '1'
     - '>1'
@@ -1993,7 +1993,7 @@ patient:
     - biolink:ChemicalExposure
     - biolink:Drug
     - biolink:SmallMolecule
-    enum: &id308
+    enum: 
     - '0'
     - '1'
     - '>1'
@@ -2006,7 +2006,7 @@ patient:
     - biolink:ChemicalExposure
     - biolink:Drug
     - biolink:SmallMolecule
-    enum: &id309
+    enum: 
     - '0'
     - '1'
     - '>1'
@@ -2016,7 +2016,7 @@ patient:
   TotalEDInpatientVisits:
     categories:
     - biolink:ClinicalIntervention
-    enum: &id001
+    enum: 
     - '0'
     - '1'
     - '2'
@@ -2051,7 +2051,7 @@ patient:
     - biolink:ChemicalExposure
     - biolink:Drug
     - biolink:SmallMolecule
-    enum: &id312
+    enum: 
     - '0'
     - '1'
     - '>1'
@@ -2064,7 +2064,7 @@ patient:
     - biolink:ChemicalExposure
     - biolink:Drug
     - biolink:SmallMolecule
-    enum: &id313
+    enum: 
     - '0'
     - '1'
     - '>1'
@@ -2075,7 +2075,7 @@ patient:
     categories:
     - biolink:Disease
     - biolink:DiseaseOrPhenotypicFeature
-    enum: &id318
+    enum: 
     - '0'
     - '1'
     - '>1'
@@ -2088,7 +2088,7 @@ patient:
     - biolink:ChemicalExposure
     - biolink:Drug
     - biolink:SmallMolecule
-    enum: &id320
+    enum: 
     - '0'
     - '1'
     - '>1'
@@ -2138,7 +2138,7 @@ patient:
   ur:
     categories:
     - biolink:EnvironmentalExposure
-    enum: &id1849
+    enum: 
     - R
     - U
     type: string
