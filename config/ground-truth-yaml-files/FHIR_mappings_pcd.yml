@@ -6,15 +6,15 @@ patient:
   HeartFailureDiseaseDx:
     search_term: "congestive heart failure diagnosis"
     domain: Condition
-    class: ICD Hierarchy
+    class: ICD10 Hierarchy
   HypertensionDx:
     search_term: "hypertension"
     domain: Condition
-    class: ICD Hierarchy  
+    class: ICD10 Hierarchy  
   PCDDx:
     search_term: "primary ciliary dyskinesia"
     domain: Condition
-    class: ICD Hierarchy
+    class: ICD10 Hierarchy
   PrednisoneRx:
     search_term: "prednisone"
     domain: Drug
@@ -655,7 +655,7 @@ patient:
   ObesityDx:
     search_term: "obesity"
     domain: Condition
-    class: ICD Hierarchyhttps://github.com/ExposuresProvider/icees-api-config/compare/master...karafecho-patch-1?quick_pull=1
+    class: ICD10 Hierarchy
   OmalizumabRx:
     search_term: "omalizumab"
     domain: Drug
