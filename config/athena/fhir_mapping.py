@@ -34,16 +34,26 @@ if __name__ == '__main__':
     for key, value in features_dict.items():
         # key is FHIR, value is a dict under FHIR
         for inner_key, inner_val in value.items():
-            if inner_val:
+            if inner_val and 'domain' in inner_val and inner_val['domain']:
                 variable_dict[inner_key] = inner_val
 
     athena_root_url = 'https://athena.ohdsi.org/api/v1/concepts?pageSize=15&page=1'
     athena_api_url_appendx = '&domain={dom}&query={qry}'
     variable_mapped_dict = {}
     for key, value in variable_dict.items():
+        domain = list(map(lambda x: x.strip(), value['domain'].split(',')))
+        if 'Patient' in domain and 'system' in value:
+            variable_mapped_dict[key] = {
+                'Patient': {
+                    'code': '',
+                    'system': value['system']
+                }
+            }
+            continue
+
         search_term = value['search_term']
         term_class = value['class'] if 'class' in value else ''
-        domain = list(map(lambda x: x.strip(), value['domain'].split(','))) if 'domain' in value else []
+
         vocab = list(map(lambda x: x.strip(), value['vocab'].split(','))) if 'vocab' in value else []
         urls_to_doms = {}
         for dom in domain:
