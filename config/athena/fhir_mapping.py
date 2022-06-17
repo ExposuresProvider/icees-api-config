@@ -34,7 +34,8 @@ if __name__ == '__main__':
     for key, value in features_dict.items():
         # key is FHIR, value is a dict under FHIR
         for inner_key, inner_val in value.items():
-            variable_dict[inner_key] = inner_val
+            if inner_val:
+                variable_dict[inner_key] = inner_val
 
     athena_root_url = 'https://athena.ohdsi.org/api/v1/concepts?pageSize=15&page=1'
     athena_api_url_appendx = '&domain={dom}&query={qry}'
