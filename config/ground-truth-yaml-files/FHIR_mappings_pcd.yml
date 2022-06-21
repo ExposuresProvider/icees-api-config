@@ -1,0 +1,864 @@
+patient:
+  Fever:
+    search_term: "fever"
+    domain: Condition
+    class: ICD10 Hierarchy
+  HeartFailureDiseaseDx:
+    search_term: "congestive heart failure diagnosis"
+    domain: Condition
+    class: ICD10 Hierarchy
+  HypertensionDx:
+    search_term: "hypertension"
+    domain: Condition
+    class: ICD10 Hierarchy  
+  PCDDx:
+    search_term: "primary ciliary dyskinesia"
+    domain: Condition
+    class: ICD10 Hierarchy
+  PrednisoneRx:
+    search_term: "prednisone"
+    domain: Drug
+    vocab: RxNorm
+    class: Ingredient
+  MethylprednisoneRx:
+    search_term: "methylprednisone"
+    domain: Drug
+    vocab: RxNorm
+    class: Ingredient
+  TocilizumabRx:
+    search_term: "tocilizumab"
+    domain: Drug
+    vocab: RxNorm
+    class: Ingredient
+  AntibioticsRx:
+    search_term: "antibiotic"
+    domain: Drug
+    vocab: RxNorm
+    class:
+  ChronicKidneyDiseaseDx:
+    search_term: chronic kidney disease diagnosis
+    domain: Condition
+    class: ICD10 Hierarchy
+  ChronicNasalCongestionDx:
+    search_term: "chronic nasal congestion"
+    domain: Condition
+    class: ICD10 Hierarchy
+  ChronicObstructivePulmonaryDiseaseDx:
+    search_term: "chronic obstructive pulmonary disease"
+    domain: Condition
+    class: ICD10 Hierarchy
+  DailyWetCoughDx:
+    search_term: "productive cough"
+    domain: Condition
+    class: ICD10 Hierarchy
+  DexamethasoneRx:
+    search_term: "dexamethasone"
+    domain: Drug
+    vocab: RxNorm
+  CLARK_prediction:
+    search_term:
+    domain:
+    class:
+  CLARK_prediction_NotPCD:
+    search_term:
+    domain:
+    class:
+  CLARK_prediction_PCD:
+    search_term:
+    domain:
+    class:
+  Confirmed_CF_Dx:
+    search_term:
+    domain:
+    class:
+  Confirmed_IdiopathicBronchiectasisDx:
+    search_term:
+    domain:
+    class:
+  Confirmed_PCD_Dx:
+    search_term:
+    domain:
+    class:
+  SputumCulture:
+    search_term: "sputum culture"
+    domain: Measurement, Observation
+    vocab: LOINC
+  PulseOximetry:
+    search_term: "pulse oximetry"
+    domain: Measurement, Observation
+    vocab: LOINC
+  PulseOximetry_flag_first:
+    search_term: "pulse oximetry"
+    domain: Measurement, Observation
+    vocab: LOINC
+  PulseOximetry_flag_last:
+    search_term: "pulse oximetry"
+    domain: Measurement, Observation
+    vocab: LOINC
+  Albumin:
+    search_term: "albumin"
+    domain: Measurement, Observation
+    vocab: LOINC
+  Albumin_flag_first:
+    search_term: "albumin"
+    domain: Measurement, Observation
+    vocab: LOINC
+  Albumin_flag_last:
+    search_term: "albumin"
+    domain: Measurement, Observation
+    vocab: LOINC
+  AlkalinePhosphatase:
+    search_term: "alkaline phosphatase"
+    domain: Measurement, Observation
+    vocab: LOINC
+  AlkalinePhosphatase_flag_first:
+    search_term: "alkaline phosphatase"
+    domain: Measurement, Observation
+    vocab: LOINC
+  AlkalinePhosphatase_flag_last:
+    search_term: "alkaline phosphatase"
+    domain: Measurement, Observation
+    vocab: LOINC
+  Bilirubin:
+    search_term: "bilirubin"
+    domain: Measurement, Observation
+    vocab: LOINC
+  Bilirubin_flag_first:
+    search_term: "bilirubin"
+    domain: Measurement, Observation
+    vocab: LOINC
+  Bilirubin_flag_last:
+    search_term: "bilirubin"
+    domain: Measurement, Observation
+    vocab: LOINC
+  IgE:
+    search_term: "immunoglobulin E"
+    domain: Measurement, Observation
+    vocab: LOINC
+  IgE_flag_first:
+    search_term: "immunoglobulin E"
+    domain: Measurement, Observation
+    vocab: LOINC
+  IgE_flag_last:
+    search_term: "immunoglobulin E"
+    domain: Measurement, Observation
+    vocab: LOINC
+  GlucoseToleranceTest:
+    search_term: "glucose tolerance test"
+    domain: Measurement, Observation
+    vocab: LOINC
+  GlucoseToleranceTest_flag_first:
+    search_term: "glucose tolerance test"
+    domain: Measurement, Observation
+    vocab: LOINC
+  GlucoseToleranceTest_flag_last:
+    search_term: "glucose tolerance test"
+    domain: Measurement, Observation
+    vocab: LOINC
+  Hemoglobin:
+    categories:
+    - biolink:PhenotypicFeature
+    enum: 
+    type: integer
+  Hemoglobin_flag_first:
+    search_term: "hemoglobin"
+    domain: Measurement, Observation
+    vocab: LOINC
+  Hemoglobin_flag_last:
+    search_term: "hemoglobin"
+    domain: Measurement, Observation
+    vocab: LOINC
+    limit: 1
+  A1C:
+    search_term: "HbA1C"
+    domain: Measurement, Observation
+    vocab: LOINC
+  A1C_flag_first:
+    search_term: "HbA1C"
+    domain: Measurement, Observation
+    vocab: LOINC
+  A1C_flag_last:
+    search_term: "HbA1C"
+    domain: Measurement, Observation
+    vocab: LOINC
+  CysticFibrosisDx:
+    search_term: "cystic fibrosis"
+    domain: Condition
+    class: ICD10 Hierarchy
+  FailureToThriveDx:
+    search_term: "failure to thrive"
+    domain: Condition
+    class: ICD10 Hierarchy
+  BronchiectasisDx:
+    search_term: "bronchiectasis"
+    domain: Condition
+    class: ICD10 Hierarchy
+  ChronicSinusitisDx:
+    search_term: "chronic sinusitis"
+    domain: Condition
+    class: ICD10 Hierarchy
+  MiddleEarDiseaseDx:
+    search_term: "middle ear disease"
+    domain: Condition
+    class: ICD10 Hierarchy
+  ProductiveCoughDx:
+    search_term: "productive cough"
+    domain: Condition
+    class: ICD10 Hierarchy
+  NeonatalRespiratoryDistressDx:
+    search_term: "neonatal respiratory distress"
+    domain: Condition
+    class: ICD10 Hierarchy
+  SitusInversusDx:
+    search_term: "situs inversus"
+    domain: Condition
+    class: ICD10 Hierarchy
+  HeterotaxyDx:
+    search_term: "heterotaxy"
+    domain: Condition
+    class: ICD10 Hierarchy
+  MaleInfertilityDx:
+    search_term: "male infertility"
+    domain: Condition
+    class: ICD10 Hierarchy
+  LungTransplant:
+    search_term: "lung transplant"
+    domain: Procedure
+    vocab: CPT4, ICD9Proc, ICD9ProcCN
+  NitricOxideRx:
+    search_term: "nitric oxide"
+    domain: Drug
+    vocab: RxNorm
+    class: Ingredient
+  TrikaftaRx:
+    search_term: "trikafta"
+    domain: Drug
+    vocab: RxNorm
+    class: Branded Pack, Branded Drug
+  OrkambiRx:
+    search_term: "orkambi"
+    domain: Drug
+    vocab: RxNorm
+    class: Branded Pack, Branded Drug 
+  IvacaftorRx:
+    search_term: "ivacaftor"
+    domain: Drug
+    vocab: RxNorm
+    class: Ingredient 
+  AntihistamineRx:
+    search_term: "antihistamine"
+    domain: Drug
+    vocab: RxNorm
+    class: Ingredient
+  TobramycinRx:
+    search_term: "tobramycin"
+    domain: Drug
+    vocab: RxNorm
+    class: Ingredient
+  AztreonamRx:
+    search_term: "aztreonam"
+    domain: Drug
+    vocab: RxNorm
+    class: Ingredient 
+  AzythromycinRx:
+    search_term: "azythromycin"
+    domain: Drug
+    vocab: RxNorm
+    class: Ingredient 
+  ClarithromycinRx:
+    search_term: "clarithromycin"
+    domain: Drug
+    vocab: RxNorm
+    class: Ingredient 
+  VitaminA_Rx:
+    search_term: "vitamin A"
+    domain: Drug
+    vocab: RxNorm
+    class: Ingredient 
+  VitaminB_Rx:
+    search_term: "vitamin B"
+    domain: Drug
+    vocab: RxNorm
+    class: Ingredient 
+  VitaminK_Rx:
+    search_term: "vitamin K"
+    domain: Drug
+    vocab: RxNorm
+    class: Ingredient 
+  PulmozymeRx:
+    search_term: "dornase alfa"
+    domain: Drug
+    vocab: RxNorm
+    class: Ingredient
+  ALT:
+    search_term: "alanine aminotransferase"
+    domain: Measurement, Observation
+    vocab: LOINC 
+  ALT_flag_first:
+    search_term: "alanine aminotransferase"
+    domain: Measurement, Observation
+    vocab: LOINC 
+  ALT_flag_last:
+    search_term: "alanine aminotransferase"
+    domain: Measurement, Observation
+    vocab: LOINC 
+  AST:
+    search_term: "aspartate transaminase"
+    domain: Measurement, Observation
+    vocab: LOINC 
+  AST_flag_first:
+    search_term: "aspartate transaminase"
+    domain: Measurement, Observation
+    vocab: LOINC
+  AST_flag_last:
+    search_term: "aspartate transaminase"
+    domain: Measurement, Observation
+    vocab: LOINC  
+  AADT:
+  THROUGH_LANES:
+  SPEED:
+  ROADTYPE:
+  RoadwayAADT:
+  RoadwayLanes:
+  RoadwaySpeedLimit:
+  RoadwayType:
+  year:
+  Active_In_Year:
+  AgeStudyStart:
+    system: http://loinc.org
+    code: 21112-8
+    search_term: 
+    domain: Patient
+    class: 
+  AgeStudyStart2:
+    system: http://loinc.org
+    code: 21112-8
+    search_term: 
+    domain: Patient
+    class: 
+  AlbuterolRx:
+    search_term: "albuterol"
+    domain: Drug
+    vocab: RxNorm
+    class: Ingredient
+  AlcoholDependenceDx:
+    search_term: "alcohol dependence"
+    domain: Condition
+    class: ICD10 Hierarchy
+  AlopeciaDx:
+    search_term: "alcohol dependence"
+    domain: Condition
+    class: ICD10 Hierarchy
+  AndrostenedioneRx:
+    search_term: "androstenedione"
+    domain: Drug
+    vocab: RxNorm
+    class: Ingredient
+  AnxietyDx:
+    search_term: "anxiety"
+    domain: Condition
+    class: ICD10 Hierarchy
+  ArformoterolRx:
+    search_term: "androstenedione"
+    domain: Drug
+    vocab: RxNorm
+    class: Ingredient
+  AsthmaDx:
+    search_term: "asthma"
+    domain: Condition
+    class: ICD10 Hierarchy
+  AutismDx:
+    search_term: "autism"
+    domain: Condition
+    class: ICD10 Hierarchy
+  Avg24hAcetaldehydeExposure_2:
+  AvgDailyAcetaldehydeExposure_2:
+  AvgDailyAcetaldehydeExposure_2_qcut:
+  AvgDailyBenzeneExposure_2:
+  AvgDailyBenzeneExposure_2_qcut:
+  AvgDailyCOExposure_2:
+  AvgDailyCOExposure_2_qcut:
+  AvgDailyFormaldehydeExposure_2:
+  AvgDailyFormaldehydeExposure_2_qcut:
+  AvgDailyNO2Exposure_2:
+  AvgDailyNO2Exposure_2_qcut:
+  AvgDailyNOExposure_2:
+  AvgDailyNOExposure_2_qcut:
+  AvgDailyNOxExposure_2:
+  AvgDailyNOxExposure_2_qcut:
+  AvgDailyOzoneExposure:
+  AvgDailyOzoneExposure_StudyAvg:
+  AvgDailyOzoneExposure_StudyAvg_qcut:
+  AvgDailyOzoneExposure_StudyMax:
+  AvgDailyOzoneExposure_StudyMax_qcut:
+  AvgDailyOzoneExposure_qcut:
+  AvgDailyPM2.5Exposure:
+  AvgDailyPM2.5Exposure_2:
+  AvgDailyPM2.5Exposure_2_qcut:
+  AvgDailyPM2.5Exposure_StudyAvg:
+  AvgDailyPM2.5Exposure_StudyAvg_qcut:
+  AvgDailyPM2.5Exposure_StudyMax:
+  AvgDailyPM2.5Exposure_StudyMax_qcut:
+  AvgDailyPM2.5Exposure_qcut:
+  AvgDailySO2Exposure_2:
+  AvgDailySO2Exposure_2_qcut:
+  BMI_CATEGORY:
+  BeclomethasoneRx:
+    search_term: "beclomethasone"
+    domain: Drug
+    vocab: RxNorm
+    class: Ingredient
+  BudesonideRx:
+    search_term: "budesonide"
+    domain: Drug
+    vocab: RxNorm
+    class: Ingredient
+  CAFO_Exposure:
+  CURRENT_AGE:
+  CURRENT_AGE2:
+  CervicalCancerDx:
+    search_term: "cervical cancer"
+    domain: Condition
+    class: ICD10 Hierarchy
+  CetirizineRx:
+    search_term: "cetirizine"
+    domain: Drug
+    vocab: RxNorm
+    class: Ingredient
+  CiclesonideRx:
+    search_term: "ciclesonide"
+    domain: Drug
+    vocab: RxNorm
+    class: Ingredient
+  CitalopramRx:
+    search_term: "citalopram"
+    domain: Drug
+    vocab: RxNorm
+    class: Ingredient
+  CoughDx:
+    search_term: "cough"
+    domain: Condition
+    class: ICD10 Hierarchy
+  CroupDx:
+    search_term: "croup"
+    domain: Condition
+    class: ICD10 Hierarchy
+  D28A_ASTHMA_AD_TEXT:
+  D28A_ASTHMA_AD_TEXT2:
+  D28B_STILL_HAVE_ASTHMA:
+  D28C_ASTHMA_EPISODE_12M:
+  D28D_ASTHMA_ER_VISIT_12M:
+  D28E_ASTHMA_MED_TAKE_12M:
+  D28F_ASTHMA_14D_NUM_NIGHTS_TEXT:
+  D28G_ASTHMA_14D_LIMIT_DAYS_TEXT:
+  D28H_ASTHMA_14D_NUM_WHEEZE_TEXT:
+  D28_ASTHMA:
+  DISTANCE:
+  DISTANCE2:
+  DepressionDx:
+    search_term: "depression"
+    domain: Condition
+    class: ICD10 Hierarchy
+  DiabetesDx:
+    search_term: "diabetes"
+    domain: Condition
+    class: ICD10 Hierarchy
+  DiphenhydramineRx:
+    search_term: "diphenhydramine"
+    domain: Drug
+    vocab: RxNorm
+    class: Ingredient
+  DrugDependenceDx:
+    search_term: "drug dependence"
+    domain: Condition
+    class: ICD10 Hierarchy
+  DuloxetineRx:
+    search_term: "duloxetine"
+    domain: Drug
+    vocab: RxNorm
+    class: Ingredient
+  ESTPROPHOUSEHOLDSNOAUTO_cut:
+  ESTPROPHOUSEHOLDSNOAUTO_qcut:
+  ESTPROPPERSONS25PLUSHSMAX_cut:
+  ESTPROPPERSONS25PLUSHSMAX_qcut:
+  ESTPROPPERSONS5PLUSNOENGLISH_cut:
+  ESTPROPPERSONS5PLUSNOENGLISH_qcut:
+  ESTPROPPERSONSNOHEALTHINS_cut:
+  ESTPROPPERSONSNOHEALTHINS_qcut:
+  ESTPROPPERSONSNONHISPWHITE_cut:
+  ESTPROPPERSONSNONHISPWHITE_qcut:
+  ESTTOTALPOP:
+  ESTTOTALPOP25PLUS_cut:
+  ESTTOTALPOP25PLUS_qcut:
+  ETHNICITY:
+  EndometriosisDx:
+    search_term: "endometriosis"
+    domain: Condition
+    class: ICD10 Hierarchy
+  EscitalopramRx:
+    search_term: "escitalopram"
+    domain: Drug
+    vocab: RxNorm
+    class: Ingredient
+  EstHouseholdIncome:
+  EstProbabilityESL:
+  EstProbabilityHighSchoolMaxEducation:
+  EstProbabilityHouseholdNonHispWhite:
+  EstProbabilityNoAuto:
+  EstProbabilityNoHealthIns:
+  EstProbabilityNonHispWhite:
+  EstResidentialDensity:
+  EstResidentialDensity25Plus:
+  EstradiolRx:
+    search_term: "estradiol"
+    domain: Drug
+    vocab: RxNorm
+    class: Ingredient
+  EstrogenRx:
+    search_term: "estrogen"
+    domain: Drug
+    vocab: RxNorm
+    class: Ingredient
+  EstropipateRx:
+    search_term: "estropipate"
+    domain: Drug
+    vocab: RxNorm
+    class: Ingredient
+  Ethnicity_UNC:
+    system: http://terminology.hl7.org/ValueSet/v3-Ethnicity
+    code: 2135-2
+    system: http://terminology.hl7.org/ValueSet/v3-Ethnicity
+    code: 2186-5
+    search_term: 
+    domain: Patient
+    class: 
+  FexofenadineRx:
+    search_term: "fexofenadine"
+    domain: Drug
+    vocab: RxNorm
+    class: Ingredient
+  FibromyalgiaDx:
+    search_term: "fibromyalgia"
+    domain: Condition
+    class: ICD10 Hierarchy
+  FlunisolideRx:
+    search_term: "flunisolide"
+    domain: Drug
+    vocab: RxNorm
+    class: Ingredient
+  FluoxetineRx:
+    search_term: "fluoxetine"
+    domain: Drug
+    vocab: RxNorm
+    class: Ingredient
+  FluticasoneRx:
+    search_term: "fluticasone"
+    domain: Drug
+    vocab: RxNorm
+    class: Ingredient
+  FormoterolRx:
+    search_term: "formoterol"
+    domain: Drug
+    vocab: RxNorm
+    class: Ingredient
+  GENDER:
+  GoserelinRx:
+    search_term: "goserelin"
+    domain: Drug
+    vocab: RxNorm
+    class: Ingredient
+  HistrelinRx:
+    search_term: "histreline"
+    domain: Drug
+    vocab: RxNorm
+    class: Ingredient
+  HydroxyzineRx:
+    search_term: "hydroxyzine"
+    domain: Drug
+    vocab: RxNorm
+    class: Ingredient
+  IN_EPR:
+  IN_FINAL_SAMPLE:
+  IN_UNC_Health:
+  IndacaterolRx:
+    search_term: "indacaterol"
+    domain: Drug
+    vocab: RxNorm
+    class: Ingredient
+  IpratropiumRx:
+    search_term: "ipratropium"
+    domain: Drug
+    vocab: RxNorm
+    class: Ingredient
+  KidneyCancerDx:
+    search_term: "kidney cancer"
+    domain: Condition
+    class: ICD10 Hierarchy
+  Landfill_Exposure:
+  LeuprolideRx:
+    search_term: "leuprolide"
+    domain: Drug
+    vocab: RxNorm
+    class: Ingredient
+  MEDIANHOUSEHOLDINCOME_cut:
+  MEDIANHOUSEHOLDINCOME_qcut:
+  MajorRoadwayHighwayExposure:
+  MajorRoadwayHighwayExposure2:
+  MaxDailyOzoneExposure:
+  MaxDailyOzoneExposure_2:
+  MaxDailyOzoneExposure_2_qcut:
+  MaxDailyOzoneExposure_StudyAvg:
+  MaxDailyOzoneExposure_StudyAvg_qcut:
+  MaxDailyOzoneExposure_StudyMax:
+  MaxDailyOzoneExposure_StudyMax_qcut:
+  MaxDailyOzoneExposure_qcut:
+  MaxDailyPM2.5Exposure:
+  MaxDailyPM2.5Exposure_StudyAvg:
+  MaxDailyPM2.5Exposure_StudyAvg_qcut:
+  MaxDailyPM2.5Exposure_StudyMax:
+  MaxDailyPM2.5Exposure_StudyMax_qcut:
+  MaxDailyPM2.5Exposure_qcut:
+  MedroxyprogesteroneRx:
+    search_term: "medroxyprogesterone"
+    domain: Drug
+    vocab: RxNorm
+    class: Ingredient
+  MenopauseDx:
+    search_term: "menopause"
+    domain: Condition
+    class: ICD10 Hierarchy
+  MepolizumabRx:
+    search_term: "mepolizumab"
+    domain: Drug
+    vocab: RxNorm
+    class: Ingredient
+  MetaproterenolRx:
+    search_term: "metaproterenol"
+    domain: Drug
+    vocab: RxNorm
+    class: Ingredient
+  MetforminRx:
+    search_term: "metformin"
+    domain: Drug
+    vocab: RxNorm
+    class: Ingredient
+  MometasoneRx:
+    search_term: "mometasone"
+    domain: Drug
+    vocab: RxNorm
+    class: Ingredient
+  NandroloneRx:
+    search_term: "nandrolone"
+    domain: Drug
+    vocab: RxNorm
+    class: Ingredient
+  O3_ANNUAL_AVERAGE_cut:
+  O3_ANNUAL_AVERAGE_qcut:
+  O3_N_OBS:
+  ORIGINAL_ANALYTIC_SAMPLE:
+  ObesityBMI:
+  ObesityDx:
+    search_term: "obesity"
+    domain: Condition
+    class: ICD10 Hierarchy
+  OmalizumabRx:
+    search_term: "omalizumab"
+    domain: Drug
+    vocab: RxNorm
+    class: Ingredient
+  OvarianCancerDx:
+    search_term: "ovarian cancer"
+    domain: Condition
+    class: ICD10 Hierarchy
+  OvarianDysfunctionDx:
+    search_term: "ovarian dysfunction"
+    domain: Condition
+    class: ICD10 Hierarchy
+  PM25_ANNUAL_AVERAGE_cut:
+  PM25_ANNUAL_AVERAGE_qcut:
+  PM25_N_OBS:
+  ParoxetineRx:
+    search_term: "paroxetine"
+    domain: Drug
+    vocab: RxNorm
+    class: Ingredient
+  PneumoniaDx:
+    search_term: "pneumonia"
+    domain: Condition
+    class: ICD10 Hierarchy
+  PrasteroneRx:
+    search_term: "prasterone"
+    domain: Drug
+    vocab: RxNorm
+    class: Ingredient
+  PrednisoneRx:
+    search_term: "prednisone"
+    domain: Drug
+    vocab: RxNorm
+    class: Ingredient
+  PregnancyDx:
+    search_term: "pregnancy"
+    domain: Condition
+    class: ICD10 Hierarchy
+  ProgesteroneRx:
+    search_term: "progesterone"
+    domain: Drug
+    vocab: RxNorm
+    class: Ingredient
+  PropranololRx:
+    search_term: "propranolol"
+    domain: Drug
+    vocab: RxNorm
+    class: Ingredient
+  ProstateCancerDx:
+    search_term: "prostate cancer"
+    domain: Condition
+    class: ICD10 Hierarchy
+  QXAGE:
+  QXAGE2:
+  RACE:
+  RESPONDER_STATUS:
+  Race_UNC:
+    system: http://terminology.hl7.org/ValueSet/v3-Race
+    code: 2131-1
+    system: http://terminology.hl7.org/ValueSet/v3-Race
+    code: 1002-5
+    system: http://terminology.hl7.org/ValueSet/v3-Race
+    code: 2076-8
+    system: http://terminology.hl7.org/ValueSet/v3-Race
+    code: 2106-3
+    system: http://terminology.hl7.org/ValueSet/v3-Race
+    code: 2054-5
+    system: http://terminology.hl7.org/ValueSet/v3-Race
+    code: 2028-9
+    search_term: 
+    domain: Patient
+    class: 
+  ReactiveAirwayDx:
+    search_term: "reactive airway disease"
+    domain: Condition
+    class: ICD10 Hierarchy
+  RoadwayDistanceExposure:
+  RoadwayDistanceExposure2:
+  S177_SMOKE_100_CIG_LIFETIME:
+  SMOKE_CAT:
+  SNP1:
+  SNP2:
+  SNP3:
+  SNP4:
+  SalmeterolRx:
+    search_term: "salmeterol"
+    domain: Drug
+    vocab: RxNorm
+    class: Ingredient
+  SertralineRx:
+    search_term: "sertraline"
+    domain: Drug
+    vocab: RxNorm
+    class: Ingredient
+  Sex:
+    system: http://loinc.org
+    code: LP189793-5
+    system: http://loinc.org
+    code: 76689-9
+    search_term: 
+    domain: Patient
+    class: 
+  Sex2:
+    system: http://loinc.org
+    code: LP189793-5
+    system: http://loinc.org
+    code: 76689-9
+    search_term: 
+    domain: Patient
+    class: 
+  TLR4_AGE:
+  TLR4_AGE2:
+  TLR4_DIST_1X_cut:
+  TLR4_DIST_1X_qcut:
+  TLR4_DIST_2X_cut:
+  TLR4_DIST_2X_qcut:
+  TLR4_DIST_3X_cut:
+  TLR4_DIST_3X_qcut:
+  TamoxifenRx:
+    search_term: "tamoxifen"
+    domain: Drug
+    vocab: RxNorm
+    class: Ingredient
+  TesticularCancerDx:
+    search_term: "testicular cancer"
+    domain: Condition
+    class: ICD10 Hierarchy
+  TesticularDysfunctionDx:
+    search_term: "testicular dysfunction"
+    domain: Condition
+    class: ICD10 Hierarchy
+  TestosteroneRx:
+    search_term: "testosterone"
+    domain: Drug
+    vocab: RxNorm
+    class: Ingredient
+  TheophyllineRx:
+    search_term: "theophylline"
+    domain: Drug
+    vocab: RxNorm
+    class: Ingredient
+  TotalEDInpatientVisits:
+  TotalEDVisits:
+  TotalInpatientVisits:
+  TrazodoneRx:
+    search_term: "trazodone"
+    domain: Drug
+    vocab: RxNorm
+    class: Ingredient
+  TriptorelinRx:
+    search_term: "triptorelin"
+    domain: Drug
+    vocab: RxNorm
+    class: Ingredient
+  UterineCancerDx:
+    search_term: "uterine cancer"
+    domain: Condition
+    class: ICD10 Hierarchy
+  VenlafaxineRx:
+    search_term: "triptorelin"
+    domain: Drug
+    vocab: RxNorm
+    class: Ingredient
+  FEV1:
+    search_term: "forced expiratory volume"
+    domain: Measurement, Observation
+    vocab: LOINC 
+  FEV1_flag_first:
+    search_term: "forced expiratory volume"
+    domain: Measurement, Observation
+    vocab: LOINC 
+  FEV1_flag_last:
+    search_term: "forced expiratory volume"
+    domain: Measurement, Observation
+    vocab: LOINC 
+  FVC:
+    search_term: "forced vital capacity"
+    domain: Measurement, Observation
+    vocab: LOINC 
+  FVC_flag_first:
+    search_term: "forced vital capacity"
+    domain: Measurement, Observation
+    vocab: LOINC 
+  FVC_flag_last:
+    search_term: "forced vital capacity"
+    domain: Measurement, Observation
+    vocab: LOINC 
+  FEV1FVC:
+    search_term: "FEV1/FVC"
+    domain: Measurement, Observation
+    vocab: LOINC 
+  FEV1FVC_flag_first:
+    search_term: "FEV1/FVC"
+    domain: Measurement, Observation
+    vocab: LOINC 
+  FEV1FVC_flag_last:
+    search_term: "FEV1/FVC"
+    domain: Measurement, Observation
+    vocab: LOINC 
+  ur:
