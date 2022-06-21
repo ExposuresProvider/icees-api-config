@@ -42,10 +42,10 @@ if __name__ == '__main__':
     variable_mapped_dict = {}
     for key, value in variable_dict.items():
         domain = list(map(lambda x: x.strip(), value['domain'].split(',')))
-        if 'Patient' in domain and 'system' in value:
+        if 'system' in value and 'code' in value:
             variable_mapped_dict[key] = {
                 'Patient': {
-                    'code': '',
+                    'code': value['code'],
                     'system': value['system']
                 }
             }
