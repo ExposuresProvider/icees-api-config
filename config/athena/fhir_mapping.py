@@ -2,6 +2,7 @@ import yaml
 import requests
 import argparse
 import warnings
+import urllib.parse
 
 warnings.filterwarnings('ignore', '.*ssl*', )
 
@@ -37,11 +38,9 @@ if __name__ == '__main__':
             if inner_val and 'domain' in inner_val and inner_val['domain']:
                 variable_dict[inner_key] = inner_val
 
-    athena_root_url = 'https://athena.ohdsi.org/api/v1/concepts?pageSize=15&page=1'
-    athena_api_url_appendx = '&domain={dom}&query={qry}'
+    athena_root_url = 'https://athena.ohdsi.org/api/v1/concepts?'
     variable_mapped_dict = {}
     for key, value in variable_dict.items():
-        domain = list(map(lambda x: x.strip(), value['domain'].split(',')))
         if 'system' in value and 'code' in value:
             variable_mapped_dict[key] = {
                 'Patient': {
@@ -52,33 +51,29 @@ if __name__ == '__main__':
             continue
 
         search_term = value['search_term']
+        athena_api_url_appendx = f'query={search_term}'
         term_class = value['class'] if 'class' in value else ''
+        if term_class:
+            athena_api_url_appendx += f'&class={term_class}'
+        domain = list(map(lambda x: x.strip(), value['domain'].split(',')))
+        for dom in domain:
+            athena_api_url_appendx = f'{athena_api_url_appendx}&domain={dom}'
 
         vocab = list(map(lambda x: x.strip(), value['vocab'].split(','))) if 'vocab' in value else []
-        urls_to_doms = {}
-        for dom in domain:
-            url = athena_api_url_appendx.format(dom=dom, qry=search_term)
-            if term_class:
-                url = f'{url}&class={term_class}'
-            if vocab:
-                for voc in vocab:
-                    voc_url = f'{url}&vocabulary={voc}'
-                    urls_to_doms[voc_url] = dom
-            else:
-                urls_to_doms[url] = dom
+        if not vocab and not term_class:
+            print(f'no map key - either vocab or class needs to be provided. {key}: {value}')
+            continue
+        urls_to_systems = {}
+        if not vocab:
+            url = f'{athena_root_url}{athena_api_url_appendx}'
+            urls_to_systems[url] = SYSTEM_MAPPING[term_class]
+        else:
+            for voc in vocab:
+                athena_api_url_appendx = f'{athena_api_url_appendx}&vocabulary={voc}'
+                url = f'{athena_root_url}{urllib.parse.quote(athena_api_url_appendx)}'
+                urls_to_systems[url] = SYSTEM_MAPPING[voc]
 
-        for url, dom in urls_to_doms.items():
-            # encode_url = requests.utils.quote(url)
-            map_key = ''
-            if 'vocabulary=' in url:
-                map_key = url.split('vocabulary=')[1]
-            if not map_key and 'class=' in url:
-                map_key = url.split('class=')[1]
-            if not map_key:
-                print(f'no map key - either vocab or class needs to be provided: {url}')
-                continue
-            encode_url = url
-            req_url = f'{athena_root_url}{encode_url}'
+        for req_url, system in urls_to_systems.items():
             r = requests.get(req_url, verify=False)
             r_json = r.json()
             mapped_codes = [content['code'] for content in r_json['content']]
@@ -87,10 +82,13 @@ if __name__ == '__main__':
                 # if {'code': str(code)} not in code_dict_ary:
                 # print(f'map_key: {map_key}, url: {url}')
                 code_dict_ary.append({'code': str(code),
-                                      'system': SYSTEM_MAPPING[map_key]})
-            variable_mapped_dict[key] = {
-                dom: code_dict_ary
-            }
+                                      'system': system})
+
+            for dom in domain:
+                variable_mapped_dict[key] = {
+                    dom: code_dict_ary
+                }
+
     with open(output_file, "w") as fhir_output:
         yaml.dump({
             'FHIR': variable_mapped_dict
