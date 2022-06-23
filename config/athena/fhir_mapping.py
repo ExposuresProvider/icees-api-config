@@ -2,7 +2,6 @@ import yaml
 import requests
 import argparse
 import warnings
-import urllib.parse
 
 warnings.filterwarnings('ignore', '.*ssl*', )
 
@@ -71,7 +70,7 @@ if __name__ == '__main__':
         else:
             for voc in vocab:
                 athena_api_url_appendx = f'{athena_api_url_appendx}&vocabulary={voc}'
-                url = f'{athena_root_url}{urllib.parse.quote(athena_api_url_appendx)}'
+                url = f'{athena_root_url}{athena_api_url_appendx}'
                 urls_to_systems[url] = SYSTEM_MAPPING[voc]
 
         for req_url, system in urls_to_systems.items():
