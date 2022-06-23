@@ -9,6 +9,7 @@ warnings.filterwarnings('ignore', '.*ssl*', )
 SYSTEM_MAPPING = {
     'RxNorm': 'http://www.nlm.nih.gov/research/umls/rxnorm',
     'LOINC': 'http://loinc.org',
+    'LOINC Hierarchy': 'http://loinc.org',
     'CPT4': 'http://www.ama-assn.org/go/cpt/',
     'ICD10 Hierarchy': 'http://hl7.org/fhir/sid/icd-10-cm',
     'ICD9Proc': 'http://hl7.org/fhir/sid/icd-9-cm',
@@ -59,7 +60,7 @@ if __name__ == '__main__':
         for dom in domain:
             athena_api_url_appendx = f'{athena_api_url_appendx}&domain={dom}'
 
-        vocab = list(map(lambda x: x.strip(), value['vocab'].split(','))) if 'vocab' in value else []
+        vocab = list(map(lambda x: x.strip(), value['vocab'].split(','))) if 'vocab' in value and value['vocab'] else []
         if not vocab and not term_class:
             print(f'no map key - either vocab or class needs to be provided. {key}: {value}')
             continue
