@@ -38,7 +38,7 @@ if __name__ == '__main__':
             if inner_val and 'domain' in inner_val and inner_val['domain']:
                 variable_dict[inner_key] = inner_val
 
-    athena_root_url = 'https://athena.ohdsi.org/api/v1/concepts?'
+    athena_root_url = 'https://athena.ohdsi.org/api/v1/concepts?pageSize=200&pageNumber=1'
     variable_mapped_dict = {}
     for key, value in variable_dict.items():
         if 'system' in value and 'code' in value:
@@ -85,9 +85,12 @@ if __name__ == '__main__':
                                       'system': system})
 
             for dom in domain:
-                variable_mapped_dict[key] = {
-                    dom: code_dict_ary
-                }
+                if key in variable_mapped_dict:
+                    variable_mapped_dict[key][dom] = code_dict_ary
+                else:
+                    variable_mapped_dict[key] = {
+                        dom: code_dict_ary
+                    }
 
     with open(output_file, "w") as fhir_output:
         yaml.dump({
