@@ -51,10 +51,10 @@ if __name__ == '__main__':
             continue
 
         search_term = value['search_term']
-        athena_api_url_appendx = f'query={search_term}'
+        athena_api_url_appendx = f'query="{search_term}"'
         term_class = value['class'] if 'class' in value else ''
         if term_class:
-            athena_api_url_appendx += f'&class={term_class}'
+            athena_api_url_appendx += f'&conceptClass={term_class}'
         domain = list(map(lambda x: x.strip(), value['domain'].split(',')))
         for dom in domain:
             athena_api_url_appendx = f'{athena_api_url_appendx}&domain={dom}'
@@ -76,7 +76,10 @@ if __name__ == '__main__':
         for req_url, system in urls_to_systems.items():
             r = requests.get(req_url, verify=False)
             r_json = r.json()
-            mapped_codes = [content['code'] for content in r_json['content']]
+            if 'content' in r_json:
+                mapped_codes = [content['code'] for content in r_json['content']]
+            else:
+                print(f'empty content returned: {req_url}: {system}: {r_json}')
             code_dict_ary = []
             for code in mapped_codes:
                 # if {'code': str(code)} not in code_dict_ary:
