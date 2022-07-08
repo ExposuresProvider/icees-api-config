@@ -38,7 +38,7 @@ if __name__ == '__main__':
             if inner_val and 'domain' in inner_val and inner_val['domain']:
                 variable_dict[inner_key] = inner_val
 
-    athena_root_url = 'https://athena.ohdsi.org/api/v1/concepts?pageSize=200&pageNumber=1'
+    athena_root_url = 'https://athena.ohdsi.org/api/v1/concepts?pageSize=200&pageNumber=1&'
     variable_mapped_dict = {}
     for key, value in variable_dict.items():
         if 'system' in value and 'code' in value:
@@ -54,7 +54,7 @@ if __name__ == '__main__':
         athena_api_url_appendx = f'query="{search_term}"'
         term_class = value['class'] if 'class' in value else ''
         if term_class:
-            athena_api_url_appendx += f'&conceptClass={term_class}'
+            athena_api_url_appendx += f'&conceptClass="{term_class}"'
         domain = list(map(lambda x: x.strip(), value['domain'].split(',')))
         for dom in domain:
             athena_api_url_appendx = f'{athena_api_url_appendx}&domain={dom}'
