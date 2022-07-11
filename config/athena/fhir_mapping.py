@@ -8,9 +8,9 @@ warnings.filterwarnings('ignore', '.*ssl*', )
 SYSTEM_MAPPING = {
     'RxNorm': 'http://www.nlm.nih.gov/research/umls/rxnorm',
     'LOINC': 'http://loinc.org',
-    'LOINC Hierarchy': 'http://loinc.org',
+    'LOINC%20Hierarchy': 'http://loinc.org',
     'CPT4': 'http://www.ama-assn.org/go/cpt/',
-    'ICD10 Hierarchy': 'http://hl7.org/fhir/sid/icd-10-cm',
+    'ICD10%20Hierarchy': 'http://hl7.org/fhir/sid/icd-10-cm',
     'ICD9Proc': 'http://hl7.org/fhir/sid/icd-9-cm',
     'ICD9ProcCN': 'http://hl7.org/fhir/sid/icd-9-cm'
 }
@@ -50,11 +50,12 @@ if __name__ == '__main__':
             }
             continue
 
-        search_term = value['search_term']
+        search_term = value['search_term'].replace(' ', '%20')
         athena_api_url_appendx = f'query="{search_term}"'
         term_class = value['class'] if 'class' in value else ''
         if term_class:
-            athena_api_url_appendx += f'&conceptClass="{term_class}"'
+            term_class = term_class.replace(' ', '%20')
+            athena_api_url_appendx += f'&conceptClass={term_class}'
         domain = list(map(lambda x: x.strip(), value['domain'].split(',')))
         for dom in domain:
             athena_api_url_appendx = f'{athena_api_url_appendx}&domain={dom}'
@@ -76,10 +77,15 @@ if __name__ == '__main__':
         for req_url, system in urls_to_systems.items():
             r = requests.get(req_url, verify=False)
             r_json = r.json()
-            if 'content' in r_json:
-                mapped_codes = [content['code'] for content in r_json['content']]
-            else:
-                print(f'empty content returned: {req_url}: {system}: {r_json}')
+            if 'content' not in r_json:
+                print(f'empty content returned: {req_url}: {system}: {r_json}. Doing non exact match instead')
+                req_url = req_url.replace('"', '')
+                r = requests.get(req_url, verify=False)
+                r_json = r.json()
+                if 'content' not in r_json:
+                    print(f'empty content returned: {req_url}: {system}: {r_json}. exiting')
+                    continue
+            mapped_codes = [content['code'] for content in r_json['content']]
             code_dict_ary = []
             for code in mapped_codes:
                 # if {'code': str(code)} not in code_dict_ary:
