@@ -100,7 +100,7 @@ patient:
     vocab: LOINC
     class: LOINC Hierarchy 
   Albumin:
-    search_term: "albumin"
+    search_term: "albumin | Bld-Ser-Plas"
     domain: Measurement, Observation
     vocab: LOINC
     class: LOINC Hierarchy 

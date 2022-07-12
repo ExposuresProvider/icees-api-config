@@ -49,8 +49,7 @@ if __name__ == '__main__':
                 }
             }
             continue
-
-        search_term = value['search_term'].replace(' ', '%20')
+        search_term = value['search_term'].replace(' ', '%20').replace('|', '%7C')
         athena_api_url_appendx = f'query="{search_term}"'
         term_class = value['class'] if 'class' in value else ''
         if term_class:
@@ -77,13 +76,13 @@ if __name__ == '__main__':
         for req_url, system in urls_to_systems.items():
             r = requests.get(req_url, verify=False)
             r_json = r.json()
-            if 'content' not in r_json:
-                print(f'empty content returned: {req_url}: {system}: {r_json}. Doing non exact match instead')
+            if 'content' not in r_json or not r_json['content']:
+                print(f'empty content returned: {req_url}: {system}. Doing non exact match instead')
                 req_url = req_url.replace('"', '')
                 r = requests.get(req_url, verify=False)
                 r_json = r.json()
-                if 'content' not in r_json:
-                    print(f'empty content returned: {req_url}: {system}: {r_json}. exiting')
+                if 'content' not in r_json or not r_json['content']:
+                    print(f'empty content returned: {req_url}: {system}. exiting')
                     continue
             mapped_codes = [content['code'] for content in r_json['content']]
             code_dict_ary = []
