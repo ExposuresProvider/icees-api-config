@@ -80,112 +80,112 @@ patient:
     domain:
     class:
   SputumCulture:
-    search_term: "sputum culture"
+    search_term: "sputum"
     domain: Measurement, Observation
     vocab: LOINC
     class: LOINC Hierarchy 
   PulseOximetry:
-    search_term: "pulse oximetry"
+    search_term: "oximetry"
     domain: Measurement, Observation
     vocab: LOINC
     class: LOINC Hierarchy 
   PulseOximetry_flag_first:
-    search_term: "pulse oximetry"
+    search_term: "oximetry"
     domain: Measurement, Observation
     vocab: LOINC
     class: LOINC Hierarchy 
   PulseOximetry_flag_last:
-    search_term: "pulse oximetry"
+    search_term: "oximetry"
     domain: Measurement, Observation
     vocab: LOINC
     class: LOINC Hierarchy 
   Albumin:
-    search_term: "albumin"
+    search_term: "albumin | Bld-Ser-Plas"
     domain: Measurement, Observation
     vocab: LOINC
     class: LOINC Hierarchy 
   Albumin_flag_first:
-    search_term: "albumin"
+    search_term: "albumin | Bld-Ser-Plas"
     domain: Measurement, Observation
     vocab: LOINC
     class: LOINC Hierarchy 
   Albumin_flag_last:
-    search_term: "albumin"
+    search_term: "albumin | Bld-Ser-Plas"
     domain: Measurement, Observation
     vocab: LOINC
     class: LOINC Hierarchy 
   AlkalinePhosphatase:
-    search_term: "alkaline phosphatase"
+    search_term: "alkaline phosphatase | Bld-Ser-Plas"
     domain: Measurement, Observation
     vocab: LOINC
     class: LOINC Hierarchy 
   AlkalinePhosphatase_flag_first:
-    search_term: "alkaline phosphatase"
+    search_term: "alkaline phosphatase | Bld-Ser-Plas"
     domain: Measurement, Observation
     vocab: LOINC
     class: LOINC Hierarchy 
   AlkalinePhosphatase_flag_last:
-    search_term: "alkaline phosphatase"
+    search_term: "alkaline phosphatase | Bld-Ser-Plas"
     domain: Measurement, Observation
     vocab: LOINC
     class: LOINC Hierarchy 
   Bilirubin:
-    search_term: "bilirubin"
+    search_term: "bilirubin | Bld-Ser-Plas"
     domain: Measurement, Observation
     vocab: LOINC
     class: LOINC Hierarchy 
   Bilirubin_flag_first:
-    search_term: "bilirubin"
+    search_term: "bilirubin | Bld-Ser-Plas"
     domain: Measurement, Observation
     vocab: LOINC
     class: LOINC Hierarchy 
   Bilirubin_flag_last:
-    search_term: "bilirubin"
+    search_term: "bilirubin | Bld-Ser-Plas"
     domain: Measurement, Observation
     vocab: LOINC
     class: LOINC Hierarchy 
   IgE:
-    search_term: "immunoglobulin E"
+    search_term: "immunoglobulin E | Bld-Ser-Plas"
     domain: Measurement, Observation
     vocab: LOINC
     class: LOINC Hierarchy 
   IgE_flag_first:
-    search_term: "immunoglobulin E"
+    search_term: "immunoglobulin E | Bld-Ser-Plas"
     domain: Measurement, Observation
     vocab: LOINC
     class: LOINC Hierarchy 
   IgE_flag_last:
-    search_term: "immunoglobulin E"
+    search_term: "immunoglobulin E | Bld-Ser-Plas"
     domain: Measurement, Observation
     vocab: LOINC
     class: LOINC Hierarchy 
   GlucoseToleranceTest:
-    search_term: "glucose tolerance test"
+    search_term: "glucose tolerance"
     domain: Measurement, Observation
     vocab: LOINC
     class: LOINC Hierarchy 
   GlucoseToleranceTest_flag_first:
-    search_term: "glucose tolerance test"
+    search_term: "glucose tolerance"
     domain: Measurement, Observation
     vocab: LOINC
     class: LOINC Hierarchy 
   GlucoseToleranceTest_flag_last:
-    search_term: "glucose tolerance test"
+    search_term: "glucose tolerance"
     domain: Measurement, Observation
     vocab: LOINC
     class: LOINC Hierarchy 
   Hemoglobin:
-    search_term: "hemoglobin"
+    search_term: "hemoglobin | Bld-Ser-Plas"
     domain: Measurement, Observation
     vocab: LOINC
     class: LOINC Hierarchy 
   Hemoglobin_flag_first:
-    search_term: "hemoglobin"
+    search_term: "hemoglobin | Bld-Ser-Plas"
     domain: Measurement, Observation
     vocab: LOINC
     class: LOINC Hierarchy 
   Hemoglobin_flag_last:
-    search_term: "hemoglobin"
+    search_term: "hemoglobin | Bld-Ser-Plas"
     domain: Measurement, Observation
     vocab: LOINC
     class: LOINC Hierarchy
@@ -314,32 +314,32 @@ patient:
     vocab: RxNorm
     class: Ingredient
   ALT:
-    search_term: "alanine aminotransferase"
+    search_term: "alanine aminotransferase | Bld-Ser-Plas"
     domain: Measurement, Observation
     vocab: 
     class: LOINC Hierarchy 
   ALT_flag_first:
-    search_term: "alanine aminotransferase"
+    search_term: "alanine aminotransferase | Bld-Ser-Plas"
     domain: Measurement, Observation
     vocab: LOINC
     class: LOINC Hierarchy 
   ALT_flag_last:
-    search_term: "alanine aminotransferase"
+    search_term: "alanine aminotransferase | Bld-Ser-Plas"
     domain: Measurement, Observation
     vocab: LOINC 
     class: LOINC Hierarchy
   AST:
-    search_term: "aspartate transaminase"
+    search_term: "aspartate transaminase | Bld-Ser-Plas"
     domain: Measurement, Observation
     vocab: LOINC 
     class: LOINC Hierarchy
   AST_flag_first:
-    search_term: "aspartate transaminase"
+    search_term: "aspartate transaminase | Bld-Ser-Plas"
     domain: Measurement, Observation
     vocab: LOINC
     class: LOINC Hierarchy
   AST_flag_last:
-    search_term: "aspartate transaminase"
+    search_term: "aspartate transaminase | Bld-Ser-Plas"
     domain: Measurement, Observation
     vocab: LOINC  
     class: LOINC Hierarchy
@@ -858,45 +858,36 @@ patient:
     search_term: "forced expiratory volume"
     domain: Measurement, Observation
     vocab: LOINC 
-    class: LOINC Hierarchy
   FEV1_flag_first:
     search_term: "forced expiratory volume"
     domain: Measurement, Observation
     vocab: LOINC 
-    class: LOINC Hierarchy
   FEV1_flag_last:
     search_term: "forced expiratory volume"
     domain: Measurement, Observation
     vocab: LOINC 
-    class: LOINC Hierarchy
   FVC:
     search_term: "forced vital capacity"
     domain: Measurement, Observation
     vocab: LOINC 
-    class: LOINC Hierarchy
   FVC_flag_first:
     search_term: "forced vital capacity"
     domain: Measurement, Observation
     vocab: LOINC 
-    class: LOINC Hierarchy
   FVC_flag_last:
     search_term: "forced vital capacity"
     domain: Measurement, Observation
     vocab: LOINC 
-    class: LOINC Hierarchy
   FEV1FVC:
     search_term: "FEV1/FVC"
     domain: Measurement, Observation
     vocab: LOINC 
-    class: LOINC Hierarchy
   FEV1FVC_flag_first:
     search_term: "FEV1/FVC"
     domain: Measurement, Observation
     vocab: LOINC 
-    class: LOINC Hierarchy
   FEV1FVC_flag_last:
     search_term: "FEV1/FVC"
     domain: Measurement, Observation
     vocab: LOINC 
-    class: LOINC Hierarchy
   ur:
