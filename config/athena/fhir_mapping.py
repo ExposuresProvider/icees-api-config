@@ -85,6 +85,8 @@ if __name__ == '__main__':
                     print(f'empty content returned: {req_url}: {system}. exiting')
                     continue
             mapped_codes = [content['code'] for content in r_json['content']]
+            # remove potential duplicates
+            mapped_codes = list(set(mapped_codes))
             code_dict_ary = []
             for code in mapped_codes:
                 # if {'code': str(code)} not in code_dict_ary:
