@@ -4,9 +4,7 @@ patient:
     domain: Condition
     class: ICD10 Hierarchy
   HeartFailureDiseaseDx:
-    search_term: "congestive heart failure diagnosis"
-    domain: Condition
-    class: ICD10 Hierarchy
+    search_term:
   HypertensionDx:
     search_term: "hypertension"
     domain: Condition
@@ -36,21 +34,19 @@ patient:
     vocab: RxNorm
     class:
   ChronicKidneyDiseaseDx:
-    search_term: chronic kidney disease diagnosis
+    search_term: chronic kidney disease
     domain: Condition
     class: ICD10 Hierarchy
   ChronicNasalCongestionDx:
-    search_term: "chronic nasal congestion"
+    search_term: nasal congestion
     domain: Condition
-    class: ICD10 Hierarchy
+    vocab: ICD10, ICD9CM, ICD10CM 
   ChronicObstructivePulmonaryDiseaseDx:
     search_term: "chronic obstructive pulmonary disease"
     domain: Condition
     class: ICD10 Hierarchy
   DailyWetCoughDx:
-    search_term: "productive cough"
-    domain: Condition
-    class: ICD10 Hierarchy
+    search_term:
   DexamethasoneRx:
     search_term: "dexamethasone"
     domain: Drug
@@ -145,17 +141,17 @@ patient:
     vocab: LOINC
     class: LOINC Hierarchy 
   IgE:
-    search_term: "immunoglobulin E | Bld-Ser-Plas"
+    search_term: "IgE | Bld-Ser-Plas"
     domain: Measurement, Observation
     vocab: LOINC
     class: LOINC Hierarchy 
   IgE_flag_first:
-    search_term: "immunoglobulin E | Bld-Ser-Plas"
+    search_term: "IgE | Bld-Ser-Plas"
     domain: Measurement, Observation
     vocab: LOINC
     class: LOINC Hierarchy 
   IgE_flag_last:
-    search_term: "immunoglobulin E | Bld-Ser-Plas"
+    search_term: "IgE | Bld-Ser-Plas"
     domain: Measurement, Observation
     vocab: LOINC
     class: LOINC Hierarchy 
@@ -211,7 +207,7 @@ patient:
   FailureToThriveDx:
     search_term: "failure to thrive"
     domain: Condition
-    class: ICD10 Hierarchy
+    vocab: ICD10, ICD9CM
   BronchiectasisDx:
     search_term: "bronchiectasis"
     domain: Condition
@@ -223,23 +219,20 @@ patient:
   MiddleEarDiseaseDx:
     search_term: "middle ear disease"
     domain: Condition
-    class: ICD10 Hierarchy
+    vocab: ICD10, ICD9CM
   ProductiveCoughDx:
-    search_term: "productive cough"
-    domain: Condition
-    class: ICD10 Hierarchy
+    search_term: 
+    domain: 
   NeonatalRespiratoryDistressDx:
-    search_term: "neonatal respiratory distress"
+    search_term: "respiratory distress of newborn"
     domain: Condition
     class: ICD10 Hierarchy
   SitusInversusDx:
     search_term: "situs inversus"
     domain: Condition
-    class: ICD10 Hierarchy
+    vocab: ICD10, ICD9CM
   HeterotaxyDx:
-    search_term: "heterotaxy"
-    domain: Condition
-    class: ICD10 Hierarchy
+    search_term:
   MaleInfertilityDx:
     search_term: "male infertility"
     domain: Condition
@@ -272,7 +265,6 @@ patient:
     search_term: "antihistamine"
     domain: Drug
     vocab: RxNorm
-    class: Ingredient
   TobramycinRx:
     search_term: "tobramycin"
     domain: Drug
@@ -283,8 +275,8 @@ patient:
     domain: Drug
     vocab: RxNorm
     class: Ingredient 
-  AzythromycinRx:
-    search_term: "azythromycin"
+  AzithromycinRx:
+    search_term: "azithromycin"
     domain: Drug
     vocab: RxNorm
     class: Ingredient 
@@ -329,17 +321,17 @@ patient:
     vocab: LOINC 
     class: LOINC Hierarchy
   AST:
-    search_term: "aspartate transaminase | Bld-Ser-Plas"
+    search_term: "aspartate aminotransaminase | Bld-Ser-Plas"
     domain: Measurement, Observation
     vocab: LOINC 
     class: LOINC Hierarchy
   AST_flag_first:
-    search_term: "aspartate transaminase | Bld-Ser-Plas"
+    search_term: "aspartate aminotransaminase | Bld-Ser-Plas"
     domain: Measurement, Observation
     vocab: LOINC
     class: LOINC Hierarchy
   AST_flag_last:
-    search_term: "aspartate transaminase | Bld-Ser-Plas"
+    search_term: "aspartate aminotransaminase | Bld-Ser-Plas"
     domain: Measurement, Observation
     vocab: LOINC  
     class: LOINC Hierarchy
@@ -373,7 +365,7 @@ patient:
   AlcoholDependenceDx:
     search_term: "alcohol dependence"
     domain: Condition
-    class: ICD10 Hierarchy
+    vocab: ICD10, ICD9CM
   AlopeciaDx:
     search_term: "alcohol dependence"
     domain: Condition
@@ -399,7 +391,7 @@ patient:
   AutismDx:
     search_term: "autism"
     domain: Condition
-    class: ICD10 Hierarchy
+    vocab: ICD10, ICD9CM
   Avg24hAcetaldehydeExposure_2:
   AvgDailyAcetaldehydeExposure_2:
   AvgDailyAcetaldehydeExposure_2_qcut:
@@ -446,7 +438,7 @@ patient:
   CURRENT_AGE:
   CURRENT_AGE2:
   CervicalCancerDx:
-    search_term: "cervical cancer"
+    search_term: "malignant neoplasm of cervix"
     domain: Condition
     class: ICD10 Hierarchy
   CetirizineRx:
@@ -485,9 +477,9 @@ patient:
   DISTANCE:
   DISTANCE2:
   DepressionDx:
-    search_term: "depression"
+    search_term: "depressive disorder"
     domain: Condition
-    class: ICD10 Hierarchy
+    vocab: ICD10, ICD9CM
   DiabetesDx:
     search_term: "diabetes"
     domain: Condition
@@ -500,7 +492,7 @@ patient:
   DrugDependenceDx:
     search_term: "drug dependence"
     domain: Condition
-    class: ICD10 Hierarchy
+    vocab: ICD10, ICD9CM
   DuloxetineRx:
     search_term: "duloxetine"
     domain: Drug
@@ -544,7 +536,7 @@ patient:
     vocab: RxNorm
     class: Ingredient
   EstrogenRx:
-    search_term: "estrogen"
+    search_term: "estrogens"
     domain: Drug
     vocab: RxNorm
     class: Ingredient
@@ -569,7 +561,7 @@ patient:
   FibromyalgiaDx:
     search_term: "fibromyalgia"
     domain: Condition
-    class: ICD10 Hierarchy
+    vocab: ICD10, ICD9CM
   FlunisolideRx:
     search_term: "flunisolide"
     domain: Drug
@@ -597,7 +589,7 @@ patient:
     vocab: RxNorm
     class: Ingredient
   HistrelinRx:
-    search_term: "histreline"
+    search_term: "histrelin"
     domain: Drug
     vocab: RxNorm
     class: Ingredient
@@ -620,7 +612,7 @@ patient:
     vocab: RxNorm
     class: Ingredient
   KidneyCancerDx:
-    search_term: "kidney cancer"
+    search_term: "malignant neoplasm of kidney"
     domain: Condition
     class: ICD10 Hierarchy
   Landfill_Exposure:
@@ -655,7 +647,7 @@ patient:
   MenopauseDx:
     search_term: "menopause"
     domain: Condition
-    class: ICD10 Hierarchy
+    vocab: ICD10, ICD9CM, ICD10CM
   MepolizumabRx:
     search_term: "mepolizumab"
     domain: Drug
@@ -696,7 +688,7 @@ patient:
     vocab: RxNorm
     class: Ingredient
   OvarianCancerDx:
-    search_term: "ovarian cancer"
+    search_term: "malignant neoplasm of ovary"
     domain: Condition
     class: ICD10 Hierarchy
   OvarianDysfunctionDx:
@@ -740,7 +732,7 @@ patient:
     vocab: RxNorm
     class: Ingredient
   ProstateCancerDx:
-    search_term: "prostate cancer"
+    search_term: "malignant neoplasm of prostate"
     domain: Condition
     class: ICD10 Hierarchy
   QXAGE:
@@ -764,7 +756,7 @@ patient:
     domain: Patient
     class: 
   ReactiveAirwayDx:
-    search_term: "reactive airway disease"
+    search_term: "airway disease"
     domain: Condition
     class: ICD10 Hierarchy
   RoadwayDistanceExposure:
@@ -815,7 +807,7 @@ patient:
     vocab: RxNorm
     class: Ingredient
   TesticularCancerDx:
-    search_term: "testicular cancer"
+    search_term: "malignant neoplasm of testis"
     domain: Condition
     class: ICD10 Hierarchy
   TesticularDysfunctionDx:
@@ -846,7 +838,7 @@ patient:
     vocab: RxNorm
     class: Ingredient
   UterineCancerDx:
-    search_term: "uterine cancer"
+    search_term: "malignant neoplasm of uterus"
     domain: Condition
     class: ICD10 Hierarchy
   VenlafaxineRx:
