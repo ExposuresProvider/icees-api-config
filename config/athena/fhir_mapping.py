@@ -10,8 +10,11 @@ SYSTEM_MAPPING = {
     'LOINC': 'http://loinc.org',
     'LOINC%20Hierarchy': 'http://loinc.org',
     'CPT4': 'http://www.ama-assn.org/go/cpt/',
+    'ICD10': 'http://hl7.org/fhir/sid/icd-10-cm',
+    'ICD10CM': 'http://hl7.org/fhir/sid/icd-10-cm',
     'ICD10%20Hierarchy': 'http://hl7.org/fhir/sid/icd-10-cm',
     'ICD9Proc': 'http://hl7.org/fhir/sid/icd-9-cm',
+    'ICD9CM': 'http://hl7.org/fhir/sid/icd-9-cm',
     'ICD9ProcCN': 'http://hl7.org/fhir/sid/icd-9-cm'
 }
 
@@ -49,7 +52,10 @@ if __name__ == '__main__':
                 }
             }
             continue
-        search_term = value['search_term'].replace(' ', '%20').replace('|', '%7C')
+        search_term = value['search_term'].strip()
+        if not search_term:
+            continue
+        search_term = search_term.replace(' ', '%20').replace('|', '%7C')
         athena_api_url_appendx = f'query="{search_term}"'
         term_class = value['class'] if 'class' in value else ''
         if term_class:
