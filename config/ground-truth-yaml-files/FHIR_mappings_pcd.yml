@@ -10,9 +10,8 @@ patient:
     domain: Condition
     class: ICD10 Hierarchy  
   PCDDx:
-    search_term: "primary ciliary dyskinesia"
-    domain: Condition
-    class: ICD10 Hierarchy
+    search_term: 
+    domain:
   PrednisoneRx:
     search_term: "prednisone"
     domain: Drug
