@@ -1,0 +1,4003 @@
+FHIR:
+  A1C:
+    Measurement: &id001
+    - code: LP404433-7
+      system: http://loinc.org
+    - code: LP404465-9
+      system: http://loinc.org
+    - code: LP421819-6
+      system: http://loinc.org
+    - code: LP420732-2
+      system: http://loinc.org
+    - code: LP404492-3
+      system: http://loinc.org
+    - code: LP404412-1
+      system: http://loinc.org
+    - code: LP404481-6
+      system: http://loinc.org
+    - code: LP404566-4
+      system: http://loinc.org
+    - code: LP404554-0
+      system: http://loinc.org
+    - code: LP404607-6
+      system: http://loinc.org
+    - code: LP404451-9
+      system: http://loinc.org
+    Observation: *id001
+  A1C_flag_first:
+    Measurement: &id002
+    - code: LP404433-7
+      system: http://loinc.org
+    - code: LP404465-9
+      system: http://loinc.org
+    - code: LP421819-6
+      system: http://loinc.org
+    - code: LP420732-2
+      system: http://loinc.org
+    - code: LP404492-3
+      system: http://loinc.org
+    - code: LP404412-1
+      system: http://loinc.org
+    - code: LP404481-6
+      system: http://loinc.org
+    - code: LP404566-4
+      system: http://loinc.org
+    - code: LP404554-0
+      system: http://loinc.org
+    - code: LP404607-6
+      system: http://loinc.org
+    - code: LP404451-9
+      system: http://loinc.org
+    Observation: *id002
+  A1C_flag_last:
+    Measurement: &id003
+    - code: LP404433-7
+      system: http://loinc.org
+    - code: LP404465-9
+      system: http://loinc.org
+    - code: LP421819-6
+      system: http://loinc.org
+    - code: LP420732-2
+      system: http://loinc.org
+    - code: LP404492-3
+      system: http://loinc.org
+    - code: LP404412-1
+      system: http://loinc.org
+    - code: LP404481-6
+      system: http://loinc.org
+    - code: LP404566-4
+      system: http://loinc.org
+    - code: LP404554-0
+      system: http://loinc.org
+    - code: LP404607-6
+      system: http://loinc.org
+    - code: LP404451-9
+      system: http://loinc.org
+    Observation: *id003
+  ALT:
+    Measurement: &id004
+    - code: LP44699-4
+      system: http://loinc.org
+    Observation: *id004
+  ALT_flag_first:
+    Measurement: &id005
+    - code: LP44699-4
+      system: http://loinc.org
+    Observation: *id005
+  ALT_flag_last:
+    Measurement: &id006
+    - code: LP44699-4
+      system: http://loinc.org
+    Observation: *id006
+  AST:
+    Measurement: &id007
+    - code: LP41453-9
+      system: http://loinc.org
+    - code: LP65475-3
+      system: http://loinc.org
+    - code: LP383819-2
+      system: http://loinc.org
+    - code: LP383823-4
+      system: http://loinc.org
+    - code: LP256109-2
+      system: http://loinc.org
+    - code: LP255810-6
+      system: http://loinc.org
+    - code: LP62051-5
+      system: http://loinc.org
+    - code: LP67738-2
+      system: http://loinc.org
+    - code: LP44842-0
+      system: http://loinc.org
+    - code: LP68015-4
+      system: http://loinc.org
+    - code: LP67866-1
+      system: http://loinc.org
+    - code: LP264867-5
+      system: http://loinc.org
+    - code: LP258984-6
+      system: http://loinc.org
+    - code: LP256195-1
+      system: http://loinc.org
+    - code: LP102447-2
+      system: http://loinc.org
+    - code: LP260233-4
+      system: http://loinc.org
+    - code: LP67836-4
+      system: http://loinc.org
+    - code: LP67728-3
+      system: http://loinc.org
+    - code: LP124864-2
+      system: http://loinc.org
+    - code: LP256399-9
+      system: http://loinc.org
+    - code: LP260476-9
+      system: http://loinc.org
+    - code: LP44810-7
+      system: http://loinc.org
+    - code: LP383815-0
+      system: http://loinc.org
+    - code: LP105229-1
+      system: http://loinc.org
+    - code: LP102451-4
+      system: http://loinc.org
+    - code: LP61918-6
+      system: http://loinc.org
+    - code: LP105234-1
+      system: http://loinc.org
+    - code: LP47197-6
+      system: http://loinc.org
+    - code: LP67830-7
+      system: http://loinc.org
+    - code: LP260787-9
+      system: http://loinc.org
+    - code: LP259001-8
+      system: http://loinc.org
+    - code: LP256447-6
+      system: http://loinc.org
+    - code: LP67844-8
+      system: http://loinc.org
+    - code: LP67846-3
+      system: http://loinc.org
+    - code: LP145399-4
+      system: http://loinc.org
+    - code: LP67852-1
+      system: http://loinc.org
+    - code: LP43473-5
+      system: http://loinc.org
+    - code: LP260779-6
+      system: http://loinc.org
+    - code: LP67730-9
+      system: http://loinc.org
+    - code: LP204067-5
+      system: http://loinc.org
+    - code: LP255823-9
+      system: http://loinc.org
+    - code: LP256318-9
+      system: http://loinc.org
+    - code: LP67764-8
+      system: http://loinc.org
+    - code: LP69321-5
+      system: http://loinc.org
+    - code: LP67860-4
+      system: http://loinc.org
+    - code: LP258695-8
+      system: http://loinc.org
+    - code: LP45313-1
+      system: http://loinc.org
+    - code: LP50240-8
+      system: http://loinc.org
+    - code: LP256104-3
+      system: http://loinc.org
+    - code: LP49940-7
+      system: http://loinc.org
+    - code: LP67842-2
+      system: http://loinc.org
+    - code: LP68009-7
+      system: http://loinc.org
+    - code: LP260749-9
+      system: http://loinc.org
+    - code: LP95098-7
+      system: http://loinc.org
+    - code: LP45520-1
+      system: http://loinc.org
+    - code: LP44682-0
+      system: http://loinc.org
+    - code: LP260801-8
+      system: http://loinc.org
+    - code: LP105248-1
+      system: http://loinc.org
+    - code: LP67828-1
+      system: http://loinc.org
+    - code: LP67834-9
+      system: http://loinc.org
+    - code: LP89516-6
+      system: http://loinc.org
+    - code: LP51245-6
+      system: http://loinc.org
+    - code: LP67740-8
+      system: http://loinc.org
+    - code: LP256252-0
+      system: http://loinc.org
+    - code: LP256065-6
+      system: http://loinc.org
+    - code: LP179771-3
+      system: http://loinc.org
+    - code: LP256211-6
+      system: http://loinc.org
+    - code: LP145388-7
+      system: http://loinc.org
+    - code: LP67744-0
+      system: http://loinc.org
+    - code: LP67746-5
+      system: http://loinc.org
+    - code: LP67838-0
+      system: http://loinc.org
+    - code: LP145291-3
+      system: http://loinc.org
+    - code: LP44782-8
+      system: http://loinc.org
+    - code: LP124870-9
+      system: http://loinc.org
+    - code: LP45656-3
+      system: http://loinc.org
+    - code: LP43475-0
+      system: http://loinc.org
+    - code: LP256263-7
+      system: http://loinc.org
+    - code: LP67734-1
+      system: http://loinc.org
+    - code: LP256427-8
+      system: http://loinc.org
+    - code: LP67732-5
+      system: http://loinc.org
+    - code: LP256036-7
+      system: http://loinc.org
+    - code: LP44681-2
+      system: http://loinc.org
+    - code: LP67742-4
+      system: http://loinc.org
+    - code: LP145363-0
+      system: http://loinc.org
+    - code: LP67736-6
+      system: http://loinc.org
+    - code: LP255880-9
+      system: http://loinc.org
+    - code: LP67726-7
+      system: http://loinc.org
+    - code: LP44846-1
+      system: http://loinc.org
+    - code: LP51247-2
+      system: http://loinc.org
+    - code: LP383816-8
+      system: http://loinc.org
+    - code: LP67698-8
+      system: http://loinc.org
+    - code: LP44965-9
+      system: http://loinc.org
+    - code: LP43730-8
+      system: http://loinc.org
+    - code: LP383822-6
+      system: http://loinc.org
+    - code: LP383817-6
+      system: http://loinc.org
+    - code: LP44806-5
+      system: http://loinc.org
+    - code: LP145387-9
+      system: http://loinc.org
+    - code: LP260758-0
+      system: http://loinc.org
+    - code: LP67856-2
+      system: http://loinc.org
+    - code: LP42612-9
+      system: http://loinc.org
+    - code: LP190320-4
+      system: http://loinc.org
+    - code: LP255831-2
+      system: http://loinc.org
+    - code: LP204334-9
+      system: http://loinc.org
+    - code: LP124872-5
+      system: http://loinc.org
+    - code: LP67858-8
+      system: http://loinc.org
+    - code: LP49939-9
+      system: http://loinc.org
+    - code: LP256182-9
+      system: http://loinc.org
+    - code: LP145358-0
+      system: http://loinc.org
+    - code: LP42853-9
+      system: http://loinc.org
+    - code: LP256057-3
+      system: http://loinc.org
+    - code: LP145352-3
+      system: http://loinc.org
+    - code: LP68007-1
+      system: http://loinc.org
+    - code: LP256096-1
+      system: http://loinc.org
+    - code: LP260378-7
+      system: http://loinc.org
+    - code: LP49559-5
+      system: http://loinc.org
+    - code: LP67862-0
+      system: http://loinc.org
+    - code: LP41768-0
+      system: http://loinc.org
+    - code: LP64881-3
+      system: http://loinc.org
+    - code: LP256225-6
+      system: http://loinc.org
+    - code: LP44898-2
+      system: http://loinc.org
+    - code: LP105240-8
+      system: http://loinc.org
+    - code: LP62240-4
+      system: http://loinc.org
+    - code: LP68019-6
+      system: http://loinc.org
+    - code: LP68021-2
+      system: http://loinc.org
+    - code: LP215487-2
+      system: http://loinc.org
+    - code: LP260841-4
+      system: http://loinc.org
+    - code: LP255815-5
+      system: http://loinc.org
+    - code: LP256455-9
+      system: http://loinc.org
+    - code: LP44838-8
+      system: http://loinc.org
+    - code: LP124878-2
+      system: http://loinc.org
+    - code: LP67832-3
+      system: http://loinc.org
+    - code: LP54096-0
+      system: http://loinc.org
+    - code: LP260762-2
+      system: http://loinc.org
+    - code: LP67854-7
+      system: http://loinc.org
+    - code: LP67760-6
+      system: http://loinc.org
+    - code: LP145882-9
+      system: http://loinc.org
+    - code: LP124884-0
+      system: http://loinc.org
+    - code: LP67870-3
+      system: http://loinc.org
+    - code: LP256240-5
+      system: http://loinc.org
+    - code: LP145354-9
+      system: http://loinc.org
+    - code: LP145524-7
+      system: http://loinc.org
+    - code: LP102467-0
+      system: http://loinc.org
+    - code: LP124868-3
+      system: http://loinc.org
+    - code: LP256003-7
+      system: http://loinc.org
+    - code: LP145346-5
+      system: http://loinc.org
+    - code: LP256286-8
+      system: http://loinc.org
+    - code: LP67850-5
+      system: http://loinc.org
+    - code: LP255947-6
+      system: http://loinc.org
+    - code: LP42067-6
+      system: http://loinc.org
+    - code: LP255990-6
+      system: http://loinc.org
+    - code: LP145360-6
+      system: http://loinc.org
+    - code: LP255908-8
+      system: http://loinc.org
+    - code: LP97386-4
+      system: http://loinc.org
+    - code: LP383821-8
+      system: http://loinc.org
+    - code: LP44824-8
+      system: http://loinc.org
+    - code: LP255853-6
+      system: http://loinc.org
+    - code: LP256203-3
+      system: http://loinc.org
+    - code: LP105236-6
+      system: http://loinc.org
+    - code: LP67748-1
+      system: http://loinc.org
+    - code: LP55113-2
+      system: http://loinc.org
+    - code: LP67848-9
+      system: http://loinc.org
+    - code: LP255839-5
+      system: http://loinc.org
+    - code: LP68013-9
+      system: http://loinc.org
+    - code: LP257002-8
+      system: http://loinc.org
+    - code: LP382838-3
+      system: http://loinc.org
+    - code: LP256023-5
+      system: http://loinc.org
+    - code: LP145367-1
+      system: http://loinc.org
+    - code: LP124866-7
+      system: http://loinc.org
+    - code: LP260268-0
+      system: http://loinc.org
+    - code: LP260755-6
+      system: http://loinc.org
+    - code: LP260829-9
+      system: http://loinc.org
+    - code: LP145394-5
+      system: http://loinc.org
+    - code: LP265225-5
+      system: http://loinc.org
+    - code: LP48138-9
+      system: http://loinc.org
+    - code: LP157608-3
+      system: http://loinc.org
+    - code: LP145395-2
+      system: http://loinc.org
+    - code: LP68011-3
+      system: http://loinc.org
+    - code: LP43342-2
+      system: http://loinc.org
+    - code: LP124882-4
+      system: http://loinc.org
+    - code: LP264608-3
+      system: http://loinc.org
+    - code: LP45480-8
+      system: http://loinc.org
+    - code: LP67672-3
+      system: http://loinc.org
+    - code: LP124880-8
+      system: http://loinc.org
+    - code: LP67872-9
+      system: http://loinc.org
+    - code: LP256129-0
+      system: http://loinc.org
+    - code: LP421220-7
+      system: http://loinc.org
+    - code: LP216077-0
+      system: http://loinc.org
+    - code: LP46089-6
+      system: http://loinc.org
+    - code: LP256463-3
+      system: http://loinc.org
+    - code: LP256073-0
+      system: http://loinc.org
+    - code: LP67766-3
+      system: http://loinc.org
+    - code: LP67840-6
+      system: http://loinc.org
+    - code: LP256015-1
+      system: http://loinc.org
+    - code: LP256169-6
+      system: http://loinc.org
+    - code: LP256080-5
+      system: http://loinc.org
+    - code: LP260820-8
+      system: http://loinc.org
+    - code: LP255982-3
+      system: http://loinc.org
+    - code: LP44686-1
+      system: http://loinc.org
+    - code: LP260849-7
+      system: http://loinc.org
+    - code: LP44862-8
+      system: http://loinc.org
+    Observation: *id007
+  AST_flag_first:
+    Measurement: &id008
+    - code: LP41453-9
+      system: http://loinc.org
+    - code: LP65475-3
+      system: http://loinc.org
+    - code: LP383819-2
+      system: http://loinc.org
+    - code: LP383823-4
+      system: http://loinc.org
+    - code: LP256109-2
+      system: http://loinc.org
+    - code: LP255810-6
+      system: http://loinc.org
+    - code: LP62051-5
+      system: http://loinc.org
+    - code: LP67738-2
+      system: http://loinc.org
+    - code: LP44842-0
+      system: http://loinc.org
+    - code: LP68015-4
+      system: http://loinc.org
+    - code: LP67866-1
+      system: http://loinc.org
+    - code: LP264867-5
+      system: http://loinc.org
+    - code: LP258984-6
+      system: http://loinc.org
+    - code: LP256195-1
+      system: http://loinc.org
+    - code: LP102447-2
+      system: http://loinc.org
+    - code: LP260233-4
+      system: http://loinc.org
+    - code: LP67836-4
+      system: http://loinc.org
+    - code: LP67728-3
+      system: http://loinc.org
+    - code: LP124864-2
+      system: http://loinc.org
+    - code: LP256399-9
+      system: http://loinc.org
+    - code: LP260476-9
+      system: http://loinc.org
+    - code: LP44810-7
+      system: http://loinc.org
+    - code: LP383815-0
+      system: http://loinc.org
+    - code: LP105229-1
+      system: http://loinc.org
+    - code: LP102451-4
+      system: http://loinc.org
+    - code: LP61918-6
+      system: http://loinc.org
+    - code: LP105234-1
+      system: http://loinc.org
+    - code: LP47197-6
+      system: http://loinc.org
+    - code: LP67830-7
+      system: http://loinc.org
+    - code: LP260787-9
+      system: http://loinc.org
+    - code: LP259001-8
+      system: http://loinc.org
+    - code: LP256447-6
+      system: http://loinc.org
+    - code: LP67844-8
+      system: http://loinc.org
+    - code: LP67846-3
+      system: http://loinc.org
+    - code: LP145399-4
+      system: http://loinc.org
+    - code: LP67852-1
+      system: http://loinc.org
+    - code: LP43473-5
+      system: http://loinc.org
+    - code: LP260779-6
+      system: http://loinc.org
+    - code: LP67730-9
+      system: http://loinc.org
+    - code: LP204067-5
+      system: http://loinc.org
+    - code: LP255823-9
+      system: http://loinc.org
+    - code: LP256318-9
+      system: http://loinc.org
+    - code: LP67764-8
+      system: http://loinc.org
+    - code: LP69321-5
+      system: http://loinc.org
+    - code: LP67860-4
+      system: http://loinc.org
+    - code: LP258695-8
+      system: http://loinc.org
+    - code: LP45313-1
+      system: http://loinc.org
+    - code: LP50240-8
+      system: http://loinc.org
+    - code: LP256104-3
+      system: http://loinc.org
+    - code: LP49940-7
+      system: http://loinc.org
+    - code: LP67842-2
+      system: http://loinc.org
+    - code: LP68009-7
+      system: http://loinc.org
+    - code: LP260749-9
+      system: http://loinc.org
+    - code: LP95098-7
+      system: http://loinc.org
+    - code: LP45520-1
+      system: http://loinc.org
+    - code: LP44682-0
+      system: http://loinc.org
+    - code: LP260801-8
+      system: http://loinc.org
+    - code: LP105248-1
+      system: http://loinc.org
+    - code: LP67828-1
+      system: http://loinc.org
+    - code: LP67834-9
+      system: http://loinc.org
+    - code: LP89516-6
+      system: http://loinc.org
+    - code: LP51245-6
+      system: http://loinc.org
+    - code: LP67740-8
+      system: http://loinc.org
+    - code: LP256252-0
+      system: http://loinc.org
+    - code: LP256065-6
+      system: http://loinc.org
+    - code: LP179771-3
+      system: http://loinc.org
+    - code: LP256211-6
+      system: http://loinc.org
+    - code: LP145388-7
+      system: http://loinc.org
+    - code: LP67744-0
+      system: http://loinc.org
+    - code: LP67746-5
+      system: http://loinc.org
+    - code: LP67838-0
+      system: http://loinc.org
+    - code: LP145291-3
+      system: http://loinc.org
+    - code: LP44782-8
+      system: http://loinc.org
+    - code: LP124870-9
+      system: http://loinc.org
+    - code: LP45656-3
+      system: http://loinc.org
+    - code: LP43475-0
+      system: http://loinc.org
+    - code: LP256263-7
+      system: http://loinc.org
+    - code: LP67734-1
+      system: http://loinc.org
+    - code: LP256427-8
+      system: http://loinc.org
+    - code: LP67732-5
+      system: http://loinc.org
+    - code: LP256036-7
+      system: http://loinc.org
+    - code: LP44681-2
+      system: http://loinc.org
+    - code: LP67742-4
+      system: http://loinc.org
+    - code: LP145363-0
+      system: http://loinc.org
+    - code: LP67736-6
+      system: http://loinc.org
+    - code: LP255880-9
+      system: http://loinc.org
+    - code: LP67726-7
+      system: http://loinc.org
+    - code: LP44846-1
+      system: http://loinc.org
+    - code: LP51247-2
+      system: http://loinc.org
+    - code: LP383816-8
+      system: http://loinc.org
+    - code: LP67698-8
+      system: http://loinc.org
+    - code: LP44965-9
+      system: http://loinc.org
+    - code: LP43730-8
+      system: http://loinc.org
+    - code: LP383822-6
+      system: http://loinc.org
+    - code: LP383817-6
+      system: http://loinc.org
+    - code: LP44806-5
+      system: http://loinc.org
+    - code: LP145387-9
+      system: http://loinc.org
+    - code: LP260758-0
+      system: http://loinc.org
+    - code: LP67856-2
+      system: http://loinc.org
+    - code: LP42612-9
+      system: http://loinc.org
+    - code: LP190320-4
+      system: http://loinc.org
+    - code: LP255831-2
+      system: http://loinc.org
+    - code: LP204334-9
+      system: http://loinc.org
+    - code: LP124872-5
+      system: http://loinc.org
+    - code: LP67858-8
+      system: http://loinc.org
+    - code: LP49939-9
+      system: http://loinc.org
+    - code: LP256182-9
+      system: http://loinc.org
+    - code: LP145358-0
+      system: http://loinc.org
+    - code: LP42853-9
+      system: http://loinc.org
+    - code: LP256057-3
+      system: http://loinc.org
+    - code: LP145352-3
+      system: http://loinc.org
+    - code: LP68007-1
+      system: http://loinc.org
+    - code: LP256096-1
+      system: http://loinc.org
+    - code: LP260378-7
+      system: http://loinc.org
+    - code: LP49559-5
+      system: http://loinc.org
+    - code: LP67862-0
+      system: http://loinc.org
+    - code: LP41768-0
+      system: http://loinc.org
+    - code: LP64881-3
+      system: http://loinc.org
+    - code: LP256225-6
+      system: http://loinc.org
+    - code: LP44898-2
+      system: http://loinc.org
+    - code: LP105240-8
+      system: http://loinc.org
+    - code: LP62240-4
+      system: http://loinc.org
+    - code: LP68019-6
+      system: http://loinc.org
+    - code: LP68021-2
+      system: http://loinc.org
+    - code: LP215487-2
+      system: http://loinc.org
+    - code: LP260841-4
+      system: http://loinc.org
+    - code: LP255815-5
+      system: http://loinc.org
+    - code: LP256455-9
+      system: http://loinc.org
+    - code: LP44838-8
+      system: http://loinc.org
+    - code: LP124878-2
+      system: http://loinc.org
+    - code: LP67832-3
+      system: http://loinc.org
+    - code: LP54096-0
+      system: http://loinc.org
+    - code: LP260762-2
+      system: http://loinc.org
+    - code: LP67854-7
+      system: http://loinc.org
+    - code: LP67760-6
+      system: http://loinc.org
+    - code: LP145882-9
+      system: http://loinc.org
+    - code: LP124884-0
+      system: http://loinc.org
+    - code: LP67870-3
+      system: http://loinc.org
+    - code: LP256240-5
+      system: http://loinc.org
+    - code: LP145354-9
+      system: http://loinc.org
+    - code: LP145524-7
+      system: http://loinc.org
+    - code: LP102467-0
+      system: http://loinc.org
+    - code: LP124868-3
+      system: http://loinc.org
+    - code: LP256003-7
+      system: http://loinc.org
+    - code: LP145346-5
+      system: http://loinc.org
+    - code: LP256286-8
+      system: http://loinc.org
+    - code: LP67850-5
+      system: http://loinc.org
+    - code: LP255947-6
+      system: http://loinc.org
+    - code: LP42067-6
+      system: http://loinc.org
+    - code: LP255990-6
+      system: http://loinc.org
+    - code: LP145360-6
+      system: http://loinc.org
+    - code: LP255908-8
+      system: http://loinc.org
+    - code: LP97386-4
+      system: http://loinc.org
+    - code: LP383821-8
+      system: http://loinc.org
+    - code: LP44824-8
+      system: http://loinc.org
+    - code: LP255853-6
+      system: http://loinc.org
+    - code: LP256203-3
+      system: http://loinc.org
+    - code: LP105236-6
+      system: http://loinc.org
+    - code: LP67748-1
+      system: http://loinc.org
+    - code: LP55113-2
+      system: http://loinc.org
+    - code: LP67848-9
+      system: http://loinc.org
+    - code: LP255839-5
+      system: http://loinc.org
+    - code: LP68013-9
+      system: http://loinc.org
+    - code: LP257002-8
+      system: http://loinc.org
+    - code: LP382838-3
+      system: http://loinc.org
+    - code: LP256023-5
+      system: http://loinc.org
+    - code: LP145367-1
+      system: http://loinc.org
+    - code: LP124866-7
+      system: http://loinc.org
+    - code: LP260268-0
+      system: http://loinc.org
+    - code: LP260755-6
+      system: http://loinc.org
+    - code: LP260829-9
+      system: http://loinc.org
+    - code: LP145394-5
+      system: http://loinc.org
+    - code: LP265225-5
+      system: http://loinc.org
+    - code: LP48138-9
+      system: http://loinc.org
+    - code: LP157608-3
+      system: http://loinc.org
+    - code: LP145395-2
+      system: http://loinc.org
+    - code: LP68011-3
+      system: http://loinc.org
+    - code: LP43342-2
+      system: http://loinc.org
+    - code: LP124882-4
+      system: http://loinc.org
+    - code: LP264608-3
+      system: http://loinc.org
+    - code: LP45480-8
+      system: http://loinc.org
+    - code: LP67672-3
+      system: http://loinc.org
+    - code: LP124880-8
+      system: http://loinc.org
+    - code: LP67872-9
+      system: http://loinc.org
+    - code: LP256129-0
+      system: http://loinc.org
+    - code: LP421220-7
+      system: http://loinc.org
+    - code: LP216077-0
+      system: http://loinc.org
+    - code: LP46089-6
+      system: http://loinc.org
+    - code: LP256463-3
+      system: http://loinc.org
+    - code: LP256073-0
+      system: http://loinc.org
+    - code: LP67766-3
+      system: http://loinc.org
+    - code: LP67840-6
+      system: http://loinc.org
+    - code: LP256015-1
+      system: http://loinc.org
+    - code: LP256169-6
+      system: http://loinc.org
+    - code: LP256080-5
+      system: http://loinc.org
+    - code: LP260820-8
+      system: http://loinc.org
+    - code: LP255982-3
+      system: http://loinc.org
+    - code: LP44686-1
+      system: http://loinc.org
+    - code: LP260849-7
+      system: http://loinc.org
+    - code: LP44862-8
+      system: http://loinc.org
+    Observation: *id008
+  AST_flag_last:
+    Measurement: &id009
+    - code: LP41453-9
+      system: http://loinc.org
+    - code: LP65475-3
+      system: http://loinc.org
+    - code: LP383819-2
+      system: http://loinc.org
+    - code: LP383823-4
+      system: http://loinc.org
+    - code: LP256109-2
+      system: http://loinc.org
+    - code: LP255810-6
+      system: http://loinc.org
+    - code: LP62051-5
+      system: http://loinc.org
+    - code: LP67738-2
+      system: http://loinc.org
+    - code: LP44842-0
+      system: http://loinc.org
+    - code: LP68015-4
+      system: http://loinc.org
+    - code: LP67866-1
+      system: http://loinc.org
+    - code: LP264867-5
+      system: http://loinc.org
+    - code: LP258984-6
+      system: http://loinc.org
+    - code: LP256195-1
+      system: http://loinc.org
+    - code: LP102447-2
+      system: http://loinc.org
+    - code: LP260233-4
+      system: http://loinc.org
+    - code: LP67836-4
+      system: http://loinc.org
+    - code: LP67728-3
+      system: http://loinc.org
+    - code: LP124864-2
+      system: http://loinc.org
+    - code: LP256399-9
+      system: http://loinc.org
+    - code: LP260476-9
+      system: http://loinc.org
+    - code: LP44810-7
+      system: http://loinc.org
+    - code: LP383815-0
+      system: http://loinc.org
+    - code: LP105229-1
+      system: http://loinc.org
+    - code: LP102451-4
+      system: http://loinc.org
+    - code: LP61918-6
+      system: http://loinc.org
+    - code: LP105234-1
+      system: http://loinc.org
+    - code: LP47197-6
+      system: http://loinc.org
+    - code: LP67830-7
+      system: http://loinc.org
+    - code: LP260787-9
+      system: http://loinc.org
+    - code: LP259001-8
+      system: http://loinc.org
+    - code: LP256447-6
+      system: http://loinc.org
+    - code: LP67844-8
+      system: http://loinc.org
+    - code: LP67846-3
+      system: http://loinc.org
+    - code: LP145399-4
+      system: http://loinc.org
+    - code: LP67852-1
+      system: http://loinc.org
+    - code: LP43473-5
+      system: http://loinc.org
+    - code: LP260779-6
+      system: http://loinc.org
+    - code: LP67730-9
+      system: http://loinc.org
+    - code: LP204067-5
+      system: http://loinc.org
+    - code: LP255823-9
+      system: http://loinc.org
+    - code: LP256318-9
+      system: http://loinc.org
+    - code: LP67764-8
+      system: http://loinc.org
+    - code: LP69321-5
+      system: http://loinc.org
+    - code: LP67860-4
+      system: http://loinc.org
+    - code: LP258695-8
+      system: http://loinc.org
+    - code: LP45313-1
+      system: http://loinc.org
+    - code: LP50240-8
+      system: http://loinc.org
+    - code: LP256104-3
+      system: http://loinc.org
+    - code: LP49940-7
+      system: http://loinc.org
+    - code: LP67842-2
+      system: http://loinc.org
+    - code: LP68009-7
+      system: http://loinc.org
+    - code: LP260749-9
+      system: http://loinc.org
+    - code: LP95098-7
+      system: http://loinc.org
+    - code: LP45520-1
+      system: http://loinc.org
+    - code: LP44682-0
+      system: http://loinc.org
+    - code: LP260801-8
+      system: http://loinc.org
+    - code: LP105248-1
+      system: http://loinc.org
+    - code: LP67828-1
+      system: http://loinc.org
+    - code: LP67834-9
+      system: http://loinc.org
+    - code: LP89516-6
+      system: http://loinc.org
+    - code: LP51245-6
+      system: http://loinc.org
+    - code: LP67740-8
+      system: http://loinc.org
+    - code: LP256252-0
+      system: http://loinc.org
+    - code: LP256065-6
+      system: http://loinc.org
+    - code: LP179771-3
+      system: http://loinc.org
+    - code: LP256211-6
+      system: http://loinc.org
+    - code: LP145388-7
+      system: http://loinc.org
+    - code: LP67744-0
+      system: http://loinc.org
+    - code: LP67746-5
+      system: http://loinc.org
+    - code: LP67838-0
+      system: http://loinc.org
+    - code: LP145291-3
+      system: http://loinc.org
+    - code: LP44782-8
+      system: http://loinc.org
+    - code: LP124870-9
+      system: http://loinc.org
+    - code: LP45656-3
+      system: http://loinc.org
+    - code: LP43475-0
+      system: http://loinc.org
+    - code: LP256263-7
+      system: http://loinc.org
+    - code: LP67734-1
+      system: http://loinc.org
+    - code: LP256427-8
+      system: http://loinc.org
+    - code: LP67732-5
+      system: http://loinc.org
+    - code: LP256036-7
+      system: http://loinc.org
+    - code: LP44681-2
+      system: http://loinc.org
+    - code: LP67742-4
+      system: http://loinc.org
+    - code: LP145363-0
+      system: http://loinc.org
+    - code: LP67736-6
+      system: http://loinc.org
+    - code: LP255880-9
+      system: http://loinc.org
+    - code: LP67726-7
+      system: http://loinc.org
+    - code: LP44846-1
+      system: http://loinc.org
+    - code: LP51247-2
+      system: http://loinc.org
+    - code: LP383816-8
+      system: http://loinc.org
+    - code: LP67698-8
+      system: http://loinc.org
+    - code: LP44965-9
+      system: http://loinc.org
+    - code: LP43730-8
+      system: http://loinc.org
+    - code: LP383822-6
+      system: http://loinc.org
+    - code: LP383817-6
+      system: http://loinc.org
+    - code: LP44806-5
+      system: http://loinc.org
+    - code: LP145387-9
+      system: http://loinc.org
+    - code: LP260758-0
+      system: http://loinc.org
+    - code: LP67856-2
+      system: http://loinc.org
+    - code: LP42612-9
+      system: http://loinc.org
+    - code: LP190320-4
+      system: http://loinc.org
+    - code: LP255831-2
+      system: http://loinc.org
+    - code: LP204334-9
+      system: http://loinc.org
+    - code: LP124872-5
+      system: http://loinc.org
+    - code: LP67858-8
+      system: http://loinc.org
+    - code: LP49939-9
+      system: http://loinc.org
+    - code: LP256182-9
+      system: http://loinc.org
+    - code: LP145358-0
+      system: http://loinc.org
+    - code: LP42853-9
+      system: http://loinc.org
+    - code: LP256057-3
+      system: http://loinc.org
+    - code: LP145352-3
+      system: http://loinc.org
+    - code: LP68007-1
+      system: http://loinc.org
+    - code: LP256096-1
+      system: http://loinc.org
+    - code: LP260378-7
+      system: http://loinc.org
+    - code: LP49559-5
+      system: http://loinc.org
+    - code: LP67862-0
+      system: http://loinc.org
+    - code: LP41768-0
+      system: http://loinc.org
+    - code: LP64881-3
+      system: http://loinc.org
+    - code: LP256225-6
+      system: http://loinc.org
+    - code: LP44898-2
+      system: http://loinc.org
+    - code: LP105240-8
+      system: http://loinc.org
+    - code: LP62240-4
+      system: http://loinc.org
+    - code: LP68019-6
+      system: http://loinc.org
+    - code: LP68021-2
+      system: http://loinc.org
+    - code: LP215487-2
+      system: http://loinc.org
+    - code: LP260841-4
+      system: http://loinc.org
+    - code: LP255815-5
+      system: http://loinc.org
+    - code: LP256455-9
+      system: http://loinc.org
+    - code: LP44838-8
+      system: http://loinc.org
+    - code: LP124878-2
+      system: http://loinc.org
+    - code: LP67832-3
+      system: http://loinc.org
+    - code: LP54096-0
+      system: http://loinc.org
+    - code: LP260762-2
+      system: http://loinc.org
+    - code: LP67854-7
+      system: http://loinc.org
+    - code: LP67760-6
+      system: http://loinc.org
+    - code: LP145882-9
+      system: http://loinc.org
+    - code: LP124884-0
+      system: http://loinc.org
+    - code: LP67870-3
+      system: http://loinc.org
+    - code: LP256240-5
+      system: http://loinc.org
+    - code: LP145354-9
+      system: http://loinc.org
+    - code: LP145524-7
+      system: http://loinc.org
+    - code: LP102467-0
+      system: http://loinc.org
+    - code: LP124868-3
+      system: http://loinc.org
+    - code: LP256003-7
+      system: http://loinc.org
+    - code: LP145346-5
+      system: http://loinc.org
+    - code: LP256286-8
+      system: http://loinc.org
+    - code: LP67850-5
+      system: http://loinc.org
+    - code: LP255947-6
+      system: http://loinc.org
+    - code: LP42067-6
+      system: http://loinc.org
+    - code: LP255990-6
+      system: http://loinc.org
+    - code: LP145360-6
+      system: http://loinc.org
+    - code: LP255908-8
+      system: http://loinc.org
+    - code: LP97386-4
+      system: http://loinc.org
+    - code: LP383821-8
+      system: http://loinc.org
+    - code: LP44824-8
+      system: http://loinc.org
+    - code: LP255853-6
+      system: http://loinc.org
+    - code: LP256203-3
+      system: http://loinc.org
+    - code: LP105236-6
+      system: http://loinc.org
+    - code: LP67748-1
+      system: http://loinc.org
+    - code: LP55113-2
+      system: http://loinc.org
+    - code: LP67848-9
+      system: http://loinc.org
+    - code: LP255839-5
+      system: http://loinc.org
+    - code: LP68013-9
+      system: http://loinc.org
+    - code: LP257002-8
+      system: http://loinc.org
+    - code: LP382838-3
+      system: http://loinc.org
+    - code: LP256023-5
+      system: http://loinc.org
+    - code: LP145367-1
+      system: http://loinc.org
+    - code: LP124866-7
+      system: http://loinc.org
+    - code: LP260268-0
+      system: http://loinc.org
+    - code: LP260755-6
+      system: http://loinc.org
+    - code: LP260829-9
+      system: http://loinc.org
+    - code: LP145394-5
+      system: http://loinc.org
+    - code: LP265225-5
+      system: http://loinc.org
+    - code: LP48138-9
+      system: http://loinc.org
+    - code: LP157608-3
+      system: http://loinc.org
+    - code: LP145395-2
+      system: http://loinc.org
+    - code: LP68011-3
+      system: http://loinc.org
+    - code: LP43342-2
+      system: http://loinc.org
+    - code: LP124882-4
+      system: http://loinc.org
+    - code: LP264608-3
+      system: http://loinc.org
+    - code: LP45480-8
+      system: http://loinc.org
+    - code: LP67672-3
+      system: http://loinc.org
+    - code: LP124880-8
+      system: http://loinc.org
+    - code: LP67872-9
+      system: http://loinc.org
+    - code: LP256129-0
+      system: http://loinc.org
+    - code: LP421220-7
+      system: http://loinc.org
+    - code: LP216077-0
+      system: http://loinc.org
+    - code: LP46089-6
+      system: http://loinc.org
+    - code: LP256463-3
+      system: http://loinc.org
+    - code: LP256073-0
+      system: http://loinc.org
+    - code: LP67766-3
+      system: http://loinc.org
+    - code: LP67840-6
+      system: http://loinc.org
+    - code: LP256015-1
+      system: http://loinc.org
+    - code: LP256169-6
+      system: http://loinc.org
+    - code: LP256080-5
+      system: http://loinc.org
+    - code: LP260820-8
+      system: http://loinc.org
+    - code: LP255982-3
+      system: http://loinc.org
+    - code: LP44686-1
+      system: http://loinc.org
+    - code: LP260849-7
+      system: http://loinc.org
+    - code: LP44862-8
+      system: http://loinc.org
+    Observation: *id009
+  AgeStudyStart:
+    Patient:
+      code: 21112-8
+      system: http://loinc.org
+  AgeStudyStart2:
+    Patient:
+      code: 21112-8
+      system: http://loinc.org
+  Albumin:
+    Measurement: &id010
+    - code: LP46234-8
+      system: http://loinc.org
+    - code: LP43038-6
+      system: http://loinc.org
+    - code: LP104917-2
+      system: http://loinc.org
+    - code: LP46251-2
+      system: http://loinc.org
+    - code: LP46230-6
+      system: http://loinc.org
+    Observation: *id010
+  Albumin_flag_first:
+    Measurement: &id011
+    - code: LP46234-8
+      system: http://loinc.org
+    - code: LP43038-6
+      system: http://loinc.org
+    - code: LP104917-2
+      system: http://loinc.org
+    - code: LP46251-2
+      system: http://loinc.org
+    - code: LP46230-6
+      system: http://loinc.org
+    Observation: *id011
+  Albumin_flag_last:
+    Measurement: &id012
+    - code: LP46234-8
+      system: http://loinc.org
+    - code: LP43038-6
+      system: http://loinc.org
+    - code: LP104917-2
+      system: http://loinc.org
+    - code: LP46251-2
+      system: http://loinc.org
+    - code: LP46230-6
+      system: http://loinc.org
+    Observation: *id012
+  AlbuterolRx:
+    Drug:
+    - code: '435'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+  AlcoholDependenceDx:
+    Condition:
+    - code: '303.92'
+      system: http://hl7.org/fhir/sid/icd-9-cm
+    - code: '303'
+      system: http://hl7.org/fhir/sid/icd-9-cm
+    - code: '303.90'
+      system: http://hl7.org/fhir/sid/icd-9-cm
+    - code: '303.93'
+      system: http://hl7.org/fhir/sid/icd-9-cm
+    - code: '303.91'
+      system: http://hl7.org/fhir/sid/icd-9-cm
+    - code: F10.2
+      system: http://hl7.org/fhir/sid/icd-9-cm
+    - code: '303.9'
+      system: http://hl7.org/fhir/sid/icd-9-cm
+  AlkalinePhosphatase:
+    Measurement: &id013
+    - code: LP43493-3
+      system: http://loinc.org
+    - code: LP42182-3
+      system: http://loinc.org
+    - code: LP45609-2
+      system: http://loinc.org
+    Observation: *id013
+  AlkalinePhosphatase_flag_first:
+    Measurement: &id014
+    - code: LP43493-3
+      system: http://loinc.org
+    - code: LP42182-3
+      system: http://loinc.org
+    - code: LP45609-2
+      system: http://loinc.org
+    Observation: *id014
+  AlkalinePhosphatase_flag_last:
+    Measurement: &id015
+    - code: LP43493-3
+      system: http://loinc.org
+    - code: LP42182-3
+      system: http://loinc.org
+    - code: LP45609-2
+      system: http://loinc.org
+    Observation: *id015
+  AlopeciaDx:
+    Condition:
+    - code: Z74
+      system: http://hl7.org/fhir/sid/icd-10-cm
+    - code: T51
+      system: http://hl7.org/fhir/sid/icd-10-cm
+    - code: Z99
+      system: http://hl7.org/fhir/sid/icd-10-cm
+    - code: K70
+      system: http://hl7.org/fhir/sid/icd-10-cm
+    - code: F55
+      system: http://hl7.org/fhir/sid/icd-10-cm
+    - code: X45
+      system: http://hl7.org/fhir/sid/icd-10-cm
+    - code: F05
+      system: http://hl7.org/fhir/sid/icd-10-cm
+    - code: F04
+      system: http://hl7.org/fhir/sid/icd-10-cm
+    - code: X65
+      system: http://hl7.org/fhir/sid/icd-10-cm
+    - code: Y91
+      system: http://hl7.org/fhir/sid/icd-10-cm
+    - code: F10
+      system: http://hl7.org/fhir/sid/icd-10-cm
+  AndrostenedioneRx:
+    Drug:
+    - code: '784'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+  AntibioticsRx:
+    Drug:
+    - code: '542470'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '846040'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '806331'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '261228'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '574458'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '575482'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '351575'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '574366'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '209773'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '1427294'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '806329'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '806332'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '616919'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '567340'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '365323'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '630950'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '1304960'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '806330'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '616929'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '213625'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '574234'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '367321'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '542469'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '1172229'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '367322'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '215326'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '542467'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '574233'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '616928'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '573496'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '574460'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '218506'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '215658'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '806363'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '261463'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '616920'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '630952'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '261226'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '1427297'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '362139'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '562699'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '1427295'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '794206'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '209769'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '262104'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '542466'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '261681'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '1166027'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '220476'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '367297'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '1427296'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '1427298'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '260450'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '1359359'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '575481'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '1172234'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '846041'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '366132'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '806366'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '570353'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '308509'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '846039'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '570349'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '542468'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '1184422'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '1359358'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '367356'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '806364'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '206519'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '367294'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '261122'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '206509'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '614842'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '806365'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+  AntihistamineRx:
+    Drug:
+    - code: '385927'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '1088357'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '369190'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '569348'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '366260'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '152716'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '368686'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '1366499'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '205442'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '215332'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '208685'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '1166037'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '385953'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '350716'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '569454'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '215329'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '1166035'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '366261'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '209574'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '364124'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '208731'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '1366498'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '1172245'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '215141'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '208803'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '844595'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '1366497'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '385954'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '1088360'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '570163'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '997003'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '227700'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '152652'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '370179'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '226137'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '1088359'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '208829'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '569478'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '573784'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '1366500'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '844471'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '309247'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '217058'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '569349'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '208734'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '1366495'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '1166034'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '208775'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '208686'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '213939'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '1166036'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '1088358'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '215330'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '565031'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '565002'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '569394'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '566348'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '370296'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '364121'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '1366496'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '569397'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '366886'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+  AnxietyDx:
+    Condition:
+    - code: F41
+      system: http://hl7.org/fhir/sid/icd-10-cm
+    - code: F40
+      system: http://hl7.org/fhir/sid/icd-10-cm
+  ArformoterolRx:
+    Drug:
+    - code: '784'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+  AsthmaDx:
+    Condition:
+    - code: J45
+      system: http://hl7.org/fhir/sid/icd-10-cm
+  AutismDx:
+    Condition:
+    - code: F84.1
+      system: http://hl7.org/fhir/sid/icd-9-cm
+    - code: F84.0
+      system: http://hl7.org/fhir/sid/icd-9-cm
+  AzithromycinRx:
+    Drug:
+    - code: '18631'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+  AztreonamRx:
+    Drug:
+    - code: '1272'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+  BeclomethasoneRx:
+    Drug:
+    - code: '1347'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+  Bilirubin:
+    Measurement: &id016
+    - code: LP157246-2
+      system: http://loinc.org
+    - code: LP43561-7
+      system: http://loinc.org
+    Observation: *id016
+  Bilirubin_flag_first:
+    Measurement: &id017
+    - code: LP157246-2
+      system: http://loinc.org
+    - code: LP43561-7
+      system: http://loinc.org
+    Observation: *id017
+  Bilirubin_flag_last:
+    Measurement: &id018
+    - code: LP157246-2
+      system: http://loinc.org
+    - code: LP43561-7
+      system: http://loinc.org
+    Observation: *id018
+  BronchiectasisDx:
+    Condition:
+    - code: J47
+      system: http://hl7.org/fhir/sid/icd-10-cm
+  BudesonideRx:
+    Drug:
+    - code: '19831'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+  CervicalCancerDx:
+    Condition:
+    - code: C53
+      system: http://hl7.org/fhir/sid/icd-10-cm
+  CetirizineRx:
+    Drug:
+    - code: '20610'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+  ChronicKidneyDiseaseDx:
+    Condition:
+    - code: N18
+      system: http://hl7.org/fhir/sid/icd-10-cm
+  ChronicNasalCongestionDx:
+    Condition:
+    - code: R09.81
+      system: http://hl7.org/fhir/sid/icd-10-cm
+  ChronicObstructivePulmonaryDiseaseDx:
+    Condition:
+    - code: J44
+      system: http://hl7.org/fhir/sid/icd-10-cm
+  ChronicSinusitisDx:
+    Condition:
+    - code: J32
+      system: http://hl7.org/fhir/sid/icd-10-cm
+  CiclesonideRx:
+    Drug:
+    - code: '274964'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+  CitalopramRx:
+    Drug:
+    - code: '2556'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+  ClarithromycinRx:
+    Drug:
+    - code: '21212'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+  CoughDx:
+    Condition:
+    - code: A37
+      system: http://hl7.org/fhir/sid/icd-10-cm
+    - code: R05
+      system: http://hl7.org/fhir/sid/icd-10-cm
+  CroupDx:
+    Condition:
+    - code: J05
+      system: http://hl7.org/fhir/sid/icd-10-cm
+  CysticFibrosisDx:
+    Condition:
+    - code: P75
+      system: http://hl7.org/fhir/sid/icd-10-cm
+    - code: E84
+      system: http://hl7.org/fhir/sid/icd-10-cm
+  DepressionDx:
+    Condition:
+    - code: '296.24'
+      system: http://hl7.org/fhir/sid/icd-9-cm
+    - code: F33.1
+      system: http://hl7.org/fhir/sid/icd-9-cm
+    - code: '296.23'
+      system: http://hl7.org/fhir/sid/icd-9-cm
+    - code: F33.3
+      system: http://hl7.org/fhir/sid/icd-9-cm
+    - code: '296.2'
+      system: http://hl7.org/fhir/sid/icd-9-cm
+    - code: '301.12'
+      system: http://hl7.org/fhir/sid/icd-9-cm
+    - code: '296.32'
+      system: http://hl7.org/fhir/sid/icd-9-cm
+    - code: '296.82'
+      system: http://hl7.org/fhir/sid/icd-9-cm
+    - code: F92.0
+      system: http://hl7.org/fhir/sid/icd-9-cm
+    - code: F33.9
+      system: http://hl7.org/fhir/sid/icd-9-cm
+    - code: '311'
+      system: http://hl7.org/fhir/sid/icd-9-cm
+    - code: F41.2
+      system: http://hl7.org/fhir/sid/icd-9-cm
+    - code: F33.4
+      system: http://hl7.org/fhir/sid/icd-9-cm
+    - code: F33
+      system: http://hl7.org/fhir/sid/icd-9-cm
+    - code: F33.2
+      system: http://hl7.org/fhir/sid/icd-9-cm
+    - code: '296.21'
+      system: http://hl7.org/fhir/sid/icd-9-cm
+    - code: '296.34'
+      system: http://hl7.org/fhir/sid/icd-9-cm
+    - code: '296.31'
+      system: http://hl7.org/fhir/sid/icd-9-cm
+    - code: '296.26'
+      system: http://hl7.org/fhir/sid/icd-9-cm
+    - code: '296.33'
+      system: http://hl7.org/fhir/sid/icd-9-cm
+    - code: '296.25'
+      system: http://hl7.org/fhir/sid/icd-9-cm
+    - code: '296.22'
+      system: http://hl7.org/fhir/sid/icd-9-cm
+    - code: F33.0
+      system: http://hl7.org/fhir/sid/icd-9-cm
+    - code: '296.3'
+      system: http://hl7.org/fhir/sid/icd-9-cm
+    - code: '296.20'
+      system: http://hl7.org/fhir/sid/icd-9-cm
+    - code: '296.30'
+      system: http://hl7.org/fhir/sid/icd-9-cm
+    - code: '296.35'
+      system: http://hl7.org/fhir/sid/icd-9-cm
+    - code: '296.36'
+      system: http://hl7.org/fhir/sid/icd-9-cm
+  DexamethasoneRx:
+    Drug:
+    - code: '367274'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '371724'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '204510'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '1154532'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '1154536'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '814504'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '1154539'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '332982'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '369461'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '438872'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '1007105'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '1008930'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '388755'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '315774'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '375798'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '438885'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '438701'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '757087'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '378593'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '371727'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '2108017'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '363679'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '22694'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '371733'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '2108345'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '335018'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '446662'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '1154530'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '335766'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '1009387'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '331791'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '1089819'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '1007854'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '2261801'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '364896'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '343643'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '315773'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '379385'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '377672'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '371730'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '309686'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '315779'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '216524'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '377671'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '371725'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '452194'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '1086700'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '1812094'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '438882'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '365691'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '92335'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '371722'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '438688'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '1153894'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '1007483'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '371721'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '438884'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '371726'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '363216'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '566574'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '48933'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '330802'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '362045'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '1154256'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '821542'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '315776'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '363482'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '378023'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '1812073'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '372476'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '451790'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '2045403'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '1154537'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '335274'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '1049385'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '214478'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '363845'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '328743'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '854179'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '566601'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '376196'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '451789'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '369516'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '854177'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '244488'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '575233'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '350226'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '438702'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '367263'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '365690'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '823322'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '541473'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '329679'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '367272'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '1007256'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '688244'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '371735'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '376210'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '1154533'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '608583'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '363678'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '813683'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '3264'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '350217'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '309678'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '377316'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '1152768'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '1008217'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '2378841'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '1376057'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '438889'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '332984'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '393151'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '1086699'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '1376061'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '373028'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '333672'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '1156195'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '1009150'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '339981'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '315775'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '854175'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '1154535'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '323884'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '365689'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '2286258'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '1376064'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '820465'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '3265'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '757088'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '364966'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '854180'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '377456'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '1374391'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '205702'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '328266'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '880656'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '328765'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '815833'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '854176'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '235486'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '216523'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '371723'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '377280'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '2108018'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '376267'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '564044'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '566605'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '566603'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '748083'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '901648'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '315778'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '358548'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '818139'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '22690'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '1007423'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '363486'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '349879'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '822000'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '2286257'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '332981'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '438141'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '1375105'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '333673'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '317346'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '566593'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '309692'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '1154075'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '452787'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '373027'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '881354'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '309691'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '330437'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '315777'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '365842'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '1154242'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '345816'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '440626'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '1154531'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '438883'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '329677'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '317629'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '371728'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '440625'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '1154254'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '447036'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '332983'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '329678'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '687304'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '371729'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '465397'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '361991'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '1154538'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '247484'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '566608'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '2045407'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '103217'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '883815'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '405942'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '377418'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+  DiabetesDx:
+    Condition:
+    - code: E10
+      system: http://hl7.org/fhir/sid/icd-10-cm
+    - code: E14
+      system: http://hl7.org/fhir/sid/icd-10-cm
+    - code: E13
+      system: http://hl7.org/fhir/sid/icd-10-cm
+    - code: O24
+      system: http://hl7.org/fhir/sid/icd-10-cm
+    - code: E11
+      system: http://hl7.org/fhir/sid/icd-10-cm
+    - code: E12
+      system: http://hl7.org/fhir/sid/icd-10-cm
+  DiphenhydramineRx:
+    Drug:
+    - code: '3498'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '485333'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+  DrugDependenceDx:
+    Condition:
+    - code: '304'
+      system: http://hl7.org/fhir/sid/icd-9-cm
+    - code: '304.92'
+      system: http://hl7.org/fhir/sid/icd-9-cm
+    - code: '648.33'
+      system: http://hl7.org/fhir/sid/icd-9-cm
+    - code: '304.70'
+      system: http://hl7.org/fhir/sid/icd-9-cm
+    - code: '304.63'
+      system: http://hl7.org/fhir/sid/icd-9-cm
+    - code: '648.32'
+      system: http://hl7.org/fhir/sid/icd-9-cm
+    - code: '304.8'
+      system: http://hl7.org/fhir/sid/icd-9-cm
+    - code: '304.71'
+      system: http://hl7.org/fhir/sid/icd-9-cm
+    - code: '648.31'
+      system: http://hl7.org/fhir/sid/icd-9-cm
+    - code: '304.61'
+      system: http://hl7.org/fhir/sid/icd-9-cm
+    - code: '304.91'
+      system: http://hl7.org/fhir/sid/icd-9-cm
+    - code: '304.93'
+      system: http://hl7.org/fhir/sid/icd-9-cm
+    - code: '304.83'
+      system: http://hl7.org/fhir/sid/icd-9-cm
+    - code: '304.80'
+      system: http://hl7.org/fhir/sid/icd-9-cm
+    - code: '304.81'
+      system: http://hl7.org/fhir/sid/icd-9-cm
+    - code: '304.82'
+      system: http://hl7.org/fhir/sid/icd-9-cm
+    - code: '304.60'
+      system: http://hl7.org/fhir/sid/icd-9-cm
+    - code: '304.7'
+      system: http://hl7.org/fhir/sid/icd-9-cm
+    - code: '304.90'
+      system: http://hl7.org/fhir/sid/icd-9-cm
+    - code: '304.73'
+      system: http://hl7.org/fhir/sid/icd-9-cm
+    - code: '648.34'
+      system: http://hl7.org/fhir/sid/icd-9-cm
+    - code: '648.30'
+      system: http://hl7.org/fhir/sid/icd-9-cm
+    - code: '304.62'
+      system: http://hl7.org/fhir/sid/icd-9-cm
+    - code: '304.72'
+      system: http://hl7.org/fhir/sid/icd-9-cm
+    - code: '304.9'
+      system: http://hl7.org/fhir/sid/icd-9-cm
+    - code: '304.6'
+      system: http://hl7.org/fhir/sid/icd-9-cm
+    - code: '648.3'
+      system: http://hl7.org/fhir/sid/icd-9-cm
+  DuloxetineRx:
+    Drug:
+    - code: '72625'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+  EndometriosisDx:
+    Condition:
+    - code: N80
+      system: http://hl7.org/fhir/sid/icd-10-cm
+  EscitalopramRx:
+    Drug:
+    - code: '321988'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+  EstradiolRx:
+    Drug:
+    - code: '24384'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '4083'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '4124'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '483167'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+  EstrogenRx:
+    Drug:
+    - code: '4099'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '4100'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '214549'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '618365'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '253166'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+  EstropipateRx:
+    Drug:
+    - code: '33747'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+  Ethnicity_UNC:
+    Patient:
+      code: 2186-5
+      system: http://terminology.hl7.org/ValueSet/v3-Ethnicity
+  FEV1:
+    Measurement: &id019
+    - code: 20151-7
+      system: http://loinc.org
+    - code: 43258-3
+      system: http://loinc.org
+    - code: 69970-2
+      system: http://loinc.org
+    - code: 65657-9
+      system: http://loinc.org
+    - code: 20156-6
+      system: http://loinc.org
+    - code: 43257-5
+      system: http://loinc.org
+    - code: 20149-1
+      system: http://loinc.org
+    - code: 43255-9
+      system: http://loinc.org
+    - code: 65658-7
+      system: http://loinc.org
+    - code: 64028-4
+      system: http://loinc.org
+    - code: LP115584-7
+      system: http://loinc.org
+    - code: 69984-3
+      system: http://loinc.org
+    - code: 20155-8
+      system: http://loinc.org
+    - code: LP115580-5
+      system: http://loinc.org
+    - code: 20154-1
+      system: http://loinc.org
+    - code: 43262-5
+      system: http://loinc.org
+    - code: 20150-9
+      system: http://loinc.org
+    - code: 64030-0
+      system: http://loinc.org
+    - code: 43263-3
+      system: http://loinc.org
+    - code: 43254-2
+      system: http://loinc.org
+    - code: 19925-7
+      system: http://loinc.org
+    - code: 20157-4
+      system: http://loinc.org
+    - code: 43261-7
+      system: http://loinc.org
+    - code: 69983-5
+      system: http://loinc.org
+    - code: 20152-5
+      system: http://loinc.org
+    - code: 43256-7
+      system: http://loinc.org
+    - code: LP115582-1
+      system: http://loinc.org
+    - code: 43259-1
+      system: http://loinc.org
+    - code: 64026-8
+      system: http://loinc.org
+    - code: 19926-5
+      system: http://loinc.org
+    - code: 43260-9
+      system: http://loinc.org
+    - code: 43253-4
+      system: http://loinc.org
+    - code: 20153-3
+      system: http://loinc.org
+    Observation: *id019
+  FEV1FVC:
+    Measurement: &id020
+    - code: 69984-3
+      system: http://loinc.org
+    - code: 69970-2
+      system: http://loinc.org
+    - code: 19926-5
+      system: http://loinc.org
+    - code: 65657-9
+      system: http://loinc.org
+    - code: 19925-7
+      system: http://loinc.org
+    Observation: *id020
+  FEV1FVC_flag_first:
+    Measurement: &id021
+    - code: 69984-3
+      system: http://loinc.org
+    - code: 69970-2
+      system: http://loinc.org
+    - code: 19926-5
+      system: http://loinc.org
+    - code: 65657-9
+      system: http://loinc.org
+    - code: 19925-7
+      system: http://loinc.org
+    Observation: *id021
+  FEV1FVC_flag_last:
+    Measurement: &id022
+    - code: 69984-3
+      system: http://loinc.org
+    - code: 69970-2
+      system: http://loinc.org
+    - code: 19926-5
+      system: http://loinc.org
+    - code: 65657-9
+      system: http://loinc.org
+    - code: 19925-7
+      system: http://loinc.org
+    Observation: *id022
+  FEV1_flag_first:
+    Measurement: &id023
+    - code: 20151-7
+      system: http://loinc.org
+    - code: 43258-3
+      system: http://loinc.org
+    - code: 69970-2
+      system: http://loinc.org
+    - code: 65657-9
+      system: http://loinc.org
+    - code: 20156-6
+      system: http://loinc.org
+    - code: 43257-5
+      system: http://loinc.org
+    - code: 20149-1
+      system: http://loinc.org
+    - code: 43255-9
+      system: http://loinc.org
+    - code: 65658-7
+      system: http://loinc.org
+    - code: 64028-4
+      system: http://loinc.org
+    - code: LP115584-7
+      system: http://loinc.org
+    - code: 69984-3
+      system: http://loinc.org
+    - code: 20155-8
+      system: http://loinc.org
+    - code: LP115580-5
+      system: http://loinc.org
+    - code: 20154-1
+      system: http://loinc.org
+    - code: 43262-5
+      system: http://loinc.org
+    - code: 20150-9
+      system: http://loinc.org
+    - code: 64030-0
+      system: http://loinc.org
+    - code: 43263-3
+      system: http://loinc.org
+    - code: 43254-2
+      system: http://loinc.org
+    - code: 19925-7
+      system: http://loinc.org
+    - code: 20157-4
+      system: http://loinc.org
+    - code: 43261-7
+      system: http://loinc.org
+    - code: 69983-5
+      system: http://loinc.org
+    - code: 20152-5
+      system: http://loinc.org
+    - code: 43256-7
+      system: http://loinc.org
+    - code: LP115582-1
+      system: http://loinc.org
+    - code: 43259-1
+      system: http://loinc.org
+    - code: 64026-8
+      system: http://loinc.org
+    - code: 19926-5
+      system: http://loinc.org
+    - code: 43260-9
+      system: http://loinc.org
+    - code: 43253-4
+      system: http://loinc.org
+    - code: 20153-3
+      system: http://loinc.org
+    Observation: *id023
+  FEV1_flag_last:
+    Measurement: &id024
+    - code: 20151-7
+      system: http://loinc.org
+    - code: 43258-3
+      system: http://loinc.org
+    - code: 69970-2
+      system: http://loinc.org
+    - code: 65657-9
+      system: http://loinc.org
+    - code: 20156-6
+      system: http://loinc.org
+    - code: 43257-5
+      system: http://loinc.org
+    - code: 20149-1
+      system: http://loinc.org
+    - code: 43255-9
+      system: http://loinc.org
+    - code: 65658-7
+      system: http://loinc.org
+    - code: 64028-4
+      system: http://loinc.org
+    - code: LP115584-7
+      system: http://loinc.org
+    - code: 69984-3
+      system: http://loinc.org
+    - code: 20155-8
+      system: http://loinc.org
+    - code: LP115580-5
+      system: http://loinc.org
+    - code: 20154-1
+      system: http://loinc.org
+    - code: 43262-5
+      system: http://loinc.org
+    - code: 20150-9
+      system: http://loinc.org
+    - code: 64030-0
+      system: http://loinc.org
+    - code: 43263-3
+      system: http://loinc.org
+    - code: 43254-2
+      system: http://loinc.org
+    - code: 19925-7
+      system: http://loinc.org
+    - code: 20157-4
+      system: http://loinc.org
+    - code: 43261-7
+      system: http://loinc.org
+    - code: 69983-5
+      system: http://loinc.org
+    - code: 20152-5
+      system: http://loinc.org
+    - code: 43256-7
+      system: http://loinc.org
+    - code: LP115582-1
+      system: http://loinc.org
+    - code: 43259-1
+      system: http://loinc.org
+    - code: 64026-8
+      system: http://loinc.org
+    - code: 19926-5
+      system: http://loinc.org
+    - code: 43260-9
+      system: http://loinc.org
+    - code: 43253-4
+      system: http://loinc.org
+    - code: 20153-3
+      system: http://loinc.org
+    Observation: *id024
+  FVC:
+    Measurement: &id025
+    - code: LP287377-8
+      system: http://loinc.org
+    - code: 19874-7
+      system: http://loinc.org
+    - code: 19868-9
+      system: http://loinc.org
+    - code: 19875-4
+      system: http://loinc.org
+    - code: LP408947-2
+      system: http://loinc.org
+    - code: LP308829-3
+      system: http://loinc.org
+    - code: LP115583-9
+      system: http://loinc.org
+    - code: 19876-2
+      system: http://loinc.org
+    - code: 64029-2
+      system: http://loinc.org
+    - code: LP145617-9
+      system: http://loinc.org
+    - code: 19870-5
+      system: http://loinc.org
+    - code: LP404754-6
+      system: http://loinc.org
+    - code: LP308830-1
+      system: http://loinc.org
+    - code: LP408945-6
+      system: http://loinc.org
+    - code: 19869-7
+      system: http://loinc.org
+    - code: LP115581-3
+      system: http://loinc.org
+    - code: LP404755-3
+      system: http://loinc.org
+    - code: 19877-0
+      system: http://loinc.org
+    - code: 64027-6
+      system: http://loinc.org
+    - code: LP309006-7
+      system: http://loinc.org
+    - code: LP72220-4
+      system: http://loinc.org
+    - code: LP286043-7
+      system: http://loinc.org
+    Observation: *id025
+  FVC_flag_first:
+    Measurement: &id026
+    - code: LP287377-8
+      system: http://loinc.org
+    - code: 19874-7
+      system: http://loinc.org
+    - code: 19868-9
+      system: http://loinc.org
+    - code: 19875-4
+      system: http://loinc.org
+    - code: LP408947-2
+      system: http://loinc.org
+    - code: LP308829-3
+      system: http://loinc.org
+    - code: LP115583-9
+      system: http://loinc.org
+    - code: 19876-2
+      system: http://loinc.org
+    - code: 64029-2
+      system: http://loinc.org
+    - code: LP145617-9
+      system: http://loinc.org
+    - code: 19870-5
+      system: http://loinc.org
+    - code: LP404754-6
+      system: http://loinc.org
+    - code: LP308830-1
+      system: http://loinc.org
+    - code: LP408945-6
+      system: http://loinc.org
+    - code: 19869-7
+      system: http://loinc.org
+    - code: LP115581-3
+      system: http://loinc.org
+    - code: LP404755-3
+      system: http://loinc.org
+    - code: 19877-0
+      system: http://loinc.org
+    - code: 64027-6
+      system: http://loinc.org
+    - code: LP309006-7
+      system: http://loinc.org
+    - code: LP72220-4
+      system: http://loinc.org
+    - code: LP286043-7
+      system: http://loinc.org
+    Observation: *id026
+  FVC_flag_last:
+    Measurement: &id027
+    - code: LP287377-8
+      system: http://loinc.org
+    - code: 19874-7
+      system: http://loinc.org
+    - code: 19868-9
+      system: http://loinc.org
+    - code: 19875-4
+      system: http://loinc.org
+    - code: LP408947-2
+      system: http://loinc.org
+    - code: LP308829-3
+      system: http://loinc.org
+    - code: LP115583-9
+      system: http://loinc.org
+    - code: 19876-2
+      system: http://loinc.org
+    - code: 64029-2
+      system: http://loinc.org
+    - code: LP145617-9
+      system: http://loinc.org
+    - code: 19870-5
+      system: http://loinc.org
+    - code: LP404754-6
+      system: http://loinc.org
+    - code: LP308830-1
+      system: http://loinc.org
+    - code: LP408945-6
+      system: http://loinc.org
+    - code: 19869-7
+      system: http://loinc.org
+    - code: LP115581-3
+      system: http://loinc.org
+    - code: LP404755-3
+      system: http://loinc.org
+    - code: 19877-0
+      system: http://loinc.org
+    - code: 64027-6
+      system: http://loinc.org
+    - code: LP309006-7
+      system: http://loinc.org
+    - code: LP72220-4
+      system: http://loinc.org
+    - code: LP286043-7
+      system: http://loinc.org
+    Observation: *id027
+  FailureToThriveDx:
+    Condition:
+    - code: '783.7'
+      system: http://hl7.org/fhir/sid/icd-9-cm
+    - code: '783.41'
+      system: http://hl7.org/fhir/sid/icd-9-cm
+    - code: '779.34'
+      system: http://hl7.org/fhir/sid/icd-9-cm
+  Fever:
+    Condition:
+    - code: A96
+      system: http://hl7.org/fhir/sid/icd-10-cm
+    - code: A78
+      system: http://hl7.org/fhir/sid/icd-10-cm
+    - code: I01
+      system: http://hl7.org/fhir/sid/icd-10-cm
+    - code: A99
+      system: http://hl7.org/fhir/sid/icd-10-cm
+    - code: A38
+      system: http://hl7.org/fhir/sid/icd-10-cm
+    - code: A75
+      system: http://hl7.org/fhir/sid/icd-10-cm
+    - code: A90
+      system: http://hl7.org/fhir/sid/icd-10-cm
+    - code: A95
+      system: http://hl7.org/fhir/sid/icd-10-cm
+    - code: A94
+      system: http://hl7.org/fhir/sid/icd-10-cm
+    - code: R50
+      system: http://hl7.org/fhir/sid/icd-10-cm
+    - code: A77
+      system: http://hl7.org/fhir/sid/icd-10-cm
+    - code: I00
+      system: http://hl7.org/fhir/sid/icd-10-cm
+    - code: A91
+      system: http://hl7.org/fhir/sid/icd-10-cm
+  FexofenadineRx:
+    Drug:
+    - code: '87636'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+  FibromyalgiaDx:
+    Condition:
+    - code: M79.76
+      system: http://hl7.org/fhir/sid/icd-9-cm
+    - code: M79.70
+      system: http://hl7.org/fhir/sid/icd-9-cm
+    - code: M79.72
+      system: http://hl7.org/fhir/sid/icd-9-cm
+    - code: M79.73
+      system: http://hl7.org/fhir/sid/icd-9-cm
+    - code: M79.74
+      system: http://hl7.org/fhir/sid/icd-9-cm
+    - code: M79.75
+      system: http://hl7.org/fhir/sid/icd-9-cm
+    - code: M79.78
+      system: http://hl7.org/fhir/sid/icd-9-cm
+    - code: M79.71
+      system: http://hl7.org/fhir/sid/icd-9-cm
+    - code: M79.79
+      system: http://hl7.org/fhir/sid/icd-9-cm
+    - code: M79.77
+      system: http://hl7.org/fhir/sid/icd-9-cm
+    - code: M79.7
+      system: http://hl7.org/fhir/sid/icd-9-cm
+  FlunisolideRx:
+    Drug:
+    - code: '25120'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+  FluoxetineRx:
+    Drug:
+    - code: '4493'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+  FluticasoneRx:
+    Drug:
+    - code: '41126'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+  FormoterolRx:
+    Drug:
+    - code: '25255'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+  GlucoseToleranceTest:
+    Measurement: &id028
+    - code: LP387244-9
+      system: http://loinc.org
+    - code: LP387246-4
+      system: http://loinc.org
+    - code: LP387240-7
+      system: http://loinc.org
+    - code: LP387243-1
+      system: http://loinc.org
+    - code: LP386945-2
+      system: http://loinc.org
+    - code: LP387242-3
+      system: http://loinc.org
+    - code: LP387241-5
+      system: http://loinc.org
+    - code: LP417167-6
+      system: http://loinc.org
+    - code: LP387245-6
+      system: http://loinc.org
+    - code: LP46694-3
+      system: http://loinc.org
+    - code: LP387198-7
+      system: http://loinc.org
+    - code: LP387239-9
+      system: http://loinc.org
+    Observation: *id028
+  GlucoseToleranceTest_flag_first:
+    Measurement: &id029
+    - code: LP387244-9
+      system: http://loinc.org
+    - code: LP387246-4
+      system: http://loinc.org
+    - code: LP387240-7
+      system: http://loinc.org
+    - code: LP387243-1
+      system: http://loinc.org
+    - code: LP386945-2
+      system: http://loinc.org
+    - code: LP387242-3
+      system: http://loinc.org
+    - code: LP387241-5
+      system: http://loinc.org
+    - code: LP417167-6
+      system: http://loinc.org
+    - code: LP387245-6
+      system: http://loinc.org
+    - code: LP46694-3
+      system: http://loinc.org
+    - code: LP387198-7
+      system: http://loinc.org
+    - code: LP387239-9
+      system: http://loinc.org
+    Observation: *id029
+  GlucoseToleranceTest_flag_last:
+    Measurement: &id030
+    - code: LP387244-9
+      system: http://loinc.org
+    - code: LP387246-4
+      system: http://loinc.org
+    - code: LP387240-7
+      system: http://loinc.org
+    - code: LP387243-1
+      system: http://loinc.org
+    - code: LP386945-2
+      system: http://loinc.org
+    - code: LP387242-3
+      system: http://loinc.org
+    - code: LP387241-5
+      system: http://loinc.org
+    - code: LP417167-6
+      system: http://loinc.org
+    - code: LP387245-6
+      system: http://loinc.org
+    - code: LP46694-3
+      system: http://loinc.org
+    - code: LP387198-7
+      system: http://loinc.org
+    - code: LP387239-9
+      system: http://loinc.org
+    Observation: *id030
+  GoserelinRx:
+    Drug:
+    - code: '50610'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+  Hemoglobin:
+    Measurement: &id031
+    - code: LP53445-0
+      system: http://loinc.org
+    - code: LP49893-8
+      system: http://loinc.org
+    - code: LP53437-7
+      system: http://loinc.org
+    - code: LP50152-5
+      system: http://loinc.org
+    - code: LP53522-6
+      system: http://loinc.org
+    - code: LP50954-4
+      system: http://loinc.org
+    - code: LP53519-2
+      system: http://loinc.org
+    - code: LP66423-2
+      system: http://loinc.org
+    - code: LP50956-9
+      system: http://loinc.org
+    - code: LP53483-1
+      system: http://loinc.org
+    - code: LP53516-8
+      system: http://loinc.org
+    - code: LP45041-8
+      system: http://loinc.org
+    - code: LP53454-2
+      system: http://loinc.org
+    - code: LP53465-8
+      system: http://loinc.org
+    - code: LP66422-4
+      system: http://loinc.org
+    - code: LP53510-1
+      system: http://loinc.org
+    - code: LP53442-7
+      system: http://loinc.org
+    - code: LP53209-0
+      system: http://loinc.org
+    - code: LP53518-4
+      system: http://loinc.org
+    - code: LP40632-9
+      system: http://loinc.org
+    - code: LP94672-0
+      system: http://loinc.org
+    - code: LP43135-0
+      system: http://loinc.org
+    - code: LP49628-8
+      system: http://loinc.org
+    - code: LP50873-6
+      system: http://loinc.org
+    - code: LP94673-8
+      system: http://loinc.org
+    - code: LP53434-4
+      system: http://loinc.org
+    - code: LP42134-4
+      system: http://loinc.org
+    - code: LP70633-0
+      system: http://loinc.org
+    - code: LP45628-2
+      system: http://loinc.org
+    - code: LP53455-9
+      system: http://loinc.org
+    - code: LP48741-0
+      system: http://loinc.org
+    - code: LP53448-4
+      system: http://loinc.org
+    - code: LP70253-7
+      system: http://loinc.org
+    - code: LP100945-7
+      system: http://loinc.org
+    - code: LP53439-3
+      system: http://loinc.org
+    - code: LP216110-9
+      system: http://loinc.org
+    - code: LP94670-4
+      system: http://loinc.org
+    - code: LP51960-0
+      system: http://loinc.org
+    - code: LP66421-6
+      system: http://loinc.org
+    - code: LP53436-9
+      system: http://loinc.org
+    - code: LP53453-4
+      system: http://loinc.org
+    - code: LP94671-2
+      system: http://loinc.org
+    - code: LP48048-0
+      system: http://loinc.org
+    - code: LP69598-8
+      system: http://loinc.org
+    - code: LP53447-6
+      system: http://loinc.org
+    - code: LP50153-3
+      system: http://loinc.org
+    - code: LP53449-2
+      system: http://loinc.org
+    Observation: *id031
+  Hemoglobin_flag_first:
+    Measurement: &id032
+    - code: LP53445-0
+      system: http://loinc.org
+    - code: LP49893-8
+      system: http://loinc.org
+    - code: LP53437-7
+      system: http://loinc.org
+    - code: LP50152-5
+      system: http://loinc.org
+    - code: LP53522-6
+      system: http://loinc.org
+    - code: LP50954-4
+      system: http://loinc.org
+    - code: LP53519-2
+      system: http://loinc.org
+    - code: LP66423-2
+      system: http://loinc.org
+    - code: LP50956-9
+      system: http://loinc.org
+    - code: LP53483-1
+      system: http://loinc.org
+    - code: LP53516-8
+      system: http://loinc.org
+    - code: LP45041-8
+      system: http://loinc.org
+    - code: LP53454-2
+      system: http://loinc.org
+    - code: LP53465-8
+      system: http://loinc.org
+    - code: LP66422-4
+      system: http://loinc.org
+    - code: LP53510-1
+      system: http://loinc.org
+    - code: LP53442-7
+      system: http://loinc.org
+    - code: LP53209-0
+      system: http://loinc.org
+    - code: LP53518-4
+      system: http://loinc.org
+    - code: LP40632-9
+      system: http://loinc.org
+    - code: LP94672-0
+      system: http://loinc.org
+    - code: LP43135-0
+      system: http://loinc.org
+    - code: LP49628-8
+      system: http://loinc.org
+    - code: LP50873-6
+      system: http://loinc.org
+    - code: LP94673-8
+      system: http://loinc.org
+    - code: LP53434-4
+      system: http://loinc.org
+    - code: LP42134-4
+      system: http://loinc.org
+    - code: LP70633-0
+      system: http://loinc.org
+    - code: LP45628-2
+      system: http://loinc.org
+    - code: LP53455-9
+      system: http://loinc.org
+    - code: LP48741-0
+      system: http://loinc.org
+    - code: LP53448-4
+      system: http://loinc.org
+    - code: LP70253-7
+      system: http://loinc.org
+    - code: LP100945-7
+      system: http://loinc.org
+    - code: LP53439-3
+      system: http://loinc.org
+    - code: LP216110-9
+      system: http://loinc.org
+    - code: LP94670-4
+      system: http://loinc.org
+    - code: LP51960-0
+      system: http://loinc.org
+    - code: LP66421-6
+      system: http://loinc.org
+    - code: LP53436-9
+      system: http://loinc.org
+    - code: LP53453-4
+      system: http://loinc.org
+    - code: LP94671-2
+      system: http://loinc.org
+    - code: LP48048-0
+      system: http://loinc.org
+    - code: LP69598-8
+      system: http://loinc.org
+    - code: LP53447-6
+      system: http://loinc.org
+    - code: LP50153-3
+      system: http://loinc.org
+    - code: LP53449-2
+      system: http://loinc.org
+    Observation: *id032
+  Hemoglobin_flag_last:
+    Measurement: &id033
+    - code: LP53445-0
+      system: http://loinc.org
+    - code: LP49893-8
+      system: http://loinc.org
+    - code: LP53437-7
+      system: http://loinc.org
+    - code: LP50152-5
+      system: http://loinc.org
+    - code: LP53522-6
+      system: http://loinc.org
+    - code: LP50954-4
+      system: http://loinc.org
+    - code: LP53519-2
+      system: http://loinc.org
+    - code: LP66423-2
+      system: http://loinc.org
+    - code: LP50956-9
+      system: http://loinc.org
+    - code: LP53483-1
+      system: http://loinc.org
+    - code: LP53516-8
+      system: http://loinc.org
+    - code: LP45041-8
+      system: http://loinc.org
+    - code: LP53454-2
+      system: http://loinc.org
+    - code: LP53465-8
+      system: http://loinc.org
+    - code: LP66422-4
+      system: http://loinc.org
+    - code: LP53510-1
+      system: http://loinc.org
+    - code: LP53442-7
+      system: http://loinc.org
+    - code: LP53209-0
+      system: http://loinc.org
+    - code: LP53518-4
+      system: http://loinc.org
+    - code: LP40632-9
+      system: http://loinc.org
+    - code: LP94672-0
+      system: http://loinc.org
+    - code: LP43135-0
+      system: http://loinc.org
+    - code: LP49628-8
+      system: http://loinc.org
+    - code: LP50873-6
+      system: http://loinc.org
+    - code: LP94673-8
+      system: http://loinc.org
+    - code: LP53434-4
+      system: http://loinc.org
+    - code: LP42134-4
+      system: http://loinc.org
+    - code: LP70633-0
+      system: http://loinc.org
+    - code: LP45628-2
+      system: http://loinc.org
+    - code: LP53455-9
+      system: http://loinc.org
+    - code: LP48741-0
+      system: http://loinc.org
+    - code: LP53448-4
+      system: http://loinc.org
+    - code: LP70253-7
+      system: http://loinc.org
+    - code: LP100945-7
+      system: http://loinc.org
+    - code: LP53439-3
+      system: http://loinc.org
+    - code: LP216110-9
+      system: http://loinc.org
+    - code: LP94670-4
+      system: http://loinc.org
+    - code: LP51960-0
+      system: http://loinc.org
+    - code: LP66421-6
+      system: http://loinc.org
+    - code: LP53436-9
+      system: http://loinc.org
+    - code: LP53453-4
+      system: http://loinc.org
+    - code: LP94671-2
+      system: http://loinc.org
+    - code: LP48048-0
+      system: http://loinc.org
+    - code: LP69598-8
+      system: http://loinc.org
+    - code: LP53447-6
+      system: http://loinc.org
+    - code: LP50153-3
+      system: http://loinc.org
+    - code: LP53449-2
+      system: http://loinc.org
+    Observation: *id033
+  HistrelinRx:
+    Drug:
+    - code: '50975'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+  HydroxyzineRx:
+    Drug:
+    - code: '5553'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+  HypertensionDx:
+    Condition:
+    - code: I15
+      system: http://hl7.org/fhir/sid/icd-10-cm
+    - code: O12
+      system: http://hl7.org/fhir/sid/icd-10-cm
+    - code: O10
+      system: http://hl7.org/fhir/sid/icd-10-cm
+    - code: O11
+      system: http://hl7.org/fhir/sid/icd-10-cm
+    - code: O16
+      system: http://hl7.org/fhir/sid/icd-10-cm
+    - code: O13
+      system: http://hl7.org/fhir/sid/icd-10-cm
+    - code: I10
+      system: http://hl7.org/fhir/sid/icd-10-cm
+  IgE:
+    Measurement: &id034
+    - code: LP66628-6
+      system: http://loinc.org
+    - code: LP50617-7
+      system: http://loinc.org
+    - code: LP42944-6
+      system: http://loinc.org
+    - code: LP43239-0
+      system: http://loinc.org
+    Observation: *id034
+  IgE_flag_first:
+    Measurement: &id035
+    - code: LP66628-6
+      system: http://loinc.org
+    - code: LP50617-7
+      system: http://loinc.org
+    - code: LP42944-6
+      system: http://loinc.org
+    - code: LP43239-0
+      system: http://loinc.org
+    Observation: *id035
+  IgE_flag_last:
+    Measurement: &id036
+    - code: LP66628-6
+      system: http://loinc.org
+    - code: LP50617-7
+      system: http://loinc.org
+    - code: LP42944-6
+      system: http://loinc.org
+    - code: LP43239-0
+      system: http://loinc.org
+    Observation: *id036
+  IndacaterolRx:
+    Drug:
+    - code: '1114326'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+  IpratropiumRx:
+    Drug:
+    - code: '7213'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+  IvacaftorRx:
+    Drug:
+    - code: '1243041'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+  KidneyCancerDx:
+    Condition:
+    - code: C64
+      system: http://hl7.org/fhir/sid/icd-10-cm
+  LeuprolideRx:
+    Drug:
+    - code: '42375'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+  LungTransplant:
+    Procedure:
+    - code: '33.5'
+      system: http://hl7.org/fhir/sid/icd-9-cm
+    - code: '33.51'
+      system: http://hl7.org/fhir/sid/icd-9-cm
+    - code: '33.50'
+      system: http://hl7.org/fhir/sid/icd-9-cm
+    - code: '1006041'
+      system: http://hl7.org/fhir/sid/icd-9-cm
+    - code: '33935'
+      system: http://hl7.org/fhir/sid/icd-9-cm
+    - code: '32851'
+      system: http://hl7.org/fhir/sid/icd-9-cm
+    - code: '32853'
+      system: http://hl7.org/fhir/sid/icd-9-cm
+    - code: '1006038'
+      system: http://hl7.org/fhir/sid/icd-9-cm
+    - code: '32852'
+      system: http://hl7.org/fhir/sid/icd-9-cm
+    - code: '32854'
+      system: http://hl7.org/fhir/sid/icd-9-cm
+    - code: 00580
+      system: http://hl7.org/fhir/sid/icd-9-cm
+    - code: '33.52'
+      system: http://hl7.org/fhir/sid/icd-9-cm
+  MaleInfertilityDx:
+    Condition:
+    - code: N46
+      system: http://hl7.org/fhir/sid/icd-10-cm
+  MedroxyprogesteroneRx:
+    Drug:
+    - code: '486783'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '6691'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '29438'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+  MenopauseDx:
+    Condition:
+    - code: '627.4'
+      system: http://hl7.org/fhir/sid/icd-10-cm
+    - code: N95.3
+      system: http://hl7.org/fhir/sid/icd-10-cm
+    - code: E28.31
+      system: http://hl7.org/fhir/sid/icd-10-cm
+    - code: E28.319
+      system: http://hl7.org/fhir/sid/icd-10-cm
+    - code: E28.310
+      system: http://hl7.org/fhir/sid/icd-10-cm
+    - code: '256.31'
+      system: http://hl7.org/fhir/sid/icd-10-cm
+  MepolizumabRx:
+    Drug:
+    - code: '1720597'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+  MetaproterenolRx:
+    Drug:
+    - code: '7688'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+  MetforminRx:
+    Drug:
+    - code: '6809'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+  MethylprednisoneRx:
+    Drug:
+    - code: '6902'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '665792'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+  MiddleEarDiseaseDx:
+    Condition:
+    - code: '385.1'
+      system: http://hl7.org/fhir/sid/icd-9-cm
+    - code: H74.1
+      system: http://hl7.org/fhir/sid/icd-9-cm
+    - code: '385.10'
+      system: http://hl7.org/fhir/sid/icd-9-cm
+  MometasoneRx:
+    Drug:
+    - code: '108118'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+  NandroloneRx:
+    Drug:
+    - code: '7244'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+  NeonatalRespiratoryDistressDx:
+    Condition:
+    - code: P22
+      system: http://hl7.org/fhir/sid/icd-10-cm
+  NitricOxideRx:
+    Drug:
+    - code: '7442'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+  ObesityDx:
+    Condition:
+    - code: E66
+      system: http://hl7.org/fhir/sid/icd-10-cm
+  OmalizumabRx:
+    Drug:
+    - code: '302379'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+  OrkambiRx:
+    Drug:
+    - code: '2053512'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '2053519'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '1655934'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '1812470'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+  OvarianCancerDx:
+    Condition:
+    - code: C56
+      system: http://hl7.org/fhir/sid/icd-10-cm
+  OvarianDysfunctionDx:
+    Condition:
+    - code: E28
+      system: http://hl7.org/fhir/sid/icd-10-cm
+  ParoxetineRx:
+    Drug:
+    - code: '485039'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '32937'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+  PneumoniaDx:
+    Condition:
+    - code: P23
+      system: http://hl7.org/fhir/sid/icd-10-cm
+    - code: J17
+      system: http://hl7.org/fhir/sid/icd-10-cm
+    - code: J12
+      system: http://hl7.org/fhir/sid/icd-10-cm
+    - code: J15
+      system: http://hl7.org/fhir/sid/icd-10-cm
+    - code: J14
+      system: http://hl7.org/fhir/sid/icd-10-cm
+    - code: J13
+      system: http://hl7.org/fhir/sid/icd-10-cm
+    - code: J18
+      system: http://hl7.org/fhir/sid/icd-10-cm
+    - code: J16
+      system: http://hl7.org/fhir/sid/icd-10-cm
+  PrasteroneRx:
+    Drug:
+    - code: '1366963'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '3143'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+  PrednisoneRx:
+    Drug:
+    - code: '8640'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+  PregnancyDx:
+    Condition:
+    - code: O00
+      system: http://hl7.org/fhir/sid/icd-10-cm
+    - code: O99
+      system: http://hl7.org/fhir/sid/icd-10-cm
+    - code: O25
+      system: http://hl7.org/fhir/sid/icd-10-cm
+    - code: O08
+      system: http://hl7.org/fhir/sid/icd-10-cm
+    - code: O48
+      system: http://hl7.org/fhir/sid/icd-10-cm
+    - code: O26
+      system: http://hl7.org/fhir/sid/icd-10-cm
+    - code: O23
+      system: http://hl7.org/fhir/sid/icd-10-cm
+    - code: O98
+      system: http://hl7.org/fhir/sid/icd-10-cm
+    - code: O24
+      system: http://hl7.org/fhir/sid/icd-10-cm
+    - code: O21
+      system: http://hl7.org/fhir/sid/icd-10-cm
+    - code: O10
+      system: http://hl7.org/fhir/sid/icd-10-cm
+    - code: P00
+      system: http://hl7.org/fhir/sid/icd-10-cm
+    - code: O29
+      system: http://hl7.org/fhir/sid/icd-10-cm
+    - code: O94
+      system: http://hl7.org/fhir/sid/icd-10-cm
+    - code: O09
+      system: http://hl7.org/fhir/sid/icd-10-cm
+    - code: P01
+      system: http://hl7.org/fhir/sid/icd-10-cm
+    - code: O22
+      system: http://hl7.org/fhir/sid/icd-10-cm
+    - code: O20
+      system: http://hl7.org/fhir/sid/icd-10-cm
+  ProgesteroneRx:
+    Drug:
+    - code: '8727'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+  PropranololRx:
+    Drug:
+    - code: '2105554'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '8787'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+  ProstateCancerDx:
+    Condition:
+    - code: C61
+      system: http://hl7.org/fhir/sid/icd-10-cm
+  PulmozymeRx:
+    Drug:
+    - code: '337623'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+  PulseOximetry:
+    Measurement: &id037
+    - code: LP415667-7
+      system: http://loinc.org
+    - code: LP97749-3
+      system: http://loinc.org
+    - code: LP409177-5
+      system: http://loinc.org
+    - code: LP409088-4
+      system: http://loinc.org
+    - code: LP415666-9
+      system: http://loinc.org
+    - code: LP386838-9
+      system: http://loinc.org
+    Observation: *id037
+  PulseOximetry_flag_first:
+    Measurement: &id038
+    - code: LP415667-7
+      system: http://loinc.org
+    - code: LP97749-3
+      system: http://loinc.org
+    - code: LP409177-5
+      system: http://loinc.org
+    - code: LP409088-4
+      system: http://loinc.org
+    - code: LP415666-9
+      system: http://loinc.org
+    - code: LP386838-9
+      system: http://loinc.org
+    Observation: *id038
+  PulseOximetry_flag_last:
+    Measurement: &id039
+    - code: LP415667-7
+      system: http://loinc.org
+    - code: LP97749-3
+      system: http://loinc.org
+    - code: LP409177-5
+      system: http://loinc.org
+    - code: LP409088-4
+      system: http://loinc.org
+    - code: LP415666-9
+      system: http://loinc.org
+    - code: LP386838-9
+      system: http://loinc.org
+    Observation: *id039
+  Race_UNC:
+    Patient:
+      code: 2028-9
+      system: http://terminology.hl7.org/ValueSet/v3-Race
+  ReactiveAirwayDx:
+    Condition:
+    - code: J66
+      system: http://hl7.org/fhir/sid/icd-10-cm
+  SalmeterolRx:
+    Drug:
+    - code: '36117'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+  SertralineRx:
+    Drug:
+    - code: '36437'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+  Sex:
+    Patient:
+      code: 76689-9
+      system: http://loinc.org
+  Sex2:
+    Patient:
+      code: 76689-9
+      system: http://loinc.org
+  SitusInversusDx:
+    Condition:
+    - code: Q89.3
+      system: http://hl7.org/fhir/sid/icd-9-cm
+    - code: '759.3'
+      system: http://hl7.org/fhir/sid/icd-9-cm
+  SputumCulture:
+    Measurement: &id040
+    - code: LP378657-3
+      system: http://loinc.org
+    - code: LP404288-5
+      system: http://loinc.org
+    - code: LP393828-1
+      system: http://loinc.org
+    - code: LP70271-9
+      system: http://loinc.org
+    - code: LP375340-9
+      system: http://loinc.org
+    - code: LP256614-1
+      system: http://loinc.org
+    - code: LP52033-5
+      system: http://loinc.org
+    - code: LP44811-5
+      system: http://loinc.org
+    - code: LP269654-2
+      system: http://loinc.org
+    - code: LP40853-1
+      system: http://loinc.org
+    - code: LP259786-4
+      system: http://loinc.org
+    - code: LP375568-5
+      system: http://loinc.org
+    - code: LP379022-9
+      system: http://loinc.org
+    - code: LP40964-6
+      system: http://loinc.org
+    - code: LP375336-7
+      system: http://loinc.org
+    - code: LP380047-3
+      system: http://loinc.org
+    - code: LP374821-9
+      system: http://loinc.org
+    - code: LP257831-0
+      system: http://loinc.org
+    - code: LP404183-8
+      system: http://loinc.org
+    - code: LP256596-0
+      system: http://loinc.org
+    - code: LP375791-3
+      system: http://loinc.org
+    - code: LP49784-9
+      system: http://loinc.org
+    - code: LP52558-1
+      system: http://loinc.org
+    - code: LP256698-4
+      system: http://loinc.org
+    - code: LP257900-3
+      system: http://loinc.org
+    - code: LP256689-3
+      system: http://loinc.org
+    - code: LP374552-0
+      system: http://loinc.org
+    - code: LP40614-7
+      system: http://loinc.org
+    - code: LP374185-9
+      system: http://loinc.org
+    - code: LP392772-2
+      system: http://loinc.org
+    - code: LP375958-8
+      system: http://loinc.org
+    - code: LP374976-1
+      system: http://loinc.org
+    - code: LP375234-4
+      system: http://loinc.org
+    - code: LP260677-2
+      system: http://loinc.org
+    - code: LP376489-3
+      system: http://loinc.org
+    - code: LP376431-5
+      system: http://loinc.org
+    - code: LP48825-1
+      system: http://loinc.org
+    - code: LP380102-6
+      system: http://loinc.org
+    - code: LP49791-4
+      system: http://loinc.org
+    - code: LP54291-7
+      system: http://loinc.org
+    - code: LP375007-4
+      system: http://loinc.org
+    - code: LP255924-5
+      system: http://loinc.org
+    - code: LP420350-3
+      system: http://loinc.org
+    - code: LP50626-8
+      system: http://loinc.org
+    - code: LP374541-3
+      system: http://loinc.org
+    - code: LP54318-8
+      system: http://loinc.org
+    - code: LP377224-3
+      system: http://loinc.org
+    - code: LP393321-7
+      system: http://loinc.org
+    - code: LP258328-6
+      system: http://loinc.org
+    - code: LP402091-5
+      system: http://loinc.org
+    - code: LP393843-0
+      system: http://loinc.org
+    - code: LP49768-2
+      system: http://loinc.org
+    - code: LP257825-2
+      system: http://loinc.org
+    - code: LP402081-6
+      system: http://loinc.org
+    - code: LP376161-8
+      system: http://loinc.org
+    - code: LP376475-2
+      system: http://loinc.org
+    - code: LP402067-5
+      system: http://loinc.org
+    - code: LP43459-4
+      system: http://loinc.org
+    - code: LP259803-7
+      system: http://loinc.org
+    - code: LP43448-7
+      system: http://loinc.org
+    - code: LP380295-8
+      system: http://loinc.org
+    - code: LP376162-6
+      system: http://loinc.org
+    - code: LP377079-1
+      system: http://loinc.org
+    - code: LP54334-5
+      system: http://loinc.org
+    - code: LP420349-5
+      system: http://loinc.org
+    - code: LP256590-3
+      system: http://loinc.org
+    - code: LP259738-5
+      system: http://loinc.org
+    - code: LP375829-1
+      system: http://loinc.org
+    - code: LP375687-3
+      system: http://loinc.org
+    - code: LP392786-2
+      system: http://loinc.org
+    - code: LP374727-8
+      system: http://loinc.org
+    - code: LP375219-5
+      system: http://loinc.org
+    - code: LP125273-5
+      system: http://loinc.org
+    - code: LP257833-6
+      system: http://loinc.org
+    - code: LP378579-9
+      system: http://loinc.org
+    - code: LP375120-5
+      system: http://loinc.org
+    - code: LP375557-8
+      system: http://loinc.org
+    - code: LP260541-0
+      system: http://loinc.org
+    - code: LP393483-5
+      system: http://loinc.org
+    - code: LP392617-9
+      system: http://loinc.org
+    - code: LP256542-4
+      system: http://loinc.org
+    - code: LP180481-6
+      system: http://loinc.org
+    - code: LP186337-4
+      system: http://loinc.org
+    - code: LP43465-1
+      system: http://loinc.org
+    - code: LP259730-2
+      system: http://loinc.org
+    - code: LP375114-8
+      system: http://loinc.org
+    - code: LP46746-1
+      system: http://loinc.org
+    - code: LP404391-7
+      system: http://loinc.org
+    - code: LP374969-6
+      system: http://loinc.org
+    - code: LP259787-2
+      system: http://loinc.org
+    - code: LP44727-3
+      system: http://loinc.org
+    - code: LP65834-1
+      system: http://loinc.org
+    - code: LP378578-1
+      system: http://loinc.org
+    - code: LP404358-6
+      system: http://loinc.org
+    - code: LP256846-9
+      system: http://loinc.org
+    - code: LP54178-6
+      system: http://loinc.org
+    - code: LP256537-4
+      system: http://loinc.org
+    - code: LP392809-2
+      system: http://loinc.org
+    - code: LP43383-6
+      system: http://loinc.org
+    - code: LP48827-7
+      system: http://loinc.org
+    - code: LP54303-0
+      system: http://loinc.org
+    - code: LP392733-4
+      system: http://loinc.org
+    - code: LP386737-3
+      system: http://loinc.org
+    - code: LP94529-2
+      system: http://loinc.org
+    - code: LP256580-4
+      system: http://loinc.org
+    - code: LP41594-0
+      system: http://loinc.org
+    - code: LP373800-4
+      system: http://loinc.org
+    - code: LP427588-1
+      system: http://loinc.org
+    - code: LP40963-8
+      system: http://loinc.org
+    - code: LP41777-1
+      system: http://loinc.org
+    - code: LP427566-7
+      system: http://loinc.org
+    - code: LP420348-7
+      system: http://loinc.org
+    - code: LP379784-4
+      system: http://loinc.org
+    - code: LP259772-4
+      system: http://loinc.org
+    - code: LP376134-5
+      system: http://loinc.org
+    - code: LP373744-4
+      system: http://loinc.org
+    - code: LP43267-1
+      system: http://loinc.org
+    - code: LP69928-7
+      system: http://loinc.org
+    - code: LP43777-9
+      system: http://loinc.org
+    - code: LP379833-9
+      system: http://loinc.org
+    - code: LP61737-0
+      system: http://loinc.org
+    - code: LP54402-0
+      system: http://loinc.org
+    - code: LP94526-8
+      system: http://loinc.org
+    - code: LP45631-6
+      system: http://loinc.org
+    - code: LP50397-6
+      system: http://loinc.org
+    - code: LP375255-9
+      system: http://loinc.org
+    - code: LP404347-9
+      system: http://loinc.org
+    - code: LP393486-8
+      system: http://loinc.org
+    - code: LP43437-0
+      system: http://loinc.org
+    - code: LP54354-3
+      system: http://loinc.org
+    - code: LP54205-7
+      system: http://loinc.org
+    - code: LP259287-3
+      system: http://loinc.org
+    - code: LP374465-5
+      system: http://loinc.org
+    - code: LP373745-1
+      system: http://loinc.org
+    - code: LP375129-6
+      system: http://loinc.org
+    - code: LP404153-1
+      system: http://loinc.org
+    - code: LP259744-3
+      system: http://loinc.org
+    - code: LP374655-1
+      system: http://loinc.org
+    - code: LP54355-0
+      system: http://loinc.org
+    - code: LP379846-1
+      system: http://loinc.org
+    - code: LP375691-5
+      system: http://loinc.org
+    - code: LP51498-1
+      system: http://loinc.org
+    - code: LP43403-2
+      system: http://loinc.org
+    - code: LP375267-4
+      system: http://loinc.org
+    - code: LP377005-6
+      system: http://loinc.org
+    - code: LP375821-8
+      system: http://loinc.org
+    - code: LP374963-9
+      system: http://loinc.org
+    - code: LP258673-5
+      system: http://loinc.org
+    - code: LP373980-4
+      system: http://loinc.org
+    - code: LP375229-4
+      system: http://loinc.org
+    - code: LP375752-5
+      system: http://loinc.org
+    - code: LP260474-4
+      system: http://loinc.org
+    - code: LP129050-3
+      system: http://loinc.org
+    - code: LP374896-1
+      system: http://loinc.org
+    - code: LP387804-0
+      system: http://loinc.org
+    - code: LP378694-6
+      system: http://loinc.org
+    - code: LP375211-2
+      system: http://loinc.org
+    - code: LP393008-0
+      system: http://loinc.org
+    - code: LP52893-2
+      system: http://loinc.org
+    - code: LP259823-5
+      system: http://loinc.org
+    - code: LP374548-8
+      system: http://loinc.org
+    - code: LP52894-0
+      system: http://loinc.org
+    - code: LP54079-6
+      system: http://loinc.org
+    - code: LP256570-5
+      system: http://loinc.org
+    Observation: *id040
+  TamoxifenRx:
+    Drug:
+    - code: '10324'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+  TesticularCancerDx:
+    Condition:
+    - code: C62
+      system: http://hl7.org/fhir/sid/icd-10-cm
+  TesticularDysfunctionDx:
+    Condition:
+    - code: E29
+      system: http://hl7.org/fhir/sid/icd-10-cm
+  TestosteroneRx:
+    Drug:
+    - code: '37852'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '10379'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '37855'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+  TheophyllineRx:
+    Drug:
+    - code: '10438'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+  TobramycinRx:
+    Drug:
+    - code: '10627'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+  TocilizumabRx:
+    Drug:
+    - code: '612865'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+  TrazodoneRx:
+    Drug:
+    - code: '10737'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+  TrikaftaRx:
+    Drug:
+    - code: '2257013'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '2557216'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+  TriptorelinRx:
+    Drug:
+    - code: '38782'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '285103'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+  UterineCancerDx:
+    Condition:
+    - code: C55
+      system: http://hl7.org/fhir/sid/icd-10-cm
+  VenlafaxineRx:
+    Drug:
+    - code: '38782'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '285103'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+  VitaminA_Rx:
+    Drug:
+    - code: '11246'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+  VitaminB_Rx:
+    Drug:
+    - code: '220870'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '11251'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+  VitaminK_Rx:
+    Drug:
+    - code: '6728'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '8308'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '42781'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
+    - code: '11258'
+      system: http://www.nlm.nih.gov/research/umls/rxnorm
