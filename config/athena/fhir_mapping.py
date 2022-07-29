@@ -44,15 +44,9 @@ if __name__ == '__main__':
     variable_mapped_dict = {}
     for key, value in variable_dict.items():
         if not value or 'search_term' not in value or 'domain' not in value or not value['search_term']:
-            variable_mapped_dict[key] = {
-                'not_FHIR': {}
-            }
             continue
         search_term = value['search_term'].strip()
         if not search_term:
-            variable_mapped_dict[key] = {
-                'not_FHIR': {}
-            }
             continue
         if 'system' in value and 'code' in value:
             variable_mapped_dict[key] = {
