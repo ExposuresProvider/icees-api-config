@@ -3493,7 +3493,7 @@ FHIR:
       system: http://hl7.org/fhir/sid/icd-9-cm
     - code: '1006041'
       system: http://hl7.org/fhir/sid/icd-9-cm
-    - code: 00580
+    - code: '00580'
       system: http://hl7.org/fhir/sid/icd-9-cm
     - code: '33.52'
       system: http://hl7.org/fhir/sid/icd-9-cm
