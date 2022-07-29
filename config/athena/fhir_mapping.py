@@ -24,7 +24,7 @@ if __name__ == '__main__':
                         default='../ground-truth-yaml-files/FHIR_mappings_pcd.yml',
                         help='input feature yaml file')
     parser.add_argument('--output_fhir_mapping_file', type=str,
-                        default='../ground-truth-yaml-files/FHIR_mappings.yml',
+                        default='../ground-truth-yaml-files/FHIR_mappings_output_pcd.yml',
                         help='output file for the generated fhir mapping yaml file')
 
     args = parser.parse_args()
@@ -38,12 +38,22 @@ if __name__ == '__main__':
     for key, value in features_dict.items():
         # key is FHIR, value is a dict under FHIR
         for inner_key, inner_val in value.items():
-            if inner_val and 'domain' in inner_val and inner_val['domain']:
-                variable_dict[inner_key] = inner_val
+            variable_dict[inner_key] = inner_val
 
     athena_root_url = 'https://athena.ohdsi.org/api/v1/concepts?pageSize=200&pageNumber=1&'
     variable_mapped_dict = {}
     for key, value in variable_dict.items():
+        if not value or 'search_term' not in value or 'domain' not in value or not value['search_term']:
+            variable_mapped_dict[key] = {
+                'not_FHIR': {}
+            }
+            continue
+        search_term = value['search_term'].strip()
+        if not search_term:
+            variable_mapped_dict[key] = {
+                'not_FHIR': {}
+            }
+            continue
         if 'system' in value and 'code' in value:
             variable_mapped_dict[key] = {
                 'Patient': {
@@ -52,9 +62,7 @@ if __name__ == '__main__':
                 }
             }
             continue
-        search_term = value['search_term'].strip()
-        if not search_term:
-            continue
+
         search_term = search_term.replace(' ', '%20').replace('|', '%7C')
         athena_api_url_appendx = f'query="{search_term}"'
         term_class = value['class'] if 'class' in value else ''
