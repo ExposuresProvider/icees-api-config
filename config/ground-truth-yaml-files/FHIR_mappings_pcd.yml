@@ -4,14 +4,11 @@ patient:
     domain: Condition
     class: ICD10 Hierarchy
   HeartFailureDiseaseDx:
-    search_term:
   HypertensionDx:
     search_term: "hypertension"
     domain: Condition
     class: ICD10 Hierarchy  
   PCDDx:
-    search_term: 
-    domain:
   PrednisoneRx:
     search_term: "prednisone"
     domain: Drug
@@ -45,35 +42,16 @@ patient:
     domain: Condition
     class: ICD10 Hierarchy
   DailyWetCoughDx:
-    search_term:
   DexamethasoneRx:
     search_term: "dexamethasone"
     domain: Drug
     vocab: RxNorm
   CLARK_prediction:
-    search_term:
-    domain:
-    class:
   CLARK_prediction_NotPCD:
-    search_term:
-    domain:
-    class:
   CLARK_prediction_PCD:
-    search_term:
-    domain:
-    class:
   Confirmed_CF_Dx:
-    search_term:
-    domain:
-    class:
   Confirmed_IdiopathicBronchiectasisDx:
-    search_term:
-    domain:
-    class:
   Confirmed_PCD_Dx:
-    search_term:
-    domain:
-    class:
   SputumCulture:
     search_term: "sputum"
     domain: Measurement, Observation
@@ -220,8 +198,6 @@ patient:
     domain: Condition
     vocab: ICD10, ICD9CM
   ProductiveCoughDx:
-    search_term: 
-    domain: 
   NeonatalRespiratoryDistressDx:
     search_term: "respiratory distress of newborn"
     domain: Condition
@@ -231,7 +207,6 @@ patient:
     domain: Condition
     vocab: ICD10, ICD9CM
   HeterotaxyDx:
-    search_term:
   MaleInfertilityDx:
     search_term: "male infertility"
     domain: Condition
