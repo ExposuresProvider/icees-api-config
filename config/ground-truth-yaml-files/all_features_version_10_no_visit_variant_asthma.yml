@@ -448,7 +448,7 @@ patient:
     minimum: 1
     type: integer
     search_term: sulfur dioxide
-    limi: 1
+    limit: 1
   AvgDailySO2Exposure_2_qcut:
     categories:
     - biolink:SmallMolecule
@@ -1902,6 +1902,7 @@ patient:
     minimum: 1
     type: integer
     search_term: roadway exposure
+    limit: 1
   TLR4_DIST_1X_qcut:
     categories:
     - biolink:ChemicalEntity
