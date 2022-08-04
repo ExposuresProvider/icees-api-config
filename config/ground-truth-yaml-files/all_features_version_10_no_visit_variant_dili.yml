@@ -1027,7 +1027,7 @@ patient:
     - Cholestatic
     - Hepatocellular
     - Mixed
-    name_looup:
+    name_lookup:
     - limit: 2
       search_term: cholestatic liver
     - limit: 2
