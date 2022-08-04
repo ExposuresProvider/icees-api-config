@@ -24,7 +24,7 @@ if __name__ == '__main__':
                         default='../ground-truth-yaml-files/FHIR_mappings_pcd.yml',
                         help='input feature yaml file')
     parser.add_argument('--output_fhir_mapping_file', type=str,
-                        default='../ground-truth-yaml-files/FHIR_mappings.yml',
+                        default='../ground-truth-yaml-files/FHIR_mappings_output_pcd.yml',
                         help='output file for the generated fhir mapping yaml file')
 
     args = parser.parse_args()
@@ -35,23 +35,33 @@ if __name__ == '__main__':
         features_dict = yaml.safe_load(features_file)
 
     variable_dict = {}
+    variable_mapped_dict = {}
     for key, value in features_dict.items():
         # key is FHIR, value is a dict under FHIR
         for inner_key, inner_val in value.items():
             if inner_val and 'domain' in inner_val and inner_val['domain']:
                 variable_dict[inner_key] = inner_val
+                continue
+            if isinstance(inner_val, list):
+                for inner_item in inner_val:
+                    if 'system' in inner_item and 'code' in inner_item:
+                        if inner_key not in variable_mapped_dict:
+                            variable_mapped_dict[inner_key] = {
+                                'Patient': [{
+                                    'code': inner_item['code'],
+                                    'system': inner_item['system']
+                                }]
+                            }
+                        else:
+                            variable_mapped_dict[inner_key]['Patient'].append({
+                                'code': inner_item['code'],
+                                'system': inner_item['system']
+                            })
+
+    print(variable_mapped_dict, flush=True)
 
     athena_root_url = 'https://athena.ohdsi.org/api/v1/concepts?pageSize=200&pageNumber=1&'
-    variable_mapped_dict = {}
     for key, value in variable_dict.items():
-        if 'system' in value and 'code' in value:
-            variable_mapped_dict[key] = {
-                'Patient': {
-                    'code': value['code'],
-                    'system': value['system']
-                }
-            }
-            continue
         search_term = value['search_term'].strip()
         if not search_term:
             continue
