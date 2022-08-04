@@ -1,24 +1,308 @@
 patient:
-  rs2476601_a:
+  A*02:01:
     categories:
     - biolink:SequenceVariant
-    enum: 
+    enum:
     - '0'
     - '1'
     - '2'
+    name_lookup:
+    - limit: 1
+      search_term: HLA-A
     type: string
-    search_term: PTPN22
-    limit: 1
-  rs1363907_a:
+  A1AT_Deficiency:
     categories:
-    - biolink:SequenceVariant
-    enum: 
+    - biolink:PhenotypicFeature
+    - biolink:DiseaseOrPhenotypicFeature
+    enum:
     - '0'
     - '1'
-    - '2'
+    name_lookup:
+    - limit: 1
+      search_term: A1AT deficiency
     type: string
-    search_term: ERAP
-    limit: 4      
+  ALT_DILIOnset:
+    categories:
+    - biolink:PhenotypicFeature
+    - biolink:DiseaseOrPhenotypicFeature
+    type: number
+  ALT_DILIOnset_ULN:
+    categories:
+    - biolink:PhenotypicFeature
+    - biolink:DiseaseOrPhenotypicFeature
+    name_lookup:
+    - limit: 1
+      search_term: abnormal alanine aminotransferase
+    type: number
+  ALT_DILIOnset_ULN_2:
+    categories:
+    - biolink:PhenotypicFeature
+    - biolink:DiseaseOrPhenotypicFeature
+    maximum: 5
+    minimum: 1
+    name_lookup:
+    - limit: 1
+      search_term: abnormal alanine aminotransferase
+    type: integer
+  ALT_Peak_DILIOnsetToMonth6:
+    categories:
+    - biolink:PhenotypicFeature
+    - biolink:DiseaseOrPhenotypicFeature
+    type: number
+  ALT_Peak_DILIOnsetToMonth6_ULN:
+    categories:
+    - biolink:PhenotypicFeature
+    - biolink:DiseaseOrPhenotypicFeature
+    name_lookup:
+    - limit: 1
+      search_term: abnormal alanine aminotransferase
+    type: number
+  ALT_Peak_DILIOnsetToMonth6_ULN_2:
+    categories:
+    - biolink:PhenotypicFeature
+    - biolink:DiseaseOrPhenotypicFeature
+    maximum: 5
+    minimum: 1
+    name_lookup:
+    - limit: 1
+      search_term: abnormal alanine aminotransferase
+    type: integer
+  ANA:
+    categories:
+    - biolink:PhenotypicFeature
+    - biolink:DiseaseOrPhenotypicFeature
+    enum:
+    - '0'
+    - '1'
+    name_lookup:
+    - limit: 4
+      search_term: antinuclear antibody
+    type: string
+  ASMA:
+    categories:
+    - biolink:PhenotypicFeature
+    - biolink:DiseaseOrPhenotypicFeature
+    enum:
+    - '0'
+    - '1'
+    name_lookup:
+    - limit: 1
+      search_term: anti smooth muscle antibody
+    type: string
+  AST_DILIOnset:
+    categories:
+    - biolink:PhenotypicFeature
+    enum: null
+    type: number
+  AST_DILIOnset_ULN:
+    categories:
+    - biolink:PhenotypicFeature
+    enum: null
+    name_lookup:
+    - limit: 1
+      search_term: abnormal aspartate aminotransferase
+    type: number
+  AST_DILIOnset_ULN_2:
+    categories:
+    - biolink:PhenotypicFeature
+    - biolink:DiseaseOrPhenotypicFeature
+    maximum: 5
+    minimum: 1
+    name_lookup:
+    - limit: 1
+      search_term: abnormal aspartate aminotransferase
+    type: integer
+  AST_Peak_DILIOnsetToMonth6:
+    categories:
+    - biolink:PhenotypicFeature
+    - biolink:DiseaseOrPhenotypicFeature
+    type: number
+  AST_Peak_DILIOnsetToMonth6_ULN:
+    categories:
+    - biolink:PhenotypicFeature
+    - biolink:DiseaseOrPhenotypicFeature
+    name_lookup:
+    - limit: 1
+      search_term: abnormal aspartate aminotransferase
+    type: number
+  AST_Peak_DILIOnsetToMonth6_ULN_2:
+    categories:
+    - biolink:PhenotypicFeature
+    - biolink:DiseaseOrPhenotypicFeature
+    enum:
+      maximum: 5
+      minimum: 1
+    name_lookup:
+    - limit: 1
+      search_term: abnormal aspartate aminotransferase
+    type: integer
+  AbdominalPain:
+    categories:
+    - biolink:PhenotypicFeature
+    - biolink:DiseaseOrPhenotypicFeature
+    enum:
+    - '0'
+    - '1'
+    name_lookup:
+    - limit: 3
+      search_term: abdominal pain
+    type: string
+  AgeQualifyingLab:
+    categories:
+    - biolink:PhenotypicFeature
+    - biolink:DiseaseOrPhenotypicFeature
+    maximum: 100
+    minimum: 0
+    name_lookup:
+    - limit: 2
+      search_term: age
+    type: number
+  AlcoholRelatedLiverDiseaseDx:
+    categories:
+    - biolink:Disease
+    - biolink:DiseaseOrPhenotypicFeature
+    enum:
+    - '0'
+    - '1'
+    name_lookup:
+    - limit: 2
+      search_term: alcoholic liver disease
+    type: string
+  AlcoholUse:
+    categories:
+    - biolink:PhenotypicFeature
+    - biolink:DiseaseOrPhenotypicFeature
+    enum:
+    - '0'
+    - '1'
+    name_lookup:
+    - limit: 1
+      search_term: alcohol use
+    type: string
+  AlkalinePhosphatase_DILIOnset:
+    categories:
+    - biolink:PhenotypicFeature
+    - biolink:DiseaseOrPhenotypicFeature
+    type: number
+  AlkalinePhosphatase_DILIOnset_ULN:
+    categories:
+    - biolink:PhenotypicFeature
+    - biolink:DiseaseOrPhenotypicFeature
+    name_lookup:
+    - limit: 1
+      search_term: abnormal alkaline phosphatase
+    type: number
+  AlkalinePhosphatase_DILIOnset_ULN_2:
+    categories:
+    - biolink:PhenotypicFeature
+    - biolink:DiseaseOrPhenotypicFeature
+    maximum: 5
+    minimum: 1
+    name_lookup:
+    - limit: 1
+      search_term: abnormal alkaline phosphatase
+    type: integer
+  AlkalinePhosphatase_Peak_DILIOnsetToMonth6:
+    categories:
+    - biolink:PhenotypicFeature
+    - biolink:DiseaseOrPhenotypicFeature
+    type: number
+  AlkalinePhosphatase_Peak_DILIOnsetToMonth6_ULN:
+    categories:
+    - biolink:PhenotypicFeature
+    - biolink:DiseaseOrPhenotypicFeature
+    name_lookup:
+    - limit: 1
+      search_term: abnormal alkaline phosphatase
+    type: number
+  AlkalinePhosphatase_Peak_DILIOnsetToMonth6_ULN_2:
+    categories:
+    - biolink:PhenotypicFeature
+    - biolink:DiseaseOrPhenotypicFeature
+    maximum: 5
+    minimum: 1
+    name_lookup:
+    - limit: 1
+      search_term: abnormal alkaline phosphatase
+    type: integer
+  Anti_HAV:
+    categories:
+    - biolink:PhenotypicFeature
+    - biolink:DiseaseOrPhenotypicFeature
+    enum:
+    - '0'
+    - '1'
+    name_lookup:
+    - limit: 4
+      search_term: hepatitis A virus antibody
+    type: string
+  Anti_HBc:
+    categories:
+    - biolink:PhenotypicFeature
+    - biolink:DiseaseOrPhenotypicFeature
+    enum:
+    - '0'
+    - '1'
+    name_lookup:
+    - limit: 4
+      search_term: hepatitis B virus antibody
+    type: string
+  Anti_HBc_IgM:
+    categories:
+    - biolink:PhenotypicFeature
+    - biolink:DiseaseOrPhenotypicFeature
+    enum:
+    - '0'
+    - '1'
+    name_lookup:
+    - limit: 1
+      search_term: HBc IgM
+    type: string
+  Anti_HBe:
+    categories:
+    - biolink:PhenotypicFeature
+    - biolink:DiseaseOrPhenotypicFeature
+    enum:
+    - '0'
+    - '1'
+    name_lookup:
+    - limit: 4
+      search_term: hepatitis B virus antibody
+    type: string
+  Anti_HBs:
+    categories:
+    - biolink:PhenotypicFeature
+    - biolink:DiseaseOrPhenotypicFeature
+    enum:
+    - '0'
+    - '1'
+    name_lookup:
+    - limit: 4
+      search_term: hepatitis B virus antibody
+    type: string
+  Anti_HCV:
+    categories:
+    - biolink:PhenotypicFeature
+    - biolink:DiseaseOrPhenotypicFeature
+    enum:
+    - '0'
+    - '1'
+    name_lookup:
+    - limit: 4
+      search_term: hepatitis C virus antibody
+    type: string
+  AugmentinDILIDx:
+    categories:
+    - biolink:Disease
+    - biolink:DiseaseOrPhenotypicFeature
+    enum:
+    - '0'
+    - '1'
+    - '>1'
+    name_lookup:
+    - limit: 2
+      search_term: drug induced liver injury
+    type: string
   AugmentinRx:
     categories:
     - biolink:SmallMolecule
@@ -29,287 +313,10 @@ patient:
     - '0'
     - '1'
     - '>1'
+    name_lookup:
+    - limit: 1
+      search_term: augmentin
     type: string
-    search_term: augmentin
-    limit: 1
-  AugmentinDILIDx:
-    categories:
-    - biolink:Disease
-    - biolink:DiseaseOrPhenotypicFeature
-    enum:
-    - '0'
-    - '1'
-    - '>1'
-    type: string
-    search_term: drug induced liver injury
-    limit: 2
-  A*02:01:
-    categories:
-    - biolink:SequenceVariant
-    enum: 
-    - '0'
-    - '1'
-    - '2'
-    type: string
-    search_term: HLA-A
-    limit: 1
-  A1AT_Deficiency:
-    categories:
-    - biolink:PhenotypicFeature
-    - biolink:DiseaseOrPhenotypicFeature
-    enum: 
-    - '0'
-    - '1'
-    type: string
-    search_term: A1AT deficiency
-    limit: 1
-  ALT_DILIOnset:
-    categories:
-    - biolink:PhenotypicFeature
-    - biolink:DiseaseOrPhenotypicFeature
-    type: number
-  ALT_DILIOnset_ULN:
-    categories:
-    - biolink:PhenotypicFeature
-    - biolink:DiseaseOrPhenotypicFeature
-    type: number
-    search_term: abnormal alanine aminotransferase
-    limit: 1
-  ALT_DILIOnset_ULN_2:
-    categories:
-    - biolink:PhenotypicFeature
-    - biolink:DiseaseOrPhenotypicFeature
-    maximum: 5
-    minimum: 1  
-    type: integer
-    search_term: abnormal alanine aminotransferase
-    limit: 1
-  ALT_Peak_DILIOnsetToMonth6:
-    categories:
-    - biolink:PhenotypicFeature
-    - biolink:DiseaseOrPhenotypicFeature
-    type: number
-  ALT_Peak_DILIOnsetToMonth6_ULN:
-    categories:
-    - biolink:PhenotypicFeature
-    - biolink:DiseaseOrPhenotypicFeature
-    type: number
-    search_term: abnormal alanine aminotransferase  
-    limit: 1
-  ALT_Peak_DILIOnsetToMonth6_ULN_2:
-    categories:
-    - biolink:PhenotypicFeature
-    - biolink:DiseaseOrPhenotypicFeature
-    maximum: 5
-    minimum: 1  
-    type: integer
-    search_term: abnormal alanine aminotransferase
-    limit: 1
-  ANA:
-    categories:
-    - biolink:PhenotypicFeature
-    - biolink:DiseaseOrPhenotypicFeature
-    enum:
-    - '0'
-    - '1'
-    type: string
-    search_term: antinuclear antibody
-    limit: 4
-  ASMA:
-    categories:
-    - biolink:PhenotypicFeature
-    - biolink:DiseaseOrPhenotypicFeature
-    enum:
-    - '0'
-    - '1'
-    type: string
-    search_term: anti smooth muscle antibody
-    limit: 1
-  AST_DILIOnset:
-    categories:
-    - biolink:PhenotypicFeature
-    enum:
-    type: number
-  AST_DILIOnset_ULN:
-    categories:
-    - biolink:PhenotypicFeature
-    enum:
-    type: number
-    search_term: abnormal aspartate aminotransferase
-    limit: 1
-  AST_DILIOnset_ULN_2:
-    categories:
-    - biolink:PhenotypicFeature
-    - biolink:DiseaseOrPhenotypicFeature
-    maximum: 5
-    minimum: 1  
-    type: integer
-    search_term: abnormal aspartate aminotransferase
-    limit: 1
-  AST_Peak_DILIOnsetToMonth6:
-    categories:
-    - biolink:PhenotypicFeature
-    - biolink:DiseaseOrPhenotypicFeature
-    type: number
-  AST_Peak_DILIOnsetToMonth6_ULN:
-    categories:
-    - biolink:PhenotypicFeature
-    - biolink:DiseaseOrPhenotypicFeature
-    type: number
-    search_term: abnormal aspartate aminotransferase
-    limit: 1
-  AST_Peak_DILIOnsetToMonth6_ULN_2:
-    categories:
-    - biolink:PhenotypicFeature
-    - biolink:DiseaseOrPhenotypicFeature
-    enum:
-      maximum: 5
-      minimum: 1  
-    type: integer
-    search_term: abnormal aspartate aminotransferase
-    limit: 1
-  AbdominalPain:
-    categories:
-    - biolink:PhenotypicFeature
-    - biolink:DiseaseOrPhenotypicFeature
-    enum: 
-    - '0'
-    - '1'
-    type: string
-    search_term: abdominal pain
-    limit: 3
-  AgeQualifyingLab:
-    categories:
-    - biolink:PhenotypicFeature
-    - biolink:DiseaseOrPhenotypicFeature
-    maximum: 100
-    minimum: 0
-    type: number
-
-    search_term: age
-    limit: 2
-  AlcoholRelatedLiverDiseaseDx:
-    categories:
-    - biolink:Disease
-    - biolink:DiseaseOrPhenotypicFeature
-    enum:
-    - '0'
-    - '1'
-    type: string
-    search_term: alcoholic liver disease
-    limit: 2
-  AlcoholUse:
-    categories:
-    - biolink:PhenotypicFeature
-    - biolink:DiseaseOrPhenotypicFeature
-    enum:
-    - '0'
-    - '1'
-    type: string
-    search_term: alcohol use
-    limit: 1
-  AlkalinePhosphatase_DILIOnset:
-    categories:
-    - biolink:PhenotypicFeature
-    - biolink:DiseaseOrPhenotypicFeature
-    type: number
-  AlkalinePhosphatase_DILIOnset_ULN:
-    categories:
-    - biolink:PhenotypicFeature
-    - biolink:DiseaseOrPhenotypicFeature
-    type: number
-    search_term: abnormal alkaline phosphatase
-    limit: 1
-  AlkalinePhosphatase_DILIOnset_ULN_2:
-    categories:
-    - biolink:PhenotypicFeature
-    - biolink:DiseaseOrPhenotypicFeature
-    maximum: 5
-    minimum: 1
-    type: integer
-    search_term: abnormal alkaline phosphatase
-    limit: 1
-  AlkalinePhosphatase_Peak_DILIOnsetToMonth6:
-    categories:
-    - biolink:PhenotypicFeature
-    - biolink:DiseaseOrPhenotypicFeature
-    type: number
-  AlkalinePhosphatase_Peak_DILIOnsetToMonth6_ULN:
-    categories:
-    - biolink:PhenotypicFeature
-    - biolink:DiseaseOrPhenotypicFeature
-    type: number
-    search_term: abnormal alkaline phosphatase  
-    limit: 1
-  AlkalinePhosphatase_Peak_DILIOnsetToMonth6_ULN_2:
-    categories:
-    - biolink:PhenotypicFeature
-    - biolink:DiseaseOrPhenotypicFeature
-    maximum: 5
-    minimum: 1
-    type: integer
-    search_term: abnormal alkaline phosphatase
-    limit: 1
-  Anti_HAV:
-    categories:
-    - biolink:PhenotypicFeature
-    - biolink:DiseaseOrPhenotypicFeature
-    enum:
-    - '0'
-    - '1'
-    type: string
-    search_term: hepatitis A virus antibody
-    limit: 4
-  Anti_HBc:
-    categories:
-    - biolink:PhenotypicFeature
-    - biolink:DiseaseOrPhenotypicFeature
-    enum:
-    - '0'
-    - '1'
-    type: string
-    search_term: hepatitis B virus antibody
-    limit: 4
-  Anti_HBc_IgM:
-    categories:
-    - biolink:PhenotypicFeature
-    - biolink:DiseaseOrPhenotypicFeature
-    enum:
-    - '0'
-    - '1'
-    type: string
-    search_term: HBc IgM
-    limit: 1
-  Anti_HBe:
-    categories:
-    - biolink:PhenotypicFeature
-    - biolink:DiseaseOrPhenotypicFeature
-    enum:
-    - '0'
-    - '1'
-    type: string
-    search_term: hepatitis B virus antibody
-    limit: 4
-  Anti_HBs:
-    categories:
-    - biolink:PhenotypicFeature
-    - biolink:DiseaseOrPhenotypicFeature
-    enum:
-    - '0'
-    - '1'
-    type: string
-    search_term: hepatitis B virus antibody
-    limit: 4
-  Anti_HCV:
-    categories:
-    - biolink:PhenotypicFeature
-    - biolink:DiseaseOrPhenotypicFeature
-    enum:
-    - '0'
-    - '1'
-    type: string
-    search_term: hepatitis C virus antibody
-    limit: 4
   AutoimmuneHepatitisDx:
     categories:
     - biolink:PhenotypicFeature
@@ -318,17 +325,19 @@ patient:
     enum:
     - '0'
     - '1'
+    name_lookup:
+    - limit: 1
+      search_term: autoimmune hepatitis
     type: string
-    search_term: autoimmune hepatitis
-    limit: 1
   BMI:
     categories:
     - biolink:PhenotypicFeature
     - biolink:DiseaseOrPhenotypicFeature
-    enum:
+    enum: null
+    name_lookup:
+    - limit: 8
+      search_term: body mass index
     type: number
-    search_term: body mass index
-    limit: 8
   Bilirubin_DILIOnset:
     categories:
     - biolink:PhenotypicFeature
@@ -338,18 +347,20 @@ patient:
     categories:
     - biolink:PhenotypicFeature
     - biolink:DiseaseOrPhenotypicFeature
+    name_lookup:
+    - limit: 1
+      search_term: abnormal bilirubin
     type: number
-    search_term: abnormal bilirubin
-    limit: 1
   Bilirubin_DILIOnset_ULN_2:
     categories:
     - biolink:PhenotypicFeature
     - biolink:DiseaseOrPhenotypicFeature
     maximum: 5
     minimum: 1
+    name_lookup:
+    - limit: 1
+      search_term: abnormal bilirubin
     type: integer
-    search_term: abnormal bilirubin
-    limit: 1
   Bilirubin_Peak_DILIOnsetToMonth6:
     categories:
     - biolink:PhenotypicFeature
@@ -359,18 +370,20 @@ patient:
     categories:
     - biolink:PhenotypicFeature
     - biolink:DiseaseOrPhenotypicFeature
+    name_lookup:
+    - limit: 1
+      search_term: abnormal bilirubin
     type: number
-    search_term: abnormal bilirubin
-    limit: 1
   Bilirubin_Peak_DILIOnsetToMonth6_ULN_2:
     categories:
     - biolink:PhenotypicFeature
     - biolink:DiseaseOrPhenotypicFeature
     maximum: 5
     minimum: 1
+    name_lookup:
+    - limit: 1
+      search_term: abnormal bilirubin
     type: integer
-    search_term: abnormal bilirubin
-    limit: 1
   ChronicDILIDx:
     categories:
     - biolink:PhenotypicFeature
@@ -379,9 +392,9 @@ patient:
     enum:
     - '0'
     - '1'
-    type: string
-    search term: chronic drug induced liver injury
     limit: 1
+    search term: chronic drug induced liver injury
+    type: string
   ChronicHepatitisB_Dx_Screening:
     categories:
     - biolink:PhenotypicFeature
@@ -390,9 +403,10 @@ patient:
     enum:
     - '0'
     - '1'
+    name_lookup:
+    - limit: 1
+      search_term: chronic hepatitis B diagnosis
     type: string
-    search_term: chronic hepatitis B diagnosis
-    limit: 1
   ChronicHepatitisC_Dx_Screening:
     categories:
     - biolink:PhenotypicFeature
@@ -401,9 +415,10 @@ patient:
     enum:
     - '0'
     - '1'
+    name_lookup:
+    - limit: 1
+      search_term: hepatitis C
     type: string
-    search_term: hepatitis C
-    limit: 1
   CirrhosisDx:
     categories:
     - biolink:PhenotypicFeature
@@ -412,9 +427,10 @@ patient:
     enum:
     - '0'
     - '1'
+    name_lookup:
+    - limit: 1
+      search_term: cirrhosis
     type: string
-    search_term: cirrhosis
-    limit: 1
   ConcomitantDrugs:
     categories:
     - biolink:PhenotypicFeature
@@ -431,19 +447,21 @@ patient:
     enum:
     - '0'
     - '1'
+    name_lookup:
+    - limit: 2
+      search_term: congestive heart failure
     type: string
-    search_term: congestive heart failure
-    limit: 2
   DILIDx:
     categories:
     - biolink:Disease
     - biolink:DiseaseOrPhenotypicFeature
     enum:
     - '0'
-    - '1'  
+    - '1'
+    name_lookup:
+    - limit: 2
+      search_term: drug induced liver injury
     type: string
-    search_term: drug induced liver injury
-    limit: 2
   DILIN_SeverityScore:
     categories:
     - biolink:PhenotypicFeature
@@ -463,9 +481,10 @@ patient:
     - '0'
     - '1'
     - '2'
+    name_lookup:
+    - limit: 1
+      search_term: human leukocyte antigen
     type: string
-    search_term: human leukocyte antigen
-    limit: 1
   Days_ALT_DILIOnsetToPeak:
     categories:
     - biolink:PhenotypicFeature
@@ -490,6 +509,12 @@ patient:
     categories:
     - biolink:PhenotypicFeature
     type: integer
+  Days_DILIOnsetToInitialVisit_2:
+    categories:
+    - biolink:PhenotypicFeature
+    maximum: 5
+    minimum: 1
+    type: integer
   Days_DrugStartToEarliestSign:
     categories:
     - biolink:PhenotypicFeature
@@ -498,15 +523,7 @@ patient:
     categories:
     - biolink:PhenotypicFeature
     type: integer
-  Days_EarliestSignToDILI:
-    categories:
-    - biolink:PhenotypicFeature
-    type: integer
-  Days_EarliestSignToDrugStop:
-    categories:
-    - biolink:PhenotypicFeature
-    type: integer
-  Days_DILIOnsetToInitialVisit_2:
+  Days_DrugStartToEarliestSignOrDILI_2:
     categories:
     - biolink:PhenotypicFeature
     maximum: 5
@@ -518,11 +535,9 @@ patient:
     maximum: 5
     minimum: 1
     type: integer
-  Days_DrugStartToEarliestSignOrDILI_2:
+  Days_EarliestSignToDILI:
     categories:
     - biolink:PhenotypicFeature
-    maximum: 5
-    minimum: 1
     type: integer
   Days_EarliestSignToDILI_2:
     categories:
@@ -530,12 +545,16 @@ patient:
     maximum: 5
     minimum: 1
     type: integer
+  Days_EarliestSignToDrugStop:
+    categories:
+    - biolink:PhenotypicFeature
+    type: integer
   Days_EarliestSignToDrugStop_2:
     categories:
     - biolink:PhenotypicFeature
     maximum: 5
     minimum: 1
-    type: integer    
+    type: integer
   Death:
     categories:
     - biolink:PhenotypicFeature
@@ -543,9 +562,10 @@ patient:
     enum:
     - '0'
     - '1'
+    name_lookup:
+    - limit: 1
+      search_term: death
     type: string
-    search_term: death
-    limit: 1
   DiabetesEndocrineDisorderDx:
     categories:
     - biolink:Disease
@@ -553,12 +573,12 @@ patient:
     enum:
     - '0'
     - '1'
-    type: string
     name_lookup:
-    - search_term: diabetes
-      limit: 1
-    - search_term: endocrine disorder
-      limit: 1
+    - limit: 1
+      search_term: diabetes
+    - limit: 1
+      search_term: endocrine disorder
+    type: string
   DrugAllergyDx:
     categories:
     - biolink:PhenotypicFeature
@@ -566,9 +586,10 @@ patient:
     enum:
     - '0'
     - '1'
+    name_lookup:
+    - limit: 3
+      search_term: drug allergy
     type: string
-    search_term: drug allergy
-    limit: 3
   EosinophilCount:
     categories:
     - biolink:PhenotypicFeature
@@ -581,9 +602,10 @@ patient:
     enum:
     - '0'
     - '1'
+    name_lookup:
+    - limit: 5
+      search_term: eosinophilia
     type: string
-    search_term: eosinophilia
-    limit: 5
   EthnicityDILI:
     categories:
     - biolink:PhenotypicFeature
@@ -591,9 +613,10 @@ patient:
     enum:
     - '0'
     - '1'
+    name_lookup:
+    - limit: 4
+      search_term: racial group
     type: string
-    search_term: racial group
-    limit: 4
   FamilyHistoryLiverDisease:
     categories:
     - biolink:PhenotypicFeature
@@ -601,9 +624,10 @@ patient:
     enum:
     - '0'
     - '1'
+    name_lookup:
+    - limit: 1
+      search_term: liver disease family history
     type: string
-    search_term: liver disease family history 
-    limit: 1
   Fever:
     categories:
     - biolink:Disease
@@ -612,9 +636,10 @@ patient:
     - '0'
     - '1'
     - '>1'
+    name_lookup:
+    - limit: 4
+      search_term: fever
     type: string
-    search_term: fever
-    limit: 4
   FinalCausalityScore:
     categories:
     - biolink:PhenotypicFeature
@@ -634,9 +659,10 @@ patient:
     enum:
     - '0'
     - '1'
+    name_lookup:
+    - limit: 3
+      search_term: gastrointestinal disease
     type: string
-    search_term: gastrointestinal disease
-    limit: 3
   GilbertsSyndromeDx:
     categories:
     - biolink:PhenotypicFeature
@@ -645,9 +671,10 @@ patient:
     enum:
     - '0'
     - '1'
+    name_lookup:
+    - limit: 1
+      search_term: gilberts syndrome
     type: string
-    search_term: gilberts syndrome
-    limit: 1
   HBV_Positive:
     categories:
     - biolink:PhenotypicFeature
@@ -655,9 +682,10 @@ patient:
     enum:
     - '0'
     - '1'
+    name_lookup:
+    - limit: 1
+      search_term: hepatitis B virus infection
     type: integer
-    search_term: hepatitis B virus infection
-    limit: 1
   HBeAg:
     categories:
     - biolink:PhenotypicFeature
@@ -665,9 +693,10 @@ patient:
     enum:
     - '0'
     - '1'
+    name_lookup:
+    - limit: null
+      search_term: null
     type: string
-    search_term: 
-    limit: 
   HBsAg:
     categories:
     - biolink:PhenotypicFeature
@@ -675,9 +704,10 @@ patient:
     enum:
     - '0'
     - '1'
+    name_lookup:
+    - limit: null
+      search_term: null
     type: string
-    search_term:
-    limit: 
   HCV_Positive:
     categories:
     - biolink:PhenotypicFeature
@@ -685,9 +715,10 @@ patient:
     enum:
     - '0'
     - '1'
+    name_lookup:
+    - limit: 1
+      search_term: hepatitis C virus infection
     type: string
-    search_term: hepatitis C virus infection
-    limit: 1
   HCV_RNA:
     categories:
     - biolink:PhenotypicFeature
@@ -695,9 +726,10 @@ patient:
     enum:
     - '0'
     - '1'
+    name_lookup:
+    - limit: 3
+      search_term: Hepatitis C RNA
     type: string
-    search_term: Hepatitis C RNA 
-    limit: 3
   HIV_Positive:
     categories:
     - biolink:PhenotypicFeature
@@ -705,9 +737,10 @@ patient:
     enum:
     - '0'
     - '1'
+    name_lookup:
+    - limit: 1
+      search_term: human immunodeficiency virus infection
     type: string
-    search_term: human immunodeficiency virus infection
-    limit: 1
   HLA-B*15:18:
     categories:
     - biolink:SequenceVariant
@@ -715,9 +748,10 @@ patient:
     - '0'
     - '1'
     - '2'
+    name_lookup:
+    - limit: 1
+      search_term: human leukocyte antigen
     type: string
-    search_term: human leukocyte antigen
-    limit: 1
   HeartDiseaseDx:
     categories:
     - biolink:Disease
@@ -725,9 +759,10 @@ patient:
     enum:
     - '0'
     - '1'
+    name_lookup:
+    - limit: 1
+      search_term: heart disease
     type: string
-    search_term: heart disease
-    limit: 1
   HemochromatosisDx:
     categories:
     - biolink:PhenotypicFeature
@@ -735,9 +770,10 @@ patient:
     enum:
     - '0'
     - '1'
+    name_lookup:
+    - limit: 1
+      search_term: hemochromatosis diagnosis
     type: string
-    search_term: hemochromatosis diagnosis
-    limit: 1
   HepatitisA_Dx:
     categories:
     - biolink:PhenotypicFeature
@@ -745,18 +781,20 @@ patient:
     enum:
     - '0'
     - '1'
+    name_lookup:
+    - limit: 1
+      search_term: hepatitis A infection
     type: string
-    search_term: hepatitis A infection
-    limit: 1
   Hospitalization_NewProlonged:
     categories:
     - biolink:ClinicalIntervention
     enum:
     - '0'
     - '1'
+    name_lookup:
+    - limit: 1
+      search_term: hospitalization
     type: string
-    search_term: hospitalization
-    limit: 1
   INR_Onset:
     categories:
     - biolink:PhenotypicFeature
@@ -768,25 +806,28 @@ patient:
     - biolink:DiseaseOrPhenotypicFeature
     maximum: 5
     minimum: 1
+    name_lookup:
+    - limit: 1
+      search_term: abnormal international normalised ratio
     type: integer
-    search_term: abnormal international normalised ratio
-    limit: 1
   INR_Peak_DILIOnsetToMonth6:
     categories:
     - biolink:PhenotypicFeature
     - biolink:DiseaseOrPhenotypicFeature
+    name_lookup:
+    - limit: 1
+      search_term: abnormal international normalised ratio
     type: number
-    search_term: abnormal international normalised ratio
-    limit: 1
   INR_Peak_DILIOnsetToMonth6_ULN:
     categories:
     - biolink:PhenotypicFeature
     - biolink:DiseaseOrPhenotypicFeature
     maximum: 5
     minimum: 1
+    name_lookup:
+    - limit: 1
+      search_term: abnormal international normalised ratio
     type: integer
-    search_term: abnormal international normalised ratio
-    limit: 1
   Implicated_Drug1_Assessment:
     categories:
     - biolink:SmallMolecule
@@ -833,9 +874,10 @@ patient:
     - Possible
     - Probable
     - Highly Probable
+    name_lookup:
+    - limit: 1
+      search_term: null
     type: string
-    search_term: 
-    limit: 1
   IschemicHepatitisDx:
     categories:
     - biolink:PhenotypicFeature
@@ -844,9 +886,10 @@ patient:
     enum:
     - '0'
     - '1'
+    name_lookup:
+    - limit: 1
+      search_term: ischemic hepatitis
     type: string
-    search_term: ischemic hepatitis
-    limit: 1
   Itching:
     categories:
     - biolink:PhenotypicFeature
@@ -854,9 +897,10 @@ patient:
     enum:
     - '0'
     - '1'
+    name_lookup:
+    - limit: 1
+      search_term: pruritis
     type: string
-    search_term: pruritis
-    limit: 1
   Jaundice:
     categories:
     - biolink:PhenotypicFeature
@@ -864,9 +908,10 @@ patient:
     enum:
     - '0'
     - '1'
+    name_lookup:
+    - limit: 1
+      search_term: icterus
     type: string
-    search_term: icterus
-    limit: 1
   Latency:
     categories:
     - biolink:PhenotypicFeature
@@ -880,9 +925,10 @@ patient:
     enum:
     - '0'
     - '1'
+    name_lookup:
+    - limit: 2
+      search_term: liver biopsy
     type: string
-    search_term: liver biopsy
-    limit: 2
   LiverRelatedDeath:
     categories:
     - biolink:PhenotypicFeature
@@ -890,18 +936,20 @@ patient:
     enum:
     - '0'
     - '1'
+    name_lookup:
+    - limit: 2
+      search_term: cause of death
     type: string
-    search_term: cause of death
-    limit: 2
   LiverTransplant:
     categories:
     - biolink:ClinicalIntervention
     enum:
     - '0'
     - '1'
+    name_lookup:
+    - limit: 1
+      search_term: liver transplant planned
     type: string
-    search_term: liver transplant planned
-    limit: 1
   MalignancyDx:
     categories:
     - biolink:Disease
@@ -909,9 +957,10 @@ patient:
     enum:
     - '0'
     - '1'
+    name_lookup:
+    - limit: 1
+      search_term: malignancy
     type: string
-    search_term: malignancy
-    limit: 1
   NAFLD_Dx:
     categories:
     - biolink:Disease
@@ -919,9 +968,10 @@ patient:
     enum:
     - '0'
     - '1'
+    name_lookup:
+    - limit: 2
+      search_term: non alcoholic fatty liver disease
     type: string
-    search_term: non alcoholic fatty liver disease
-    limit: 2
   Nausea:
     categories:
     - biolink:PhenotypicFeature
@@ -929,9 +979,10 @@ patient:
     enum:
     - '0'
     - '1'
+    name_lookup:
+    - limit: 3
+      search_term: nausea
     type: string
-    search_term: nausea
-    limit: 3
   NeurologicalDiseaseDx:
     categories:
     - biolink:Disease
@@ -939,9 +990,10 @@ patient:
     enum:
     - '0'
     - '1'
+    name_lookup:
+    - limit: 1
+      search_term: neurologic disease
     type: string
-    search_term: neurologic disease
-    limit: 1
   Neutropenia:
     categories:
     - biolink:PhenotypicFeature
@@ -949,9 +1001,10 @@ patient:
     enum:
     - '0'
     - '1'
+    name_lookup:
+    - limit: 3
+      search_term: neutropenia
     type: string
-    search_term: neutropenia
-    limit: 3
   PCA_Race:
     categories:
     - biolink:PhenotypicFeature
@@ -962,9 +1015,10 @@ patient:
     - East Asian
     - Hispanic
     - Other/Multiracial
+    name_lookup:
+    - limit: 4
+      search_term: racial group
     type: string
-    search_term: racial group
-    limit: 4
   PatternLiverInjury_Onset:
     categories:
     - biolink:PhenotypicFeature
@@ -973,12 +1027,12 @@ patient:
     - Cholestatic
     - Hepatocellular
     - Mixed
-    type: string
     name_looup:
-    - search_term: cholestatic liver
-      limit: 2
-    - search_term: hepatocellular liver
-      limit: 2
+    - limit: 2
+      search_term: cholestatic liver
+    - limit: 2
+      search_term: hepatocellular liver
+    type: string
   PrednisoneOrCorticosteroids_Rx:
     categories:
     - biolink:SmallMolecule
@@ -988,12 +1042,12 @@ patient:
     enum:
     - '0'
     - '1'
-    type: string
     name_lookup:
-    - search_term: prednisone
-      limit: 1
-    - search_term: corticosteroid
-      limit: 1
+    - limit: 1
+      search_term: prednisone
+    - limit: 1
+      search_term: corticosteroid
+    type: string
   PrimaryBiliaryCirrhosisDx:
     categories:
     - biolink:PhenotypicFeature
@@ -1002,9 +1056,10 @@ patient:
     enum:
     - '0'
     - '1'
+    name_lookup:
+    - limit: 1
+      search_term: primary biliary cirrhosis
     type: string
-    search_term: primary biliary cirrhosis
-    limit: 1
   PrimarySclerosingCholangitisDx:
     categories:
     - biolink:PhenotypicFeature
@@ -1013,9 +1068,10 @@ patient:
     enum:
     - '0'
     - '1'
+    name_lookup:
+    - limit: 3
+      search_term: primary sclerosing cholangitis
     type: string
-    search_term: primary sclerosing cholangitis
-    limit: 3
   PulmonaryDiseaseDx:
     categories:
     - biolink:Disease
@@ -1023,9 +1079,10 @@ patient:
     enum:
     - '0'
     - '1'
+    name_lookup:
+    - limit: 1
+      search_term: pulmonary disease
     type: string
-    search_term: pulmonary disease
-    limit: 1
   RValue_Onset:
     categories:
     - biolink:PhenotypicFeature
@@ -1040,9 +1097,10 @@ patient:
     - Black or African American
     - Asian
     - Other/Multiracial
+    name_lookup:
+    - limit: 4
+      search_term: racial group
     type: string
-    search_term: racial group
-    limit: 4
   Rash:
     categories:
     - biolink:PhenotypicFeature
@@ -1050,9 +1108,10 @@ patient:
     enum:
     - '0'
     - '1'
+    name_lookup:
+    - limit: 1
+      search_term: rash
     type: string
-    search_term: rash
-    limit: 1
   RenalDiseaseDx:
     categories:
     - biolink:Disease
@@ -1060,9 +1119,10 @@ patient:
     enum:
     - '0'
     - '1'
+    name_lookup:
+    - limit: 2
+      search_term: renal disease
     type: string
-    search_term: renal disease
-    limit: 2
   Serum_IgA:
     categories:
     - biolink:PhenotypicFeature
@@ -1070,9 +1130,10 @@ patient:
     enum:
     - '0'
     - '1'
+    name_lookup:
+    - limit: 3
+      search_term: serum immunoglobulin A
     type: string
-    search_term: serum immunoglobulin A
-    limit: 3
   Serum_IgG:
     categories:
     - biolink:PhenotypicFeature
@@ -1080,9 +1141,10 @@ patient:
     enum:
     - '0'
     - '1'
+    name_lookup:
+    - limit: 3
+      search_term: serum immunoglobulin G
     type: string
-    search_term: serum immunoglobulin G
-    limit: 3
   Serum_IgM:
     categories:
     - biolink:PhenotypicFeature
@@ -1090,9 +1152,10 @@ patient:
     enum:
     - '0'
     - '1'
+    name_lookup:
+    - limit: 3
+      search_term: serum immunoglobulin M
     type: string
-    search_term: serum immunoglobulin M
-    limit: 3
   SexDILI:
     categories:
     - biolink:PhenotypicFeature
@@ -1100,9 +1163,10 @@ patient:
     enum:
     - Male
     - Female
+    name_lookup:
+    - limit: 1
+      search_term: biological sex
     type: string
-    search_term: biological sex
-    limit: 1
   StevensJohnsonSyndromeDx:
     categories:
     - biolink:Disease
@@ -1110,9 +1174,10 @@ patient:
     enum:
     - '0'
     - '1'
+    name_lookup:
+    - limit: 2
+      search_term: stevens johnson syndrome
     type: string
-    search_term: stevens johnson syndrome
-    limit: 2
   Thrombocytopenia:
     categories:
     - biolink:PhenotypicFeature
@@ -1120,9 +1185,10 @@ patient:
     enum:
     - '0'
     - '1'
+    name_lookup:
+    - limit: 1
+      search_term: thrombocytopenia
     type: string
-    search_term: thrombocytopenia
-    limit: 1
   UnexplainedAbnormalLiverTest:
     categories:
     - biolink:PhenotypicFeature
@@ -1130,9 +1196,10 @@ patient:
     enum:
     - '0'
     - '1'
+    name_lookup:
+    - limit: 2
+      search_term: abnormal liver test
     type: string
-    search_term: abnormal liver test 
-    limit: 2
   WHONAME_Implicated_Drug1:
     categories:
     - biolink:SmallMolecule
@@ -1219,11 +1286,34 @@ patient:
     enum:
     - '0'
     - '1'
+    name_lookup:
+    - limit: 1
+      search_term: wilsons disease
     type: string
-    search_term: wilsons disease
-    limit: 1
   Year_DILI_Onset:
     categories:
     - biolink:PhenotypicFeature
     - biolink:DiseaseOrPhenotypicFeature
+    type: string
+  rs1363907_a:
+    categories:
+    - biolink:SequenceVariant
+    enum:
+    - '0'
+    - '1'
+    - '2'
+    name_lookup:
+    - limit: 4
+      search_term: ERAP
+    type: string
+  rs2476601_a:
+    categories:
+    - biolink:SequenceVariant
+    enum:
+    - '0'
+    - '1'
+    - '2'
+    name_lookup:
+    - limit: 1
+      search_term: PTPN22
     type: string
