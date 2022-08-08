@@ -782,7 +782,13 @@ patient:
     class: Ingredient
   TotalEDInpatientVisits:
   TotalEDVisits:
+    - system: http://loinc.org
+      code: 80110-0
   TotalInpatientVisits:
+    - system: http://loinc.org 
+      code: LA12769-8
+    - system: http://loinc.org 
+      code: LA21427-2
   TrazodoneRx:
     search_term: "trazodone"
     domain: Drug
