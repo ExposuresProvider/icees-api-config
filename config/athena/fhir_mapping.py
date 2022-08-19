@@ -111,6 +111,7 @@ if __name__ == '__main__':
                                       'system': system})
 
             for dom in domain:
+                dom = 'MedicationRequest' if dom == 'Drug' else dom
                 if key in variable_mapped_dict:
                     variable_mapped_dict[key][dom] = code_dict_ary
                 else:
