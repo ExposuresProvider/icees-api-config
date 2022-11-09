@@ -18,7 +18,9 @@ patient:
     - high
     - abnormal
     type: string
-    search_term: elevated alkaline phosphatase
+    name_lookup:
+    - limit: 1
+      search_term: abnormal alkaline phosphatase
   AlkalinePhosphatase_flag_last:
     categories:
     - biolink:PhenotypicFeature
@@ -28,17 +30,20 @@ patient:
     - high
     - abnormal
     type: string
-    search_term: elevated alkaline phosphatase  
+    name_lookup: 
+    - limit: 1
+      search_term: abnormal alkaline phosphatase  
   TesticularCancerDx:
     categories:
     - biolink:Disease
     - biolink:DiseaseOrPhenotypicFeature
-    enum: &id306
+    enum:
     - '0'
     - '1'
-    - '>1'
     type: string
-    search_term: testicular cancer  
+    name_lookup:
+    - limit: 1
+      search_term: testicular cancer diagnosis 
   THROUGH_LANES:
     categories:
     - biolink:EnvironmentalExposure
@@ -99,7 +104,9 @@ patient:
     - H 
     - L
     type: string
-    search_term: abnormal hemoglobin
+    name_lookup:
+    - limit: 1
+      search_term: abnormal hemoglobin
   Hemoglobin_flag_last:
     categories:
     - biolink:PhenotypicFeature
@@ -111,7 +118,9 @@ patient:
     - H 
     - L
     type: string
-    search_term: abnormal hemoglobin
+    name_lookup:
+    - limit: 1
+      search_term: abnormal hemoglobin
   A1C:
     categories:
     - biolink:PhenotypicFeature
@@ -126,7 +135,9 @@ patient:
     - high
     - abnormal
     type: string
-    search_term: elevated hemoglobin A1C
+    name_lookup:
+    - limit: 
+      search_term: abnormal HbA1c
   A1C_flag_last:
     categories:
     - biolink:PhenotypicFeature
@@ -136,7 +147,9 @@ patient:
     - high
     - abnormal
     type: string
-    search_term: elevated hemoglobin A1C
+    name_lookup:
+    - limit: 1 
+      search_term: abnormal HbA1c
   BronchiectasisDx:
     categories:
     - biolink:Disease
@@ -144,9 +157,10 @@ patient:
     enum:
     - '0'
     - '1'
-    - '>1'
     type: string
-    search_term: bronchiecstasis
+    name_lookup:
+    - limit: 1
+      search_term: bronchiecstasis diagnosis
   ChronicSinusitisDx:
     categories:
     - biolink:Disease
@@ -154,52 +168,60 @@ patient:
     enum:
     - '0'
     - '1'
-    - '>1'
     type: string
-    search_term: chronic sinusitis
+    name_lookup:
+    - limit: 1
+      search_term: chronic sinusitis diagnosis
   NeonatalRespiratoryDistressDx:
-     categories:
-     - biolink:Disease
-     - biolink:DiseaseOrPhenotypicFeature
-     enum:
-     - '0'
-     - '1'
-     - '>1'
-     type: string
-     search_term: neonatal respiratory distress
+    categories:
+    - biolink:Disease
+    - biolink:DiseaseOrPhenotypicFeature
+    enum:
+    - '0'
+    - '1'
+    type: string
+    name_lookup:
+    - limit: 1
+      search_term: neonatal respiratory distress
   NitricOxideRx:
     categories:
     - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
+    - biolink:SmallMolecule
     enum:
     - '0'
     - '1'
-    - '>1'
     type: string
-    search_term: nitric oxide
+    name_lookup:
+    - limit: 1
+      search_term: nitric oxide
   PulmozymeRx:
     categories:
     - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
+    - biolink:SmallMolecule
     enum:
     - '0'
     - '1'
-    - '>1'
     type: string
-    search_term: dornase alfa
+    name_lookup:
+    - limit: 1
+      search_term: dornase alfa
   ImatinibRx:
     categories:
     - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
+    - biolink:SmallMolecule
     enum:
     - '0'
     - '1'
-    - '>1'
     type: string
-    search_term: imatinib
+    name_lookup:
+    - limit: 1
+      search_term: imatinib
   year:
     categories: []
     maximum: 2100
@@ -221,7 +243,9 @@ patient:
     - H 
     - L
     type: string
-    search_term: elevated alanine aminotransferase
+    name_lookup:
+    - limit: 1
+      search_term: abnormal alanine aminotransferase
   ALT_flag_last:
     categories:
     - biolink:PhenotypicFeature
@@ -233,7 +257,9 @@ patient:
     - H 
     - L
     type: string
-    search_term: elevated alanine aminotransferase
+    name_lookup:
+    - limit: 1
+      search_term: abnormal alanine aminotransferase
   AST:
     categories:
     - biolink:PhenotypicFeature
@@ -250,7 +276,9 @@ patient:
     - H 
     - L
     type: string
-    search_term: elevated aspartate aminotransferase
+    name_lookup:
+    - limit: 1
+      search_term: abnormal aspartate aminotransferase
   AST_flag_last:
     categories:
     - biolink:PhenotypicFeature
@@ -262,7 +290,9 @@ patient:
     - H 
     - L
     type: string
-    search_term: elevated aspartate aminotransferase
+    name_lookup:
+    - limit: 1
+      search_term: abnormal aspartate aminotransferase
   AbsoluteLymphocyteCount:
     categories:
     - biolink:PhenotypicFeature
@@ -279,7 +309,9 @@ patient:
     - H 
     - L
     type: string
-    search_term: lymphocytosis, lymphopenia
+    name_lookup:
+    - limit: 1
+    search_term: abnormal lymphocyte count
   AbsoluteLymphocyteCount_flag_last:
     categories:
     - biolink:PhenotypicFeature
@@ -291,7 +323,9 @@ patient:
     - H 
     - L
     type: string
-    search_term: lymphocytosis, lymphopenia
+    name_lookup:
+      - limit: 1
+        search_term: abnormal lymphocyte count
   AbsoluteNeutrophilCount:
     categories:
     - biolink:PhenotypicFeature
@@ -308,7 +342,9 @@ patient:
     - H 
     - L
     type: string
-    search_term: neutrophilia, neutropenia
+    name_lookup:
+    - limit: 1
+      search_term: abnormal neutrophil count
   AbsoluteNeutrophilCount_flag_last:
     categories:
     - biolink:PhenotypicFeature
@@ -320,7 +356,9 @@ patient:
     - H 
     - L
     type: string
-    search_term: neutrophilia, neutropenia
+    name_lookup:
+    - limit: 1
+      search_term: abnormal neutrophil count
   Active_In_Year:
     categories:
     - biolink:PhenotypicFeature
@@ -338,7 +376,9 @@ patient:
     - 51-69
     - 70-89
     type: string
-    search_term: age
+    name_lookup:
+    - limit: 1
+      search_term: age
   AgeStudyStart2:
     categories:
     - biolink:PhenotypicFeature
@@ -349,7 +389,9 @@ patient:
     - 45-64
     - 65-89
     type: string
-    search_term: age
+    name_lookup:
+    - limit: 1
+      search_term: age
   Albumin:
     categories:
     - biolink:PhenotypicFeature
@@ -366,7 +408,9 @@ patient:
     - H 
     - L
     type: string
-    search_term: elevated albumin
+    name_lookup:
+    - limit: 1
+      search_term: abnormal albumin
   Albumin_flag_last:
     categories:
     - biolink:PhenotypicFeature
@@ -378,16 +422,18 @@ patient:
     - H 
     - L
     type: string
-    search_term: elevated albumin
+    name_lookup:
+    - limit: 1
+      search_term: abnormal albumin
   AlbuterolRx:
     categories:
     - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
+    - biolink:SmallMolecule
     enum:
     - '0'
     - '1'
-    - '>1'
     type: string
     search_term: albuterol
   AlcoholDependenceDx:
@@ -397,9 +443,10 @@ patient:
     enum:
     - '0'
     - '1'
-    - '>1'
     type: string
-    search_term: alcohol dependence
+    name_lookup:
+    - limit: 7
+      search_term: alcohol dependence diagnosis
   AlopeciaDx:
     categories:
     - biolink:Disease
@@ -407,42 +454,49 @@ patient:
     enum:
     - '0'
     - '1'
-    - '>1'
     type: string
-    search_term: alopecia
-  Amiodarone_gtt:
+    name_lookup:
+    - limit: 14
+      search_term: alopecia diagnosis
+  Amiodarone_gtt_Rx:
     categories:
     - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
+    - biolink:SmallMolecule
     enum:
     - '0'
     - '1'
-    - '>1'
     type: string
-    search_term: amiodarone
+    name_lookup:
+    - limit: 1
+      search_term: amiodarone
   AnakinraRx:
     categories:
     - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
+    - biolink:SmallMolecule
     enum:
     - '0'
     - '1'
-    - '>1'
     type: string
-    search_term: anakinra
+    name_lookup:
+    - limit: 2
+      search_term: anakinra
   AndrostenedioneRx:
     categories:
     - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
+    - biolink:SmallMolecule
     enum:
     - '0'
     - '1'
-    - '>1'
     type: string
-    search_term: androstenedione
+    name_lookup:
+    - limit: 1
+      search_term: androstenedione
   AnxietyDx:
     categories:
     - biolink:Disease
@@ -450,20 +504,23 @@ patient:
     enum:
     - '0'
     - '1'
-    - '>1'
     type: string
-    search_term: anxiety
+    name_lookup:
+    - limit: 35
+      search_term: anxiety diagnosis
   ArformoterolRx:
     categories:
     - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
+    - biolink:SmallMolecule
     enum:
     - '0'
     - '1'
-    - '>1'
     type: string
-    search_term: arformoterol
+    name_lookup:
+    - limit: 1
+      search_term: arformoterol
   AsthmaDx:
     categories:
     - biolink:Disease
@@ -471,9 +528,10 @@ patient:
     enum:
     - '0'
     - '1'
-    - '>1'
     type: string
-    search_term: asthma
+    name_lookup:
+    - limit: 75
+      search_term: asthma diagnosis
   AutismDx:
     categories:
     - biolink:Disease
@@ -481,9 +539,10 @@ patient:
     enum:
     - '0'
     - '1'
-    - '>1'
     type: string
-    search_term: autism
+    name_lookup:
+    - limit: 5
+      search_term: autism diagnosis
   AvgDailyAcetaldehydeExposure_2:
     categories:
     - biolink:SmallMolecule
@@ -491,7 +550,9 @@ patient:
     maximum: 5
     minimum: 1
     type: integer
-    search_term: acetaldehyde
+    name_lookup:
+    - limit: 1
+      search_term: acetaldehyde
   AvgDailyAcetaldehydeExposure_2_qcut:
     categories:
     - biolink:SmallMolecule
@@ -499,7 +560,9 @@ patient:
     maximum: 5
     minimum: 1
     type: integer
-    search_term: acetaldehyde
+    name_lookup:
+    - limit: 1 
+      search_term: acetaldehyde
   AvgDailyBenzeneExposure_2:
     categories:
     - biolink:SmallMolecule
@@ -507,7 +570,9 @@ patient:
     maximum: 5
     minimum: 1
     type: integer
-    search_term: benzene
+    name_lookup:
+    - limit: 2
+      search_term: benzene
   AvgDailyBenzeneExposure_2_qcut:
     categories:
     - biolink:SmallMolecule
@@ -515,7 +580,9 @@ patient:
     maximum: 5
     minimum: 1
     type: integer
-    search_term: benzene
+    name_lookup:
+    - limit: 2
+      search_term: benzene
   AvgDailyCOExposure_2:
     categories:
     - biolink:SmallMolecule
@@ -523,7 +590,9 @@ patient:
     maximum: 5
     minimum: 1
     type: integer
-    search_term: carbon monoxide
+    name_lookup:
+    - limit: 1
+      search_term: carbon monoxide
   AvgDailyCOExposure_2_qcut:
     categories:
     - biolink:SmallMolecule
@@ -531,7 +600,9 @@ patient:
     maximum: 5
     minimum: 1
     type: integer
-    search_term: carbon monoxide
+    name_lookup:
+    - limit: 1
+      search_term: carbon monoxide
   AvgDailyFormaldehydeExposure_2:
     categories:
     - biolink:SmallMolecule
@@ -539,7 +610,9 @@ patient:
     maximum: 5
     minimum: 1
     type: integer
-    search_term: formaldehyde
+    name_lookup:
+    - limit: 1
+      search_term: formaldehyde
   AvgDailyFormaldehydeExposure_2_qcut:
     categories:
     - biolink:SmallMolecule
@@ -547,7 +620,9 @@ patient:
     maximum: 5
     minimum: 1
     type: integer
-    search_term: formaldehyde
+    name_lookup:
+    - limit: 1
+      search_term: formaldehyde
   AvgDailyNO2Exposure_2:
     categories:
     - biolink:SmallMolecule
@@ -555,7 +630,9 @@ patient:
     maximum: 5
     minimum: 1
     type: integer
-    search_term: nitrogen dioxide
+    name_lookup:
+    - limit: 1
+      search_term: nitrogen dioxide
   AvgDailyNO2Exposure_2_qcut:
     categories:
     - biolink:SmallMolecule
@@ -563,7 +640,9 @@ patient:
     maximum: 5
     minimum: 1
     type: integer
-    search_term: nitrogen dioxide
+    name_lookup:
+    - limit: 1
+      search_term: nitrogen dioxide
   AvgDailyNOExposure_2:
     categories:
     - biolink:SmallMolecule
@@ -571,7 +650,9 @@ patient:
     maximum: 5
     minimum: 1
     type: integer
-    search_term: nitric oxide
+    name_lookup:
+    - limit: 1
+      search_term: nitric oxide
   AvgDailyNOExposure_2_qcut:
     categories:
     - biolink:SmallMolecule
@@ -579,7 +660,9 @@ patient:
     maximum: 5
     minimum: 1
     type: integer
-    search_term: nitric oxide
+    name_lookup:
+    - limit: 1
+      search_term: nitric oxide
   AvgDailyNOxExposure_2:
     categories:
     - biolink:SmallMolecule
@@ -587,7 +670,9 @@ patient:
     maximum: 5
     minimum: 1
     type: integer
-    search_term: nitric oxide
+    name_lookup:
+    - limit: 1
+      search_term: nitrogen oxides
   AvgDailyNOxExposure_2_qcut:
     categories:
     - biolink:SmallMolecule
@@ -595,7 +680,9 @@ patient:
     maximum: 5
     minimum: 1
     type: integer
-    search_term: nitric oxide
+    name_lookup:
+    - limit: 1
+      search_term: nitrogen oxides
   AvgDailyOzoneExposure:
     categories:
     - biolink:SmallMolecule
@@ -603,7 +690,9 @@ patient:
     maximum: 5
     minimum: 1
     type: integer
-    search_term: ozone
+    name_lookup:
+    - limit: 1
+      search_term: ozone
   AvgDailyOzoneExposure_StudyAvg:
     categories:
     - biolink:SmallMolecule
@@ -611,7 +700,9 @@ patient:
     maximum: 5
     minimum: 1
     type: integer
-    search_term: ozone
+    name_lookup:
+    - limit: 1
+      search_term: ozone
   AvgDailyOzoneExposure_StudyAvg_qcut:
     categories:
     - biolink:SmallMolecule
@@ -619,7 +710,9 @@ patient:
     maximum: 5
     minimum: 1
     type: integer
-    search_term: ozone
+    name_lookup:
+    - limit: 1
+      search_term: ozone
   AvgDailyOzoneExposure_StudyMax:
     categories:
     - biolink:SmallMolecule
@@ -627,7 +720,9 @@ patient:
     maximum: 5
     minimum: 1
     type: integer
-    search_term: ozone
+    name_lookup:
+    - limit: 1
+      search_term: ozone
   AvgDailyOzoneExposure_StudyMax_qcut:
     categories:
     - biolink:SmallMolecule
@@ -635,7 +730,9 @@ patient:
     maximum: 5
     minimum: 1
     type: integer
-    search_term: ozone
+    name_lookup:
+    - limit: 1
+      search_term: ozone
   AvgDailyOzoneExposure_qcut:
     categories:
     - biolink:SmallMolecule
@@ -643,7 +740,9 @@ patient:
     maximum: 5
     minimum: 1
     type: integer
-    search_term: ozone
+    name_lookup:
+    - limit: 1
+      search_term: ozone
   AvgDailyPM2.5Exposure:
     categories:
     - biolink:SmallMolecule
@@ -651,7 +750,9 @@ patient:
     maximum: 5
     minimum: 1
     type: integer
-    search_term: particulate matter
+    name_lookup:
+    - limit: 1
+      search_term: particulate matter
   AvgDailyPM2.5Exposure_2:
     categories:
     - biolink:SmallMolecule
@@ -659,7 +760,9 @@ patient:
     maximum: 5
     minimum: 1
     type: integer
-    search_term: particulate matter
+    name_lookup:
+    - limit: 1
+      search_term: particulate matter
   AvgDailyPM2.5Exposure_2_qcut:
     categories:
     - biolink:SmallMolecule
@@ -667,7 +770,9 @@ patient:
     maximum: 5
     minimum: 1
     type: integer
-    search_term: particulate matter
+    name_lookup:
+    - limit: 1
+      search_term: particulate matter
   AvgDailyPM2.5Exposure_StudyAvg:
     categories:
     - biolink:SmallMolecule
@@ -675,7 +780,9 @@ patient:
     maximum: 5
     minimum: 1
     type: integer
-    search_term: particulate matter
+    name_lookup:
+    - limit: 1
+      search_term: particulate matter
   AvgDailyPM2.5Exposure_StudyAvg_qcut:
     categories:
     - biolink:SmallMolecule
@@ -683,7 +790,9 @@ patient:
     maximum: 5
     minimum: 1
     type: integer
-    search_term: particulate matter
+    name_lookup:
+    - limit: 1
+      search_term: particulate matter
   AvgDailyPM2.5Exposure_StudyMax:
     categories:
     - biolink:SmallMolecule
@@ -691,7 +800,9 @@ patient:
     maximum: 5
     minimum: 1
     type: integer
-    search_term: particulate matter
+    name_lookup:
+    - limit: 1
+      search_term: particulate matter
   AvgDailyPM2.5Exposure_StudyMax_qcut:
     categories:
     - biolink:SmallMolecule
@@ -699,7 +810,9 @@ patient:
     maximum: 5
     minimum: 1
     type: integer
-    search_term: particulate matter
+    name_lookup:
+    - limit: 1
+      search_term: particulate matter
   AvgDailyPM2.5Exposure_qcut:
     categories:
     - biolink:SmallMolecule
@@ -707,7 +820,9 @@ patient:
     maximum: 5
     minimum: 1
     type: integer
-    search_term: particulate matter
+    name_lookup:
+    - limit: 1
+      search_term: particulate matter
   AvgDailySO2Exposure_2:
     categories:
     - biolink:SmallMolecule
@@ -715,7 +830,9 @@ patient:
     maximum: 5
     minimum: 1
     type: integer
-    search_term: sulfur dioxide
+    name_lookup:
+    - limit: 1
+      search_term: sulfur dioxide
   AvgDailySO2Exposure_2_qcut:
     categories:
     - biolink:SmallMolecule
@@ -723,7 +840,9 @@ patient:
     maximum: 5
     minimum: 1
     type: integer
-    search_term: sulfur dioxide
+    name_lookup:
+    - limit: 1
+      search_term: sulfur dioxide
   BMI_CATEGORY:
     categories:
     - biolink:PhenotypicFeature
@@ -733,7 +852,9 @@ patient:
     - Obese (30+)
     - Under (<18.5)
     type: string
-    search_term: body mass index
+    name_lookup:
+    - limit: 8
+      search_term: body mass index
   BMI_Category_UNC:
     categories:
     - biolink:PhenotypicFeature
@@ -745,7 +866,9 @@ patient:
     - Obese
     - Other
     type: string
-    search_term: body mass index
+    name_lookup:
+    - limit: 8
+      search_term: body mass index
   BaseDeficit:
     categories:
     - biolink:PhenotypicFeature
@@ -759,7 +882,9 @@ patient:
     - normal
     - high
     type: string
-    search_term: base deficit
+    name_lookup:
+    - limit: 1
+      search_term: base deficit
   BaseDeficit_flag_last:
     categories:
     - biolink:PhenotypicFeature
@@ -768,22 +893,26 @@ patient:
     - normal
     - high
     type: string
-    search_term: base deficit
+    name_lookup:
+    - limit: 1
+      search_term: base deficit
   BeclomethasoneRx:
     categories:
     - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
+    - biolink:SmallMolecule
     enum:
     - '0'
     - '1'
-    - '>1'
     type: string
-    search_term: beclomethasone
+    name_lookup:
+    - limit: 1
+      search_term: beclomethasone
   BloodType:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id050
+    enum:
     - A+
     - A-
     - B+
@@ -793,39 +922,45 @@ patient:
     - O+
     - O-
     type: string
-    search_term: blood type
+    name_lookup:
+    - limit: 2
+      search_term: blood type
   BloodUreaNitrogen:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id051
+    enum:
     type: integer
   BloodUreaNitrogen_flag_first:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id052
+    enum:
     - low
     - normal
     - high
     type: string
-    search_term: elevated blood urea nitrogen
+    name_lookup:
+    - limit: 1
+      search_term: abnormal blood urea nitrogen
   BloodUreaNitrogen_flag_last:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id053
+    enum:
     - low
     - normal
     - high
     type: string
-    search_term: elevated blood urea nitrogen
+    name_lookup:
+    - limit: 1
+      search_term: abnormal blood urea nitrogen
   BrainNatriureticPeptide:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id054
+    enum:
     type: integer
   BrainNatriureticPeptide_flag_first:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id055
+    enum:
     - low
     - normal
     - high
@@ -833,11 +968,13 @@ patient:
     - H 
     - L
     type: string
-    search_term: abnormal brain natriuretic peptide
+    name_lookup:
+    - limit: 1
+      search_term: abnormal brain natriuretic peptide
   BrainNatriureticPeptide_flag_last:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id056
+    enum: 
     - low
     - normal
     - high
@@ -845,27 +982,31 @@ patient:
     - H 
     - L
     type: string
-    short_term: abnormal brain natriuretic peptide
+    name_lookup:
+    - limit: 1
+      search_term: abnormal brain natriuretic peptide
   BudesonideRx:
     categories:
     - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
-    enum: &id058
+    - biolink:SmallMolecule
+    enum:
     - '0'
     - '1'
-    - '>1'
     type: string
-    search_term: budesonide
+    name_lookup:
+    - limit: 1
+      search_term: budesonide
   C-reactiveProtein:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id059
+    enum:
     type: integer
   C-reactiveProtein_flag_first:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id060
+    enum:
     - low
     - normal
     - high
@@ -873,11 +1014,13 @@ patient:
     - H 
     - L
     type: string
-    search_term: abnormal c reactive protein
+    name_lookup:
+    - limit: 1
+      search_term: abnormal c reactive protein
   C-reactiveProtein_flag_last:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id061
+    enum:
     - low
     - normal
     - high
@@ -885,7 +1028,9 @@ patient:
     - H 
     - L
     type: string
-    search_term: abnormal c reactive protein
+    name_lookup:
+    - limit: 1
+      search_term: abnormal c reactive protein
   CAFO_Exposure:
     categories:
     - biolink:ChemicalEntity
@@ -894,16 +1039,18 @@ patient:
     maximum: 6
     minimum: 1
     type: integer
-    search_term: concentrated animal farming operation
+    name_lookup:
+    - limit: 1
+      search_term: concentrated animal feeding operation
   CK:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id062
+    enum:
     type: integer
   CK_flag_first:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id063
+    enum:
     - low
     - normal
     - high
@@ -911,11 +1058,13 @@ patient:
     - H 
     - L
     type: string
-    search_term: abnormal creatine kinase
+    name_lookup:
+    - limit: 1
+      search_term: abnormal creatine kinase
   CK_flag_last:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id064
+    enum:
     - low
     - normal
     - high
@@ -923,22 +1072,25 @@ patient:
     - H 
     - L
     type: string
-    search_term: abnormal creatine kinase
+    name_lookup:
+    - limit: 1
+      search_term: abnormal creatine kinase
   CRRT_HD:
     categories:
     - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:ClinicalIntervention
-    enum: &id065
+    enum:
     - '0'
     - '1'
-    - '>1'
     type: string
-    search_term: renal dialysis
+    name_lookup:
+    - limit: 1
+      search_term: renal dialysis
   CURRENT_AGE:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id066
+    enum:
     - 0-2
     - 3-17
     - 18-34
@@ -946,157 +1098,180 @@ patient:
     - 51-69
     - 70-89
     type: string
-    search_term: age
+    name_lookup:
+    - limit: 1
+      search_term: age
   CURRENT_AGE2:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id067
+    enum:
     - <5
     - 5-17
     - 18-44
     - 45-64
     - 65-89
     type: string
-    search_term: age
+    name_lookup:
+    - limit: 1
+      search_term: age
   CancerDx:
     categories:
     - biolink:Disease
     - biolink:DiseaseOrPhenotypicFeature
-    enum: &id069
+    enum:
     - '0'
     - '1'
-    - '>1'
     type: string
-    search_term: cancer
+    name_lookup:
+    - limit: 1
+      search_term: cancer
   CetirizineRx:
     categories:
     - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
-    enum: &id070
+    - biolink:SmallMolecule
+    enum:
     - '0'
     - '1'
-    - '>1'
     type: string
-    search_term: cetirizine
+    name_lookup:
+    - limit: 2
+      search_term: cetirizine
   CharlsonComorbidityIndex:
     categories:
     - biolink:PhenotypicFeature
     maximum: 37
     minimum: 0
     type: integer
-    search_term: Charlson Comorbidity Index
+    name_lookup:
+    - limit: 1
+      search_term: Charlson Comorbidity Index
   ChronicKidneyDiseaseDx:
     categories:
     - biolink:Disease
     - biolink:DiseaseOrPhenotypicFeature
-    enum: &id074
+    enum:
     - '0'
     - '1'
-    - '>1'
     type: string
-    search_term: chronic kidney disease
+    name_lookup:
+    - limit: 7
+      search_term: chronic kidney disease diagnosis
   ChronicNasalCongestionDx:
     categories:
     - biolink:Disease
     - biolink:DiseaseOrPhenotypicFeature
-    enum: &id075
+    enum:
     - '0'
     - '1'
-    - '>1'
     type: string
-    search_term: chronic nasal congestion
+    name_lookup:
+    - limit: 1
+      search_term: chronic nasal congestion
   ChronicObstructivePulmonaryDiseaseDx:
     categories:
     - biolink:Disease
     - biolink:DiseaseOrPhenotypicFeature
-    enum: &id076
+    enum:
     - '0'
     - '1'
-    - '>1'
     type: string
-    search_term: chronic obstructive pulmonary disease
+    name_lookup:
+    - limit: 1
+      search_term: chronic obstructive pulmonary disease diagnosis
   CiclesonideRx:
     categories:
     - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
-    enum: &id077
+    - biolink:SmallMolecule
+    enum:
     - '0'
     - '1'
-    - '>1'
     type: string
-    search_term: ciclesonide
+    name_lookup:
+    - limit: 1
+      search_term: ciclesonide
   CitalopramRx:
     categories:
     - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
-    enum: &id079
+    - biolink:SmallMolecule
+    enum:
     - '0'
     - '1'
-    - '>1'
     type: string
-    search_term: citalopram
+    name_lookup:
+    - limit: 3
+      search_term: citalopram
   CongestiveHeartFailureDx:
     categories:
     - biolink:Disease
     - biolink:DiseaseOrPhenotypicFeature
-    enum: &id081
+    enum:
     - '0'
     - '1'
     type: string
-    search_term: congestive heart failure
+    name_lookup:
+    - limit: 1
+      search_term: congestive heart failure
   ConvalescentPlasmaRx:
     categories:
     - biolink:ChemicalEntity
     - biolink:ChemicalExposure
-    enum: &id082
+    - biolink: ClinicalIntervention
+    enum:
     - '0'
     - '1'
-    - '>1'
     type: string
-    search_term: convalescent plasma
+    name_lookup:
+    - limit: 2
+      search_term: convalescent plasma therapy
   CoronaryArteryDisease:
     categories:
     - biolink:Disease
     - biolink:DiseaseOrPhenotypicFeature
-    enum: &id083
+    enum:
     - '0'
     - '1'
-    - '>1'
     type: string
-    search_term: coronary artery disease
+    name_lookup:
+    - limit: 1
+      search_term: coronary artery disease
   CoughDx:
     categories:
     - biolink:Disease
     - biolink:DiseaseOrPhenotypicFeature
-    enum: &id084
+    enum:
     - '0'
     - '1'
-    - '>1'
     type: string
-    search_term: cough
+    name_lookup:
+    - limit: 3
+      search_term: cough
   CroupDx:
     categories:
     - biolink:Disease
     - biolink:DiseaseOrPhenotypicFeature
-    enum: &id085
+    enum:
     - '0'
     - '1'
-    - '>1'
     type: string
-    search_term: croup
+    name_lookup:
+    - limit: 1
+      search_term: croup
   D-dimer:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id087
+    enum:
     type: integer
     search_term:
   D-dimer_flag_first:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id088
+    enum:
     - low
     - normal
     - high
@@ -1104,11 +1279,13 @@ patient:
     - H 
     - L
     type: string
-    search_term: abnormal d dimer
+    name_lookup:
+    - limit: 1
+      search_term: abnormal d dimer
   D-dimer_flag_last:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id089
+    enum:
     - low
     - normal
     - high
@@ -1116,73 +1293,89 @@ patient:
     - H 
     - L
     type: string
-    search_term: abnormal d dimer
+    name_lookup:
+    - limit: 1
+      search_term: abnormal d dimer
   DexamethasoneRx:
     categories:
     - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
-    enum: &id108
+    - biolink:SmallMolecule
+    enum:
     - '0'
     - '1'
-    - '>1'
     type: string
-    search_term: dexamethasone
+    name_lookup:
+    - limit: 1
+      search_term: dexamethasone
   D28A_ASTHMA_AD_TEXT:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id090
+    enum:
     - 0-2
     - 3-17
     - 18-34
     - 35-50
     - 51-69
     - 70-89
+    name_lookup:
+    - limit: 2
+      search_term: age at onset
     type: string
-    search_term: asthma
   D28A_ASTHMA_AD_TEXT2:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id091
+    enum:
     - <5
     - 5-17
     - 18-44
     - 45-64
     - 65-89
+    name_lookup:
+    - limit: 2
+      search_term: age at onset
     type: string
-    search_term: asthma
   D28B_STILL_HAVE_ASTHMA:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id092
+    enum:
     - 'True'
     - 'False'
+    name_lookup:
+    - limit: 75
+      search_term: asthma diagnosis
     type: string
-    search_term: asthma
   D28C_ASTHMA_EPISODE_12M:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id093
+    enum:
     - 'True'
     - 'False'
+    name_lookup:
+    - limit: 40
+      search_term: asthma exacerbation
     type: string
-    search_term: asthma exacerbation, asthma attack
   D28D_ASTHMA_ER_VISIT_12M:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id094
+    enum:
     - 'True'
     - 'False'
+    name_lookup:
+    - limit: 40
+      search_term: asthma exacerbation
     type: string
-    search_term: asthma exacerbation, asthma attack
   D28E_ASTHMA_MED_TAKE_12M:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id095
+    enum:
     - 'True'
     - 'False'
+    name_lookup:
+    - limit: 2
+      search_term: asthma treatment compliance
     type: string
-    search_term: asthma medication
   D28F_ASTHMA_14D_NUM_NIGHTS_TEXT:
     categories:
     - biolink:PhenotypicFeature
@@ -1198,11 +1391,13 @@ patient:
   D28_ASTHMA:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id096
+    enum:
     - 'True'
     - 'False'
+    name_lookup:
+    - limit: 75
+      search_term: asthma diagnosis
     type: string
-    search_term: asthma
   DISTANCE:
     categories:
     - biolink:ChemicalEntity
@@ -1211,7 +1406,9 @@ patient:
     maximum: 6
     minimum: 1
     type: integer
-    search_term: roadway exposure
+    name_lookup:
+    - limit: 1
+      search_term: roadway exposure
   DISTANCE2:
     categories:
     - biolink:ChemicalEntity
@@ -1220,237 +1417,287 @@ patient:
     maximum: 6
     minimum: 1
     type: integer
-    search_term: roadway exposure
+    name_lookup:
+    - limit: 1
+      search_term: roadway exposure
   Death:
     categories:
     - biolink:PhenotypicFeature
     - biolink:DiseaseOrPhenotypicFeature
-    enum: &id100
+    enum:
     - '0'
     - '1'
     type: string
-    search_term: death
+    name_lookup:
+    - limit: 1
+      search_term: death
   DepressionDx:
     categories:
     - biolink:Disease
     - biolink:DiseaseOrPhenotypicFeature
-    enum: &id101
+    enum:
     - '0'
     - '1'
-    - '>1'
     type: string
-    search_term: depression
+    name_lookup:
+    - limit: 75
+      search_term: depression diagnosis
   DiabetesDx:
     categories:
     - biolink:Disease
     - biolink:DiseaseOrPhenotypicFeature
-    enum: &id103
+    enum:
     - '0'
     - '1'
-    - '>1'
     type: string
-    search_term: diabetes
+    name_lookup:
+    - limit: 75
+      search_term: diabetes diagnosis
   DiphenhydramineRx:
     categories:
     - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
-    enum: &id105
+    - biolink:SmallMolecule
+    enum:
     - '0'
     - '1'
-    - '>1'
     type: string
-    search_term: diphenhydramine
+    name_lookup:
+    - limit: 1
+      search_term: diphenhydramine
   DischargeStatus:
     categories:
     - biolink:PhenotypicFeature
     - biolink:DiseaseOrPhenotypicFeature
-    enum: null
+    enum:
     type: string
-    search_term: hospital discharge
+    name_lookup:
+    - limit: 1
+      search_term: hospital discharge
   Dobutamine_gtt_Rx:
     categories:
     - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
-    enum: &id106
+    - biolink:SmallMolecule
+    enum:
     - '0'
     - '1'
-    - '>1'
     type: string
-    search_term: dobutamine
+    name_lookup:
+    - limit: 1
+      search_term: dobutamine
   Dopamine_gtt_Rx:
     categories:
     - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
-    enum: &id107
+    - biolink:SmallMolecule
+    enum:
     - '0'
     - '1'
-    - '>1'
     type: string
-    search_term: dopamine
+    name_lookup:
+    - limit: 1
+      search_term: dopamine
   DrugDependenceDx:
     categories:
     - biolink:Disease
     - biolink:DiseaseOrPhenotypicFeature
-    enum: &id109
+    enum:
     - '0'
     - '1'
-    - '>1'
     type: string
-    search_term: drug dependence
+    name_lookup:
+    - limit: 17
+      search_term: drug dependence diagnosis
   DuloxetineRx:
     categories:
     - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
-    enum: &id110
+    - biolink:SmallMolecule
+    enum:
     - '0'
     - '1'
-    - '>1'
     type: string
-    search_term: duloxetine
-  #ECLS:
-  #  categories:
-  # - biolink:ClinicalIntervention
-  # - biolink:ChemicalEntity
-  # - biolink:ChemicalExposure
-  # - biolink:Drug
-  # enum: &id111
-  # - '0'
-  # - '1'
-  # - '>1'
-  # type: string
-  # search_term: extracorporeal life support
-  # search_term: extracorporeal membrane oxygenation
+    name_lookup:
+    - limit: 1
+      search_term: duloxetine
+  ECLS:
+    categories:
+    - biolink:ClinicalIntervention
+    - biolink:ChemicalEntity
+    - biolink:ChemicalExposure
+    - biolink:Drug
+    - biolink:SmallMolecule
+    enum:
+    - '0'
+    - '1'
+    type: string
+    name_lookup:
+    - limit: 1
+      search_term: extracorporeal life support
   ESTPROPHOUSEHOLDSNOAUTO_cut:
     categories:
     - biolink:EnvironmentalExposure
     maximum: 4
     minimum: 1
+    name_lookup:
+    - limit: 1
+      search_term: household automobile
     type: integer
-    search_term: automobile
   ESTPROPHOUSEHOLDSNOAUTO_qcut:
     categories:
     - biolink:EnvironmentalExposure
     maximum: 4
     minimum: 1
+    name_lookup:
+    - limit: 1
+      search_term: household automobile
     type: integer
-    search_term: automobile
   ESTPROPPERSONS25PLUSHSMAX_cut:
     categories:
     - biolink:EnvironmentalExposure
+    limit: 2
     maximum: 4
     minimum: 1
+    search_trem: number in household
     type: integer
-    search_trem: household density
   ESTPROPPERSONS25PLUSHSMAX_qcut:
     categories:
     - biolink:EnvironmentalExposure
     maximum: 4
     minimum: 1
+    name_lookup:
+    - limit: 2
+      search_term: number in household
     type: integer
-    search_term: household density
   ESTPROPPERSONS5PLUSNOENGLISH_cut:
     categories:
     - biolink:EnvironmentalExposure
     maximum: 4
     minimum: 1
+    name_lookup:
+    - limit: 1
+      search_term: not proficient in english
     type: integer
-    search_term: english second language
   ESTPROPPERSONS5PLUSNOENGLISH_qcut:
     categories:
     - biolink:EnvironmentalExposure
     maximum: 4
     minimum: 1
+    name_lookup:
+    - limit: 1
+      search_term: not proficient in english
     type: integer
-    search_term: english second language
   ESTPROPPERSONSNOHEALTHINS_cut:
     categories:
     - biolink:EnvironmentalExposure
     maximum: 4
     minimum: 1
+    name_lookup:
+    - limit: 2
+      search_term: health insurance
     type: integer
-    search_term: health insurance
   ESTPROPPERSONSNOHEALTHINS_qcut:
     categories:
     - biolink:EnvironmentalExposure
     maximum: 4
     minimum: 1
+    name_lookup:
+    - limit: 2
+      search_term: health insurance
     type: integer
-    search_term: health insurance
   ESTPROPPERSONSNONHISPWHITE_cut:
     categories:
     - biolink:EnvironmentalExposure
     maximum: 4
     minimum: 1
+    name_lookup:
+    - limit: 1
+      search_term: non hispanic white
     type: integer
-    search_term: non hispanic white
   ESTPROPPERSONSNONHISPWHITE_qcut:
     categories:
     - biolink:EnvironmentalExposure
     maximum: 4
     minimum: 1
+    name_lookup:
+    - limit: 1
+      search_term: non hispanic white
     type: integer
-    search_term: non hispanic white
   ESTTOTALPOP:
     categories:
     - biolink:EnvironmentalExposure
     maximum: 3
     minimum: 1
+    name_lookup:
+    - limit: 1
+      search_term: population density
     type: integer
-    search_term: population size
   ESTTOTALPOP25PLUS_cut:
     categories:
     - biolink:EnvironmentalExposure
     maximum: 5
     minimum: 1
+    name_lookup:
+    - limit: 1
+      search_term: population density
     type: integer
   ESTTOTALPOP25PLUS_qcut:
     categories:
     - biolink:EnvironmentalExposure
-    enum:
+    enum: null
+    name_lookup:
+    - limit: 1
+      search_term: population density
     type: integer
   ETHNICITY:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id112
+    enum:
     - Non-Hispanic/Non-Latino
     - Unknown/NR
     - Hispanic Latino
+    name_lookup:
+    - limit: 3
+      search_term: ethnic group
     type: string
-    search_term: ethnicity
   EndometriosisDx:
     categories:
     - biolink:Disease
     - biolink:DiseaseOrPhenotypicFeature
-    enum: &id113
+    enum:
     - '0'
     - '1'
-    - '>1'
     type: string
-    search_term: endometriosis
-  Epinephrine_gtt:
+    name_lookup:
+    - limit: 25
+      search_term: endometriosis diagnosis
+  Epinephrine_gtt_Rx:
     categories:
     - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
-    enum: &id115
+    - biolink:SmallMolecule
+    enum:
     - '0'
     - '1'
-    - '>1'
     type: string
-    search_term: epinephrine
+    name_lookup:
+    - limit: 1
+      search_term: epinephrine
   ErythrocyteSedimentationRate:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id116
+    enum:
     type: integer
   ErythrocyteSedimentationRate_flag_first:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id117
+    enum:
     - low
     - normal
     - high
@@ -1458,11 +1705,13 @@ patient:
     - H 
     - L
     type: string
-    search_term: low erthrocyte sedimentation rate, high erythrocyte sedimentation rate
+    name_lookup:
+    - limit: 1
+      search_term: abnormal erthrocyte sedimentation rate
   ErythrocyteSedimentationRate_flag_last:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id118
+    enum:
     - low
     - normal
     - high
@@ -1470,152 +1719,183 @@ patient:
     - H 
     - L
     type: string
-    search_term: low erthrocyte sedimentation rate, high erythrocyte sedimentation rate
+    name_lookup:
+    - limit: 1
+      search_term: abnormal erthrocyte sedimentation rate
   EscitalopramRx:
     categories:
     - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
-    enum: &id119
+    - biolink:SmallMolecule
+    enum:
     - '0'
     - '1'
-    - '>1'
     type: string
-    search_term: escitalopram
-  Esmolol_gtt:
+    name_lookup:
+    - limit: 1
+      search_term: escitalopram
+  Esmolol_gtt_Rx:
     categories:
     - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
-    enum: &id120
+    - biolink:SmallMolecule
+    enum:
     - '0'
     - '1'
-    - '>1'
     type: string
-    search_term: esmolol
+    name_lookup:
+    - limit: 1
+      search_term: esmolol
   EstHouseholdIncome:
     categories:
     - biolink:EnvironmentalExposure
     maximum: 5
     minimum: 1
+    name_lookup:
+    - limit: 1
+      search_term: household income
     type: integer
-    search_term: household income
   EstProbabilityESL:
     categories:
     - biolink:EnvironmentalExposure
     maximum: 4
     minimum: 1
+    name_lookup:
+    - limit: 1
+      search_term: english second language
     type: integer
-    search_term: english second language
   EstProbabilityHighSchoolMaxEducation:
     categories:
     - biolink:EnvironmentalExposure
     maximum: 4
     minimum: 1
+    name_lookup:
+    - limit: 2
+      search_term: education
     type: integer
-    search_term: high school education
   EstProbabilityHouseholdNonHispWhite:
     categories:
     - biolink:EnvironmentalExposure
     maximum: 4
     minimum: 1
+    name_lookup:
+    - limit: 1
+      search_term: non hispanic white
     type: integer
-    search_term: non hispanic white
   EstProbabilityNoAuto:
     categories:
     - biolink:EnvironmentalExposure
     maximum: 4
     minimum: 1
+    name_lookup:
+    - limit: 1
+      search_term: household automobile
     type: integer
-    search_term: automobile
   EstProbabilityNoHealthIns:
     categories:
     - biolink:EnvironmentalExposure
     maximum: 4
     minimum: 1
+    name_lookup:
+    - limit: 2
+      search_term: health insurance
     type: integer
-    search_term: health insurance
   EstProbabilityNonHispWhite:
     categories:
     - biolink:EnvironmentalExposure
     maximum: 4
     minimum: 1
+    name_lookup:
+    - limit: 1
+      search_term: non hispanic white
     type: integer
-    search_term: non hispanic white
   EstResidentialDensity:
     categories:
     - biolink:EnvironmentalExposure
     maximum: 3
     minimum: 1
+    name_lookup:
+    - limit: 1
+      search_term: population density
     type: integer
-    search_term: residential density
   EstResidentialDensity25Plus:
     categories:
     - biolink:EnvironmentalExposure
     maximum: 5
     minimum: 1
+    name_lookup:
+    - limit: 1
+      search_term: population density
     type: integer
-    search_term: residential density
   EstradiolRx:
     categories:
     - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
-    enum: &id122
+    - biolink:SmallMolecule
+    enum:
     - '0'
     - '1'
-    - '>1'
     type: string
-    search_term: estradiol
+    name_lookup:
+    - limit: 1
+      search_term: estradiol
   EstrogenRx:
     categories:
     - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
-    enum: &id123
+    - biolink:SmallMolecule
+    enum:
     - '0'
     - '1'
-    - '>1'
     type: string
-    search_term: estrogen
+    name_lookup:
+    - limit: 2
+      search_term: estrogen
   EstropipateRx:
     categories:
     - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
-    enum: &id124
+    - biolink:SmallMolecule
+    enum:
     - '0'
     - '1'
-    - '>1'
     type: string
-    search_term: estropipate
+    name_lookup:
+    - limit: 1
+      search_term: estropipate
   Ethnicity_UNC:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id125
+    enum:
     - Not Hispanic
     - Unknown
     - Hispanic
     type: string
-    search_term: ethnicity
-  ExtracorporealVentilationORSystemicAssistance:
-    categories:
-    - biolink:ClinicalIntervention
-    enum: &id127
-    - '0'
-    - '1'
-    - '>1'
-    type: string
-    search_term: extracorporeal life support, extracorporeal membrane oxygenation
+    name_lookup:
+    - limit: 3
+      search_term: ethnic group
+  #ExtracorporealVentilationORSystemicAssistance:
+  #  categories:
+  #  - biolink:ClinicalIntervention
+  #  enum:
+  #  - '0'
+  #  - '1'
+  #  type: string
+  #  search_term: extracorporeal life support, extracorporeal membrane oxygenation
   Ferritin:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id129
+    enum:
     type: integer
   Ferritin_flag_first:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id130
+    enum:
     - low
     - normal
     - high
@@ -1623,11 +1903,13 @@ patient:
     - H 
     - L
     type: string
-    search_term: elevated ferritin
+    name_lookup:
+    - limit: 1
+      search_term: abnormal ferritin
   Ferritin_flag_last:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id131
+    enum:
     - low
     - normal
     - high
@@ -1635,228 +1917,376 @@ patient:
     - H 
     - L
     type: string
-    search_term: elevated ferritin
+    name_lookup:
+    - limit: 1
+      search_term: abnormal ferritin
   Fever:
     categories:
     - biolink:Disease
     - biolink:DiseaseOrPhenotypicFeature
-    enum: &id133
+    enum:
     - '0'
     - '1'
-    - '>1'
     type: string
-    search_term: fever
+    name_lookup:
+    - limit: 4
+      search_term: fever
   FexofenadineRx:
     categories:
     - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
-    enum: &id134
+    - biolink:SmallMolecule
+    enum:
     - '0'
     - '1'
-    - '>1'
     type: string
-    search_term: fexofenadine
+    name_lookup:
+    - limit: 2
+      search_term: fexofenadine
   FibromyalgiaDx:
     categories:
     - biolink:Disease
     - biolink:DiseaseOrPhenotypicFeature
-    enum: &id135
+    enum:
     - '0'
     - '1'
-    - '>1'
     type: string
-    search_term: fibromyalgia
+    name_lookup:
+    - limit: 1
+      search_term: fibromyalgia diagnosis
   FlunisolideRx:
     categories:
     - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
-    enum: &id137
+    - biolink:SmallMolecule
+    enum:
     - '0'
     - '1'
-    - '>1'
     type: string
-    search_term: flunisolide
+    name_lookup:
+    - limit: 2
+      search_term: flunisolide
   FluoxetineRx:
     categories:
     - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
-    enum: &id138
+    - biolink:SmallMolecule
+    enum:
     - '0'
     - '1'
-    - '>1'
     type: string
-    search_term: fluoxetine
+    name_lookup:
+    - limit: 1
+      search_term: fluoxetine
   FluticasoneRx:
     categories:
     - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
-    enum: &id139
+    - biolink:SmallMolecule
+    enum:
     - '0'
     - '1'
-    - '>1'
     type: string
-    search_term: fluticasone
+    name_lookup:
+    - limit: 1
+      search_term: fluticasone
   FormoterolRx:
     categories:
     - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
-    enum: &id140
+    - biolink:SmallMolecule
+    enum: 
     - '0'
     - '1'
-    - '>1'
     type: string
-    search_term: formoterol
-  # FEV1_FVC:
-  #   categories:
-  #   - biolink:PhenotypicFeature
-  #   enum:
-  #   - "0"
-  #   - "1"
-  #   type: integer
-  # FEV1_FVC_flag_first:
-  #   categories:
-  #   - biolink:PhenotypicFeature
-  #   enum:
-  #   - low
-  #   - normal
-  #   - high
-  #   type: string
-  # FEV1_FVC_flag_last:
-  #   categories:
-  #   - biolink:PhenotypicFeature
-  #   enum:
-  #   - low
-  #   - normal
-  #   - high
-  #   type: string
+    name_lookup:
+    - limit: 2
+      search_term: formoterol
+  FEV1:
+    categories:
+    - biolink:PhenotypicFeature
+    enum: null
+    type: number
+  FEV1FVC:
+    categories:
+    - biolink:PhenotypicFeature
+    enum: null
+    type: number
+  FEV1FVC_flag_first:
+    categories:
+    - biolink:PhenotypicFeature
+    enum:
+    - low
+    - normal
+    - high
+    - abnormal
+    - A
+    - H
+    - L
+    name_lookup:
+    - limit: 1
+      search_term: abnormal Forced expiratory volume ratio
+    type: string
+  FEV1FVC_flag_last:
+    categories:
+    - biolink:PhenotypicFeature
+    enum:
+    - low
+    - normal
+    - high
+    - abnormal
+    - A
+    - H
+    - L
+    name_lookup:
+    - limit: 1
+      search_term: abnormal Forced expiratory volume ratio
+    type: string
+  FEV1_flag_first:
+    categories:
+    - biolink:PhenotypicFeature
+    enum:
+    - low
+    - normal
+    - high
+    - abnormal
+    - A
+    - H
+    - L
+    name_lookup:
+    - limit: 1
+      search_term: abnormal forced expiratory volume
+    type: string
+  FEV1_flag_last:
+    categories:
+    - biolink:PhenotypicFeature
+    enum:
+    - low
+    - normal
+    - high
+    - abnormal
+    - A
+    - H
+    - L
+    name_lookup:
+    - limit: 1
+      search_term: abnormal forced expiratory volume
+    type: string
+  FVC:
+    categories:
+    - biolink:PhenotypicFeature
+    enum: null
+    type: number
+  FVC_flag_first:
+    categories:
+    - biolink:PhenotypicFeature
+    enum:
+    - low
+    - normal
+    - high
+    - abnormal
+    - A
+    - H
+    - L
+    name_lookup:
+    - limit: 1
+      search_term: abnormal forced vital capacity
+    type: string
+  FVC_flag_last:
+    categories:
+    - biolink:PhenotypicFeature
+    enum:
+    - low
+    - normal
+    - high
+    - abnormal
+    - A
+    - H
+    - L
+    name_lookup:
+    - limit: 1
+      search_term: abnormal forced vital capacity
+    type: string
   GENDER:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id141
+    enum:
     - Female
     - Male
     type: string
-    search_term: sex
+    name_lookup:
+    - limit: 1
+      search_term: biological sex
   GoserelinRx:
     categories:
     - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
-    enum: &id144
+    - biolink:SmallMolecule
+    enum:
     - '0'
     - '1'
-    - '>1'
     type: string
-    search_term: goserelin
+    name_lookup:
+    - limit: 1
+      search_term: goserelin
   HeartFailureDiseaseDx:
     categories:
     - biolink:Disease
     - biolink:DiseaseOrPhenotypicFeature
-    enum: &id154
+    enum:
     - '0'
     - '1'
-    - '>1'
     type: string
-    search_term: heart failure disease
+    name_lookup:
+    - limit: 11
+      search_term: congestive heart failure diagnosis
+  Hemoglobin:
+    categories:
+    - biolink:PhenotypicFeature
+    enum: null
+    type: integer
+  Hemoglobin_flag_first:
+    categories:
+    - biolink:PhenotypicFeature
+    enum:
+    - low
+    - normal
+    - high
+    - abnormal
+    - A
+    - H
+    - L
+    name_lookup:
+    - limit: 1
+      search_term: abnormal hemoglobin
+    type: string
+  Hemoglobin_flag_last:
+    categories:
+    - biolink:PhenotypicFeature
+    enum:
+    - low
+    - normal
+    - high
+    - abnormal
+    - A
+    - H
+    - L
+    name_lookup:
+    - limit: 1
+      search_term: abnormal hemoglobin
+    type: string
   HighFlowNasalCannula:
     categories:
     - biolink:ClinicalIntervention
-    enum: &id299
+    enum:
     - '0'
     - '1'
-    - '>1'
     type: string
-    search_term: high flow nasal cannula  
+    name_lookup:
+    - limit: 1
+      search_term: high flow nasal cannula  
   HistrelinRx:
     categories:
     - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
-    enum: &id164
+    - biolink:SmallMolecule
+    enum:
     - '0'
     - '1'
-    - '>1'
     type: string
-    search_term: histrelin
+    name_lookup:
+    - limit: 1
+      search_term: histrelin
   HIVInfectionDx:
     categories:
     - biolink:Disease
     - biolink:DiseaseOrPhenotypicFeature
-    enum: &id165
+    enum:
     - '0'
     - '1'
-    - '>1'
     type: string
-    search_term: human immunodeficiency virus infection
+    name_lookup:
+    - limit: 1
+      search_term: human immunodeficiency virus infection
   HospitalLOS:
     categories:
     - biolink:ClinicalIntervention
     type: integer
-    search_term: hospitalization
+    name_lookup:
+    - limit: 1
+      search_term: hospitalization
   HydroxychloroquineRx:
     categories:
     - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
-    enum: &id166
+    - biolink:SmallMolecule
+    enum:
     - '0'
     - '1'
-    - '>1'
     type: string
-    search_term: hydrochloroquine
+    name_lookup:
+    - limit: 1
+      search_term: hydrochloroquine
   HydroxyzineRx:
     categories:
     - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
-    enum: &id167
+    - biolink:SmallMolecule
+    enum:
     - '0'
     - '1'
-    - '>1'
     type: string
-    search_term: hydroxyzine
+    name_lookup:
+    - limit: 1
+      search_term: hydroxyzine
   HypertensionDx:
     categories:
     - biolink:Disease
     - biolink:DiseaseOrPhenotypicFeature
-    enum: &id168
+    enum:
     - '0'
     - '1'
-    - '>1'
     type: string
-    search_term: hypertension
+    name_lookup:
+    - limit: 1
+      search_term: hypertension
   ICU:
     categories:
     - biolink:ClinicalIntervention
-    enum: &id169
+    enum:
     - '0'
     - '1'
     type: string
-    search_term: intensive care unit
+    name_lookup:
+    - limit: 1
+      search_term: intensive care unit
   IN_EPR:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id173
+    enum:
     - '0'
     - '1'
-    - '>1'
     type: string
   IN_FINAL_SAMPLE:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id174
+    enum:
     - 'True'
     - 'False'
     type: string
   IN_UNC_Health:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id175
+    enum:
     - '0'
     - '1'
     type: string
@@ -1865,78 +2295,88 @@ patient:
     - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
-    enum: &id179
+    - biolink:SmallMolecule
+    enum:
     - '0'
     - '1'
-    - '>1'
     type: string
-    search_term: indacaterol
+    name_lookup:
+    - limit:  
+      search_term: indacaterol
   Influenza7pointClinicalStatusScore:
     categories: []
     maximum: 10
     minimum: 0
     type: integer
-    search_term: influenza severity
+    name_lookup:
+    - limit: 1
+      search_term: influenza severity
   IntravenousImmunoglobulinRx:
     categories:
     - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
-    enum: &id181
+    - biolink:SmallMolecule
+    enum:
     - '0'
     - '1'
-    - '>1'
     type: string
-    search_term: intravenous immunoglobulin
+    name_lookup:
+    - limit:  
+      search_term: intravenous immunoglobulin
   InvasiveVentilation:
     categories:
     - biolink:ClinicalIntervention
-    enum: &id182
+    enum:
     - '0'
     - '1'
-    - '>1'
     type: string
-    search_term: invasive ventilation
+    name_lookup:
+    - limit: 1
+      search_term: invasive mechanical ventilation
   IpratropiumRx:
     categories:
     - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
-    enum: &id183
+    - biolink:SmallMolecule
+    enum:
     - '0'
     - '1'
-    - '>1'
     type: string
-    search_term: ipratropium
-  IsolationFlag:
-    categories:
-    - biolink:ClinicalIntervention
-    enum: &id185
-    - '0'
-    - '1'
-    - '>1'
-    type: string
+    name_lookup:
+    - limit: 1
+      search_term: ipratropium
+#  IsolationFlag:
+#    categories:
+#    - biolink:ClinicalIntervention
+#    enum:
+#    - '0'
+#    - '1'
+#    type: string
   Isoproterenol_gtt_Rx:
     categories:
     - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
-    enum: &id186
+    - biolink:SmallMolecule
+    enum:
     - '0'
     - '1'
-    - '>1'
     type: string
-    search_term: isoproterenol
+    name_lookup:
+    - limit: 1
+      search_term: isoproterenol
   LDH:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id190
+    enum:
     type: integer
     search_term:
   LDH_flag_first:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id191
+    enum:
     - low
     - normal
     - high
@@ -1944,11 +2384,13 @@ patient:
     - H 
     - L
     type: string
-    search_term: elevated lactate dehydrogenase
+    name_lookup:
+    - limit: 1
+      search_term: abnormal lactate dehydrogenase
   LDH_flag_last:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id192
+    enum:
     - low
     - normal
     - high
@@ -1956,16 +2398,18 @@ patient:
     - H 
     - L
     type: string
-    search_term: elevated lactate dehydrogenase
+    name_lookup:
+    - limit: 1
+      search_term: abnormal lactate dehydrogenase
   Lactate:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id193
+    enum:
     type: integer
   Lactate_flag_first:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id194
+    enum:
     - low
     - normal
     - high
@@ -1973,11 +2417,13 @@ patient:
     - H 
     - L
     type: string
-    search_term: elevated lactate
+    name_lookup:
+    - limit: 1
+      search_term: abnormal lactate
   Lactate_flag_last:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id195
+    enum:
     - low
     - normal
     - high
@@ -1985,7 +2431,9 @@ patient:
     - H 
     - L
     type: string
-    search_term: elevated lactate
+    name_lookup:
+    - limit: 1
+      search_term: abnormal lactate
   Landfill_Exposure:
     categories:
     - biolink:ChemicalEntity
@@ -1999,57 +2447,65 @@ patient:
   #  categories:
   #  - biolink:Disease
   # - biolink:DiseaseOrPhenotypicFeature
-  # enum: &id196
+  # enum:
   # - '0'
   # - '1'
-  # - '>1'
   # type: string
   LeuprolideRx:
     categories:
     - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
-    enum: &id197
+    - biolink:SmallMolecule
+    enum:
     - '0'
     - '1'
-    - '>1'
     type: string
-    search_term: leuprolide
-  Levosimendan_gtt:
+    name_lookup:
+    - limit: 1
+      search_term: leuprolide
+  Levosimendan_gtt_Rx:
     categories:
     - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
-    enum: &id198
+    - biolink:SmallMolecule
+    enum:
     - '0'
     - '1'
-    - '>1'
     type: string
-    search_term: levosimendan
+    name_lookup:
+    - limit: 1
+      search_term: levosimendan
   LiverDiseaseDx:
-     categories:
-     - biolink:Disease
-     - biolink:DiseaseOrPhenotypicFeature
-     enum:
-     - '0'
-     - '1'
-     - '>1'
-     type: string
-     search_term: liver disease
+    categories:
+    - biolink:Disease
+    - biolink:DiseaseOrPhenotypicFeature
+    enum:
+    - '0'
+    - '1'
+    type: string
+    name_lookup:
+    - limit: 2
+      search_term: liver disease diagnosis
   MEDIANHOUSEHOLDINCOME_cut:
     categories:
     - biolink:EnvironmentalExposure
     maximum: 4
     minimum: 1
     type: integer
-    search_term: household income
+    name_lookup:
+    - limit: 1
+      search_term: household income
   MEDIANHOUSEHOLDINCOME_qcut:
     categories:
     - biolink:EnvironmentalExposure
     maximum: 4
     minimum: 1
     type: integer
-    search_term: household income
+    name_lookup:
+    - limit: 1
+      search_term: household income
   MajorRoadwayHighwayExposure:
     categories:
     - biolink:ChemicalEntity
@@ -2058,7 +2514,9 @@ patient:
     maximum: 6
     minimum: 1
     type: integer
-    search_term: roadway exposure
+    name_lookup:
+    - limit: 1
+      search_term: roadway exposure
   MajorRoadwayHighwayExposure2:
     categories:
     - biolink:ChemicalEntity
@@ -2067,268 +2525,322 @@ patient:
     maximum: 6
     minimum: 1
     type: integer
-    search_term: roadway exposure
+    name_lookup:
+    - limit: 1
+      search_term: roadway exposure
   MaxDailyOzoneExposure:
     categories:
     - biolink:SmallMolecule
     - biolink:ChemicalExposure
     maximum: 5
     minimum: 1
+    name_lookup:
+    - limit: 1
+      search_term: ozone
     type: integer
-    search_term: ozone
   MaxDailyOzoneExposure_2:
     categories:
     - biolink:SmallMolecule
     - biolink:ChemicalExposure
     maximum: 5
     minimum: 1
+    name_lookup:
+    - limit: 1
+      search_term: ozone
     type: integer
-    search_term: ozone
   MaxDailyOzoneExposure_2_qcut:
     categories:
     - biolink:SmallMolecule
     - biolink:ChemicalExposure
     maximum: 5
     minimum: 1
+    name_lookup:
+    - limit: 1
+      search_term: ozone
     type: integer
-    search_term: ozone
   MaxDailyOzoneExposure_StudyAvg:
     categories:
     - biolink:SmallMolecule
     - biolink:ChemicalExposure
     maximum: 5
     minimum: 1
+    name_lookup:
+    - limit: 1
+      search_term: ozone
     type: integer
-    search_term: ozone
   MaxDailyOzoneExposure_StudyAvg_qcut:
     categories:
     - biolink:SmallMolecule
     - biolink:ChemicalExposure
     maximum: 5
     minimum: 1
+    name_lookup:
+    - limit: 1
+      search_term: ozone
     type: integer
-    search_term: ozone
   MaxDailyOzoneExposure_StudyMax:
     categories:
     - biolink:SmallMolecule
     - biolink:ChemicalExposure
     maximum: 5
     minimum: 1
+    name_lookup:
+    - limit: 1
+      search_term: ozone
     type: integer
-    search_term: ozone
   MaxDailyOzoneExposure_StudyMax_qcut:
     categories:
     - biolink:SmallMolecule
     - biolink:ChemicalExposure
     maximum: 5
     minimum: 1
+    name_lookup:
+    - limit: 1
+      search_term: ozone
     type: integer
-    search_term: ozone
   MaxDailyOzoneExposure_qcut:
     categories:
     - biolink:SmallMolecule
     - biolink:ChemicalExposure
     maximum: 5
     minimum: 1
+    name_lookup:
+    - limit: 1
+      search_term: ozone
     type: integer
-    search_term: ozone
   MaxDailyPM2.5Exposure:
     categories:
     - biolink:SmallMolecule
     - biolink:ChemicalExposure
     maximum: 5
     minimum: 1
+    name_lookup:
+    - limit: 1
+      search_term: particulate matter
     type: integer
-    search_term: particulate matter
   MaxDailyPM2.5Exposure_StudyAvg:
     categories:
     - biolink:SmallMolecule
     - biolink:ChemicalExposure
     maximum: 5
     minimum: 1
+    name_lookup:
+    - limit: 1
+      search_term: particulate matter
     type: integer
-    search_term: particulate matter
   MaxDailyPM2.5Exposure_StudyAvg_qcut:
     categories:
     - biolink:SmallMolecule
     - biolink:ChemicalExposure
     maximum: 5
     minimum: 1
+    name_lookup:
+    - limit: 1
+      search_term: particulate matter
     type: integer
-    search_term: particulate matter
   MaxDailyPM2.5Exposure_StudyMax:
     categories:
     - biolink:SmallMolecule
     - biolink:ChemicalExposure
     maximum: 5
     minimum: 1
+    name_lookup:
+    - limit: 1
+      search_term: particulate matter
     type: integer
-    search_term: particulate matter
   MaxDailyPM2.5Exposure_StudyMax_qcut:
     categories:
     - biolink:SmallMolecule
     - biolink:ChemicalExposure
     maximum: 5
     minimum: 1
+    name_lookup:
+    - limit: 1
+      search_term: particulate matter
     type: integer
-    search_term: particulate matter
   MaxDailyPM2.5Exposure_qcut:
     categories:
     - biolink:SmallMolecule
     - biolink:ChemicalExposure
     maximum: 5
     minimum: 1
+    name_lookup:
+    - limit: 1
+      search_term: particulate matter
     type: integer
-    search_term: particulate matter
   MedroxyprogesteroneRx:
     categories:
     - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
-    enum: &id205
+    - biolink:SmallMolecule
+    enum:
     - '0'
     - '1'
-    - '>1'
-    type: string
-    search_term: medroxyprogesterone
+    name_lookup:
+    - limit: 1
+      search_term: medroxyprogesterone
   MenopauseDx:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id206
+    enum:
     - '0'
     - '1'
-    - '>1'
     type: string
-    search_term: menopause
+    name_lookup:
+    - limit: 3
+      search_term: menopause
   MepolizumabRx:
     categories:
     - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
-    enum: &id207
+    - biolink:SmallMolecule
+    enum:
     - '0'
     - '1'
-    - '>1'
     type: string
-    search_term: mepolizumab
+    name_lookup:
+    - limit: 1
+      search_term: mepolizumab
   MetaproterenolRx:
     categories:
     - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
-    enum: &id208
+    - biolink:SmallMolecule
+    enum:
     - '0'
     - '1'
-    - '>1'
     type: string
-    search_term: metaproterenol
+    name_lookup:
+    - limit: 2
+      search_term: metaproterenol
   MetforminRx:
     categories:
     - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
-    enum: &id209
+    - biolink:SmallMolecule
+    enum:
     - '0'
     - '1'
-    - '>1'
     type: string
-    search_term: metformin
-  Milrinone_gtt:
+    name_lookup:
+    - limit: 1
+      search_term: metformin
+  Milrinone_gtt_Rx:
     categories:
     - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
-    enum: &id211
+    - biolink:SmallMolecule
+    enum:
     - '0'
     - '1'
-    - '>1'
     type: string
-    search_term: milrinone
+    name_lookup:
+    - limit: 1
+      search_term: milrinone
   MometasoneRx:
     categories:
     - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
-    enum: &id212
+    - biolink:SmallMolecule
+    enum: 
     - '0'
     - '1'
-    - '>1'
     type: string
-    search_term: mometasone
+    name_lookup:
+    - limit: 1
+      search_term: mometasone
   NandroloneRx:
     categories:
     - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
-    enum: &id214
+    - biolink:SmallMolecule
+    enum:
     - '0'
     - '1'
-    - '>1'
     type: string
-    search_term: nandrolone
+    name_lookup:
+    - limit: 1
+      search_term: nandrolone
   NeurologicalDiseaseDx:
     categories:
     - biolink:Disease
     - biolink:DiseaseOrPhenotypicFeature
-    enum: &id217
+    enum:
     - '0'
     - '1'
     type: string
-    search_term: neurological disease
-  NitricOxideOrFolan:
+    name_lookup:
+    - limit: 1
+      search_term: neurological disease
+  NitricOxideRx:
     categories:
     - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
-    enum: &id219
+    - biolink:SmallMolecule
+    enum:
     - '0'
     - '1'
-    - '>1'
+    name_lookup:
+    - limit: 1
+      search_term: nitric oxide
     type: string
-    search_term: nitric oxide, epoprostenol sodium
   NonInvasivePositivePressureVentilation:
     categories:
     - biolink:ClinicalIntervention
-    enum: &id220
+    enum:
     - '0'
     - '1'
-    - '>1'
     type: string
-    search_term: positive pressure ventilation
-  Norepinephrine_gtt:
+    name_lookup:
+    - limit: 1
+      search_term: positive pressure ventilation
+  Norepinephrine_gtt_Rx:
     categories:
     - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
-    enum: &id221
+    - biolink:SmallMolecule
+    enum:
     - '0'
     - '1'
-    - '>1'
     type: string
-    search_term: norepinephrine
+    name_lookup:
+    - limit: 1
+      search_term: norepinephrine
   O3_ANNUAL_AVERAGE_cut:
     categories:
     - biolink:EnvironmentalExposure
     maximum: 5
     minimum: 1
+    name_lookup:
+    - limit: 1
+      search_term: ozone
     type: integer
-    search_term: ozone
   O3_ANNUAL_AVERAGE_qcut:
     categories:
     - biolink:EnvironmentalExposure
     maximum: 5
     minimum: 1
+    name_lookup:
+    - limit: 1
+      search_term: ozone
     type: integer
-    search_term: ozone
   O3_N_OBS:
     categories:
     - biolink:EnvironmentalExposure
     type: integer
-    search_term: ozone
   ORIGINAL_ANALYTIC_SAMPLE:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id222
+    enum:
     - 'True'
     - 'False'
     type: string
@@ -2336,92 +2848,104 @@ patient:
     categories:
     - biolink:PhenotypicFeature
     - biolink:DiseaseOrPhenotypicFeature
-    enum: &id223
+    enum:
     - '0'
     - '1'
     type: string
-    search_term: obesity
+    name_lookup:
+    - limit: 2
+      search_term: obesity BMI
   ObesityDx:
     categories:
     - biolink:Disease
     - biolink:DiseaseOrPhenotypicFeature
-    enum: &id224
+    enum:
     - '0'
     - '1'
-    - '>1'
     type: string
-    search_term: obesity
+    name_lookup:
+    - limit: 6
+      search_term: obesity diagnosis
   OmalizumabRx:
     categories:
     - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
-    enum: &id225
+    - biolink:SmallMolecule
+    enum:
     - '0'
     - '1'
-    - '>1'
     type: string
-    search_term: omalizumab
+    name_lookup:
+    - limit: 1
+      search_term: omalizumab
   OvarianDysfunctionDx:
     categories:
     - biolink:Disease
     - biolink:DiseaseOrPhenotypicFeature
-    enum: &id227
+    enum:
     - '0'
     - '1'
-    - '>1'
     type: string
-    search_term: ovarian dysfunction
+    name_lookup:
+    - limit: 1
+      search_term: ovarian cancer diagnosis
   PM25_ANNUAL_AVERAGE_cut:
     categories:
     - biolink:EnvironmentalExposure
     maximum: 5
     minimum: 1
+    name_lookup:
+    - limit: 1
+      search_term: particulate matter
     type: integer
-    search_term: particulate matter
   PM25_ANNUAL_AVERAGE_qcut:
     categories:
     - biolink:EnvironmentalExposure
     maximum: 5
     minimum: 1
+    name_lookup:
+    - limit: 1
+      search_term: particulate matter
     type: integer
-    search_term: particulate matter
   PM25_N_OBS:
     categories:
     - biolink:EnvironmentalExposure
     type: integer
-    search_term: particulate matter
   ParoxetineRx:
     categories:
     - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
-    enum: &id230
+    - biolink:SmallMolecule
+    enum:
     - '0'
     - '1'
-    - '>1'
-    type: string
-    search_term: paroxetine
-  Phenylephrine_gtt:
+    name_lookup:
+    - limit: 1
+      search_term: paroxetine
+  Phenylephrine_gtt Rx:
     categories:
     - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
-    enum: &id232
+    - biolink:SmallMolecule
+    enum:
     - '0'
     - '1'
-    - '>1'
     type: string
-    search_term: phenylephrine
+    name_lookup:
+    - limit: 1
+      search_term: phenylephrine
   PlateletCount:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id233
+    enum:
     type: integer
   PlateletCount_flag_first:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id234
+    enum:
     - low
     - normal
     - high
@@ -2429,11 +2953,13 @@ patient:
     - H 
     - L
     type: string
-    search_term: thrombocytosis
+    name_lookup:
+    - lookup: 1
+      search_term: abnormal platelet count
   PlateletCount_flag_last:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id235
+    enum:
     - low
     - normal
     - high
@@ -2441,57 +2967,65 @@ patient:
     - H 
     - L
     type: string
-    search_term: thrombocytosis
+    name_lookup:
+    - lookup: 1
+      search_term: abnormal platelet count
   PneumoniaDx:
     categories:
     - biolink:Disease
     - biolink:DiseaseOrPhenotypicFeature
-    enum: &id236
+    enum:
     - '0'
     - '1'
-    - '>1'
     type: string
-    search_term: pneumonia
+    name_lookup:
+    - limit: 1
+      search_term: pneumonia diagnosis
   PrasteroneRx:
     categories:
     - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
-    enum: &id237
+    - biolink:SmallMolecule
+    enum:
     - '0'
     - '1'
-    - '>1'
     type: string
-    search_term: prasterone
+    name_lookup:
+    - limit: 1
+      search_term: prasterone
   PrednisoneRx:
     categories:
     - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
-    enum: &id238
+    - biolink:SmallMolecule
+    enum:
     - '0'
     - '1'
-    - '>1'
     type: string
-    search_term: prednisone
+    name_lookup:
+    - limit: 1
+      search_term: prednisone
   PregnancyDx:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id241
+    enum:
     - '0'
     - '1'
-    - '>1'
     type: string
-    search_term: pregnancy
+    name_lookup:
+    - limit: 1
+      search_term: pregnancy diagnosis
   Procalcitonin:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id244
+    enum:
     type: integer
   Procalcitonin_flag_first:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id245
+    enum:
     - low
     - normal
     - high
@@ -2499,11 +3033,13 @@ patient:
     - H 
     - L
     type: string
-    search_term: procalcitonin increased, procalcitonin decreased
+    name_lookup:
+    - limit: 1
+      search_term: abnormal procalcitonin
   Procalcitonin_flag_last:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id246
+    enum:
     - low
     - normal
     - high
@@ -2511,29 +3047,35 @@ patient:
     - H 
     - L
     type: string
-    search_term: procalcitonin increased, procalcitonin decreased
+    name_lookup:
+    - limit: 1
+      search_term: abnormal procalcitonin
   ProgesteroneRx:
     categories:
     - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
-    enum: &id247
+    - biolink:SmallMolecule
+    enum:
     - '0'
     - '1'
-    - '>1'
     type: string
-    search_term: progesterone
+    name_lookup:
+    - limit: 1
+      search_term: progesterone
   PropranololRx:
     categories:
     - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
-    enum: &id248
+    - biolink:SmallMolecule
+    enum:
     - '0'
     - '1'
-    - '>1'
     type: string
-    search_term: propranolol
+    name_lookup:
+    - limit: 2
+      search_term: propranolol
   PulseOximetry:
     categories:
     - biolink:PhenotypicFeature
@@ -2547,7 +3089,9 @@ patient:
     - normal
     - high
     type: string
-    search_term: low oxygen saturation
+    name_lookup:
+    - limit: 1
+      search_term: abnormal oxygen saturation
   PulseOximetry_flag_last:
     categories:
     - biolink:PhenotypicFeature
@@ -2556,11 +3100,13 @@ patient:
     - normal
     - high
     type: string
-    search_term: low oxygen saturation
+    name_lookup:
+    - limit: 1
+      search_term: abnormal oxygen saturation
   QXAGE:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id251
+    enum:
     - 0-2
     - 3-17
     - 18-34
@@ -2568,22 +3114,26 @@ patient:
     - 51-69
     - 70-89
     type: string
-    search_term: age
+    name_lookup:
+    - limit: 1
+      search_term: age
   QXAGE2:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id252
+    enum:
     - <5
     - 5-17
     - 18-44
     - 45-64
     - 65-89
     type: string
-    search_term: age
+    name_lookup:
+    - limit: 1
+      search_term: age
   RACE:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id253
+    enum:
     - White
     - BAA
     - Multiple
@@ -2592,25 +3142,27 @@ patient:
     - AIAN
     - NHOPI
     type: string
-    search_term: race
+    name_lookup:
+    - limit: 4
+      search_term: racial group
   RESPONDER_STATUS:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id254
+    enum:
     - Neither
     - Hyper
     - Hypo
     - Super Hypo
     type: string
-  #ROADTYPE:
-  # categories:
-  # - biolink:EnvironmentalExposure
-  # enum: &id255
-  # - Urban Unrestricted Access
-  # - Rural Unrestricted Access
-  # - Urban Restricted Access
-  # - Rural Restricted Access
-  #  type: string
+  ROADTYPE:
+    categories:
+    - biolink:EnvironmentalExposure
+    enum:
+    - Rural Restricted Access
+    - Rural Unrestricted Access
+    - Urban Restricted Access
+    - Urban Unrestricted Access
+    type: string
   RValue_Onset:
     categories:
     - biolink:PhenotypicFeature
@@ -2619,7 +3171,7 @@ patient:
   Race_UNC:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id256
+    enum:
     - Native Hawaiian/Pacific Islander
     - Caucasian
     - African American
@@ -2628,37 +3180,48 @@ patient:
     - American/Alaskan Native
     - Other
     type: string
-    search_term: race
+    name_lookup:
+    - limit: 4
+      search_term: racial group
   ReactiveAirwayDx:
     categories:
     - biolink:Disease
     - biolink:DiseaseOrPhenotypicFeature
-    enum: &id259
+    enum:
     - '0'
     - '1'
-    - '>1'
     type: string
-    search_term: reactive airway disease
+    name_lookup:
+    - limit: 1
+      search_term: reactive airway disease
   RemdesivirRx:
     categories:
     - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
-    enum: &id260
+    - biolink:SmallMolecule
+    enum:
     - '0'
     - '1'
-    - '>1'
     type: string
-    search_term: remdesivir
+    name_lookup:
+    - limit: 1
+      search_term: remdesivir
   SupplementalOxygen:
     categories:
     - biolink:ClinicalIntervention
-    enum: &id262
+    enum:
     - '0'
     - '1'
-    - '>1'
     type: string
-    search_term: supplemental oxygen
+    name_lookup: 
+    - limit: 1
+      search_term: supplemental oxygen
+  RoadwayAADT:
+    categories:
+    - biolink:EnvironmentalExposure
+    enum: null
+    type: integer
   RoadwayDistanceExposure:
     categories:
     - biolink:ChemicalEntity
@@ -2666,8 +3229,10 @@ patient:
     - biolink:EnvironmentalExposure
     maximum: 6
     minimum: 1
+    name_lookup:
+    - limit: 1
+      search_term: roadway exposure
     type: integer
-    search_term: roadway exposure
   RoadwayDistanceExposure2:
     categories:
     - biolink:ChemicalEntity
@@ -2675,34 +3240,56 @@ patient:
     - biolink:EnvironmentalExposure
     maximum: 6
     minimum: 1
+    name_lookup:
+    - limit: 1
+      search_term: roadway exposure
     type: integer
-    search_term: roadway exposure
-  #RoadwayType:
-  #  categories:
-  # - biolink:EnvironmentalExposure
-  # type: string
+  RoadwayLanes:
+    categories:
+    - biolink:EnvironmentalExposure
+    enum: null
+    type: integer
+  RoadwaySpeedLimit:
+    categories:
+    - biolink:EnvironmentalExposure
+    enum: null
+    type: integer
+  RoadwayType:
+    categories:
+    - biolink:EnvironmentalExposure
+    enum:
+    - '1'
+    - '2'
+    - '3'
+    - '4'
+    - '5'
+    type: string
   S177_SMOKE_100_CIG_LIFETIME:
     categories:
     - biolink:PhenotypicFeature
     - biolink:ChemicalExposure
-    enum: &id263
+    enum:
     - 'True'
     - 'False'
+    name_lookup:
+    - limit: 2
+      search_term: smoker
     type: string
-    search_term: smoker
   SMOKE_CAT:
     categories:
     - biolink:PhenotypicFeature
     - biolink:ChemicalExposure
-    enum: &id264
+    enum:
     - Never
     - Ever
+    name_lookup:
+    - limit: 2
+      search_term: smoker
     type: string
-    search_term: smoker
   SNP1:
     categories:
     - biolink:SequenceVariant
-    enum: &id265
+    enum:
     - A
     - C
     - B
@@ -2710,7 +3297,7 @@ patient:
   SNP2:
     categories:
     - biolink:SequenceVariant
-    enum: &id266
+    enum:
     - Z
     - X
     - Y
@@ -2718,7 +3305,7 @@ patient:
   SNP3:
     categories:
     - biolink:SequenceVariant
-    enum: &id267
+    enum:
     - E
     - F
     - D
@@ -2726,204 +3313,237 @@ patient:
   SNP4:
     categories:
     - biolink:SequenceVariant
-    enum: &id268
+    enum:
     - N
     - L
     - M
     type: string
-  #SPEED:
-  #  categories:
-  # - biolink:EnvironmentalExposure
-  #  type: integer
+  SPEED:
+    categories:
+    - biolink:EnvironmentalExposure
+    enum:
+    type: integer
   SalmeterolRx:
     categories:
     - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
-    enum: &id269
+    - biolink:SmallMolecule
+    enum:
     - '0'
     - '1'
-    - '>1'
     type: string
-    search_term: salmeterol
+    name_lookup:
+    - limit: 2
+      search_term: salmeterol
   SertralineRx:
     categories:
     - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
-    enum: &id270
+    - biolink:SmallMolecule
+    enum:
     - '0'
     - '1'
-    - '>1'
     type: string
-    search_term: sertraline
+    name_lookup:
+    - limit: 1
+      search_term: sertraline
   SerumBicarbonate:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id271
+    enum:
     type: integer
   SerumBicarbonate_flag_first:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id272
+    enum:
     - low
     - normal
     - high
     type: string
-    search_term: elevated serum bicarbonate
+    name_lookup:
+    - limit: 1
+      search_term: abnormal serum bicarbonate
   SerumBicarbonate_flag_last:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id273
+    enum:
     - low
     - normal
     - high
     type: string
-    search_term: abnormal serum bicarbonate
+    name_lookup:
+    - limit: 1
+      search_term: abnormal serum bicarbonate
   SerumChloride:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id274
+    enum:
     type: integer
   SerumChloride_flag_first:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id275
+    enum:
     - low
     - normal
     - high
     type: string
-    search_term: abnormal serum chloride
+    name_lookup:
+    - limit: 1
+      search_term: abnormal serum chloride
   SerumChloride_flag_last:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id276
+    enum:
     - low
     - normal
     - high
     type: string
-    search_term: abnormal serum chloride
+    name_lookup:
+    - limit: 1
+      search_term: abnormal serum chloride
   SerumCreatinine:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id277
+    enum:
     type: integer
   SerumCreatinine_flag_first:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id278
+    enum:
     - low
     - normal
     - high
     type: string
-    search_term: abnormal serum creatinine
+    name_lookup:
+    - limit: 1
+      search_term: abnormal serum creatinine
   SerumCreatinine_flag_last:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id279
+    enum:
     - low
     - normal
     - high
     type: string
-    search_term: abnormal serum creatinine
+    name_lookup:
+    - limit: 1
+      search_term: abnormal serum creatinine
   SerumGlucose:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id280
+    enum:
     type: integer
   SerumGlucose_flag_first:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id281
+    enum:
     - low
     - normal
     - high
     type: string
-    search_term: abnormal serum glucose
+    name_lookup:
+    - limit: 1
+      search_term: abnormal serum glucose
   SerumGlucose_flag_last:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id282
+    enum:
     - low
     - normal
     - high
     type: string
-    search_term: abnormal serum glucose
+    name_lookup:
+    - limit: 1    
+      search_term: abnormal serum glucose
   SerumPotassium:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id283
+    enum:
     type: integer
   SerumPotassium_flag_first:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id284
+    enum:
     - low
     - normal
     - high
     type: string
-    search_term: abnormal serum potassium
+    name_lookup:
+    - limit: 1
+      search_term: abnormal serum potassium
   SerumPotassium_flag_last:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id285
+    enum:
     - low
     - normal
     - high
     type: string
-    search_term: abnormal serum potassium
+    name_lookup:
+    - limit: 1
+      search_term: abnormal serum potassium
   SerumSodium:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id286
+    enum:
     type: integer
   SerumSodium_flag_first:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id287
+    enum:
     - low
     - normal
     - high
     type: string
-    search_term: abnormal serum sodium
+    name_lookup:
+    - limit: 1
+      search_term: abnormal serum sodium
   SerumSodium_flag_last:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id288
+    enum:
     - low
     - normal
     - high
     type: string
-    search_term: abnormal serum sodium
+    name_lookup:
+    - limit: 1
+      search_term: abnormal serum sodium
   Sex:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id292
+    enum:
     - Male
     - Female
     - Unknown
     - Other
     type: string
-    search_term: biological sex
+    name_lookup:
+    - limit: 1
+      search_term: biological sex
   Sex2:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id293
+    enum:
     - Male
     - Female
     type: string
-    search_term: biological sex
+    name_lookup:
+    - limit: 1
+      search_term: biological sex
   #SpO2FiO2ratio:
   #  categories:
   #  - biolink:PhenotypicFeature
-  # enum: &id296
+  # enum:
   # - "0"
   # - "1"
   #  type: integer
   #SpO2FiO2ratio_flag_first:
   #  categories:
   # - biolink:PhenotypicFeature
-  # enum: &id297
+  # enum:
   # - low
   # - normal
   # - high
@@ -2931,7 +3551,7 @@ patient:
   #SpO2FiO2ratio_flag_last:
   # categories:
   # - biolink:PhenotypicFeature
-  # enum: &id298
+  # enum:
   # - low
   # - normal
   # - high
@@ -2939,49 +3559,62 @@ patient:
   SvO2:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id300
+    enum:
     type: integer
   SvO2_flag_first:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id301
+    enum:
     - low
     - normal
     - high
     type: string
-    search_term: venous oxygen saturation abnormal
+    name_lookup:
+    - limit: 1
+      search_term: venous oxygen saturation abnormal
   SvO2_flag_last:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id302
+    enum:
     - low
     - normal
     - high
     type: string
-    search_term: venous oxygen saturation abnormal
+    name_lookup:
+    - limit: 1
+      search_term: venous oxygen saturation abnormal
+  THROUGH_LANES:
+    categories:
+    - biolink:EnvironmentalExposure
+    enum: null
+    type: integer
   TLR4_AGE:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id303
+    enum:
     - 0-2
     - 3-17
     - 18-34
     - 35-50
     - 51-69
     - 70-89
+    name_lookup:
+    - limit: 1
+      search_term: age
     type: string
-    search_term: age
   TLR4_AGE2:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id304
+    enum:
     - <5
     - 5-17
     - 18-44
     - 45-64
     - 65-89
+    name_lookup:
+    - limit: 1
+      search_term: age
     type: string
-    search_term: age
   TLR4_DIST_1X_cut:
     categories:
     - biolink:ChemicalEntity
@@ -2989,8 +3622,10 @@ patient:
     - biolink:EnvironmentalExposure
     maximum: 5
     minimum: 1
+    name_lookup:
+    - limit: 1
+      search_term: roadway exposure
     type: integer
-    search_term: roadway exposure
   TLR4_DIST_1X_qcut:
     categories:
     - biolink:ChemicalEntity
@@ -2998,8 +3633,10 @@ patient:
     - biolink:EnvironmentalExposure
     maximum: 5
     minimum: 1
+    name_lookup:
+    - limit: 1
+      search_term: roadway exposures
     type: integer
-    search_term: roadway exposures
   TLR4_DIST_2X_cut:
     categories:
     - biolink:ChemicalEntity
@@ -3007,8 +3644,10 @@ patient:
     - biolink:EnvironmentalExposure
     maximum: 5
     minimum: 1
+    name_lookup:
+    - limit: 1
+      search_term: roadway exposure
     type: integer
-    search_term: roadway exposure
   TLR4_DIST_2X_qcut:
     categories:
     - biolink:ChemicalEntity
@@ -3016,8 +3655,10 @@ patient:
     - biolink:EnvironmentalExposure
     maximum: 5
     minimum: 1
+    name_lookup:
+    - limit: 1
+      search_term: roadway exposure
     type: integer
-    search_term: roadway exposure
   TLR4_DIST_3X_cut:
     categories:
     - biolink:ChemicalEntity
@@ -3025,8 +3666,10 @@ patient:
     - biolink:EnvironmentalExposure
     maximum: 5
     minimum: 1
+    name_lookup:
+    - limit: 1
+      search_term: roadway exposure
     type: integer
-    search_term: roadway exposure
   TLR4_DIST_3X_qcut:
     categories:
     - biolink:ChemicalEntity
@@ -3034,55 +3677,64 @@ patient:
     - biolink:EnvironmentalExposure
     maximum: 5
     minimum: 1
+    name_lookup:
+    - limit: 1
+      search_term: roadway exposure
     type: integer
-    search_term: roadway exposure
   TamoxifenRx:
     categories:
     - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
-    enum: &id305
+    - biolink:SmallMolecule
+    enum:
     - '0'
     - '1'
-    - '>1'
     type: string
-    search_term: tamoxifen
+    name_lookup:
+    - limit: 1
+      search_term: tamoxifen
   TesticularDysfunctionDx:
     categories:
     - biolink:Disease
     - biolink:DiseaseOrPhenotypicFeature
-    enum: &id307
+    enum:
     - '0'
     - '1'
-    - '>1'
     type: string
-    search_term: testicular dysfunction
+    name_lookup:
+    - limit: 2
+      search_term: testicular dysfunction
   TestosteroneRx:
     categories:
     - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
-    enum: &id308
+    - biolink:SmallMolecule
+    enum:
     - '0'
     - '1'
-    - '>1'
     type: string
-    search_term: testosterone
+    name_lookup:
+    - limit: 1
+      search_term: testosterone
   TheophyllineRx:
     categories:
     - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
-    enum: &id309
+    - biolink:SmallMolecule
+    enum:
     - '0'
     - '1'
-    - '>1'
     type: string
-    search_term: theophylline
+    name_lookup:
+    - limit: 2
+      search_term: theophylline
   TotalEDInpatientVisits:
     categories:
     - biolink:ClinicalIntervention
-    enum: &id001
+    enum:
     - '0'
     - '1'
     - '2'
@@ -3095,50 +3747,60 @@ patient:
     - '9'
     - '>9'
     type: string
-    search_term: emergency department visit, hospitalization
+    name_lookup:
+    - limit: 4
+      search_term: hospitalization
   TotalEDVisits:
     categories:
     - biolink:ClinicalIntervention
     enum:
     type: integer
-    search_term: emergency department visit, hospitalization
+    name_lookup:
+    - limit: 4
+      search_term: hospitalization
   TotalInpatientVisits:
     categories:
     - biolink:ClinicalIntervention
     enum: 
     type: integer
-    search_term: hospitalization
+    name_lookup:
+    - limit: 4
+      search_term: hospitalization
   TrazodoneRx:
     categories:
     - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
-    enum: &id312
+    - biolink:SmallMolecule
+    enum:
     - '0'
     - '1'
-    - '>1'
     type: string
-    search_term: trazodone
+    name_lookup:
+    - limit: 1
+      search_term: trazodone
   TriptorelinRx:
     categories:
     - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
-    enum: &id313
+    - biolink:SmallMolecule
+    enum:
     - '0'
     - '1'
-    - '>1'
     type: string
-    search_term: triptorelin
+    name_lookup:
+    - limit: 1
+      search_term: triptorelin
   Troponin:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id314
+    enum:
     type: integer
   Troponin_flag_first:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id315
+    enum:
     - low
     - normal
     - high
@@ -3146,11 +3808,13 @@ patient:
     - H 
     - L
     type: string
-    search_term: troponin abnormal
+    name_lookup:
+    - limit: 1
+      search_term: troponin abnormal
   Troponin_flag_last:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id316
+    enum:
     - low
     - normal
     - high
@@ -3158,46 +3822,51 @@ patient:
     - H 
     - L
     type: string
-    search_term: troponin abnormal
+    name_lookup:
+    - limit: 1
+      search_term: troponin abnormal
   Vasopressin_gtt_Rx:
     categories:
     - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
-    enum: &id319
+    - biolink:SmallMolecule
+    enum:
     - '0'
     - '1'
-    - '>1'
     type: string
-    search_term: vasopressin
+    name_lookup:
+    - limit: 1
+      search_term: vasopressin
   VenlafaxineRx:
     categories:
     - biolink:ChemicalEntity
     - biolink:ChemicalExposure
     - biolink:Drug
-    enum: &id320
+    - biolink:SmallMolecule
+    enum:
     - '0'
     - '1'
-    - '>1'
     type: string
-    search_term: venlafaxine
+    name_lookup:
+    - limit: 1
+      search_term: venlafaxine
   #Ventilation:
   #  categories:
   # - biolink:ClinicalIntervention
-  # enum: &id321
+  # enum:
   # - '0'
   # - '1'
-  # - '>1'
   # type: string
   WBCcount:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id323
+    enum:
     type: integer
   WBCcount_flag_first:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id324
+    enum:
     - low
     - normal
     - high
@@ -3205,11 +3874,13 @@ patient:
     - H 
     - L
     type: string
-    search_term: leukocytosis, leukopenia
+    name_lookup:
+    - limit: 1
+      search_term: abnormal white blood cell count
   WBCcount_flag_last:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id325
+    enum:
     - low
     - normal
     - high
@@ -3217,7 +3888,9 @@ patient:
     - H 
     - L
     type: string
-    search_term: leukocytosis, leukopenia
+    name_lookup:
+    - limit: 1
+      search_term: abnormal white blood cell count
   #FEV1_value_first:
   #  categories:
   # - biolink:PhenotypicFeature
@@ -3247,7 +3920,9 @@ patient:
     - normal
     - high
     type: string
-    search_term: abnormal hematocrit
+    name_lookup:
+    - limit: 1
+      search_term: abnormal hematocrit
   HCT_flag_last:
     categories:
     - biolink:PhenotypicFeature
@@ -3256,7 +3931,9 @@ patient:
     - normal
     - high
     type: string
-    search_term: abnormal hematocrit
+    name_lookup:
+    - limit: 1
+      search_term: abnormal hematocrit
   #HCT_value_first:
   #  categories:
   # - biolink:PhenotypicFeature
@@ -3278,7 +3955,9 @@ patient:
     - normal
     - high
     type: string
-    search_term: thrombocytosis
+    name_lookup:
+    - limit: 1
+      search_term: thrombocytosis
   PLT_flag_last:
     categories:
     - biolink:PhenotypicFeature
@@ -3287,7 +3966,9 @@ patient:
     - normal
     - high
     type: string
-    search_term: thrombocytosis
+    name_lookup:
+    - limit: 1
+      search_term: thrombocytosis
   #PLT_value_first:
   #  categories:
   # - biolink:PhenotypicFeature
@@ -3326,21 +4007,23 @@ patient:
     maximum: 10
     minimum: 0
     type: integer
-    search_term: WHO severity score, COVID severity score
-  pCO2Arterial:
-    categories:
-    - biolink:PhenotypicFeature
-    enum: &id978
-    type: integer
+    name_lookup:
+    - limit: 1
+      search_term: covid disease severity score
+  #pCO2Arterial:
+  #  categories:
+  #  - biolink:PhenotypicFeature
+  #  enum:
+  #  type: integer
   pCO2ArterialVenous:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id979
+    enum:
     type: integer
   pCO2ArterialVenous_flag_first:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id980
+    enum:
     - low
     - normal
     - high
@@ -3348,11 +4031,13 @@ patient:
     - H 
     - L
     type: string
-    search_term: partial pressure of carbon dioxide abnormal
+    name_lookup:
+    - limit: 1
+      search_term: partial pressure of carbon dioxide abnormal
   pCO2ArterialVenous_flag_last:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id981
+    enum:
     - low
     - normal
     - high
@@ -3360,40 +4045,42 @@ patient:
     - H 
     - L
     type: string
-    search_term: partial pressure of carbon dioxide abnormal
-  pCO2Arterial_flag_first:
-    categories:
-    - biolink:PhenotypicFeature
-    enum: &id982
-    - low
-    - normal
-    - high
-    - A
-    - H 
-    - L
-    type: string
-    search_term: partial pressure of carbon dioxide abnormal
-  pCO2Arterial_flag_last:
-    categories:
-    - biolink:PhenotypicFeature
-    enum: &id983
-    - low
-    - normal
-    - high
-    - A
-    - H 
-    - L
-    type: string
-    search_term: partial pressure of carbon dioxide abnormal
+    name_lookup:
+    - limit: 1
+      search_term: partial pressure of carbon dioxide abnormal
+  #pCO2Arterial_flag_first:
+  #  categories:
+  #  - biolink:PhenotypicFeature
+  # enum:
+  #  - low
+  #  - normal
+  #  - high
+  #  - A
+  #  - H 
+  #  - L
+  #  type: string
+  #  search_term: partial pressure of carbon dioxide abnormal
+  #pCO2Arterial_flag_last:
+  #  categories:
+  #  - biolink:PhenotypicFeature
+  #  enum:
+  #  - low
+  #  - normal
+  #  - high
+  #  - A
+  #  - H 
+  #  - L
+  #  type: string
+  #  search_term: partial pressure of carbon dioxide abnormal
   pH:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id984
+    enum:
     type: integer
   pH_flag_first:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id985
+    enum:
     - low
     - normal
     - high
@@ -3401,11 +4088,13 @@ patient:
     - H 
     - L
     type: string
-    search_term: abnormal pH
+    name_lookup:
+    - limit: 1
+      search_term: abnormal pH
   pH_flag_last:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id986
+    enum:
     - low
     - normal
     - high
@@ -3413,41 +4102,47 @@ patient:
     - H 
     - L
     type: string
-    search_term: abnormal pH
+    name_lookup:
+    - limit: 1  
+      search_term: abnormal pH
   pO2Arterial:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id987
+    enum:
     type: integer
   pO2Arterial_flag_first:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id988
+    enum:
     - low
     - normal
     - high
     type: string
-    search_term: partial oxygen pressure abnormal
+    name_lookup:
+    - limit: 1
+      search_term: partial oxygen pressure abnormal
   pO2Arterial_flag_last:
     categories:
     - biolink:PhenotypicFeature
-    enum: &id989
+    enum:
     - low
     - normal
     - high
     type: string
-    search_term: partial oxygen pressure abnormal
+    name_lookup:
+    - limit: 1
+      search_term: partial oxygen pressure abnormal
   #pO2FiO2ratio:
   #  categories:
   # - biolink:PhenotypicFeature
-  # enum: &id990
+  # enum:
   # - "0"
   # - "1"
   #  type: integer
   #pO2FiO2ratio_flag_first:
   #  categories:
   #  - biolink:PhenotypicFeature
-  #  enum: &id991
+  #  enum:
   #  - low
   #  - normal
   #  - high
@@ -3455,7 +4150,7 @@ patient:
   #pO2FiO2ratio_flag_last:
   #  categories:
   #  - biolink:PhenotypicFeature
-  #  enum: &id992
+  #  enum:
   #  - low
   #  - normal
   #  - high
@@ -3463,7 +4158,7 @@ patient:
   ur:
     categories:
     - biolink:EnvironmentalExposure
-    enum: &id1849
+    enum:
     - R
     - U
     type: string

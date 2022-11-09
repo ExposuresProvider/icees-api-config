@@ -298,7 +298,6 @@ patient:
     enum:
     - '0'
     - '1'
-    - '>1'
     name_lookup:
     - limit: 2
       search_term: drug induced liver injury
@@ -312,7 +311,6 @@ patient:
     enum:
     - '0'
     - '1'
-    - '>1'
     name_lookup:
     - limit: 1
       search_term: augmentin
@@ -635,7 +633,6 @@ patient:
     enum:
     - '0'
     - '1'
-    - '>1'
     name_lookup:
     - limit: 4
       search_term: fever

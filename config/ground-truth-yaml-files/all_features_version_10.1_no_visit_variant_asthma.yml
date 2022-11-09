@@ -46,7 +46,6 @@ patient:
     enum:
     - '0'
     - '1'
-    - '>1'
     name_lookup:
     - limit: 2
       search_term: albuterol
@@ -58,7 +57,6 @@ patient:
     enum:
     - '0'
     - '1'
-    - '>1'
     name_lookup:
     - limit: 7
       search_term: alcohol dependence diagnosis
@@ -70,7 +68,6 @@ patient:
     enum:
     - '0'
     - '1'
-    - '>1'
     name_lookup:
     - limit: 14
       search_term: alopecia diagnosis
@@ -84,7 +81,6 @@ patient:
     enum:
     - '0'
     - '1'
-    - '>1'
     name_lookup:
     - limit: 1
       search_term: androstenedione
@@ -96,7 +92,6 @@ patient:
     enum:
     - '0'
     - '1'
-    - '>1'
     name_lookup:
     - limit: 35
       search_term: anxiety diagnosis
@@ -110,7 +105,6 @@ patient:
     enum:
     - '0'
     - '1'
-    - '>1'
     name_lookup:
     - limit: 1
       search_term: arformoterol
@@ -122,7 +116,6 @@ patient:
     enum:
     - '0'
     - '1'
-    - '>1'
     name_lookup:
     - limit: 75
       search_term: asthma diagnosis
@@ -134,7 +127,6 @@ patient:
     enum:
     - '0'
     - '1'
-    - '>1'
     name_lookup:
     - limit: 5
       search_term: autism diagnosis
@@ -470,7 +462,6 @@ patient:
     enum:
     - '0'
     - '1'
-    - '>1'
     name_lookup:
     - limit: 1
       search_term: beclomethasone
@@ -484,7 +475,6 @@ patient:
     enum:
     - '0'
     - '1'
-    - '>1'
     name_lookup:
     - limit: 1
       search_term: budesonide
@@ -534,7 +524,6 @@ patient:
     enum:
     - '0'
     - '1'
-    - '>1'
     name_lookup:
     - limit: 1
       search_term: cervical cancer diagnosis
@@ -548,7 +537,6 @@ patient:
     enum:
     - '0'
     - '1'
-    - '>1'
     name_lookup:
     - limit: 2
       search_term: cetirizine
@@ -562,7 +550,6 @@ patient:
     enum:
     - '0'
     - '1'
-    - '>1'
     name_lookup:
     - limit: 1
       search_term: ciclesonide
@@ -576,7 +563,6 @@ patient:
     enum:
     - '0'
     - '1'
-    - '>1'
     name_lookup:
     - limit: 3
       search_term: citalopram
@@ -588,7 +574,6 @@ patient:
     enum:
     - '0'
     - '1'
-    - '>1'
     name_lookup:
     - limit: 75
       search_term: cough
@@ -600,7 +585,6 @@ patient:
     enum:
     - '0'
     - '1'
-    - '>1'
     name_lookup:
     - limit: 1
       search_term: croup
@@ -723,7 +707,6 @@ patient:
     enum:
     - '0'
     - '1'
-    - '>1'
     name_lookup:
     - limit: 75
       search_term: depression diagnosis
@@ -735,7 +718,6 @@ patient:
     enum:
     - '0'
     - '1'
-    - '>1'
     name_lookup:
     - limit: 75
       search_term: diabetes diagnosis
@@ -749,7 +731,6 @@ patient:
     enum:
     - '0'
     - '1'
-    - '>1'
     name_lookup:
     - limit: 1
       search_term: diphenhydramine
@@ -761,7 +742,6 @@ patient:
     enum:
     - '0'
     - '1'
-    - '>1'
     name_lookup:
     - limit: 17
       search_term: drug dependence diagnosis
@@ -775,7 +755,6 @@ patient:
     enum:
     - '0'
     - '1'
-    - '>1'
     name_lookup:
     - limit: 1
       search_term: duloxetine
@@ -913,7 +892,6 @@ patient:
     enum:
     - '0'
     - '1'
-    - '>1'
     name_lookup:
     - limit: 25
       search_term: endometriosis diagnosis
@@ -927,7 +905,6 @@ patient:
     enum:
     - '0'
     - '1'
-    - '>1'
     name_lookup:
     - limit: 1
       search_term: escitalopram
@@ -1022,7 +999,6 @@ patient:
     enum:
     - '0'
     - '1'
-    - '>1'
     name_lookup:
     - limit: 1
       search_term: estradiol
@@ -1036,7 +1012,6 @@ patient:
     enum:
     - '0'
     - '1'
-    - '>1'
     name_lookup:
     - limit: 2
       search_term: estrogen
@@ -1050,7 +1025,6 @@ patient:
     enum:
     - '0'
     - '1'
-    - '>1'
     name_lookup:
     - limit: 1
       search_term: estropipate
@@ -1115,7 +1089,6 @@ patient:
     enum:
     - '0'
     - '1'
-    - '>1'
     name_lookup:
     - limit: 2
       search_term: fexofenadine
@@ -1127,7 +1100,6 @@ patient:
     enum:
     - '0'
     - '1'
-    - '>1'
     name_lookup:
     - limit: 1
       search_term: fibromyalgia diagnosis
@@ -1141,7 +1113,6 @@ patient:
     enum:
     - '0'
     - '1'
-    - '>1'
     name_lookup:
     - limit: 2
       search_term: flunisolide
@@ -1155,7 +1126,6 @@ patient:
     enum:
     - '0'
     - '1'
-    - '>1'
     name_lookup:
     - limit: 1
       search_term: fluoxetine
@@ -1169,7 +1139,6 @@ patient:
     enum:
     - '0'
     - '1'
-    - '>1'
     name_lookup:
     - limit: 1
       search_term: fluticasone
@@ -1183,7 +1152,6 @@ patient:
     enum:
     - '0'
     - '1'
-    - '>1'
     name_lookup:
     - limit: 2
       search_term: formoterol
@@ -1207,7 +1175,6 @@ patient:
     enum:
     - '0'
     - '1'
-    - '>1'
     name_lookup:
     - limit: 1
       search_term: goserelin
@@ -1221,7 +1188,6 @@ patient:
     enum:
     - '0'
     - '1'
-    - '>1'
     name_lookup:
     - limit: 1
       search_term: histrelin
@@ -1235,7 +1201,6 @@ patient:
     enum:
     - '0'
     - '1'
-    - '>1'
     name_lookup:
     - limit: 2
       search_term: hydroxyzine
@@ -1246,7 +1211,6 @@ patient:
     enum:
     - '0'
     - '1'
-    - '>1'
     type: string
   IN_FINAL_SAMPLE:
     categories:
@@ -1271,7 +1235,6 @@ patient:
     enum:
     - '0'
     - '1'
-    - '>1'
     name_lookup:
     - limit: 1
       search_term: indacaterol
@@ -1285,7 +1248,6 @@ patient:
     enum:
     - '0'
     - '1'
-    - '>1'
     name_lookup:
     - limit: 2
       search_term: ipratropium
@@ -1297,7 +1259,6 @@ patient:
     enum:
     - '0'
     - '1'
-    - '>1'
     name_lookup:
     - limit: 1
       search_term: kidney cancer diagnosis
@@ -1322,7 +1283,6 @@ patient:
     enum:
     - '0'
     - '1'
-    - '>1'
     name_lookup:
     - limit: 1
       search_term: leuprolide
@@ -1516,7 +1476,6 @@ patient:
     enum:
     - '0'
     - '1'
-    - '>1'
     name_lookup:
     - limit: 1
       search_term: medroxyprogesterone
@@ -1527,7 +1486,6 @@ patient:
     enum:
     - '0'
     - '1'
-    - '>1'
     name_lookup:
     - limit: 3
       search_term: menopause
@@ -1541,7 +1499,6 @@ patient:
     enum:
     - '0'
     - '1'
-    - '>1'
     name_lookup:
     - limit: 1
       search_term: mepolizumab
@@ -1555,7 +1512,6 @@ patient:
     enum:
     - '0'
     - '1'
-    - '>1'
     name_lookup:
     - limit: 2
       search_term: metaproterenol
@@ -1569,7 +1525,6 @@ patient:
     enum:
     - '0'
     - '1'
-    - '>1'
     name_lookup:
     - limit: 1
       search_term: metformin
@@ -1583,7 +1538,6 @@ patient:
     enum:
     - '0'
     - '1'
-    - '>1'
     name_lookup:
     - limit: 1
       search_term: mometasone
@@ -1597,7 +1551,6 @@ patient:
     enum:
     - '0'
     - '1'
-    - '>1'
     name_lookup:
     - limit: 1
       search_term: nandrolone
@@ -1649,7 +1602,6 @@ patient:
     enum:
     - '0'
     - '1'
-    - '>1'
     name_lookup:
     - limit: 6
       search_term: obesity diagnosis
@@ -1663,7 +1615,6 @@ patient:
     enum:
     - '0'
     - '1'
-    - '>1'
     name_lookup:
     - limit: 1
       search_term: omalizumab
@@ -1675,7 +1626,6 @@ patient:
     enum:
     - '0'
     - '1'
-    - '>1'
     name_lookup:
     - limit: 1
       search_term: ovarian cancer diagnosis
@@ -1687,7 +1637,6 @@ patient:
     enum:
     - '0'
     - '1'
-    - '>1'
     name_lookup:
     - limit: 3
       search_term: ovarian dysfunction
@@ -1723,7 +1672,6 @@ patient:
     enum:
     - '0'
     - '1'
-    - '>1'
     name_lookup:
     - limit: 1
       search_term: paroxetine
@@ -1735,7 +1683,6 @@ patient:
     enum:
     - '0'
     - '1'
-    - '>1'
     name_lookup:
     - limit: 100
       search_term: pneumonia diagnosis
@@ -1749,7 +1696,6 @@ patient:
     enum:
     - '0'
     - '1'
-    - '>1'
     name_lookup:
     - limit: 1
       search_term: prasterone
@@ -1763,7 +1709,6 @@ patient:
     enum:
     - '0'
     - '1'
-    - '>1'
     name_lookup:
     - limit: 1
       search_term: prednisone
@@ -1774,7 +1719,6 @@ patient:
     enum:
     - '0'
     - '1'
-    - '>1'
     name_lookup:
     - limit: 1
       search_term: pregnancy diagnosis
@@ -1788,7 +1732,6 @@ patient:
     enum:
     - '0'
     - '1'
-    - '>1'
     name_lookup:
     - limit: 1
       search_term: progesterone
@@ -1802,7 +1745,6 @@ patient:
     enum:
     - '0'
     - '1'
-    - '>1'
     name_lookup:
     - limit: 2
       search_term: propranolol
@@ -1814,7 +1756,6 @@ patient:
     enum:
     - '0'
     - '1'
-    - '>1'
     name_lookup:
     - limit: 1
       search_term: prostate cancer diagnosis
@@ -1901,7 +1842,6 @@ patient:
     enum:
     - '0'
     - '1'
-    - '>1'
     name_lookup:
     - limit: 1
       search_term: reactive airway disease
@@ -2021,7 +1961,6 @@ patient:
     enum:
     - '0'
     - '1'
-    - '>1'
     name_lookup:
     - limit: 2
       search_term: salmeterol
@@ -2035,7 +1974,6 @@ patient:
     enum:
     - '0'
     - '1'
-    - '>1'
     name_lookup:
     - limit: 1
       search_term: sertraline
@@ -2169,7 +2107,6 @@ patient:
     enum:
     - '0'
     - '1'
-    - '>1'
     name_lookup:
     - limit: 1
       search_term: tamoxifen
@@ -2181,7 +2118,6 @@ patient:
     enum:
     - '0'
     - '1'
-    - '>1'
     name_lookup:
     - limit: 1
       search_term: testicular cancer diagnosis
@@ -2193,7 +2129,6 @@ patient:
     enum:
     - '0'
     - '1'
-    - '>1'
     name_lookup:
     - limit: 2
       search_term: testicular dysfunction
@@ -2207,7 +2142,6 @@ patient:
     enum:
     - '0'
     - '1'
-    - '>1'
     name_lookup:
     - limit: 1
       search_term: testosterone
@@ -2221,7 +2155,6 @@ patient:
     enum:
     - '0'
     - '1'
-    - '>1'
     name_lookup:
     - limit: 2
       search_term: theophylline
@@ -2270,7 +2203,6 @@ patient:
     enum:
     - '0'
     - '1'
-    - '>1'
     name_lookup:
     - limit: 1
       search_term: trazodone
@@ -2284,7 +2216,6 @@ patient:
     enum:
     - '0'
     - '1'
-    - '>1'
     name_lookup:
     - limit: 1
       search_term: triptorelin
@@ -2296,7 +2227,6 @@ patient:
     enum:
     - '0'
     - '1'
-    - '>1'
     name_lookup:
     - limit: 1
       search_term: uterine cancer diagnosis
@@ -2310,7 +2240,6 @@ patient:
     enum:
     - '0'
     - '1'
-    - '>1'
     name_lookup:
     - limit: 1
       search_term: venlafaxine
