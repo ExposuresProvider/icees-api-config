@@ -2,7 +2,7 @@ patient:
   AADT:
     categories:
     - biolink:EnvironmentalExposure
-    enum: null
+    enum:
     type: integer
   Active_In_Year:
     categories:
@@ -133,8 +133,8 @@ patient:
     type: string
   Avg24hAcetaldehydeExposure_2:
     categories:
-    - biolink:SmallMolecule
-    - biolink:ChemicalExposure
+    - biolink:ChemicalEntity
+    - biolink:EnvironmentalExposure
     maximum: 5
     minimum: 1
     name_lookup:
@@ -143,8 +143,8 @@ patient:
     type: integer
   AvgDailyAcetaldehydeExposure_2:
     categories:
-    - biolink:SmallMolecule
-    - biolink:ChemicalExposure
+    - biolink:ChemicalEntity
+    - biolink:EnvironmentalExposure
     maximum: 5
     minimum: 1
     name_lookup:
@@ -153,8 +153,8 @@ patient:
     type: integer
   AvgDailyAcetaldehydeExposure_2_qcut:
     categories:
-    - biolink:SmallMolecule
-    - biolink:ChemicalExposure
+    - biolink:ChemicalEntity
+    - biolink:EnvironmentalExposure
     maximum: 5
     minimum: 1
     name_lookup:
@@ -163,8 +163,8 @@ patient:
     type: integer
   AvgDailyBenzeneExposure_2:
     categories:
-    - biolink:SmallMolecule
-    - biolink:ChemicalExposure
+    - biolink:ChemicalEntity
+    - biolink:EnvironmentalExposure
     maximum: 5
     minimum: 1
     name_lookup:
@@ -173,8 +173,8 @@ patient:
     type: integer
   AvgDailyBenzeneExposure_2_qcut:
     categories:
-    - biolink:SmallMolecule
-    - biolink:ChemicalExposure
+    - biolink:ChemicalEntity
+    - biolink:EnvironmentalExposure
     maximum: 5
     minimum: 1
     name_lookup:
@@ -183,8 +183,8 @@ patient:
     type: integer
   AvgDailyCOExposure_2:
     categories:
-    - biolink:SmallMolecule
-    - biolink:ChemicalExposure
+    - biolink:ChemicalEntity
+    - biolink:EnvironmentalExposure
     maximum: 5
     minimum: 1
     name_lookup:
@@ -193,8 +193,8 @@ patient:
     type: integer
   AvgDailyCOExposure_2_qcut:
     categories:
-    - biolink:SmallMolecule
-    - biolink:ChemicalExposure
+    - biolink:ChemicalEntity
+    - biolink:EnvironmentalExposure
     maximum: 5
     minimum: 1
     name_lookup:
@@ -203,8 +203,8 @@ patient:
     type: integer
   AvgDailyFormaldehydeExposure_2:
     categories:
-    - biolink:SmallMolecule
-    - biolink:ChemicalExposure
+    - biolink:ChemicalEntity
+    - biolink:EnvironmentalExposure
     maximum: 5
     minimum: 1
     name_lookup:
@@ -213,8 +213,8 @@ patient:
     type: integer
   AvgDailyFormaldehydeExposure_2_qcut:
     categories:
-    - biolink:SmallMolecule
-    - biolink:ChemicalExposure
+    - biolink:ChemicalEntity
+    - biolink:EnvironmentalExposure
     maximum: 5
     minimum: 1
     name_lookup:
@@ -223,8 +223,8 @@ patient:
     type: integer
   AvgDailyNO2Exposure_2:
     categories:
-    - biolink:SmallMolecule
-    - biolink:ChemicalExposure
+    - biolink:ChemicalEntity
+    - biolink:EnvironmentalExposure
     maximum: 5
     minimum: 1
     name_lookup:
@@ -233,8 +233,8 @@ patient:
     type: integer
   AvgDailyNO2Exposure_2_qcut:
     categories:
-    - biolink:SmallMolecule
-    - biolink:ChemicalExposure
+    - biolink:ChemicalEntity
+    - biolink:EnvironmentalExposure
     maximum: 5
     minimum: 1
     name_lookup:
@@ -243,8 +243,8 @@ patient:
     type: integer
   AvgDailyNOExposure_2:
     categories:
-    - biolink:SmallMolecule
-    - biolink:ChemicalExposure
+    - biolink:ChemicalEntity
+    - biolink:EnvironmentalExposure
     maximum: 5
     minimum: 1
     name_lookup:
@@ -253,8 +253,8 @@ patient:
     type: integer
   AvgDailyNOExposure_2_qcut:
     categories:
-    - biolink:SmallMolecule
-    - biolink:ChemicalExposure
+    - biolink:ChemicalEntity
+    - biolink:EnvironmentalExposure
     maximum: 5
     minimum: 1
     name_lookup:
@@ -263,8 +263,8 @@ patient:
     type: integer
   AvgDailyNOxExposure_2:
     categories:
-    - biolink:SmallMolecule
-    - biolink:ChemicalExposure
+    - biolink:ChemicalEntity
+    - biolink:EnvironmentalExposure
     maximum: 5
     minimum: 1
     name_lookup:
@@ -273,8 +273,8 @@ patient:
     type: integer
   AvgDailyNOxExposure_2_qcut:
     categories:
-    - biolink:SmallMolecule
-    - biolink:ChemicalExposure
+    - biolink:ChemicalEntity
+    - biolink:EnvironmentalExposure
     maximum: 5
     minimum: 1
     name_lookup:
@@ -283,8 +283,8 @@ patient:
     type: integer
   AvgDailyOzoneExposure:
     categories:
-    - biolink:SmallMolecule
-    - biolink:ChemicalExposure
+    - biolink:ChemicalEntity
+    - biolink:EnvironmentalExposure
     maximum: 5
     minimum: 1
     name_lookup:
@@ -293,8 +293,8 @@ patient:
     type: integer
   AvgDailyOzoneExposure_StudyAvg:
     categories:
-    - biolink:SmallMolecule
-    - biolink:ChemicalExposure
+    - biolink:ChemicalEntity
+    - biolink:EnvironmentalExposure
     maximum: 5
     minimum: 1
     name_lookup:
@@ -303,8 +303,8 @@ patient:
     type: integer
   AvgDailyOzoneExposure_StudyAvg_qcut:
     categories:
-    - biolink:SmallMolecule
-    - biolink:ChemicalExposure
+    - biolink:ChemicalEntity
+    - biolink:EnvironmentalExposure
     maximum: 5
     minimum: 1
     name_lookup:
@@ -313,8 +313,8 @@ patient:
     type: integer
   AvgDailyOzoneExposure_StudyMax:
     categories:
-    - biolink:SmallMolecule
-    - biolink:ChemicalExposure
+    - biolink:ChemicalEntity
+    - biolink:EnvironmentalExposure
     maximum: 5
     minimum: 1
     name_lookup:
@@ -323,8 +323,8 @@ patient:
     type: integer
   AvgDailyOzoneExposure_StudyMax_qcut:
     categories:
-    - biolink:SmallMolecule
-    - biolink:ChemicalExposure
+    - biolink:ChemicalEntity
+    - biolink:EnvironmentalExposure
     maximum: 5
     minimum: 1
     name_lookup:
@@ -333,8 +333,8 @@ patient:
     type: integer
   AvgDailyOzoneExposure_qcut:
     categories:
-    - biolink:SmallMolecule
-    - biolink:ChemicalExposure
+    - biolink:ChemicalEntity
+    - biolink:EnvironmentalExposure
     maximum: 5
     minimum: 1
     name_lookup:
@@ -343,8 +343,8 @@ patient:
     type: integer
   AvgDailyPM2.5Exposure:
     categories:
-    - biolink:SmallMolecule
-    - biolink:ChemicalExposure
+    - biolink:ChemicalEntity
+    - biolink:EnvironmentalExposure
     maximum: 5
     minimum: 1
     name_lookup:
@@ -353,8 +353,8 @@ patient:
     type: integer
   AvgDailyPM2.5Exposure_2:
     categories:
-    - biolink:SmallMolecule
-    - biolink:ChemicalExposure
+    - biolink:ChemicalEntity
+    - biolink:EnvironmentalExposure
     maximum: 5
     minimum: 1
     name_lookup:
@@ -363,8 +363,8 @@ patient:
     type: integer
   AvgDailyPM2.5Exposure_2_qcut:
     categories:
-    - biolink:SmallMolecule
-    - biolink:ChemicalExposure
+    - biolink:ChemicalEntity
+    - biolink:EnvironmentalExposure
     maximum: 5
     minimum: 1
     name_lookup:
@@ -373,8 +373,8 @@ patient:
     type: integer
   AvgDailyPM2.5Exposure_StudyAvg:
     categories:
-    - biolink:SmallMolecule
-    - biolink:ChemicalExposure
+    - biolink:ChemicalEntity
+    - biolink:EnvironmentalExposure
     maximum: 5
     minimum: 1
     name_lookup:
@@ -383,8 +383,8 @@ patient:
     type: integer
   AvgDailyPM2.5Exposure_StudyAvg_qcut:
     categories:
-    - biolink:SmallMolecule
-    - biolink:ChemicalExposure
+    - biolink:ChemicalEntity
+    - biolink:EnvironmentalExposure
     maximum: 5
     minimum: 1
     name_lookup:
@@ -393,8 +393,8 @@ patient:
     type: integer
   AvgDailyPM2.5Exposure_StudyMax:
     categories:
-    - biolink:SmallMolecule
-    - biolink:ChemicalExposure
+    - biolink:ChemicalEntity
+    - biolink:EnvironmentalExposure
     maximum: 5
     minimum: 1
     name_lookup:
@@ -403,8 +403,8 @@ patient:
     type: integer
   AvgDailyPM2.5Exposure_StudyMax_qcut:
     categories:
-    - biolink:SmallMolecule
-    - biolink:ChemicalExposure
+    - biolink:ChemicalEntity
+    - biolink:EnvironmentalExposure
     maximum: 5
     minimum: 1
     name_lookup:
@@ -413,8 +413,8 @@ patient:
     type: integer
   AvgDailyPM2.5Exposure_qcut:
     categories:
-    - biolink:SmallMolecule
-    - biolink:ChemicalExposure
+    - biolink:ChemicalEntity
+    - biolink:EnvironmentalExposure
     maximum: 5
     minimum: 1
     name_lookup:
@@ -423,8 +423,8 @@ patient:
     type: integer
   AvgDailySO2Exposure_2:
     categories:
-    - biolink:SmallMolecule
-    - biolink:ChemicalExposure
+    - biolink:ChemicalEntity
+    - biolink:EnvironmentalExposure
     maximum: 5
     minimum: 1
     name_lookup:
@@ -433,8 +433,8 @@ patient:
     type: integer
   AvgDailySO2Exposure_2_qcut:
     categories:
-    - biolink:SmallMolecule
-    - biolink:ChemicalExposure
+    - biolink:ChemicalEntity
+    - biolink:EnvironmentalExposure
     maximum: 5
     minimum: 1
     name_lookup:
@@ -481,7 +481,6 @@ patient:
     type: string
   CAFO_Exposure:
     categories:
-    - biolink:ChemicalEntity
     - biolink:ComplexMolecularMixture
     - biolink:EnvironmentalExposure
     maximum: 6
@@ -680,7 +679,6 @@ patient:
     type: string
   DISTANCE:
     categories:
-    - biolink:ChemicalEntity
     - biolink:ComplexChemicalMixture
     - biolink:EnvironmentalExposure
     maximum: 6
@@ -691,7 +689,6 @@ patient:
     type: integer
   DISTANCE2:
     categories:
-    - biolink:ChemicalEntity
     - biolink:ComplexChemicalMixture
     - biolink:EnvironmentalExposure
     maximum: 6
@@ -1265,7 +1262,6 @@ patient:
     type: string
   Landfill_Exposure:
     categories:
-    - biolink:ChemicalEntity
     - biolink:ComplexMolecularMixture
     - biolink:EnvironmentalExposure
     maximum: 6
@@ -1307,7 +1303,6 @@ patient:
     type: integer
   MajorRoadwayHighwayExposure:
     categories:
-    - biolink:ChemicalEntity
     - biolink:ComplexMolecularMixture
     - biolink:EnvironmentalExposure
     maximum: 6
@@ -1318,7 +1313,6 @@ patient:
     type: integer
   MajorRoadwayHighwayExposure2:
     categories:
-    - biolink:ChemicalEntity
     - biolink:ComplexMolecularMixture
     - biolink:EnvironmentalExposure
     maximum: 6
@@ -1329,8 +1323,8 @@ patient:
     type: integer
   MaxDailyOzoneExposure:
     categories:
-    - biolink:SmallMolecule
-    - biolink:ChemicalExposure
+    - biolink:ChemicalEntity
+    - biolink:EnvironmentalExposure
     maximum: 5
     minimum: 1
     name_lookup:
@@ -1339,8 +1333,8 @@ patient:
     type: integer
   MaxDailyOzoneExposure_2:
     categories:
-    - biolink:SmallMolecule
-    - biolink:ChemicalExposure
+    - biolink:ChemicalEntity
+    - biolink:EnvironmentalExposure
     maximum: 5
     minimum: 1
     name_lookup:
@@ -1349,8 +1343,8 @@ patient:
     type: integer
   MaxDailyOzoneExposure_2_qcut:
     categories:
-    - biolink:SmallMolecule
-    - biolink:ChemicalExposure
+    - biolink:ChemicalEntity
+    - biolink:EnvironmentalExposure
     maximum: 5
     minimum: 1
     name_lookup:
@@ -1359,8 +1353,8 @@ patient:
     type: integer
   MaxDailyOzoneExposure_StudyAvg:
     categories:
-    - biolink:SmallMolecule
-    - biolink:ChemicalExposure
+    - biolink:ChemicalEntity
+    - biolink:EnvironmentalExposure
     maximum: 5
     minimum: 1
     name_lookup:
@@ -1369,8 +1363,8 @@ patient:
     type: integer
   MaxDailyOzoneExposure_StudyAvg_qcut:
     categories:
-    - biolink:SmallMolecule
-    - biolink:ChemicalExposure
+    - biolink:ChemicalEntity
+    - biolink:EnvironmentalExposure
     maximum: 5
     minimum: 1
     name_lookup:
@@ -1379,8 +1373,8 @@ patient:
     type: integer
   MaxDailyOzoneExposure_StudyMax:
     categories:
-    - biolink:SmallMolecule
-    - biolink:ChemicalExposure
+    - biolink:ChemicalEntity
+    - biolink:EnvironmentalExposure
     maximum: 5
     minimum: 1
     name_lookup:
@@ -1389,8 +1383,8 @@ patient:
     type: integer
   MaxDailyOzoneExposure_StudyMax_qcut:
     categories:
-    - biolink:SmallMolecule
-    - biolink:ChemicalExposure
+    - biolink:ChemicalEntity
+    - biolink:EnvironmentalExposure
     maximum: 5
     minimum: 1
     name_lookup:
@@ -1399,8 +1393,8 @@ patient:
     type: integer
   MaxDailyOzoneExposure_qcut:
     categories:
-    - biolink:SmallMolecule
-    - biolink:ChemicalExposure
+    - biolink:ChemicalEntity
+    - biolink:EnvironmentalExposure
     maximum: 5
     minimum: 1
     name_lookup:
@@ -1409,8 +1403,8 @@ patient:
     type: integer
   MaxDailyPM2.5Exposure:
     categories:
-    - biolink:SmallMolecule
-    - biolink:ChemicalExposure
+    - biolink:ChemicalEntity
+    - biolink:EnvironmentalExposure
     maximum: 5
     minimum: 1
     name_lookup:
@@ -1419,8 +1413,8 @@ patient:
     type: integer
   MaxDailyPM2.5Exposure_StudyAvg:
     categories:
-    - biolink:SmallMolecule
-    - biolink:ChemicalExposure
+    - biolink:ChemicalEntity
+    - biolink:EnvironmentalExposure
     maximum: 5
     minimum: 1
     name_lookup:
@@ -1429,8 +1423,8 @@ patient:
     type: integer
   MaxDailyPM2.5Exposure_StudyAvg_qcut:
     categories:
-    - biolink:SmallMolecule
-    - biolink:ChemicalExposure
+    - biolink:ChemicalEntity
+    - biolink:EnvironmentalExposure
     maximum: 5
     minimum: 1
     name_lookup:
@@ -1439,8 +1433,8 @@ patient:
     type: integer
   MaxDailyPM2.5Exposure_StudyMax:
     categories:
-    - biolink:SmallMolecule
-    - biolink:ChemicalExposure
+    - biolink:ChemicalEntity
+    - biolink:EnvironmentalExposure
     maximum: 5
     minimum: 1
     name_lookup:
@@ -1449,8 +1443,8 @@ patient:
     type: integer
   MaxDailyPM2.5Exposure_StudyMax_qcut:
     categories:
-    - biolink:SmallMolecule
-    - biolink:ChemicalExposure
+    - biolink:ChemicalEntity
+    - biolink:EnvironmentalExposure
     maximum: 5
     minimum: 1
     name_lookup:
@@ -1459,8 +1453,8 @@ patient:
     type: integer
   MaxDailyPM2.5Exposure_qcut:
     categories:
-    - biolink:SmallMolecule
-    - biolink:ChemicalExposure
+    - biolink:ChemicalEntity
+    - biolink:EnvironmentalExposure
     maximum: 5
     minimum: 1
     name_lookup:
@@ -1557,6 +1551,7 @@ patient:
     type: string
   O3_ANNUAL_AVERAGE_cut:
     categories:
+    - biolink:ChemicalEntity
     - biolink:EnvironmentalExposure
     maximum: 5
     minimum: 1
@@ -1566,6 +1561,7 @@ patient:
     type: integer
   O3_ANNUAL_AVERAGE_qcut:
     categories:
+    - biolink:ChemicalEntity
     - biolink:EnvironmentalExposure
     maximum: 5
     minimum: 1
@@ -1575,6 +1571,7 @@ patient:
     type: integer
   O3_N_OBS:
     categories:
+    - biolink:ChemicalEntity
     - biolink:EnvironmentalExposure
     type: integer
   ORIGINAL_ANALYTIC_SAMPLE:
@@ -1643,6 +1640,7 @@ patient:
     type: string
   PM25_ANNUAL_AVERAGE_cut:
     categories:
+    - biolink:ChemicalEntity
     - biolink:EnvironmentalExposure
     maximum: 5
     minimum: 1
@@ -1652,6 +1650,7 @@ patient:
     type: integer
   PM25_ANNUAL_AVERAGE_qcut:
     categories:
+    - biolink:ChemicalEntity
     - biolink:EnvironmentalExposure
     maximum: 5
     minimum: 1
@@ -1661,6 +1660,7 @@ patient:
     type: integer
   PM25_N_OBS:
     categories:
+    - biolink:ChemicalEntity
     - biolink:EnvironmentalExposure
     type: integer
   ParoxetineRx:
@@ -1848,12 +1848,12 @@ patient:
     type: string
   RoadwayAADT:
     categories:
+    - biolink:ComplexChemicalMixture
     - biolink:EnvironmentalExposure
-    enum: null
+    enum:
     type: integer
   RoadwayDistanceExposure:
     categories:
-    - biolink:ChemicalEntity
     - biolink:ComplexChemicalMixture
     - biolink:EnvironmentalExposure
     maximum: 6
@@ -1864,7 +1864,6 @@ patient:
     type: integer
   RoadwayDistanceExposure2:
     categories:
-    - biolink:ChemicalEntity
     - biolink:ComplexChemicalMixture
     - biolink:EnvironmentalExposure
     maximum: 6
@@ -1875,13 +1874,15 @@ patient:
     type: integer
   RoadwayLanes:
     categories:
+    - biolink:ComplexChemicalMixture
     - biolink:EnvironmentalExposure
-    enum: null
+    enum:
     type: integer
   RoadwaySpeedLimit:
     categories:
+    - biolink:ComplexChemicalMixture
     - biolink:EnvironmentalExposure
-    enum: null
+    enum:
     type: integer
   RoadwayType:
     categories:
@@ -1895,8 +1896,8 @@ patient:
     type: string
   S177_SMOKE_100_CIG_LIFETIME:
     categories:
-    - biolink:PhenotypicFeature
-    - biolink:ChemicalExposure
+    - biolink:ComplexChemicalMixture
+    - biolink:EnvironmentalExposure
     enum:
     - 'True'
     - 'False'
@@ -1906,8 +1907,8 @@ patient:
     type: string
   SMOKE_CAT:
     categories:
-    - biolink:PhenotypicFeature
-    - biolink:ChemicalExposure
+    - biolink:ComplexChemicalMixture
+    - biolink:EnvironmentalExposure
     enum:
     - Never
     - Ever
@@ -1949,8 +1950,9 @@ patient:
     type: string
   SPEED:
     categories:
+    - biolink:ComplexChemicalMixture
     - biolink:EnvironmentalExposure
-    enum: null
+    enum:
     type: integer
   SalmeterolRx:
     categories:
@@ -2002,6 +2004,7 @@ patient:
     type: string
   THROUGH_LANES:
     categories:
+    - biolink:ComplexChemicalMixture
     - biolink:EnvironmentalExposure
     enum: null
     type: integer
@@ -2034,7 +2037,6 @@ patient:
     type: string
   TLR4_DIST_1X_cut:
     categories:
-    - biolink:ChemicalEntity
     - biolink:ComplexChemicalMixture
     - biolink:EnvironmentalExposure
     maximum: 5
@@ -2045,7 +2047,6 @@ patient:
     type: integer
   TLR4_DIST_1X_qcut:
     categories:
-    - biolink:ChemicalEntity
     - biolink:ComplexChemicalMixture
     - biolink:EnvironmentalExposure
     maximum: 5
@@ -2056,7 +2057,6 @@ patient:
     type: integer
   TLR4_DIST_2X_cut:
     categories:
-    - biolink:ChemicalEntity
     - biolink:ComplexChemicalMixture
     - biolink:EnvironmentalExposure
     maximum: 5
@@ -2067,7 +2067,6 @@ patient:
     type: integer
   TLR4_DIST_2X_qcut:
     categories:
-    - biolink:ChemicalEntity
     - biolink:ComplexChemicalMixture
     - biolink:EnvironmentalExposure
     maximum: 5
@@ -2078,7 +2077,6 @@ patient:
     type: integer
   TLR4_DIST_3X_cut:
     categories:
-    - biolink:ChemicalEntity
     - biolink:ComplexChemicalMixture
     - biolink:EnvironmentalExposure
     maximum: 5
@@ -2089,7 +2087,6 @@ patient:
     type: integer
   TLR4_DIST_3X_qcut:
     categories:
-    - biolink:ChemicalEntity
     - biolink:ComplexChemicalMixture
     - biolink:EnvironmentalExposure
     maximum: 5

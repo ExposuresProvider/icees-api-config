@@ -24,12 +24,10 @@ patient:
   ALT_DILIOnset:
     categories:
     - biolink:PhenotypicFeature
-    - biolink:DiseaseOrPhenotypicFeature
     type: number
   ALT_DILIOnset_ULN:
     categories:
     - biolink:PhenotypicFeature
-    - biolink:DiseaseOrPhenotypicFeature
     name_lookup:
     - limit: 1
       search_term: abnormal alanine aminotransferase
@@ -37,7 +35,6 @@ patient:
   ALT_DILIOnset_ULN_2:
     categories:
     - biolink:PhenotypicFeature
-    - biolink:DiseaseOrPhenotypicFeature
     maximum: 5
     minimum: 1
     name_lookup:
@@ -47,12 +44,10 @@ patient:
   ALT_Peak_DILIOnsetToMonth6:
     categories:
     - biolink:PhenotypicFeature
-    - biolink:DiseaseOrPhenotypicFeature
     type: number
   ALT_Peak_DILIOnsetToMonth6_ULN:
     categories:
     - biolink:PhenotypicFeature
-    - biolink:DiseaseOrPhenotypicFeature
     name_lookup:
     - limit: 1
       search_term: abnormal alanine aminotransferase
@@ -60,7 +55,6 @@ patient:
   ALT_Peak_DILIOnsetToMonth6_ULN_2:
     categories:
     - biolink:PhenotypicFeature
-    - biolink:DiseaseOrPhenotypicFeature
     maximum: 5
     minimum: 1
     name_lookup:
@@ -70,7 +64,6 @@ patient:
   ANA:
     categories:
     - biolink:PhenotypicFeature
-    - biolink:DiseaseOrPhenotypicFeature
     enum:
     - '0'
     - '1'
@@ -81,7 +74,6 @@ patient:
   ASMA:
     categories:
     - biolink:PhenotypicFeature
-    - biolink:DiseaseOrPhenotypicFeature
     enum:
     - '0'
     - '1'
@@ -92,12 +84,12 @@ patient:
   AST_DILIOnset:
     categories:
     - biolink:PhenotypicFeature
-    enum: null
+    enum:
     type: number
   AST_DILIOnset_ULN:
     categories:
     - biolink:PhenotypicFeature
-    enum: null
+    enum:
     name_lookup:
     - limit: 1
       search_term: abnormal aspartate aminotransferase
@@ -105,7 +97,6 @@ patient:
   AST_DILIOnset_ULN_2:
     categories:
     - biolink:PhenotypicFeature
-    - biolink:DiseaseOrPhenotypicFeature
     maximum: 5
     minimum: 1
     name_lookup:
@@ -115,12 +106,10 @@ patient:
   AST_Peak_DILIOnsetToMonth6:
     categories:
     - biolink:PhenotypicFeature
-    - biolink:DiseaseOrPhenotypicFeature
     type: number
   AST_Peak_DILIOnsetToMonth6_ULN:
     categories:
     - biolink:PhenotypicFeature
-    - biolink:DiseaseOrPhenotypicFeature
     name_lookup:
     - limit: 1
       search_term: abnormal aspartate aminotransferase
@@ -128,7 +117,6 @@ patient:
   AST_Peak_DILIOnsetToMonth6_ULN_2:
     categories:
     - biolink:PhenotypicFeature
-    - biolink:DiseaseOrPhenotypicFeature
     enum:
       maximum: 5
       minimum: 1
@@ -150,7 +138,6 @@ patient:
   AgeQualifyingLab:
     categories:
     - biolink:PhenotypicFeature
-    - biolink:DiseaseOrPhenotypicFeature
     maximum: 100
     minimum: 0
     name_lookup:
@@ -182,12 +169,10 @@ patient:
   AlkalinePhosphatase_DILIOnset:
     categories:
     - biolink:PhenotypicFeature
-    - biolink:DiseaseOrPhenotypicFeature
     type: number
   AlkalinePhosphatase_DILIOnset_ULN:
     categories:
     - biolink:PhenotypicFeature
-    - biolink:DiseaseOrPhenotypicFeature
     name_lookup:
     - limit: 1
       search_term: abnormal alkaline phosphatase
@@ -195,7 +180,6 @@ patient:
   AlkalinePhosphatase_DILIOnset_ULN_2:
     categories:
     - biolink:PhenotypicFeature
-    - biolink:DiseaseOrPhenotypicFeature
     maximum: 5
     minimum: 1
     name_lookup:
@@ -205,12 +189,10 @@ patient:
   AlkalinePhosphatase_Peak_DILIOnsetToMonth6:
     categories:
     - biolink:PhenotypicFeature
-    - biolink:DiseaseOrPhenotypicFeature
     type: number
   AlkalinePhosphatase_Peak_DILIOnsetToMonth6_ULN:
     categories:
     - biolink:PhenotypicFeature
-    - biolink:DiseaseOrPhenotypicFeature
     name_lookup:
     - limit: 1
       search_term: abnormal alkaline phosphatase
@@ -218,7 +200,6 @@ patient:
   AlkalinePhosphatase_Peak_DILIOnsetToMonth6_ULN_2:
     categories:
     - biolink:PhenotypicFeature
-    - biolink:DiseaseOrPhenotypicFeature
     maximum: 5
     minimum: 1
     name_lookup:
@@ -228,7 +209,6 @@ patient:
   Anti_HAV:
     categories:
     - biolink:PhenotypicFeature
-    - biolink:DiseaseOrPhenotypicFeature
     enum:
     - '0'
     - '1'
@@ -239,7 +219,6 @@ patient:
   Anti_HBc:
     categories:
     - biolink:PhenotypicFeature
-    - biolink:DiseaseOrPhenotypicFeature
     enum:
     - '0'
     - '1'
@@ -250,7 +229,6 @@ patient:
   Anti_HBc_IgM:
     categories:
     - biolink:PhenotypicFeature
-    - biolink:DiseaseOrPhenotypicFeature
     enum:
     - '0'
     - '1'
@@ -261,7 +239,6 @@ patient:
   Anti_HBe:
     categories:
     - biolink:PhenotypicFeature
-    - biolink:DiseaseOrPhenotypicFeature
     enum:
     - '0'
     - '1'
@@ -272,7 +249,6 @@ patient:
   Anti_HBs:
     categories:
     - biolink:PhenotypicFeature
-    - biolink:DiseaseOrPhenotypicFeature
     enum:
     - '0'
     - '1'
@@ -283,7 +259,6 @@ patient:
   Anti_HCV:
     categories:
     - biolink:PhenotypicFeature
-    - biolink:DiseaseOrPhenotypicFeature
     enum:
     - '0'
     - '1'
@@ -317,7 +292,6 @@ patient:
     type: string
   AutoimmuneHepatitisDx:
     categories:
-    - biolink:PhenotypicFeature
     - biolink:Disease
     - biolink:DiseaseOrPhenotypicFeature
     enum:
@@ -330,8 +304,7 @@ patient:
   BMI:
     categories:
     - biolink:PhenotypicFeature
-    - biolink:DiseaseOrPhenotypicFeature
-    enum: null
+    enum:
     name_lookup:
     - limit: 8
       search_term: body mass index
@@ -339,12 +312,10 @@ patient:
   Bilirubin_DILIOnset:
     categories:
     - biolink:PhenotypicFeature
-    - biolink:DiseaseOrPhenotypicFeature
     type: number
   Bilirubin_DILIOnset_ULN:
     categories:
     - biolink:PhenotypicFeature
-    - biolink:DiseaseOrPhenotypicFeature
     name_lookup:
     - limit: 1
       search_term: abnormal bilirubin
@@ -352,7 +323,6 @@ patient:
   Bilirubin_DILIOnset_ULN_2:
     categories:
     - biolink:PhenotypicFeature
-    - biolink:DiseaseOrPhenotypicFeature
     maximum: 5
     minimum: 1
     name_lookup:
@@ -362,12 +332,10 @@ patient:
   Bilirubin_Peak_DILIOnsetToMonth6:
     categories:
     - biolink:PhenotypicFeature
-    - biolink:DiseaseOrPhenotypicFeature
     type: number
   Bilirubin_Peak_DILIOnsetToMonth6_ULN:
     categories:
     - biolink:PhenotypicFeature
-    - biolink:DiseaseOrPhenotypicFeature
     name_lookup:
     - limit: 1
       search_term: abnormal bilirubin
@@ -375,7 +343,6 @@ patient:
   Bilirubin_Peak_DILIOnsetToMonth6_ULN_2:
     categories:
     - biolink:PhenotypicFeature
-    - biolink:DiseaseOrPhenotypicFeature
     maximum: 5
     minimum: 1
     name_lookup:
@@ -384,7 +351,6 @@ patient:
     type: integer
   ChronicDILIDx:
     categories:
-    - biolink:PhenotypicFeature
     - biolink:Disease
     - biolink:DiseaseOrPhenotypicFeature
     enum:
@@ -395,7 +361,6 @@ patient:
     type: string
   ChronicHepatitisB_Dx_Screening:
     categories:
-    - biolink:PhenotypicFeature
     - biolink:Disease
     - biolink:DiseaseOrPhenotypicFeature
     enum:
@@ -407,7 +372,6 @@ patient:
     type: string
   ChronicHepatitisC_Dx_Screening:
     categories:
-    - biolink:PhenotypicFeature
     - biolink:Disease
     - biolink:DiseaseOrPhenotypicFeature
     enum:
@@ -419,7 +383,6 @@ patient:
     type: string
   CirrhosisDx:
     categories:
-    - biolink:PhenotypicFeature
     - biolink:Disease
     - biolink:DiseaseOrPhenotypicFeature
     enum:
@@ -432,7 +395,6 @@ patient:
   ConcomitantDrugs:
     categories:
     - biolink:PhenotypicFeature
-    - biolink:DiseaseOrPhenotypicFeature
     enum:
     - 0-2
     - 3-4
@@ -463,8 +425,6 @@ patient:
   DILIN_SeverityScore:
     categories:
     - biolink:PhenotypicFeature
-    - biolink:Disease
-    - biolink:DiseaseOrPhenotypicFeature
     enum:
     - Mild
     - Moderate
@@ -486,22 +446,18 @@ patient:
   Days_ALT_DILIOnsetToPeak:
     categories:
     - biolink:PhenotypicFeature
-    - biolink:DiseaseOrPhenotypicFeature
     type: integer
   Days_AST_DILIOnsetToPeak:
     categories:
     - biolink:PhenotypicFeature
-    - biolink:DiseaseOrPhenotypicFeature
     type: integer
   Days_AlkalinePhosphatase_DILIOnsetToPeak:
     categories:
     - biolink:PhenotypicFeature
-    - biolink:DiseaseOrPhenotypicFeature
     type: integer
   Days_Bilirubin_DILIOnsetToPeak:
     categories:
     - biolink:PhenotypicFeature
-    - biolink:DiseaseOrPhenotypicFeature
     type: integer
   Days_DILIOnsetToInitialVisit:
     categories:
@@ -556,7 +512,6 @@ patient:
   Death:
     categories:
     - biolink:PhenotypicFeature
-    - biolink:DiseaseOrPhenotypicFeature
     enum:
     - '0'
     - '1'
@@ -579,7 +534,7 @@ patient:
     type: string
   DrugAllergyDx:
     categories:
-    - biolink:PhenotypicFeature
+    - biolink:Disease
     - biolink:DiseaseOrPhenotypicFeature
     enum:
     - '0'
@@ -591,12 +546,10 @@ patient:
   EosinophilCount:
     categories:
     - biolink:PhenotypicFeature
-    - biolink:DiseaseOrPhenotypicFeature
     type: number
   Eosinophil_GreaterThan500:
     categories:
     - biolink:PhenotypicFeature
-    - biolink:DiseaseOrPhenotypicFeature
     enum:
     - '0'
     - '1'
@@ -607,7 +560,6 @@ patient:
   EthnicityDILI:
     categories:
     - biolink:PhenotypicFeature
-    - biolink:DiseaseOrPhenotypicFeature
     enum:
     - '0'
     - '1'
@@ -618,7 +570,6 @@ patient:
   FamilyHistoryLiverDisease:
     categories:
     - biolink:PhenotypicFeature
-    - biolink:DiseaseOrPhenotypicFeature
     enum:
     - '0'
     - '1'
@@ -628,8 +579,7 @@ patient:
     type: string
   Fever:
     categories:
-    - biolink:Disease
-    - biolink:DiseaseOrPhenotypicFeature
+    - biolink:PhenotypicFeature
     enum:
     - '0'
     - '1'
@@ -640,8 +590,6 @@ patient:
   FinalCausalityScore:
     categories:
     - biolink:PhenotypicFeature
-    - biolink:Disease
-    - biolink:DiseaseOrPhenotypicFeature
     enum:
     - Unlikely
     - Possible
@@ -662,7 +610,6 @@ patient:
     type: string
   GilbertsSyndromeDx:
     categories:
-    - biolink:PhenotypicFeature
     - biolink:Disease
     - biolink:DiseaseOrPhenotypicFeature
     enum:
@@ -675,7 +622,6 @@ patient:
   HBV_Positive:
     categories:
     - biolink:PhenotypicFeature
-    - biolink:DiseaseOrPhenotypicFeature
     enum:
     - '0'
     - '1'
@@ -686,29 +632,26 @@ patient:
   HBeAg:
     categories:
     - biolink:PhenotypicFeature
-    - biolink:DiseaseOrPhenotypicFeature
     enum:
     - '0'
     - '1'
     name_lookup:
-    - limit: null
-      search_term: null
+    - limit:
+      search_term:
     type: string
   HBsAg:
     categories:
     - biolink:PhenotypicFeature
-    - biolink:DiseaseOrPhenotypicFeature
     enum:
     - '0'
     - '1'
     name_lookup:
-    - limit: null
-      search_term: null
+    - limit:
+      search_term:
     type: string
   HCV_Positive:
     categories:
     - biolink:PhenotypicFeature
-    - biolink:DiseaseOrPhenotypicFeature
     enum:
     - '0'
     - '1'
@@ -719,7 +662,6 @@ patient:
   HCV_RNA:
     categories:
     - biolink:PhenotypicFeature
-    - biolink:DiseaseOrPhenotypicFeature
     enum:
     - '0'
     - '1'
@@ -730,7 +672,6 @@ patient:
   HIV_Positive:
     categories:
     - biolink:PhenotypicFeature
-    - biolink:DiseaseOrPhenotypicFeature
     enum:
     - '0'
     - '1'
@@ -762,7 +703,7 @@ patient:
     type: string
   HemochromatosisDx:
     categories:
-    - biolink:PhenotypicFeature
+    - biolink:Disease
     - biolink:DiseaseOrPhenotypicFeature
     enum:
     - '0'
@@ -773,7 +714,7 @@ patient:
     type: string
   HepatitisA_Dx:
     categories:
-    - biolink:PhenotypicFeature
+    - biolink:Disease
     - biolink:DiseaseOrPhenotypicFeature
     enum:
     - '0'
@@ -795,12 +736,10 @@ patient:
   INR_Onset:
     categories:
     - biolink:PhenotypicFeature
-    - biolink:DiseaseOrPhenotypicFeature
     type: number
   INR_Onset_ULN:
     categories:
     - biolink:PhenotypicFeature
-    - biolink:DiseaseOrPhenotypicFeature
     maximum: 5
     minimum: 1
     name_lookup:
@@ -810,7 +749,6 @@ patient:
   INR_Peak_DILIOnsetToMonth6:
     categories:
     - biolink:PhenotypicFeature
-    - biolink:DiseaseOrPhenotypicFeature
     name_lookup:
     - limit: 1
       search_term: abnormal international normalised ratio
@@ -818,7 +756,6 @@ patient:
   INR_Peak_DILIOnsetToMonth6_ULN:
     categories:
     - biolink:PhenotypicFeature
-    - biolink:DiseaseOrPhenotypicFeature
     maximum: 5
     minimum: 1
     name_lookup:
@@ -864,7 +801,6 @@ patient:
   Initial_RUCAM:
     categories:
     - biolink:PhenotypicFeature
-    - biolink:DiseaseOrPhenotypicFeature
     enum:
     - Excluded
     - Unlikely
@@ -873,11 +809,10 @@ patient:
     - Highly Probable
     name_lookup:
     - limit: 1
-      search_term: null
+      search_term:
     type: string
   IschemicHepatitisDx:
     categories:
-    - biolink:PhenotypicFeature
     - biolink:Disease
     - biolink:DiseaseOrPhenotypicFeature
     enum:
@@ -890,7 +825,6 @@ patient:
   Itching:
     categories:
     - biolink:PhenotypicFeature
-    - biolink:DiseaseOrPhenotypicFeature
     enum:
     - '0'
     - '1'
@@ -901,7 +835,6 @@ patient:
   Jaundice:
     categories:
     - biolink:PhenotypicFeature
-    - biolink:DiseaseOrPhenotypicFeature
     enum:
     - '0'
     - '1'
@@ -918,7 +851,6 @@ patient:
   LiverBiopsy_Screen:
     categories:
     - biolink:PhenotypicFeature
-    - biolink:DiseaseOrPhenotypicFeature
     enum:
     - '0'
     - '1'
@@ -929,7 +861,6 @@ patient:
   LiverRelatedDeath:
     categories:
     - biolink:PhenotypicFeature
-    - biolink:DiseaseOrPhenotypicFeature
     enum:
     - '0'
     - '1'
@@ -972,7 +903,6 @@ patient:
   Nausea:
     categories:
     - biolink:PhenotypicFeature
-    - biolink:DiseaseOrPhenotypicFeature
     enum:
     - '0'
     - '1'
@@ -994,7 +924,6 @@ patient:
   Neutropenia:
     categories:
     - biolink:PhenotypicFeature
-    - biolink:DiseaseOrPhenotypicFeature
     enum:
     - '0'
     - '1'
@@ -1005,7 +934,6 @@ patient:
   PCA_Race:
     categories:
     - biolink:PhenotypicFeature
-    - biolink:DiseaseOrPhenotypicFeature
     enum:
     - White
     - Black
@@ -1019,7 +947,6 @@ patient:
   PatternLiverInjury_Onset:
     categories:
     - biolink:PhenotypicFeature
-    - biolink:DiseaseOrPhenotypicFeature
     enum:
     - Cholestatic
     - Hepatocellular
@@ -1047,7 +974,6 @@ patient:
     type: string
   PrimaryBiliaryCirrhosisDx:
     categories:
-    - biolink:PhenotypicFeature
     - biolink:Disease
     - biolink:DiseaseOrPhenotypicFeature
     enum:
@@ -1059,7 +985,6 @@ patient:
     type: string
   PrimarySclerosingCholangitisDx:
     categories:
-    - biolink:PhenotypicFeature
     - biolink:Disease
     - biolink:DiseaseOrPhenotypicFeature
     enum:
@@ -1083,12 +1008,10 @@ patient:
   RValue_Onset:
     categories:
     - biolink:PhenotypicFeature
-    - biolink:DiseaseOrPhenotypicFeature
     type: number
   RaceDILI:
     categories:
     - biolink:PhenotypicFeature
-    - biolink:DiseaseOrPhenotypicFeature
     enum:
     - White or Caucasian
     - Black or African American
@@ -1101,7 +1024,6 @@ patient:
   Rash:
     categories:
     - biolink:PhenotypicFeature
-    - biolink:DiseaseOrPhenotypicFeature
     enum:
     - '0'
     - '1'
@@ -1123,7 +1045,6 @@ patient:
   Serum_IgA:
     categories:
     - biolink:PhenotypicFeature
-    - biolink:DiseaseOrPhenotypicFeature
     enum:
     - '0'
     - '1'
@@ -1134,7 +1055,6 @@ patient:
   Serum_IgG:
     categories:
     - biolink:PhenotypicFeature
-    - biolink:DiseaseOrPhenotypicFeature
     enum:
     - '0'
     - '1'
@@ -1145,7 +1065,6 @@ patient:
   Serum_IgM:
     categories:
     - biolink:PhenotypicFeature
-    - biolink:DiseaseOrPhenotypicFeature
     enum:
     - '0'
     - '1'
@@ -1156,7 +1075,6 @@ patient:
   SexDILI:
     categories:
     - biolink:PhenotypicFeature
-    - biolink:DiseaseOrPhenotypicFeature
     enum:
     - Male
     - Female
@@ -1178,7 +1096,6 @@ patient:
   Thrombocytopenia:
     categories:
     - biolink:PhenotypicFeature
-    - biolink:DiseaseOrPhenotypicFeature
     enum:
     - '0'
     - '1'
@@ -1189,7 +1106,6 @@ patient:
   UnexplainedAbnormalLiverTest:
     categories:
     - biolink:PhenotypicFeature
-    - biolink:DiseaseOrPhenotypicFeature
     enum:
     - '0'
     - '1'
@@ -1225,8 +1141,6 @@ patient:
     - Penicillin Nos
     - Nitrofurantoin
     - Cefepime
-    - Cefuroxime
-    - Cefdinir
     - Ceftriaxone
     - Hydroxycut - Ephedra Free
     - Unspecified Herbal
@@ -1241,7 +1155,7 @@ patient:
     enum:
     - Ivermectin
     - Levofloxacin
-    - "\u2018Ertapenem'"
+    - Ertapenem
     - Lecithin W/Protein
     - Other
     type: string
@@ -1257,7 +1171,6 @@ patient:
   Weeks_DurationOfSickness:
     categories:
     - biolink:PhenotypicFeature
-    - biolink:DiseaseOrPhenotypicFeature
     enum:
     - <1
     - 2-4
@@ -1274,7 +1187,6 @@ patient:
   Weight:
     categories:
     - biolink:PhenotypicFeature
-    - biolink:DiseaseOrPhenotypicFeature
     type: number
   WilsonsDiseaseDx:
     categories:
@@ -1290,7 +1202,6 @@ patient:
   Year_DILI_Onset:
     categories:
     - biolink:PhenotypicFeature
-    - biolink:DiseaseOrPhenotypicFeature
     type: string
   rs1363907_a:
     categories:
