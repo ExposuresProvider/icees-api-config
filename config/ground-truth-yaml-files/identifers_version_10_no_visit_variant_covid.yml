@@ -6183,6 +6183,8 @@ patient:
   - UMLS:C1271927
   - UMLS:C1271929
   - UMLS:C1271934
+  IsolationFlag:
+  - DUMMY:000000
   Isoproterenol_gtt_Rx:
   - UNII:L628TT009W
   - PUBCHEM.COMPOUND:3779
