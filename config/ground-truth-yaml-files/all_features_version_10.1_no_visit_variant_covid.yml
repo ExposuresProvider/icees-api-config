@@ -2345,13 +2345,13 @@ patient:
     name_lookup:
     - limit: 1
       search_term: ipratropium
-#  IsolationFlag:
-#    categories:
-#    - biolink:ClinicalIntervention
-#    enum:
-#    - '0'
-#    - '1'
-#    type: string
+  IsolationFlag:
+    categories:
+    - biolink:ClinicalIntervention
+    enum:
+    - '0'
+    - '1'
+    type: string
   Isoproterenol_gtt_Rx:
     categories:
     - biolink:ChemicalEntity
@@ -2675,6 +2675,7 @@ patient:
     name_lookup:
     - limit: 1
       search_term: medroxyprogesterone
+    type: string
   MenopauseDx:
     categories:
     - biolink:PhenotypicFeature
@@ -2925,7 +2926,8 @@ patient:
     name_lookup:
     - limit: 1
       search_term: paroxetine
-  Phenylephrine_gtt Rx:
+    type: string
+  Phenylephrine_gtt_Rx:
     categories:
     - biolink:ChemicalEntity
     - biolink:ChemicalExposure
