@@ -2345,13 +2345,6 @@ patient:
     name_lookup:
     - limit: 1
       search_term: ipratropium
-  IsolationFlag:
-    categories:
-    - biolink:ClinicalIntervention
-    enum:
-    - '0'
-    - '1'
-    type: string
   Isoproterenol_gtt_Rx:
     categories:
     - biolink:ChemicalEntity
