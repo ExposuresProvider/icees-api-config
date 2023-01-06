@@ -2950,7 +2950,7 @@ patient:
     - L
     type: string
     name_lookup:
-    - lookup: 1
+    - limit: 1
       search_term: abnormal platelet count
   PlateletCount_flag_last:
     categories:
@@ -2964,7 +2964,7 @@ patient:
     - L
     type: string
     name_lookup:
-    - lookup: 1
+    - limit: 1
       search_term: abnormal platelet count
   PneumoniaDx:
     categories:
