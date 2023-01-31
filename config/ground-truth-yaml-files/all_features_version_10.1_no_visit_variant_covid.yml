@@ -142,7 +142,7 @@ patient:
     - abnormal
     type: string
     name_lookup:
-    - limit: 
+    - limit: 1
       search_term: abnormal HbA1c
   A1C_flag_last:
     categories:
@@ -2298,7 +2298,7 @@ patient:
     - '1'
     type: string
     name_lookup:
-    - limit:  
+    - limit: 1 
       search_term: indacaterol
   Influenza7pointClinicalStatusScore:
     categories:
@@ -2320,7 +2320,7 @@ patient:
     - '1'
     type: string
     name_lookup:
-    - limit:  
+    - limit: 1 
       search_term: intravenous immunoglobulin
   InvasiveVentilation:
     categories:
@@ -2950,7 +2950,7 @@ patient:
     - L
     type: string
     name_lookup:
-    - lookup: 1
+    - limit: 1
       search_term: abnormal platelet count
   PlateletCount_flag_last:
     categories:
@@ -2964,7 +2964,7 @@ patient:
     - L
     type: string
     name_lookup:
-    - lookup: 1
+    - limit: 1
       search_term: abnormal platelet count
   PneumoniaDx:
     categories:
