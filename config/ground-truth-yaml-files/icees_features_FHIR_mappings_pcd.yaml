@@ -1089,7 +1089,7 @@ FHIR:
       system: http://www.nlm.nih.gov/research/umls/rxnorm 
     - code: '203217'
       system: http://www.nlm.nih.gov/research/umls/rxnorm 
-  MedroxyprogresteroneRx:
+  MedroxyprogesteroneRx:
     MedicationRequest:
     - code: '6691'
       system: http://www.nlm.nih.gov/research/umls/rxnorm 
@@ -1969,7 +1969,7 @@ FHIR:
       system: http://www.nlm.nih.gov/research/umls/rxnorm
     - code: '1664988'
       system: http://www.nlm.nih.gov/research/umls/rxnorm
-  AzythromycinRx:
+  AzithromycinRx:
     MedicationRequest:
     - code: '18631'
       system: http://www.nlm.nih.gov/research/umls/rxnorm

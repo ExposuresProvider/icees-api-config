@@ -1,4 +1,14 @@
 patient:
+  study_period:
+    categories:
+    - biolink:PhenotypicFeature
+    enum:
+    type: string
+  Active_In_Study_Period:
+    categories:
+    - biolink:PhenotypicFeature
+    enum:
+    type: string  
   A1C:
     categories:
     - biolink:PhenotypicFeature
@@ -2212,6 +2222,7 @@ patient:
     name_lookup:
     - limit: 1
       search_term: methylprednisone
+    type: string
   MiddleEarDiseaseDx:
     categories:
     - biolink:Disease
