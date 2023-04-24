@@ -117,9 +117,9 @@ patient:
   AST_Peak_DILIOnsetToMonth6_ULN_2:
     categories:
     - biolink:PhenotypicFeature
+    maximum: 5
+    minimum: 1
     enum:
-      maximum: 5
-      minimum: 1
     name_lookup:
     - limit: 1
       search_term: abnormal aspartate aminotransferase
