@@ -21,7 +21,7 @@ patient:
     - 51-69
     - 70-89
     name_lookup:
-    - limit: 10
+    - limit: 1
       search_term: chronological age
     type: string
   AgeStudyStart2:
