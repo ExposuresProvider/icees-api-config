@@ -138,7 +138,7 @@ patient:
     - 70-89
     name_lookup:
     - limit: 1
-      search_term: age
+      search_term: chronological age
     type: string
   AgeStudyStart2:
     categories:
@@ -151,7 +151,7 @@ patient:
     - 65-89
     name_lookup:
     - limit: 1
-      search_term: age
+      search_term: chronological age
     type: string
   Albumin:
     categories:
@@ -349,8 +349,8 @@ patient:
     maximum: 5
     minimum: 1
     name_lookup:
-    - limit: 1
-      search_term: acetaldehyde
+    - limit: 10
+      search_term: acetaldehyde exposure
     type: integer
   AvgDailyAcetaldehydeExposure_2:
     categories:
@@ -359,8 +359,8 @@ patient:
     maximum: 5
     minimum: 1
     name_lookup:
-    - limit: 1
-      search_term: acetaldehyde
+    - limit: 10
+      search_term: acetaldehyde exposure
     type: integer
   AvgDailyAcetaldehydeExposure_2_qcut:
     categories:
@@ -369,8 +369,8 @@ patient:
     maximum: 5
     minimum: 1
     name_lookup:
-    - limit: 1
-      search_term: acetaldehyde
+    - limit: 10
+      search_term: acetaldehyde exposure
     type: integer
   AvgDailyBenzeneExposure_2:
     categories:
@@ -379,8 +379,8 @@ patient:
     maximum: 5
     minimum: 1
     name_lookup:
-    - limit: 2
-      search_term: benzene
+    - limit: 10
+      search_term: benzene exposure
     type: integer
   AvgDailyBenzeneExposure_2_qcut:
     categories:
@@ -389,8 +389,8 @@ patient:
     maximum: 5
     minimum: 1
     name_lookup:
-    - limit: 2
-      search_term: benzene
+    - limit: 10
+      search_term: benzene exposure
     type: integer
   AvgDailyCOExposure_2:
     categories:
@@ -399,8 +399,8 @@ patient:
     maximum: 5
     minimum: 1
     name_lookup:
-    - limit: 1
-      search_term: carbon monoxide
+    - limit: 10
+      search_term: carbon monoxide exposure
     type: integer
   AvgDailyCOExposure_2_qcut:
     categories:
@@ -409,8 +409,8 @@ patient:
     maximum: 5
     minimum: 1
     name_lookup:
-    - limit: 1
-      search_term: carbon monoxide
+    - limit: 10
+      search_term: carbon monoxide exposure
     type: integer
   AvgDailyFormaldehydeExposure_2:
     categories:
@@ -419,8 +419,8 @@ patient:
     maximum: 5
     minimum: 1
     name_lookup:
-    - limit: 1
-      search_term: formaldehyde
+    - limit: 10
+      search_term: formaldehyde exposure
     type: integer
   AvgDailyFormaldehydeExposure_2_qcut:
     categories:
@@ -429,8 +429,8 @@ patient:
     maximum: 5
     minimum: 1
     name_lookup:
-    - limit: 1
-      search_term: formaldehyde
+    - limit: 10
+      search_term: formaldehyde exposure
     type: integer
   AvgDailyNO2Exposure_2:
     categories:
@@ -439,8 +439,8 @@ patient:
     maximum: 5
     minimum: 1
     name_lookup:
-    - limit: 1
-      search_term: nitrogen dioxide
+    - limit: 10
+      search_term: nitrogen dioxide exposure
     type: integer
   AvgDailyNO2Exposure_2_qcut:
     categories:
@@ -449,8 +449,8 @@ patient:
     maximum: 5
     minimum: 1
     name_lookup:
-    - limit: 1
-      search_term: nitrogen dioxide
+    - limit: 10
+      search_term: nitrogen dioxide exposure
     type: integer
   AvgDailyNOExposure_2:
     categories:
@@ -459,8 +459,8 @@ patient:
     maximum: 5
     minimum: 1
     name_lookup:
-    - limit: 1
-      search_term: nitric oxide
+    - limit: 10
+      search_term: nitric oxide exposure
     type: integer
   AvgDailyNOExposure_2_qcut:
     categories:
@@ -469,8 +469,8 @@ patient:
     maximum: 5
     minimum: 1
     name_lookup:
-    - limit: 1
-      search_term: nitric oxide
+    - limit: 10
+      search_term: nitric oxide exposure
     type: integer
   AvgDailyNOxExposure_2:
     categories:
@@ -499,18 +499,18 @@ patient:
     maximum: 5
     minimum: 1
     name_lookup:
-    - limit: 1
-      search_term: ozone
+    - limit: 10
+      search_term: ozone exposure
     type: integer
   AvgDailyOzoneExposure_StudyAvg:
     categories:
     - biolink:ChemicalEntity
     - biolink:EnvironmentalExposure
     maximum: 5
-    minimum: 1
+    minimum: 10
     name_lookup:
     - limit: 1
-      search_term: ozone
+      search_term: ozone exposure
     type: integer
   AvgDailyOzoneExposure_StudyAvg_qcut:
     categories:
@@ -519,8 +519,8 @@ patient:
     maximum: 5
     minimum: 1
     name_lookup:
-    - limit: 1
-      search_term: ozone
+    - limit: 10
+      search_term: ozone exposure
     type: integer
   AvgDailyOzoneExposure_StudyMax:
     categories:
@@ -529,8 +529,8 @@ patient:
     maximum: 5
     minimum: 1
     name_lookup:
-    - limit: 1
-      search_term: ozone
+    - limit: 10
+      search_term: ozone exposure
     type: integer
   AvgDailyOzoneExposure_StudyMax_qcut:
     categories:
@@ -539,8 +539,8 @@ patient:
     maximum: 5
     minimum: 1
     name_lookup:
-    - limit: 1
-      search_term: ozone
+    - limit: 10
+      search_term: ozone exposure
     type: integer
   AvgDailyOzoneExposure_qcut:
     categories:
@@ -549,8 +549,8 @@ patient:
     maximum: 5
     minimum: 1
     name_lookup:
-    - limit: 1
-      search_term: ozone
+    - limit: 10
+      search_term: ozone exposure
     type: integer
   AvgDailyPM2.5Exposure:
     categories:
@@ -559,7 +559,7 @@ patient:
     maximum: 5
     minimum: 1
     name_lookup:
-    - limit: 1
+    - limit: 10
       search_term: particulate matter
     type: integer
   AvgDailyPM2.5Exposure_2:
@@ -569,7 +569,7 @@ patient:
     maximum: 5
     minimum: 1
     name_lookup:
-    - limit: 1
+    - limit: 10
       search_term: particulate matter
     type: integer
   AvgDailyPM2.5Exposure_2_qcut:
@@ -579,7 +579,7 @@ patient:
     maximum: 5
     minimum: 1
     name_lookup:
-    - limit: 1
+    - limit: 10
       search_term: particulate matter
     type: integer
   AvgDailyPM2.5Exposure_StudyAvg:
@@ -589,7 +589,7 @@ patient:
     maximum: 5
     minimum: 1
     name_lookup:
-    - limit: 1
+    - limit: 10
       search_term: particulate matter
     type: integer
   AvgDailyPM2.5Exposure_StudyAvg_qcut:
@@ -599,7 +599,7 @@ patient:
     maximum: 5
     minimum: 1
     name_lookup:
-    - limit: 1
+    - limit: 10
       search_term: particulate matter
     type: integer
   AvgDailyPM2.5Exposure_StudyMax:
@@ -609,7 +609,7 @@ patient:
     maximum: 5
     minimum: 1
     name_lookup:
-    - limit: 1
+    - limit: 10
       search_term: particulate matter
     type: integer
   AvgDailyPM2.5Exposure_StudyMax_qcut:
@@ -619,7 +619,7 @@ patient:
     maximum: 5
     minimum: 1
     name_lookup:
-    - limit: 1
+    - limit: 10
       search_term: particulate matter
     type: integer
   AvgDailyPM2.5Exposure_qcut:
@@ -629,7 +629,7 @@ patient:
     maximum: 5
     minimum: 1
     name_lookup:
-    - limit: 1
+    - limit: 10
       search_term: particulate matter
     type: integer
   AvgDailySO2Exposure_2:
@@ -639,8 +639,8 @@ patient:
     maximum: 5
     minimum: 1
     name_lookup:
-    - limit: 1
-      search_term: sulfur dioxide
+    - limit: 10
+      search_term: sulfur dioxide exposure
     type: integer
   AvgDailySO2Exposure_2_qcut:
     categories:
@@ -649,8 +649,8 @@ patient:
     maximum: 5
     minimum: 1
     name_lookup:
-    - limit: 1
-      search_term: sulfur dioxide
+    - limit: 10
+      search_term: sulfur dioxide exposure
     type: integer
   AzithromycinRx:
     categories:
@@ -804,7 +804,7 @@ patient:
     - 70-89
     name_lookup:
     - limit: 1
-      search_term: age
+      search_term: chronological age
     type: string
   CURRENT_AGE2:
     categories:
@@ -817,7 +817,7 @@ patient:
     - 65-89
     name_lookup:
     - limit: 1
-      search_term: age
+      search_term: chronological age
     type: string
   CervicalCancerDx:
     categories:
@@ -967,8 +967,8 @@ patient:
     - '0'
     - '1'
     name_lookup:
-    - limit: 75
-      search_term: cough
+    - limit: 10
+      search_term: cough diagnosis
     type: string
   CroupDx:
     categories:
@@ -2014,19 +2014,19 @@ patient:
     - biolink:EnvironmentalExposure
     maximum: 5
     minimum: 1
-    name_lookup:
-    - limit: 1
-      search_term: ozone
+    name_lookup: exposure
+    - limit: 10
+      search_term: ozone exposure
     type: integer
-  MaxDailyOzoneExposure_2:
+  MaxDailyOzoneExposure:
     categories:
     - biolink:ChemicalEntity
     - biolink:EnvironmentalExposure
     maximum: 5
     minimum: 1
     name_lookup:
-    - limit: 1
-      search_term: ozone
+    - limit: 10
+      search_term: ozone exposure
     type: integer
   MaxDailyOzoneExposure_2_qcut:
     categories:
@@ -2035,8 +2035,8 @@ patient:
     maximum: 5
     minimum: 1
     name_lookup:
-    - limit: 1
-      search_term: ozone
+    - limit: 10
+      search_term: ozone exposure
     type: integer
   MaxDailyOzoneExposure_StudyAvg:
     categories:
@@ -2045,8 +2045,8 @@ patient:
     maximum: 5
     minimum: 1
     name_lookup:
-    - limit: 1
-      search_term: ozone
+    - limit: 10
+      search_term: ozone exposure
     type: integer
   MaxDailyOzoneExposure_StudyAvg_qcut:
     categories:
@@ -2055,8 +2055,8 @@ patient:
     maximum: 5
     minimum: 1
     name_lookup:
-    - limit: 1
-      search_term: ozone
+    - limit: 10
+      search_term: ozone exposure
     type: integer
   MaxDailyOzoneExposure_StudyMax:
     categories:
@@ -2065,8 +2065,8 @@ patient:
     maximum: 5
     minimum: 1
     name_lookup:
-    - limit: 1
-      search_term: ozone
+    - limit: 10
+      search_term: ozone exposure
     type: integer
   MaxDailyOzoneExposure_StudyMax_qcut:
     categories:
@@ -2075,8 +2075,8 @@ patient:
     maximum: 5
     minimum: 1
     name_lookup:
-    - limit: 1
-      search_term: ozone
+    - limit: 10
+      search_term: ozone exposure
     type: integer
   MaxDailyOzoneExposure_qcut:
     categories:
@@ -2085,8 +2085,8 @@ patient:
     maximum: 5
     minimum: 1
     name_lookup:
-    - limit: 1
-      search_term: ozone
+    - limit: 10
+      search_term: ozone exposure
     type: integer
   MaxDailyPM2.5Exposure:
     categories:
@@ -2095,7 +2095,7 @@ patient:
     maximum: 5
     minimum: 1
     name_lookup:
-    - limit: 1
+    - limit: 10
       search_term: particulate matter
     type: integer
   MaxDailyPM2.5Exposure_StudyAvg:
@@ -2105,7 +2105,7 @@ patient:
     maximum: 5
     minimum: 1
     name_lookup:
-    - limit: 1
+    - limit: 10
       search_term: particulate matter
     type: integer
   MaxDailyPM2.5Exposure_StudyAvg_qcut:
@@ -2115,7 +2115,7 @@ patient:
     maximum: 5
     minimum: 1
     name_lookup:
-    - limit: 1
+    - limit: 10
       search_term: particulate matter
     type: integer
   MaxDailyPM2.5Exposure_StudyMax:
@@ -2125,7 +2125,7 @@ patient:
     maximum: 5
     minimum: 1
     name_lookup:
-    - limit: 1
+    - limit: 10
       search_term: particulate matter
     type: integer
   MaxDailyPM2.5Exposure_StudyMax_qcut:
@@ -2135,7 +2135,7 @@ patient:
     maximum: 5
     minimum: 1
     name_lookup:
-    - limit: 1
+    - limit: 10
       search_term: particulate matter
     type: integer
   MaxDailyPM2.5Exposure_qcut:
@@ -2145,7 +2145,7 @@ patient:
     maximum: 5
     minimum: 1
     name_lookup:
-    - limit: 1
+    - limit: 10
       search_term: particulate matter
     type: integer
   MedroxyprogesteroneRx:
@@ -2291,8 +2291,8 @@ patient:
     maximum: 5
     minimum: 1
     name_lookup:
-    - limit: 1
-      search_term: ozone
+    - limit: 10
+      search_term: ozone exposure
     type: integer
   O3_ANNUAL_AVERAGE_qcut:
     categories:
@@ -2301,8 +2301,8 @@ patient:
     maximum: 5
     minimum: 1
     name_lookup:
-    - limit: 1
-      search_term: ozone
+    - limit: 10
+      search_term: ozone exposure
     type: integer
   O3_N_OBS:
     categories:
@@ -2404,7 +2404,7 @@ patient:
     maximum: 5
     minimum: 1
     name_lookup:
-    - limit: 1
+    - limit: 10
       search_term: particulate matter
     type: integer
   PM25_ANNUAL_AVERAGE_qcut:
@@ -2414,7 +2414,7 @@ patient:
     maximum: 5
     minimum: 1
     name_lookup:
-    - limit: 1
+    - limit: 10
       search_term: particulate matter
     type: integer
   PM25_N_OBS:
@@ -2590,7 +2590,7 @@ patient:
     - 70-89
     name_lookup:
     - limit: 1
-      search_term: age
+      search_term: chronological age
     type: string
   QXAGE2:
     categories:
@@ -2603,7 +2603,7 @@ patient:
     - 65-89
     name_lookup:
     - limit: 1
-      search_term: age
+      search_term: chronological age
     type: string
   RACE:
     categories:
@@ -2860,7 +2860,7 @@ patient:
     - 70-89
     name_lookup:
     - limit: 1
-      search_term: age
+      search_term: chronological age
     type: string
   TLR4_AGE2:
     categories:
@@ -2873,7 +2873,7 @@ patient:
     - 65-89
     name_lookup:
     - limit: 1
-      search_term: age
+      search_term: chronological age
     type: string
   TLR4_DIST_1X_cut:
     categories:

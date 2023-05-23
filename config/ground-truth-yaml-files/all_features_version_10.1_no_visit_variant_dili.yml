@@ -141,8 +141,8 @@ patient:
     maximum: 100
     minimum: 0
     name_lookup:
-    - limit: 2
-      search_term: age
+    - limit: 1
+      search_term: chronological age
     type: number
   AlcoholRelatedLiverDiseaseDx:
     categories:
