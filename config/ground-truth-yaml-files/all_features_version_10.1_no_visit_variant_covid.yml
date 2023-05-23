@@ -640,7 +640,7 @@ patient:
     - biolink:ChemicalEntity
     - biolink:EnvironmentalExposure
     maximum: 5
-    minimum: 10
+    minimum: 1
     name_lookup:
     - limit: 1
       search_term: ozone exposure
