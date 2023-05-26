@@ -2014,16 +2014,6 @@ patient:
     - biolink:EnvironmentalExposure
     maximum: 5
     minimum: 1
-    name_lookup: exposure
-    - limit: 10
-      search_term: ozone exposure
-    type: integer
-  MaxDailyOzoneExposure:
-    categories:
-    - biolink:ChemicalEntity
-    - biolink:EnvironmentalExposure
-    maximum: 5
-    minimum: 1
     name_lookup:
     - limit: 10
       search_term: ozone exposure
