@@ -2014,7 +2014,7 @@ patient:
     - biolink:EnvironmentalExposure
     maximum: 5
     minimum: 1
-    name_lookup: exposure
+    name_lookup: 
     - limit: 10
       search_term: ozone exposure
     type: integer
