@@ -1,12 +1,12 @@
 patient:
-  index:
-    categories:
-    enum:
-    type: integer
-  PatientID:
-    categories:
-    enum:
-    type: integer  
+#  index:
+#    categories:
+#    enum:
+#    type: integer
+#  PatientID:
+#    categories:
+#    enum:
+#    type: integer  
   study_period:
     categories:
     - biolink:PhenotypicFeature
