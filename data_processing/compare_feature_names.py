@@ -7,6 +7,7 @@ parser.add_argument('input_feature_yml', type=str,
 parser.add_argument('input_fhir_mapping_yaml', type=str,
                     help='input fhir mapping yaml file')
 
+
 if __name__ == '__main__':
     args = parser.parse_args()
     input_feature_yml = args.input_feature_yml
