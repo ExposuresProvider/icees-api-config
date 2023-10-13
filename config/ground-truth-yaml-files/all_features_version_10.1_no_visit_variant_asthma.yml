@@ -4,12 +4,12 @@ patient:
     - biolink:EnvironmentalExposure
     enum:
     type: integer
-#  Active_In_Year:
-#    categories:
-#    - biolink:PhenotypicFeature
-#    maximum: 1
-#    minimum: 0
-#    type: integer
+  Active_In_Year:
+    categories:
+    - biolink:PhenotypicFeature
+    maximum: 1
+    minimum: 0
+    type: integer
   AgeStudyStart:
     categories:
     - biolink:PhenotypicFeature
