@@ -7,16 +7,6 @@ patient:
 #    categories:
 #    enum:
 #    type: integer  
-#  study_period:
-#    categories:
-#    - biolink:PhenotypicFeature
-#    enum:
-#    type: string
-#  Active_In_Study_Period:
-#    categories:
-#    - biolink:PhenotypicFeature
-#    enum:
-#    type: string  
 #  A1C:
 #    categories:
 #   - biolink:PhenotypicFeature
@@ -128,12 +118,12 @@ patient:
 #    - limit: 1
 #      search_term: abnormal aspartate transaminase
 #    type: string
-  Active_In_Year:
-    categories:
-    - biolink:PhenotypicFeature
-    maximum: 1
-    minimum: 0
-    type: integer
+#  Active_In_Year:
+#    categories:
+#    - biolink:PhenotypicFeature
+#    maximum: 1
+#    minimum: 0
+#    type: integer
   AgeStudyStart:
     categories:
     - biolink:PhenotypicFeature
