@@ -7,16 +7,6 @@ patient:
 #    categories:
 #    enum:
 #    type: integer  
-  study_period:
-    categories:
-    - biolink:PhenotypicFeature
-    enum:
-    type: string
-  Active_In_Study_Period:
-    categories:
-    - biolink:PhenotypicFeature
-    enum:
-    type: string  
 #  A1C:
 #    categories:
 #   - biolink:PhenotypicFeature
@@ -3184,8 +3174,8 @@ patient:
     - R
     - U
     type: string
-#  year:
-#    categories: []
-#    maximum: 2100
-#    minimum: 2010
-#    type: integer
+  year:
+    categories: []
+    maximum: 2021
+    minimum: 2010
+    type: integer
