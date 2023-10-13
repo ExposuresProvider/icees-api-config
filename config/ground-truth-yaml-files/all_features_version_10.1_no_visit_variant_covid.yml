@@ -291,12 +291,12 @@ patient:
     name_lookup:
     - limit: 1
       search_term: abnormal neutrophil count
-#  Active_In_Year:
-#    categories:
-#    - biolink:PhenotypicFeature
-#    maximum: 1
-#    minimum: 0
-#    type: integer
+  Active_In_Year:
+    categories:
+    - biolink:PhenotypicFeature
+    maximum: 1
+    minimum: 0
+    type: integer
   AgeStudyStart:
     categories:
     - biolink:PhenotypicFeature
