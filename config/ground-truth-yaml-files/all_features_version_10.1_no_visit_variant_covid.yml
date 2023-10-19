@@ -3643,37 +3643,59 @@ patient:
     categories:
     - biolink:ClinicalIntervention
     enum:
-    - '0'
-    - '1'
-    - '2'
-    - '3'
-    - '4'
-    - '5'
-    - '6'
-    - '7'
-    - '8'
-    - '9'
-    - '>9'
-    type: string
+    - 0
+    - 1
+    - 2
+    - 3
+    - 4
+    - 5
+    - 6
+    - 7
+    - 8
+    - 9
+    - >9
     name_lookup:
     - limit: 4
       search_term: hospitalization
+    type: integer
   TotalEDVisits:
     categories:
     - biolink:ClinicalIntervention
     enum:
-    type: integer
+    - 0
+    - 1
+    - 2
+    - 3
+    - 4
+    - 5
+    - 6
+    - 7
+    - 8
+    - 9
+    - >9
     name_lookup:
     - limit: 4
       search_term: hospitalization
+    type: integer
   TotalInpatientVisits:
     categories:
     - biolink:ClinicalIntervention
-    enum: 
-    type: integer
+    enum:
+    - 0
+    - 1
+    - 2
+    - 3
+    - 4
+    - 5
+    - 6
+    - 7
+    - 8
+    - 9
+    - >9
     name_lookup:
     - limit: 4
       search_term: hospitalization
+    type: integer
   TrazodoneRx:
     categories:
     - biolink:ChemicalEntity
