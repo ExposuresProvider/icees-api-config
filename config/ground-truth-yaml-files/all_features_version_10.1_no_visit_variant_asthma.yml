@@ -2170,7 +2170,7 @@ patient:
     - 7
     - 8
     - 9
-    - >9
+    - '>9'
     name_lookup:
     - limit: 4
       search_term: hospitalization
@@ -2189,7 +2189,7 @@ patient:
     - 7
     - 8
     - 9
-    - >9
+    - '>9'
     name_lookup:
     - limit: 4
       search_term: hospitalization
@@ -2208,7 +2208,7 @@ patient:
     - 7
     - 8
     - 9
-    - >9
+    - '>9'
     name_lookup:
     - limit: 4
       search_term: hospitalization
