@@ -2646,7 +2646,6 @@ patient:
     - Asian
     - Unknown
     - American/Alaskan Native
-    - Other
     name_lookup:
     - limit: 4
       search_term: racial group
