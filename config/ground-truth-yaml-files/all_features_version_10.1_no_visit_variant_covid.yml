@@ -93,7 +93,7 @@ patient:
     - abnormal
     type: string
     name_lookup:
-    - limit: 1 
+    - limit: 1
       search_term: abnormal HbA1c
   BronchiectasisDx:
     categories:
@@ -377,7 +377,7 @@ patient:
     - '1'
     type: string
     name_lookup:
-    - limit: 7
+    - limit: 1
       search_term: alcohol dependence diagnosis
   AlopeciaDx:
     categories:
@@ -388,7 +388,7 @@ patient:
     - '1'
     type: string
     name_lookup:
-    - limit: 14
+    - limit: 1
       search_term: alopecia diagnosis
   Amiodarone_gtt_Rx:
     categories:
@@ -414,7 +414,7 @@ patient:
     - '1'
     type: string
     name_lookup:
-    - limit: 2
+    - limit: 1
       search_term: anakinra
   AndrostenedioneRx:
     categories:
@@ -438,7 +438,7 @@ patient:
     - '1'
     type: string
     name_lookup:
-    - limit: 35
+    - limit: 1
       search_term: anxiety diagnosis
   ArformoterolRx:
     categories:
@@ -462,7 +462,7 @@ patient:
     - '1'
     type: string
     name_lookup:
-    - limit: 75
+    - limit: 1
       search_term: asthma diagnosis
   AutismDx:
     categories:
@@ -473,7 +473,7 @@ patient:
     - '1'
     type: string
     name_lookup:
-    - limit: 5
+    - limit: 1
       search_term: autism diagnosis
   Avg24hAcetaldehydeExposure_2:
     categories:
@@ -482,7 +482,7 @@ patient:
     maximum: 5
     minimum: 1
     name_lookup:
-    - limit: 10
+    - limit: 1
       search_term: acetaldehyde exposure
     type: integer
   AvgDailyAcetaldehydeExposure_2:
@@ -492,7 +492,7 @@ patient:
     maximum: 5
     minimum: 1
     name_lookup:
-    - limit: 10
+    - limit: 1
       search_term: acetaldehyde exposure
     type: integer
   AvgDailyAcetaldehydeExposure_2_qcut:
@@ -502,7 +502,7 @@ patient:
     maximum: 5
     minimum: 1
     name_lookup:
-    - limit: 10
+    - limit: 1
       search_term: acetaldehyde exposure
     type: integer
   AvgDailyBenzeneExposure_2:
@@ -512,7 +512,7 @@ patient:
     maximum: 5
     minimum: 1
     name_lookup:
-    - limit: 10
+    - limit: 1
       search_term: benzene exposure
     type: integer
   AvgDailyBenzeneExposure_2_qcut:
@@ -522,7 +522,7 @@ patient:
     maximum: 5
     minimum: 1
     name_lookup:
-    - limit: 10
+    - limit: 1
       search_term: benzene exposure
     type: integer
   AvgDailyCOExposure_2:
@@ -532,7 +532,7 @@ patient:
     maximum: 5
     minimum: 1
     name_lookup:
-    - limit: 10
+    - limit: 1
       search_term: carbon monoxide exposure
     type: integer
   AvgDailyCOExposure_2_qcut:
@@ -542,7 +542,7 @@ patient:
     maximum: 5
     minimum: 1
     name_lookup:
-    - limit: 10
+    - limit: 1
       search_term: carbon monoxide exposure
     type: integer
   AvgDailyFormaldehydeExposure_2:
@@ -552,7 +552,7 @@ patient:
     maximum: 5
     minimum: 1
     name_lookup:
-    - limit: 10
+    - limit: 1
       search_term: formaldehyde exposure
     type: integer
   AvgDailyFormaldehydeExposure_2_qcut:
@@ -562,7 +562,7 @@ patient:
     maximum: 5
     minimum: 1
     name_lookup:
-    - limit: 10
+    - limit: 1
       search_term: formaldehyde exposure
     type: integer
   AvgDailyNO2Exposure_2:
@@ -572,7 +572,7 @@ patient:
     maximum: 5
     minimum: 1
     name_lookup:
-    - limit: 10
+    - limit: 1
       search_term: nitrogen dioxide exposure
     type: integer
   AvgDailyNO2Exposure_2_qcut:
@@ -582,7 +582,7 @@ patient:
     maximum: 5
     minimum: 1
     name_lookup:
-    - limit: 10
+    - limit: 1
       search_term: nitrogen dioxide exposure
     type: integer
   AvgDailyNOExposure_2:
@@ -592,7 +592,7 @@ patient:
     maximum: 5
     minimum: 1
     name_lookup:
-    - limit: 10
+    - limit: 1
       search_term: nitric oxide exposure
     type: integer
   AvgDailyNOExposure_2_qcut:
@@ -602,7 +602,7 @@ patient:
     maximum: 5
     minimum: 1
     name_lookup:
-    - limit: 10
+    - limit: 1
       search_term: nitric oxide exposure
     type: integer
   AvgDailyNOxExposure_2:
@@ -632,7 +632,7 @@ patient:
     maximum: 5
     minimum: 1
     name_lookup:
-    - limit: 10
+    - limit: 1
       search_term: ozone exposure
     type: integer
   AvgDailyOzoneExposure_StudyAvg:
@@ -652,7 +652,7 @@ patient:
     maximum: 5
     minimum: 1
     name_lookup:
-    - limit: 10
+    - limit: 1
       search_term: ozone exposure
     type: integer
   AvgDailyOzoneExposure_StudyMax:
@@ -662,7 +662,7 @@ patient:
     maximum: 5
     minimum: 1
     name_lookup:
-    - limit: 10
+    - limit: 1
       search_term: ozone exposure
     type: integer
   AvgDailyOzoneExposure_StudyMax_qcut:
@@ -672,7 +672,7 @@ patient:
     maximum: 5
     minimum: 1
     name_lookup:
-    - limit: 10
+    - limit: 1
       search_term: ozone exposure
     type: integer
   AvgDailyOzoneExposure_qcut:
@@ -682,7 +682,7 @@ patient:
     maximum: 5
     minimum: 1
     name_lookup:
-    - limit: 10
+    - limit: 1
       search_term: ozone exposure
     type: integer
   AvgDailyPM2.5Exposure:
@@ -692,7 +692,7 @@ patient:
     maximum: 5
     minimum: 1
     name_lookup:
-    - limit: 10
+    - limit: 1
       search_term: particulate matter
     type: integer
   AvgDailyPM2.5Exposure_2:
@@ -702,7 +702,7 @@ patient:
     maximum: 5
     minimum: 1
     name_lookup:
-    - limit: 10
+    - limit: 1
       search_term: particulate matter
     type: integer
   AvgDailyPM2.5Exposure_2_qcut:
@@ -712,7 +712,7 @@ patient:
     maximum: 5
     minimum: 1
     name_lookup:
-    - limit: 10
+    - limit: 1
       search_term: particulate matter
     type: integer
   AvgDailyPM2.5Exposure_StudyAvg:
@@ -722,7 +722,7 @@ patient:
     maximum: 5
     minimum: 1
     name_lookup:
-    - limit: 10
+    - limit: 1
       search_term: particulate matter
     type: integer
   AvgDailyPM2.5Exposure_StudyAvg_qcut:
@@ -732,7 +732,7 @@ patient:
     maximum: 5
     minimum: 1
     name_lookup:
-    - limit: 10
+    - limit: 1
       search_term: particulate matter
     type: integer
   AvgDailyPM2.5Exposure_StudyMax:
@@ -742,7 +742,7 @@ patient:
     maximum: 5
     minimum: 1
     name_lookup:
-    - limit: 10
+    - limit: 1
       search_term: particulate matter
     type: integer
   AvgDailyPM2.5Exposure_StudyMax_qcut:
@@ -752,7 +752,7 @@ patient:
     maximum: 5
     minimum: 1
     name_lookup:
-    - limit: 10
+    - limit: 1
       search_term: particulate matter
     type: integer
   AvgDailyPM2.5Exposure_qcut:
@@ -762,7 +762,7 @@ patient:
     maximum: 5
     minimum: 1
     name_lookup:
-    - limit: 10
+    - limit: 1
       search_term: particulate matter
     type: integer
   AvgDailySO2Exposure_2:
@@ -772,7 +772,7 @@ patient:
     maximum: 5
     minimum: 1
     name_lookup:
-    - limit: 10
+    - limit: 1
       search_term: sulfur dioxide exposure
     type: integer
   AvgDailySO2Exposure_2_qcut:
@@ -782,7 +782,7 @@ patient:
     maximum: 5
     minimum: 1
     name_lookup:
-    - limit: 10
+    - limit: 1
       search_term: sulfur dioxide exposure
     type: integer
   BMI_CATEGORY:
@@ -795,7 +795,7 @@ patient:
     - Under (<18.5)
     type: string
     name_lookup:
-    - limit: 8
+    - limit: 1
       search_term: body mass index
   BMI_Category_UNC:
     categories:
@@ -809,7 +809,7 @@ patient:
     - Other
     type: string
     name_lookup:
-    - limit: 8
+    - limit: 1
       search_term: body mass index
   BaseDeficit:
     categories:
@@ -865,7 +865,7 @@ patient:
     - O-
     type: string
     name_lookup:
-    - limit: 2
+    - limit: 1
       search_term: blood type
   BloodUreaNitrogen:
     categories:
@@ -1077,7 +1077,7 @@ patient:
     - '1'
     type: string
     name_lookup:
-    - limit: 2
+    - limit: 1
       search_term: cetirizine
   CharlsonComorbidityIndex:
     categories:
@@ -1097,7 +1097,7 @@ patient:
     - '1'
     type: string
     name_lookup:
-    - limit: 7
+    - limit: 1
       search_term: chronic kidney disease diagnosis
   ChronicNasalCongestionDx:
     categories:
@@ -1145,7 +1145,7 @@ patient:
     - '1'
     type: string
     name_lookup:
-    - limit: 3
+    - limit: 1
       search_term: citalopram
   CongestiveHeartFailureDx:
     categories:
@@ -1166,7 +1166,7 @@ patient:
     - '1'
     type: string
     name_lookup:
-    - limit: 2
+    - limit: 1
       search_term: convalescent plasma therapy
   CoronaryArteryDisease:
     categories:
@@ -1188,7 +1188,7 @@ patient:
     - '1'
     type: string
     name_lookup:
-    - limit: 10
+    - limit: 1
       search_term: cough diagnosis
   CroupDx:
     categories:
@@ -1259,7 +1259,7 @@ patient:
     - 51-69
     - 70-89
     name_lookup:
-    - limit: 2
+    - limit: 1
       search_term: age at onset
     type: string
   D28A_ASTHMA_AD_TEXT2:
@@ -1272,7 +1272,7 @@ patient:
     - 45-64
     - 65-89
     name_lookup:
-    - limit: 2
+    - limit: 1
       search_term: age at onset
     type: string
   D28B_STILL_HAVE_ASTHMA:
@@ -1282,7 +1282,7 @@ patient:
     - 'True'
     - 'False'
     name_lookup:
-    - limit: 75
+    - limit: 1
       search_term: asthma diagnosis
     type: string
   D28C_ASTHMA_EPISODE_12M:
@@ -1292,7 +1292,7 @@ patient:
     - 'True'
     - 'False'
     name_lookup:
-    - limit: 40
+    - limit: 1
       search_term: asthma exacerbation
     type: string
   D28D_ASTHMA_ER_VISIT_12M:
@@ -1302,7 +1302,7 @@ patient:
     - 'True'
     - 'False'
     name_lookup:
-    - limit: 40
+    - limit: 1
       search_term: asthma exacerbation
     type: string
   D28E_ASTHMA_MED_TAKE_12M:
@@ -1312,7 +1312,7 @@ patient:
     - 'True'
     - 'False'
     name_lookup:
-    - limit: 2
+    - limit: 1
       search_term: asthma treatment compliance
     type: string
   D28F_ASTHMA_14D_NUM_NIGHTS_TEXT:
@@ -1334,7 +1334,7 @@ patient:
     - 'True'
     - 'False'
     name_lookup:
-    - limit: 75
+    - limit: 1
       search_term: asthma diagnosis
     type: string
   DISTANCE:
@@ -1377,7 +1377,7 @@ patient:
     - '1'
     type: string
     name_lookup:
-    - limit: 75
+    - limit: 1
       search_term: depression diagnosis
   DiabetesDx:
     categories:
@@ -1388,7 +1388,7 @@ patient:
     - '1'
     type: string
     name_lookup:
-    - limit: 75
+    - limit: 1
       search_term: diabetes diagnosis
   DiphenhydramineRx:
     categories:
@@ -1447,7 +1447,7 @@ patient:
     - '1'
     type: string
     name_lookup:
-    - limit: 17
+    - limit: 1
       search_term: drug dependence diagnosis
   DuloxetineRx:
     categories:
@@ -1504,7 +1504,7 @@ patient:
     maximum: 4
     minimum: 1
     name_lookup:
-    - limit: 2
+    - limit: 1
       search_term: number in household
     type: integer
   ESTPROPPERSONS5PLUSNOENGLISH_cut:
@@ -1531,7 +1531,7 @@ patient:
     maximum: 4
     minimum: 1
     name_lookup:
-    - limit: 2
+    - limit: 1
       search_term: health insurance
     type: integer
   ESTPROPPERSONSNOHEALTHINS_qcut:
@@ -1540,7 +1540,7 @@ patient:
     maximum: 4
     minimum: 1
     name_lookup:
-    - limit: 2
+    - limit: 1
       search_term: health insurance
     type: integer
   ESTPROPPERSONSNONHISPWHITE_cut:
@@ -1595,7 +1595,7 @@ patient:
     - Unknown/NR
     - Hispanic Latino
     name_lookup:
-    - limit: 3
+    - limit: 1
       search_term: ethnic group
     type: string
   EndometriosisDx:
@@ -1607,7 +1607,7 @@ patient:
     - '1'
     type: string
     name_lookup:
-    - limit: 25
+    - limit: 1
       search_term: endometriosis diagnosis
   Epinephrine_gtt_Rx:
     categories:
@@ -1705,7 +1705,7 @@ patient:
     maximum: 4
     minimum: 1
     name_lookup:
-    - limit: 2
+    - limit: 1
       search_term: education
     type: integer
   EstProbabilityHouseholdNonHispWhite:
@@ -1732,7 +1732,7 @@ patient:
     maximum: 4
     minimum: 1
     name_lookup:
-    - limit: 2
+    - limit: 1
       search_term: health insurance
     type: integer
   EstProbabilityNonHispWhite:
@@ -1786,7 +1786,7 @@ patient:
     - '1'
     type: string
     name_lookup:
-    - limit: 2
+    - limit: 1
       search_term: estrogen
   EstropipateRx:
     categories:
@@ -1810,7 +1810,7 @@ patient:
     - Hispanic
     type: string
     name_lookup:
-    - limit: 3
+    - limit: 1
       search_term: ethnic group
   #ExtracorporealVentilationORSystemicAssistance:
   #  categories:
@@ -1862,7 +1862,7 @@ patient:
     - '1'
     type: string
     name_lookup:
-    - limit: 4
+    - limit: 1
       search_term: fever
   FexofenadineRx:
     categories:
@@ -1875,7 +1875,7 @@ patient:
     - '1'
     type: string
     name_lookup:
-    - limit: 2
+    - limit: 1
       search_term: fexofenadine
   FibromyalgiaDx:
     categories:
@@ -1899,7 +1899,7 @@ patient:
     - '1'
     type: string
     name_lookup:
-    - limit: 2
+    - limit: 1
       search_term: flunisolide
   FluoxetineRx:
     categories:
@@ -1938,7 +1938,7 @@ patient:
     - '1'
     type: string
     name_lookup:
-    - limit: 2
+    - limit: 1
       search_term: formoterol
   FEV1:
     categories:
@@ -2077,7 +2077,7 @@ patient:
     - '1'
     type: string
     name_lookup:
-    - limit: 11
+    - limit: 1
       search_term: congestive heart failure diagnosis
   Hemoglobin:
     categories:
@@ -2234,7 +2234,7 @@ patient:
     - '1'
     type: string
     name_lookup:
-    - limit: 1 
+    - limit: 1
       search_term: indacaterol
   Influenza7pointClinicalStatusScore:
     categories:
@@ -2256,7 +2256,7 @@ patient:
     - '1'
     type: string
     name_lookup:
-    - limit: 1 
+    - limit: 1
       search_term: intravenous immunoglobulin
   InvasiveVentilation:
     categories:
@@ -2412,7 +2412,7 @@ patient:
     - '1'
     type: string
     name_lookup:
-    - limit: 2
+    - limit: 1
       search_term: liver disease diagnosis
   MEDIANHOUSEHOLDINCOME_cut:
     categories:
@@ -2459,7 +2459,7 @@ patient:
     maximum: 5
     minimum: 1
     name_lookup:
-    - limit: 10
+    - limit: 1
       search_term: ozone exposure
     type: integer
   MaxDailyOzoneExposure_2:
@@ -2469,7 +2469,7 @@ patient:
     maximum: 5
     minimum: 1
     name_lookup:
-    - limit: 10
+    - limit: 1
       search_term: ozone exposure
     type: integer
   MaxDailyOzoneExposure_2_qcut:
@@ -2479,7 +2479,7 @@ patient:
     maximum: 5
     minimum: 1
     name_lookup:
-    - limit: 10
+    - limit: 1
       search_term: ozone exposure
     type: integer
   MaxDailyOzoneExposure_StudyAvg:
@@ -2489,7 +2489,7 @@ patient:
     maximum: 5
     minimum: 1
     name_lookup:
-    - limit: 10
+    - limit: 1
       search_term: ozone exposure
     type: integer
   MaxDailyOzoneExposure_StudyAvg_qcut:
@@ -2499,7 +2499,7 @@ patient:
     maximum: 5
     minimum: 1
     name_lookup:
-    - limit: 10
+    - limit: 1
       search_term: ozone exposure
     type: integer
   MaxDailyOzoneExposure_StudyMax:
@@ -2509,7 +2509,7 @@ patient:
     maximum: 5
     minimum: 1
     name_lookup:
-    - limit: 10
+    - limit: 1
       search_term: ozone exposure
     type: integer
   MaxDailyOzoneExposure_StudyMax_qcut:
@@ -2519,7 +2519,7 @@ patient:
     maximum: 5
     minimum: 1
     name_lookup:
-    - limit: 10
+    - limit: 1
       search_term: ozone exposure
     type: integer
   MaxDailyOzoneExposure_qcut:
@@ -2529,7 +2529,7 @@ patient:
     maximum: 5
     minimum: 1
     name_lookup:
-    - limit: 10
+    - limit: 1
       search_term: ozone exposure
     type: integer
   MaxDailyPM2.5Exposure:
@@ -2539,7 +2539,7 @@ patient:
     maximum: 5
     minimum: 1
     name_lookup:
-    - limit: 10
+    - limit: 1
       search_term: particulate matter
     type: integer
   MaxDailyPM2.5Exposure_StudyAvg:
@@ -2549,7 +2549,7 @@ patient:
     maximum: 5
     minimum: 1
     name_lookup:
-    - limit: 10
+    - limit: 1
       search_term: particulate matter
     type: integer
   MaxDailyPM2.5Exposure_StudyAvg_qcut:
@@ -2559,7 +2559,7 @@ patient:
     maximum: 5
     minimum: 1
     name_lookup:
-    - limit: 10
+    - limit: 1
       search_term: particulate matter
     type: integer
   MaxDailyPM2.5Exposure_StudyMax:
@@ -2569,7 +2569,7 @@ patient:
     maximum: 5
     minimum: 1
     name_lookup:
-    - limit: 10
+    - limit: 1
       search_term: particulate matter
     type: integer
   MaxDailyPM2.5Exposure_StudyMax_qcut:
@@ -2579,7 +2579,7 @@ patient:
     maximum: 5
     minimum: 1
     name_lookup:
-    - limit: 10
+    - limit: 1
       search_term: particulate matter
     type: integer
   MaxDailyPM2.5Exposure_qcut:
@@ -2589,7 +2589,7 @@ patient:
     maximum: 5
     minimum: 1
     name_lookup:
-    - limit: 10
+    - limit: 1
       search_term: particulate matter
     type: integer
   MedroxyprogesteroneRx:
@@ -2613,7 +2613,7 @@ patient:
     - '1'
     type: string
     name_lookup:
-    - limit: 3
+    - limit: 1
       search_term: menopause
   MepolizumabRx:
     categories:
@@ -2639,7 +2639,7 @@ patient:
     - '1'
     type: string
     name_lookup:
-    - limit: 2
+    - limit: 1
       search_term: metaproterenol
   MetforminRx:
     categories:
@@ -2747,7 +2747,7 @@ patient:
     maximum: 5
     minimum: 1
     name_lookup:
-    - limit: 10
+    - limit: 1
       search_term: ozone exposure
     type: integer
   O3_ANNUAL_AVERAGE_qcut:
@@ -2757,7 +2757,7 @@ patient:
     maximum: 5
     minimum: 1
     name_lookup:
-    - limit: 10
+    - limit: 1
       search_term: ozone exposure
     type: integer
   O3_N_OBS:
@@ -2781,7 +2781,7 @@ patient:
     - '1'
     type: string
     name_lookup:
-    - limit: 2
+    - limit: 1
       search_term: obesity BMI
   ObesityDx:
     categories:
@@ -2792,7 +2792,7 @@ patient:
     - '1'
     type: string
     name_lookup:
-    - limit: 6
+    - limit: 1
       search_term: obesity diagnosis
   OmalizumabRx:
     categories:
@@ -2825,7 +2825,7 @@ patient:
     maximum: 5
     minimum: 1
     name_lookup:
-    - limit: 10
+    - limit: 1
       search_term: particulate matter
     type: integer
   PM25_ANNUAL_AVERAGE_qcut:
@@ -2835,7 +2835,7 @@ patient:
     maximum: 5
     minimum: 1
     name_lookup:
-    - limit: 10
+    - limit: 1
       search_term: particulate matter
     type: integer
   PM25_N_OBS:
@@ -3006,7 +3006,7 @@ patient:
     - '1'
     type: string
     name_lookup:
-    - limit: 2
+    - limit: 1
       search_term: propranolol
   PulseOximetry:
     categories:
@@ -3075,7 +3075,7 @@ patient:
     - NHOPI
     type: string
     name_lookup:
-    - limit: 4
+    - limit: 1
       search_term: racial group
   RESPONDER_STATUS:
     categories:
@@ -3104,7 +3104,7 @@ patient:
     - Other
     type: string
     name_lookup:
-    - limit: 4
+    - limit: 1
       search_term: racial group
   ReactiveAirwayDx:
     categories:
@@ -3196,7 +3196,7 @@ patient:
     - 'True'
     - 'False'
     name_lookup:
-    - limit: 2
+    - limit: 1
       search_term: smoker
     type: string
   SMOKE_CAT:
@@ -3207,7 +3207,7 @@ patient:
     - Never
     - Ever
     name_lookup:
-    - limit: 2
+    - limit: 1
       search_term: smoker
     type: string
   SNP1:
@@ -3253,7 +3253,7 @@ patient:
     - '1'
     type: string
     name_lookup:
-    - limit: 2
+    - limit: 1
       search_term: salmeterol
   SertralineRx:
     categories:
@@ -3374,7 +3374,7 @@ patient:
     - high
     type: string
     name_lookup:
-    - limit: 1    
+    - limit: 1
       search_term: abnormal serum glucose
   SerumPotassium:
     categories:
@@ -3611,7 +3611,7 @@ patient:
     - '1'
     type: string
     name_lookup:
-    - limit: 2
+    - limit: 1
       search_term: testicular dysfunction
   TestosteroneRx:
     categories:
@@ -3637,7 +3637,7 @@ patient:
     - '1'
     type: string
     name_lookup:
-    - limit: 2
+    - limit: 1
       search_term: theophylline
   TotalEDInpatientVisits:
     categories:
@@ -3655,7 +3655,7 @@ patient:
     - 9
     - '>9'
     name_lookup:
-    - limit: 4
+    - limit: 1
       search_term: hospitalization
     type: integer
   TotalEDVisits:
@@ -3674,7 +3674,7 @@ patient:
     - 9
     - '>9'
     name_lookup:
-    - limit: 4
+    - limit: 1
       search_term: hospitalization
     type: integer
   TotalInpatientVisits:
@@ -3693,7 +3693,7 @@ patient:
     - 9
     - '>9'
     name_lookup:
-    - limit: 4
+    - limit: 1
       search_term: hospitalization
     type: integer
   TrazodoneRx:
@@ -4033,7 +4033,7 @@ patient:
     - L
     type: string
     name_lookup:
-    - limit: 1  
+    - limit: 1
       search_term: abnormal pH
   pO2Arterial:
     categories:

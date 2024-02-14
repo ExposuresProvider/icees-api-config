@@ -68,7 +68,7 @@ patient:
     - '0'
     - '1'
     name_lookup:
-    - limit: 4
+    - limit: 1
       search_term: antinuclear antibody
     type: string
   ASMA:
@@ -132,7 +132,7 @@ patient:
     - '0'
     - '1'
     name_lookup:
-    - limit: 3
+    - limit: 1
       search_term: abdominal pain
     type: string
   AgeQualifyingLab:
@@ -152,7 +152,7 @@ patient:
     - '0'
     - '1'
     name_lookup:
-    - limit: 2
+    - limit: 1
       search_term: alcoholic liver disease
     type: string
   AlcoholUse:
@@ -213,7 +213,7 @@ patient:
     - '0'
     - '1'
     name_lookup:
-    - limit: 4
+    - limit: 1
       search_term: hepatitis A virus antibody
     type: string
   Anti_HBc:
@@ -223,7 +223,7 @@ patient:
     - '0'
     - '1'
     name_lookup:
-    - limit: 4
+    - limit: 1
       search_term: hepatitis B virus antibody
     type: string
   Anti_HBc_IgM:
@@ -243,7 +243,7 @@ patient:
     - '0'
     - '1'
     name_lookup:
-    - limit: 4
+    - limit: 1
       search_term: hepatitis B virus antibody
     type: string
   Anti_HBs:
@@ -253,7 +253,7 @@ patient:
     - '0'
     - '1'
     name_lookup:
-    - limit: 4
+    - limit: 1
       search_term: hepatitis B virus antibody
     type: string
   Anti_HCV:
@@ -263,7 +263,7 @@ patient:
     - '0'
     - '1'
     name_lookup:
-    - limit: 4
+    - limit: 1
       search_term: hepatitis C virus antibody
     type: string
   AugmentinDILIDx:
@@ -274,7 +274,7 @@ patient:
     - '0'
     - '1'
     name_lookup:
-    - limit: 2
+    - limit: 1
       search_term: drug induced liver injury
     type: string
   AugmentinRx:
@@ -306,7 +306,7 @@ patient:
     - biolink:PhenotypicFeature
     enum:
     name_lookup:
-    - limit: 8
+    - limit: 1
       search_term: body mass index
     type: number
   Bilirubin_DILIOnset:
@@ -408,7 +408,7 @@ patient:
     - '0'
     - '1'
     name_lookup:
-    - limit: 2
+    - limit: 1
       search_term: congestive heart failure
     type: string
   DILIDx:
@@ -419,7 +419,7 @@ patient:
     - '0'
     - '1'
     name_lookup:
-    - limit: 2
+    - limit: 1
       search_term: drug induced liver injury
     type: string
   DILIN_SeverityScore:
@@ -540,7 +540,7 @@ patient:
     - '0'
     - '1'
     name_lookup:
-    - limit: 3
+    - limit: 1
       search_term: drug allergy
     type: string
   EosinophilCount:
@@ -554,7 +554,7 @@ patient:
     - '0'
     - '1'
     name_lookup:
-    - limit: 5
+    - limit: 1
       search_term: eosinophilia
     type: string
   EthnicityDILI:
@@ -564,7 +564,7 @@ patient:
     - '0'
     - '1'
     name_lookup:
-    - limit: 4
+    - limit: 1
       search_term: racial group
     type: string
   FamilyHistoryLiverDisease:
@@ -584,7 +584,7 @@ patient:
     - '0'
     - '1'
     name_lookup:
-    - limit: 4
+    - limit: 1
       search_term: fever
     type: string
   FinalCausalityScore:
@@ -605,7 +605,7 @@ patient:
     - '0'
     - '1'
     name_lookup:
-    - limit: 3
+    - limit: 1
       search_term: gastrointestinal disease
     type: string
   GilbertsSyndromeDx:
@@ -636,7 +636,7 @@ patient:
     - '0'
     - '1'
     name_lookup:
-    - limit:
+    - limit: 1
       search_term:
     type: string
   HBsAg:
@@ -646,7 +646,7 @@ patient:
     - '0'
     - '1'
     name_lookup:
-    - limit:
+    - limit: 1
       search_term:
     type: string
   HCV_Positive:
@@ -666,7 +666,7 @@ patient:
     - '0'
     - '1'
     name_lookup:
-    - limit: 3
+    - limit: 1
       search_term: Hepatitis C RNA
     type: string
   HIV_Positive:
@@ -855,7 +855,7 @@ patient:
     - '0'
     - '1'
     name_lookup:
-    - limit: 2
+    - limit: 1
       search_term: liver biopsy
     type: string
   LiverRelatedDeath:
@@ -865,7 +865,7 @@ patient:
     - '0'
     - '1'
     name_lookup:
-    - limit: 2
+    - limit: 1
       search_term: cause of death
     type: string
   LiverTransplant:
@@ -897,7 +897,7 @@ patient:
     - '0'
     - '1'
     name_lookup:
-    - limit: 2
+    - limit: 1
       search_term: non alcoholic fatty liver disease
     type: string
   Nausea:
@@ -907,7 +907,7 @@ patient:
     - '0'
     - '1'
     name_lookup:
-    - limit: 3
+    - limit: 1
       search_term: nausea
     type: string
   NeurologicalDiseaseDx:
@@ -928,7 +928,7 @@ patient:
     - '0'
     - '1'
     name_lookup:
-    - limit: 3
+    - limit: 1
       search_term: neutropenia
     type: string
   PCA_Race:
@@ -941,7 +941,7 @@ patient:
     - Hispanic
     - Other/Multiracial
     name_lookup:
-    - limit: 4
+    - limit: 1
       search_term: racial group
     type: string
   PatternLiverInjury_Onset:
@@ -952,9 +952,9 @@ patient:
     - Hepatocellular
     - Mixed
     name_lookup:
-    - limit: 2
+    - limit: 1
       search_term: cholestatic liver
-    - limit: 2
+    - limit: 1
       search_term: hepatocellular liver
     type: string
   PrednisoneOrCorticosteroids_Rx:
@@ -991,7 +991,7 @@ patient:
     - '0'
     - '1'
     name_lookup:
-    - limit: 3
+    - limit: 1
       search_term: primary sclerosing cholangitis
     type: string
   PulmonaryDiseaseDx:
@@ -1018,7 +1018,7 @@ patient:
     - Asian
     - Other/Multiracial
     name_lookup:
-    - limit: 4
+    - limit: 1
       search_term: racial group
     type: string
   Rash:
@@ -1039,7 +1039,7 @@ patient:
     - '0'
     - '1'
     name_lookup:
-    - limit: 2
+    - limit: 1
       search_term: renal disease
     type: string
   Serum_IgA:
@@ -1049,7 +1049,7 @@ patient:
     - '0'
     - '1'
     name_lookup:
-    - limit: 3
+    - limit: 1
       search_term: serum immunoglobulin A
     type: string
   Serum_IgG:
@@ -1059,7 +1059,7 @@ patient:
     - '0'
     - '1'
     name_lookup:
-    - limit: 3
+    - limit: 1
       search_term: serum immunoglobulin G
     type: string
   Serum_IgM:
@@ -1069,7 +1069,7 @@ patient:
     - '0'
     - '1'
     name_lookup:
-    - limit: 3
+    - limit: 1
       search_term: serum immunoglobulin M
     type: string
   SexDILI:
@@ -1090,7 +1090,7 @@ patient:
     - '0'
     - '1'
     name_lookup:
-    - limit: 2
+    - limit: 1
       search_term: stevens johnson syndrome
     type: string
   Thrombocytopenia:
@@ -1110,7 +1110,7 @@ patient:
     - '0'
     - '1'
     name_lookup:
-    - limit: 2
+    - limit: 1
       search_term: abnormal liver test
     type: string
   WHONAME_Implicated_Drug1:
@@ -1211,7 +1211,7 @@ patient:
     - '1'
     - '2'
     name_lookup:
-    - limit: 4
+    - limit: 1
       search_term: ERAP
     type: string
   rs2476601_a:
