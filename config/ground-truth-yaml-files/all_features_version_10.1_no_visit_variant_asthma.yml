@@ -48,7 +48,7 @@ patient:
     - '1'
     name_lookup:
     - limit: 1
-      search_term: albuterol
+      search_term: salbutamol
     type: string
   AlcoholDependenceDx:
     categories:
@@ -349,7 +349,7 @@ patient:
     minimum: 1
     name_lookup:
     - limit: 1
-      search_term: particulate matter
+      search_term: airborne particulate matter
     type: integer
   AvgDailyPM2.5Exposure_2:
     categories:
@@ -359,7 +359,7 @@ patient:
     minimum: 1
     name_lookup:
     - limit: 1
-      search_term: particulate matter
+      search_term: airborne particulate matter
     type: integer
   AvgDailyPM2.5Exposure_2_qcut:
     categories:
@@ -369,7 +369,7 @@ patient:
     minimum: 1
     name_lookup:
     - limit: 1
-      search_term: particulate matter
+      search_term: airborne particulate matter
     type: integer
   AvgDailyPM2.5Exposure_StudyAvg:
     categories:
@@ -379,7 +379,7 @@ patient:
     minimum: 1
     name_lookup:
     - limit: 1
-      search_term: particulate matter
+      search_term: airborne particulate matter
     type: integer
   AvgDailyPM2.5Exposure_StudyAvg_qcut:
     categories:
@@ -389,7 +389,7 @@ patient:
     minimum: 1
     name_lookup:
     - limit: 1
-      search_term: particulate matter
+      search_term: airborne particulate matter
     type: integer
   AvgDailyPM2.5Exposure_StudyMax:
     categories:
@@ -399,7 +399,7 @@ patient:
     minimum: 1
     name_lookup:
     - limit: 1
-      search_term: particulate matter
+      search_term: airborne particulate matter
     type: integer
   AvgDailyPM2.5Exposure_StudyMax_qcut:
     categories:
@@ -409,7 +409,7 @@ patient:
     minimum: 1
     name_lookup:
     - limit: 1
-      search_term: particulate matter
+      search_term: airborne particulate matter
     type: integer
   AvgDailyPM2.5Exposure_qcut:
     categories:
@@ -419,7 +419,7 @@ patient:
     minimum: 1
     name_lookup:
     - limit: 1
-      search_term: particulate matter
+      search_term: airborne particulate matter
     type: integer
   AvgDailySO2Exposure_2:
     categories:
@@ -429,7 +429,7 @@ patient:
     minimum: 1
     name_lookup:
     - limit: 1
-      search_term: sulfur dioxide exposure
+      search_term: sulfur dioxidee
     type: integer
   AvgDailySO2Exposure_2_qcut:
     categories:
@@ -439,7 +439,7 @@ patient:
     minimum: 1
     name_lookup:
     - limit: 1
-      search_term: sulfur dioxide exposure
+      search_term: sulfur dioxide
     type: integer
   BMI_CATEGORY:
     categories:
@@ -685,7 +685,7 @@ patient:
     minimum: 1
     name_lookup:
     - limit: 1
-      search_term: roadway exposure
+      search_term: freeway or roadway exposure
     type: integer
   DISTANCE2:
     categories:
@@ -695,7 +695,7 @@ patient:
     minimum: 1
     name_lookup:
     - limit: 1
-      search_term: roadway exposure
+      search_term: freeway or roadway exposure
     type: integer
   DepressionDx:
     categories:
@@ -1161,7 +1161,7 @@ patient:
     - Male
     name_lookup:
     - limit: 1
-      search_term: biological sex
+      search_term: sex
     type: string
   GoserelinRx:
     categories:
@@ -1309,7 +1309,7 @@ patient:
     minimum: 1
     name_lookup:
     - limit: 1
-      search_term: roadway exposure
+      search_term: freeway or roadway exposure
     type: integer
   MajorRoadwayHighwayExposure2:
     categories:
@@ -1319,7 +1319,7 @@ patient:
     minimum: 1
     name_lookup:
     - limit: 1
-      search_term: roadway exposure
+      search_term: freeway or roadway exposure
     type: integer
   MaxDailyOzoneExposure:
     categories:
@@ -1329,7 +1329,7 @@ patient:
     minimum: 1
     name_lookup:
     - limit: 1
-      search_term: ozone exposure
+      search_term: ozone
     type: integer
   MaxDailyOzoneExposure_2:
     categories:
@@ -1339,7 +1339,7 @@ patient:
     minimum: 1
     name_lookup:
     - limit: 1
-      search_term: ozone exposure
+      search_term: ozone
     type: integer
   MaxDailyOzoneExposure_2_qcut:
     categories:
@@ -1349,7 +1349,7 @@ patient:
     minimum: 1
     name_lookup:
     - limit: 1
-      search_term: ozone exposure
+      search_term: ozone
     type: integer
   MaxDailyOzoneExposure_StudyAvg:
     categories:
@@ -1359,7 +1359,7 @@ patient:
     minimum: 1
     name_lookup:
     - limit: 1
-      search_term: ozone exposure
+      search_term: ozone
     type: integer
   MaxDailyOzoneExposure_StudyAvg_qcut:
     categories:
@@ -1369,7 +1369,7 @@ patient:
     minimum: 1
     name_lookup:
     - limit: 1
-      search_term: ozone exposure
+      search_term: ozone
     type: integer
   MaxDailyOzoneExposure_StudyMax:
     categories:
@@ -1379,7 +1379,7 @@ patient:
     minimum: 1
     name_lookup:
     - limit: 1
-      search_term: ozone exposure
+      search_term: ozone
     type: integer
   MaxDailyOzoneExposure_StudyMax_qcut:
     categories:
@@ -1389,7 +1389,7 @@ patient:
     minimum: 1
     name_lookup:
     - limit: 1
-      search_term: ozone exposure
+      search_term: ozone
     type: integer
   MaxDailyOzoneExposure_qcut:
     categories:
@@ -1399,7 +1399,7 @@ patient:
     minimum: 1
     name_lookup:
     - limit: 1
-      search_term: ozone exposure
+      search_term: ozone
     type: integer
   MaxDailyPM2.5Exposure:
     categories:
@@ -1409,7 +1409,7 @@ patient:
     minimum: 1
     name_lookup:
     - limit: 1
-      search_term: particulate matter
+      search_term: airborne particulate matter
     type: integer
   MaxDailyPM2.5Exposure_StudyAvg:
     categories:
@@ -1419,7 +1419,7 @@ patient:
     minimum: 1
     name_lookup:
     - limit: 1
-      search_term: particulate matter
+      search_term: airborne particulate matter
     type: integer
   MaxDailyPM2.5Exposure_StudyAvg_qcut:
     categories:
@@ -1429,7 +1429,7 @@ patient:
     minimum: 1
     name_lookup:
     - limit: 1
-      search_term: particulate matter
+      search_term: airborne particulate matter
     type: integer
   MaxDailyPM2.5Exposure_StudyMax:
     categories:
@@ -1439,7 +1439,7 @@ patient:
     minimum: 1
     name_lookup:
     - limit: 1
-      search_term: particulate matter
+      search_term: airborne particulate matter
     type: integer
   MaxDailyPM2.5Exposure_StudyMax_qcut:
     categories:
@@ -1449,7 +1449,7 @@ patient:
     minimum: 1
     name_lookup:
     - limit: 1
-      search_term: particulate matter
+      search_term: airborne particulate matter
     type: integer
   MaxDailyPM2.5Exposure_qcut:
     categories:
@@ -1459,7 +1459,7 @@ patient:
     minimum: 1
     name_lookup:
     - limit: 1
-      search_term: particulate matter
+      search_term: airborne particulate matter
     type: integer
   MedroxyprogesteroneRx:
     categories:
@@ -1557,7 +1557,7 @@ patient:
     minimum: 1
     name_lookup:
     - limit: 1
-      search_term: ozone exposure
+      search_term: ozone
     type: integer
   O3_ANNUAL_AVERAGE_qcut:
     categories:
@@ -1567,7 +1567,7 @@ patient:
     minimum: 1
     name_lookup:
     - limit: 1
-      search_term: ozone exposure
+      search_term: ozone
     type: integer
   O3_N_OBS:
     categories:
@@ -1646,7 +1646,7 @@ patient:
     minimum: 1
     name_lookup:
     - limit: 1
-      search_term: particulate matter
+      search_term: airborne particulate matter
     type: integer
   PM25_ANNUAL_AVERAGE_qcut:
     categories:
@@ -1656,7 +1656,7 @@ patient:
     minimum: 1
     name_lookup:
     - limit: 1
-      search_term: particulate matter
+      search_term: airborne particulate matter
     type: integer
   PM25_N_OBS:
     categories:
@@ -1860,7 +1860,7 @@ patient:
     minimum: 1
     name_lookup:
     - limit: 1
-      search_term: roadway exposure
+      search_term: freeway or roadway exposure
     type: integer
   RoadwayDistanceExposure2:
     categories:
@@ -1870,7 +1870,7 @@ patient:
     minimum: 1
     name_lookup:
     - limit: 1
-      search_term: roadway exposure
+      search_term: freeway or roadway exposure
     type: integer
   RoadwayLanes:
     categories:
@@ -1990,7 +1990,7 @@ patient:
     - Other
     name_lookup:
     - limit: 1
-      search_term: biological sex
+      search_term: sex
     type: string
   Sex2:
     categories:
@@ -2000,7 +2000,7 @@ patient:
     - Female
     name_lookup:
     - limit: 1
-      search_term: biological sex
+      search_term: sex
     type: string
   THROUGH_LANES:
     categories:
@@ -2043,7 +2043,7 @@ patient:
     minimum: 1
     name_lookup:
     - limit: 1
-      search_term: roadway exposure
+      search_term: freeway or roadway exposure
     type: integer
   TLR4_DIST_1X_qcut:
     categories:
@@ -2053,7 +2053,7 @@ patient:
     minimum: 1
     name_lookup:
     - limit: 1
-      search_term: roadway exposures
+      search_term: freeway or roadway exposures
     type: integer
   TLR4_DIST_2X_cut:
     categories:
@@ -2063,7 +2063,7 @@ patient:
     minimum: 1
     name_lookup:
     - limit: 1
-      search_term: roadway exposure
+      search_term: freeway or roadway exposure
     type: integer
   TLR4_DIST_2X_qcut:
     categories:
@@ -2073,7 +2073,7 @@ patient:
     minimum: 1
     name_lookup:
     - limit: 1
-      search_term: roadway exposure
+      search_term: freeway or roadway exposure
     type: integer
   TLR4_DIST_3X_cut:
     categories:
@@ -2083,7 +2083,7 @@ patient:
     minimum: 1
     name_lookup:
     - limit: 1
-      search_term: roadway exposure
+      search_term: freeway or roadway exposure
     type: integer
   TLR4_DIST_3X_qcut:
     categories:
@@ -2093,7 +2093,7 @@ patient:
     minimum: 1
     name_lookup:
     - limit: 1
-      search_term: roadway exposure
+      search_term: freeway or roadway exposure
     type: integer
   TamoxifenRx:
     categories:
