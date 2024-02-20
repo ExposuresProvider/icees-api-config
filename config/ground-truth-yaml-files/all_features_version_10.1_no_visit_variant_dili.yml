@@ -1080,7 +1080,7 @@ patient:
     - Female
     name_lookup:
     - limit: 1
-      search_term: biological sex
+      search_term: sex
     type: string
   StevensJohnsonSyndromeDx:
     categories:
