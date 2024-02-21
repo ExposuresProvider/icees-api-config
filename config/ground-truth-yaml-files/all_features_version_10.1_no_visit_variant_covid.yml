@@ -45,27 +45,27 @@ patient:
     name_lookup:
     - limit: 1
       search_term: testicular cancer diagnosis 
-  THROUGH_LANES:
-    categories:
-    - biolink:ComplexChemicalMixture
-    - biolink:EnvironmentalExposure
-    enum:
-    type: integer  
-  SPEED:
-    categories:
-    - biolink:ComplexChemicalMixture
-    - biolink:EnvironmentalExposure
-    enum:
-    type: integer 
-  ROADTYPE:
-    categories:
-    - biolink:EnvironmentalExposure
-    enum:
-    - Rural Restricted Access
-    - Rural Unrestricted Access
-    - Urban Restricted Access
-    - Urban Unrestricted Access
-    type: string   
+#  THROUGH_LANES:
+#   categories:
+#    - biolink:ComplexChemicalMixture
+#    - biolink:EnvironmentalExposure
+#    enum:
+#    type: integer  
+#  SPEED:
+#    categories:
+#    - biolink:ComplexChemicalMixture
+#    - biolink:EnvironmentalExposure
+#    enum:
+#    type: integer 
+#  ROADTYPE:
+#    categories:
+#    - biolink:EnvironmentalExposure
+#    enum:
+#    - Rural Restricted Access
+#    - Rural Unrestricted Access
+#    - Urban Restricted Access
+#    - Urban Unrestricted Access
+#    type: string   
   A1C:
     categories:
     - biolink:PhenotypicFeature
@@ -785,18 +785,18 @@ patient:
     - limit: 1
       search_term: sulfur dioxide
     type: integer
-  BMI_CATEGORY:
-    categories:
-    - biolink:PhenotypicFeature
-    enum:
-    - Normal (18.5 to <25)
-    - Over (25 to <30)
-    - Obese (30+)
-    - Under (<18.5)
-    type: string
-    name_lookup:
-    - limit: 1
-      search_term: # body mass index
+#  BMI_CATEGORY:
+#    categories:
+#    - biolink:PhenotypicFeature
+#    enum:
+#    - Normal (18.5 to <25)
+#    - Over (25 to <30)
+#    - Obese (30+)
+#    - Under (<18.5)
+#    type: string
+#    name_lookup:
+#    - limit: 1
+#      search_term: # body mass index
   BMI_Category_UNC:
     categories:
     - biolink:PhenotypicFeature
@@ -1028,33 +1028,33 @@ patient:
     name_lookup:
     - limit: 1
       search_term: renal dialysis
-  CURRENT_AGE:
-    categories:
-    - biolink:PhenotypicFeature
-    enum:
-    - 0-2
-    - 3-17
-    - 18-34
-    - 35-50
-    - 51-69
-    - 70-89
-    type: string
-    name_lookup:
-    - limit: 1
-      search_term: # chronological age
-  CURRENT_AGE2:
-    categories:
-    - biolink:PhenotypicFeature
-    enum:
-    - <5
-    - 5-17
-    - 18-44
-    - 45-64
-    - 65-89
-    type: string
-    name_lookup:
-    - limit: 1
-      search_term: # chronological age
+#  CURRENT_AGE:
+#    categories:
+#    - biolink:PhenotypicFeature
+#    enum:
+#    - 0-2
+#    - 3-17
+#    - 18-34
+#    - 35-50
+#    - 51-69
+#    - 70-89
+#    type: string
+#    name_lookup:
+#    - limit: 1
+#      search_term: # chronological age
+#  CURRENT_AGE2:
+#    categories:
+#    - biolink:PhenotypicFeature
+#    enum:
+#    - <5
+#    - 5-17
+#    - 18-44
+#    - 45-64
+#    - 65-89
+#    type: string
+#    name_lookup:
+#    - limit: 1
+#      search_term: # chronological age
   CancerDx:
     categories:
     - biolink:Disease
@@ -1262,101 +1262,101 @@ patient:
     - limit: 1
       search_term: # age at onset
     type: string
-  D28A_ASTHMA_AD_TEXT2:
-    categories:
-    - biolink:PhenotypicFeature
-    enum:
-    - <5
-    - 5-17
-    - 18-44
-    - 45-64
-    - 65-89
-    name_lookup:
-    - limit: 1
-      search_term: # age at onset
-    type: string
-  D28B_STILL_HAVE_ASTHMA:
-    categories:
-    - biolink:PhenotypicFeature
-    enum:
-    - 'True'
-    - 'False'
-    name_lookup:
-    - limit: 1
-      search_term: # asthma diagnosis
-    type: string
-  D28C_ASTHMA_EPISODE_12M:
-    categories:
-    - biolink:PhenotypicFeature
-    enum:
-    - 'True'
-    - 'False'
-    name_lookup:
-    - limit: 1
-      search_term: # asthma exacerbation
-    type: string
-  D28D_ASTHMA_ER_VISIT_12M:
-    categories:
-    - biolink:PhenotypicFeature
-    enum:
-    - 'True'
-    - 'False'
-    name_lookup:
-    - limit: 1
-      search_term: # asthma exacerbation
-    type: string
-  D28E_ASTHMA_MED_TAKE_12M:
-    categories:
-    - biolink:PhenotypicFeature
-    enum:
-    - 'True'
-    - 'False'
-    name_lookup:
-    - limit: 1
-      search_term: # asthma treatment compliance
-    type: string
-  D28F_ASTHMA_14D_NUM_NIGHTS_TEXT:
-    categories:
-    - biolink:PhenotypicFeature
-    type: integer
-  D28G_ASTHMA_14D_LIMIT_DAYS_TEXT:
-    categories:
-    - biolink:PhenotypicFeature
-    type: integer
-  D28H_ASTHMA_14D_NUM_WHEEZE_TEXT:
-    categories:
-    - biolink:PhenotypicFeature
-    type: integer
-  D28_ASTHMA:
-    categories:
-    - biolink:PhenotypicFeature
-    enum:
-    - 'True'
-    - 'False'
-    name_lookup:
-    - limit: 1
-      search_term: # asthma diagnosis
-    type: string
-  DISTANCE:
-    categories:
-    - biolink:ComplexChemicalMixture
-    - biolink:EnvironmentalExposure
-    maximum: 6
-    minimum: 1
-    type: integer
-    name_lookup:
-    - limit: 1
-      search_term: # freeway or roadway exposure
-  DISTANCE2:
-    categories:
-    - biolink:ComplexChemicalMixture
-    - biolink:EnvironmentalExposure
-    maximum: 6
-    minimum: 1
-    type: integer
-    name_lookup:
-    - limit: 1
-      search_term: # freeway or roadway exposure
+#  D28A_ASTHMA_AD_TEXT2:
+#    categories:
+#    - biolink:PhenotypicFeature
+#    enum:
+#    - <5
+#    - 5-17
+#    - 18-44
+#    - 45-64
+#    - 65-89
+#    name_lookup:
+#    - limit: 1
+#      search_term: # age at onset
+#    type: string
+#  D28B_STILL_HAVE_ASTHMA:
+#    categories:
+#    - biolink:PhenotypicFeature
+#    enum:
+#    - 'True'
+#    - 'False'
+#    name_lookup:
+#    - limit: 1
+#      search_term: # asthma diagnosis
+#    type: string
+#  D28C_ASTHMA_EPISODE_12M:
+#    categories:
+#    - biolink:PhenotypicFeature
+#    enum:
+#    - 'True'
+#    - 'False'
+#    name_lookup:
+#    - limit: 1
+#      search_term: # asthma exacerbation
+#    type: string
+#  D28D_ASTHMA_ER_VISIT_12M:
+#    categories:
+#    - biolink:PhenotypicFeature
+#    enum:
+#    - 'True'
+#    - 'False'
+#    name_lookup:
+#    - limit: 1
+#      search_term: # asthma exacerbation
+#    type: string
+#  D28E_ASTHMA_MED_TAKE_12M:
+#    categories:
+#    - biolink:PhenotypicFeature
+#    enum:
+#    - 'True'
+#    - 'False'
+#    name_lookup:
+#    - limit: 1
+#      search_term: # asthma treatment compliance
+#    type: string
+#  D28F_ASTHMA_14D_NUM_NIGHTS_TEXT:
+#    categories:
+#    - biolink:PhenotypicFeature
+#    type: integer
+#  D28G_ASTHMA_14D_LIMIT_DAYS_TEXT:
+#    categories:
+#    - biolink:PhenotypicFeature
+#    type: integer
+#  D28H_ASTHMA_14D_NUM_WHEEZE_TEXT:
+#    categories:
+#    - biolink:PhenotypicFeature
+#    type: integer
+#  D28_ASTHMA:
+#    categories:
+#    - biolink:PhenotypicFeature
+#    enum:
+#    - 'True'
+#    - 'False'
+#    name_lookup:
+#    - limit: 1
+#      search_term: # asthma diagnosis
+#    type: string
+#  DISTANCE:
+#    categories:
+#    - biolink:ComplexChemicalMixture
+#    - biolink:EnvironmentalExposure
+#    maximum: 6
+#    minimum: 1
+#    type: integer
+#    name_lookup:
+#    - limit: 1
+#      search_term: # freeway or roadway exposure
+#  DISTANCE2:
+#    categories:
+#    - biolink:ComplexChemicalMixture
+#    - biolink:EnvironmentalExposure
+#    maximum: 6
+#    minimum: 1
+#    type: integer
+#    name_lookup:
+#    - limit: 1
+#      search_term: # freeway or roadway exposure
   Death:
     categories:
     - biolink:PhenotypicFeature
@@ -1472,132 +1472,132 @@ patient:
     name_lookup:
     - limit: 1
       search_term: extracorporeal life support
-  ESTPROPHOUSEHOLDSNOAUTO_cut:
-    categories:
-    - biolink:EnvironmentalExposure
-    maximum: 4
-    minimum: 1
-    name_lookup:
-    - limit: 1
-      search_term: # household automobile
-    type: integer
-  ESTPROPHOUSEHOLDSNOAUTO_qcut:
-    categories:
-    - biolink:EnvironmentalExposure
-    maximum: 4
-    minimum: 1
-    name_lookup:
-    - limit: 1
-      search_term: # household automobile
-    type: integer
-  ESTPROPPERSONS25PLUSHSMAX_cut:
-    categories:
-    - biolink:EnvironmentalExposure
-    limit: 2
-    maximum: 4
-    minimum: 1
-    search_trem: # number in household
-    type: integer
-  ESTPROPPERSONS25PLUSHSMAX_qcut:
-    categories:
-    - biolink:EnvironmentalExposure
-    maximum: 4
-    minimum: 1
-    name_lookup:
-    - limit: 1
-      search_term: # number in household
-    type: integer
-  ESTPROPPERSONS5PLUSNOENGLISH_cut:
-    categories:
-    - biolink:EnvironmentalExposure
-    maximum: 4
-    minimum: 1
-    name_lookup:
-    - limit: 1
-      search_term: # not proficient in english
-    type: integer
-  ESTPROPPERSONS5PLUSNOENGLISH_qcut:
-    categories:
-    - biolink:EnvironmentalExposure
-    maximum: 4
-    minimum: 1
-    name_lookup:
-    - limit: 1
-      search_term: # not proficient in english
-    type: integer
-  ESTPROPPERSONSNOHEALTHINS_cut:
-    categories:
-    - biolink:EnvironmentalExposure
-    maximum: 4
-    minimum: 1
-    name_lookup:
-    - limit: 1
-      search_term: # health insurance
-    type: integer
-  ESTPROPPERSONSNOHEALTHINS_qcut:
-    categories:
-    - biolink:EnvironmentalExposure
-    maximum: 4
-    minimum: 1
-    name_lookup:
-    - limit: 1
-      search_term: # health insurance
-    type: integer
-  ESTPROPPERSONSNONHISPWHITE_cut:
-    categories:
-    - biolink:EnvironmentalExposure
-    maximum: 4
-    minimum: 1
-    name_lookup:
-    - limit: 1
-      search_term: # non hispanic white
-    type: integer
-  ESTPROPPERSONSNONHISPWHITE_qcut:
-    categories:
-    - biolink:EnvironmentalExposure
-    maximum: 4
-    minimum: 1
-    name_lookup:
-    - limit: 1
-      search_term: # non hispanic white
-    type: integer
-  ESTTOTALPOP:
-    categories:
-    - biolink:EnvironmentalExposure
-    maximum: 3
-    minimum: 1
-    name_lookup:
-    - limit: 1
-      search_term: # population density
-    type: integer
-  ESTTOTALPOP25PLUS_cut:
-    categories:
-    - biolink:EnvironmentalExposure
-    maximum: 5
-    minimum: 1
-    name_lookup:
-    - limit: 1
-      search_term: # population density
-    type: integer
-  ESTTOTALPOP25PLUS_qcut:
-    categories:
-    - biolink:EnvironmentalExposure
-    enum: null
-    name_lookup:
-    - limit: 1
-      search_term: # population density
-    type: integer
-  ETHNICITY:
-    categories:
-    - biolink:PhenotypicFeature
-    enum:
-    - Non-Hispanic/Non-Latino
-    - Unknown/NR
-    - Hispanic Latino
-    name_lookup:
-    - limit: 1
-      search_term: # ethnic group
-    type: string
+#  ESTPROPHOUSEHOLDSNOAUTO_cut:
+#    categories:
+#    - biolink:EnvironmentalExposure
+#    maximum: 4
+#    minimum: 1
+#    name_lookup:
+#    - limit: 1
+#      search_term: # household automobile
+#    type: integer
+#  ESTPROPHOUSEHOLDSNOAUTO_qcut:
+#    categories:
+#    - biolink:EnvironmentalExposure
+#    maximum: 4
+#    minimum: 1
+#    name_lookup:
+#    - limit: 1
+#      search_term: # household automobile
+#    type: integer
+#  ESTPROPPERSONS25PLUSHSMAX_cut:
+#    categories:
+#    - biolink:EnvironmentalExposure
+#    limit: 2
+#    maximum: 4
+#    minimum: 1
+#    search_term: # number in household
+#    type: integer
+#  ESTPROPPERSONS25PLUSHSMAX_qcut:
+#    categories:
+#    - biolink:EnvironmentalExposure
+#    maximum: 4
+#    minimum: 1
+#    name_lookup:
+#    - limit: 1
+#      search_term: # number in household
+#    type: integer
+#  ESTPROPPERSONS5PLUSNOENGLISH_cut:
+#    categories:
+#    - biolink:EnvironmentalExposure
+#    maximum: 4
+#    minimum: 1
+#    name_lookup:
+#    - limit: 1
+#      search_term: # not proficient in english
+#    type: integer
+#  ESTPROPPERSONS5PLUSNOENGLISH_qcut:
+#    categories:
+#    - biolink:EnvironmentalExposure
+#    maximum: 4
+#    minimum: 1
+#    name_lookup:
+#    - limit: 1
+#      search_term: # not proficient in english
+#    type: integer
+#  ESTPROPPERSONSNOHEALTHINS_cut:
+#    categories:
+#    - biolink:EnvironmentalExposure
+#    maximum: 4
+#    minimum: 1
+#    name_lookup:
+#    - limit: 1
+#      search_term: # health insurance
+#    type: integer
+#  ESTPROPPERSONSNOHEALTHINS_qcut:
+#    categories:
+#    - biolink:EnvironmentalExposure
+#    maximum: 4
+#    minimum: 1
+#    name_lookup:
+#    - limit: 1
+#      search_term: # health insurance
+#    type: integer
+#  ESTPROPPERSONSNONHISPWHITE_cut:
+#    categories:
+#    - biolink:EnvironmentalExposure
+#    maximum: 4
+#    minimum: 1
+#    name_lookup:
+#    - limit: 1
+#      search_term: # non hispanic white
+#    type: integer
+#  ESTPROPPERSONSNONHISPWHITE_qcut:
+#    categories:
+#    - biolink:EnvironmentalExposure
+#    maximum: 4
+#    minimum: 1
+#    name_lookup:
+#    - limit: 1
+#      search_term: # non hispanic white
+#    type: integer
+#  ESTTOTALPOP:
+#    categories:
+#    - biolink:EnvironmentalExposure
+#    maximum: 3
+#    minimum: 1
+#    name_lookup:
+#    - limit: 1
+#      search_term: # population density
+#    type: integer
+#  ESTTOTALPOP25PLUS_cut:
+#    categories:
+#    - biolink:EnvironmentalExposure
+#    maximum: 5
+#    minimum: 1
+#    name_lookup:
+#    - limit: 1
+#      search_term: # population density
+#    type: integer
+#  ESTTOTALPOP25PLUS_qcut:
+#    categories:
+#    - biolink:EnvironmentalExposure
+#    enum: null
+#    name_lookup:
+#    - limit: 1
+#      search_term: # population density
+#    type: integer
+#  ETHNICITY:
+#    categories:
+#    - biolink:PhenotypicFeature
+#    enum:
+#    - Non-Hispanic/Non-Latino
+#    - Unknown/NR
+#    - Hispanic Latino
+#    name_lookup:
+#    - limit: 1
+#      search_term: # ethnic group
+#    type: string
   EndometriosisDx:
     categories:
     - biolink:Disease
@@ -2045,16 +2045,16 @@ patient:
     - limit: 1
       search_term: abnormal forced vital capacity
     type: string
-  GENDER:
-    categories:
-    - biolink:PhenotypicFeature
-    enum:
-    - Female
-    - Male
-    type: string
-    name_lookup:
-    - limit: 1
-      search_term: # sex
+#  GENDER:
+#    categories:
+#    - biolink:PhenotypicFeature
+#    enum:
+#    - Female
+#    - Male
+#    type: string
+#    name_lookup:
+#    - limit: 1
+#      search_term: # sex
   GoserelinRx:
     categories:
     - biolink:ChemicalEntity
@@ -2202,20 +2202,20 @@ patient:
     name_lookup:
     - limit: 1
       search_term: intensive care unit
-  IN_EPR:
-    categories:
-    - biolink:PhenotypicFeature
-    enum:
-    - '0'
-    - '1'
-    type: string
-  IN_FINAL_SAMPLE:
-    categories:
-    - biolink:PhenotypicFeature
-    enum:
-    - 'True'
-    - 'False'
-    type: string
+#  IN_EPR:
+#    categories:
+#    - biolink:PhenotypicFeature
+#    enum:
+#    - '0'
+#    - '1'
+#    type: string
+#  IN_FINAL_SAMPLE:
+#    categories:
+#    - biolink:PhenotypicFeature
+#    enum:
+#    - 'True'
+#    - 'False'
+#    type: string
   IN_UNC_Health:
     categories:
     - biolink:PhenotypicFeature
@@ -2414,24 +2414,24 @@ patient:
     name_lookup:
     - limit: 1
       search_term: liver disease diagnosis
-  MEDIANHOUSEHOLDINCOME_cut:
-    categories:
-    - biolink:EnvironmentalExposure
-    maximum: 4
-    minimum: 1
-    type: integer
-    name_lookup:
-    - limit: 1
-      search_term: # household income
-  MEDIANHOUSEHOLDINCOME_qcut:
-    categories:
-    - biolink:EnvironmentalExposure
-    maximum: 4
-    minimum: 1
-    type: integer
-    name_lookup:
-    - limit: 1
-      search_term: # household income
+#  MEDIANHOUSEHOLDINCOME_cut:
+#    categories:
+#    - biolink:EnvironmentalExposure
+#    maximum: 4
+#    minimum: 1
+#    type: integer
+#    name_lookup:
+#    - limit: 1
+#      search_term: # household income
+#  MEDIANHOUSEHOLDINCOME_qcut:
+#    categories:
+#    - biolink:EnvironmentalExposure
+#    maximum: 4
+#    minimum: 1
+#    type: integer
+#    name_lookup:
+#    - limit: 1
+#      search_term: # household income
   MajorRoadwayHighwayExposure:
     categories:
     - biolink:ComplexMolecularMixture
@@ -2740,38 +2740,38 @@ patient:
     name_lookup:
     - limit: 1
       search_term: norepinephrine
-  O3_ANNUAL_AVERAGE_cut:
-    categories:
-    - biolink:ChemicalEntity
-    - biolink:EnvironmentalExposure
-    maximum: 5
-    minimum: 1
-    name_lookup:
-    - limit: 1
-      search_term: # ozone
-    type: integer
-  O3_ANNUAL_AVERAGE_qcut:
-    categories:
-    - biolink:ChemicalEntity
-    - biolink:EnvironmentalExposure
-    maximum: 5
-    minimum: 1
-    name_lookup:
-    - limit: 1
-      search_term: # ozone
-    type: integer
-  O3_N_OBS:
-    categories:
-    - biolink:ChemicalEntity
-    - biolink:EnvironmentalExposure
-    type: integer
-  ORIGINAL_ANALYTIC_SAMPLE:
-    categories:
-    - biolink:PhenotypicFeature
-    enum:
-    - 'True'
-    - 'False'
-    type: string
+#  O3_ANNUAL_AVERAGE_cut:
+#    categories:
+#    - biolink:ChemicalEntity
+#    - biolink:EnvironmentalExposure
+#    maximum: 5
+#    minimum: 1
+#    name_lookup:
+#    - limit: 1
+#      search_term: # ozone
+#    type: integer
+#  O3_ANNUAL_AVERAGE_qcut:
+#    categories:
+#    - biolink:ChemicalEntity
+#    - biolink:EnvironmentalExposure
+#    maximum: 5
+#    minimum: 1
+#    name_lookup:
+#    - limit: 1
+#      search_term: # ozone
+#    type: integer
+#  O3_N_OBS:
+#    categories:
+#    - biolink:ChemicalEntity
+#    - biolink:EnvironmentalExposure
+#    type: integer
+#  ORIGINAL_ANALYTIC_SAMPLE:
+#    categories:
+#    - biolink:PhenotypicFeature
+#    enum:
+#    - 'True'
+#    - 'False'
+#    type: string
   ObesityBMI:
     categories:
     - biolink:PhenotypicFeature
@@ -2818,31 +2818,31 @@ patient:
     name_lookup:
     - limit: 1
       search_term: ovarian cancer diagnosis
-  PM25_ANNUAL_AVERAGE_cut:
-    categories:
-    - biolink:ChemicalEntity
-    - biolink:EnvironmentalExposure
-    maximum: 5
-    minimum: 1
-    name_lookup:
-    - limit: 1
-      search_term: # airborne particulate matter
-    type: integer
-  PM25_ANNUAL_AVERAGE_qcut:
-    categories:
-    - biolink:ChemicalEntity
-    - biolink:EnvironmentalExposure
-    maximum: 5
-    minimum: 1
-    name_lookup:
-    - limit: 1
-      search_term: # airborne particulate matter
-    type: integer
-  PM25_N_OBS:
-    categories:
-    - biolink:ChemicalEntity
-    - biolink:EnvironmentalExposure
-    type: integer
+#  PM25_ANNUAL_AVERAGE_cut:
+#    categories:
+#    - biolink:ChemicalEntity
+#    - biolink:EnvironmentalExposure
+#    maximum: 5
+#    minimum: 1
+#    name_lookup:
+#    - limit: 1
+#      search_term: # airborne particulate matter
+#    type: integer
+#  PM25_ANNUAL_AVERAGE_qcut:
+#    categories:
+#    - biolink:ChemicalEntity
+#    - biolink:EnvironmentalExposure
+#    maximum: 5
+#    minimum: 1
+#    name_lookup:
+#    - limit: 1
+#      search_term: # airborne particulate matter
+#    type: integer
+#  PM25_N_OBS:
+#    categories:
+#    - biolink:ChemicalEntity
+#    - biolink:EnvironmentalExposure
+#    type: integer
   ParoxetineRx:
     categories:
     - biolink:ChemicalEntity
@@ -3035,57 +3035,57 @@ patient:
     name_lookup:
     - limit: 1
       search_term: abnormal oxygen saturation
-  QXAGE:
-    categories:
-    - biolink:PhenotypicFeature
-    enum:
-    - 0-2
-    - 3-17
-    - 18-34
-    - 35-50
-    - 51-69
-    - 70-89
-    type: string
-    name_lookup:
-    - limit: 1
-      search_term: # chronological age
-  QXAGE2:
-    categories:
-    - biolink:PhenotypicFeature
-    enum:
-    - <5
-    - 5-17
-    - 18-44
-    - 45-64
-    - 65-89
-    type: string
-    name_lookup:
-    - limit: 1
-      search_term: # chronological age
-  RACE:
-    categories:
-    - biolink:PhenotypicFeature
-    enum:
-    - White
-    - BAA
-    - Multiple
-    - Unknown/NR
-    - Asian
-    - AIAN
-    - NHOPI
-    type: string
-    name_lookup:
-    - limit: 1
-      search_term: # racial group
-  RESPONDER_STATUS:
-    categories:
-    - biolink:PhenotypicFeature
-    enum:
-    - Neither
-    - Hyper
-    - Hypo
-    - Super Hypo
-    type: string
+#  QXAGE:
+#    categories:
+#    - biolink:PhenotypicFeature
+#    enum:
+#    - 0-2
+#    - 3-17
+#    - 18-34
+#    - 35-50
+#    - 51-69
+#    - 70-89
+#    type: string
+#    name_lookup:
+#    - limit: 1
+#      search_term: # chronological age
+#  QXAGE2:
+#    categories:
+#    - biolink:PhenotypicFeature
+#    enum:
+#    - <5
+#    - 5-17
+#    - 18-44
+#    - 45-64
+#    - 65-89
+#    type: string
+#    name_lookup:
+#    - limit: 1
+#      search_term: # chronological age
+#  RACE:
+#    categories:
+#    - biolink:PhenotypicFeature
+#    enum:
+#    - White
+#    - BAA
+#    - Multiple
+#    - Unknown/NR
+#    - Asian
+#    - AIAN
+#    - NHOPI
+#    type: string
+#    name_lookup:
+#    - limit: 1
+#      search_term: # racial group
+#  RESPONDER_STATUS:
+#    categories:
+#    - biolink:PhenotypicFeature
+#    enum:
+#    - Neither
+#    - Hyper
+#    - Hypo
+#    - Super Hypo
+#    type: string
   RValue_Onset:
     categories:
     - biolink:PhenotypicFeature
@@ -3188,60 +3188,60 @@ patient:
     - '4'
     - '5'
     type: string
-  S177_SMOKE_100_CIG_LIFETIME:
-    categories:
-    - biolink:ComplexChemicalMixture
-    - biolink:EnvironmentalExposure
-    enum:
-    - 'True'
-    - 'False'
-    name_lookup:
-    - limit: 1
-      search_term: # smoker
-    type: string
-  SMOKE_CAT:
-    categories:
-    - biolink:ComplexChemicalMixture
-    - biolink:EnvironmentalExposure
-    enum:
-    - Never
-    - Ever
-    name_lookup:
-    - limit: 1
-      search_term: # smoker
-    type: string
-  SNP1:
-    categories:
-    - biolink:SequenceVariant
-    enum:
-    - A
-    - C
-    - B
-    type: string
-  SNP2:
-    categories:
-    - biolink:SequenceVariant
-    enum:
-    - Z
-    - X
-    - Y
-    type: string
-  SNP3:
-    categories:
-    - biolink:SequenceVariant
-    enum:
-    - E
-    - F
-    - D
-    type: string
-  SNP4:
-    categories:
-    - biolink:SequenceVariant
-    enum:
-    - N
-    - L
-    - M
-    type: string
+#  S177_SMOKE_100_CIG_LIFETIME:
+#    categories:
+#    - biolink:ComplexChemicalMixture
+#    - biolink:EnvironmentalExposure
+#    enum:
+#    - 'True'
+#    - 'False'
+#    name_lookup:
+#    - limit: 1
+#      search_term: # smoker
+#    type: string
+#  SMOKE_CAT:
+#    categories:
+#    - biolink:ComplexChemicalMixture
+#    - biolink:EnvironmentalExposure
+#    enum:
+#    - Never
+#    - Ever
+#    name_lookup:
+#    - limit: 1
+#      search_term: # smoker
+#    type: string
+#  SNP1:
+#    categories:
+#    - biolink:SequenceVariant
+#    enum:
+#    - A
+#    - C
+#    - B
+#    type: string
+#  SNP2:
+#    categories:
+#    - biolink:SequenceVariant
+#    enum:
+#    - Z
+#    - X
+#    - Y
+#    type: string
+#  SNP3:
+#    categories:
+#    - biolink:SequenceVariant
+#    enum:
+#    - E
+#    - F
+#    - D
+#    type: string
+#  SNP4:
+#    categories:
+#    - biolink:SequenceVariant
+#    enum:
+#    - N
+#    - L
+#    - M
+#    type: string
   SalmeterolRx:
     categories:
     - biolink:ChemicalEntity
@@ -3502,93 +3502,93 @@ patient:
     name_lookup:
     - limit: 1
       search_term: venous oxygen saturation abnormal
-  TLR4_AGE:
-    categories:
-    - biolink:PhenotypicFeature
-    enum:
-    - 0-2
-    - 3-17
-    - 18-34
-    - 35-50
-    - 51-69
-    - 70-89
-    name_lookup:
-    - limit: 1
-      search_term: # chronological age
-    type: string
-  TLR4_AGE2:
-    categories:
-    - biolink:PhenotypicFeature
-    enum:
-    - <5
-    - 5-17
-    - 18-44
-    - 45-64
-    - 65-89
-    name_lookup:
-    - limit: 1
-      search_term: # chronological age
-    type: string
-  TLR4_DIST_1X_cut:
-    categories:
-    - biolink:ComplexChemicalMixture
-    - biolink:EnvironmentalExposure
-    maximum: 5
-    minimum: 1
-    name_lookup:
-    - limit: 1
-      search_term: # freeway or roadway exposure
-    type: integer
-  TLR4_DIST_1X_qcut:
-    categories:
-    - biolink:ComplexChemicalMixture
-    - biolink:EnvironmentalExposure
-    maximum: 5
-    minimum: 1
-    name_lookup:
-    - limit: 1
-      search_term: # freeway or roadway exposures
-    type: integer
-  TLR4_DIST_2X_cut:
-    categories:
-    - biolink:ComplexChemicalMixture
-    - biolink:EnvironmentalExposure
-    maximum: 5
-    minimum: 1
-    name_lookup:
-    - limit: 1
-      search_term: # freeway or roadway exposure
-    type: integer
-  TLR4_DIST_2X_qcut:
-    categories:
-    - biolink:ComplexChemicalMixture
-    - biolink:EnvironmentalExposure
-    maximum: 5
-    minimum: 1
-    name_lookup:
-    - limit: 1
-      search_term: # freeway or roadway exposure
-    type: integer
-  TLR4_DIST_3X_cut:
-    categories:
-    - biolink:ComplexChemicalMixture
-    - biolink:EnvironmentalExposure
-    maximum: 5
-    minimum: 1
-    name_lookup:
-    - limit: 1
-      search_term: # freeway or roadway exposure
-    type: integer
-  TLR4_DIST_3X_qcut:
-    categories:
-    - biolink:ComplexChemicalMixture
-    - biolink:EnvironmentalExposure
-    maximum: 5
-    minimum: 1
-    name_lookup:
-    - limit: 1
-      search_term: # freeway or roadway exposure
-    type: integer
+#  TLR4_AGE:
+#    categories:
+#    - biolink:PhenotypicFeature
+#    enum:
+#    - 0-2
+#    - 3-17
+#    - 18-34
+#    - 35-50
+#    - 51-69
+#    - 70-89
+#    name_lookup:
+#    - limit: 1
+#      search_term: chronological age
+#    type: string
+#  TLR4_AGE2:
+#    categories:
+#    - biolink:PhenotypicFeature
+#    enum:
+#    - <5
+#    - 5-17
+#    - 18-44
+#    - 45-64
+#    - 65-89
+#    name_lookup:
+#    - limit: 1
+#      search_term: chronological age
+#    type: string
+#  TLR4_DIST_1X_cut:
+#    categories:
+#    - biolink:ComplexChemicalMixture
+#    - biolink:EnvironmentalExposure
+#    maximum: 5
+#    minimum: 1
+#    name_lookup:
+#    - limit: 1
+#      search_term: freeway or roadway exposure
+#    type: integer
+#  TLR4_DIST_1X_qcut:
+#    categories:
+#    - biolink:ComplexChemicalMixture
+#    - biolink:EnvironmentalExposure
+#    maximum: 5
+#    minimum: 1
+#    name_lookup:
+#    - limit: 1
+#      search_term: freeway or roadway exposures
+#    type: integer
+#  TLR4_DIST_2X_cut:
+#    categories:
+#    - biolink:ComplexChemicalMixture
+#    - biolink:EnvironmentalExposure
+#    maximum: 5
+#    minimum: 1
+#    name_lookup:
+#    - limit: 1
+#      search_term: freeway or roadway exposure
+#    type: integer
+#  TLR4_DIST_2X_qcut:
+#    categories:
+#    - biolink:ComplexChemicalMixture
+#    - biolink:EnvironmentalExposure
+#    maximum: 5
+#    minimum: 1
+#    name_lookup:
+#    - limit: 1
+#      search_term: freeway or roadway exposure
+#    type: integer
+#  TLR4_DIST_3X_cut:
+#    categories:
+#    - biolink:ComplexChemicalMixture
+#    - biolink:EnvironmentalExposure
+#    maximum: 5
+#    minimum: 1
+#    name_lookup:
+#    - limit: 1
+#      search_term: freeway or roadway exposure
+#    type: integer
+#  TLR4_DIST_3X_qcut:
+#    categories:
+#    - biolink:ComplexChemicalMixture
+#    - biolink:EnvironmentalExposure
+#    maximum: 5
+#    minimum: 1
+#    name_lookup:
+#    - limit: 1
+#      search_term: freeway or roadway exposure
+#    type: integer
   TamoxifenRx:
     categories:
     - biolink:ChemicalEntity
