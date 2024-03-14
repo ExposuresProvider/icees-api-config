@@ -140,9 +140,9 @@ patient:
     - biolink:PhenotypicFeature
     maximum: 100
     minimum: 0
-    name_lookup:
-    - limit: 1
-      search_term: chronological age
+    # name_lookup:
+    # - limit: 1
+    #   search_term: chronological age
     type: number
   AlcoholRelatedLiverDiseaseDx:
     categories:
