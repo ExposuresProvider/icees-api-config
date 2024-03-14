@@ -194,9 +194,9 @@ patient:
     - 63
     - 64
     - '>64'
-    name_lookup:
-    - limit: 1
-      search_term: chronological age
+    # name_lookup:
+    # - limit: 1
+    #   search_term: chronological age
     type: integer
 #  Albumin:
 #    categories:
@@ -3082,9 +3082,9 @@ patient:
     - 8
     - 9
     - '>9'
-    name_lookup:
-    - limit: 1
-      search_term: hospitalization
+    # name_lookup:
+    # - limit: 1
+    #   search_term: hospitalization
     type: integer
   TotalEDVisits:
     categories:
@@ -3101,9 +3101,9 @@ patient:
     - 8
     - 9
     - '>9'
-    name_lookup:
-    - limit: 1
-      search_term: hospitalization
+    # name_lookup:
+    # - limit: 1
+    #   search_term: hospitalization
     type: integer
   TotalInpatientVisits:
     categories:
@@ -3120,9 +3120,9 @@ patient:
     - 8
     - 9
     - '>9'
-    name_lookup:
-    - limit: 1
-      search_term: hospitalization
+    # name_lookup:
+    # - limit: 1
+    #   search_term: hospitalization
     type: integer
   TrazodoneRx:
     categories:

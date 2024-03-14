@@ -367,9 +367,9 @@ patient:
     - 63
     - 64
     - '>64'
-    name_lookup:
-    - limit: 1
-      search_term: chronological age
+    # name_lookup:
+    # - limit: 1
+    #   search_term: chronological age
     type: integer
   Albumin:
     categories:
@@ -1305,9 +1305,9 @@ patient:
     - 35-50
     - 51-69
     - 70-89
-    name_lookup:
-    - limit: 1
-      search_term: age at onset
+    # name_lookup:
+    # - limit: 1
+    #   search_term: age at onset
     type: string
 #  D28A_ASTHMA_AD_TEXT2:
 #    categories:
@@ -3701,9 +3701,9 @@ patient:
     - 8
     - 9
     - '>9'
-    name_lookup:
-    - limit: 1
-      search_term: hospitalization
+    # name_lookup:
+    # - limit: 1
+    #   search_term: hospitalization
     type: integer
   TotalEDVisits:
     categories:
@@ -3720,9 +3720,9 @@ patient:
     - 8
     - 9
     - '>9'
-    name_lookup:
-    - limit: 1
-      search_term: hospitalization
+    # name_lookup:
+    # - limit: 1
+    #   search_term: hospitalization
     type: integer
   TotalInpatientVisits:
     categories:
@@ -3739,9 +3739,9 @@ patient:
     - 8
     - 9
     - '>9'
-    name_lookup:
-    - limit: 1
-      search_term: hospitalization
+    # name_lookup:
+    # - limit: 1
+    #   search_term: hospitalization
     type: integer
   TrazodoneRx:
     categories:
