@@ -2692,8 +2692,9 @@ patient:
     - Caucasian
     - African American
     - Asian
-    - Unknown
     - American/Alaskan Native
+    - Unknown
+    - Other(2131-1)
     name_lookup:
     - limit: 1
       search_term: racial group
